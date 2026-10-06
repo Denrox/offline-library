@@ -8,17 +8,10 @@ Categories come from the label's "Purpose".
 """
 
 import collections
-import html
-import json
 import re
 import time
-import urllib.parse
-import urllib.request
 
-from .lib.html2md import html_to_md
-
-API = "https://api.fda.gov/drug/label.json"
-UA = "offline-library (https://github.com/Denrox/offline-library)"
+from .lib.openfda import Group, body, form_key, fetch_all, group_key, has, join_names, label_date, table_md, text
 HOMEOPATHIC = re.compile(r"\bHPUS\b|homo?eopath|\b\d+\s?(X|C|CH|CK|LM|DH)\b", re.I)
 WARNING_FIELDS = ("warnings", "do_not_use", "ask_doctor", "stop_use", "keep_out_of_reach_of_children")
 
@@ -73,77 +66,21 @@ ROUTE_CATEGORIES = {"OPHTHALMIC": "Eye care", "DENTAL": "Oral care", "NASAL": "C
 NO_INFO = re.compile(r"see the (enclosed )?leaflet|read the enclosed|see (the )?package insert", re.I)
 
 
-def fetch_all(product_type):
-    url = f"{API}?" + urllib.parse.urlencode({"search": f'openfda.product_type:"{product_type}"', "limit": 1000})
-    meta = {}
-    while url:
-        for attempt in range(5):
-            try:
-                req = urllib.request.Request(url, headers={"User-Agent": UA})
-                with urllib.request.urlopen(req, timeout=120) as r:
-                    body, link = json.load(r), r.headers.get("Link", "")
-                break
-            except OSError:
-                if attempt == 4:
-                    raise
-                time.sleep(15 * (attempt + 1))
-        meta = body.get("meta", meta)
-        for rec in body["results"]:
-            yield {k: v for k, v in rec.items() if k in KEEP}, meta
-        m = re.search(r'<([^>]+)>;\s*rel="next"', link)
-        url = m.group(1) if m else None
+def for_children(rec):
+    brands = " ".join(rec.get("openfda", {}).get("brand_name", [])).lower()
+    directions = text(rec, "dosage_and_administration").lower()
+    return bool(re.search(r"child|infant|junior|kid|pediatric|baby", brands)
+                or re.search(r"weight \(lb\)|right dose on (the )?chart|dosing (cup|syringe)", directions))
 
 
-def text(rec, field):
-    value = rec.get(field)
-    return " ".join(value).strip() if isinstance(value, list) else ""
-
-
-def has(rec, field):
-    return len(text(rec, field)) >= 10
-
-
-def title_case(name):
-    small = {"and", "of", "with", "in"}
-    return " ".join(w if w in small else w.capitalize() for w in name.lower().split())
-
-
-def join_names(names):
-    names = [title_case(n) for n in names]
-    return names[0] if len(names) == 1 else ", ".join(names[:-1]) + " and " + names[-1]
-
-
-def body(field_text, lead):
-    """Section text without its repeated heading, with "•" items as a list."""
-    t = re.sub(r"\s+", " ", field_text).strip()
-    if lead:
-        t = re.sub(rf"^(?:{lead})\s*:?\s*", "", t, flags=re.I)
-    parts = [p.strip(" ;") for p in re.split(r"\s*[•■●▪◦◆►]\s*", t)]
-    head, items = parts[0], [p for p in parts[1:] if p]
-    lines = [head] if head else []
-    if items:
-        lines.append("\n".join(f"- {i}" for i in items))
-    return "\n\n".join(lines)
-
-
-def table_md(fragment):
-    """A label's HTML table as a markdown table; full-width rows become captions."""
-    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", fragment, flags=re.S | re.I)
-    grid, captions = [], []
-    for row in rows:
-        cells = [re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", c))).strip()
-                 for c in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", row, flags=re.S | re.I)]
-        if len(cells) == 1 or (cells and all(not c for c in cells[1:])):
-            if cells[0]:
-                captions.append(cells[0])
-        elif cells:
-            grid.append([c.replace("|", "/") for c in cells])
-    if not grid:
-        return html_to_md(fragment)
-    width = max(len(r) for r in grid)
-    grid = [r + [""] * (width - len(r)) for r in grid]
-    md = [f"| {' | '.join(grid[0])} |", "|" + " --- |" * width] + [f"| {' | '.join(r)} |" for r in grid[1:]]
-    return "\n\n".join([f"**{c}**" for c in captions] + ["\n".join(md)])
+def score(rec):
+    """Complete adult labels first."""
+    s = sum(1 for f, _, _ in SECTIONS if has(rec, f))
+    if "adult" in text(rec, "dosage_and_administration").lower():
+        s += 3
+    if for_children(rec):
+        s -= 5
+    return s
 
 
 def categories_for(rec, routes):
@@ -153,35 +90,12 @@ def categories_for(rec, routes):
     return found or ["Other"]
 
 
-def form_key(rec):
-    """Active-ingredient wording without spacing/punctuation: same strength and form."""
-    return re.sub(r"[^a-z0-9]", "", text(rec, "active_ingredient").lower())[:80]
-
-
-def for_children(rec):
-    brands = " ".join(rec.get("openfda", {}).get("brand_name", [])).lower()
-    directions = text(rec, "dosage_and_administration").lower()
-    return bool(re.search(r"child|infant|junior|kid|pediatric|baby", brands)
-                or re.search(r"weight \(lb\)|right dose on (the )?chart|dosing (cup|syringe)", directions))
-
-
-def score(rec, common_form=None):
-    """Prefer complete adult labels of the most common adult form, then the newest."""
-    s = sum(1 for f, _, _ in SECTIONS if has(rec, f))
-    if "adult" in text(rec, "dosage_and_administration").lower():
-        s += 3
-    if for_children(rec):
-        s -= 5
-    return (s, form_key(rec) == common_form, rec.get("effective_time", ""))
-
-
 def build(out, source):
     p = source.get("params", {})
-    groups = collections.defaultdict(list)
+    groups = {}
     meta = {}
-    for rec, meta in fetch_all(p.get("product_type", "HUMAN OTC DRUG")):
-        o = rec.get("openfda", {})
-        subs = tuple(sorted(set(o.get("substance_name", []))))
+    for rec, meta in fetch_all(p.get("product_type", "HUMAN OTC DRUG"), KEEP):
+        subs, routes = group_key(rec)
         probe = " ".join(text(rec, f) for f in ("active_ingredient", "purpose")) + text(rec, "indications_and_usage")[:300]
         if not subs or HOMEOPATHIC.search(probe):
             continue
@@ -191,42 +105,31 @@ def build(out, source):
             continue
         if NO_INFO.search(text(rec, "indications_and_usage")[:200] + " " + text(rec, "purpose")[:200]):
             continue
-        routes = tuple(sorted(o.get("route", []))) or ("UNKNOWN",)
-        groups[(subs, routes)].append(rec)
+        group = groups.setdefault((subs, routes), Group(join_names(subs)))
+        group.add(rec, score(rec), form_key(rec), preferred=not for_children(rec))
 
     routes_per_combo = collections.Counter(subs for subs, _ in groups)
     notice = f"> **Note:** {p['notice']}\n\n" if p.get("notice") else ""
 
-    for (subs, routes), recs in groups.items():
-        adult = [r for r in recs if not for_children(r)] or recs
-        common_form = collections.Counter(form_key(r) for r in adult).most_common(1)[0][0]
-        rep = max(recs, key=lambda r: score(r, common_form))
-        name = join_names(subs)
-        title = name
+    for (subs, routes), group in groups.items():
+        rep = group.representative()
+        title = group.name
         if routes_per_combo[subs] > 1:
             title += f" ({', '.join(r.lower() for r in routes)})"
-
-        brands = collections.Counter()
-        for r in recs:
-            for b in r.get("openfda", {}).get("brand_name", []):
-                b = re.sub(r"\s+", " ", b).strip()
-                if b and b.lower() != name.lower():
-                    brands[title_case(b)] += 1
         o = rep.get("openfda", {})
 
         parts = [f"# {title}\n", notice.rstrip("\n") + "\n" if notice else ""]
         facts = [f"**Route:** {', '.join(r.lower() for r in routes)}"]
+        forms = [f for f, _ in group.substances.most_common(6) if f.lower() not in title.lower()]
+        if forms:
+            facts.append(f"**Ingredient forms:** {', '.join(forms)}")
         if o.get("pharm_class_epc"):
             classes = [re.sub(r"\s*\[EPC\]$", "", c) for c in o["pharm_class_epc"]]
             facts.append(f"**Drug class:** {', '.join(classes)}")
-        facts.append(f"**Labels on file:** {len(recs)}")
+        facts.append(f"**Labels on file:** {group.count}")
         parts.append("  \n".join(facts) + "\n")
-        if brands:
-            # Real brand names (Advil, Motrin IB) before store generics ("Equate Ibuprofen").
-            words = {w for s in subs for w in s.lower().split()}
-            ranked = sorted(brands.items(), key=lambda kv: (bool(words & set(kv[0].lower().split())), -kv[1]))
-            top = [b for b, _ in ranked[:25]]
-            more = len(brands) - len(top)
+        top, more = group.brand_names(subs)
+        if top:
             parts.append("**Also sold as:** " + ", ".join(top) + (f" and {more} more" if more > 0 else "") + "\n")
 
         for field, heading, lead in SECTIONS:
@@ -242,10 +145,8 @@ def build(out, source):
                 section += "\n\n" + "\n\n".join(table_md(t) for t in table)
             parts.append(f"{level} {heading}\n\n{section}\n")
 
-        date = rep.get("effective_time", "")
-        date = f"{date[:4]}-{date[4:6]}-{date[6:8]}" if len(date) == 8 else "unknown date"
         parts.append(
-            f"---\n\n*Source: FDA drug label via openFDA, label effective {date}, "
+            f"---\n\n*Source: FDA drug label via openFDA, label effective {label_date(rep)}, "
             f"DailyMed set ID {rep.get('set_id', 'unknown')}. Public domain.*\n"
         )
         out.page(title, "\n".join(x for x in parts if x), categories_for(rep, routes))

@@ -57,6 +57,20 @@
         "product_type": "HUMAN OTC DRUG",
         "notice": "Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure."
       }
+    },
+    {
+      "id": "medicine-drugs-rx",
+      "topic": "Medicine",
+      "title": "Prescription drugs (FDA labels)",
+      "description": "About 2,900 prescription medicines from official U.S. prescribing information: uses, dosage, contraindications, boxed warnings, side effects, interactions, pregnancy and children, overdose, and the Medication Guide for patients where there is one. One page per active ingredient with its brand names.",
+      "converter": "openfda_rx",
+      "source_url": "https://open.fda.gov/apis/drug/label/",
+      "license": "Public domain (CC0, openFDA).",
+      "attribution": "U.S. Food and Drug Administration drug labels via openFDA. FDA does not endorse this collection. Not medical advice.",
+      "params": {
+        "product_type": "HUMAN PRESCRIPTION DRUG",
+        "notice": "Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice."
+      }
     }
   ]
 }
