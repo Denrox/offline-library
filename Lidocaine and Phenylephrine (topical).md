@@ -3,55 +3,64 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Drug class:** Amide Local Anesthetic, Antiarrhythmic, alpha-1 Adrenergic Agonist  
-**Labels on file:** 1
+**Ingredient forms:** Phenylephrine Hydrochloride, Lidocaine Hydrochloride  
+**Drug class:** Amide Local Anesthetic, Antiarrhythmic  
+**Labels on file:** 31
 
-**Also sold as:** Hemorrhoid Master
+**Also sold as:** Hemorrhoid Master, Dch Rapid Relief Hemorrhoidal, Tina Davies Icecream Hemorrhoidal, Preparation H Rapid Relief, Numb520spray, Hemorrohoid Master Cream, Treatonic Hemorrhoid Treatment, Comfort Candy Hemorrhoidal, Dr.seymour Butts Hemorrhoid, Vamy Hemorrhoid, Alveora Hemorrhoid Master, Natucure Hemorrhoid, Healmusz Hemorrhoid Fissure, Dermfree Hemorrhoid, Nicovito Hemorrhoid Master, Serynth Hemorrhoid, Dr.harry Comfort Zone Cream, The Femme Fix Hemorrhoid Treatment, Tina Davies Icejelly Hemorrhoidal, Numb520, Tina Davies Icecream, Rrhoid Rage Hemorrhoidal, Liposomal Hemorrhoid Master, Dr Butlers Hemorrhoid and Fissure Pf, Terramed Just Think Comfort Hemorrhoidal Wipes and 4 more
 
 ## Active ingredients
 
-Lidocaine 4.00% Phenylephrine HCl 0.25% Purpose Analgesic (Pain Relief) (Vasoconstrictor)
+Lidocaine 5% Phenylephrine HCl 0.25%
 
 ## Purpose
 
-Analgesic (Pain Relief) (Vasoconstrictor)
+Local anesthetic Vasoconstrictor
 
 ## Uses
 
-Helps relieve the anorectal itching and discomfort in the perianal area. Temporarily reduces swelling associated with irritation in hemorrhoids and other anorectal disorders. Temporarily shrinks hemorrhoidal tissue.
+Helps relieve the local discomfort and itching associated with hemorrhoids For the temporary relief of pain, soreness or burning Temporarily reduces the swelling associated with irritation in hemorrhoids Temporarily shrinks hemorrhoidal tissue
 
 ## Warnings
 
-For external and or intrarectal use only. Stop use and ask a doctor If condition worsens or does not improve within 7 days. in case of bleeding. if allergic reaction to product occurs. If the symptoms being treated does not subside or if redness. irritation, swelling, pain, or other sympoms develop or increase. When using this product do not exceed the recommended daily dosage unless directed by a doctor. Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor. with an applicator if the introduction of the applicator into the rectum causes additional pain. Consult doctor promptly. Ask a doctor before use if you are presently taking a prescription drug for high blood pressure or depression. Keep out of reach of children: If swallowed, seek medical help or contact a Poison Control Center immediately.
-
-### Do not use
-
-this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor. with an applicator if the introduction of the applicator into the rectum causes additional pain. Consult doctor promptly.
+For external use only Flammable: Do not use while smoking or near heat or flame Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product do not exceed the recommended daily dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator Warning - avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Keep out of reach of children. Warning - use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. Stop use and ask a doctor if bleeding occurs condition worsens or does not improve within 7 days an allergic reaction develops the symptom being treated does not subside or if redness, irritation, swelling, pain, or other symptoms develop or increase If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
 
 ### Ask a doctor before use if
+
+you have heart disease high blood pressure thyroid disease diabetes difficulty in urination due to enlargement of the prostate gland
+
+### Ask a doctor or pharmacist before use if
 
 you are presently taking a prescription drug for high blood pressure or depression.
 
 ### When using this product
 
-do not exceed the recommended daily dosage unless directed by a doctor.
+do not exceed the recommended daily dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator Warning - avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120°F. Keep out of reach of children. Warning - use only as directed. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal.
 
 ### Stop use and ask a doctor if
 
-condition worsens or does not improve within 7 days. in case of bleeding. if allergic reaction to product occurs. If the symptoms being treated does not subside or if redness. irritation, swelling, pain, or other sympoms develop or increase.
+bleeding occurs condition worsens or does not improve within 7 days an allergic reaction develops the symptom being treated does not subside or if redness, irritation, swelling, pain, or other symptoms develop or increase
+
+### Pregnancy or breast-feeding
+
+If pregnant or breast-feeding, ask a health professional before use.
 
 ### Keep out of reach of children
 
-Keep out of reach of children: If swallowed, seek medical help or contact a Poison Control Center immediately.
+Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
 
 ## Directions
 
-Adults : Apply to the affected area up to 3 times dialy. Children under 12 years of age: consult a doctor. When practical, clean affected area with mild soap and warm water and rinse thoroughly. Gently dry (patting or blotting) with tissue or soft cloth before use. To use dispensing cap, attach it to tube, lubricate well, then gently insert part way into anus and squeeze tube to deliver medication. Thoroughly cleanse dispensing cap after use with mild soap and warm water and rinse thoroughly.
+Adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing pad Gently dry by patting or blotting with toilet tissue or a soft cloth before application of this product Shake well before using Hold 3 to 6” away from rectal area, spray to moisten and then wipe off excess, if desired Apply externally to the affected area up to 4 times daily Children under 12 years of age: consult a doctor
+
+## Other information
+
+Store at 20-25°C (68-77°F)
 
 ## Inactive ingredients
 
-Aloe Barbadensis Leaf Juice, Ascorbic Acid, Ascorbyl Palmitate, Caprylyl Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Cetearyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract, Cholecalciferol, Cholesterol, Diisopropyl Sebacate, Dimethyl Isosorbide, Dodecane, Ethoxydiglycol, Ethylhexylglycerin, Hexylene Glycol, Hydrocortisone, Isododecane, Isopropyl Myristate, Lecithin, Mentha Piperita (Peppermint) Oil, Microcrystalline Wax, Mineral Oil, Octyldodecanol, Panax Ginseng Root Extract, PEG-8 Dimethicone, Petrolatum, Phenoxyethanol, Phospholipids, Polyethylene, Polysorbate 80, Propylene Glycol, Punica Granatum Extract, Pyridoxine HCl, Retinyl Palmitate, Silica, Sodium Propoxyhydroxypropyl Thiosulfate Silica, Stearic Acid, Tocopheryl Acetate, Triethoxycaprylylsilane, Zea Mays (Corn) Oil, Zinc Oxide.
+aloe barbadensis leaf juice, citric acid, disodium EDTA, glycerin, isobutane, malic acid, menthol, propyl gallate, propylene glycol, SD alcohol 40-B, sodium benzoate, water
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-02-09, DailyMed set ID 41292d65-dabe-4bc3-872f-34a3912aa342. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2024-02-29, DailyMed set ID 27db1d58-4609-4a80-af2f-9e36f10482e1. Public domain.*

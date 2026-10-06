@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Phenylephrine Hydrochloride  
 **Drug class:** alpha-1 Adrenergic Agonist  
-**Labels on file:** 1
+**Labels on file:** 10
 
-**Also sold as:** Cooling Gel
+**Also sold as:** Hemorroidal Cooling Gel, Hemorrhoidal Cooling Gel, Walgreens, Norms Hemorrhoid, Cooling Gel, Drmitsui Medical Haemorrhoid, Preparation H Cooling Gel, Dr. Butler Hemorrhoid Treatment, Drs. Pharmacy Hemorrhoidal Cooling
 
 ## Active ingredients
 

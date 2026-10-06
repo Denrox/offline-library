@@ -6,8 +6,6 @@
 **Drug class:** Non-Standardized Plant Allergenic Extract  
 **Labels on file:** 2
 
-**Also sold as:** Nux Vomica
-
 ## Active ingredients
 
 * See product name on front panel (**contains 0.443 mg of the active ingredient per pellet). Nux vomica 1M Less than 10 -12 mg strychnine alkaloids per pellet

@@ -5,8 +5,6 @@
 **Route:** topical  
 **Labels on file:** 1
 
-**Also sold as:** Arnica 30
-
 ## Active ingredients
 
 Arnica extract

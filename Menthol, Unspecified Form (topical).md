@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 133
 
-**Also sold as:** Biofreeze, Biofreeze Professional, Zims Max Freeze Pro Formula, Menthol, Stopain Clinical, Lactigo, Universal Ice Cold Analgesic, 4% Menthol Pain Relief, 4% Menthol Cold Therapy, 2.5% Menthol Pain Relief, Cold and Hot Medicated, Icy Hot Medicated, Back, Medterra Pain Relief Menthol Roll-on, Medterra Pain Relief 500mg Hemp Menthol Cream, Medterra Pain Relief 1000mg Hemp Menthol Cream, Biofreeze Overnight Relief, Green Compass Reduce Pain Relief with Menthol, Cvs Health Pain Relief Foot, Target Up and Up Pain Relief Menthol Topical Analgesic Roll-on, Dzul Arthritis Pain Relief, Fast Freeze Pain Relieving, Bonicaeasex 24 Hour Menthol Pain Relieving, Muscle Rub Pain Reliever Gel, Walgreens Ice Blue Pain Relieving Topical Analgesic, Canker Care Plus and 89 more
+**Also sold as:** Biofreeze, Biofreeze Professional, Zims Max Freeze Pro Formula, Stopain Clinical, Lactigo, Universal Ice Cold Analgesic, Cold and Hot Medicated, Icy Hot Medicated, Back, Biofreeze Overnight Relief, Cvs Health Pain Relief Foot, Dzul Arthritis Pain Relief, Fast Freeze Pain Relieving, Muscle Rub Pain Reliever Gel, Walgreens Ice Blue Pain Relieving Topical Analgesic, Canker Care Plus, Lip Clear Lysine Plus, Dg Health Cold Zone Pain Relieving Topical Analgesic, Free and Pure Cold Therapy Pain Relief, Stopain Clinical Roll-on, Icy Freeze, Rugby Ice Blue External Analgesic, Overnight Cold Therapy Pain Relief, Biofreeze Foot Cream, Pain Relieving Cooling, Kens Pain and Arthritis Formula and 88 more
 
 ## Active ingredients
 

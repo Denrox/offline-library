@@ -3,14 +3,14 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Drug class:** Allylamine Antifungal  
-**Labels on file:** 1
+**Ingredient forms:** Terbinafine Hydrochloride  
+**Labels on file:** 32
 
-**Also sold as:** Toenail Fungus Treatment
+**Also sold as:** Lamisil At Cream, Athletes Foot, Good Neighbor Pharmacy, Lamisil At, Cvs, Curist Antifungal Relief, Silka Jock Itch, Kroger Antifungal, Athlete Foot Cream, Pharmbanner Tinea Versicolor Cream, Toenail Fungus Treatment, Cvs Pharmacy Athletes Foot, Antifungal, Silka Antifungal, Walgreens Athletes Foot, Equate Athletes Foot, Lamisil At Terbinafine Hydrochloride
 
 ## Active ingredients
 
-Terbinafine 1%
+Terbinafine hydrochloride 1%
 
 ## Purpose
 
@@ -18,7 +18,10 @@ Antifungal
 
 ## Uses
 
-For the effective treatment of nail fungus, discoloration, thickening, splitting, crumbling and brittleness.
+- Cures most athlete’s foot (tinea pedis)
+- Cures most jock itch (tinea cruris) and ringworm (tinea corporis)
+- Relieves itching, burning, cracking and scaling which accompany these conditions
+- Also helps relieve symptoms of tinea versicolor (pityriasis versicolor)
 
 ## Warnings
 
@@ -26,28 +29,48 @@ For external use only.
 
 ### Do not use
 
-If on children under 2 years of age unless directed by a doctor.
+- On nails or scalp
+- In or near the mouth or eyes
+- For vaginal yeast infections
+
+### Ask a doctor before use if
+
+Ask Doctor
+
+- Irritation occurs or gets worse
+- Symptoms do not improve after 4 weeks
 
 ### When using this product
 
-·Avoid contact with eyes.
+When Using
+
+- Do not get into eyes. If contact occurs, rinse thoroughly with water.
 
 ### Stop use and ask a doctor if
 
-Irritation occurs or if there is no improvement within 4 weeks.
+Stop Use
+
+- Irritation occurs or gets worse
+- Symptoms do not improve after 4 weeks
 
 ### Keep out of reach of children
 
-If swallowed, get medical help or contact a Poison Control Center right away.
+Keep Out Of Reach Of Children If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
 
 ## Directions
 
-Apply the product twice a day, in the morning and at night. Soak nails in warm water to soften, then gently file affected nails. Clean the affected area with soap and water and dry thoroughly. Directly to affected nail Allow a few minutes to dry after each. Use daily for 4-6 weeks, depending on the condition of the area needing repair.
+- Adults and children 12 years and older: - Wash the affected area with soap and water and dry completely before applying. - Apply a thin layer to affected skin once or twice daily as directed. - For tinea versicolor: apply once daily for 2 weeks. - Wash hands after each use.
+- Children under 12 years: ask a doctor.
+
+## Other information
+
+- Store at controlled room temperature 20°–25 °C (68°–77 °F).
+- Do not use if the seal is broken.
 
 ## Inactive ingredients
 
-ALCOHOL,DIMETHICONE,CETOSTEARYL ALCOHOL,TEA TREE OIL,PROPYLENE GLYCOL,TOCOPHEROL,SAFFLOWER OIL,WATER
+Purified Water (Aqua), Cetyl Alcohol, Stearyl Alcohol, Cetyl Palmitate, Isopropyl Myristate, Polysorbate 60, Sorbitan Monostearate, Benzyl Alcohol, Sodium Hydroxide, Panthenol(1%), Urea(4%), Menthol(0.5%)
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-03-24, DailyMed set ID 4dc1d7f7-e4ae-c54b-e063-6394a90aa420. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2026-02-12, DailyMed set ID 3db832f4-630d-72a2-e063-6394a90a08dc. Public domain.*

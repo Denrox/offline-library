@@ -6,7 +6,7 @@
 **Drug class:** Nonsteroidal Anti-inflammatory Drug, Platelet Aggregation Inhibitor, Central Nervous System Stimulant, Methylxanthine  
 **Labels on file:** 163
 
-**Also sold as:** Headache Relief Extra Strength, Headache Relief, Migraine Relief, Excedrin Migraine, Extra Strength Headache Relief, Excedrin Extra Strength Pain Reliever, Good Sense Migraine Formula, Migraine Formula, Excedrin Extra Strength Headache, Goodys Extra Strength, Medique Pain Off, Dolodol, Gencare Headache Relief, Dg Health Migraine Relief, Extra Strength Pain Reliever, Topcare Migraine Relief, Basic Care Migraine Relief, Goodys Max, Extra Strength Headache, Caseys 4good, Publix Super Markets Inc, Extra Strength Headache, Lil Drug Store, Valumeds Extra Strength Headache Relief, Agrifen, Amazon Basic Care Migraine Relief, Excedrin Extra Strength Geltabs and 55 more
+**Also sold as:** Headache Relief Extra Strength, Headache Relief, Migraine Relief, Excedrin Migraine, Extra Strength Headache Relief, Excedrin Extra Strength Pain Reliever, Good Sense Migraine Formula, Migraine Formula, Excedrin Extra Strength Headache, Goodys Extra Strength, Medique Pain Off, Dolodol, Gencare Headache Relief, Dg Health Migraine Relief, Extra Strength Pain Reliever, Topcare Migraine Relief, Basic Care Migraine Relief, Goodys Max, Extra Strength Headache, Caseys 4good, Publix Super Markets Inc, Extra Strength Headache, Lil Drug Store, Valumeds Extra Strength Headache Relief, Agrifen, Amazon Basic Care Migraine Relief, Excedrin Extra Strength Geltabs and 49 more
 
 ## Active ingredients
 

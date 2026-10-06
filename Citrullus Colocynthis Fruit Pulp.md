@@ -5,8 +5,6 @@
 **Route:** oral  
 **Labels on file:** 2
 
-**Also sold as:** Colocynthis
-
 ## Active ingredients
 
 Colocynthis 1M (**contains 0.443 mg of the active ingredient per pellet)

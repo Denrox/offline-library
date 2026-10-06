@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 17
 
-**Also sold as:** Harris Teeter, Fleet, Oil, Leader Mineral Oil, Cvs Mineral Oil, Humco Mineral Oil Heavy, Mineral Oil Heavy
+**Also sold as:** Harris Teeter, Fleet, Leader Mineral Oil, Cvs Mineral Oil, Humco Mineral Oil Heavy, Mineral Oil Heavy
 
 ## Active ingredients
 

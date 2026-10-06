@@ -5,7 +5,7 @@
 **Route:** ophthalmic  
 **Labels on file:** 4
 
-**Also sold as:** Vedlube, Lubricant Eye Pm, Mineral Oil/white Petrolatum
+**Also sold as:** Vedlube, Lubricant Eye Pm
 
 ## Active ingredients
 

@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 4
 
-**Also sold as:** Trimol, Ichthammol 20%
+**Also sold as:** Trimol
 
 ## Active ingredients
 

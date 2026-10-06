@@ -1,8 +1,9 @@
-# .beta.-citronellol, (r)-, Alcohol, Butylated Hydroxytoluene, C12-20 Acid Peg-8 Ester, Cetearyl Ethylhexanoate, Ethylhexylglycerin, Fragrance 13576, Glycerin, Glyceryl Monostearate, Grape Seed Oil, Hydroxyacetophenone, Isomethyl-.alpha.-ionone, Linalool, (+/-)-, Palmitic Acid, Perlite, Phenoxyethanol, Propylene Glycol, Starch, Rice, Stearic Acid, Titanium Dioxide, Trolamine and Water
+# .beta.-citronellol, (r)-, Alcohol, Butylated Hydroxytoluene, C12-20 Acid Peg-8 Ester, Cetearyl Ethylhexanoate, Ethylhexylglycerin, Fragrance 13576, Glycerin, Glyceryl Monostearate, Grape Seed Oil, Hydroxyacetophenone, Isomethyl-.alpha.-ionone, Linalool, (+/-)-, Palmitic Acid, Perlite, Phenoxyethanol, Propylene, Starch, Rice, Stearic Acid, Titanium Dioxide, Trolamine and Water
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Propylene Glycol  
 **Drug class:** Non-Standardized Chemical Allergen  
 **Labels on file:** 1
 

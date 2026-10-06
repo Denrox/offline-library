@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 15
 
-**Also sold as:** Earths Care Anti-itch, Mentholatum Original, Eternal Spirit Beauty Painless Pain Relieving, Eternal Spirit Beauty Pain Relief with Hemp, Pain Relieving Liniment, Menthol, Camphor, Menthol Camphor Cough Suppressant Topical Analgesic Rub
+**Also sold as:** Earths Care Anti-itch, Mentholatum Original, Eternal Spirit Beauty Painless Pain Relieving, Eternal Spirit Beauty Pain Relief with Hemp, Pain Relieving Liniment, Menthol Camphor Cough Suppressant Topical Analgesic Rub
 
 ## Active ingredients
 

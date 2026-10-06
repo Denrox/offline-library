@@ -3,47 +3,51 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Drug class:** Ester Local Anesthetic  
-**Labels on file:** 3
+**Ingredient forms:** Tetracaine Hydrochloride  
+**Labels on file:** 5
 
-**Also sold as:** Blt 3, Painless Tattoo 3, Numfast Tetracaine Green
+**Also sold as:** Neuromed Topical Analgesic La, Blt 3, Painless Tattoo 3, Numfast Tetracaine Green
 
 ## Active ingredients
 
-Tetracaine 2% w/w Purpose Local Anesthetic
+​Active Ingredients Tetracaine HCL 2.0% w/w
 
 ## Purpose
 
-Local Anesthetic
+​Purpose External Analgesic
 
 ## Uses
 
-Temporarily relieves pain from minor scrapes
+​Uses For temporary relief of pain and itching due to minor skin irritation
 
 ## Warnings
 
-For External Use only When using this product Do not get into the eyes Do not use more than directed Do not swallow Stop use and ask a doctor if pain worsens or does not improve within 7 days or cleans up and appears again in a few days ​you develop an allergy Keep out of reach of children If swallowed, get medical help right away or contact a Poison Control Center right away.
+​For external use only Avoid contact with eyes
 
-### When using this product
+### Do not use
 
-Do not get into the eyes Do not use more than directed Do not swallow
+​Do not use ​ in large quantities, particularly over raw surfaces or blistered areas
 
 ### Stop use and ask a doctor if
 
-pain worsens or does not improve within 7 days or cleans up and appears again in a few days ​you develop an allergy
+​Stop use and ask a doctor if ​
+
+- Condition worsens, or if symptoms persist for more then 7 days or clear up and occur again within a few days. Discontinue use.
 
 ### Keep out of reach of children
 
-Keep out of reach of children If swallowed, get medical help right away or contact a Poison Control Center right away.
+​Keep out of reach of children ​
+
+- If product is swallowed, get medical help or contact a Poison Control Center right away.
 
 ## Directions
 
-​Children under 12 years-ask a doctor Adults: Apply 1-2 gm to desired area and wait 12 to 60 minutes. Remove excess. May repeat 2-3 times/day.
+​Directions For adults and children two-years or older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: consult a physician.
 
 ## Inactive ingredients
 
-Water (Aqua), Mineral Oil, Petrolatum, Stearyl Alcohol, Propylene Glycol, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Ceteareth-20, Disodium EDTA, Carbomer, Triethanolamine, Propylparaben, Methylparaben, Diazolidinyl Urea, Blue 1, Yellow 10, BHT
+​Inactive Ingredients Aqua (Deionized Water), Arnica Montana Flower Extract, C13-14 Isoparaffin, Chondroitin Sulfate, Emu Oil, Ethoxydiglycol, Ethylhexylglycerin, Glucosamine Sulfate, Isopropyl Palmitate, Laureth-7, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Methylsulfonylmethane (MSM), Phenoxyethanol, Polyacrylamide, Propylene Glycol, Stearic Acid, Triethanolamine
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2023-10-19, DailyMed set ID 77d9e6ea-1cd3-4447-ba74-01cd7143e27c. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2025-11-12, DailyMed set ID 3c1e3a1d-f42b-499d-a445-1d1d3dd26c19. Public domain.*

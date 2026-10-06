@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Benzocaine Hydrochloride  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 15
+**Labels on file:** 16
 
-**Also sold as:** Healthwise Feminine Anti-itch Cream, Caring Mills Vaginal Anti-itch Cream, Thera Plus Maximum Strength Feminine Anti-itch, Maximum Otc Strength Feminine Anti-itch Creme, Feminine Anti Itch Cream, Anti-itch Medicated Maximum Strength, Feminine Anti-itch Creme, Vagisil Anti-itch Medicated Creme Maximum Strength, Meijer Vagicaine, Vagisil Anti-itch Creme Regular Strength, Family Wellness, Mirakel Pain and Itch Relief
+**Also sold as:** Healthwise Feminine Anti-itch Cream, Caring Mills Vaginal Anti-itch Cream, Thera Plus Maximum Strength Feminine Anti-itch, Equate Vagicaine, Maximum Otc Strength Feminine Anti-itch Creme, Feminine Anti Itch Cream, Anti-itch Medicated Maximum Strength, Feminine Anti-itch Creme, Vagisil Anti-itch Medicated Creme Maximum Strength, Meijer Vagicaine, Vagisil Anti-itch Creme Regular Strength, Family Wellness, Mirakel Pain and Itch Relief
 
 ## Active ingredients
 

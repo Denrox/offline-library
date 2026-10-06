@@ -5,8 +5,6 @@
 **Route:** oral  
 **Labels on file:** 1
 
-**Also sold as:** Caulophyllum Thalictroides
-
 ## Active ingredients
 
 Caulophyllum thalictroides 1M (**contains 0.443 mg of the active ingredient per pellet)

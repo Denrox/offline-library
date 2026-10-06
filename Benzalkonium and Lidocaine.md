@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Benzalkonium Chloride, Lidocaine Hydrochloride, Lidocaine Hcl, Lidocaine Hydrochloride Anhydrous  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 1
+**Labels on file:** 95
 
-**Also sold as:** Walgreens Burn Gel Packettes
+**Also sold as:** Burn Cream, First Aid Burn Cream, First Aid and Burn, Alocane Max, Alocane Plus, First Aid Burn, First Aid Only First Aid/burn, Refill 3, American Red Cross First Aid, Medline, First Shield, Medi-first, Health and Beyond Burn, Target Up and Up Pain Relieving Cleansing, Thompson Burn Cream with Lidocain, Firstar Burn, Avon Footworks Maximum Strength Cracked Heel, Walgreens Max Strength Burn Gel, Bactine Max, Foot Works Maximum Cracked Heel, Up and Up Max Pain Relieving Cleansing, Burn, Safly Burn, Signature Select Pain Relieving, Walgreens Burn Gel Packettes and 46 more
 
 ## Active ingredients
 

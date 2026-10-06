@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Lidocaine Hydrochloride  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 3
+**Labels on file:** 4
 
-**Also sold as:** Absorbine Jr Pro Cream, Absorbine Jr. Pro Rollon, Absorbine Jr Pro No Mess Roll-on Plus
+**Also sold as:** Absorbine Jr Pro Cream, Absorbine Jr. Pro Rollon, Absorbine Jr Pro No Mess Roll-on Plus, Absorbine Jr.
 
 ## Active ingredients
 

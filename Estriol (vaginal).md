@@ -5,8 +5,6 @@
 **Route:** vaginal  
 **Labels on file:** 1
 
-**Also sold as:** Estriol Cream
-
 ## Active ingredients
 
 Estriol 0.2%

@@ -1,8 +1,9 @@
-# 1000 Mw), Ascorbyl Glucoside, Benzoic Acid, Dehydroacetic Acid, Dicaprylyl Ether, Fragrance 13576, Glycerin, Hydrolyzed Bovine Elastin (base, Hydroxycitronellal, Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer (100000 Mpa.s At 1.5%), Lecithin, Soybean, Limonene, (+)-, Phenoxyethanol, Polysorbate 60, Propanediol, Sorbitan Isostearate, Tocopherol, Water and Xanthan Gum
+# 1000 Mw), Ascorbyl Glucoside, Benzoic Acid, Dehydroacetic Acid, Dicaprylyl Ether, Fragrance 13576, Glycerin, Hydrolyzed Bovine Elastin, Hydroxycitronellal, Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer (100000 Mpa.s At 1.5%), Lecithin, Soybean, Limonene, (+)-, Phenoxyethanol, Polysorbate 60, Propanediol, Sorbitan Isostearate, Tocopherol, Water and Xanthan Gum
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Hydrolyzed Bovine Elastin (base  
 **Drug class:** Non-Standardized Chemical Allergen, Standardized Chemical Allergen, Nitrogen Binding Agent  
 **Labels on file:** 1
 

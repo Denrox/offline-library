@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 13
 
-**Also sold as:** Lmnoop Feminine Cream, Myever, Flocean Intimate Comfort, Morovan, Lemoto Bioidentical Estrogen Vaginal Cream, Estriol Cream, Vigority Estriol Cream, Dvo Estriol Cream, Bunuss Estriol Face, Beilloso Women Estriol, Jovynex Women Estriol
+**Also sold as:** Lmnoop Feminine Cream, Myever, Flocean Intimate Comfort, Morovan, Lemoto Bioidentical Estrogen Vaginal Cream, Vigority Estriol Cream, Dvo Estriol Cream, Bunuss Estriol Face, Beilloso Women Estriol, Jovynex Women Estriol
 
 ## Active ingredients
 

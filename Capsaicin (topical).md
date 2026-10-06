@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 119
 
-**Also sold as:** Nufabrx Medicine Infused Socks, Nufabrx Arm Sleeve, Nufabrx Knee Sleeve, Rapid Relief, Nufabrx Medicine Infused Ankle Sleeve, Capsadyn, Satogesic Hot, Walgreens Roll-on, Nufabrx Medicine Infused Wrist Sleeve, Heat Pain Relief, Nufabrx Medicine Infused Elbow Sleeve, Toast Screamin Hot, Quali Yi Tiao Gen Pain Patch, Capzasin Hp Arthritis Pain Relief, Naturulz Ultimate Healing, Nufabrx Elbow Sleeve, Nufabrx Leg Sleeve, Nufabrx Shin Sleeve, Nufabrx Ankle Sleeve, Careall Arthritis and Muscle, Easment Advanced Absorption Cream, Drs Pharmacy Pain Relief Muscle Arithritis, High Potency Pain Relief, Spraypain Away Lavender, Roll Pain Away and 67 more
+**Also sold as:** Nufabrx Medicine Infused Socks, Nufabrx Arm Sleeve, Nufabrx Knee Sleeve, Rapid Relief, Nufabrx Medicine Infused Ankle Sleeve, Capsadyn, Satogesic Hot, Walgreens Roll-on, Nufabrx Medicine Infused Wrist Sleeve, Heat Pain Relief, Nufabrx Medicine Infused Elbow Sleeve, Toast Screamin Hot, Quali Yi Tiao Gen Pain Patch, Capzasin Hp Arthritis Pain Relief, Naturulz Ultimate Healing, Nufabrx Elbow Sleeve, Nufabrx Leg Sleeve, Nufabrx Shin Sleeve, Nufabrx Ankle Sleeve, Careall Arthritis and Muscle, Easment Advanced Absorption Cream, Drs Pharmacy Pain Relief Muscle Arithritis, High Potency Pain Relief, Spraypain Away Lavender, Roll Pain Away and 62 more
 
 ## Active ingredients
 

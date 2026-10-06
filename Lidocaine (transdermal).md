@@ -6,7 +6,7 @@
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
 **Labels on file:** 11
 
-**Also sold as:** Lidotrode, Alivio, Lidocaine Patch 4%, Lidocaine 4%, 4% Lidocaine Pain Relief Patch, Cvs Health Lidocaine Pain Relief, Cvs Health Xl Lidocaine Pain Relief, Cvs Health Lidocaine Pain-relieving
+**Also sold as:** Lidotrode, Alivio, Lidocaine Patch 4%, 4% Lidocaine Pain Relief Patch, Cvs Health Lidocaine Pain Relief, Cvs Health Xl Lidocaine Pain Relief, Cvs Health Lidocaine Pain-relieving
 
 ## Active ingredients
 

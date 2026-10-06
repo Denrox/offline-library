@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 287
 
-**Also sold as:** Tolnafate, Antifungal Liquid, Maximum Strength Antifungal Liquid, Tinactin, Athletes Foot, Hongo Killer, Clarus Antifungal, Foot Odor Control Powder, Nabrace Wipes For Ringworm, Jockitch and Athlete Feet, Hi Vetic, Dermatool Fungal Nail Treatment, Fungal Nail Patches, Inlifay Antifungal, Hermon Antifungal Cleansing Bar, Qqe Fungal Nail Treatment, Sunmark Antifungal, Fungi Nail Toe and Foot, Novonail Solution, Formula 3, Terramed Just Think Comfort Armor Antifungal Body Wash Tea Tree, Dr.scholl S Odor X Athlete S Foot, Antifungal Foot, Toe Fungus, Tritolnacide C, Antifungal Liquid Maximum Strength and 176 more
+**Also sold as:** Tolnafate, Antifungal Liquid, Maximum Strength Antifungal Liquid, Tinactin, Athletes Foot, Hongo Killer, Clarus Antifungal, Foot Odor Control Powder, Nabrace Wipes For Ringworm, Jockitch and Athlete Feet, Hi Vetic, Dermatool Fungal Nail Treatment, Fungal Nail Patches, Inlifay Antifungal, Hermon Antifungal Cleansing Bar, Qqe Fungal Nail Treatment, Sunmark Antifungal, Fungi Nail Toe and Foot, Novonail Solution, Formula 3, Terramed Just Think Comfort Armor Antifungal Body Wash Tea Tree, Dr.scholl S Odor X Athlete S Foot, Antifungal Foot, Toe Fungus, Tritolnacide C, Antifungal Liquid Maximum Strength and 175 more
 
 ## Active ingredients
 

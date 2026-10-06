@@ -1,4 +1,4 @@
-# Alcohol, Allantoin, Arctium Lappa Root, Citral, Fd&c Yellow No. 5, Fragrance 13576, Glycerin, Limonene, (+)-, Methylparaben, Niacinamide, Panthenol, Polyoxyl 40 Hydrogenated Castor Oil, Propylene Glycol, Riboflavin, Tioxolone, Water and Yeast, Unspecified
+# Alcohol, Allantoin, Arctium Lappa Root, Citral, Fd&c Yellow No. 5, Fragrance 13576, Glycerin, Limonene, (+)-, Methylparaben, Niacinamide, Panthenol, Polyoxyl 40 Hydrogenated Castor Oil, Propylene, Riboflavin, Tioxolone, Water and Yeast, Unspecified
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 

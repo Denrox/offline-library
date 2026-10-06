@@ -6,7 +6,7 @@
 **Drug class:** Stimulant Laxative  
 **Labels on file:** 92
 
-**Also sold as:** Gentle Laxative, Laxative, Womens Gentle Laxative, Stimulant Laxative Enteric Coated, Laxative Gentle, Laxative Enteric Coated, Stimulant Laxative, Womens Laxative, Publix Stimulant Laxative, Publix Women Laxative, Right Remedies Overnight Laxative, Gentle Overnight Laxative, Laxomil, C-lax Laxative, Hyvee Stimulant Laxative, Up and Up Gentle Laxative, Fleet, Dulcolax Laxative, Womens Laxative Enteric Coated, Gentle Laxative Stimulant Laxative, Extra Gentle Laxative, Good Remedies Gentle Laxative, Stimulant Laxative Gentle, Dulcolax Simulant Laxative, Dulcolax Stimulant Laxative and 7 more
+**Also sold as:** Gentle Laxative, Laxative, Womens Gentle Laxative, Stimulant Laxative Enteric Coated, Laxative Gentle, Laxative Enteric Coated, Stimulant Laxative, Womens Laxative, Publix Stimulant Laxative, Publix Women Laxative, Right Remedies Overnight Laxative, Gentle Overnight Laxative, Laxomil, C-lax Laxative, Hyvee Stimulant Laxative, Up and Up Gentle Laxative, Fleet, Dulcolax Laxative, Womens Laxative Enteric Coated, Gentle Laxative Stimulant Laxative, Extra Gentle Laxative, Good Remedies Gentle Laxative, Stimulant Laxative Gentle, Dulcolax Simulant Laxative, Dulcolax Stimulant Laxative and 6 more
 
 ## Active ingredients
 

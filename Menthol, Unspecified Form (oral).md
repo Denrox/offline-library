@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 24
 
-**Also sold as:** Leader Cough Drops Vanilla Honey, Quality Choice Cough Drops Vanilla Honey, Quality Choice Cough Drops Black Cherry Sugar Free, Caring Mill Cough Drops Cherry, Throat Coat Sweet Orange Fennel, Menthol, Orca Pain Reliever Putty with Menthol, Menthol Cough Suppressant Oral Anesthetic Cough Drops, Redicare Cough Drops Cherry Flavored, Cherry Cough Drops 50ct, Cherry Cough Drops 100ct, Mgc Cough Drops, Propolis Cooling Relief Cherry Cough Drops, Propolis Cooling Relief Lemon Cough Drops, Quantum Health Bing Cherry Flavor, Orca Complete Menthol Pain Reliever, Throat Coat Eucalyptus Mint, Unishield Cherry Cough, Mckesson Sugar Free Cough Suppressant Oral Anesthetic, Quantum Health Meyer Lemon and Honey Flavor
+**Also sold as:** Leader Cough Drops Vanilla Honey, Quality Choice Cough Drops Vanilla Honey, Quality Choice Cough Drops Black Cherry Sugar Free, Caring Mill Cough Drops Cherry, Throat Coat Sweet Orange Fennel, Redicare Cough Drops Cherry Flavored, Cherry Cough Drops 50ct, Cherry Cough Drops 100ct, Mgc Cough Drops, Propolis Cooling Relief Cherry Cough Drops, Propolis Cooling Relief Lemon Cough Drops, Quantum Health Bing Cherry Flavor, Throat Coat Eucalyptus Mint, Unishield Cherry Cough, Mckesson Sugar Free Cough Suppressant Oral Anesthetic, Quantum Health Meyer Lemon and Honey Flavor, Orca Pain Reliever Putty with Menthol, Menthol Cough Suppressant Oral Anesthetic Cough Drops, Orca Complete Menthol Pain Reliever
 
 ## Active ingredients
 

@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** auricular (otic)  
+**Ingredient forms:** Lidocaine Hydrochloride  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 2
+**Labels on file:** 3
 
-**Also sold as:** Earbalance Ear Pain Drops
+**Also sold as:** Earbalance Ear Pain Drops, Lipo Flavonoid Ear Pain Relief Drops with 4% Lidocaine
 
 ## Active ingredients
 

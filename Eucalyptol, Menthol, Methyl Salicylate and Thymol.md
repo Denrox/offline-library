@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 121
 
-**Also sold as:** Antispetic, Antiseptic Mouth Rinse, Antiseptic, Antiseptic Mouthrinse, Tartar Control Plus, Mouth Rinse, Tartar Control, Tartar Control Plus Antiseptic, Original Antiseptic, Mouthwash, Listerine Clinical Solutions Gum Health Icy Mint, Listerine Cool Mint Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Original Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Ultraclean Plus Whitening Protection Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Ultraclean Gum Plus Whitening Protection Cool Mint Antigingivitis/ Antiplaque Mouthwash, Rinse, Discount Drug Mart Original Flavor Mouthwash, Antiseptic Rinse Spring Mint, Oral Care Antiseptic, Listerine Cool Mint Antiseptic, Eucalyptol, Menthol, Methyl Salicylate, Thymol
+**Also sold as:** Antispetic, Antiseptic Mouth Rinse, Antiseptic, Antiseptic Mouthrinse, Tartar Control Plus, Mouth Rinse, Tartar Control, Tartar Control Plus Antiseptic, Original Antiseptic, Mouthwash, Listerine Clinical Solutions Gum Health Icy Mint, Listerine Cool Mint Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Original Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Ultraclean Plus Whitening Protection Intense Antiseptic Antigingivitis/ Antiplaque Mouthwash, Listerine Ultraclean Gum Plus Whitening Protection Cool Mint Antigingivitis/ Antiplaque Mouthwash, Rinse, Discount Drug Mart Original Flavor Mouthwash, Antiseptic Rinse Spring Mint, Oral Care Antiseptic, Listerine Cool Mint Antiseptic
 
 ## Active ingredients
 

@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Terbinafine Hydrochloride  
 **Drug class:** Allylamine Antifungal  
-**Labels on file:** 1
+**Labels on file:** 2
 
-**Also sold as:** Kimtara Nail Fungus Treatment
+**Also sold as:** Antifungal Pen, Kimtara Nail Fungus Treatment
 
 ## Active ingredients
 

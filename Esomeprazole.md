@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
+**Ingredient forms:** Esomeprazole Magnesium, Esomeprazole Magnesium Dihydrate, Esomeprazole Magnesium Trihydrate  
 **Drug class:** Proton Pump Inhibitor  
-**Labels on file:** 35
+**Labels on file:** 115
 
-**Also sold as:** Berkley and Jensen Heartburn Treatment, Foster and Thrive Acid Reducer, Esomeprazole Magnesium, Basic Care Esomeprazole Magnesium, Dg Health Esomeprazole Magnesium, Good Sense Esomeprazole Magnesium, Signature Care Esomeprazole Magnesium, Equate Esomeprazole Magnesium, Careone Esomeprazole Magnesium, Kirkland Signature Esomeprazole Magnesium, Exchange Select Esomeprazole Magnesium, Up and Up Esomeprazole Magnesium, Members Mark Esomeprazole Magnesium, Good Neighbor Pharmacy Esomeprazole Magnesium, Leader Esomeprazole Magnesium
+**Also sold as:** Nexium 24hr, Acid Reducer, Berkley and Jensen Heartburn Treatment, Foster and Thrive Acid Reducer, Nexium 24hr Clearminis, Riopan, Basic Care Esomeprazole Magnesium, Dg Health Esomeprazole Magnesium, Equate Esomeprazole Magnesium, Good Sense Esomeprazole Magnesium, Signature Care Esomeprazole Magnesium, Up and Up Esomeprazole Magnesium, Esomeprazole Magnesium Delayed-release 20 Mg Mini, Careone Esomeprazole Magnesium, 24 Hour Esomeprazole Magnesium, Kirkland Signature Esomeprazole Magnesium, Goodmeds Acid Reducer 24hr Esomeprazole Magnesium Delayed-release 20mg, Exchange Select Esomeprazole Magnesium, Esomeprazole Magnesium Delayed-release 20 Mg (otc), Esomeprazole Magnesium Delayed Release 20 Mg Mini, Topcare Esomeprazole Magnesium, Members Mark Esomeprazole Magnesium, Good Neighbor Pharmacy Esomeprazole Magnesium, Esomeprazole Magnesium Minis, Leader Esomeprazole Magnesium
 
 ## Active ingredients
 

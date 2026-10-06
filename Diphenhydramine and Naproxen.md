@@ -1,0 +1,120 @@
+# Diphenhydramine and Naproxen
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** oral  
+**Ingredient forms:** Naproxen Sodium, Diphenhydramine Hydrochloride  
+**Labels on file:** 20
+
+**Also sold as:** All Night Pain Relief Pm, Aleve Pm, Topcare All Night Pain Relief Pm, Naproxen Sodium Pm, Careone Naproxen Sodium Pm, Dg Health Naproxen Sodium Pm, Basic Care Naproxen Sodium Pm, Up and Up Naproxen Sodium Pm, Equaline Naproxen Sodium Pm, Good Sense Naproxen Sodium
+
+## Active ingredients
+
+​(in each caplet) Diphenhydramine Hydrochloride 25 mg Naproxen Sodium 220 mg
+
+## Purpose
+
+Nighttime sleep aid Pain reliever
+
+## Uses
+
+􀂄 for relief of occasional sleeplessness when associated with minor aches and pains 􀂄 helps you fall asleep and stay asleep
+
+## Warnings
+
+Allergy alert: Naproxen sodium may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: 􀂄 hives 􀂄 facial swelling 􀂄 asthma (wheezing) 􀂄 shock 􀂄 skin reddening 􀂄 rash 􀂄 blisters Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you:
+
+- are age 60 or older
+- have had stomach ulcers or bleeding problems
+- take a blood thinning (anticoagulant) or steroid drug
+- take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others)
+- have 3 or more alcoholic drinks every day while using this product
+- take more or for a longer time than directed Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal.The risk is higher if use more than directed or for longer than directed.
+
+### Do not use
+
+- if you have ever had an allergic reaction to any other pain reliever/fever reducer
+- unless you have time for a full night’s sleep
+- in children under 12 years of age
+- right before or after heart surgery
+- with any other product containing diphenhydramine, even one used on skin
+- if you have sleeplessness without pain
+
+### Ask a doctor before use if
+
+- stomach bleeding warning applies to you
+- you have problems or serious side effects from taking pain relievers or fever reducers
+- you have a history of stomach problems, such as heartburn
+- you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke
+- you are taking a diuretic
+- you have a breathing problem such as emphysema or chronic bronchitis
+- you have glaucoma
+- you have trouble urinating due to an enlarged prostate gland
+
+### Ask a doctor or pharmacist before use if
+
+you are
+
+- taking sedatives or tranquilizers, or any other sleep-aid
+- under a doctor's care for any serious condition
+- taking aspirin for heart attack or stroke, because naproxen may, decrease this benefit of aspirin
+- taking any other antihistamines
+- taking any other drug
+
+### When using this product
+
+- drowsiness will occur
+- avoid alcoholic drinks
+- do not drive a motor vehicle or operate machinery
+- take with food or milk if stomach upset occurs
+
+### Stop use and ask a doctor if
+
+- you experience any of the following signs of stomach bleeding:
+- feel faint
+- vomit blood
+- have bloody or black stools
+- have stomach pain that does not get better
+- you have symptoms heart problems or stroke:
+- chest pain
+- trouble breathing
+- weakness in one part or side of body
+- slurred speech
+- leg swelling
+- pain gets worse or lasts more than 10 days
+- sleeplessness persists continuously for more than 2 weeks. Insomnia may be symptom of a serious underlying medical illness.
+- redness or swelling is present in the painful area
+- any new symptoms appear
+- you have difficulty swallowing
+- it feels like the pill is stuck in your throat
+
+### Pregnancy or breast-feeding
+
+If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use naproxen sodium during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+
+### Keep out of reach of children
+
+Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+
+## Directions
+
+- do not take more than directed
+- drink a full glass of water with each dose
+- adults and children 12 years and over: take 2 caplets at bedtime
+- do not take more than 2 caplets in 24 hours
+- if taken with food, this product may take longer to work
+
+## Other information
+
+- each caplet contains: sodium 20 mg
+- read all warnings and directions before use. Keep outer carton.
+- store at 20 to 25°C (68 to 77°F).
+- Avoid high humidity and excessive heat above 40°C (104°F).
+
+## Inactive ingredients
+
+FD&C blue 2 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, talc, titanium dioxide
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2025-12-19, DailyMed set ID fe810c0e-ab42-5a8a-e053-6394a90affe4. Public domain.*

@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 90
+**Labels on file:** 118
 
-**Also sold as:** Pain Relief Gel-patch, Rapid Relief, Pain Relief Gel-roll On, Zylotrol Maximum Pain, Ishancare Pain Relief Gel-patch, Heel Pain Relief Roll-on, Hempvana Knee Bird Ultra Strength Pain Relief, Dch Nerve Pain Relief, Lidopatch Pain Relief, Therablast Maximum Relief, Theracare Pain Relief Medicated, Careland Plantar Fasciitis Hydrogel Pain Patches, Walgreens Kinesiology Pain Relief, Dr Sabharwals, Lidosync, Lidoreal Patch, Tidl Pain Relief Heat Therapy Roll-on, Tidl Pain Relief Evening Therapy Spray., Yimimde Pain Relief Gel-patch, Plantar Fasciitis Pain Relief Gel-patch, Numbing Cream, Lidospot Patch, Sumifun Plantar Relief Roll -on, Pain Relief, Biofreeze Ultraflex Plus and 50 more
+**Also sold as:** Pain Relief Gel-patch, Aloe Vera Gel, Rapid Relief, Pain Relief Gel-roll On, Zylotrol Maximum Pain, Ishancare Pain Relief Gel-patch, Pain Relief, Heel Pain Relief Roll-on, Hempvana Knee Bird Ultra Strength Pain Relief, Dch Nerve Pain Relief, Dzul - Lido Creme, Lidopatch Pain Relief, Therablast Maximum Relief, Theracare Pain Relief Medicated, Careland Plantar Fasciitis Hydrogel Pain Patches, Walgreens Kinesiology Pain Relief, Dr Sabharwals, Lidosync, Lidoreal Patch, Tidl Pain Relief Heat Therapy Roll-on, Tidl Pain Relief Evening Therapy Spray., Nervive Pain Relieving Liquid Roll-on, Nervive Pain Relieving Cream, Pomg Pain Relief Roller, Yimimde Pain Relief Gel-patch and 72 more
 
 ## Active ingredients
 

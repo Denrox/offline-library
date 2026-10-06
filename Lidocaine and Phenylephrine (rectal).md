@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** rectal  
+**Ingredient forms:** Phenylephrine Hydrochloride  
 **Drug class:** alpha-1 Adrenergic Agonist, Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 1
+**Labels on file:** 2
 
-**Also sold as:** Verdibliss Hemorrhoid Relief Ointments
+**Also sold as:** Zensa Numbing Gel, Verdibliss Hemorrhoid Relief Ointments
 
 ## Active ingredients
 

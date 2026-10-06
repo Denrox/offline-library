@@ -6,7 +6,7 @@
 **Drug class:** Expectorant  
 **Labels on file:** 300
 
-**Also sold as:** Mucus Relief, Mucinex, Mucus Relief Maximum Strength, Maximum Strength Mucus Relief, Good Sense Mucus Er, Mucus Relief Extended Release Maximum Strength, Mucus Relief Extended Release, Mucus Relief Immediate Release, Chest Congestion Relief, Mucus Relief Er, Giltuss Ex Expectorant, Topcare Mucus Er, Up and Up Mucus Relief, Tussin, Equate Mucus Relief, Rugby Mucus Relief Er, Mucus Relief Max, Leader Mucus Relief, Basic Care Mucus Er Max, Childrens Giltuss Ex Expectorant, Quality Choice Mucus Relief, Dg Health Mucus Er Max, Mucinex Maximum Strength, Geri-tussin, Mucus Er and 94 more
+**Also sold as:** Mucus Relief, Mucinex, Mucus Relief Maximum Strength, Maximum Strength Mucus Relief, Good Sense Mucus Er, Mucus Relief Extended Release Maximum Strength, Mucus Relief Extended Release, Mucus Relief Immediate Release, Chest Congestion Relief, Mucus Relief Er, Giltuss Ex Expectorant, Topcare Mucus Er, Up and Up Mucus Relief, Tussin, Equate Mucus Relief, Rugby Mucus Relief Er, Mucus Relief Max, Leader Mucus Relief, Basic Care Mucus Er Max, Childrens Giltuss Ex Expectorant, Quality Choice Mucus Relief, Dg Health Mucus Er Max, Mucinex Maximum Strength, Geri-tussin, Mucus Er and 84 more
 
 ## Active ingredients
 

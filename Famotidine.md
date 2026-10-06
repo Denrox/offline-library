@@ -6,7 +6,7 @@
 **Drug class:** Histamine-2 Receptor Antagonist  
 **Labels on file:** 141
 
-**Also sold as:** Acid Reducer, Acid Controller, Careone Acid Relief, Zantac 360, Heartburn Relief, Basic Care Acid Reducer, Topcare Acid Reducer, Maximum Strength Acid Reducer, Foster and Thrive Acid Reducer, Acid Reducer Maximum Strength, Good Sense Acid Reducer, Acid Relief, Equaline Heartburn Prevention, Heartburn Relief Original Strength, Dg Health Heartburn Prevention, Acid Controller Original Strength, Acid Reducer Original Strength, Maximum Strength Pepcid Ac Icy Cool Mint, Curist Acid Relief, Pepcid Ac, Zantac 360 Cool Mint, Pepcid Ac Maximum Strength, Leader Acid Reducer, Calmicid Ac Acid Reducer, Rolaids Acid Defense and 22 more
+**Also sold as:** Acid Reducer, Acid Controller, Careone Acid Relief, Zantac 360, Heartburn Relief, Basic Care Acid Reducer, Topcare Acid Reducer, Maximum Strength Acid Reducer, Foster and Thrive Acid Reducer, Acid Reducer Maximum Strength, Good Sense Acid Reducer, Acid Relief, Equaline Heartburn Prevention, Heartburn Relief Original Strength, Dg Health Heartburn Prevention, Acid Controller Original Strength, Acid Reducer Original Strength, Maximum Strength Pepcid Ac Icy Cool Mint, Curist Acid Relief, Pepcid Ac, Zantac 360 Cool Mint, Pepcid Ac Maximum Strength, Leader Acid Reducer, Calmicid Ac Acid Reducer, Rolaids Acid Defense and 20 more
 
 ## Active ingredients
 

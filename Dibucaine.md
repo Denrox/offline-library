@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Dibucaine Hydrochloride  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 6
+**Labels on file:** 7
 
-**Also sold as:** Cvs Topical Anesthetic Hemorrhoidal, Cvs Topical Analgesic Hemorrhoidal, Dibucaine Topical Anesthetic 1% Hemorrhoidal
+**Also sold as:** Gaayou Numbing, Cvs Topical Anesthetic Hemorrhoidal, Cvs Topical Analgesic Hemorrhoidal, Dibucaine Topical Anesthetic 1% Hemorrhoidal
 
 ## Active ingredients
 

@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
+**Ingredient forms:** Ibuprofen Sodium  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 731
+**Labels on file:** 733
 
-**Also sold as:** Motrin Ib, Childrens Motrin, Advil, Pain Relief, Junior Strength Advil, Ibuprofen, Caseys 4good, Dolex Flex, Medique Iprin, Dover Addaprin, Childrens Advil, Migraine Relief, Dye-free Pain Relief, Proprinal, Profen Ib, Medique At Home Iprin, Advil Liqui-gels, Goodnow Pain Relief, Ibuwin Forte, Ibuprofen, Lil Drug Store, Ibuprofen, Circle K, 50ct, Ibuprofen, Caseys, 50ct, Ibuprofen, Lil Drug Store, 50ct, Ibuprofen, Lil Drug Store, 24ct, Profen Ib Childrens, Betr Pain Relief and 131 more
+**Also sold as:** Motrin Ib, Advil, Childrens Motrin, Pain Relief, Junior Strength Advil, Ibuprofen, Caseys 4good, Dolex Flex, Medique Iprin, Dover Addaprin, Childrens Advil, Migraine Relief, Dye-free Pain Relief, Proprinal, Profen Ib, Medique At Home Iprin, Advil Liqui-gels, Goodnow Pain Relief, Ibuwin Forte, Ibuprofen, Lil Drug Store, Ibuprofen, Circle K, 50ct, Ibuprofen, Caseys, 50ct, Ibuprofen, Lil Drug Store, 50ct, Ibuprofen, Lil Drug Store, 24ct, Profen Ib Childrens, Betr Pain Relief and 126 more
 
 ## Active ingredients
 

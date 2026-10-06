@@ -1,8 +1,9 @@
-# Alcohol, Allantoin, Arctium Lappa Root, Ascorbyl Palmitate, Butylparaben, Citral, Ethylparaben, Farnesol, Fd&c Yellow No. 5, Fragrance 13576, Hydroxyethyl Cellulose, Unspecified, Isopropyl Alcohol, Levomenol, Limonene, (+)-, Methylparaben, Niacinamide, Panthenol, Phenoxyethanol, Polyoxyl 40 Hydrogenated Castor Oil, Powdered Cellulose, Propylene Glycol, Propylparaben, Riboflavin, Tioxolone, Tocopherol, Water and Yeast, Unspecified
+# Alcohol, Allantoin, Arctium Lappa Root, Ascorbyl Palmitate, Butylparaben, Citral, Ethylparaben, Farnesol, Fd&c Yellow No. 5, Fragrance 13576, Hydroxyethyl Cellulose, Unspecified, Isopropyl Alcohol, Levomenol, Limonene, (+)-, Methylparaben, Niacinamide, Panthenol, Phenoxyethanol, Polyoxyl 40 Hydrogenated Castor Oil, Powdered Cellulose, Propylene, Propylparaben, Riboflavin, Tioxolone, Tocopherol, Water and Yeast, Unspecified
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Propylene Glycol  
 **Drug class:** Standardized Chemical Allergen  
 **Labels on file:** 2
 

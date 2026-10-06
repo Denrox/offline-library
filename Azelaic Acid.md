@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 4
 
-**Also sold as:** 14% Azelaic Acid Acne, Bloomellee 12%gel Azelaic Acid Acne, Bloomellee 14%gel Azelaic Acid Cream, 10% Azelaic Acid, 14% Azelaic Acid
+**Also sold as:** 14% Azelaic Acid Acne, Bloomellee 12%gel Azelaic Acid Acne, Bloomellee 14%gel Azelaic Acid Cream
 
 ## Active ingredients
 

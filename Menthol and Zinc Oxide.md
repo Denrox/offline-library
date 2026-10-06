@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 18
 
-**Also sold as:** Walgreens Moisture Barrier, Granulotion Medicated, Health Smart Medicated Body, Calprotect, Granulotion Hemorrhoidal, Moisture Barrier, Studio 35 External Analgesic Medicated Body, Pharmacy Choice, Hydroseptine, Barrier Protectant Cream, Claravie, Medpride Medicated Body Powder Powder, Chamosyn, Chamosyn Paraben Free, Zinc Oxide and Menthol
+**Also sold as:** Walgreens Moisture Barrier, Granulotion Medicated, Health Smart Medicated Body, Calprotect, Granulotion Hemorrhoidal, Moisture Barrier, Studio 35 External Analgesic Medicated Body, Pharmacy Choice, Hydroseptine, Barrier Protectant Cream, Claravie, Medpride Medicated Body Powder Powder, Chamosyn, Chamosyn Paraben Free
 
 ## Active ingredients
 

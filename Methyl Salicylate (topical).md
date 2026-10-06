@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 52
 
-**Also sold as:** Veneno De Abeja Aceite De Vibora Brand, La Flecha Japonesa, Avon Footworks Arthritis Achy Foot and Muscle, Methylten, Balsamo De Vaca Mascura, Methylten 25% Pain Relieving, Dr Sabharwals, Beevenom, Avon Foot Works Arthritis Achy Foot and Muscle, Kofal Original, Kofal Fuerte, Koong Yick Hung Fa, Kofal, Ling Nam Hung Far, Hysan Hua Tuo Medicated, Abejas Y Viboras Roll On, Germa Snake Oil Bee Venom, Flexsport Roll On, Germa Manteca Ubre Plus (tin), Germa Manteca Ubre Plus (yellow), Germa Manteca Ubre Plus (red), Germa Ubre Mastitis, Germa Linimento Ubre Plus (roll-on), Germa Linimento Ubre Plus, Ted and Gregs Pain Rub with Resveratrol Topical Analgesic and 13 more
+**Also sold as:** Veneno De Abeja Aceite De Vibora Brand, La Flecha Japonesa, Avon Footworks Arthritis Achy Foot and Muscle, Methylten, Balsamo De Vaca Mascura, Methylten 25% Pain Relieving, Dr Sabharwals, Beevenom, Avon Foot Works Arthritis Achy Foot and Muscle, Kofal Original, Kofal Fuerte, Koong Yick Hung Fa, Kofal, Ling Nam Hung Far, Hysan Hua Tuo Medicated, Abejas Y Viboras Roll On, Germa Snake Oil Bee Venom, Flexsport Roll On, Germa Manteca Ubre Plus (tin), Germa Manteca Ubre Plus (yellow), Germa Manteca Ubre Plus (red), Germa Ubre Mastitis, Germa Linimento Ubre Plus (roll-on), Germa Linimento Ubre Plus, Ted and Gregs Pain Rub with Resveratrol Topical Analgesic and 9 more
 
 ## Active ingredients
 

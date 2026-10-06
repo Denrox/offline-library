@@ -5,8 +5,6 @@
 **Route:** transdermal  
 **Labels on file:** 2
 
-**Also sold as:** Capsaicin 0.025%
-
 ## Active ingredients
 
 Capsaicin 0.025% w/w

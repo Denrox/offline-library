@@ -6,7 +6,7 @@
 **Drug class:** Antiseptic  
 **Labels on file:** 229
 
-**Also sold as:** Povidone Iodine, First Aid Antiseptic, Povidone Iodine Prep, Povidone Iodine Impregnated, Povidone Iodine Prep Pad, Medline, Povidone Iodine Scrub, Betadine, Medichoice Pvp, Sterile, Aplicare, Konix Povidone Iodine Topical Antiseptic, Povidone Iodine Gel Swabstick, Medichoice Pvp Prep, Betadine Solution, Lights Povindone Iodine Swabstick, Povi-one, Povidone Iodine Topical Solution Paint, Medichoice Pvp Swabsticks, Lights Povidone Iodine Solution, Lights Povindone Iodine Scrub, Pvp Iodine, Betadine Solution Swabsticks, Adi Medical Pvp-i Pouch, Foil, Iodine Prep Pad Antiseptic and 121 more
+**Also sold as:** First Aid Antiseptic, Medline, Povidone-iodine Prep Sterile, Povidone-iodine Scrub Sterile, Aplicare Povidone-iodine, Betadine, Medichoice Pvp, Sterile, Aplicare, Saninta 10% Povidone-iodine, Medichoice Pvp Prep, Betadine Solution, Povi-one, Povidone-iodine Prep Pads Medium, Medichoice Pvp Swabsticks, Maokang Povidone-iodine Antiseptic, Henry Schein Povidone-iodine Swabsticks, Aplicare Povidone-iodine Scrub, Medichoice Povidone-iodine Prep Pad, Povidone-iodine Prep Pad, Betadine Solution Swabsticks, Adi Medical Pvp-i Pouch, Foil, Medichoice Pvp Prep Solution, Medichoice Pvp Scrub, Povidone-iodine Prep Winged Sterile Large and 117 more
 
 ## Active ingredients
 

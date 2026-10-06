@@ -5,8 +5,6 @@
 **Route:** transdermal  
 **Labels on file:** 2
 
-**Also sold as:** Menthol 5%
-
 ## Active ingredients
 
 Menthol 5%

@@ -5,7 +5,7 @@
 **Route:** dental  
 **Labels on file:** 419
 
-**Also sold as:** Hismile, Bio Spectra Attitude, Euthymol Extraordinary Pink Whitening, Crest Strawberry, Kaylaan, Euthymol Whitening, Colgate Max Fresh Cool Mint, Crest Bubblegum, Crest Cavity Protection Regular, Euthymol Whitening Purple Corrector, Tidalove, Crest Fresh and White, Pop Hint of Mint, Pop Gel Pumpin Strawberry, Pop Gel Whatzzup Watermelon, Crest Plus Tartar Protection Whitening, Burts Bees Kids Strawberry Splash, Pop Feeling Peachy, Colgate Maxfresh Knockout, Crest Cavity Protection Cool Mint Gel, Kids Crest Cavity Protection Sparkle Fun, Himalaya Pink Salt Intensive Whitening Spearmint, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Toothpaste, Freshmint Premium Anticavity, Mipaste Plus Strawberry and 312 more
+**Also sold as:** Hismile, Bio Spectra Attitude, Euthymol Extraordinary Pink Whitening, Crest Strawberry, Kaylaan, Euthymol Whitening, Colgate Max Fresh Cool Mint, Crest Bubblegum, Crest Cavity Protection Regular, Euthymol Whitening Purple Corrector, Tidalove, Crest Fresh and White, Pop Hint of Mint, Pop Gel Pumpin Strawberry, Pop Gel Whatzzup Watermelon, Crest Plus Tartar Protection Whitening, Burts Bees Kids Strawberry Splash, Pop Feeling Peachy, Colgate Maxfresh Knockout, Crest Cavity Protection Cool Mint Gel, Kids Crest Cavity Protection Sparkle Fun, Himalaya Pink Salt Intensive Whitening Spearmint, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Toothpaste, Freshmint Premium Anticavity, Mipaste Plus Strawberry and 311 more
 
 ## Active ingredients
 

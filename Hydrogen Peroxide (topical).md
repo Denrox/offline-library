@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 121
 
-**Also sold as:** Sore Mouth Cleanser, Everlit Care Products Antiseptic Mist, Aplicare, Prevention Mouth Sore Rinse, Aeroaid, Kericleanz Antiseptic, First Shield, Medi-first First Aid Antiseptic, American Safety First Aid Antispetic, Hydrogen Peroxide 3 Percent, 3 Hydrogen Peroxide, Hydrogen Peroxide 3%, Humco Hydrogen Peroxide, 3% Hydrogen Peroxide, Medi-first Hydrogen Peroxide, Green Guard Hydrogen Peroxide, Quality Choice Hydrogen Peroxide Wipes, Walgreens 3 Hydrogen Peroxide Wipes, Jianerkang One Fluid Ounce Hydrogen Peroxide, Biopure 3 Hydrogen Peroxide, American Red Cross 6oz, 3% Hydrogen Peroxide, Meijer 3 Hydrogen Peroxide Wipes, Medichoice of Hydrogen Peroxide 3 10 Volume, Hydrogen Peroxide First Aid Antiseptic, Wish Hydrogen Peroxide and 17 more
+**Also sold as:** Sore Mouth Cleanser, Everlit Care Products Antiseptic Mist, Aplicare, Prevention Mouth Sore Rinse, Aeroaid, Kericleanz Antiseptic, First Shield, Medi-first First Aid Antiseptic, American Safety First Aid Antispetic, Hydrogen Peroxide 3 Percent, Humco Hydrogen Peroxide, Medi-first Hydrogen Peroxide, Green Guard Hydrogen Peroxide, Quality Choice Hydrogen Peroxide Wipes, Walgreens 3 Hydrogen Peroxide Wipes, Jianerkang One Fluid Ounce Hydrogen Peroxide, Biopure 3 Hydrogen Peroxide, American Red Cross 6oz, 3% Hydrogen Peroxide, Meijer 3 Hydrogen Peroxide Wipes, Medichoice of Hydrogen Peroxide 3 10 Volume, Hydrogen Peroxide First Aid Antiseptic, Wish Hydrogen Peroxide, Oopsie 3 Hydrogen Peroxide, Dop Hydrogen Peroxide 3%, Xpect Hydrogen Peroxide and 14 more
 
 ## Active ingredients
 

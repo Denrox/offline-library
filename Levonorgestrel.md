@@ -6,7 +6,7 @@
 **Drug class:** Progestin, Progestin-containing Intrauterine System  
 **Labels on file:** 53
 
-**Also sold as:** My Way, Julie, Postday One-step, My Choice Tm, Morning After Pill, Julie Morning After Pill, Morning After, Plan B One-step, Option 2, Restart, Fem Choice Morning After, Econ Morning After, Optionelle, Athentia Next, Afterpill, My Choice, Next Choice One Dose, Aftera, Ithappenz Morning After, Her Style, Take Action, After Banger, Shewise, Econtra One-step, New Day and 5 more
+**Also sold as:** My Way, Julie, Postday One-step, My Choice Tm, Morning After Pill, Julie Morning After Pill, Morning After, Plan B One-step, Option 2, Restart, Fem Choice Morning After, Econ Morning After, Optionelle, Athentia Next, Afterpill, My Choice, Next Choice One Dose, Aftera, Ithappenz Morning After, Her Style, Take Action, After Banger, Shewise, Econtra One-step, New Day and 4 more
 
 ## Active ingredients
 

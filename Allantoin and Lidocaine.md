@@ -3,43 +3,59 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 1
+**Ingredient forms:** Lidocaine Hydrochloride  
+**Labels on file:** 3
 
-**Also sold as:** Dermarad Relief
+**Also sold as:** Okeeffes Working Hands Pain Relief Skin Protectant, Dermarad Relief, Okeeffes Healthy Feet
 
 ## Active ingredients
 
-Allantoin 1% Lidocaine 4%
+Allantoin 0.5% Lidodaine HCl 4%
 
 ## Purpose
 
-Skin Protectant Topical Analgesic
+Skin protectant Topical analgesic
 
 ## Uses
 
-For the temporary relief of pain and itching associated with minor burns, sunburn, or minor skin irritations. Temporarily protects minor burns. Temporarily protects and helps relieve chapped or cracked skin.
+temporarily relieves pain and itching associated with minor skin irritations protects and helps relieve chapped or cracked skin
 
 ## Warnings
 
-For External Use Only Avoid contact with the eyes. If condition worsens or if symptoms last more than 7 days or clear up and occur again within a few days, discontinue use and consult a physician. Do not use on: Deep or puncture wounds Animal bites Serious burns Do not use in large quantities, particularly over raw surfaces or blistered areas. Do not use on: Deep or puncture wounds Animal bites Serious burns Do not use in large quantities, particularly over raw surfaces or blistered areas.
+For external use only Do not use in large quantities, particularly over raw surfaces or blistered areas. on deep or puncture wounds, animal bites or serious burns When using this product avoid contact with eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
 
 ### Do not use
 
-on: Deep or puncture wounds Animal bites Serious burns Do not use in large quantities, particularly over raw surfaces or blistered areas.
+in large quantities, particularly over raw surfaces or blistered areas. on deep or puncture wounds, animal bites or serious burns
+
+### When using this product
+
+avoid contact with eyes
+
+### Stop use and ask a doctor if
+
+condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+
+### Pregnancy or breast-feeding
+
+If pregnant or breast-feeding, ask a health professional before use.
 
 ### Keep out of reach of children
 
-Keep out of reach of children
+Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
 
 ## Directions
 
-Adults and children 2 years of age and older, apply to affected areas no more than 3 to 4 times daily. For children under 2 years of age, consult your physician.
+adults and children 12 years of age and older: Apply to affected area not more than 3 to 4 times daily. children under 12 years of age: consult a doctor.
+
+## Other information
+
+Child-resistant packaging. Store with lid closed tightly.
 
 ## Inactive ingredients
 
-Capric/Caprylic Triglyceride, Capryl Glycol, Ceteareth-20, Cetearyl Alcohol, Cetyl Alcohol, Deionized Water, Dihydroeugenol, Dimethicone, Dimethyl Isosorbide, Disodium EDTA, Ethylhexylglycerin, Glycerin, Glyceryl Stearate, Glycol Stearate, Hexylene Glycol, Hydroxypropyl Starch Phosphate, Isoeugenyl Acetate, Niacinamide, PEG-100 Stearate, Petrolatum, Phenoxyethanol, Polyacrylate Crosspolymer-6, PPG/SMDI Copolymer, Propylene Glycol, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium PCA, Squalane, Stearic Acid, Tocopherol.
+Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aluminum Starch Octenylsuccinate, Beeswax, Caprylyl Glycol, Ceteareth-20, Cetearyl Alcohol, Cetyl Alcohol, Dimethicone, Disodium EDTA, Ethylhexylglycerin, Glycerin, Glyceryl Stearate, 1,2 Hexanediol, Isopropyl Myristate, Laureth-12, PEG-100 Stearate, Peppermint (Mentha Piperita) Oil, Phenoxyethanol, Polysilicone-11, Shea (Butyrospermum Parkii) Butter, Sodium Hydroxide, Water, Xanthan Gum
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2025-05-06, DailyMed set ID d5e11f73-918b-eeac-e053-2995a90a4a83. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2024-01-01, DailyMed set ID d73709db-3932-3c56-e053-2995a90a7d0a. Public domain.*

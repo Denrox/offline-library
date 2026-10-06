@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 2
 
-**Also sold as:** Procure Clamaplex, Zinc Oxide with Menthol and White Petrolatum
+**Also sold as:** Procure Clamaplex
 
 ## Active ingredients
 

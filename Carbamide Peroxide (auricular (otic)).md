@@ -5,7 +5,7 @@
 **Route:** auricular (otic)  
 **Labels on file:** 38
 
-**Also sold as:** Ear Wax Removal Aid Drops, Earwax Removal Drops, Clearcanal Ear Wax Softerner Drops, Debrox, Ear Drops, Otix Ear Wax Removal Drops, Careone Earwax Removal Drops, Tech Care Earwax Removal Drops, Wax Away Earwax Removal System, Healthy Ears, Audiologists Choice Earwax Removal Aid Drops, Doloear, Best Choice Earwax Removal Drops, Freskaro Earwax Removal Aid, Ent Essentials Ear Wax Remvoer, Waxrx Ear Wax Removal Aid Drops, Topcare Earwax Removal Kit, Wax Away Earwax Removal Aid, Meijer Earwax Removal Drops, Family Care Earwax Removal, Ear Wax Rmvl Rite Aid, Suavear Earwax Removal Aid, Topcare Earwax Removal Drops, Prorinse Earwax Removal System, Wax Out Plus and 6 more
+**Also sold as:** Ear Wax Removal Aid Drops, Earwax Removal Drops, Clearcanal Ear Wax Softerner Drops, Debrox, Ear Drops, Otix Ear Wax Removal Drops, Careone Earwax Removal Drops, Tech Care Earwax Removal Drops, Wax Away Earwax Removal System, Healthy Ears, Audiologists Choice Earwax Removal Aid Drops, Doloear, Best Choice Earwax Removal Drops, Freskaro Earwax Removal Aid, Ent Essentials Ear Wax Remvoer, Waxrx Ear Wax Removal Aid Drops, Topcare Earwax Removal Kit, Wax Away Earwax Removal Aid, Meijer Earwax Removal Drops, Family Care Earwax Removal, Ear Wax Rmvl Rite Aid, Suavear Earwax Removal Aid, Topcare Earwax Removal Drops, Prorinse Earwax Removal System, Wax Out Plus and 5 more
 
 ## Active ingredients
 

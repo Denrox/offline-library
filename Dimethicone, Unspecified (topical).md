@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 8
 
-**Also sold as:** Scarzen, Dimethicone 1 Skin Protectant, Procure Skin Repair Cream, Daily Moisturizing, Beverly Hills Md Hydrarescue Treatment, Baza Cleanse and Protect, Sween 24, Baza Cleanse and Protect Odor Control
+**Also sold as:** Scarzen, Procure Skin Repair Cream, Daily Moisturizing, Beverly Hills Md Hydrarescue Treatment, Baza Cleanse and Protect, Sween 24, Baza Cleanse and Protect Odor Control, Dimethicone 1 Skin Protectant
 
 ## Active ingredients
 

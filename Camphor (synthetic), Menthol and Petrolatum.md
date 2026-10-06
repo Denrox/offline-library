@@ -5,8 +5,6 @@
 **Route:** topical  
 **Labels on file:** 1
 
-**Also sold as:** Petrolatum
-
 ## Active ingredients
 
 CAMPHOR PETROLATUM MENTHOL

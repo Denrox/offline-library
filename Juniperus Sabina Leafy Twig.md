@@ -5,8 +5,6 @@
 **Route:** oral  
 **Labels on file:** 3
 
-**Also sold as:** Sabina
-
 ## Active ingredients
 
 SABINA

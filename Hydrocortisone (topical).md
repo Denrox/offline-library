@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Hydrocortisone Acetate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 341
+**Labels on file:** 377
 
-**Also sold as:** Anti Itch, Good Sense Anti Itch, Barmicil Plus, Equaline Anti Itch Maximum Strength, Rite Aid Anti-itch, American Red Cross Anti-itch, Aquanil Hc, Marie Originals Medicated Outdoor Anti Itch, Viaderma Calm Anti-itch, Equaline Anti Itch, Family Care Anti-itch, Itch Relief, Family Wellness, Cortizone 10 Fast Acting Itch Relief Cooling, Equate Cortisone, Dermarest Eczema Medicated, Cortisone 10 Intensive Moisture Creme, Skin Relief Cream, Bloop Itch Soothing Topical, Westlake Anti-itch, Anti-itch Paraben Free, Cortizone 10 Water Resistant, Cortizone 10 Cooling, Cortizone 10 Soothing Aloe Itch Relief, Rapidol and 187 more
+**Also sold as:** Anti Itch, Good Sense Anti Itch, American Safety and First Aid, Barmicil Plus, Equaline Anti Itch Maximum Strength, Rite Aid Anti-itch, American Red Cross Anti-itch, Aquanil Hc, Marie Originals Medicated Outdoor Anti Itch, Viaderma Calm Anti-itch, Equaline Anti Itch, Family Care Anti-itch, Itch Relief, Family Wellness, Cortizone 10 Fast Acting Itch Relief Cooling, Equate Cortisone, Dermarest Eczema Medicated, Cortisone 10 Intensive Moisture Creme, Skin Relief Cream, Gerigentle, Bloop Itch Soothing Topical, Westlake Anti-itch, Anti-itch Paraben Free, Cortizone 10 Water Resistant, Cortizone 10 Cooling and 208 more
 
 ## Active ingredients
 

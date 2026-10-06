@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 6
 
-**Also sold as:** Medline, Empower, Zinc Oxide 20%, Supreme Care Protective Zinc Cream
+**Also sold as:** Medline, Empower, Supreme Care Protective Zinc Cream
 
 ## Active ingredients
 

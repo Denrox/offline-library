@@ -6,7 +6,7 @@
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
 **Labels on file:** 8
 
-**Also sold as:** Lidopro, Zhi Technologies, Lidopro Patch (lidocaine 4%, Menthol 1%), Lidocaine
+**Also sold as:** Lidopro, Zhi Technologies, Lidopro Patch (lidocaine 4%, Menthol 1%)
 
 ## Active ingredients
 

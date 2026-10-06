@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 11
 
-**Also sold as:** Mag-al Plus, Geri-lanta Antacid Antigas, Geri-lanta Maximum Strength, Kesin Mag-al Plus, Kesin Mag-al Plus Xs, Regular Strength Antacid Antigas, Antacid, Regular Strength Antacid, Melox, Aluminum Hydroxide, Magnesium Hydroxide, and Dimethicone, Aluminum Hydroxide, Magnesium Hydroxide, and Simethicone
+**Also sold as:** Mag-al Plus, Geri-lanta Antacid Antigas, Geri-lanta Maximum Strength, Kesin Mag-al Plus, Kesin Mag-al Plus Xs, Regular Strength Antacid Antigas, Antacid, Regular Strength Antacid, Melox, Aluminum Hydroxide, Magnesium Hydroxide, and Simethicone
 
 ## Active ingredients
 

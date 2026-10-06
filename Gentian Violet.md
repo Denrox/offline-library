@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 11
 
-**Also sold as:** Sanar Naturals Gentian Violet, Gnp Gentian Violet 1%, Gentian Violet 2%, Humco Gentian Violet 1%, Humco Gentian Violet 2%, Gentian Violet Anti-infective, De La Cruz Gentian Violet, Gentian Violet 1%, El Valle Gentian Violet
+**Also sold as:** Sanar Naturals Gentian Violet, Gnp Gentian Violet 1%, Humco Gentian Violet 1%, Humco Gentian Violet 2%, Gentian Violet Anti-infective, De La Cruz Gentian Violet, El Valle Gentian Violet
 
 ## Active ingredients
 

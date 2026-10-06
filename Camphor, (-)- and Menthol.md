@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 2
 
-**Also sold as:** U Ice Cold, Menthol, Camphor
+**Also sold as:** U Ice Cold
 
 ## Active ingredients
 

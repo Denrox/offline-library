@@ -1,4 +1,4 @@
-# Angelica Archangelica Root, Black Cohosh, Boric Acid, Candida Albicans, Human Herpesvirus 1, Human Herpesvirus 2, Human Papillomavirus, Juniperus Sabina Leafy Twig, Mercurius Solubilis, Oyster Shell Calcium Carbonate, Crude, Phosphorus, Pulsatilla Vulgaris Whole, Sepia Officinalis Juice, Sus Scrofa Adrenal Gland, Sus Scrofa Lymph, Sus Scrofa Ovary, Sus Scrofa Umbilical Cord, Sus Scrofa Uterus, Thyroid, Wood Creosote and Zinc Gluconate
+# Angelica Archangelica Root, Black Cohosh, Boric Acid, Candida Albicans, Human Herpesvirus 1, Human Herpesvirus 2, Human Papillomavirus, Juniperus Sabina Leafy Twig, Mercurius Solubilis, Oyster Shell Carbonate, Crude, Phosphorus, Pulsatilla Vulgaris Whole, Sepia Officinalis Juice, Sus Scrofa Adrenal Gland, Sus Scrofa Lymph, Sus Scrofa Ovary, Sus Scrofa Umbilical Cord, Sus Scrofa Uterus, Thyroid, Wood Creosote and Zinc Gluconate
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 

@@ -1,8 +1,9 @@
-# 1000 Mw), Almond Oil, Argan Oil, Centella Asiatica Triterpenoids, Ceramide Np, Collagen, Soluble, Fish Skin, Hydrolyzed Bovine Elastin (base, Shea Butter, Sunflower Oil and Tocopherol
+# 1000 Mw), Almond Oil, Argan Oil, Centella Asiatica Triterpenoids, Ceramide Np, Collagen, Soluble, Fish Skin, Hydrolyzed Bovine Elastin, Shea Butter, Sunflower Oil and Tocopherol
 
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Hydrolyzed Bovine Elastin (base  
 **Labels on file:** 1
 
 **Also sold as:** Massage Cream For Stretch Marks

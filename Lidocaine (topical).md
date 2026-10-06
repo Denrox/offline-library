@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous, Lidocaine Hcl  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 495
+**Labels on file:** 782
 
-**Also sold as:** Pain Relief Patches, Pain Relieving Gel-patch, Burn Relief, Dr. Numb, Numb 520, Pain Relief Gel-patch, Numb25, Acolye Numbing Cream Anorectal(hemorrhoidal) Cream, Hunter Beach 4%, Care Science, Jakwork Numbing Cream, Numbing Cream, Chimera Guard, Leader Pain Relief Patches, Pain Relief, Oxify, Flanax Back Pain Relief, Signature Numbing Cream, Dr Wellskin Numbing Cream, Equate Hemorrhoid Relief, Anixike Numbing, Rapid Relief, Zensa, Numbing, Hush Anesthetic and 353 more
+**Also sold as:** Burn Relief, Pain Relief Patches, Pain Relieving Gel-patch, Burn, Dr. Numb, Burn Ease, Numb 520, Burn Ease 3.5g, Pain Relief Gel-patch, Sunburn Relief Gel, Numb25, Acolye Numbing Cream Anorectal(hemorrhoidal) Cream, Lidoguard, Dch Pain Relief, Hunter Beach 4%, Unburn, Regenecare Ha, Lidocore, Solarcaine Burn Pain Relief 4oz, Care Science, Jakwork Numbing Cream, Numbing Cream, Chimera Guard, Leader Pain Relief Patches, Pain Relief and 582 more
 
 ## Active ingredients
 

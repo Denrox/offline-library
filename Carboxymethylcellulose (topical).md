@@ -3,25 +3,26 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 1
+**Ingredient forms:** Carboxymethylcellulose Sodium  
+**Labels on file:** 2
 
-**Also sold as:** Drmitsui Hydrocolloid Wound
+**Also sold as:** Stye Relief Serum, Drmitsui Hydrocolloid Wound
 
 ## Active ingredients
 
-Hydrocolloid
+CarboxymethylcelluloseSodium(CMC) 0.5% Purpose Emollient
 
 ## Purpose
 
-SOOTHING GEL ACTIVATIONADVANCED MOISTURE CONTROL PROTECTIVE & HYGIENIC BARRIER HEALING-OPTIMIZED MICROCLIMATE
+Helps with styes Soothes lrritation Gentle Formula
 
 ## Uses
 
-Wash your hands thoroughly before and after treating the woundresidue before application. Ensure that the wound area is clean, dry, and freefrom any oily. Remove the release paper from the dressing. Maintain the adhesiveside of the dressing facing the wound. Accurately align the dressing, ensuringthe wound is situated at the centre. Apply dressing gently over the wound.oRemove the remaining clear release film (marked by arrows) from the dressing,and careful smooth it into place.
+temporarily relieves burningand irritation of the eye.prevent further irritation ofthe eye.
 
 ## Warnings
 
-Do not use if you have a known allergy to hydrocolloids.oDiscontinue use immediately if you experience any discomfort during use.This product is a daily-use item and is not intended to replace medications ormedical devices.
+For external use only.
 
 ### Keep out of reach of children
 
@@ -29,12 +30,12 @@ Keep out of reach of children
 
 ## Directions
 
-This is a single-use product; use as soon as possible afteropening the package. Do not use if you have a known allergy to hydrocolloids.oDiscontinue use immediately if you experience any discomfort during use.This product is a daily-use item and is not intended to replace medications ormedical devices.
+Take an appropriate amountand apply it to the skin aroundthe eyelid.
 
 ## Inactive ingredients
 
-PRODUCT COMPOSITION: Outer layer substrate, Hydrocolloid, Protective layer.
+Aqua(Water),Gentiana ScabraRoot Extract,Mentha Piperita(Peppermint)LeafWater,PipeMethysticum Leaf/Root/StemExtract,Sodium Hyaluronate,Taurine,ChamomillaRecutita(Matricaria) FlowerExtract,Viola Yedoensis Extract,Paeonia Albiflora Root Extract,Lonicera Japonica (Honeysuckle)Flower Extract,Taraxacum Officinale(Dandelion)Rhizome/Root Extract,Malva Sylvestris(Mallow)Flower Extract,AloeBarbadensis Leaf Juice, Chondrus Crispus Extract, Sodium Acetylated Hyaluronate,HydrolyzedHyaluronic Acid,HyaluronicAcid,Sodium HyaluronateCrosspolymer,HydrolyzedSodium Hyaluronate,Potassium Hyaluronate.PVP
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-06-14, DailyMed set ID 5438682c-6bc5-83f2-e063-6394a90ac348. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2025-12-15, DailyMed set ID 45fa7962-b489-4613-e063-6394a90a59b0. Public domain.*

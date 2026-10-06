@@ -6,7 +6,7 @@
 **Drug class:** Retinoid  
 **Labels on file:** 38
 
-**Also sold as:** Panoxyl, Effaclar, Differin, Curist Acne Relief, Neutrogena Evenly Clear Retinoid Adapalene Gel 0.1% Acne Treatment, Neutrogena Adapalene 0.1% Acne Treatment, Proactiv Md Adapalene Acne Treatment, Adapalene Gel
+**Also sold as:** Panoxyl, Effaclar, Differin, Curist Acne Relief, Neutrogena Evenly Clear Retinoid Adapalene Gel 0.1% Acne Treatment, Neutrogena Adapalene 0.1% Acne Treatment, Proactiv Md Adapalene Acne Treatment
 
 ## Active ingredients
 

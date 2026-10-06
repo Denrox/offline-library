@@ -6,7 +6,7 @@
 **Drug class:** Arteriolar Vasodilator  
 **Labels on file:** 4
 
-**Also sold as:** Glemme 5% Minoxidil Hair Regrowth Cream, Flinkye 5% Minoxidil Hair Growth, 5% Minoxidil Topical Solution, 5% Minoxidil Hair Growth Serum
+**Also sold as:** Glemme 5% Minoxidil Hair Regrowth Cream, Flinkye 5% Minoxidil Hair Growth, 5% Minoxidil Hair Growth Serum
 
 ## Active ingredients
 

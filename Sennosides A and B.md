@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 24
 
-**Also sold as:** Senna, Senna Time, Onelax Senna, Vegetable Laxative, Senna Laxative, Publix Laxative Maximum Strength, Lax-time, Senna Natural Vegetable, Senna Tabs, Senna Syrup, Sennosides, Careall Sennosides
+**Also sold as:** Senna, Senna Time, Onelax Senna, Vegetable Laxative, Senna Laxative, Publix Laxative Maximum Strength, Lax-time, Senna Natural Vegetable, Senna Tabs, Senna Syrup, Careall Sennosides
 
 ## Active ingredients
 

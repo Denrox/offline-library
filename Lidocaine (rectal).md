@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** rectal  
+**Ingredient forms:** Lidocaine Hydrochloride  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 6
+**Labels on file:** 8
 
-**Also sold as:** Signature Numbing Cream, Dr. Care Numbing Cream, Gembooxt Topical Numbing Cream, Haemorrhoidal Pain Relief, Lidocaine Anorectal
+**Also sold as:** Signature Numbing Cream, Dr. Care Numbing Cream, Gembooxt Topical Numbing Cream, Haemorrhoidal Pain Relief, Xesso Rear Comfort Glide, Lidocaine Anorectal, Xesso Strawberry Rear Comfort Glide 4% Lidocaine
 
 ## Active ingredients
 

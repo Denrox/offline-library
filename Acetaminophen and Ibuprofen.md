@@ -6,7 +6,7 @@
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
 **Labels on file:** 70
 
-**Also sold as:** Dual Action, Dual Action Pain Reliever, Dual Action Pain Relief, Good Sense Dual Action, Dual Pain Reliever, Advil Dual Action with Acetaminophen, Travel Basix, Equate Dual Pain Reliever, Leader Dual Action Pain Reliever, Period Pills By Biikay, Dg Health Dual Pain Reliever, Careone Dual Action, Basic Care Dual Action, Good Sense Dual Action Back Pain, Dual Action Back Pain Reliever, Equate Pain Reliever, Pain Reliever, Dual Back Pain Reliever, Equaline Dual Action Pain Reliever, Equate Dual Back Pain Reliever, Dg Health Dual Back Pain Reliever, Topcare Dual Action, Topcare Dual Action Back Pain, Motrin Dual Action with Tylenol, Foster and Thrive Dual Action, Advil Dual Action with Acetaminophen and 7 more
+**Also sold as:** Dual Action, Dual Action Pain Reliever, Dual Action Pain Relief, Good Sense Dual Action, Dual Pain Reliever, Advil Dual Action with Acetaminophen, Travel Basix, Equate Dual Pain Reliever, Leader Dual Action Pain Reliever, Period Pills By Biikay, Dg Health Dual Pain Reliever, Careone Dual Action, Basic Care Dual Action, Good Sense Dual Action Back Pain, Dual Action Back Pain Reliever, Equate Pain Reliever, Pain Reliever, Dual Back Pain Reliever, Equaline Dual Action Pain Reliever, Equate Dual Back Pain Reliever, Dg Health Dual Back Pain Reliever, Topcare Dual Action, Topcare Dual Action Back Pain, Motrin Dual Action with Tylenol, Foster and Thrive Dual Action, Advil Dual Action with Acetaminophen and 4 more
 
 ## Active ingredients
 

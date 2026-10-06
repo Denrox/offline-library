@@ -6,7 +6,7 @@
 **Drug class:** Antiseptic  
 **Labels on file:** 2
 
-**Also sold as:** Betadine Gargle, Povidone Iodine
+**Also sold as:** Betadine Gargle
 
 ## Active ingredients
 

@@ -5,8 +5,6 @@
 **Route:** cutaneous  
 **Labels on file:** 2
 
-**Also sold as:** Methyl Salicylate 25% Cream
-
 ## Active ingredients
 
 Methyl Salicylate 25%

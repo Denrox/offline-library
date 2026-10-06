@@ -5,8 +5,6 @@
 **Route:** transdermal  
 **Labels on file:** 1
 
-**Also sold as:** Estriol 5.0 Cream
-
 ## Active ingredients
 
 DRUG FACTS Active Ingredients Micronizrd Estriol USP (Wild Yam) .5%

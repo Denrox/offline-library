@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 6
 
-**Also sold as:** Ishancare Cracked Skin Cream, Urevia, Avenaster Fungal Nail Care Duo Set (day), Urevia Plus, Urea 40, Urea 39
+**Also sold as:** Ishancare Cracked Skin Cream, Urevia, Avenaster Fungal Nail Care Duo Set (day), Urevia Plus
 
 ## Active ingredients
 

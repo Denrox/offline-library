@@ -6,7 +6,7 @@
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
 **Labels on file:** 3
 
-**Also sold as:** Laiyinhe Numbing Cream Anorectal (hemorrhoidal) Cream, Rectal Care Cream, Lidocaine 5%
+**Also sold as:** Laiyinhe Numbing Cream Anorectal (hemorrhoidal) Cream, Rectal Care Cream
 
 ## Active ingredients
 

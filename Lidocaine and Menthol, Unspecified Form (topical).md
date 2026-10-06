@@ -3,10 +3,11 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
+**Ingredient forms:** Lidocaine Hydrochloride  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 22
+**Labels on file:** 37
 
-**Also sold as:** Terocin, Lidozen Patch, Icy Hot, Walgreens Cool N Heat Patch, Lidozen, Pure-aid, Careland Kinesiology Dual Action Pain Relieving Tape, Topcare Pain Relief Patch, Point Relief Lidospot with Menthol, Tylenol Precise Cooling Pain Relieving, Cold and Heat Lidocaine Patch Plus Menthol, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Balm, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Roll On, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed, Lidocaine Pain Relief Patch, Maximum Strength Lidocaine Plus Menthol, Dr.johnes Lidocaine 4% Topical Analgesic Cream, Lidocaine Menthol Pain Relief, Maximun Strength Lidocaine Patch Plus Menthol
+**Also sold as:** Zylotrol, Terocin, Zylotrol Pain Relieving, Lidozen, Lidozen Gel, Lidozen Patch, Icy Hot, Walgreens Cool N Heat Patch, Mamisan, Pure-aid, Careland Kinesiology Dual Action Pain Relieving Tape, Meijer Cold and Hot Pain Relieving Analgesic, Walgreens Nerve Pain Relieving Topical Analgesic, Triderma Pain Relief, Walgreens Cool N Heat, Topcare Pain Relief Patch, Zims Max Freeze, Tylenol Precise Cooling Pain Relieving, Cold and Heat Lidocaine Patch Plus Menthol, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Balm, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Roll On, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed, Lidocaine Pain Relief Patch, Cvs Lidocaine Pain Relief, Mentholatum Lidocaine Ice and 5 more
 
 ## Active ingredients
 

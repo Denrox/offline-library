@@ -6,7 +6,7 @@
 **Drug class:** Azole Antifungal  
 **Labels on file:** 177
 
-**Also sold as:** Tuymec Antifungal Medicated Bar, Antifungal, Fortinia, Publix Athletic Foot, Lotrimin, Elixircurozole, Terrasil Antifungal Cleansing Bar, Rexall Jock Itch, Forticept Antifungal Foot Cream, Rite Aid Antifungal Ringworm, Jock Itch, Forticept Antifungal Foot Gel, Fungicure Intensive, Dg Health Athletes Foot, Smooth Gator Fungus Eliminator, Walgreens Jock Itch, Tinea Versicolor Treatment Cream, Tinea Versicolor Treatment Bar, Terrasil Folliculitis Cream Maximum Strength, Pharmbanner Antifungal Soothing Cream, Pharmbanner Tea Tree Oil Antifungal Soap., Au Kah Chuen Antifungal, Roycederm Tea Tree Oil Antifungal Soap., Roycederm Antifungal Bar, Supreh Ringworm Treatment Balm and 99 more
+**Also sold as:** Tuymec Antifungal Medicated Bar, Antifungal, Fortinia, Publix Athletic Foot, Lotrimin, Elixircurozole, Terrasil Antifungal Cleansing Bar, Rexall Jock Itch, Forticept Antifungal Foot Cream, Rite Aid Antifungal Ringworm, Jock Itch, Forticept Antifungal Foot Gel, Fungicure Intensive, Dg Health Athletes Foot, Smooth Gator Fungus Eliminator, Walgreens Jock Itch, Tinea Versicolor Treatment Cream, Tinea Versicolor Treatment Bar, Terrasil Folliculitis Cream Maximum Strength, Pharmbanner Antifungal Soothing Cream, Pharmbanner Tea Tree Oil Antifungal Soap., Au Kah Chuen Antifungal, Roycederm Tea Tree Oil Antifungal Soap., Roycederm Antifungal Bar, Supreh Ringworm Treatment Balm and 96 more
 
 ## Active ingredients
 

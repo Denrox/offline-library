@@ -5,8 +5,6 @@
 **Route:** topical  
 **Labels on file:** 1
 
-**Also sold as:** Calendula Cream, Arnica Cream
-
 ## Active ingredients
 
 Calendula officinalis (Marigold) Aerial Parts MT 5.0% Active ingredients This preparation contains: Arnica montana (Mountain arnica) Aerial Parts MT 5.0% Calendula officinalis (Marigold) Aerial Parts MT 2.0%

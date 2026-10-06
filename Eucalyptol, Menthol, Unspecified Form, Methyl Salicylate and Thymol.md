@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 12
 
-**Also sold as:** Listerine Freshburst Antiseptic, Listerine Cool Mint Antiseptic, Listerine Ultraclean Antiseptic Cool Mint, Listerine Gum Therapy Mouthwash Glacier Mint, Listerine Original Antiseptic, Antiseptic Lil Drug Store Products, Listerine Gum Therapy Glacier Mint, Eucalyptol, Menthol, Methyl Salicylate, Thymol
+**Also sold as:** Listerine Freshburst Antiseptic, Listerine Cool Mint Antiseptic, Listerine Ultraclean Antiseptic Cool Mint, Listerine Gum Therapy Mouthwash Glacier Mint, Listerine Original Antiseptic, Antiseptic Lil Drug Store Products, Listerine Gum Therapy Glacier Mint
 
 ## Active ingredients
 

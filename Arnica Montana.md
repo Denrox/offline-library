@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 5
 
-**Also sold as:** Gemachlich Zuhause Neuropathy Solid Ointment., Gemachlich Zuhause Neuropathy Spray., Serynth Muscle Comfort, Arnica 20, Arnica Gel
+**Also sold as:** Gemachlich Zuhause Neuropathy Solid Ointment., Gemachlich Zuhause Neuropathy Spray., Serynth Muscle Comfort
 
 ## Active ingredients
 

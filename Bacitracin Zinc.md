@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 57
 
-**Also sold as:** First Aid Antibiotic, Viaderma Care First Aid Antibiotic, Elixirbacishield First Aid, Equate, Claravie, Procurefirst Aid Antibio First Aid Antibiotic, Single Antibiotic, Viaderma Care First Aid, Astonea First Aid, Family Care First Aid, Family Wellness, Vitastem Ultra First Aid Antibiotic, Medpride First Aid, Vitastem Ultra, Bacitracin, Single Antibiotic with Bacitracin, Careall Bacitracin, Sheffield Bacitracin Zinc, Always Save Bacitracin Zinc, Dealmed Bacitracin, Sion Biotext Bacitracin Zinc, Procure Bacitracin Zinc, Good Neighbor Pharmacy Bacitracin Zinc, Publix Bacitracin Zinc, Topcare Bacitracin Zinc and 9 more
+**Also sold as:** First Aid Antibiotic, Viaderma Care First Aid Antibiotic, Elixirbacishield First Aid, Equate, Claravie, Procurefirst Aid Antibio First Aid Antibiotic, Single Antibiotic, Viaderma Care First Aid, Astonea First Aid, Family Care First Aid, Family Wellness, Vitastem Ultra First Aid Antibiotic, Medpride First Aid, Vitastem Ultra, Single Antibiotic with Bacitracin, Careall Bacitracin, Sheffield Bacitracin Zinc, Always Save Bacitracin Zinc, Dealmed Bacitracin, Sion Biotext Bacitracin Zinc, Procure Bacitracin Zinc, Good Neighbor Pharmacy Bacitracin Zinc, Publix Bacitracin Zinc, Topcare Bacitracin Zinc, Fifthpulse Bacitracin Zinc and 8 more
 
 ## Active ingredients
 

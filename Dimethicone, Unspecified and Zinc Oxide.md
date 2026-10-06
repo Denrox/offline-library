@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 3
 
-**Also sold as:** Baza Protect, Zinc Oxide, Dimethicone
+**Also sold as:** Baza Protect
 
 ## Active ingredients
 

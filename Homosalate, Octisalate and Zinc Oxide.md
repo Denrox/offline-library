@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 88
 
-**Also sold as:** Buildable Blur, Protectint 10n, Protectint 14n, Protectint 20c, Protectint 22w, Protectint 24n, Protectint 26w, Protectint 30w, Protectint 32n, Protectint 34c, Protectint 40w, Protectint 42c, Protectint 46n, Protectint 52n, Protectint 58w, Bronzing Blendrops Broad Spectrum Spf 46, Perfecting Blendrops Broad Spectrum Spf 46, Illuminizing Blendrops Broad Spectrum Spf 46, Jafra Beauty Advanced Silk Moisturizing Serum Foundation Sunscreen Broad Spectrum Spf 15 Capuccino D8, Bronzing Blendrops Broad Spectrum Spf 40, Illuminizing Blendrops Broad Spectrum Spf 40, Perfecting Blendrops Broad Spectrum Spf 40, Daily Prevention Sheer Matte Moisturizer Spf30, Jafra Beauty Advanced Silk Moisturizing Serum Foundation Sunscreen Broad Spectrum Spf 15 Earth Nd18, Essence Pout Protector Spf 20 Lip Balm and 58 more
+**Also sold as:** Buildable Blur, Protectint 10n, Protectint 14n, Protectint 20c, Protectint 22w, Protectint 24n, Protectint 26w, Protectint 30w, Protectint 32n, Protectint 34c, Protectint 40w, Protectint 42c, Protectint 46n, Protectint 52n, Protectint 58w, Bronzing Blendrops Broad Spectrum Spf 46, Perfecting Blendrops Broad Spectrum Spf 46, Illuminizing Blendrops Broad Spectrum Spf 46, Jafra Beauty Advanced Silk Moisturizing Serum Foundation Sunscreen Broad Spectrum Spf 15 Capuccino D8, Bronzing Blendrops Broad Spectrum Spf 40, Illuminizing Blendrops Broad Spectrum Spf 40, Perfecting Blendrops Broad Spectrum Spf 40, Daily Prevention Sheer Matte Moisturizer Spf30, Jafra Beauty Advanced Silk Moisturizing Serum Foundation Sunscreen Broad Spectrum Spf 15 Earth Nd18, Essence Pout Protector Spf 20 Lip Balm and 57 more
 
 ## Active ingredients
 

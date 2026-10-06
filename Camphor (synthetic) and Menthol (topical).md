@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 118
 
-**Also sold as:** Dragon Pain Relieving Balm, Pain Relieving Cream, Dragon Pain Relieving, Cooling Pain Relief, Alevex, Hempnesic, Ay Bendito - Cbd, N-labs Arcticzen Pain Relief Knee, Eagle Brand Medicated Roll On Refresh, Eagle Brand Medicated Oil Refresh, Vaporizing Chest Rub Lavender 4oz, Healthy Back Institute Rub On Relief, China-gel Topical Pain Reliever, Vicks Vapofreeze Pain Relieving, Ay Bendito Hemp, Tommie Copper Pain Relief Roller, Muscle Ease, Icy Hot Pro Pain Massaging Balm, Pain Relief Balm, Professional Therapy Musclecare Pro Roll-on, Professional Therapy Musclecare Pro Pain Relieving Cold Gel, Professional Therapy Musclecare Pro, Yulam Die Da Wan Hua Pain Relieving, Bio-ice, Pain Reliever and 70 more
+**Also sold as:** Dragon Pain Relieving Balm, Pain Relieving Cream, Dragon Pain Relieving, Cooling Pain Relief, Alevex, Hempnesic, Ay Bendito - Cbd, N-labs Arcticzen Pain Relief Knee, Eagle Brand Medicated Roll On Refresh, Eagle Brand Medicated Oil Refresh, Vaporizing Chest Rub Lavender 4oz, Healthy Back Institute Rub On Relief, China-gel Topical Pain Reliever, Vicks Vapofreeze Pain Relieving, Ay Bendito Hemp, Tommie Copper Pain Relief Roller, Muscle Ease, Icy Hot Pro Pain Massaging Balm, Pain Relief Balm, Professional Therapy Musclecare Pro Roll-on, Professional Therapy Musclecare Pro Pain Relieving Cold Gel, Professional Therapy Musclecare Pro, Yulam Die Da Wan Hua Pain Relieving, Bio-ice, Pain Reliever and 69 more
 
 ## Active ingredients
 

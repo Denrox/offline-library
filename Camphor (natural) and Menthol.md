@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 39
 
-**Also sold as:** Myco Clinic Pain Relief, Dragon Pain Relieving Balm, Vapor Stick, Ay Bendito - Thermoactive, Cbd Clinic Pain Relief - Level 5, Tidl Pain Relief Cryo Therapy Max Strength Spray., Tidl Pain Relief Morning Therapy Spray., Terrasil Bruise and Pain Relief Maximum Strength, Cbd Clinic Deep-rub Pain Relief - Level 5, Active Recovery Pain Relief, Active Recovery Pain Relief Stick, Pm Recovery Pain Relief, Reinreude Back Pain Therapy, Softlips Naturals Medicated Matcha Honey, Softlips Naturals Medicated, Softlips Naturals Medicated Elderberry Acai, Fast Freeze, Aulief Topical Pain Reliever, Sohm Pain Away, Tempo Cool, Xtracare Vaporizing Chest Rub, Pluscbd Pain Cream (penetrating) 2oz, Ramedica Herbal Wonder Balm, Recovery Roll-on, Cbd Clinic Pain Relief - Level 4 and 5 more
+**Also sold as:** Myco Clinic Pain Relief, Dragon Pain Relieving Balm, Vapor Stick, Ay Bendito - Thermoactive, Cbd Clinic Pain Relief - Level 5, Tidl Pain Relief Cryo Therapy Max Strength Spray., Tidl Pain Relief Morning Therapy Spray., Terrasil Bruise and Pain Relief Maximum Strength, Cbd Clinic Deep-rub Pain Relief - Level 5, Active Recovery Pain Relief, Active Recovery Pain Relief Stick, Pm Recovery Pain Relief, Reinreude Back Pain Therapy, Softlips Naturals Medicated Matcha Honey, Softlips Naturals Medicated, Softlips Naturals Medicated Elderberry Acai, Fast Freeze, Aulief Topical Pain Reliever, Sohm Pain Away, Tempo Cool, Xtracare Vaporizing Chest Rub, Pluscbd Pain Cream (penetrating) 2oz, Ramedica Herbal Wonder Balm, Recovery Roll-on, Cbd Clinic Pain Relief - Level 4 and 4 more
 
 ## Active ingredients
 

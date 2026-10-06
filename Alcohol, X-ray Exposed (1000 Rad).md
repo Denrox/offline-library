@@ -5,8 +5,6 @@
 **Route:** oral  
 **Labels on file:** 1
 
-**Also sold as:** X-ray
-
 ## Active ingredients
 
 X-RAY 10M (**contains 0.443 mg of the active ingredient per pellet)

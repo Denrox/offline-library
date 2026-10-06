@@ -3,54 +3,68 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 2
+**Ingredient forms:** Chlorhexidine Acetate  
+**Labels on file:** 3
 
-**Also sold as:** Wart Remover Ointmen T, Wart Remover
+**Also sold as:** Mqupin Liquid Fungal Nail Treatment, Wart Remover Ointmen T, Wart Remover
 
 ## Active ingredients
 
-SALICYLIC ACID 1% CHLORHEXIDINE 1%
+Chlorhexidine Diacetate 1% Salicylic Acid 1%
 
 ## Purpose
 
-WART REMOVER
+Anti-Fungal
 
 ## Uses
 
-for the removal of common andplantar warts. the common wart is easily recog-nizedby the rough "cauliflow-er-like'appearance of the sur-face. the plantar wart is recognized byitslocation only on the bottom ofthe foot.its tendemess and theinterruption of the footprint pat-tern.
+Helpful eliminate the fungus and promote healthier nail growth.
 
 ## Warnings
 
-For external use only. Keep away from fire and flame.Please clean your hands beforeuse to ensure the best resultsfrom the product.
+For external use only.
 
 ### Do not use
 
-On damaged skin(cuts, abra-sions, eczema,sunbumn). If you are allergic to any oftheingredientsin this product. If you are pregnant or breast-feeding
+- On irritated skin and any area that is infected or reddened.
+- If pregnant or if there is any allergic reaction to this product.
+
+### Ask a doctor before use if
+
+Ask Doctor before you use If you have diabetes or poor blood circulation. If discomfort persists.
 
 ### When using this product
 
-1.wash the affected area. 2.may soak the wart in warmwater for 5minutes. 3.dry area thoroughly. 4.using the applicator(cotton swab)apply a layer ofointment to sufficiently covereach wart. 5.aliow it to fully absorb and coverit witha bandage as needed. 6.repeat this procedure once ortwicedaily as needed (until thewart isremoved) for up to 12weeks.
+When Using Avoid contact with eyes.
 
 ### Stop use and ask a doctor if
 
-Discontinue use if signs of irrita-tion or rash occur.
+Stop Use If discomfort persists.
 
 ### Keep out of reach of children
 
-lease keep out of reach of chil-dren.
+Keep Out Of Reach Of Children
+
+- If product gets into eyes, flush with water for 15 minutes
+- If swallowed, get medical help or contact a Poison Control Center right away.
 
 ## Directions
 
-1.wash the affected area. 2.may soak the wart in warmwater for 5minutes. 3.dry area thoroughly. 4.using the applicator(cotton swab)apply a layer ofointment to sufficiently covereach wart. 5.aliow it to fully absorb and coverit witha bandage as needed. 6.repeat this procedure once ortwicedaily as needed (until thewart isremoved) for up to 12weeks.
+- Wash your hands & feet Before Use.
+- Use your nail file to repair the nail scrape of te dirt & make it thinner.
+- Apply a thin layer of liquid using the nail brush onto the affected area.
+- Repeat this process 2-3 times daily until a healthy nail begins regenerating, and for best results, continue use for 6 weeks straight.
+- The Toenail Fungus Treatment demonstrates visible improvements in just 4-5 weeks, effectively addressing brittle and compromised nails within a span of 3 months.
 
 ## Other information
 
-Store in a cooland dry place.
+- Store at room temperature and out of direct sunlight
+- Skin discoloration may occur during or after use.
 
 ## Inactive ingredients
 
-ANGELICA DAHURICA ROOT CITRUS RETICULATA WHOLE FORSYTHIA SUSPENSA ROOT PLATYCODON GRANDIFLORUS WHOLE ASARUM SIEBOLDII CETOSTEARYL ALCOHOL SOPHORA FLAVESCENS ROOT PORTULACA OLERACEA WHOLE ATRACTYLODES MACROCEPHALA ROOT ARCTIUM LAPPA WHOLE BAMBUSA VULGARIS LEAF BORNEOL CNIDIUM MONNIERI FRUIT HONEY ALCOHOL
+Water, Glycerin, Xanthan Gum, Rehmannia Chinensis Root Extract, Sophora Flavescent Root Extract, Alix Alba (Willow) Bark Extract, Tea Tree Essential Oil Extract, Keratin, Impatiens Balsamina Flower Extract, Dictamnus Dasycarpus Root Bark Extract, Extract Of Panax Notoginseng, Angelica dahurica, Phellodendron Bark Extract, Methylparaben, Caprylhydrpxamic Acid
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2024-05-10, DailyMed set ID 1816d8e0-a3e5-2486-e063-6294a90ad147. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2024-03-25, DailyMed set ID 14782f8c-3b29-1d88-e063-6294a90ac3e4. Public domain.*

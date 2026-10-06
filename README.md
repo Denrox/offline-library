@@ -1,6 +1,6 @@
 # Over-the-counter drugs (FDA labels)
 
-1756 pages, 22 categories. Snapshot: 2026-10-05.
+1687 pages, 22 categories. Snapshot: 2026-10-05.
 
 Source: https://open.fda.gov/apis/drug/label/
 

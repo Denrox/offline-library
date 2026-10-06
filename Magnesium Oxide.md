@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 19
 
-**Also sold as:** Mag 440, Magnesium Oxide 400mg
+**Also sold as:** Mag 440
 
 ## Active ingredients
 

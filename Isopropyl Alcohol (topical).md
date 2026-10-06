@@ -5,7 +5,7 @@
 **Route:** topical  
 **Labels on file:** 559
 
-**Also sold as:** 70%, Sedlav, Walmart, 50% Rubbing, Stone Hand Sanitizer, Linen Hand Sanitizer, Cashmere Hand Sanitizer, Leather Hand Sanitizer, Suede Hand Sanitizer, Wood Hand Sanitizer, Coconana Hand Sanitizer, Flower Power Hand Sanitizer, Free and Clear Hand Sanitizer, Fruit O Pebbles Hand Sanitizer, Zeste Hand Sanitizer, Medline, Refill 4, Verifine, Defense Hand Sanitizer, The Green Scissor, Non-proprietary Name, Dollar General, First Aid Only Hand Sanitizing Wipe, Alpet E3 Hand Sanitizer, Handout Protection Hand Sanitizer and 293 more
+**Also sold as:** Sedlav, Walmart, 50% Rubbing, Stone Hand Sanitizer, Linen Hand Sanitizer, Cashmere Hand Sanitizer, Leather Hand Sanitizer, Suede Hand Sanitizer, Wood Hand Sanitizer, Coconana Hand Sanitizer, Flower Power Hand Sanitizer, Free and Clear Hand Sanitizer, Fruit O Pebbles Hand Sanitizer, Zeste Hand Sanitizer, Medline, Refill 4, Verifine, Defense Hand Sanitizer, The Green Scissor, Non-proprietary Name, Dollar General, First Aid Only Hand Sanitizing Wipe, Alpet E3 Hand Sanitizer, Handout Protection Hand Sanitizer, Iris and 286 more
 
 ## Active ingredients
 

@@ -6,7 +6,7 @@
 **Drug class:** Standardized Chemical Allergen  
 **Labels on file:** 20
 
-**Also sold as:** Sting Relief Pad, Sting Relief, Sting Relief Wipes, Mk Sting Relief Pads, Lights Instant Sting Relief Pad, Keep Going Sting Relief Pad, Everlit Survival Sting Relief Pad, Aerowipe, Survivex Sting Relief, Medi-first Sting Relief, Keepgoing Sting Relief Pad, Everlit Care Products Sting Relief, Op First Aid Series Insect Sting Relief Pad, Sooth-a-sting, First Aid Only Sting Relief Pad, Benzocaine
+**Also sold as:** Sting Relief Pad, Sting Relief, Sting Relief Wipes, Mk Sting Relief Pads, Lights Instant Sting Relief Pad, Keep Going Sting Relief Pad, Everlit Survival Sting Relief Pad, Aerowipe, Survivex Sting Relief, Medi-first Sting Relief, Keepgoing Sting Relief Pad, Everlit Care Products Sting Relief, Op First Aid Series Insect Sting Relief Pad, Sooth-a-sting, First Aid Only Sting Relief Pad
 
 ## Active ingredients
 

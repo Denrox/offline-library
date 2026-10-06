@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 986
 
-**Also sold as:** Pain Relief, Childrens Pain and Fever, Pain Reliever, Pain Relief Extra Strength, Tylenol Extra Strength, Good Sense Pain Relief, Infants Pain and Fever, Childrens Tylenol, Pain Reliever Extra Strength, Childrens Pain Relief, Extra Strength Pain Relief, Extra Strength Pain Reliever, M-pap, Pain Relief Childrens, Good Sense Childrens Pain and Fever, Pharbetol, Pain Relief Regular Strength, Arthritis Pain, Max Relief Junior, Arthritis Pain Relief, 8 Hour Pain Relief, Pain and Fever, Regular Strength Pain Relief, Pain and Fever Childrens, Tylenol Regular Strength and 302 more
+**Also sold as:** Pain Relief, Childrens Pain and Fever, Pain Reliever, Pain Relief Extra Strength, Tylenol Extra Strength, Good Sense Pain Relief, Infants Pain and Fever, Childrens Tylenol, Pain Reliever Extra Strength, Childrens Pain Relief, Extra Strength Pain Relief, Extra Strength Pain Reliever, M-pap, Pain Relief Childrens, Good Sense Childrens Pain and Fever, Pharbetol, Pain Relief Regular Strength, Arthritis Pain, Max Relief Junior, Arthritis Pain Relief, 8 Hour Pain Relief, Pain and Fever, Regular Strength Pain Relief, Pain and Fever Childrens, Tylenol Regular Strength and 294 more
 
 ## Active ingredients
 

@@ -6,7 +6,7 @@
 **Drug class:** Azole Antifungal  
 **Labels on file:** 18
 
-**Also sold as:** Vagistat, Tioconazole 1, Basic Care Tioconazole, Signature Care Tioconazole 1, Dg Health Tioconazole 1, Up and Up Tioconazole 1, Equate Tioconazole 1 Day, Leader Tioconazole 1, Careone Tioconazole 1, Good Sense Tioconazole 1, Foster and Thrive Tioconazole, Equaline Tioconazole 1, Topcare Tioconazole 1
+**Also sold as:** Vagistat, Basic Care Tioconazole, Signature Care Tioconazole 1, Dg Health Tioconazole 1, Up and Up Tioconazole 1, Equate Tioconazole 1 Day, Leader Tioconazole 1, Careone Tioconazole 1, Good Sense Tioconazole 1, Foster and Thrive Tioconazole, Equaline Tioconazole 1, Topcare Tioconazole 1
 
 ## Active ingredients
 
