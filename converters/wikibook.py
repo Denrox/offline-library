@@ -81,14 +81,15 @@ def build(out, source):
                 url = "https://en.wikibooks.org/wiki/" + urllib.parse.quote(page.replace(" ", "_"))
                 done[chapter] = (
                     f"# {chapter}\n\n{notice}{body}\n---\n\n"
-                    f"*Source: [Wikibooks, {page}]({url}), by Wikibooks contributors, "
+                    f"*Source: Wikibooks, {page} ({url}), by Wikibooks contributors, "
                     "CC BY-SA 4.0.*\n",
                     [],
+                    url,
                 )
             if done[chapter]:
                 done[chapter][1].append(f"{book}: {section}")
 
     for chapter, entry in done.items():
         if entry:
-            out.page(f"{book} - {chapter}", entry[0], entry[1])
+            out.page(f"{book} - {chapter}", entry[0], entry[1], urls=[entry[2]])
     return today

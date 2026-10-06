@@ -40,18 +40,18 @@ def build(out, source, xml_path=None):
         title = t.get("title").strip()
         also = [a.text.strip() for a in t.findall("also-called") if a.text]
         groups = [g.text.strip() for g in t.findall("group") if g.text]
-        related = [r.text.strip() for r in t.findall("related-topic") if r.text]
+        related = [(r.text.strip(), r.get("url")) for r in t.findall("related-topic") if r.text]
 
         parts = [f"# {title}\n"]
         if also:
             parts.append(f"*Also called: {', '.join(also)}*\n")
         parts.append(html_to_md(t.findtext("full-summary") or "", "https://medlineplus.gov"))
         if related:
-            parts.append("## Related topics\n\n" + "\n".join(f"- {r}" for r in related) + "\n")
+            parts.append("## Related topics\n\n" + "\n".join(f"- [{name}]({url})" for name, url in related) + "\n")
         parts.append(
-            f"---\n\n*Source: [MedlinePlus]({t.get('url')}), U.S. National Library of "
-            "Medicine. General information, not medical advice.*\n"
+            f"---\n\n*Source: MedlinePlus, U.S. National Library of Medicine "
+            f"({t.get('url')}). General information, not medical advice.*\n"
         )
-        out.page(title, "\n".join(parts), groups)
+        out.page(title, "\n".join(parts), groups, urls=[t.get("url")])
 
     return snapshot

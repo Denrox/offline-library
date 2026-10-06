@@ -3,11 +3,25 @@
 ui-apt-mirror imports every .md file except README.md, takes the first
 "# Heading" as the title and reads categories.json as
 {"Category": ["file.md", ...]}.
+
+Links are rewritten for offline use: a link to a page of the same source
+becomes a relative link to that page's file, every other link becomes its text.
 """
 
 import json
 import os
 import re
+import urllib.parse
+
+MD_LINK = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
+
+
+def normalize_url(url):
+    """Comparable form: https, no www., decoded path with spaces as _, no query/fragment."""
+    u = urllib.parse.urlsplit(url.strip())
+    host = u.netloc.lower().removeprefix("www.")
+    path = urllib.parse.unquote(u.path).replace(" ", "_").rstrip("/")
+    return f"https://{host}{path}"
 
 
 def safe_filename(title, max_len=120):
@@ -23,22 +37,45 @@ class Output:
         self.source = source
         self.categories = {}
         self.files = set()
+        self.urls = {}
         os.makedirs(out_dir, exist_ok=True)
 
-    def page(self, title, markdown, categories=()):
-        """Write one page; returns its file name, or None for a duplicate title."""
+    def page(self, title, markdown, categories=(), urls=()):
+        """Write one page; urls are the web addresses it replaces.
+        Returns the file name, or None for a duplicate title."""
         fname = safe_filename(title)
         if fname.lower() in self.files:
             return None
         self.files.add(fname.lower())
+        for url in urls:
+            self.urls[normalize_url(url)] = fname
         with open(os.path.join(self.dir, fname), "w", encoding="utf-8") as f:
             f.write(markdown.rstrip() + "\n")
         for c in categories or ["General"]:
             self.categories.setdefault(c, []).append(fname)
         return fname
 
+    def _rewrite_links(self, fname, markdown):
+        def repl(m):
+            text, href = m.group(1), m.group(2)
+            target = self.urls.get(normalize_url(href)) if href.startswith("http") else None
+            if not target or target == fname:
+                return text
+            return f"[{text}]({urllib.parse.quote(target)})"
+
+        return MD_LINK.sub(repl, markdown)
+
     def finish(self, snapshot):
-        """categories.json, README.md (attribution) and LICENSE."""
+        """Rewrite links, then write categories.json, README.md and LICENSE."""
+        for entry in os.scandir(self.dir):
+            if entry.name.endswith(".md"):
+                with open(entry.path, encoding="utf-8") as f:
+                    text = f.read()
+                rewritten = self._rewrite_links(entry.name, text)
+                if rewritten != text:
+                    with open(entry.path, "w", encoding="utf-8") as f:
+                        f.write(rewritten)
+
         s = self.source
         cats = {k: sorted(v) for k, v in sorted(self.categories.items())}
         with open(os.path.join(self.dir, "categories.json"), "w", encoding="utf-8") as f:
