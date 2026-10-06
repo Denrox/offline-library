@@ -14,7 +14,6 @@ adding one source never pulls in the others.
 | Topic | Source | Pages from | License | Add to ui-apt-mirror |
 |---|---|---|---|---|
 | Medicine | **Army First Aid (ATP 4-02.11, 2026)** — U.S. Army manual for non-medical personnel: bleeding control and tourniquets, airway, breathing, shock, head and eye injuries, burns, fractures and splinting, bites and stings, heat and cold injuries, evacuation. | https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46159-ATP_4-02.11-000-WEB-1.pdf | Public domain (U.S. Government work); approved for public release, distribution unlimited. | `https://github.com/Denrox/offline-library/tree/medicine-first-aid-army` |
-| Medicine | **First Aid (Wikibooks)** — Community-written first aid course: assessment, CPR, bleeding, burns, fractures, environmental emergencies, wilderness and marine first aid. | https://en.wikibooks.org/wiki/First_Aid | CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). | `https://github.com/Denrox/offline-library/tree/medicine-first-aid` |
 | Medicine | **MedlinePlus health topics** — About 1,000 plain-language health topics (conditions, symptoms, tests, wellness) from the U.S. National Library of Medicine. | https://medlineplus.gov/ | Public domain (U.S. Government work). | `https://github.com/Denrox/offline-library/tree/medicine-medlineplus` |
 <!-- catalog:end -->
 
