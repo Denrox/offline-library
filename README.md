@@ -15,6 +15,7 @@ adding one source never pulls in the others.
 |---|---|---|---|---|
 | Medicine | **Army First Aid (ATP 4-02.11, 2026)** — U.S. Army manual for non-medical personnel: bleeding control and tourniquets, airway, breathing, shock, head and eye injuries, burns, fractures and splinting, bites and stings, heat and cold injuries, evacuation. | https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46159-ATP_4-02.11-000-WEB-1.pdf | Public domain (U.S. Government work); approved for public release, distribution unlimited. | `https://github.com/Denrox/offline-library/tree/medicine-first-aid-army` |
 | Medicine | **MedlinePlus health topics** — About 1,000 plain-language health topics (conditions, symptoms, tests, wellness) from the U.S. National Library of Medicine. | https://medlineplus.gov/ | Public domain (U.S. Government work). | `https://github.com/Denrox/offline-library/tree/medicine-medlineplus` |
+| Medicine | **Over-the-counter drugs (FDA labels)** — About 2,300 non-prescription medicines and products (pain relievers, cold and allergy, digestive, skin, eye and oral care, sunscreens, antiseptics) from official U.S. "Drug Facts" labels, one page per active ingredient with the brand names it is sold under. Homeopathic products are excluded. | https://open.fda.gov/apis/drug/label/ | Public domain (CC0, openFDA). | `https://github.com/Denrox/offline-library/tree/medicine-drugs-otc` |
 <!-- catalog:end -->
 
 To use a source, open **Cheatsheets → Sources** in the ui-apt-mirror admin

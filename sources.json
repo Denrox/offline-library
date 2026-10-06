@@ -43,6 +43,20 @@
         "notice": "U.S. Army manual written for soldiers; parts of it assume combat conditions (Tactical Combat Casualty Care). Figures are not included. In an emergency, call your local emergency number.",
         "repair_initials": true
       }
+    },
+    {
+      "id": "medicine-drugs-otc",
+      "topic": "Medicine",
+      "title": "Over-the-counter drugs (FDA labels)",
+      "description": "About 2,300 non-prescription medicines and products (pain relievers, cold and allergy, digestive, skin, eye and oral care, sunscreens, antiseptics) from official U.S. \"Drug Facts\" labels, one page per active ingredient with the brand names it is sold under. Homeopathic products are excluded.",
+      "converter": "openfda_otc",
+      "source_url": "https://open.fda.gov/apis/drug/label/",
+      "license": "Public domain (CC0, openFDA).",
+      "attribution": "U.S. Food and Drug Administration drug labels via openFDA. FDA does not endorse this collection. Not medical advice.",
+      "params": {
+        "product_type": "HUMAN OTC DRUG",
+        "notice": "Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure."
+      }
     }
   ]
 }
