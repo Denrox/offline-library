@@ -1,0 +1,21 @@
+# Tracheal Disorders
+
+*Also called: Windpipe disorders*
+
+Your trachea, or windpipe, is one part of your airway system. Airways are pipes that carry oxygen-rich air to your lungs. They also carry carbon dioxide, a waste gas, out of your lungs.
+
+When you inhale, air travels from your nose, through your larynx, and down your windpipe. The windpipe splits into two [bronchi](https://medlineplus.gov/bronchialdisorders.html) that enter your lungs.
+
+Problems with the trachea include narrowing, inflammation, and some inherited conditions. You may need a procedure called a tracheostomy to help you breathe if you have swallowing problems, or have conditions that affect coughing or block your airways. You might also need a tracheostomy if you are in [critical care](https://medlineplus.gov/criticalcare.html) and need to be on a breathing machine.
+
+NIH: National Heart, Lung, and Blood Institute
+
+## Related topics
+
+- Choking
+- Croup
+- Throat Disorders
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/trachealdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*

@@ -1,0 +1,24 @@
+# Occupational Health for Health Care Providers
+
+Health care workers are exposed to many job hazards. These can include :
+
+- Infections
+- Needle injuries
+- Back injuries
+- Allergy-causing substances
+- Violence
+- Stress
+
+Follow good job safety and injury prevention practices. They can reduce your risk of health problems. Use protective equipment, follow [infection control](https://medlineplus.gov/infectioncontrol.html) guidelines, learn the right way to lift heavy objects, and find ways to manage stress.
+
+National Institute for Occupational Safety and Health
+
+## Related topics
+
+- Infection Control
+- Latex Allergy
+- Occupational Health
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/occupationalhealthforhealthcareproviders.html), U.S. National Library of Medicine. General information, not medical advice.*

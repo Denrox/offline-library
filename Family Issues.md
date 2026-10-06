@@ -1,0 +1,13 @@
+# Family Issues
+
+There are many kinds of families. Some have two parents, while others have a single parent. Sometimes there is no parent and grandparents raise grandchildren. Some children live in foster families, adoptive families, or in stepfamilies.
+
+Families are much more than groups of people who share the same genes or the same address. They should be a source of love and support. This does not mean that everyone gets along all the time. Conflicts are a part of family life. Many things can lead to conflict, such as illness, disability, addiction, job loss, school problems, and marital issues. Listening to each other and working to resolve conflicts are important in strengthening the family.
+
+## Related topics
+
+- Parenting
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/familyissues.html), U.S. National Library of Medicine. General information, not medical advice.*

@@ -1,0 +1,11 @@
+# Tumors and Pregnancy
+
+Tumors during [pregnancy](https://medlineplus.gov/pregnancy.html) are rare, but they can happen. Tumors can be either benign (not cancer) or malignant (cancer). The most common cancers in pregnancy include [breast cancer](https://medlineplus.gov/breastcancer.html), [thyroid cancer](https://medlineplus.gov/thyroidcancer.html), [cervical cancer](https://medlineplus.gov/cervicalcancer.html), [lymphoma](https://medlineplus.gov/lymphoma.html), and [melanoma](https://medlineplus.gov/melanoma.html). Cancer itself rarely harms the fetus, and some cancer treatments are safe during pregnancy. You and your health care provider will work together to find the best treatment. Your choices will depend on how far along the pregnancy is, as well as the type, size, and stage of your cancer.
+
+Another type of tumor that women can get is called a gestational trophoblastic disease (GTD). It happens when a fertilized egg doesn't become a fetus. GTD is not always easy to find. It is usually benign, but some types can be malignant. The most common type of GTD is a molar pregnancy. In its early stages, it may look like a normal pregnancy. You should see your provider if you have vaginal bleeding (not menstrual bleeding).
+
+Treatment depends on the type of tumor, whether it has spread to other places, and your overall health.
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/tumorsandpregnancy.html), U.S. National Library of Medicine. General information, not medical advice.*

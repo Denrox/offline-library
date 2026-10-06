@@ -1,0 +1,29 @@
+# Pulmonary Fibrosis
+
+*Also called: IPF, Idiopathic pulmonary fibrosis*
+
+Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time. This tissue gets thick and stiff. That makes it hard for you to catch your breath, and your blood may not get enough oxygen.
+
+Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease. [Interstitial lung disease](https://medlineplus.gov/interstitiallungdiseases.html) is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found. This is called idiopathic pulmonary fibrosis.
+
+Symptoms include:
+
+- Shortness of breath
+- A dry, hacking cough that doesn't get better
+- Fatigue
+- Weight loss for no known reason
+- Aching muscles and joints
+- Clubbing, which is the widening and rounding of the tips of the fingers or toes
+
+Your doctor may use your medical history, imaging tests, a biopsy, and lung function tests to diagnose pulmonary fibrosis. There is no cure. Treatments can help with symptoms and improve your quality of life. They include medicines, oxygen therapy, pulmonary rehabilitation, or a lung transplant.
+
+NIH: National Heart, Lung, and Blood Institute
+
+## Related topics
+
+- Interstitial Lung Diseases
+- Pulmonary Rehabilitation
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/pulmonaryfibrosis.html), U.S. National Library of Medicine. General information, not medical advice.*

@@ -1,0 +1,26 @@
+# Palliative Care
+
+Palliative care is treatment of the discomfort, symptoms, and stress of serious illness. It provides relief from distressing symptoms including:
+
+- [Pain](https://medlineplus.gov/pain.html)
+- Shortness of breath
+- Fatigue
+- Constipation
+- Nausea
+- Loss of appetite
+- Problems with sleep
+
+It can also help you deal with the side effects of the medical treatments you're receiving.
+
+[Hospice care](https://medlineplus.gov/hospicecare.html), care at the end of life, always includes palliative care. But you may receive palliative care at any stage of an illness. The goal is to make you comfortable and improve your quality of life.
+
+NIH: National Institute of Nursing Research
+
+## Related topics
+
+- Hospice Care
+- Pain
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/palliativecare.html), U.S. National Library of Medicine. General information, not medical advice.*

@@ -1,0 +1,29 @@
+# Bladder Diseases
+
+The bladder is a hollow organ in your lower abdomen that stores urine. Many conditions can affect your bladder. Some common ones are:
+
+- Cystitis - inflammation of the bladder, often from an [infection](https://medlineplus.gov/urinarytractinfections.html)
+- [Urinary incontinence](https://medlineplus.gov/urinaryincontinence.html) - loss of bladder control
+- [Overactive bladder](https://medlineplus.gov/overactivebladder.html) - a condition in which the bladder squeezes urine out at the wrong time
+- [Interstitial cystitis](https://medlineplus.gov/interstitialcystitis.html) - a chronic problem that causes bladder pain and frequent, urgent urination
+- [Bladder cancer](https://medlineplus.gov/bladdercancer.html)
+
+Doctors diagnose bladder diseases using different tests. These include [urine tests](https://medlineplus.gov/urinalysis.html), x-rays, and an examination of the bladder wall with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.
+
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+## Related topics
+
+- Bladder Cancer
+- Interstitial Cystitis
+- Overactive Bladder
+- Pelvic Floor Disorders
+- Ureteral Disorders
+- Urethral Disorders
+- Urinary Incontinence
+- Urinary Tract Infections
+- Urine and Urination
+
+---
+
+*Source: [MedlinePlus](https://medlineplus.gov/bladderdiseases.html), U.S. National Library of Medicine. General information, not medical advice.*
