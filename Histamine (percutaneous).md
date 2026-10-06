@@ -1,0 +1,60 @@
+# Histamine (percutaneous)
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** percutaneous  
+**Labels on file:** 1
+
+**Brand and product names:** Positive Skin Test Control - Histamine
+
+## ⚠ Boxed warning
+
+POSITIVE SKIN TEST CONTROL - HISTAMINE For Percutaneous (Scratch, Prick or Puncture) Administration Histamine Base: 6mg/mL (Histamine Dihydrochloride: 10mg/mL) This product is to be used by a physician or under the supervision of a physician.
+
+## Uses
+
+Positive Skin Test Control - Histamine is indicated as an adjunct in allergy skin test for diagnosis, as a positive control to test wheal-flare response of skin for evaluation of skin test response to allergenic extracts.
+
+## Dosage
+
+(1) General Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Prior to testing, clean the skin area with ether or alcohol and allow to dry. The back or the volar surface of the arms are the most satisfactory sites for testing. Skin of the posterior thighs or abdomen may be used if necessary. Avoid very hairy areas where possible, since the reactions will be smaller and more difficult to interpret there. The most satisfactory areas of the back are from the posterior axillary fold to 2.5 cm from the spinal column, and from the top of the scapula to the lower rib margins. The best areas of the arms are the volar surfaces from the axilla to 2.5 or 5 cm above the wrist, skipping the anti-cubital space. The histamine test should be applied in the same test area as other allergenic extracts tests, but spaced no closer than 4 to 5 cm from adjacent test sites. Use the same technique or procedure that you use for allergen testing. The negative control is the diluent used in the extract to be tested (e.g. 50% glycerin, Sterile Albumin Saline with Phenol, Sterile Buffered Saline with Phenol). With each skin testing method, in order for the reaction to Positive Skin Test Control-Histamine (6 mg/mL Histamine Base) to be considered valid, erythema must be present which exceeds the respective negative control by 4 mm (∑E). A wheal reaction does not have to be elicited unless there is a wheal reaction to the respective negative control. In this case, the wheal of the positive control must exceed the negative control by 4 mm (∑W) in order to be considered appropriate. Record measurement of erythema and wheal diameters. Tables 1 and 2 summarize skin testing results with histamine base and controls in atopic and non-atopic subjects using four different devices and methods. (2) Scratch, Prick or Puncture Test: Positive Skin Test Control-Histamine, 6.0 mg/mL Histamine Base. The Scratch, Prick or Puncture test should be read in 15 minutes. If a large wheal reaction occurs before that time, wipe excess histamine solution from test site. a) Use a sterile scarifier for each patient. Hold the scarifier between the thumb and index finger, press the sharp edge of the instrument against the skin and twirl instrument rapidly. The scratch should disrupt the outer layers of epidermis down to the germinal layer, but should not produce immediate oozing of blood. The amount of pressure needed to produce a satisfactory scratch will vary between patients according to the thickness or fragility of their skin. Apply one drop of Positive Skin Test Control-Histamine to the scratch test site. b) Prick or Puncture Test: Prick tests are performed by placing a drop of extract on the skin and piercing through the drop into the skin with a slight lifting motion. Puncture tests are performed by placing a drop of extract on the skin and piercing through the drop perpendicular to the skin with a device such as a Prick Lancetter. After about 1 minute the extract may be wiped away with a dry sponge.
+
+## Contraindications
+
+Positive Skin Test Control - Histamine is contraindicated in patients with a history of hypersensitivity to histamine products, and in patients with hypotension, severe hypertension, vasomotor instability, severe cardiac, pulmonary or renal disease.
+
+## Warnings
+
+Attacks of severe asthma or other serious allergic conditions may be precipitated by the administration of Histamine Dihydrochloride in patients with bronchial disease. Caution is advised in using histamine in such patients and in those with a history of bronchial asthma. Histamine Dihydrochloride has not been approved for unlabeled use as gastric acid stimulus or for detecting bronchial hyperactivity.
+
+## Precautions
+
+(1) General: It is necessary that scarifiers, syringes, and needles be properly sterilized before use on each patient to prevent the possibility of accidental transfer of serum hepatitis and other infectious agents from one person to another. Disposable products may also be used. Always have injectable epinephrine and a tourniquet available when any skin tests are being made. (See ADVERSE REACTIONS Section) Patients should be observed in the office for 30 minutes after administration of the test and instructed to return to the office promptly if symptoms of an allergic reaction or shock occur. (2) Drug Interactions: Certain medications may lessen the skin test wheal and erythema responses elicited by histamine for varying time periods. Conventional antihistamines should be discontinued at least 5 days before skin testing. Long acting antihistamines should be discontinued for at least 3 weeks prior to skin testing. 7 Topical steroids should be discontinued at the skin test site for at least 2-3 weeks before skin testing. 7,8 Tricyclic antidepressants such as Doxepin should be withheld for at least 7 days before skin testing. 9 The physician must determine whether the risk of severe depression occurring in patients who discontinue their medication outweighs the benefits that could be obtained from skin testing. Topical local anesthetics may suppress the flare responses and should be avoided in skin test sites. 10 (3) Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies have not been performed on Positive Skin Test Control-Histamine. (4) Pregnancy: Positive Skin Test Control-Histamine. Animal reproduction studies have not been conducted on Histamine Dihydrochloride. It is also not known whether Histamine Dihydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Histamine Dihydrochloride should be given to a pregnant woman only if clearly needed. (5) Nursing Mothers: It is unknown whether Histamine Dihydrochloride affects lactation or is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Positive Skin Test Control-Histamine is administered to a nursing woman. (6) Pediatric Use: Indications and dosage for the pediatric population are the same as for adults; however, the reactions to histamine are smaller. Studies have shown that the use of histamine solutions for skin test is safe in infants and young children. 4,5,6
+
+## Side effects
+
+Large doses of histamine may precipitate systemic reactions. These reactions may include flushing, dizziness, headache, bronchial constriction, urticaria, asthma, marked hypotension or hypertension, abdominal cramps, vomiting, metallic taste, local or generalized allergic manifestations. An antihistamine preparation may be given orally, I.M. or I.V. to prevent or ameliorate systemic reactions to the drug. If a systemic or anaphylactic reaction does occur, apply a tourniquet above the site of injection and inject 1:1000 epinephrine-hydrochloride intramuscularly or subcutaneously into the opposite arm. Loosen the tourniquet at least every 10 minutes. Do not obstruct arterial blood flow with the tourniquet. Epinephrine Dosage: ADULT: 0.3 to 0.5 mL should be injected. Repeat in 5 to 10 minutes if necessary. PEDIATRIC: The usual initial dose is 0.01 mg (mL) per kg body weight or 0.3 mg(mL) per square meter of body surface area. Suggested dosage for infants to 2 years of age is 0.05 mL to 0.1 mL; for children 2 to 6 years, 0.15 mL; and children 6 to 12 years, 0.2 mL. Single pediatric doses should not exceed 0.3 mg (mL). Doses may be repeated as frequently as every 20 minutes, depending on the severity of the condition and the response of the patient. After administration of epinephrine, profound shock or vasomotor collapse should be treated with intravenous fluids, and possibly vasoactive drugs. Oxygen should be given by mask. Aminophylline or adrenal corticosteroids may be used if necessary after adequate epinephrine and circulatory support has been given. Emergency resuscitation measures and personnel trained in their use should be available immediately in the event of a serious systemic or anaphylactic reaction not responsive to the above measures (Ref. J. ALLERGY AND CLINICAL IMMUNOLOGY 77s (2): p. 271-273, 1986). 16 Rarely are all of the above measures necessary, the tourniquet and epinephrine usually producing prompt responses. However, the physician should be prepared in advance for all contingencies. Promptness in beginning emergency treatment measures is of utmost importance. Adverse Event Reporting Report all adverse events to Jubilant HollisterStier LLC Customer Technical Services Department at 1 (800) 992-1120. A voluntary adverse event reporting system for health professionals is available through the FDA MEDWATCH program. Preprinted forms (FDA Form 3500) are available from the FDA by calling 1 (800) FDA-1088. Completed forms should be mailed to MEDWATCH, 5600 Fisher Lane, Rockville, MD 20852-9787 or Fax to: 1 (800) FDA-0178.
+
+## Drug interactions
+
+(2) Drug Interactions: Certain medications may lessen the skin test wheal and erythema responses elicited by histamine for varying time periods. Conventional antihistamines should be discontinued at least 5 days before skin testing. Long acting antihistamines should be discontinued for at least 3 weeks prior to skin testing. 7 Topical steroids should be discontinued at the skin test site for at least 2-3 weeks before skin testing. 7,8 Tricyclic antidepressants such as Doxepin should be withheld for at least 7 days before skin testing. 9 The physician must determine whether the risk of severe depression occurring in patients who discontinue their medication outweighs the benefits that could be obtained from skin testing. Topical local anesthetics may suppress the flare responses and should be avoided in skin test sites. 10
+
+## Pregnancy
+
+(4) Pregnancy: Positive Skin Test Control-Histamine. Animal reproduction studies have not been conducted on Histamine Dihydrochloride. It is also not known whether Histamine Dihydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Histamine Dihydrochloride should be given to a pregnant woman only if clearly needed.
+
+## Breastfeeding
+
+(5) Nursing Mothers: It is unknown whether Histamine Dihydrochloride affects lactation or is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Positive Skin Test Control-Histamine is administered to a nursing woman.
+
+## Children
+
+(6) Pediatric Use: Indications and dosage for the pediatric population are the same as for adults; however, the reactions to histamine are smaller. Studies have shown that the use of histamine solutions for skin test is safe in infants and young children. 4,5,6
+
+## Overdose
+
+Overdosage may cause severe symptoms, including circulatory collapse, shock, and even death. Intravenous administration of histamine in normal volunteers at doses of up to 1.0 µg/kg/min produced flushing, headaches, tachycardia and decreased diastolic blood pressure. 1,2,3 See ADVERSE REACTIONS Section for emergency treatment steps.
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2026-04-03, DailyMed set ID 5c20f3f4-65f8-4cdb-bdd1-5774da1c551b. Public domain.*

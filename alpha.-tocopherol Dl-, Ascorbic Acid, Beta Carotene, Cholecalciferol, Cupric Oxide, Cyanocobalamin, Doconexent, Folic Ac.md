@@ -1,0 +1,50 @@
+# .alpha.-tocopherol Dl-, Ascorbic Acid, Beta Carotene, Cholecalciferol, Cupric Oxide, Cyanocobalamin, Doconexent, Folic Acid, Iron, Levomefolate, Magnesium Oxide, Niacinamide, Potassium Iodide, Pyridoxine, Riboflavin, Thiamine Mononitrate and Zinc Oxide
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** oral  
+**Ingredient forms:** .alpha.-tocopherol Acetate, Dl-  
+**Drug class:** Vitamin D, Vitamin C, Vitamin B12  
+**Labels on file:** 2
+
+**Brand and product names:** Vitafol Fe Plus, Vitafol Ultra
+
+## ⚠ Boxed warning
+
+WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or a Poison Control Center immediately.
+
+## Uses
+
+USAGE: Vitafol ® Fe + prenatal supplement provides vitamin, mineral and omega-3 fatty acid supplementation throughout pregnancy, including individuals with known allergies to fish.* Vitafol ® Fe + does not contain fish oils, fish proteins, or fish by-products.
+
+## Dosage
+
+Take one softgel capsule by mouth daily during pregnancy, or as directed by a physician.
+
+## Contraindications
+
+Vitafol ® Fe + prenatal supplement is contraindicated in patients with hypersensitivity to any of its components or color additives. Folic acid is contraindicated in patients with untreated and uncomplicated pernicious anemia, and in those with anaphylactic sensitivity to folic acid. Iron supplementation is contraindicated in patients with hemochromatosis and patients with iron storage disease or the potential for iron storage disease due to chronic hemolytic anemia (e.g., inherited anomalies of hemoglobin structure or synthesis and/or red cell enzyme deficiencies, etc.), pyridoxine responsive anemia, or cirrhosis of the liver. Cyanocobalamin is contraindicated in patients with sensitivity to cobalt or to cyanocobalamin (vitamin B12).
+
+## Warnings
+
+/PRECAUTIONS: This product is intended for use as directed by your healthcare provider. Do not share with others. Vitafol ® Fe + must be used with caution in patients with known sensitivity or allergy to soy. Vitamin D supplementation should be used with caution in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calcium-containing kidney stones. High doses of vitamin D can lead to elevated levels of calcium that reside in the blood and soft tissues. Bone pain, high blood pressure, formation of kidney stones, renal failure, and increased risk of heart disease can occur. Iodine should be used with caution in patients with an overactive thyroid. Prolonged use of iron salts may produce iron storage disease. Folic acid, especially in doses above 0.1 mg daily, may obscure pernicious anemia, in that hematologic remission may occur while neurological manifestations remain progressive. The use of folic acid doses above 1 mg daily may precipitate or exacerbate the neurological damage of vitamin B12 deficiency. Consumption of more than 3 grams of omega-3 fatty acids per day from all sources may lead to excessive bleeding. Supplemental intake of omega-3 fatty acids such as DHA exceeding 2 grams per day is not recommended. Avoid Overdosage. Keep out of the reach of children. DRUG INTERACTIONS Medications for an overactive thyroid (anti-thyroid drugs) used in conjunction with iodine supplementation may lead to hypothyroidism. Medications for hypertension used in conjunction with iodine supplementation may increase potassium levels in blood. High doses of folic acid may result in decreased serum levels of the anticonvulsant drugs; carbamazepine, fosphenytoin, phenytoin, phenobarbital, valproic acid. Folic acid may decrease a patient's response to methotrexate. Vitamin D supplementation should not be given with large amounts of calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calcium-containing kidney stones. Zinc can inhibit the absorption of certain antibiotics; take at least 2 hours apart to minimize interactions. Consult appropriate references for additional specific vitamin-drug interactions INFORMATION FOR PATIENTS Patients should be counseled to disclose all medical conditions, including use of all medications, vitamins and supplements, pregnancy, and breast-feeding. PEDIATRIC USE Not for pediatric use.
+
+## Side effects
+
+Adverse reactions have been reported with specific vitamins and minerals, but generally at doses substantially higher than those in Vitafol ® Fe + . However, allergic and idiosyncratic reactions are possible at any dose. Reported adverse events include skin ailments, gastrointestinal complaints, glucose abnormalities, and visual problems. You should call your doctor for medical advice about adverse or unexpected reactions. To report to the company an adverse event or obtain product information, call 1-877-324-9349.
+
+## Drug interactions
+
+Medications for an overactive thyroid (anti-thyroid drugs) used in conjunction with iodine supplementation may lead to hypothyroidism. Medications for hypertension used in conjunction with iodine supplementation may increase potassium levels in blood. High doses of folic acid may result in decreased serum levels of the anticonvulsant drugs; carbamazepine, fosphenytoin, phenytoin, phenobarbital, valproic acid. Folic acid may decrease a patient's response to methotrexate. Vitamin D supplementation should not be given with large amounts of calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calcium-containing kidney stones. Zinc can inhibit the absorption of certain antibiotics; take at least 2 hours apart to minimize interactions. Consult appropriate references for additional specific vitamin-drug interactions
+
+## Children
+
+Not for pediatric use.
+
+## Patient counseling information
+
+Patients should be counseled to disclose all medical conditions, including use of all medications, vitamins and supplements, pregnancy, and breast-feeding.
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2025-03-20, DailyMed set ID 3927b074-d72a-4d8c-9f7e-15c42a830945. Public domain.*

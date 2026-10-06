@@ -1,0 +1,61 @@
+# Moxifloxacin (ophthalmic)
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** ophthalmic  
+**Ingredient forms:** Moxifloxacin Hydrochloride, Moxifloxacin Hydrochloride Monohydrate  
+**Labels on file:** 27
+
+**Brand and product names:** Vigamox, Moxifloxacin Ophthalmic Solution, Moxifloxacin Ophthalmic
+
+## Uses
+
+Moxifloxacin ophthalmic solution is indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species * Micrococcus luteus* Staphylococcus aureus Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus warneri* Streptococcus pneumoniae Streptococcus viridans group Acinetobacter lwoffii* Haemophilus influenzae Haemophilus parainfluenzae* Chlamydia trachomatis *Efficacy for this organism was studied in fewer than 10 infections. Moxifloxacin ophthalmic solution is a topical fluoroquinolone anti-infective indicated for the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species* Micrococcus luteus*, Staphylococcus aureus, Staphylococcus epidermidis, Staphylococcus haemolyticus, Staphylococcus hominis, Staphylococcus warneri*, Streptococcus pneumoniae, Streptococcus viridans group , Acinetobacter lwoffii*, Haemophilus influenzae, Haemophilus parainfluenzae*, Chlamydia trachomatis. *Efficacy for this organism was studied in fewer than 10 infections. ( 1 )
+
+## Dosage
+
+Instill one drop in the affected eye 3 times a day for 7 days. Moxifloxacin ophthalmic solution is for topical ophthalmic use. Instill one drop in the affected eye 3 times a day for 7 days. ( 2 )
+
+## Forms and strengths
+
+Ophthalmic solution containing moxifloxacin 0.5%. Ophthalmic solution containing moxifloxacin 0.5%. ( 3 )
+
+## Contraindications
+
+Moxifloxacin ophthalmic solution is contraindicated in patients with a history of hypersensitivity to moxifloxacin, to other quinolones, or to any of the components in this medication. Moxifloxacin ophthalmic solution is contraindicated in patients with a history of hypersensitivity to moxifloxacin, to other quinolones, or to any of the components in this medication. ( 4 )
+
+## Warnings and precautions
+
+Hypersensitivity Reactions: Hypersensitivity and anaphylaxis have been reported with systemic use of moxifloxacin. ( 5.1 ) Prolonged Use: May result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. ( 5.2 ) Avoid Contact Lens Wear: Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis. ( 5.3 )
+
+**5.1** Hypersensitivity Reactions In patients receiving systemically administered quinolones, including moxifloxacin, serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported, some following the first dose. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching. If an allergic reaction to moxifloxacin occurs, discontinue use of the drug. Serious acute hypersensitivity reactions may require immediate emergency treatment. Oxygen and airway management should be administered as clinically indicated.
+
+**5.2** Growth of Resistant Organisms With Prolonged Use As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining.
+
+**5.3** Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs or symptoms of bacterial conjunctivitis.
+
+## Side effects
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice. The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1% to 6 % of patients. Nonocular adverse events reported at a rate of 1% to 4 % were fever, increased cough, infection, otitis media, pharyngitis, rash, and rhinitis. The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1% to 6% of patients. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Fosun Pharma USA Inc. at 1-866-611-3762 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch .
+
+## Drug interactions
+
+Drug-drug interaction studies have not been conducted with moxifloxacin ophthalmic solution. In vitro studies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2, indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes.
+
+## Pregnancy, breastfeeding, children and older adults
+
+8.1 Pregnancy Risk Summary There are no adequate and well-controlled studies with moxifloxacin ophthalmic solution in pregnant women to inform any drug-associated risks. Oral administration of moxifloxacin to pregnant rats and monkeys and intravenously to pregnant rabbits during the period of organogenesis did not produce adverse maternal or fetal effects at clinically relevant doses. Oral administration of moxifloxacin to pregnant rats during late gestation through lactation did not produce adverse maternal, fetal or neonatal effects at clinically relevant doses (see Data) . Data Animal Data Embryo-fetal studies were conducted in pregnant rats administered with 20, 100, or 500 mg/kg/day moxifloxacin by oral gavage on Gestation Days 6 to 17, to target the period of organogenesis. Decreased fetal body weight and delayed skeletal development were observed at 500 mg/kg/day [277 times the human area under the curve (AUC) at the recommended human ophthalmic dose]. The No-Observed-Adverse-Effect-Level (NOAEL) for developmental toxicity was 100 mg/kg/day (30 times the human AUC at the recommended human ophthalmic dose). Embryo-fetal studies were conducted in pregnant rabbits administered with 2, 6.5, or 20 mg/kg/day moxifloxacin by intravenous administration on Gestation Days 6 to 20, to target the period of organogenesis. Abortions, increased incidence of fetal malformations, delayed fetal skeletal ossification, and reduced placental and fetal body weights were observed at 20 mg/kg/day (1,086 times the human AUC at the recommended human ophthalmic dose), a dose that produced maternal body weight loss and death. The NOAEL for developmental toxicity was 6.5 mg/kg/day (246 times the human AUC at the recommended human ophthalmic dose). Pregnant cynomolgus monkeys were administered moxifloxacin at doses of 10, 30, or 100 mg/kg/day by intragastric intubation between Gestation Days 20 and 50, targeting the period of organogenesis. At the maternal toxic doses of ≥ 30 mg/kg/day, increased abortion, vomiting, and diarrhea were observed. Smaller fetuses/reduced fetal body weights were observed at 100 mg/kg/day (2,864 times the human AUC at the recommended human ophthalmic dose). The NOAEL for fetal toxicity was 10 mg/kg/day (174 times the human AUC at the recommended human ophthalmic dose). In a pre- and postnatal study, rats were administered moxifloxacin by oral gavage at doses of 20, 100, and 500 mg/kg/day from Gestation Day 6 until the end of lactation. Maternal death occurred during gestation at 500 mg/kg/day. Slight increases in the duration of pregnancy, reduced pup birth weight, and decreased prenatal and neonatal survival were observed at 500 mg/kg/day (estimated 277 times the human AUC at the recommended human ophthalmic dose). The NOAEL for pre- and postnatal development was 100 mg/kg/day (estimated 30 times the human AUC at the recommended human ophthalmic dose).
+
+**8.2** Lactation Risk Summary There is no data regarding the presence of moxifloxacin ophthalmic solution in human milk, the effects on the breastfed infants, or the effects on milk production/excretion to inform risk of moxifloxacin ophthalmic solution to an infant during lactation. A study in lactating rats has shown transfer of moxifloxacin into milk following oral administration. Systemic levels of moxifloxacin following topical ocular administration are low [see Clinical Pharmacology (12.3)] , and it is not known whether measurable levels of moxifloxacin would be present in maternal milk following topical ocular administration. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for moxifloxacin ophthalmic solution and any potential adverse effects on the breastfed child from moxifloxacin ophthalmic solution.
+
+**8.4** Pediatric Use The safety and effectiveness of moxifloxacin ophthalmic solution have been established in all ages. Use of moxifloxacin ophthalmic solution is supported by evidence from adequate and well controlled studies of moxifloxacin ophthalmic solution in adults, children, and neonates [see Clinical Studies (14) ]. There is no evidence that the ophthalmic administration of moxifloxacin ophthalmic solution has any effect on weight bearing joints, even though oral administration of some quinolones has been shown to cause arthropathy in immature animals.
+
+**8.5** Geriatric Use No overall differences in safety and effectiveness have been observed between elderly and younger patients.
+
+## Patient counseling information
+
+Avoid Contamination of the Product Advise patients not to touch the dropper tip to any surface to avoid contaminating the contents. Avoid Contact Lens Wear Advise patients not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis [see Warnings and Precautions (5.3)] . Hypersensitivity Reactions Systemically administered quinolones including moxifloxacin have been associated with hypersensitivity reactions, even following a single dose. Instruct patients to discontinue use immediately and contact their physician at the first sign of a rash or allergic reaction [see Warnings and Precautions (5.1)] . Distributed by: Fosun Pharma USA Inc. Princeton, NJ 08540 Made in India. Revised: 12/2023 131300422-01
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2023-12-17, DailyMed set ID 9eae534a-9253-4a45-9ab7-2543626f49e6. Public domain.*

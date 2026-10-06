@@ -1,0 +1,50 @@
+# Sodium Acetate
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** intravenous  
+**Labels on file:** 3
+
+## Uses
+
+Sodium Acetate Injection, USP (4 mEq per mL) is indicated as a source of sodium for addition to large volume intravenous fluids to prevent or correct hyponatremia in patients with restricted or no oral intake. It is also useful as an additive for preparing specific intravenous fluid formulas when the needs of the patient cannot be met by standard electrolyte or nutrient solutions.
+
+## Dosage
+
+Sodium Acetate Injection, USP (4 mEq per mL) is administered intravenously only after dilution in a larger volume of fluid. The dose and rate of administration are dependent upon the individual needs of the patient. Serum sodium should be monitored as a guide to dosage. Using aseptic technique, transfer the desired amount to other intravenous fluids to provide the appropriate number of milliequivalents (mEq) of sodium acetate. Sodium Acetate Injection, USP (4 mEq per mL) in the Pharmacy Bulk Package is designed for use with manual, gravity flow operations and automated compounding devices for preparing intravenous nutritional admixtures. Admixtures must be stored under refrigeration and used within 24 hours after compounding. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration (see PRECAUTIONS ). Directions for Dispensing from Pharmacy Bulk Package The Pharmacy Bulk Package is for use in the Pharmacy Admixture Service only in a laminar flow hood. It should be inserted into the ring sling (plastic hanging device) provided and suspended as a unit in the laminar flow hood. The container closure should be penetrated only one time utilizing a suitable sterile dispensing set which allows measured distribution of the contents. Swab vial stopper with an antiseptic solution. Insert the dispensing set into the vial using aseptic technique (see graphic illustration below ). Once the sterile dispensing set has been inserted into the container, withdrawal of the contents should be accomplished without delay. However, if this is not possible, a maximum time of 4 hours from the initial entry may be allowed to complete fluid aliquoting/transferring operations. Discard the container no later than 4 hours after initial closure puncture. Do not administer unless solution is clear and seal is intact. Figure
+
+## Contraindications
+
+Sodium Acetate Injection, USP (4 mEq per mL) is contraindicated in patients with hypernatremia or fluid retention.
+
+## Warnings
+
+Sodium Acetate Injection, USP (4 mEq per mL) must be diluted before use. To avoid sodium overload and water retention, infuse sodium-containing solutions slowly. Solutions containing sodium ions should be used with great care, if at all, in patients with congestive heart failure, severe renal insufficiency and in clinical states in which there exists edema with sodium retention. In patients with diminished renal function, administration of solutions containing sodium ions may result in sodium retention. Solutions containing acetate ions should be used with great care in patients with metabolic or respiratory alkalosis. Acetate should be administered with great care in those conditions in which there is an increased level or an impaired utilization of this ion, such as severe hepatic insufficiency. The intravenous administration of this solution (after appropriate dilution) can cause fluid and/or solute overloading resulting in dilution of other serum electrolyte concentrations, overhydration, congested states or pulmonary edema. Excessive administration of potassium free solutions may result in significant hypokalemia. WARNING: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration.
+
+## Precautions
+
+Do not administer unless solution is clear and seal is intact. Discard unused portion. Sodium replacement therapy should be guided primarily by the serum sodium level. Caution should be exercised in administering sodium-containing solutions to patients with severe renal function impairment, cirrhosis, cardiac failure or other edematous or sodium-retaining states, as well as in patients with oliguria or anuria. Caution must be exercised in the administration of parenteral fluids, especially those containing sodium ions, to patients receiving corticosteroids or corticotropin. Solutions containing acetate ions should be used with caution as excess administration may result in metabolic alkalosis. Pregnancy Pregnancy Category C Animal reproduction studies have not been conducted with Sodium Acetate Injection, USP. It is also not known whether Sodium Acetate Injection, USP can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Sodium Acetate Injection, USP should be given to a pregnant woman only if clearly needed. Pediatric Use Safety and effectiveness have been established in the age groups infant to adolescent. Geriatric Use An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Sodium ions are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## Side effects
+
+Sodium overload can occur with intravenous infusion of excessive amounts of sodium-containing solutions (see WARNINGS and PRECAUTIONS ).
+
+## Pregnancy
+
+Pregnancy Category C Animal reproduction studies have not been conducted with Sodium Acetate Injection, USP. It is also not known whether Sodium Acetate Injection, USP can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Sodium Acetate Injection, USP should be given to a pregnant woman only if clearly needed.
+
+## Children
+
+Safety and effectiveness have been established in the age groups infant to adolescent.
+
+## Older adults
+
+An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Sodium ions are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## Overdose
+
+In the event of overdosage, discontinue infusion containing sodium acetate immediately and institute corrective therapy as indicated to reduce elevated serum sodium levels, and restore acid-base balance if necessary (see WARNINGS , PRECAUTIONS and ADVERSE REACTIONS ).
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2024-10-11, DailyMed set ID d7fabf08-d4e0-4bb5-8416-2e8ffe27c04b. Public domain.*

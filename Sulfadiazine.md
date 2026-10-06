@@ -1,0 +1,55 @@
+# Sulfadiazine
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** oral  
+**Drug class:** Sulfonamide Antibacterial  
+**Labels on file:** 2
+
+## Uses
+
+sulfADIAZINE Tablets, USP are indicated in the following conditions: Chancroid Trachoma Inclusion conjunctivitis Nocardiosis Urinary tract infections (primarily pyelonephritis, pyelitis and cystitis) in the absence of obstructive uropathy or foreign bodies, when these infections are caused by susceptible strains of the following organisms: Esch erichia coli, Klebsiella species, Enterobacter species, Staphylococcus aureus, Proteus mirabilis and P. vulgaris . Sulfadiazine should be used for urinary tract infections only after use of more soluble sulfonamides has been unsuccessful. Toxoplasmosis encephalitis in patients with and without acquired immunodeficiency syndrome, as adjunctive therapy with pyrimethamine. Malaria due to chloroquine-resistant strains of Plasmodium falciparum , when used as adjunctive therapy. Prophylaxis of meningococcal meningitis when sulfonamide-sensitive group A strains are known to prevail in family groups or larger closed populations (the prophylactic usefulness of sulfonamides when group B or C infections are prevalent is not proved and may be harmful in closed population groups). Meningococcal meningitis, when the organism has been demonstrated to be susceptible. Acute otitis media due to Haemophilus influenzae, when used concomitantly with adequate doses of penicilin. Prophylaxis against recurrences of rheumatic fever, as an alternative to penicillin. H. influenzae meningitis, as adjunctive therapy with parental streptomycin. IMPORTANT NOTES In vitro sulfonamide susceptibility tests are not always reliable. The test must be carefully coordinated with bacteriologic and clinical response. When the patient is already taking sulfonamides, follow-up cultures should have aminobenzoic acid added to the culture media. Currently, the increasing frequency of resistant organisms limits the usefulness of antibacterial agents, including the sulfonamides, especially in the treatment of recurrent and complicated urinary tract infections. Wide variation in blood levels may result with identical doses. Blood levels should be measured in patients receiving sulfonamides for serious infections. Free sulfonamide blood levels of 5 mg to 15 mg per 100 mL may be considered therapeutically effective for most infections and blood levels of 12 mg to 15 mg per 100 mL may be considered optimal for serious infections. Twenty mg per 100 mL should be the maximum total sulfonamide level, since adverse reactions occur more frequently above this level.
+
+## Dosage
+
+SYSTEMIC SULFONAMIDES ARE CONTRAINDICATED IN INFANTS UNDER 2 MONTHS OF AGE except as adjunctive therapy with pyrimethamine in the treatment of congenital toxoplasmosis. Usual Dosage for Infants over 2 Months of Age and Children Initially, one-half the 24-hour dose. Maintenance, 150 mg/kg or 4 g/m 2 , divided into 4 to 6 doses, every 24 hours, with a maximum of 6 g every 24 hours. Rheumatic fever prophylaxis, under 30 kg (66 pounds), 500 mg every 24 hours; over 30 kg (66 pounds), 1 g every 24 hours. Usual Adult Dosage Initially, 2 g to 4 g. Maintenance, 2 g to 4 g, divided into 3 to 6 doses, every 24 hours.
+
+## Contraindications
+
+Sulfadiazine is contraindicated in the following circumstances: Hypersensitivity to sulfonamides. In infants less than 2 months of age (except as adjunctive therapy with pyrimethamine in the treatment of congenital toxoplasmosis). In pregnancy at term and during the nursing period, because sulfonamides cross the placenta and are excreted in breast milk and may cause kernicterus.
+
+## Warnings
+
+The sulfonamides should not be used for the treatment of group A betahemolytic streptococcal infections. In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever and glomerulonephritis. Deaths associated with the administration of sulfonamides have been reported from hypersensitivity reactions, agranulocytosis, aplastic anemia and other blood dyscrasias. The presence of such clinical signs as sore throat, fever, pallor, purpura or jaundice may be early indications of serious blood disorders. The frequency of renal complications is considerably lower in patients receiving the more soluble sulfonamides.
+
+## Precautions
+
+General Sulfonamides should be given with caution to patients with impaired renal or hepatic function and to those with severe allergy or bronchial asthma. Hemolysis may occur in individuals deficient in glucose-6-phosphate dehydrogenase. This reaction is dose related. Adequate fluid intake must be maintained in order to prevent crystalluria and stone formation. Information for Patients Patients should be instructed to drink an eight ounce glass of water with each dose of medication and at frequent intervals throughout the day. Caution patients to report promptly the onset of sore throat, fever, pallor, purpura or jaundice when taking this drug, since these may be early indications of serious blood disorders. Laboratory Tests Complete blood counts and urinalyses with careful microscopic examinations should be done frequently in patients receiving sulfonamides. Drug Interactions Administration of a sulfonamide may increase the effect of oral anticoagulants and methotrexate, probably by displacement of these drugs from binding sites on plasma albumin. Potentiation of the action of sulfonylurea hypoglycemic agents, thiazide diuretics and uricosuric agents may also be noted. This may also be due to displacement of the drugs from albumin or a pharmacodynamic mechanism may play a role. Conversely, agents such as indomethacin, probenecid and salicylates may displace sulfonamides from plasma albumin and increase the concentrations of free drug in plasma. Carcinogenesis, Mutagenesis, Impairment of Fertility The sulfonamides bear certain chemical similarities to some goitrogens. Rats appear to be especially susceptible to the goitrogenic effects of sulfonamides and long-term administration has produced thyroid malignancies in rats. Pregnancy Teratogenic Effects The safe use of sulfonamides in pregnancy has not been established. The teratogenic potential of most sulfonamides has not been thoroughly investigated in either animals or humans. However, a significant increase in the incidence of cleft palate and other bony abnormalities in offspring has been observed when certain sulfonamides of the short, intermediate and long acting types were given to pregnant rats and mice in high oral doses (7 to 25 times the human therapeutic dose). Nursing Mothers Sulfadiazine is contraindicated for use in nursing mothers because the sulfonamides cross the placenta, are excreted in breast milk and may cause kernicterus. Because of the potential for serious adverse reactions in nursing infants from sulfadiazine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. See CONTRAINDICATIONS . Pediatric Use Sulfadiazine is contraindicated in infants less than 2 months of age (except as adjunctive therapy with pyrimethamine in the treatment of congenital toxoplasmosis). See CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION .
+
+## Side effects
+
+Blood Dyscrasias Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, hemolytic anemia, purpura, hypoprothrombinemia and methemoglobinemia. Allergic Reactions Erythema multiforme (Stevens-Johnson syndrome), generalized skin eruptions, epidermal necrolysis, urticaria, serum sickness, pruritus, exfoliative dermatitis, anaphylactoid reactions, periorbital edema, conjunctival and scleral injection, photosensitization, arthralgia, allergic myocarditis, drug fever and chills. Gastrointestinal Reactions Nausea, emesis, abdominal pains, hepatitis, diarrhea, anorexia, pancreatitis and stomatitis. C.N.S. Reactions Headache, peripheral neuritis, mental depression, convulsions, ataxia, hallucinations, tinnitus, vertigo and insomnia. Renal Crystalluria, stone formation, toxic nephrosis with oliguria and anuria; periarteritis nodosa and lupus erythematosus phenomenon have been noted. Miscellaneous Reactions The sulfonamides bear certain chemical similarities to some goitrogens, diuretics (acetazolamide and the thiazides) and oral hypoglycemic agents. Goiter production, diuresis and hypoglycemia have occurred rarely in patients receiving sulfonamides. Cross-sensitivity may exist with these agents.
+
+## Drug interactions
+
+Administration of a sulfonamide may increase the effect of oral anticoagulants and methotrexate, probably by displacement of these drugs from binding sites on plasma albumin. Potentiation of the action of sulfonylurea hypoglycemic agents, thiazide diuretics and uricosuric agents may also be noted. This may also be due to displacement of the drugs from albumin or a pharmacodynamic mechanism may play a role. Conversely, agents such as indomethacin, probenecid and salicylates may displace sulfonamides from plasma albumin and increase the concentrations of free drug in plasma.
+
+## Pregnancy
+
+Teratogenic Effects The safe use of sulfonamides in pregnancy has not been established. The teratogenic potential of most sulfonamides has not been thoroughly investigated in either animals or humans. However, a significant increase in the incidence of cleft palate and other bony abnormalities in offspring has been observed when certain sulfonamides of the short, intermediate and long acting types were given to pregnant rats and mice in high oral doses (7 to 25 times the human therapeutic dose).
+
+## Breastfeeding
+
+Sulfadiazine is contraindicated for use in nursing mothers because the sulfonamides cross the placenta, are excreted in breast milk and may cause kernicterus. Because of the potential for serious adverse reactions in nursing infants from sulfadiazine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. See CONTRAINDICATIONS .
+
+## Children
+
+Sulfadiazine is contraindicated in infants less than 2 months of age (except as adjunctive therapy with pyrimethamine in the treatment of congenital toxoplasmosis). See CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION .
+
+## Patient counseling information
+
+Patients should be instructed to drink an eight ounce glass of water with each dose of medication and at frequent intervals throughout the day. Caution patients to report promptly the onset of sore throat, fever, pallor, purpura or jaundice when taking this drug, since these may be early indications of serious blood disorders.
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2023-11-08, DailyMed set ID 8993651b-fff6-4e3f-9b60-78587bc9bcee. Public domain.*

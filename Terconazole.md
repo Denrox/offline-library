@@ -1,0 +1,85 @@
+# Terconazole
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** vaginal  
+**Drug class:** Azole Antifungal  
+**Labels on file:** 12
+
+**Brand and product names:** Terconazole Vaginal Cream 0.8%
+
+## Uses
+
+Terconazole Vaginal Suppositories, 80 mg are indicated for the local treatment of vulvovaginal candidiasis (moniliasis). As this product is effective only for vulvovaginitis caused by the genus Candida, the diagnosis should be confirmed by KOH smears and/or cultures.
+
+## Dosage
+
+One Terconazole Vaginal Suppository, 80 mg should be administered intravaginally once daily at bedtime for three consecutive days. Before prescribing another course of therapy, the diagnosis should be reconfirmed by smears and/or cultures and other pathogens commonly associated with vulvovaginitis ruled out. The therapeutic effect of terconazole vaginal suppositories is not affected by menstruation.
+
+## Contraindications
+
+Patients known to be hypersensitive to terconazole or to any of the components of the suppositories.
+
+## Warnings
+
+Anaphylaxis and toxic epidermal necrolysis have been reported during terconazole therapy. Terconazole Vaginal Suppositories, 80 mg therapy should be discontinued if anaphylaxis or toxic epidermal necrolysis develops.
+
+## Precautions
+
+General - For vulvovaginal use only. Terconazole Vaginal Suppositories, 80 mg is not for ophthalmic or oral use. Discontinue use and do not retreat with terconazole if sensitization, irritation, fever, chills or flu-like symptoms are reported during use. The base contained in the suppository formulation may interact with certain rubber or latex products, such as those used in vaginal contraceptive diaphragms or latex condoms; therefore concurrent use is not recommended. Laboratory Tests - If there is a lack of response to terconazole, appropriate microbiologic studies (standard KOH smear and/or cultures) should be repeated to confirm the diagnosis and rule out other pathogens. Drug Interactions - The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive. Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis - Studies to determine the carcinogenic potential of terconazole have not been performed. Mutagenicity - Terconazole was not mutagenic when tested in vitro for induction of microbial point mutations (Ames test), or for inducing cellular transformation, or in vivo for chromosome breaks (micronucleus test) or dominant lethal mutations in mouse germ cells. Impairment of Fertility - No impairment of fertility occurred when female rats were administered terconazole orally up to 40 mg/kg/day for a three month period. Pregnancy: Teratogenic Effects: Pregnancy Category C - There was no evidence of teratogenicity when terconazole was administered orally up to 40 mg/kg/day (25x the recommended intravaginal human dose of the suppository formulation) in rats, or 20 mg/kg/day in rabbits, or subcutaneously up to 20 mg/kg/day in rats. Dosages at or below 10 mg/kg/day produced no embryotoxicity; however, there was a delay in fetal ossification at 10 mg/kg/day in rats. There was some evidence of embryotoxicity in rabbits and rats at 20-40 mg/kg. In rats, this was reflected as a decrease in litter size and number of viable young and reduced fetal weight. There was also delay in ossification and an increased incidence of skeletal variants. The no-effect dose of 10 mg/kg/day resulted in a mean peak plasma level of terconazole in pregnant rats of 0.176 mcg/mL which exceeds by 17 times the mean peak plasma level (0.010 mcg/mL) seen in normal subjects after intravaginal administration of terconazole 80 mg vaginal suppository. This safety assessment does not account for possible exposure of the fetus through direct transfer to terconazole from the irritated vagina by diffusion across amniotic membranes. Since terconazole is absorbed from the human vagina, it should not be used in the first trimester of pregnancy unless the physician considers it essential to the welfare of the patient. Terconazole may be used during the second and third trimester if the potential benefit outweighs the possible risks to the fetus. Nursing Mothers - It is not known whether this drug is excreted in human milk. Animal studies have shown that rat offspring exposed via the milk of treated (40 mg/kg/orally) dams showed decreased survival during the first few post-partum days, but overall pup weight and weight gain were comparable to or greater than controls throughout lactation. Because many drugs are excreted in human milk, and because of the potential for adverse reaction in nursing infants from terconazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Pediatric Use - Safety and efficacy in children have not been established. Geriatric Use - Clinical studies of terconazole vaginal suppositories did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+## Side effects
+
+Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that have also been reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo). Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with Terconazole Vaginal Suppositories, 80 mg. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria
+
+## Drug interactions
+
+- The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive.
+
+## Pregnancy
+
+Teratogenic Effects: Pregnancy Category C - There was no evidence of teratogenicity when terconazole was administered orally up to 40 mg/kg/day (25x the recommended intravaginal human dose of the suppository formulation) in rats, or 20 mg/kg/day in rabbits, or subcutaneously up to 20 mg/kg/day in rats. Dosages at or below 10 mg/kg/day produced no embryotoxicity; however, there was a delay in fetal ossification at 10 mg/kg/day in rats. There was some evidence of embryotoxicity in rabbits and rats at 20-40 mg/kg. In rats, this was reflected as a decrease in litter size and number of viable young and reduced fetal weight. There was also delay in ossification and an increased incidence of skeletal variants. The no-effect dose of 10 mg/kg/day resulted in a mean peak plasma level of terconazole in pregnant rats of 0.176 mcg/mL which exceeds by 17 times the mean peak plasma level (0.010 mcg/mL) seen in normal subjects after intravaginal administration of terconazole 80 mg vaginal suppository. This safety assessment does not account for possible exposure of the fetus through direct transfer to terconazole from the irritated vagina by diffusion across amniotic membranes. Since terconazole is absorbed from the human vagina, it should not be used in the first trimester of pregnancy unless the physician considers it essential to the welfare of the patient. Terconazole may be used during the second and third trimester if the potential benefit outweighs the possible risks to the fetus.
+
+## Breastfeeding
+
+- It is not known whether this drug is excreted in human milk. Animal studies have shown that rat offspring exposed via the milk of treated (40 mg/kg/orally) dams showed decreased survival during the first few post-partum days, but overall pup weight and weight gain were comparable to or greater than controls throughout lactation. Because many drugs are excreted in human milk, and because of the potential for adverse reaction in nursing infants from terconazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## Children
+
+- Safety and efficacy in children have not been established.
+
+## Older adults
+
+- Clinical studies of terconazole vaginal suppositories did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+## Overdose
+
+In the rat, the oral LD 50 values were found to be 1741 and 849 mg/kg for the male and female, respectively. The oral LD 50 values for the male and female dog were ≅1280 and ≥640 mg/kg, respectively. In the event of oral ingestion of suppository, supportive and symptomatic measures should be carried out.
+
+## Patient information
+
+Patient Instructions Terconazole Vaginal Suppositories, 80 mg Three oval suppositories, for use inside the vagina only. Designed to be inserted into the vagina. HOW TO USE: Place one suppository into the vagina each night at bedtime, for 3 nights, as directed by your doctor. The terconazole vaginal suppository is self-lubricating and may be inserted with or without the applicator. A. Insertion with the applicator 1. Filling the applicator
+
+- Break off suppository from the foil strip.
+- Pull the foil completely apart.
+- Place the flat end of the suppository into the open end of the applicator as shown. You are now ready to insert the suppository into the vagina. 2. Using the applicator
+- Lie on your back with your knees drawn up toward your chest.
+- Holding the applicator by the ribbed end of the barrel, gently insert it into the vagina as far as it will comfortably go.
+- Press the plunger to release the suppository into the vagina.
+- Remove the applicator from the vagina. 3. Cleaning the applicator After each use, you should thoroughly clean the applicator by following the procedure below:
+- Pull the plunger out of the barrel.
+- Wash both pieces with lukewarm, soapy water, and dry them thoroughly.
+- Put the applicator back together by gently pushing the plunger into the barrel as far as it will go. B. Insertion without the applicator
+- Lie on your back with your knees drawn up toward your chest.
+- Place the suppository on the tip of your finger as shown.
+- Insert the suppository gently into the vagina as far as it will comfortably go. STORAGE: Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature]. See end flap for lot number and expiration date. A WORD ABOUT YEAST INFECTIONS Why do yeast infections occur? Yeast infections are caused by an organism called Candida (KAN di duh). It may be present in small and harmless amounts in the mouth, digestive tract, and vagina. Sometimes the natural balance of the vagina becomes upset. This may lead to rapid growth of Candida , which results in a yeast infection. Symptoms of a yeast infection include itching, burning, redness, and an abnormal discharge. Your doctor can make the diagnosis of a yeast infection by evaluating your symptoms and looking at a sample of the discharge under the microscope. How can I prevent yeast infections? Certain factors may increase your chance of developing a yeast infection. These factors don’t actually cause the problem, but they may create a situation that allows the yeast to grow rapidly.
+- Clothing: Tight jeans, nylon underwear, pantyhose, and wet bathing suits can hold in heat and moisture (two conditions in which yeast organisms thrive). Looser pants or skirts, 100% cotton underwear, and stockings may help avoid this problem.
+- Diet: Cutting down on sweets, milk products, and artificial sweeteners may reduce the risk of yeast infections.
+- Antibiotics: Antibiotics work by eliminating disease-causing organisms. While they are helpful in curing other problems, antibiotics may lead to an overgrowth of Candida in the vagina.
+- Pregnancy: Hormonal changes in the body during pregnancy encourage the growth of yeast. This is a very common time for an infection to occur. Until the baby is born, it may be hard to completely eliminate yeast infections. If you believe you are pregnant, tell your doctor.
+- Menstruation: Sometimes monthly changes in hormone levels may lead to yeast infections.
+- Diabetes: In addition to heat and moisture, yeast thrives on sugar. Because diabetics often have sugar in their urine, their vaginas are rich in this substance. Careful control of diabetes may help prevent yeast infection. Controlling these factors can help eliminate yeast infections and may prevent them from coming back. Some other helpful tips: 1. For best results, be sure to use the medication as prescribed by your doctor, even if you feel better quickly. 2. Avoid sexual intercourse, if your doctor advises you to do so. The suppository formulation may damage the diaphragm or latex condom. Therefore, use of the diaphragm or latex condom during therapy with the suppository is not recommended. Consult your physician. 3. If your partner has any penile itching, redness, or discomfort, he should consult his physician and mention that you are being treated for a yeast infection. 4. You can use the medication even if you are having your menstrual period. However, you should not use tampons because they may absorb the medication. Instead, use external pads or napkins until you have finished your medication. You may also wish to wear a sanitary napkin if the vaginal medication leaks. 5. Dry the genital area thoroughly after showering, bathing, or swimming. Change out of a wet bathing suit or damp exercise clothes as soon as possible. A dry environment is less likely to encourage the growth of yeast. 6. Wipe from front to rear (away from the vagina) after a bowel movement. 7. Don’t douche unless your doctor specifically tells you to do so. Douching may disturb the vaginal balance. 8. Don’t scratch if you can help it. Scratching can cause more irritation and spread the infection. 9. Discuss with your physician any medication you are already taking. Certain types of medication can make your vagina more susceptible to infection. 10. Eat nutritious meals to promote your general health. Manufactured by Padagis ® Minneapolis, MN 55427 www.padagis.com 2204901 Rev 05-24 3B500 RC PH1 Image 1 Image 2 Image 3 Image 4
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2026-08-11, DailyMed set ID 207e9cf2-e8ec-43d7-9c11-46283c9cdb37. Public domain.*

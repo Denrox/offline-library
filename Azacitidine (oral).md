@@ -1,0 +1,154 @@
+# Azacitidine (oral)
+
+> **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
+
+**Route:** oral  
+**Drug class:** Nucleoside Metabolic Inhibitor  
+**Labels on file:** 1
+
+**Brand and product names:** Onureg
+
+## Uses
+
+ONUREG is indicated for continued treatment of adult patients with acute myeloid leukemia who achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following intensive induction chemotherapy and are not able to complete intensive curative therapy. ONUREG is a nucleoside metabolic inhibitor indicated for continued treatment of adult patients with acute myeloid leukemia who achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following intensive induction chemotherapy and are not able to complete intensive curative therapy ( 1 ).
+
+## Dosage
+
+- Do not substitute ONUREG for intravenous or subcutaneous azacitidine. The indications and dosing regimen for ONUREG differ from that of intravenous or subcutaneous azacitidine ( 2.1 , 5.1 ).
+- Administer ONUREG 300 mg orally once daily on Days 1 through 14 of each 28-day cycle ( 2.2 ).
+- Administer an antiemetic before each dose for at least the first 2 cycles ( 2.2 ).
+
+**2.1** Important Administration Information Do not substitute ONUREG for intravenous or subcutaneous azacitidine. The indications and dosing regimen for ONUREG differ from that of intravenous or subcutaneous azacitidine [see Warnings and Precautions (5.1) ].
+
+**2.2** Recommended Dosage The recommended dosage of ONUREG is 300 mg orally once daily with or without food on Days 1 through 14 of each 28-day cycle. Continue ONUREG until disease progression or unacceptable toxicity. Administer an antiemetic 30 minutes prior to each dose of ONUREG for the first 2 cycles. Antiemetic prophylaxis may be omitted after 2 cycles if there has been no nausea and vomiting. If the absolute neutrophil count (ANC) is less than 0.5 Gi/L on Day 1 of a cycle, do not administer ONUREG. Delay the start of the cycle until the ANC is 0.5 Gi/L or more. Instruct patients on the following:
+- Swallow tablets whole. Do not cut, crush, or chew the tablets.
+- Take a dose about the same time each day.
+- If a dose of ONUREG is missed, or not taken at the usual time, take the dose as soon as possible on the same day, and resume the normal schedule the following day. Do not take 2 doses on the same day.
+- If a dose is vomited, do not take another dose on the same day. Resume the normal schedule the following day. ONUREG is a hazardous drug. Follow applicable special handling and disposal procedures. 1 2.3 Monitoring and Dosage Modifications for Adverse Reactions Monitor complete blood count every other week for the first 2 cycles and prior to the start of each cycle thereafter. Increase monitoring to every other week for the 2 cycles after any dose reduction for myelosuppression. The recommended dosage modifications for adverse reactions are provided in Table 1. Table 1: Recommended Dosage Modifications for Adverse Reactions Adverse Reaction Severity Recommended Dosage Modification Myelosuppression [see Warnings and Precautions (5.2) ] Neutrophils less than 0.5 Gi/L on Cycle Day 1
+- Interrupt treatment. Resume at the same dose once neutrophils return to 0.5 Gi/L or higher. Neutrophils less than 1 Gi/L with fever at anytime First Occurrence
+- Interrupt treatment. Resume at the same dose once neutrophils return to 1 Gi/L or higher. Occurrence in 2 Consecutive Cycles
+- Interrupt treatment. After neutrophils return to 1 Gi/L or higher, resume at reduced dose of 200 mg.
+- If a patient continues to experience febrile neutropenia after dose reduction, reduce the treatment duration by 7 days.
+- If febrile neutropenia reoccurs after dose and schedule reduction, discontinue ONUREG. Platelets less than 50 Gi/L with bleeding First Occurrence
+- Interrupt dose. Resume at the same dose once platelets return to 50 Gi/L or higher. Occurrence in 2 Consecutive Cycles
+- Interrupt dose. After platelets return to 50 Gi/L or higher, resume at reduced dose of 200 mg.
+- If a patient continues to experience thrombocytopenia with bleeding after dose reduction, reduce the treatment duration by 7 days.
+- If thrombocytopenia with bleeding reoccurs after dose and schedule reduction, discontinue ONUREG. Gastrointestinal Toxicity [see Adverse Reactions (6.1) ] Grade 3 or 4 Nausea or Vomiting
+- Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.
+- If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.
+- If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.
+- If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. Grade 3 or 4 Diarrhea
+- Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.
+- If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.
+- If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.
+- If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. Other Adverse Reactions [see Adverse Reactions (6.1) ] Grade 3 or 4
+- Interrupt dose and provide medical support. Resume at the same dose once toxicity has resolved to Grade 1 or lower.
+- If toxicity re-occurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.
+- If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.
+- If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG.
+
+| Adverse Reaction | Severity | Recommended Dosage Modification |
+| --- | --- | --- |
+| Myelosuppression [see Warnings and Precautions (5.2) ] | Neutrophils less than 0.5 Gi/L on Cycle Day 1 | • Interrupt treatment. Resume at the same dose once neutrophils return to 0.5 Gi/L or higher. |
+| Neutrophils less than 1 Gi/L with fever at anytime | First Occurrence • Interrupt treatment. Resume at the same dose once neutrophils return to 1 Gi/L or higher. Occurrence in 2 Consecutive Cycles • Interrupt treatment. After neutrophils return to 1 Gi/L or higher, resume at reduced dose of 200 mg. • If a patient continues to experience febrile neutropenia after dose reduction, reduce the treatment duration by 7 days. • If febrile neutropenia reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Platelets less than 50 Gi/L with bleeding | First Occurrence • Interrupt dose. Resume at the same dose once platelets return to 50 Gi/L or higher. Occurrence in 2 Consecutive Cycles • Interrupt dose. After platelets return to 50 Gi/L or higher, resume at reduced dose of 200 mg. • If a patient continues to experience thrombocytopenia with bleeding after dose reduction, reduce the treatment duration by 7 days. • If thrombocytopenia with bleeding reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Gastrointestinal Toxicity [see Adverse Reactions (6.1) ] | Grade 3 or 4 Nausea or Vomiting | • Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower. • If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
+| Grade 3 or 4 Diarrhea | • Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower. • If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Other Adverse Reactions [see Adverse Reactions (6.1) ] | Grade 3 or 4 | • Interrupt dose and provide medical support. Resume at the same dose once toxicity has resolved to Grade 1 or lower. • If toxicity re-occurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
+
+## Forms and strengths
+
+Tablets:
+
+- 200 mg, pink, oval, film-coated tablet with debossed "200" on one side and "ONU" on the other side.
+- 300 mg, brown, oval, film-coated tablet with debossed "300" on one side and "ONU" on the other side. Tablets: 200 mg and 300 mg ( 3 ).
+
+## Contraindications
+
+ONUREG is contraindicated in patients with known severe hypersensitivity to azacitidine or its components [see Adverse Reactions (6.2) , Description (11) ] . History of severe hypersensitivity to azacitidine or its components ( 4 ).
+
+## Warnings and precautions
+
+- Risks of Substitution with Other Azacitidine Products : Do not substitute ONUREG for intravenous or subcutaneous azacitidine ( 2.1 , 5.1 ).
+- Myelosuppression : Monitor complete blood counts every other week for the first 2 cycles and prior to the start of each cycle thereafter. Increase monitoring to every other week for the 2 cycles after any dose reduction. Withhold and then resume at same or reduced dose or discontinue ONUREG based on severity ( 2.3 , 5.2 ).
+- Embryo-Fetal Toxicity : Can cause fetal harm. Advise patients of the potential risk to a fetus and use of effective contraception ( 5.4 , 8.1 , 8.3 ).
+
+**5.1** Risks of Substitution with Other Azacitidine Products Due to substantial differences in the pharmacokinetic parameters [see Clinical Pharmacology (12.3) ] , the recommended dose and schedule for ONUREG are different from those for the intravenous or subcutaneous azacitidine products. Treatment of patients using intravenous or subcutaneous azacitidine at the recommended dosage of ONUREG may result in a fatal adverse reaction. Treatment of patients using ONUREG at the doses recommended for intravenous or subcutaneous azacitidine may not be effective. Do not substitute ONUREG for intravenous or subcutaneous azacitidine [see Dosage and Administration (2.1) ] .
+
+**5.2** Myelosuppression New or worsening Grade 3 or 4 neutropenia and thrombocytopenia occurred in 49% and 22% of patients who received ONUREG, respectively. Febrile neutropenia occurred in 12% , and sepsis was reported in 6%, including 1 fatal case . A dose reduction was required for 7% and 2% of patients due to neutropenia and thrombocytopenia, respectively. Less than 1% of patients discontinued ONUREG due to either neutropenia or thrombocytopenia. Monitor complete blood counts and modify the dosage as recommended [see Dosage and Administration (2.2 , 2.3) ]. Provide standard supportive care, including hematopoietic growth factors, if myelosuppression occurs.
+
+**5.3** Increased Early Mortality in Patients with Myelodysplastic Syndromes In AZA-MDS-003 (NCT01566695), 216 patients with red blood cell transfusion-dependent anemia and thrombocytopenia due to myelodysplastic syndromes were randomized to ONUREG or placebo. One-hundred and seven patients received a median of 5 cycles of ONUREG 300 mg daily for 21 days of a 28-day cycle. Enrollment was discontinued early due to a higher incidence of early fatal and/or serious adverse reactions in patients who received ONUREG compared with placebo. The most frequent fatal adverse reaction was sepsis. The safety and effectiveness of ONUREG for treatment of myelodysplastic syndromes have not been established. Treatment of patients with myelodysplastic syndromes with ONUREG is not recommended outside of controlled trials.
+
+**5.4** Embryo-Fetal Toxicity Based on the mechanism of action and findings in animals, ONUREG can cause fetal harm when administered to a pregnant woman. Azacitidine administered to pregnant rats via a single intraperitoneal dose less than the recommended human daily dose of oral azacitidine on a mg/m 2 basis caused fetal death and anomalies. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with ONUREG and for at least 6 months after the last dose. Advise males with female partners of reproductive potential to use effective contraception during treatment with ONUREG and for at least 3 months after the last dose [see Use in Specific Populations (8.1 , 8.3) ] .
+
+## Side effects
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Myelosuppression [see Warnings and Precautions (5.2) ] The most common adverse reactions (≥ 10%) are nausea, vomiting, diarrhea, fatigue/asthenia, constipation, upper respiratory tract infection, pneumonia, abdominal pain, arthralgia, decreased appetite, febrile neutropenia, dizziness, skin infection, and pain in extremity. To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb Company at 1-800-721-5072 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch .
+
+**6.1** Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Acute Myeloid Leukemia The safety of ONUREG was evaluated in QUAZAR [see Clinical Studies (14) ] . Patients received ONUREG 300 mg (N=236) or placebo (N=233) orally once daily on Days 1 through 14 of each 28-day cycle. Among patients who received ONUREG, 71% were exposed for 6 months or longer, and 49% were exposed for greater than one year. The median duration of exposure to ONUREG was 11.6 months (range: 0.5 to 74.3 months) and the median number of cycles was 12 (range: 1 to 82 cycles). Serious adverse reactions occurred in 15% of patients who received ONUREG. Serious adverse reactions in ≥ 2% of patients who received ONUREG were pneumonia (8%) and febrile neutropenia (7%). One fatal adverse reaction (sepsis) occurred in a patient who received ONUREG. Permanent discontinuation of ONUREG due to an adverse reaction occurred in 8% of patients. Adverse reactions which resulted in permanent discontinuation of ONUREG in > 1% of patients included nausea (2.1%), diarrhea (1.7%), and vomiting (1.3%). Interruptions of ONUREG due to an adverse reaction occurred in 35% of patients. Adverse reactions which required an interruption of ONUREG in > 5% of patients included neutropenia (20%), thrombocytopenia (8%), and nausea (6%). Dose reductions of ONUREG due to an adverse reaction occurred in 14% of patients. Adverse reactions which required a dose reduction in > 1% of patients included neutropenia (6%), diarrhea (3.4%), thrombocytopenia (1.7%), and nausea (1.7%). The most common (≥ 10%) adverse reactions were nausea, vomiting, diarrhea, fatigue/asthenia, constipation, upper respiratory tract infection, pneumonia, abdominal pain, arthralgia, decreased appetite, febrile neutropenia, dizziness, skin infection, and pain in extremity. Table 2 summarizes the adverse reactions in QUAZAR. Table 2: Adverse Reactions (≥ 5%) in Patients with AML Who Received ONUREG with a Difference Between Arms of > 2% Compared to Placebo in QUAZAR Adverse Reaction ONUREG (N=236) Placebo (N=233) All Grades (%) Grade 3 or 4 (%) All Grades (%) Grade 3 or 4 (%) a Grouped term includes abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain. b Grouped term includes fatigue and asthenia. c Broad scope term includes acute sinusitis, adenoviral upper respiratory infection, chronic tonsillitis, influenza, nasopharyngitis, pharyngitis, rhinitis, sinusitis, sinusitis fungal, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, viral pharyngitis, viral rhinitis, viral upper respiratory tract infection. d Broad scope term includes influenza, pneumonia, respiratory tract infection, respiratory tract infection viral, bronchopulmonary aspergillosis, lung infection, Staphylococcal infection, atypical pneumonia, lower respiratory tract infection, lung abscess, Pneumocystis jirovecii pneumonia, pneumonia bacterial, pneumonia fungal, Pseudomonas infection, hemoptysis, productive cough, pleural effusion, atelectasis, pleuritic pain, rales, Enterobacter test positive, and Hemophilus test positive. Gastrointestinal disorders Nausea 65 3 24 < 1 Vomiting 60 3 10 0 Diarrhea 50 5 21 1 Constipation 39 1 24 0 Abdominal pain a 22 2 13 < 1 General disorders and administration site conditions Fatigue / asthenia b 44 4 25 1 Infections Upper respiratory tract infection c 34 2 28 0 Pneumonia d 27 9 17 5 Skin infection e 11 3 8 1 Sepsis f 6 g 5 3 3 Musculoskeletal and connective tissue disorders Arthralgia 14 1 10 < 1 Pain in extremity 11 < 1 5 0 Metabolism and nutrition disorders Decreased appetite 13 1 6 1 Blood and lymphatic disorders Febrile neutropenia 12 11 8 8 Nervous system disorders Dizziness 11 0 9 0 e Broad scope term includes cellulitis, erythema migrans, folliculitis, fungal skin infection, furuncle, herpes simplex, herpes zoster, nail bed infection, nail infection, onychomycosis, skin infection, staphylococcal skin infection. f Grouped term includes: Sepsis, bacterial sepsis, neutropenic sepsis, device related sepsis, Klebsiella sepsis, Septic shock, Staphylococcal sepsis, and urosepsis. g Includes 1 fatal adverse reaction. Clinically relevant adverse reactions in less than 5% of patients who received ONUREG included Investigations: Weight decreased Neutropenia, thrombocytopenia, and anemia of any grade occurred in 74%, 65%, and 25% of patients who received ONUREG. Table 3 summarizes select Grades 3 or 4 hematological laboratory abnormalities in QUAZAR. Table 3: Selected Hematological Laboratory Abnormalities That Worsened from Baseline in Patients Who Received ONUREG in QUAZAR ONUREG Placebo Laboratory Abnormality Baseline Grade 0-2 N Post-Baseline Grade 3 or 4 n (%) Baseline Grade 0-2 N Post-Baseline Grade 3 or 4 n (%) Neutropenia 223 109 (49) 217 50 (23) Thrombocytopenia 222 46 (21) 212 22 (10) Anemia 229 10 (4) 223 7 (3)
+
+**6.2** Postmarketing Experience The following adverse reactions have been identified during postapproval use of intravenous or subcutaneous azacitidine. …
+
+*(Shortened. The full text is in the official label: DailyMed set ID 0e95e33f-8aba-4f19-b332-2416580d358b.)*
+
+## Pregnancy, breastfeeding, children and older adults
+
+Lactation : Advise not to breastfeed ( 8.2 ).
+
+**8.1** Pregnancy Risk Summary Based on its mechanism of action [see Clinical Pharmacology (12.1) ] and findings in animals, ONUREG can cause fetal harm when administered to a pregnant woman. There are no available data on ONUREG use in pregnant women to evaluate for a drug-associated risk. Azacitidine was teratogenic and caused embryo-fetal lethality in animals at doses less than the recommended human daily dose of oral azacitidine on a mg/m 2 basis (see Data ) . Advise pregnant women of the potential risk to the fetus. The estimated background of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data No reproductive or developmental toxicity studies have been conducted with oral azacitidine. Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single intraperitoneal injection of 6 mg/m 2 azacitidine (at doses less than the recommended human daily dose of oral azacitidine on a mg/m 2 basis) on gestation Day 10. Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation Day 15 at doses of approximately 3 to 12 mg/m 2 (at doses less than the recommended human daily dose on a mg/m 2 basis). In rats, azacitidine was clearly embryotoxic when given an intraperitoneal injection on gestation Days 4 to 8 (postimplantation) at a dose of 6 mg/m 2 (at doses less than the recommended human daily dose on a mg/m 2 basis), although treatment in the preimplantation period (on gestation Days 1 to 3) had no adverse effect on the embryos. Azacitidine caused multiple fetal abnormalities in rats after a single intraperitoneal dose of 3 to 12 mg/m 2 (at doses less than the recommended human daily dose on a mg/m 2 basis) given on gestation Days 9, 10, 11, or 12. In this study, azacitidine caused fetal death when administered at 3 to 12 mg/m 2 on gestation Days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation Day 9. Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomalies (micromelia, club foot, syndactyly, oligodactyly), and others (micrognathia, gastroschisis, edema, and rib abnormalities).
+
+**8.2** Lactation Risk Summary There are no data regarding the presence of azacitidine in human milk or the effects on the breastfed child or milk production. Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with ONUREG and for 1 week after the last dose.
+
+**8.3** Females and Males of Reproductive Potential ONUREG can cause embryo-fetal harm when administered to pregnant women [see Use in Specific Populations (8.1) ] . Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential before starting ONUREG. Contraception Females Advise females of reproductive potential to use effective contraception during treatment with ONUREG and for at least 6 months after the last dose. Males Advise males with female partners of reproductive potential to use effective contraception during treatment with ONUREG and for at least 3 months after the last dose. Infertility Based on animal data, ONUREG may impair male or female fertility [see Nonclinical Toxicology (13.1) ] .
+
+**8.4** Pediatric Use The safety and effectiveness of ONUREG in pediatric patients have not been established.
+
+**8.5** Geriatric Use Of the 238 patients in QUAZAR who received ONUREG, 72% were 65 years of age or older, while 12% were 75 years of age or older. No overall differences in safety or effectiveness of ONUREG were observed between these patients and younger patients.
+
+**8.6** Renal Impairment Monitor patients with severe renal impairment (creatinine clearance [CLcr] 15 to 29 mL/min calculated by Cockcroft-Gault formula) more frequently for adverse reactions and modify the ONUREG dosage for adverse reactions [see Dosage and Administration (2.3) ] . No dose adjustment of ONUREG is recommended for patients with mild to severe renal impairment (CLcr 15 to 89 mL/min) [see Clinical Pharmacology (12.3) ] .
+
+**8.7** Hepatic Impairment ONUREG has not been studied in patients with pre-existing severe hepatic impairment (total bilirubin > 3 × ULN). No dose adjustment of ONUREG is recommended for patients with mild or moderate hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 3 × ULN and any AST) [see Clinical Pharmacology (12.3) ] .
+
+## Patient information
+
+Patient Package Insert Patient Information ONUREG ® (on-u-reg) (azacitidine) tablets, for oral use What is ONUREG? ONUREG is a prescription medicine used for continued treatment of adults with acute myeloid leukemia (AML) who:
+
+- had a first complete remission (CR) following intensive induction chemotherapy with or without recovery of your blood cell counts, and
+- who are not able to complete intensive curative therapy. It is not known if ONUREG is safe and effective in children under 18 years of age. Do not take ONUREG if you:
+- are allergic to azacitidine or any of the ingredients in ONUREG. See the end of this leaflet for a complete list of ingredients in ONUREG. Before taking ONUREG, tell your healthcare provider about all of your medical conditions, including if you:
+- have kidney or liver problems.
+- are pregnant or plan to become pregnant. ONUREG can harm your unborn baby. Females who are able to become pregnant: o Your healthcare provider should perform a pregnancy test before you start treatment with ONUREG. o You should use effective birth control (contraception) during treatment and for at least 6 months after your last dose of ONUREG. o Tell your healthcare provider right away if you become pregnant during treatment with ONUREG. Males with a female sexual partner who can become pregnant: o You should use effective birth control (contraception) during treatment and for at least 3 months after your last dose of ONUREG.
+- are breastfeeding or plan to breastfeed. It is not known if ONUREG passes into your breast milk. Do not breastfeed during treatment and for 1 week after your last dose of ONUREG. Tell your healthcare provider about all the medicines you take , including prescription and over-the-counter medicines, vitamins, and herbal supplements. How should I take ONUREG?
+- Take ONUREG exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will prescribe an anti-nausea medicine for you to take to help prevent nausea and vomiting during your treatment with ONUREG. o Take the anti-nausea medicine 30 minutes before each dose of ONUREG. o Your healthcare provider may decide to stop the anti-nausea medicine after your second cycle of ONUREG, if you do not have any nausea or vomiting.
+- Take ONUREG by mouth 1 time each day beginning on Day 1 through Day 14 of each 28-day cycle.
+- Take ONUREG with or without food at about the same time each day.
+- Swallow ONUREG tablets whole. Do not cut, crush, or chew the tablets.
+- If the powder from ONUREG tablets comes in contact with your skin, wash the area well right away with soap and water.
+- If the powder from ONUREG tablets comes in contact with your eyes or mouth (mucous membranes), flush the area right away with water.
+- If you miss a dose of ONUREG, or if you do not take your dose at the usual time, take the dose as soon as possible that day. Take your next dose at the regular time the next day. Do not take 2 doses on the same day to make up for a missed dose.
+- If you vomit after taking a dose of ONUREG, do not take another dose on the same day. Take your next dose at the regular time the next day. What are the possible side effects of ONUREG? ONUREG can cause serious side effects, including:
+- New or worsening low white blood cell counts (neutropenia). New or worsening low white blood cell counts can be severe during treatment with ONUREG. If your white blood cell counts become very low, you are at increased risk for infections, including a severe infection of the blood called sepsis that can lead to death. Your healthcare provider will check your white blood cell counts before and during treatment with ONUREG. Your healthcare provider may prescribe a medicine to help increase your white blood cell count if needed. Tell your healthcare provider right away if you get any of the following symptoms: o fever o chills o body aches o shortness of breath o fast heartbeat o feeling very tired or weak o unusual headaches o lightheadedness or dizziness o confusion or grogginess
+- New or worsening low platelet counts (thrombocytopenia). Low platelet counts are common but can also be severe during treatment with ONUREG. Your healthcare provider will check your platelet counts before and during treatment with ONUREG. Tell your healthcare provider right away if you have any unusual bruising or bleeding. Your healthcare provider may change your dose or tell you to stop taking ONUREG if you have low blood cell counts. ONUREG may cause fertility problems in males and females, which may affect your ability to have children. Talk with your healthcare provider if you have concerns about fertility. The most common side effects of ONUREG include:
+- nausea and vomiting. See "How should I take ONUREG?"
+- diarrhea. You may need to be treated with anti-diarrheal medicines.
+- tiredness or weakness
+- constipation
+- sore throat and runny nose
+- pneumonia
+- stomach area (abdominal) pain
+- joint pain
+- decreased appetite
+- low white blood cell counts
+- dizziness
+- skin infection
+- pain in arms or legs These are not all of the possible side effects of ONUREG. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. How should I store ONUREG?
+- Store blisters of ONUREG tablets at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store ONUREG tablets in the original aluminum-aluminum blisters.
+- Talk to your healthcare provider about how to safely throw away (dispose of) any unused or expired ONUREG. Keep ONUREG and all medicines out of the reach of children General information about the safe and effective use of ONUREG. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ONUREG for a condition for which it was not prescribed. Do not give ONUREG to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ONUREG that is written for health professionals. What are the ingredients in ONUREG? Active ingredient: azacitidine Inactive ingredients: Each core tablet contains: croscarmellose sodium, magnesium stearate, mannitol, and silicified microcrystalline cellulose. The pink 200 mg tablet coating contains: hypromellose, iron oxide red, lactose monohydrate, polyethylene glycol, titanium dioxide, and triacetin. The brown 300 mg tablet coating contains: black iron oxide, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, polyethylene glycol, titanium dioxide, and triacetin. Marketed by: Bristol-Myers Squibb Company, Princeton, NJ 08543 USA ONUREG ® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company. ONUPPI V6 6/2026 For more information, go to www.ONUREG.com or call 1-800-721-5072. This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: June 2026
+
+---
+
+*Source: FDA prescribing information via openFDA, label effective 2026-06-12, DailyMed set ID 0e95e33f-8aba-4f19-b332-2416580d358b. Public domain.*
