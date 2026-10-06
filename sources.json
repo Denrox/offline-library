@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "id": "medicine-medlineplus",
+      "topic": "Medicine",
+      "title": "MedlinePlus health topics",
+      "description": "About 1,000 plain-language health topics (conditions, symptoms, tests, wellness) from the U.S. National Library of Medicine.",
+      "converter": "medlineplus",
+      "source_url": "https://medlineplus.gov/",
+      "license": "Public domain (U.S. Government work).",
+      "attribution": "Courtesy of MedlinePlus, U.S. National Library of Medicine. NLM does not endorse this collection. General health information, not medical advice."
+    },
+    {
+      "id": "medicine-first-aid",
+      "topic": "Medicine",
+      "title": "First Aid (Wikibooks)",
+      "description": "Community-written first aid course: assessment, CPR, bleeding, burns, fractures, environmental emergencies, wilderness and marine first aid.",
+      "converter": "wikibook",
+      "source_url": "https://en.wikibooks.org/wiki/First_Aid",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+      "attribution": "Text by Wikibooks contributors, converted to markdown with images and navigation removed.",
+      "params": {
+        "book": "First Aid",
+        "nav_templates": [
+          "Template:FAFooter1", "Template:FAFooter2", "Template:FAFooter3", "Template:FAFooter4",
+          "Template:FAFooter5", "Template:FAFooter6", "Template:FAFooter7", "Template:FAFooter8",
+          "Template:FAFooter9", "Template:FAFooter10", "Template:FAFooter11", "Template:FAFooter12"
+        ],
+        "strip_templates": "FAFooter\\d*|FirstAidHeader|FirstAidFooter",
+        "skip_pages": [
+          "Authors", "How To Read This Book", "Manual of Style", "Meta content", "List of Images",
+          "What needs to be done?", "Appendix B: Behind the Scenes",
+          "Appendix D: Notes for First Aid Instructors", "Appendices"
+        ],
+        "notice": "Community-written and partly outdated (for example, CPR is now 100–120 compressions per minute, and severe limb bleeding is controlled with a tourniquet). Use it for reference, not instead of training with a certified instructor. In an emergency, call your local emergency number."
+      }
+    }
+  ]
+}
