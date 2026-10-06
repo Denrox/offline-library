@@ -1,0 +1,40 @@
+# Ethylhexyl Methoxycinnamate and Titanium Dioxide
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** topical  
+**Labels on file:** 3
+
+**Also sold as:** Sunscreen, Mooyam Dark Skin Sunscreen, Veirfoo Brightening Hydrating Antiwrinkle Sunscreen
+
+## Active ingredients
+
+ETHYLHEXYL METHOXYCINNAMATE 7.5% TITANIUM DIOXIDE(NANO) 4%
+
+## Purpose
+
+Sun Protection
+
+## Uses
+
+FUNCTION: Blocks UV rays. protects against sun damage, moisturizes and nourishes, feels light and breathable, and nourishes and beautifies the skin.
+
+## Warnings
+
+PRECAUTIONS: Do not use for food purposes.Do not use on broken skin; avoid contact with eyes. If product gets into eyes, rinse immediately with plenty of water. Discontinue use if discomfort occurs.
+
+### Keep out of reach of children
+
+Keep out of eyes: In case of contact with eyes, please fush thoroughly with water.
+
+## Directions
+
+USAGE：For daytime use, apply an appropriate amount evenly to the face and body.
+
+## Inactive ingredients
+
+WATER SACCHAROMYCES FERMENT FILTRATE DIPROPYLENE GLYCOL GLYCERIN C12-15 ALKYL BENZOATE CAPRYLYL METHICONE CYCLOPENTASILOXANE POLYMETHYLSILSESQUIOXANE METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL(NANO) BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE CYCLOHEXASILOXANE C20-22 ALKYL PHOSPHATE POTASSIUM CETYL PHOSPHATE HYDROXYACETOPHENONE SILICA C20-22 ALCOHOLS POLYGLYCERYL-10 MYRISTATE CETEARYL ALCOHOL POLYHYDROXYSTEARIC ACID TOCOPHERYL ACETATE CHLORPHENESIN DECYL GLUCOSIDE POLYACRYLATE CROSSPOLYMER-6 ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER POTASSIUM HYDROXIDE DISODIUM EDTA BISABOLOL DIMETHICONE ISOHEXADECANE POLYSORBATE 80 PROPYLENE GLYCOL SODIUM HYALURONATE CROSSPOLYMER SODIUM HYALURONATE SORBITAN OLEATE XANTHAN GUM PHENOXYETHANOL VIOLA YEDOENSIS EXTRACT PAEONIA LACTIFLORA ROOT EXTRACT TARAXACUM OFFICINALE (DANDELION) RHIZOME/ROOT EXTRACT CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT BHT 1,2-HEXANEDIOL LONICERA JAPONICA (HONEYSUCKLE) FLOWER EXTRACT MALVA SYLVESTRIS (MALLOW) FLOWER EXTRACT HYDROLYZED SODIUM HYALURONATE SODIUM ACETYLATED HYALURONATE HYALURONIC ACID HYDROLYZED GLYCOSAMINOGLYCANS ZINGIBER OFFICINALE (GINGER) ROOT EXTRACT ETHYLHEXYLGLYCERIN HYDROXYPROPYLTRIMONIUM HYALURONATE ALOE BARBADENSIS LEAF JUICE
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2025-09-10, DailyMed set ID 3e6fe9f3-486b-bba7-e063-6294a90adf37. Public domain.*

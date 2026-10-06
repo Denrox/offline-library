@@ -1,0 +1,56 @@
+# Selenium Sulfide (cutaneous)
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** cutaneous  
+**Labels on file:** 1
+
+**Also sold as:** Easyes Anti Dandruff and Anti Hair Thinning Shamp00
+
+## Active ingredients
+
+(s) SELENIUM DISULPHIDE 1%
+
+## Purpose
+
+Anti-dandruff
+
+## Uses
+
+Uses:fights and helps prevent recurrence ofscalp flaking and itching associated with dandruff.
+
+## Warnings
+
+For external use only
+
+### Do not use
+
+OPEN SKIN WOUND
+
+### When using this product
+
+avoid contact with the eyes. lf contact occurs, rinse eyes thoroughly with water.
+
+### Stop use and ask a doctor if
+
+condition worsens or does not improve after regular use of this product as directed.
+
+### Keep out of reach of children
+
+Keep out of reach of children.If swallowed, get medical help or contact a Poison Control Centerright away.
+
+## Directions
+
+Directions:for best results, use at least twice a week or as directed by a doctor. wet hair and apply small amount of shampoo and massage' onto scalp. rinse and repeat if desired.
+
+## Other information
+
+Keep container tightly closed and store in a cool, dry,well-ventilated area.
+
+## Inactive ingredients
+
+BIFIDA FERMENT FILTRATE,WATER,SODIUM LAURETH SULFATE. GLYCERIN,FRAGRANCE,COCAMIDE METHYL MEA,AMMONIUM LAURYL SULFATE,COCAMIDOPROPYL HYDROXYSULTAINE,DI- METHICONOL,BIFIDA FERMENT LYSATE,PHENOXYETHANOL,SO- DIUM BENZOATE,CITRIC ACID,SODIUM LAUROYL SARCOSINATE, ALLANTOIN,SODIUM CHLORIDE,GUAR HYDROXYPROPYLTRIMO- NIUM CHLORIDE,GLYCOLIPIDS,CARBOMER,DIMETHICONE, 1,2-HEXANEDIOL,SODIUM CITRATE,MENTHOLUM,HYDROXYACE- TOPHENONE,COCAMIDOPROPYL PG-DIMONIUM CHLORIDE,CO- CAMIDOPROPYL BETAINE,SALICYLIC ACID,SODIUM LAURYL SULFATE,PROPYLENE GLYCOL,BRASSICAMIDOPROPYL DIMETHYLAMINE,QUATERNIUM-80,HYDROGENATED CASTOR OIL,AMODIMETHICONE,MENTHONE GLYCERIN ACETAL,OLETH-8,- MENTHOL,COLLOIDAL SULFUR,ZINC PCA,LAURETH-23,TEA-DO- DECYLBENZENESULFONATE,STARCH HYDROXYPROPYLTRIMONI- UM CHLORIDE,SODIUM LAUROYL GLUTAMATE,ETHYLHEXYLGLYC- ERIN,SODIUM SULFATE,DICHLOROBENZYL ALCOHOL,LAURYL ALCOHOL,ZINGIBER OFFICINALE (GINGER) ROOT EXTRACT,BIS- ABOLOL,PIROCTONE OLAMINE,PHYLLOSTACHYS BAMBUSOIDES EXTRACT,BUTYLENE GLYCOL,HYDROGENATED LECITHIN,LACTO- COCCUS FERMENT EXTRACT,LACTOCOCCUS FERMENT LYSATE,FOMES OFFICINALIS (MUSHROOM)EXTRACT,PROPANEDI OL,CENTELLA ASIATICA LEAF EXTRACT,LACTOCOCCUS FERMENT,VITEX TRIFOLIA FRUIT EXTRACT,THUJA ORIENTALIS LEAF EXTRACT,PANAX GINSENG EXTRACT,NIGELLA SATIVA SEED EXTRACT,LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE, ZINGIBER OFFICINALE (GINGER) EXTRACT,SESAMUM INDICUM (SESAME) EXTRACT,MORUS NIGRA ROOT EXTRACT,SALIX NIGRA (WILLOW) BARK EXTRACT,GANODERMAATRUM (MUSHROOM) EXTRACT,POLYGONUM MULTIFLORUM EXTRACT,BIOSACCHARIDE GUM-1,FRUCTOOLIGOSACCHARIDES,BETA-GLUCAN,CAPRYLHY- DROXAMIC ACID,OLEA EUROPAEA (OLIVE) LEAF EXTRACT,SCUTE- LLARIA BAICALENSIS ROOT EXTRACT,CORDYCEPS SINENSIS EXTRACT,HELICHRYSUM ITALICUM EXTRACT,HYDROXYETHYLCEL- LULOSE
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2026-03-30, DailyMed set ID 4e386cc8-004a-9742-e063-6394a90a763c. Public domain.*

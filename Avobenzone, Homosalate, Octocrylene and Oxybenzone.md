@@ -1,0 +1,40 @@
+# Avobenzone, Homosalate, Octocrylene and Oxybenzone
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** topical  
+**Labels on file:** 1
+
+**Also sold as:** Skin Balancing Ultra Sheer Daily Defence Spf 30 Paulas Choice
+
+## Active ingredients
+
+Purpose Avobenzone 3.0% ........... Sunscreen Homosalate 7.0% ............ Sunscreen Octocrylene 2.0% ............ Sunscreen Oxybenzone 4.0% ............ Sunscreen
+
+## Purpose
+
+Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by sun.
+
+## Uses
+
+Stop use and ask a doctor if rash occurs
+
+## Warnings
+
+For external use only. When using this product keep out of eyes. Rinse with water to remove.
+
+### Keep out of reach of children
+
+Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+
+## Directions
+
+Apply liberally 15 minutes before sun exposure Use a water-resistant sunscreen if swimming or sweating: Imeediately after towel drying At least every two hours Children under 6 months of age: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures, including: Limit time in the sun, especially from 10AM - 2PM Wear long-sleeve shirts, pants, hats and sunglasses
+
+## Inactive ingredients
+
+Water (Aqua), Butylene Glycol, Silica, Aluminum Starch Octenylsuccinate, Cetyl Dimethicone, Camelia Sinensis (Green Tea) Leaf Extract, Aloe Barbadensis Leaf Juice Powder, Ascorbyl Palmitate, Phospholipids, Superoxide Dismutase, Adenosine, Tocopherol, Bisabolol, Boerhavia Diffusa Root Extract, Colloidal Oatmeal, Panthenol, Ginkgo Biloba Leaf Extract, Salix Alba (Willow) Bark Extract, Acrylate/C10-30 Alkyl Acrylate Crosspolymer, Titanium Dioxide, Sodium Hydorxide, Steareth-21, Steareth-2, Polysorbate 20, Disodium EDTA, Phenoxyethanol, Sorbic Acid
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2025-10-14, DailyMed set ID 3bf31626-5580-457b-8a59-cc37f4ab0767. Public domain.*

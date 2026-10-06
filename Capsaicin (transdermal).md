@@ -1,0 +1,60 @@
+# Capsaicin (transdermal)
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** transdermal  
+**Labels on file:** 2
+
+**Also sold as:** Capsaicin 0.025%
+
+## Active ingredients
+
+Capsaicin 0.025% w/w
+
+## Purpose
+
+External analgesic
+
+## Uses
+
+For temporary relief of minor aches & pains of muscles & joints associated with: simple backache arthritis stratins bruises sprains
+
+## Warnings
+
+For external use only
+
+### Do not use
+
+On wounds or damaged skin With a heating pad If you are allergic to any ingredients of this product
+
+### When using this product
+
+Use only as directed Avoid contact with the eyes, mucous membranes or rashes Do not bandage tightly
+
+### Stop use and ask a doctor if
+
+Rash, itching or excessive skin irratation develops Condition worsen Symptoms persist for more than 7 days Symptoms clear up and occur again within a few days
+
+### Pregnancy or breast-feeding
+
+If pregnant or breast-feeding, Ask a health professional before use
+
+### Keep out of reach of children
+
+Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+
+## Directions
+
+Adult and Children 12 years of age and over: Clean and dry affected area Remove ﬁlm from patch and apply to the skin Apply 1 patch at a time to affected area, not more than 3 to 4 times daily Remove patch from the skin after at most 8-hour application Children under 12 years of age: Consult a doctor
+
+## Other information
+
+Avoid storing product in direct sunlight Protect product from excessive moisture
+
+## Inactive ingredients
+
+Water, Glycerin, Polyacrylic Acid, Propylene Glycol, Sodium Polyacrylate, Isopropyl Myristate, Polysorbate 80, PVP, Hydroxyacetophenone, Dihydroxyaluminum Aminoacetate, L-Tartaric Acid, Titanium Dioxide, Carboxymethylcellulose Sodium, Kaolin, Edetate Disodium.
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2025-08-08, DailyMed set ID 3bdcef94-d06f-9152-e063-6294a90a6072. Public domain.*

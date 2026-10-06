@@ -1,0 +1,85 @@
+# Dexchlorpheniramine Maleate, Dextromethorphan Hydrobromide and Phenylephrine Hydrochloride
+
+> **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
+
+**Route:** oral  
+**Labels on file:** 1
+
+**Also sold as:** Westussin Dm
+
+## Active ingredients
+
+Purpose Dexchlorpheniramine Maleate 1 mg Antihistamine Dextromethorphan HBr 10 mg Cough Suppressant Phenylephrine HCl 5 mg Nasal Decongestant
+
+| Active ingredients (in each 5 mL teaspoonful) | Purpose |
+| --- | --- |
+| Dexchlorpheniramine Maleate 1 mg | Antihistamine |
+| Dextromethorphan HBr 10 mg | Cough Suppressant |
+| Phenylephrine HCl 5 mg | Nasal Decongestant |
+
+## Purpose
+
+Active ingredients (in each 5 mL teaspoonful) Purpose Dexchlorpheniramine Maleate 1 mg Antihistamine Dextromethorphan HBr 10 mg Cough Suppressant Phenylephrine HCl 5 mg Nasal Decongestant
+
+| Active ingredients (in each 5 mL teaspoonful) | Purpose |
+| --- | --- |
+| Dexchlorpheniramine Maleate 1 mg | Antihistamine |
+| Dextromethorphan HBr 10 mg | Cough Suppressant |
+| Phenylephrine HCl 5 mg | Nasal Decongestant |
+
+## Uses
+
+temporarily relieves cough due to minor throat and bronchial irritation occurring with a cold or inhaled irritants temporarily relieves nasal congestion due to the common cold, hay fever or other respiratory allergies temporarily relieves these symptoms due to hay fever (allergic rhinitis): runny nose sneezing itching of the nose of throat itchy, watery eyes temporarily restores freer breathing through the nose
+
+## Warnings
+
+Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma or emphysema cough accompanied by excessive phlegm (mucus) Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product do not exceed recommended dosage marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase the drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur especially in children Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. symptoms do not improve within 7 days or are accompanied by fever nervousness, dizziness, or sleeplessness occur If pregnant or breastfeeding ask a health professional before use Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+
+### Do not use
+
+if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product
+
+### Ask a doctor before use if
+
+you have heart disease high blood pressure thyroid disease diabetes a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma or emphysema cough accompanied by excessive phlegm (mucus)
+
+### Ask a doctor or pharmacist before use if
+
+you are taking sedatives or tranquilizers.
+
+### When using this product
+
+do not exceed recommended dosage marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase the drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur especially in children
+
+### Stop use and ask a doctor if
+
+cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. symptoms do not improve within 7 days or are accompanied by fever nervousness, dizziness, or sleeplessness occur
+
+### Pregnancy or breast-feeding
+
+If pregnant or breastfeeding ask a health professional before use
+
+### Keep out of reach of children
+
+Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+
+## Directions
+
+Adults 12 and over: 10 mL every 4 hours Not to exceed 60 mL in 24hrs Children 6-12: 5 mL every 4 hours Not to exceed 30 mL in 24hrs Children 2-6: Consult a doctor
+
+| Adults 12 and over: | 10 mL every 4 hours Not to exceed 60 mL in 24hrs |
+| --- | --- |
+| Children 6-12: | 5 mL every 4 hours Not to exceed 30 mL in 24hrs |
+| Children 2-6: | Consult a doctor |
+
+## Other information
+
+Store at room temperature 15°C-30°C (59°F-86°F)
+
+## Inactive ingredients
+
+Citric acid anhydrous, cotton candy flavoring, glycerin, propylene glycol, purified water, sodium benzoate, sodium citrate dihydrate, sorbitol solution, sucralose.
+
+---
+
+*Source: FDA drug label via openFDA, label effective 2024-07-23, DailyMed set ID 68a0cd44-3fdd-430e-af1a-498d4415ab78. Public domain.*
