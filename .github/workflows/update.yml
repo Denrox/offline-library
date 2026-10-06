@@ -1,0 +1,81 @@
+name: Update sources
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Source id to build (empty = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-sources
+  cancel-in-progress: false
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    outputs:
+      sources: ${{ steps.list.outputs.sources }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        env:
+          ONLY: ${{ inputs.source }}
+        run: |
+          if [ -n "$ONLY" ]; then
+            python3 build.py --list | python3 -c 'import json,os,sys; ids=json.load(sys.stdin); only=os.environ["ONLY"]; assert only in ids, f"unknown source {only}"; print(json.dumps([only]))' > ids.json
+          else
+            python3 build.py --list > ids.json
+          fi
+          echo "sources=$(cat ids.json)" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: list
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.list.outputs.sources) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: tools
+
+      - name: Build
+        working-directory: tools
+        run: python3 build.py "${{ matrix.source }}" "$RUNNER_TEMP/out"
+
+      - name: Publish to branch ${{ matrix.source }}
+        env:
+          BRANCH: ${{ matrix.source }}
+          REPO_URL: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+        run: |
+          set -e
+          if git clone --quiet --depth 1 --branch "$BRANCH" "$REPO_URL" content 2>/dev/null; then
+            echo "Updating existing branch"
+          else
+            echo "Creating branch"
+            git init --quiet content
+            git -C content checkout --quiet --orphan "$BRANCH"
+            git -C content remote add origin "$REPO_URL"
+          fi
+          cd content
+          git rm -r --quiet --cached . 2>/dev/null || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a "$RUNNER_TEMP/out/." .
+          git add -A
+          # The README carries the snapshot date; ignore it when nothing else changed.
+          if git diff --cached --quiet -- . ':!README.md' && git rev-parse --quiet --verify HEAD >/dev/null; then
+            echo "No content changes"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit --quiet -m "Update ${BRANCH} ($(date -u +%Y-%m-%d))"
+          git push --quiet origin "HEAD:${BRANCH}"
