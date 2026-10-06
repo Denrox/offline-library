@@ -13,6 +13,7 @@ adding one source never pulls in the others.
 <!-- catalog:start -->
 | Topic | Source | Pages from | License | Add to ui-apt-mirror |
 |---|---|---|---|---|
+| Medicine | **Army First Aid (ATP 4-02.11, 2026)** — U.S. Army manual for non-medical personnel: bleeding control and tourniquets, airway, breathing, shock, head and eye injuries, burns, fractures and splinting, bites and stings, heat and cold injuries, evacuation. | https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46159-ATP_4-02.11-000-WEB-1.pdf | Public domain (U.S. Government work); approved for public release, distribution unlimited. | `https://github.com/Denrox/offline-library/tree/medicine-first-aid-army` |
 | Medicine | **First Aid (Wikibooks)** — Community-written first aid course: assessment, CPR, bleeding, burns, fractures, environmental emergencies, wilderness and marine first aid. | https://en.wikibooks.org/wiki/First_Aid | CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). | `https://github.com/Denrox/offline-library/tree/medicine-first-aid` |
 | Medicine | **MedlinePlus health topics** — About 1,000 plain-language health topics (conditions, symptoms, tests, wellness) from the U.S. National Library of Medicine. | https://medlineplus.gov/ | Public domain (U.S. Government work). | `https://github.com/Denrox/offline-library/tree/medicine-medlineplus` |
 <!-- catalog:end -->
@@ -32,7 +33,8 @@ advice; in an emergency call your local emergency number.
 2. Add an entry to `sources.json`: `id` (the branch name: lowercase,
    `<topic>-<source>`, no `/`), `topic`, `title`, `description`, `converter`,
    `source_url`, `license`, `attribution`, and `params` if the converter takes any.
-3. Check it locally: `python3 build.py <id> /tmp/out`, then `python3 build.py --readme`.
+3. Check it locally: `pip install -r requirements.txt` (add any package a new
+   converter needs there), `python3 build.py <id> /tmp/out`, then `python3 build.py --readme`.
 4. Push to `main`. The **Update sources** workflow builds every source daily and
    commits to its branch only when the content changed; run it by hand from the
    Actions tab to publish a new source straight away.

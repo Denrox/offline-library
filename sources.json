@@ -11,6 +11,40 @@
       "attribution": "Courtesy of MedlinePlus, U.S. National Library of Medicine. NLM does not endorse this collection. General health information, not medical advice."
     },
     {
+      "id": "medicine-first-aid-army",
+      "topic": "Medicine",
+      "title": "Army First Aid (ATP 4-02.11, 2026)",
+      "description": "U.S. Army manual for non-medical personnel: bleeding control and tourniquets, airway, breathing, shock, head and eye injuries, burns, fractures and splinting, bites and stings, heat and cold injuries, evacuation.",
+      "converter": "pdf",
+      "source_url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46159-ATP_4-02.11-000-WEB-1.pdf",
+      "license": "Public domain (U.S. Government work); approved for public release, distribution unlimited.",
+      "attribution": "ATP 4-02.11, Casualty Response, Tactical Combat Casualty Care, and First Aid, Headquarters, Department of the Army, 23 March 2026. Converted to markdown; figures are not included.",
+      "params": {
+        "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN46159-ATP_4-02.11-000-WEB-1.pdf",
+        "name": "Army First Aid",
+        "edition": "2026-03-23",
+        "first_page": 13,
+        "last_page": 239,
+        "header": 55,
+        "footer": 55,
+        "chapter": "^(?:#{1,6} |\\*\\*)(Chapter \\d+|Appendix [A-Z])(?:\\*\\*)?\\s*$",
+        "part": "^#{1,6} PART (ONE|TWO|THREE)$",
+        "strip": [
+          "^(?:\\d+\\s*)+B\\s+"
+        ],
+        "extra_pages": [
+          {
+            "title": "Glossary (acronyms and terms)",
+            "first": 241,
+            "last": 244,
+            "category": "Reference"
+          }
+        ],
+        "notice": "U.S. Army manual written for soldiers; parts of it assume combat conditions (Tactical Combat Casualty Care). Figures are not included. In an emergency, call your local emergency number.",
+        "repair_initials": true
+      }
+    },
+    {
       "id": "medicine-first-aid",
       "topic": "Medicine",
       "title": "First Aid (Wikibooks)",
@@ -22,15 +56,30 @@
       "params": {
         "book": "First Aid",
         "nav_templates": [
-          "Template:FAFooter1", "Template:FAFooter2", "Template:FAFooter3", "Template:FAFooter4",
-          "Template:FAFooter5", "Template:FAFooter6", "Template:FAFooter7", "Template:FAFooter8",
-          "Template:FAFooter9", "Template:FAFooter10", "Template:FAFooter11", "Template:FAFooter12"
+          "Template:FAFooter1",
+          "Template:FAFooter2",
+          "Template:FAFooter3",
+          "Template:FAFooter4",
+          "Template:FAFooter5",
+          "Template:FAFooter6",
+          "Template:FAFooter7",
+          "Template:FAFooter8",
+          "Template:FAFooter9",
+          "Template:FAFooter10",
+          "Template:FAFooter11",
+          "Template:FAFooter12"
         ],
         "strip_templates": "FAFooter\\d*|FirstAidHeader|FirstAidFooter",
         "skip_pages": [
-          "Authors", "How To Read This Book", "Manual of Style", "Meta content", "List of Images",
-          "What needs to be done?", "Appendix B: Behind the Scenes",
-          "Appendix D: Notes for First Aid Instructors", "Appendices"
+          "Authors",
+          "How To Read This Book",
+          "Manual of Style",
+          "Meta content",
+          "List of Images",
+          "What needs to be done?",
+          "Appendix B: Behind the Scenes",
+          "Appendix D: Notes for First Aid Instructors",
+          "Appendices"
         ],
         "notice": "Community-written and partly outdated (for example, CPR is now 100–120 compressions per minute, and severe limb bleeding is controlled with a tourniquet). Use it for reference, not instead of training with a certified instructor. In an emergency, call your local emergency number."
       }
