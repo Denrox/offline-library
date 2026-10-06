@@ -4,17 +4,17 @@ Most children hear and listen from the moment they are born. They learn to talk 
 
 Babies should have a hearing screening before they are a month old. If your child has a hearing loss, it is important to consider the use of hearing devices and other communication options by age 6 months. That's because children start learning speech and language long before they talk.
 
-Hearing problems can be temporary or permanent. Sometimes, [ear infections](https://medlineplus.gov/earinfections.html), injuries or diseases affect hearing. If your child does not hear well, get help.
+Hearing problems can be temporary or permanent. Sometimes, [ear infections](Ear%20Infections.md), injuries or diseases affect hearing. If your child does not hear well, get help.
 
 NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Assistive Devices
-- Cochlear Implants
-- Hearing Aids
-- Hearing Disorders and Deafness
+- [Assistive Devices](Assistive%20Devices.md)
+- [Cochlear Implants](Cochlear%20Implants.md)
+- [Hearing Aids](Hearing%20Aids.md)
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hearingproblemsinchildren.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hearingproblemsinchildren.html). General information, not medical advice.*

@@ -12,10 +12,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Heart Attack
-- Heart Diseases
-- Heart Health Tests
+- [Heart Attack](Heart%20Attack.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pericardialdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pericardialdisorders.html). General information, not medical advice.*

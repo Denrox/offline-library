@@ -1,6 +1,6 @@
 # Appendicitis
 
-The appendix is a small, tube-like organ attached to the first part of the large intestine. It is located in the lower right part of the abdomen. It has no known function. A blockage inside of the appendix causes appendicitis. The blockage leads to increased pressure, problems with blood flow, and inflammation. If the blockage is not treated, the appendix can burst and spread infection into the abdomen. This causes a condition called [peritonitis](https://medlineplus.gov/peritonealdisorders.html).
+The appendix is a small, tube-like organ attached to the first part of the large intestine. It is located in the lower right part of the abdomen. It has no known function. A blockage inside of the appendix causes appendicitis. The blockage leads to increased pressure, problems with blood flow, and inflammation. If the blockage is not treated, the appendix can burst and spread infection into the abdomen. This causes a condition called [peritonitis](Peritoneal%20Disorders.md).
 
 The main symptom is pain in the abdomen, often on the right side. It is usually sudden and gets worse over time. Other symptoms may include:
 
@@ -19,4 +19,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/appendicitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/appendicitis.html). General information, not medical advice.*

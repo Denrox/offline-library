@@ -4,17 +4,17 @@ You can help prevent medical errors by being an active member of your health car
 
 - Ask questions if you have doubts or concerns. Take a relative or friend to your doctor appointment to help you ask questions and understand answers.
 - Make sure you understand what will happen if you need surgery
-- Tell your health care providers about all the medicines you take, including over-the-counter drugs and dietary supplements. Tell them if you have any allergies or bad reactions to anesthesia. Make sure you know how to [take your medications correctly](https://medlineplus.gov/medicationerrors.html).
+- Tell your health care providers about all the medicines you take, including over-the-counter drugs and dietary supplements. Tell them if you have any allergies or bad reactions to anesthesia. Make sure you know how to [take your medications correctly](Medication%20Errors.md).
 - Get a second opinion about treatment options
-- Keep a copy of your own [medical history](https://medlineplus.gov/personalhealthrecords.html)
+- Keep a copy of your own [medical history](Personal%20Health%20Records.md)
 
 Agency for Healthcare Research and Quality
 
 ## Related topics
 
-- Medication Errors
-- Patient Rights
+- [Medication Errors](Medication%20Errors.md)
+- [Patient Rights](Patient%20Rights.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/patientsafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/patientsafety.html). General information, not medical advice.*

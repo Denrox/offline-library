@@ -17,9 +17,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Childhood Vaccines
-- Vaccines
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [Vaccines](Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rubella.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rubella.html). General information, not medical advice.*

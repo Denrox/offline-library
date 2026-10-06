@@ -4,11 +4,11 @@
 
 #### What is hidradenitis suppurativa (HS)?
 
-Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing [abscesses](https://medlineplus.gov/abscess.html) that drain fluid and pus. As the abscesses heal, they can cause [scarring](https://medlineplus.gov/scars.html) of the skin.
+Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing [abscesses](Abscess.md) that drain fluid and pus. As the abscesses heal, they can cause [scarring](Scars.md) of the skin.
 
 #### What causes hidradenitis suppurativa (HS)?
 
-The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. [Genetics](https://medlineplus.gov/genetics/condition/hidradenitis-suppurativa/), environment, and hormonal factors may play a role.
+The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role.
 
 HS is not caused by bad hygiene, and it cannot be spread to others.
 
@@ -19,8 +19,8 @@ HS typically starts after puberty, usually in the teens or twenties. It is more 
 - Women
 - People who are Black
 - People with a family history of HS
-- People who are overweight or have [obesity](https://medlineplus.gov/obesity.html)
-- People who [smoke](https://medlineplus.gov/smoking.html)
+- People who are overweight or have [obesity](Obesity.md)
+- People who [smoke](Smoking.md)
 
 #### What are the symptoms of hidradenitis suppurativa (HS)?
 
@@ -34,13 +34,13 @@ Symptoms of HS can range from mild to severe. They can include:
 
 - Only one or a few lumps in one area of the skin.
 - Lumps that keep coming back, get bigger, and break open. The lumps form in more than one area of the body.
-- Lumps that are widespread, along with scarring, and [chronic (long-term) pain](chronicpain.html) that may make it hard to move.
+- Lumps that are widespread, along with scarring, and chronic (long-term) pain that may make it hard to move.
 
-Because of the difficulty of dealing with the disease, people with HS are at risk for [depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html).
+Because of the difficulty of dealing with the disease, people with HS are at risk for [depression](Depression.md) and [anxiety](Anxiety.md).
 
 #### How is hidradenitis suppurativa (HS) diagnosed?
 
-There is no specific test for HS. It can be hard to diagnose in the early stages because it can look like pimples or [acne](https://medlineplus.gov/acne.html). To find out if you have HS, your health care provider:
+There is no specific test for HS. It can be hard to diagnose in the early stages because it can look like pimples or [acne](Acne.md). To find out if you have HS, your health care provider:
 
 - Will ask about your medical history and your symptoms
 - Will look at the lumps on your skin
@@ -52,7 +52,7 @@ Your provider may refer you to a dermatologist (a doctor who specializes in skin
 
 Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include:
 
-- **Medicines**, including [steroids](https://medlineplus.gov/steroids.html), [antibiotics](https://medlineplus.gov/antibiotics.html), [pain relievers](https://medlineplus.gov/painrelievers.html), [hormone](https://medlineplus.gov/hormones.html) pills, and medicines that fight inflammation. In mild cases, the medicines may be topical (applied to your skin), injected or taken orally (by mouth).
+- **Medicines**, including [steroids](Steroids.md), [antibiotics](Antibiotics.md), [pain relievers](Pain%20Relievers.md), [hormone](Hormones.md) pills, and medicines that fight inflammation. In mild cases, the medicines may be topical (applied to your skin), injected or taken orally (by mouth).
 - **Biologics**, which are a type of medicine made from living sources, such as cells, tissues, and proteins.
 - **Procedures or surgery** to remove the lumps and scars or make the sores go away.
 - **Laser hair removal** may be helpful in the early stages of HS.
@@ -60,15 +60,15 @@ Treatments focus on the symptoms, but they are not always effective for everyone
 It may also help if you can avoid things that can irritate your skin, by:
 
 - Wearing loose-fitting clothing
-- [Staying at a healthy weight](https://medlineplus.gov/weightcontrol.html)
-- [Quitting smoking](https://medlineplus.gov/quittingsmoking.html)
+- [Staying at a healthy weight](Weight%20Control.md)
+- [Quitting smoking](Quitting%20Smoking.md)
 - Avoiding heat and humidity
 - Being careful not to injure your skin
 
 ## Related topics
 
-- Sweat
+- [Sweat](Sweat.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hidradenitissuppurativa.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hidradenitissuppurativa.html). General information, not medical advice.*

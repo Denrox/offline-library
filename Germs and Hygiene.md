@@ -2,9 +2,9 @@
 
 #### What are germs?
 
-Germs are microorganisms. This means that they can be seen only through a microscope. They can be found everywhere - in the air, soil, and water. There are also germs on your skin and in your body. Many germs live in and on our bodies without causing harm. Some even help us to stay healthy. But some germs can make you sick. [Infectious diseases](https://medlineplus.gov/infectiousdiseases.html) are diseases that are caused by germs.
+Germs are microorganisms. This means that they can be seen only through a microscope. They can be found everywhere - in the air, soil, and water. There are also germs on your skin and in your body. Many germs live in and on our bodies without causing harm. Some even help us to stay healthy. But some germs can make you sick. [Infectious diseases](Infectious%20Diseases.md) are diseases that are caused by germs.
 
-The main types of germs are [bacteria](https://medlineplus.gov/bacterialinfections.html), [viruses](https://medlineplus.gov/viralinfections.html), [fungi](https://medlineplus.gov/fungalinfections.html), and [parasites](https://medlineplus.gov/parasiticdiseases.html).
+The main types of germs are [bacteria](Bacterial%20Infections.md), [viruses](Viral%20Infections.md), [fungi](Fungal%20Infections.md), and [parasites](Parasitic%20Diseases.md).
 
 #### How do germs spread?
 
@@ -15,8 +15,8 @@ There are different ways that germs can spread, including:
 - Through touching the feces (poop) of someone who has the germs, such as changing diapers, then touching your eyes, nose, or mouth
 - Through touching objects and surfaces that have germs on them, then touching your eyes, nose, or mouth
 - From mother to baby during pregnancy and/or childbirth
-- From [insect](https://medlineplus.gov/insectbitesandstings.html) or [animal](https://medlineplus.gov/animalbites.html) bites
-- From contaminated [food](https://medlineplus.gov/foodborneillness.html), [water](https://medlineplus.gov/waterpollution.html), soil, or plants
+- From [insect](Insect%20Bites%20and%20Stings.md) or [animal](Animal%20Bites.md) bites
+- From contaminated [food](Foodborne%20Illness.md), [water](Water%20Pollution.md), soil, or plants
 
 #### How can I protect myself and others from germs?
 
@@ -27,8 +27,8 @@ You can help protect yourself and others from germs:
 
  - Before, during, and after preparing food
  - Before eating food
- - Before and after caring for someone at home who is sick with [vomiting](https://medlineplus.gov/nauseaandvomiting.html) or [diarrhea](https://medlineplus.gov/diarrhea.html)
- - Before and after treating a cut or [wound](https://medlineplus.gov/woundsandinjuries.html)
+ - Before and after caring for someone at home who is sick with [vomiting](Nausea%20and%20Vomiting.md) or [diarrhea](Diarrhea.md)
+ - Before and after treating a cut or [wound](Wounds%20and%20Injuries.md)
  - After using the toilet
  - After changing diapers or cleaning up a child who has used the toilet
  - After blowing your nose, coughing, or sneezing
@@ -38,17 +38,17 @@ You can help protect yourself and others from germs:
 - If soap and water are not available, you can use an alcohol-based hand sanitizer that contains at least 60% alcohol
 - Stay home if you are sick
 - Avoid close contact with people who are sick
-- Practice [food safety](https://medlineplus.gov/foodsafety.html) when handling, cooking, and storing food
-- Regularly [clean and disinfect](https://medlineplus.gov/cleaningdisinfectingandsanitizing.html) frequently touched surfaces and objects
+- Practice [food safety](Food%20Safety.md) when handling, cooking, and storing food
+- Regularly [clean and disinfect](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md) frequently touched surfaces and objects
 
 ## Related topics
 
-- Cleaning, Disinfecting, and Sanitizing
-- Common Cold
-- COVID-19 (Coronavirus Disease 2019)
-- Flu
-- Infection Control
+- [Cleaning, Disinfecting, and Sanitizing](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md)
+- [Common Cold](Common%20Cold.md)
+- [COVID-19 (Coronavirus Disease 2019)](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- [Flu](Flu.md)
+- [Infection Control](Infection%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/germsandhygiene.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/germsandhygiene.html). General information, not medical advice.*

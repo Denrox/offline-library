@@ -12,8 +12,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Viral Infections
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cytomegalovirusinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cytomegalovirusinfections.html). General information, not medical advice.*

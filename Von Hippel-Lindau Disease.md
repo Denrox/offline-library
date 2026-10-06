@@ -14,12 +14,12 @@ VHL is a genetic disease. It is inherited, which means that it is passed down fr
 
 Symptoms of VHL depend on the size and location of the tumors. They may include:
 
-- [Headaches](https://medlineplus.gov/headache.html)
-- Problems with [balance](https://medlineplus.gov/balanceproblems.html) and [walking](https://medlineplus.gov/walkingproblems.html)
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Headaches](Headache.md)
+- Problems with [balance](Balance%20Problems.md) and [walking](Walking%20Problems.md)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Weakness of the limbs
-- [Vision problems](https://medlineplus.gov/visionimpairmentandblindness.html)
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
+- [Vision problems](Vision%20Impairment%20and%20Blindness.md)
+- [High blood pressure](High%20Blood%20Pressure.md)
 
 #### How is Von Hippel-Lindau disease (VHL) diagnosed?
 
@@ -33,4 +33,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vonhippellindaudisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vonhippellindaudisease.html). General information, not medical advice.*

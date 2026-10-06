@@ -4,7 +4,7 @@
 
 #### What is polio?
 
-Polio, or poliomyelitis, is a disease that spreads from person to person. It is caused by the poliovirus. The virus attacks the nervous system. In serious cases, it can cause [paralysis](https://medlineplus.gov/paralysis.html) (where you can't move parts of the body). The paralysis may be lifelong and can sometimes be life-threatening.
+Polio, or poliomyelitis, is a disease that spreads from person to person. It is caused by the poliovirus. The virus attacks the nervous system. In serious cases, it can cause [paralysis](Paralysis.md) (where you can't move parts of the body). The paralysis may be lifelong and can sometimes be life-threatening.
 
 Because of vaccines, polio is rare in the United States. But polio does occur in some parts of the world, and travelers can spread the virus.
 
@@ -32,15 +32,15 @@ Polio mainly affects children under age 5. But people of any age (including adul
 Most people who get infected with poliovirus do not have any symptoms. But one out of four people who get polio will have flu-like symptoms. These symptoms usually last 2 to 5 days, and they include:
 
 - Sore throat
-- [Fever](https://medlineplus.gov/fever.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Nausea](https://medlineplus.gov/nauseaandvomiting.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Fever](Fever.md)
+- [Fatigue](Fatigue.md)
+- [Nausea](Nausea%20and%20Vomiting.md)
+- [Headache](Headache.md)
 - Stomach pain
 
 In rare cases, polio can be very serious. It can lead to:
 
-- [Meningitis](https://medlineplus.gov/meningitis.html), an infection of the covering of your spinal cord and/or brain.
+- [Meningitis](Meningitis.md), an infection of the covering of your spinal cord and/or brain.
 - Weakness or paralysis in your arms, legs, or both. This paralysis or weakness can last a lifetime. It is possible for the paralysis to become life-threatening if it affects the muscles that you use to breathe.
 - Post-polio syndrome (PPS), which happens later in life.
 
@@ -55,7 +55,7 @@ People who get PPS start having new weakening in muscles that were previously af
 - Loss of muscle function
 - Mental and physical fatigue
 - Joint pain
-- Curving of the spine ([scoliosis](https://medlineplus.gov/scoliosis.html))
+- Curving of the spine ([scoliosis](Scoliosis.md))
 
 PPS is rarely life-threatening, but the symptoms can interfere with your daily life.
 
@@ -77,13 +77,13 @@ There is no cure or specific treatment for polio. For a mild case, getting rest 
 If the polio is more serious, you or your child may need:
 
 - Physical or occupational therapy to help with arm or leg weakness. The earlier therapy is started, the better.
-- [Pain relievers](https://medlineplus.gov/painrelievers.html) to help with pain and treat fever. If your child is sick, do not give them aspirin unless their provider tells you to.
+- [Pain relievers](Pain%20Relievers.md) to help with pain and treat fever. If your child is sick, do not give them aspirin unless their provider tells you to.
 - A ventilator to help with breathing if the breathing muscles are weak or paralyzed.
 
 There is no cure for PPS. Treatments may help you manage your symptoms. They include:
 
 - Non-fatiguing exercises (exercises that do not cause pain or fatigue that lasts more than 10 minutes). These exercises may improve muscle strength and reduce tiredness. Your provider can help you figure out which exercises are best for you.
-- [Mobility aids](https://medlineplus.gov/mobilityaids.html).
+- [Mobility aids](Mobility%20Aids.md).
 - Ventilation equipment.
 - Lifestyle changes, such as eating a healthy diet, getting enough sleep, and not smoking.
 
@@ -94,7 +94,7 @@ There are two types of vaccine that can prevent polio:
 - Inactivated poliovirus vaccine (IPV) given as an injection in the leg or arm, depending on how old you are. Since 2000, this has been the only polio vaccine used in the United States.
 - Oral poliovirus vaccine (OPV) is given as drops in the mouth. It is still used throughout much of the world.
 
-Children in the United States get four doses of PV as part of their routine [childhood immunizations](https://medlineplus.gov/childhoodvaccines.html). Most adults in the United States were vaccinated against polio as children.
+Children in the United States get four doses of PV as part of their routine [childhood immunizations](Childhood%20Vaccines.md). Most adults in the United States were vaccinated against polio as children.
 
 There is a one-time IPV booster. It may be given to adults who have completed their polio vaccinations but are at higher risk of contact with poliovirus. You may be at higher risk if you are:
 
@@ -102,14 +102,14 @@ There is a one-time IPV booster. It may be given to adults who have completed th
 - Working in a laboratory or healthcare setting and handling samples that might contain polioviruses
 - A healthcare worker who has contact with patients who could have polio
 
-Another way to help prevent the spread of polio is to [wash your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water. Alcohol-based hand sanitizers will not kill poliovirus.
+Another way to help prevent the spread of polio is to [wash your hands](Germs%20and%20Hygiene.md) often with soap and water. Alcohol-based hand sanitizers will not kill poliovirus.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Paralysis
+- [Paralysis](Paralysis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/polioandpostpoliosyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/polioandpostpoliosyndrome.html). General information, not medical advice.*

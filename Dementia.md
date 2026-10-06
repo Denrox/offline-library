@@ -19,20 +19,20 @@ It is normal to become a bit more forgetful as you age. But dementia is not a no
 
 The most common types of dementia are known as neurodegenerative disorders. These are diseases in which the cells of the brain stop working or die. They include:
 
-- [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html), which is the most common form of dementia among older people. People with Alzheimer's have plaques and tangles in their brain. These are abnormal buildups of different proteins. Beta-amyloid protein clumps up and forms plaques in between your brain cells. Tau protein builds up and forms tangles inside the nerve cells of your brain. There is also a loss of connection between nerve cells in the brain.
-- [Lewy body dementia](https://medlineplus.gov/lewybodydementia.html), which causes movement symptoms along with dementia. Lewy bodies are abnormal deposits of a protein in the brain.
+- [Alzheimer's disease](Alzheimer%27s%20Disease.md), which is the most common form of dementia among older people. People with Alzheimer's have plaques and tangles in their brain. These are abnormal buildups of different proteins. Beta-amyloid protein clumps up and forms plaques in between your brain cells. Tau protein builds up and forms tangles inside the nerve cells of your brain. There is also a loss of connection between nerve cells in the brain.
+- [Lewy body dementia](Lewy%20Body%20Dementia.md), which causes movement symptoms along with dementia. Lewy bodies are abnormal deposits of a protein in the brain.
 - Frontotemporal disorders, which cause changes to certain parts of the brain:
 
  - Changes in the frontal lobe lead to behavioral symptoms
  - Changes in the temporal lobe lead to language and emotional disorders
-- Vascular dementia, which involves changes to the brain's blood supply. It is often caused by a [stroke](https://medlineplus.gov/stroke.html) or [atherosclerosis](https://medlineplus.gov/atherosclerosis.html) (hardening of the arteries) in the brain.
+- Vascular dementia, which involves changes to the brain's blood supply. It is often caused by a [stroke](Stroke.md) or [atherosclerosis](Atherosclerosis.md) (hardening of the arteries) in the brain.
 - Mixed dementia, which is a combination of two or more types of dementia. For example, some people have both Alzheimer's disease and vascular dementia.
 
 Other conditions can cause dementia or dementia-like symptoms, including:
 
-- [Creutzfeldt-Jakob disease](https://medlineplus.gov/creutzfeldtjakobdisease.html), a rare brain disorder
-- [Huntington's disease](https://medlineplus.gov/huntingtonsdisease.html), an inherited, progressive brain disease
-- Chronic traumatic encephalopathy (CTE), caused by repeated [traumatic brain injury](https://medlineplus.gov/traumaticbraininjury.html)
+- [Creutzfeldt-Jakob disease](Creutzfeldt-Jakob%20Disease.md), a rare brain disorder
+- [Huntington's disease](Huntington%27s%20Disease.md), an inherited, progressive brain disease
+- Chronic traumatic encephalopathy (CTE), caused by repeated [traumatic brain injury](Traumatic%20Brain%20Injury.md)
 - HIV-associated dementia (HAD)
 
 #### Who is at risk for dementia?
@@ -40,10 +40,10 @@ Other conditions can cause dementia or dementia-like symptoms, including:
 Certain factors can raise your risk for developing dementia, including:
 
 - Aging. This is the biggest risk factor for dementia.
-- [Smoking](https://medlineplus.gov/smoking.html)
-- Uncontrolled [diabetes](https://medlineplus.gov/diabetes.html)
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- Drinking too much [alcohol](https://medlineplus.gov/alcohol.html)
+- [Smoking](Smoking.md)
+- Uncontrolled [diabetes](Diabetes.md)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- Drinking too much [alcohol](Alcohol.md)
 - Having close family members who have dementia
 
 #### What are the symptoms of dementia?
@@ -69,8 +69,8 @@ Your health care provider may use many tools to make a diagnosis:
 - A medical history, which includes asking about your symptoms
 - A physical exam
 - Tests of your thinking, memory, and language abilities
-- Other tests, such as blood tests, [genetic tests](https://medlineplus.gov/genetictesting.html), and brain scans
-- A [mental health evaluation](https://medlineplus.gov/lab-tests/mental-health-screening/) to see whether a [mental disorder](https://medlineplus.gov/mentaldisorders.html) is contributing to your symptoms
+- Other tests, such as blood tests, [genetic tests](Genetic%20Testing.md), and brain scans
+- A mental health evaluation to see whether a [mental disorder](Mental%20Disorders.md) is contributing to your symptoms
 
 #### What are the treatments for dementia?
 
@@ -84,15 +84,15 @@ There is no cure for most types of dementia, including Alzheimer's disease and L
 
 #### Can dementia be prevented?
 
-Researchers have not found a proven way to prevent dementia. Living a [healthy lifestyle](https://medlineplus.gov/healthyliving.html) might influence some of your risk factors for dementia.
+Researchers have not found a proven way to prevent dementia. Living a [healthy lifestyle](Healthy%20Living.md) might influence some of your risk factors for dementia.
 
 ## Related topics
 
-- Alzheimer's Disease
-- Delirium
-- Lewy Body Dementia
-- Memory
+- [Alzheimer's Disease](Alzheimer%27s%20Disease.md)
+- [Delirium](Delirium.md)
+- [Lewy Body Dementia](Lewy%20Body%20Dementia.md)
+- [Memory](Memory.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dementia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dementia.html). General information, not medical advice.*

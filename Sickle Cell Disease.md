@@ -6,13 +6,13 @@
 
 Sickle cell disease (SCD) is a group of inherited red blood cell disorders. If you have SCD, there is a problem with your hemoglobin. Hemoglobin is a protein in red blood cells that carries oxygen throughout the body. With SCD, the hemoglobin forms into stiff rods within the red blood cells. This changes the shape of the red blood cells. The cells are supposed to be disc-shaped, but instead they are crescent, or sickle, shaped.
 
-The sickle-shaped cells are not flexible and cannot change shape easily. Many of them burst apart as they move through your blood vessels. The sickle cells usually only last 10 to 20 days, instead of the normal 90 to 120 days. Your body may have trouble making enough new cells to replace the ones that you lost. Because of this, you may not have enough red blood cells. This is a condition called [anemia](https://medlineplus.gov/anemia.html), and it can make you feel tired.
+The sickle-shaped cells are not flexible and cannot change shape easily. Many of them burst apart as they move through your blood vessels. The sickle cells usually only last 10 to 20 days, instead of the normal 90 to 120 days. Your body may have trouble making enough new cells to replace the ones that you lost. Because of this, you may not have enough red blood cells. This is a condition called [anemia](Anemia.md), and it can make you feel tired.
 
 The sickle-shaped cells can also stick to vessel walls, causing a blockage that slows or stops the flow of blood. When this happens, oxygen can't reach nearby tissues. The lack of oxygen can cause attacks of sudden, severe pain, called pain crises. These attacks can occur without warning. If you get one, you might need to go to the hospital for treatment.
 
 #### What causes sickle cell disease (SCD)?
 
-SCD is caused by a [variant (change) in a gene](https://medlineplus.gov/genetics/condition/sickle-cell-disease/) that has instructions for your body to make one part of the hemoglobin. This changed gene is sometimes called a sickle cell gene. People with SCD are born with two sickle cell genes, one from each parent.
+SCD is caused by a variant (change) in a gene that has instructions for your body to make one part of the hemoglobin. This changed gene is sometimes called a sickle cell gene. People with SCD are born with two sickle cell genes, one from each parent.
 
 If you are born with one sickle cell gene, it's called sickle cell trait. People with sickle cell trait are generally healthy, but they can pass the defective gene on to their children.
 
@@ -31,15 +31,15 @@ People with SCD start to have signs of the disease during the first year of life
 
 - Painful swelling of the hands and feet
 - Fatigue or fussiness from anemia
-- A yellowish color of the skin ([jaundice](https://medlineplus.gov/jaundice.html)) or the whites of the eyes (icterus)
+- A yellowish color of the skin ([jaundice](Jaundice.md)) or the whites of the eyes (icterus)
 
 The effects of SCD vary from person to person and can change over time. Most of the signs and symptoms of SCD are related to complications of the disease. They may include severe pain, anemia, organ damage, and infections.
 
 #### How is sickle cell disease (SCD) diagnosed?
 
-A blood test can show if you have SCD or sickle cell trait. [Genetic tests](https://medlineplus.gov/genetictesting.html) can tell if you have one or two copies of the sickle cell gene. Genetic tests can help confirm an SCD diagnosis if the results from blood tests are not clear.
+A blood test can show if you have SCD or sickle cell trait. [Genetic tests](Genetic%20Testing.md) can tell if you have one or two copies of the sickle cell gene. Genetic tests can help confirm an SCD diagnosis if the results from blood tests are not clear.
 
-All states now test newborns for SCD (as well as many other treatable conditions) as part of their [screening programs](https://medlineplus.gov/newbornscreening.html). These programs help find the conditions early, so treatment can be started right away.
+All states now test newborns for SCD (as well as many other treatable conditions) as part of their [screening programs](Newborn%20Screening.md). These programs help find the conditions early, so treatment can be started right away.
 
 Health care providers can also diagnose SCD before a baby is born. That test uses a sample of amniotic fluid (the liquid in the sac surrounding the baby) or tissue taken from the placenta (the organ that brings oxygen and nutrients to the baby).
 
@@ -53,17 +53,17 @@ There are many ways to manage sickle cell disease. Your medical team will probab
 
  - Hydroxyurea, a medicine to reduce sickling of red blood cells. This can help prevent serious symptoms of sickle cell disease. This medicine can be used in adults and in children as young as 9 months old. But this medicine is **not** safe during pregnancy.
  - Voxelotor, another medicine to prevent the sickling of red blood cells. It can be used in adults and children ages 4 years and older.
- - [Pain relievers](https://medlineplus.gov/painrelievers.html) for acute or chronic pain.
- - [Antibiotics](https://medlineplus.gov/antibiotics.html) to try to prevent infections in younger children.
- - [Blood transfusions](https://medlineplus.gov/bloodtransfusionanddonation.html) for severe anemia. If you have had some serious complications, such as a [stroke](https://medlineplus.gov/stroke.html), you may have transfusions to prevent more complications.
- - Other treatments for specific complications, such as [medicines to lower blood pressure](https://medlineplus.gov/bloodpressuremedicines.html) and [vitamins](https://medlineplus.gov/vitamins.html) to treat a vitamin deficiency.
-- [Bone marrow](https://medlineplus.gov/bonemarrowtransplantation.html) or [stem cell](https://medlineplus.gov/stemcells.html) transplantation, which can cure SCD. Because these transplants are risky and can have serious side effects, they are usually only used in children with severe SCD. For the transplant to work, the bone marrow must be a close match. Usually, the best donor is a brother or sister.
+ - [Pain relievers](Pain%20Relievers.md) for acute or chronic pain.
+ - [Antibiotics](Antibiotics.md) to try to prevent infections in younger children.
+ - [Blood transfusions](Blood%20Transfusion%20and%20Donation.md) for severe anemia. If you have had some serious complications, such as a [stroke](Stroke.md), you may have transfusions to prevent more complications.
+ - Other treatments for specific complications, such as [medicines to lower blood pressure](Blood%20Pressure%20Medicines.md) and [vitamins](Vitamins.md) to treat a vitamin deficiency.
+- [Bone marrow](Bone%20Marrow%20Transplantation.md) or [stem cell](Stem%20Cells.md) transplantation, which can cure SCD. Because these transplants are risky and can have serious side effects, they are usually only used in children with severe SCD. For the transplant to work, the bone marrow must be a close match. Usually, the best donor is a brother or sister.
 - Gene therapies to treat SCD in people who are 12 years and older and have had repeated sickle cell crises. These new therapies involve taking some of your blood stem cells and either adding new DNA to them or changing their existing DNA. Then these cells are given back to you, and they can make a type of hemoglobin that is healthy. This can reduce the complications of SCD, including the SCD crises.
 
-[Complementary and alternative medicine](https://medlineplus.gov/complementaryandintegrativemedicine.html) (CAM) seems to help some people deal with pain caused by SCD. These types of CAM may lower your pain, especially if it is not well managed with medicines::
+[Complementary and alternative medicine](Complementary%20and%20Integrative%20Medicine.md) (CAM) seems to help some people deal with pain caused by SCD. These types of CAM may lower your pain, especially if it is not well managed with medicines::
 
 - Cognitive behavioral therapy (a type of counseling)
-- [Acupuncture](https://medlineplus.gov/acupuncture.html)
+- [Acupuncture](Acupuncture.md)
 - Exercise or movement programs, such as yoga
 - Massage
 - Meditation and mindfulness practices
@@ -72,7 +72,7 @@ There are many ways to manage sickle cell disease. Your medical team will probab
 It's also important to take steps to keep yourself as healthy as possible:
 
 - Get regular medical care
-- Get your routine [vaccinations](https://medlineplus.gov/vaccines.html)
+- Get your routine [vaccinations](Vaccines.md)
 - Live a healthy lifestyle
 - Avoid situations that may set off a pain crisis
 
@@ -80,4 +80,4 @@ NIH: National Heart, Lung, and Blood Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sicklecelldisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sicklecelldisease.html). General information, not medical advice.*

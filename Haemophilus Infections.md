@@ -2,7 +2,7 @@
 
 Haemophilus is the name of a group of bacteria. There are several types of Haemophilus. They can cause different types of illnesses involving breathing, bones and joints, and the nervous system.
 
-One common type, Hib (Haemophilus influenzae type b), causes serious disease. It usually strikes children under 5 years old. Your child can get Hib disease by being around other children or adults who may have the bacteria and not know it. The germs spread from person to person. If the germs stay in the child's nose and throat, the child probably will not get sick. But sometimes the germs spread into the lungs or the bloodstream, and then Hib can cause serious problems such as [meningitis](https://medlineplus.gov/meningitis.html) and [pneumonia](https://medlineplus.gov/pneumonia.html).
+One common type, Hib (Haemophilus influenzae type b), causes serious disease. It usually strikes children under 5 years old. Your child can get Hib disease by being around other children or adults who may have the bacteria and not know it. The germs spread from person to person. If the germs stay in the child's nose and throat, the child probably will not get sick. But sometimes the germs spread into the lungs or the bloodstream, and then Hib can cause serious problems such as [meningitis](Meningitis.md) and [pneumonia](Pneumonia.md).
 
 Treatment is with antibiotics. There is a vaccine to prevent Hib disease. All children younger than 5 years of age should be vaccinated with the Hib vaccine.
 
@@ -10,11 +10,11 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Bacterial Infections
-- Childhood Vaccines
-- Meningitis
-- Pneumonia
+- [Bacterial Infections](Bacterial%20Infections.md)
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [Meningitis](Meningitis.md)
+- [Pneumonia](Pneumonia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/haemophilusinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/haemophilusinfections.html). General information, not medical advice.*

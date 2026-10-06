@@ -8,7 +8,7 @@ Sometimes those germs can spread to you and make you sick. For example, there co
 
 #### How can I avoid getting germs from surfaces and objects?
 
-To avoid becoming infected by germs from surfaces and objects, it is important to [wash your hands often](https://medlineplus.gov/germsandhygiene.html). But you can't wash your hands every time you touch something. So it's also important to regularly clean and disinfect surfaces and objects.
+To avoid becoming infected by germs from surfaces and objects, it is important to [wash your hands often](Germs%20and%20Hygiene.md). But you can't wash your hands every time you touch something. So it's also important to regularly clean and disinfect surfaces and objects.
 
 #### What is the difference between cleaning, sanitizing, and disinfecting?
 
@@ -31,16 +31,16 @@ It's important to be safe when using cleaning and disinfecting products:
 - Store them in the containers they came in. Always follow the instructions and pay attention to the warnings on the label.
 - Do not mix cleaners and disinfectants unless the labels say that it is safe to do so. Combining certain products (such as chlorine bleach and ammonia cleaners) can cause serious injury or even death.
 - Check the label to see whether you need to use gloves to protect your hands and/or eye protection when using the products
-- [If you swallow, inhale, or get them on your skin](https://medlineplus.gov/poisoning.html), follow the directions on the label or get medical help
+- [If you swallow, inhale, or get them on your skin](Poisoning.md), follow the directions on the label or get medical help
 - Store them out of the reach of children
 
 ## Related topics
 
-- COVID-19 (Coronavirus Disease 2019)
-- Germs and Hygiene
-- Household Products
-- Infection Control
+- [COVID-19 (Coronavirus Disease 2019)](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- [Germs and Hygiene](Germs%20and%20Hygiene.md)
+- [Household Products](Household%20Products.md)
+- [Infection Control](Infection%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cleaningdisinfectingandsanitizing.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cleaningdisinfectingandsanitizing.html). General information, not medical advice.*

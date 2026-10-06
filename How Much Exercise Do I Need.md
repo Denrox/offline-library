@@ -1,6 +1,6 @@
 # How Much Exercise Do I Need?
 
-[Regular exercise](https://medlineplus.gov/exerciseandphysicalfitness.html) is one of the best things you can do for your health. It has many [benefits](https://medlineplus.gov/benefitsofexercise.html). It can improve your overall health and fitness and reduce your risk for many chronic diseases. To get the most benefit, here's how much physical activity you should get:
+[Regular exercise](Exercise%20and%20Physical%20Fitness.md) is one of the best things you can do for your health. It has many [benefits](Benefits%20of%20Exercise.md). It can improve your overall health and fitness and reduce your risk for many chronic diseases. To get the most benefit, here's how much physical activity you should get:
 
 #### For adults
 
@@ -17,7 +17,7 @@
 - Strengthening activities include lifting weights, working with exercise bands, and doing sit-ups and pushups.
 - Choose activities that work all parts of your body your legs, hips, back, chest, stomach, shoulders, and arms. For each exercise, try repeating the movement 8 to 12 times. As you get stronger, work up to doing 2 or 3 rounds of each exercise for the best results.
 
-**If you are an [older adult](https://medlineplus.gov/exerciseforolderadults.html),** you may also benefit from a combination of activities that include aerobic exercises, strength or resistance training, and balance training. Balance training such as walking heel-to-toe or standing on one leg may help improve stability and prevent falls. Before you start exercising, check with your health care provider to determine the best type or amount of activity for you based on your fitness level and health.
+**If you are an [older adult](Exercise%20for%20Older%20Adults.md),** you may also benefit from a combination of activities that include aerobic exercises, strength or resistance training, and balance training. Balance training such as walking heel-to-toe or standing on one leg may help improve stability and prevent falls. Before you start exercising, check with your health care provider to determine the best type or amount of activity for you based on your fitness level and health.
 
 #### For preschool-aged children (ages 3-5)
 
@@ -26,7 +26,7 @@
 - They should get both structured and unstructured active play. Structured play has a goal and is directed by an adult. Examples include playing a sport or a game. Unstructured play is creative free play, such as playing on a playground.
 - Encourage active play with a variety of activities.
 
-#### [For children](https://medlineplus.gov/exerciseforchildren.html) and teens
+#### [For children](Exercise%20for%20Children.md) and teens
 
 **Get 60 minutes or more of physical activity every day. Most of it should be moderate-intensity aerobic activity:**
 
@@ -41,23 +41,23 @@
 
 #### Older adults, pregnant women, and people with chronic health problems
 
-Older adults, [pregnant women](https://medlineplus.gov/pregnancy.html), and people who have [disabilities](https://medlineplus.gov/disabilities.html) or special health needs should check with their provider on how much physical activity they should get and what types of activities they should do.
+Older adults, [pregnant women](Pregnancy.md), and people who have [disabilities](Disabilities.md) or special health needs should check with their provider on how much physical activity they should get and what types of activities they should do.
 
 #### Exercise tips
 
 People who are trying to lose weight may need to get more physical activity. They also need to adjust their diet, so they are burning more calories than they eat and drink.
 
-If you have been [inactive](https://medlineplus.gov/healthrisksofaninactivelifestyle.html), you may need to start exercising slowly. You can keep adding more gradually. The more you can do, the better. But try not to feel overwhelmed and do what you can. Getting some physical activity is always better than getting none. Even small increases in exercise can benefit your health.
+If you have been [inactive](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md), you may need to start exercising slowly. You can keep adding more gradually. The more you can do, the better. But try not to feel overwhelmed and do what you can. Getting some physical activity is always better than getting none. Even small increases in exercise can benefit your health.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Exercise and Physical Fitness
-- Exercise for Children
-- Exercise for Older Adults
-- Sports Fitness
+- [Exercise and Physical Fitness](Exercise%20and%20Physical%20Fitness.md)
+- [Exercise for Children](Exercise%20for%20Children.md)
+- [Exercise for Older Adults](Exercise%20for%20Older%20Adults.md)
+- [Sports Fitness](Sports%20Fitness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/howmuchexercisedoineed.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/howmuchexercisedoineed.html). General information, not medical advice.*

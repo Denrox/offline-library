@@ -12,7 +12,7 @@ Although the cause of SIDS is unknown, there are steps you can take to reduce th
 - Having your baby sleep in your room for at least the first six months. Your baby should sleep close to you, but on a separate surface designed for infants, such as a crib or bassinet.
 - Using a firm sleep surface, such as a crib mattress covered with a fitted sheet
 - Keeping soft objects and loose bedding away from your baby's sleep area
-- [Breastfeeding](https://medlineplus.gov/breastfeeding.html) your baby
+- [Breastfeeding](Breastfeeding.md) your baby
 - Making sure that your baby doesn't get too hot. Keep the room at a comfortable temperature for an adult.
 - Not smoking during pregnancy or allowing anyone to smoke near your baby
 
@@ -20,8 +20,8 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Bereavement
+- [Bereavement](Bereavement.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/suddeninfantdeathsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/suddeninfantdeathsyndrome.html). General information, not medical advice.*

@@ -8,15 +8,15 @@ Down syndrome is a condition in which a person has an extra chromosome or an ext
 
 #### What causes Down syndrome?
 
-[Chromosomes](https://medlineplus.gov/genetics/understanding/basics/chromosome/) are tiny "packages" in your cells that contain your genes. Genes carry information, called DNA, that controls what you look like and how your body works. People with Down syndrome have an extra copy of chromosome 21. In some cases, they may have an extra copy of part of the chromosome. Having an extra copy of a chromosome is called trisomy. So sometimes Down syndrome is also called trisomy 21.
+Chromosomes are tiny "packages" in your cells that contain your genes. Genes carry information, called DNA, that controls what you look like and how your body works. People with Down syndrome have an extra copy of chromosome 21. In some cases, they may have an extra copy of part of the chromosome. Having an extra copy of a chromosome is called trisomy. So sometimes Down syndrome is also called trisomy 21.
 
-Down syndrome is usually not inherited. It happens by chance, as an error when cells are dividing during early [development of the fetus](https://medlineplus.gov/fetalhealthanddevelopment.html). It is not known for sure why Down syndrome occurs or how many different factors play a role.
+Down syndrome is usually not inherited. It happens by chance, as an error when cells are dividing during early [development of the fetus](Fetal%20Health%20and%20Development.md). It is not known for sure why Down syndrome occurs or how many different factors play a role.
 
 One factor that increases the risk of having a baby with Down syndrome is the age of the mother. Women ages 35 and older are more likely to have a baby with Down syndrome.
 
 #### What are the symptoms of Down syndrome?
 
-The symptoms of Down syndrome are different in each person. And people with Down syndrome may have different problems at different times of their lives. They usually have mild to moderate intellectual disabilities. Their [development is often delayed](https://medlineplus.gov/developmentaldisabilities.html). For example, they may [start talking later](https://medlineplus.gov/speechandlanguageproblemsinchildren.html) than other children.
+The symptoms of Down syndrome are different in each person. And people with Down syndrome may have different problems at different times of their lives. They usually have mild to moderate intellectual disabilities. Their [development is often delayed](Developmental%20Disabilities.md). For example, they may [start talking later](Speech%20and%20Language%20Problems%20in%20Children.md) than other children.
 
 Some of the common physical signs of Down syndrome include:
 
@@ -31,25 +31,25 @@ Some of the common physical signs of Down syndrome include:
 
 Many people with Down syndrome have the common physical signs and have healthy lives. But some people with Down syndrome might have one or more birth defects or other health problems. Some of the more common ones include:
 
-- [Hearing loss](https://medlineplus.gov/hearingproblemsinchildren.html)
-- [Sleep apnea](https://medlineplus.gov/sleepapnea.html) (a disorder that causes you to repeatedly stop breathing during sleep)
-- [Ear infections](https://medlineplus.gov/earinfections.html)
-- [Eye diseases](https://medlineplus.gov/eyediseases.html)
-- [Congenital heart defects](https://medlineplus.gov/congenitalheartdefects.html) (heart defects that are present at birth)
-- [Digestive problems](https://medlineplus.gov/digestivediseases.html)
-- [Problems with the upper part of the spine](https://medlineplus.gov/spineinjuriesanddisorders.html)
-- [Obesity](https://medlineplus.gov/obesity.html)
+- [Hearing loss](Hearing%20Problems%20in%20Children.md)
+- [Sleep apnea](Sleep%20Apnea.md) (a disorder that causes you to repeatedly stop breathing during sleep)
+- [Ear infections](Ear%20Infections.md)
+- [Eye diseases](Eye%20Diseases.md)
+- [Congenital heart defects](Congenital%20Heart%20Defects.md) (heart defects that are present at birth)
+- [Digestive problems](Digestive%20Diseases.md)
+- [Problems with the upper part of the spine](Spine%20Injuries%20and%20Disorders.md)
+- [Obesity](Obesity.md)
 
 #### How is Down syndrome diagnosed?
 
 Health care providers can check for Down syndrome during pregnancy or after a child is born.
 
-There are two basic types of [tests that help find Down syndrome during pregnancy](https://medlineplus.gov/lab-tests/down-syndrome-tests/):
+There are two basic types of tests that help find Down syndrome during pregnancy:
 
 - **Prenatal screening tests** can show whether your unborn baby has a higher or lower chance of having Down syndrome. If a screening test shows that your baby could have Down syndrome, you'll need another test to find out for sure.
 - **Prenatal diagnostic tests** can diagnose or rule out Down syndrome by checking the chromosomes in a sample of cells. These tests have a small risk of causing a miscarriage, so they're often done after a screening test shows that an unborn baby could have Down syndrome.
 
-After a baby is born, the provider may make an initial diagnosis of Down syndrome based on the physical signs of the syndrome. The provider can use a [karyotype genetic test](https://medlineplus.gov/lab-tests/karyotype-genetic-test/) to confirm the diagnosis. The test can check for extra chromosomes in a sample of the baby's blood.
+After a baby is born, the provider may make an initial diagnosis of Down syndrome based on the physical signs of the syndrome. The provider can use a karyotype genetic test to confirm the diagnosis. The test can check for extra chromosomes in a sample of the baby's blood.
 
 #### What are the treatments for Down syndrome?
 
@@ -57,10 +57,10 @@ There is no single, standard treatment for Down syndrome. Treatments are based o
 
 Services early in life focus on helping children with Down syndrome develop to their full potential. These services include speech, occupational, and physical therapies. They are typically offered through early intervention programs in each state. Children with Down syndrome may also need extra help or attention in school, although many children are included in regular classes.
 
-Since people with Down syndrome can have birth defects and other health problems, they will need regular medical care. They may need to have certain extra [health screenings](https://medlineplus.gov/healthscreening.html) to check for problems that happen more often in people with Down syndrome.
+Since people with Down syndrome can have birth defects and other health problems, they will need regular medical care. They may need to have certain extra [health screenings](Health%20Screening.md) to check for problems that happen more often in people with Down syndrome.
 
 Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/downsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/downsyndrome.html). General information, not medical advice.*

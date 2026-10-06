@@ -10,10 +10,10 @@ It can take months for a bruise to fade, but most last about two weeks. They sta
 
 ## Related topics
 
-- Bleeding
-- Bleeding Disorders
-- Platelet Disorders
+- [Bleeding](Bleeding.md)
+- [Bleeding Disorders](Bleeding%20Disorders.md)
+- [Platelet Disorders](Platelet%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bruises.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bruises.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 *Also called: Bariatric surgery, Bypass surgery, Gastric banding, Obesity surgery*
 
-Weight loss surgery helps people with extreme [obesity](https://medlineplus.gov/obesity.html) to lose weight. It may be an option if you cannot lose weight through diet and exercise or have serious health problems caused by obesity.
+Weight loss surgery helps people with extreme [obesity](Obesity.md) to lose weight. It may be an option if you cannot lose weight through diet and exercise or have serious health problems caused by obesity.
 
 There are different types of weight loss surgery. They often limit the amount of food you can take in. Some types of surgery also affect how you digest food and absorb nutrients. All types have risks and complications, such as infections, hernias, and blood clots.
 
@@ -12,9 +12,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Obesity
-- Weight Control
+- [Obesity](Obesity.md)
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/weightlosssurgery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/weightlosssurgery.html). General information, not medical advice.*

@@ -14,8 +14,8 @@ NIH: National Institutes of Health
 
 ## Related topics
 
-- Bone Marrow Transplantation
+- [Bone Marrow Transplantation](Bone%20Marrow%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/stemcells.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/stemcells.html). General information, not medical advice.*

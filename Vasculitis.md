@@ -10,7 +10,7 @@ When a blood vessel becomes inflamed, it can:
 
 - Narrow, making it more difficult for blood to get through.
 - Close off completely so that blood can't get through.
-- Stretch and weaken so much that it bulges. The bulge is called an [aneurysm](https://medlineplus.gov/aneurysms.html). If it bursts, it can cause dangerous bleeding inside the body.
+- Stretch and weaken so much that it bulges. The bulge is called an [aneurysm](Aneurysms.md). If it bursts, it can cause dangerous bleeding inside the body.
 
 Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful.
 
@@ -18,12 +18,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Behcet's Syndrome
-- Giant Cell Arteritis
-- Granulomatosis with Polyangiitis
-- Polymyalgia Rheumatica
-- Vascular Diseases
+- [Behcet's Syndrome](Behcet%27s%20Syndrome.md)
+- [Giant Cell Arteritis](Giant%20Cell%20Arteritis.md)
+- [Granulomatosis with Polyangiitis](Granulomatosis%20with%20Polyangiitis.md)
+- [Polymyalgia Rheumatica](Polymyalgia%20Rheumatica.md)
+- [Vascular Diseases](Vascular%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vasculitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vasculitis.html). General information, not medical advice.*

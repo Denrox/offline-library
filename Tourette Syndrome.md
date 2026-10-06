@@ -4,10 +4,10 @@ If you have Tourette syndrome, you make unusual movements or sounds, called tics
 
 Tourette syndrome is a disorder of the nervous system. It often occurs with other problems, such as:
 
-- [Attention deficit hyperactivity disorder](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html) (ADHD)
-- [Obsessive-compulsive disorder](https://medlineplus.gov/obsessivecompulsivedisorder.html) (OCD)
-- [Anxiety](https://medlineplus.gov/anxiety.html)
-- [Depression](https://medlineplus.gov/depression.html)
+- [Attention deficit hyperactivity disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md) (ADHD)
+- [Obsessive-compulsive disorder](Obsessive-Compulsive%20Disorder.md) (OCD)
+- [Anxiety](Anxiety.md)
+- [Depression](Depression.md)
 
 The cause of Tourette syndrome is unknown. It is more common in boys than girls. The tics usually start in childhood and may be worst in the early teens. Many people eventually outgrow them.
 
@@ -17,4 +17,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tourettesyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tourettesyndrome.html). General information, not medical advice.*

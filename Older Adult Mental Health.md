@@ -6,7 +6,7 @@ Mental health includes our emotional, psychological, and social well-being. It a
 
 Many older adults are at risk for mental health problems. But this does not mean that mental health problems are a normal part of aging. Studies show that most older adults feel satisfied with their lives, even though they may have more illnesses or physical problems.
 
-Sometimes, however, important life changes can make you feel uneasy, stressed, and sad. These changes could include the death of a loved one, retirement, or dealing with a serious illness. Many older adults will eventually adjust to the changes. But some people will have more trouble adjusting. This can put them at risk for [mental disorders](https://medlineplus.gov/mentaldisorders.html) such as [depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html).
+Sometimes, however, important life changes can make you feel uneasy, stressed, and sad. These changes could include the death of a loved one, retirement, or dealing with a serious illness. Many older adults will eventually adjust to the changes. But some people will have more trouble adjusting. This can put them at risk for [mental disorders](Mental%20Disorders.md) such as [depression](Depression.md) and [anxiety](Anxiety.md).
 
 It's important to recognize and treat mental disorders in older adults. These disorders don't just cause mental suffering. They can also make it harder for you to manage other health problems. This is especially true if those health problems are chronic.
 
@@ -29,9 +29,9 @@ If you think that you may have a mental health problem, get help. Talk therapy a
 
 ## Related topics
 
-- Mental Health
-- Older Adult Health
+- [Mental Health](Mental%20Health.md)
+- [Older Adult Health](Older%20Adult%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/olderadultmentalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/olderadultmentalhealth.html). General information, not medical advice.*

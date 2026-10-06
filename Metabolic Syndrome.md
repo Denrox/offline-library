@@ -4,27 +4,27 @@
 
 #### What is metabolic syndrome?
 
-Metabolic syndrome is the name for a group of risk factors for [heart disease](https://medlineplus.gov/heartdiseases.html), [diabetes](https://medlineplus.gov/diabetes.html), and other health problems. You can have just one risk factor, but people often have several of them together. When you have at least three of them, it is called metabolic syndrome. These risk factors include:
+Metabolic syndrome is the name for a group of risk factors for [heart disease](Heart%20Diseases.md), [diabetes](Diabetes.md), and other health problems. You can have just one risk factor, but people often have several of them together. When you have at least three of them, it is called metabolic syndrome. These risk factors include:
 
 - A large waistline, also called abdominal obesity or "having an apple shape." Too much fat around the stomach is a greater risk factor for heart disease than too much fat in other parts of the body.
-- Having a high [triglyceride](https://medlineplus.gov/triglycerides.html) level. Triglycerides are a type of fat found in the blood.
-- Having a low [HDL cholesterol level](https://medlineplus.gov/hdlthegoodcholesterol.html). HDL is sometimes called the "good" cholesterol because it helps remove cholesterol from your arteries.
-- Having [high blood pressure](https://medlineplus.gov/highbloodpressure.html). If your blood pressure stays high over time, it can damage your heart and lead to other health problems.
-- Having a high fasting [blood sugar](https://medlineplus.gov/bloodglucose.html). Mildly high blood sugar may be an early sign of diabetes.
+- Having a high [triglyceride](Triglycerides.md) level. Triglycerides are a type of fat found in the blood.
+- Having a low [HDL cholesterol level](HDL%20The%20Good%20Cholesterol.md). HDL is sometimes called the "good" cholesterol because it helps remove cholesterol from your arteries.
+- Having [high blood pressure](High%20Blood%20Pressure.md). If your blood pressure stays high over time, it can damage your heart and lead to other health problems.
+- Having a high fasting [blood sugar](Blood%20Glucose.md). Mildly high blood sugar may be an early sign of diabetes.
 
-The more factors you have, the higher your risk for heart disease, diabetes, and [stroke](https://medlineplus.gov/stroke.html) is.
+The more factors you have, the higher your risk for heart disease, diabetes, and [stroke](Stroke.md) is.
 
 #### What causes metabolic syndrome?
 
 Metabolic syndrome has several causes that act together:
 
-- Overweight and [obesity](https://medlineplus.gov/obesity.html)
-- An [inactive lifestyle](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
+- Overweight and [obesity](Obesity.md)
+- An [inactive lifestyle](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
 - Insulin resistance, a condition in which the body can't use insulin properly. Insulin is a hormone that helps move blood sugar into your cells to give them energy. Insulin resistance can lead to high blood sugar levels.
 - Age - your risk goes up as get older
 - Genetics - ethnicity and family history
 
-People who have metabolic syndrome often also have excessive [blood clotting](https://medlineplus.gov/bloodclots.html) and inflammation throughout the body. Researchers don't know whether these conditions cause metabolic syndrome or worsen it.
+People who have metabolic syndrome often also have excessive [blood clotting](Blood%20Clots.md) and inflammation throughout the body. Researchers don't know whether these conditions cause metabolic syndrome or worsen it.
 
 #### Who is at risk for metabolic syndrome?
 
@@ -39,7 +39,7 @@ There are certain groups of people who have an increased risk of metabolic syndr
 - Some racial and ethnic groups. Mexican Americans have the highest rate of metabolic syndrome, followed by White and Black people.
 - People who have diabetes
 - People who have a sibling or parent who has diabetes
-- Women with [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS)
+- Women with [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS)
 - People who take medicines that cause weight gain or changes in blood pressure, blood cholesterol, and blood sugar levels
 
 #### What are the symptoms of metabolic syndrome?
@@ -67,10 +67,10 @@ Your health care provider will diagnose metabolic syndrome based on the results 
 The most important treatment for metabolic syndrome is a heart-healthy lifestyle, which includes:
 
 - A heart-healthy eating plan, which limits the amount of saturated and trans fats that you eat. It encourages you to choose a variety of nutritious foods, including fruits, vegetables, whole grains, and lean meats.
-- [Aiming for a healthy weight](https://medlineplus.gov/weightcontrol.html)
-- Managing [stress](https://medlineplus.gov/stress.html)
-- Getting [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
-- [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) (or not starting if you don't already smoke)
+- [Aiming for a healthy weight](Weight%20Control.md)
+- Managing [stress](Stress.md)
+- Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
+- [Quitting smoking](Quitting%20Smoking.md) (or not starting if you don't already smoke)
 
 If making lifestyle changes is not enough, you may need to take medicines. For example, you may need medicines to lower cholesterol or blood pressure.
 
@@ -82,14 +82,14 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Angina
-- Cholesterol
-- Diabetes
-- Heart Diseases
-- Metabolic Disorders
-- Obesity
-- Prediabetes
+- [Angina](Angina.md)
+- [Cholesterol](Cholesterol.md)
+- [Diabetes](Diabetes.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [Metabolic Disorders](Metabolic%20Disorders.md)
+- [Obesity](Obesity.md)
+- [Prediabetes](Prediabetes.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/metabolicsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/metabolicsyndrome.html). General information, not medical advice.*

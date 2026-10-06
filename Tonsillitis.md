@@ -4,7 +4,7 @@
 
 #### What are tonsils?
 
-Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the [adenoids](https://medlineplus.gov/adenoids.html), tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.
+Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the [adenoids](Adenoids.md), tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance. Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.
 
 #### What is tonsillitis?
 
@@ -12,7 +12,7 @@ Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with t
 
 #### What causes tonsillitis?
 
-The cause of tonsillitis is usually a viral infection. Bacterial infections such as [strep throat](https://medlineplus.gov/streptococcalinfections.html) can also cause tonsillitis.
+The cause of tonsillitis is usually a viral infection. Bacterial infections such as [strep throat](Streptococcal%20Infections.md) can also cause tonsillitis.
 
 #### Who is at risk for tonsillitis?
 
@@ -22,13 +22,13 @@ Adults can get tonsillitis, but it is not very common.
 
 #### Is tonsillitis contagious?
 
-Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. [Frequent handwashing](https://medlineplus.gov/germsandhygiene.html) can help prevent spreading or catching the infections.
+Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious. [Frequent handwashing](Germs%20and%20Hygiene.md) can help prevent spreading or catching the infections.
 
 #### What are the symptoms of tonsillitis?
 
 The symptoms of tonsillitis include:
 
-- A [sore throat](https://medlineplus.gov/sorethroat.html), which may be severe
+- A [sore throat](Sore%20Throat.md), which may be severe
 - Red, swollen tonsils
 - Trouble swallowing
 - A white or yellow coating on the tonsils
@@ -58,7 +58,7 @@ Your child will probably also have one or more tests to check for strep throat, 
 
 #### What are the treatments for tonsillitis?
 
-Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take [antibiotics](https://medlineplus.gov/antibiotics.html). It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.
+Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take [antibiotics](Antibiotics.md). It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.
 
 No matter what is causing the tonsillitis, there are some things you can do to help your child feel better. Make sure that your child:
 
@@ -70,7 +70,7 @@ No matter what is causing the tonsillitis, there are some things you can do to h
 - Sleeps in a room with a humidifier
 - Gargles with saltwater
 - Sucks on a lozenge (but do not give them to children under four; they can choke on them)
-- Takes an over-the-counter [pain reliever](https://medlineplus.gov/painrelievers.html) such as acetaminophen. Children and teenagers should not take aspirin.
+- Takes an over-the-counter [pain reliever](Pain%20Relievers.md) such as acetaminophen. Children and teenagers should not take aspirin.
 
 In some cases, your child may need a tonsillectomy.
 
@@ -86,9 +86,9 @@ Your child usually gets the surgery and goes home later that day. Very young chi
 
 ## Related topics
 
-- Adenoids
-- Mouth Disorders
+- [Adenoids](Adenoids.md)
+- [Mouth Disorders](Mouth%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tonsillitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tonsillitis.html). General information, not medical advice.*

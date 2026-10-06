@@ -10,8 +10,8 @@ Sweating too little, anhidrosis, can be life-threatening because your body can o
 
 ## Related topics
 
-- Hidradenitis Suppurativa
+- [Hidradenitis Suppurativa](Hidradenitis%20Suppurativa.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sweat.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sweat.html). General information, not medical advice.*

@@ -10,15 +10,15 @@ Health effects of secondhand smoke include:
 - More frequent and severe asthma attacks in children
 - Heart disease and lung cancer in adults who have never smoked
 
-There is no safe amount of secondhand smoke. Even low levels of it can be harmful. The only way to fully protect nonsmokers from secondhand smoke is not to allow [smoking](https://medlineplus.gov/smoking.html) indoors.
+There is no safe amount of secondhand smoke. Even low levels of it can be harmful. The only way to fully protect nonsmokers from secondhand smoke is not to allow [smoking](Smoking.md) indoors.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Smokeless Tobacco
-- Smoking
+- [Smokeless Tobacco](Smokeless%20Tobacco.md)
+- [Smoking](Smoking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/secondhandsmoke.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/secondhandsmoke.html). General information, not medical advice.*

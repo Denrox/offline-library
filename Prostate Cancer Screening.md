@@ -2,13 +2,13 @@
 
 #### What is cancer screening?
 
-[Cancer](https://medlineplus.gov/cancer.html) is a disease when the cells of the body grow out of control. Cancer [screening](https://medlineplus.gov/healthscreening.html) is having tests to look for signs of cancer before you have any symptoms. By the time cancer causes symptoms, it may have already spread to other parts of your body. A screening test may help find cancer early, when it may be easier to treat.
+[Cancer](Cancer.md) is a disease when the cells of the body grow out of control. Cancer [screening](Health%20Screening.md) is having tests to look for signs of cancer before you have any symptoms. By the time cancer causes symptoms, it may have already spread to other parts of your body. A screening test may help find cancer early, when it may be easier to treat.
 
 Cancer screening only tells you whether you might have cancer. It doesn't diagnose cancer. If a screening test shows signs of cancer, you'll need to have other tests to find out if you do have cancer and how serious it may be.
 
 #### What is prostate cancer screening?
 
-[Prostate cancer](https://medlineplus.gov/prostatecancer.html) screening looks for signs of cancer in the prostate. The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.
+[Prostate cancer](Prostate%20Cancer.md) screening looks for signs of cancer in the prostate. The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.
 
 Prostate cancer is most common in people over age 50. It usually grows slowly and doesn't cause health problems. In fact, it's possible to live a long life with prostate cancer and never know you have it. But in certain cases, prostate cancer may spread to other parts of the body and can be very serious.
 
@@ -18,10 +18,10 @@ The goal of prostate cancer screening is to find prostate cancers that may be mo
 
 Two tests are commonly used to screen for prostate cancer:
 
-- **A [prostate-specific antigen test](https://medlineplus.gov/lab-tests/prostate-specific-antigen-psa-test/), also called a PSA blood test.** PSA is a protein made by your prostate. A high level of PSA in your blood may mean you have prostate cancer, but it's not proof of cancer. That's because many other things may cause high PSA levels, including:  
+- **A prostate-specific antigen test, also called a PSA blood test.** PSA is a protein made by your prostate. A high level of PSA in your blood may mean you have prostate cancer, but it's not proof of cancer. That's because many other things may cause high PSA levels, including:  
   
-- Having an [enlarged prostate](https://medlineplus.gov/enlargedprostatebph.html) (benign prostatic hyperplasia or BPH)
- - Having other common [prostate problems](https://medlineplus.gov/prostatediseases.html)
+- Having an [enlarged prostate](Enlarged%20Prostate%20%28BPH%29.md) (benign prostatic hyperplasia or BPH)
+ - Having other common [prostate problems](Prostate%20Diseases.md)
  - Taking certain medicines  
 In general, the higher your PSA, the more likely it is that you have cancer. But a low PSA blood level isn't a guarantee that you don't have cancer.  
   
@@ -43,17 +43,17 @@ The **possible harms** of prostate cancer screening include:
 - Getting a false positive result. This means that your PSA test shows you may have prostate cancer when you really don't. A false positive may lead to:  
   
 - Worry while you have more tests to look for signs of cancer.
- - A prostate [biopsy](https://medlineplus.gov/biopsy.html). In a biopsy, a doctor removes tissue from your prostate so it can be studied under a microscope to look for cancer cells. This is the only way to diagnose cancer. The possible harms of a prostate biopsy include:
+ - A prostate [biopsy](Biopsy.md). In a biopsy, a doctor removes tissue from your prostate so it can be studied under a microscope to look for cancer cells. This is the only way to diagnose cancer. The possible harms of a prostate biopsy include:
 
- - [Fever](https://medlineplus.gov/fever.html)
+ - [Fever](Fever.md)
  - Pain
  - Blood in semen
- - [Urinary tract infection](https://medlineplus.gov/urinarytractinfections.html)  
+ - [Urinary tract infection](Urinary%20Tract%20Infections.md)  
 - Having prostate cancer treatment that you may not have needed. Prostate cancer screening may lead to a cancer diagnosis, but it's not always clear whether the cancer is likely to grow and spread. You could have unnecessary treatment for cancer that would never have caused any health problems. And the common prostate cancer treatments may have serious, permanent complications, such as:  
   
-- [Urinary incontinence](https://medlineplus.gov/urinaryincontinence.html)
- - [Erectile dysfunction](https://medlineplus.gov/erectiledysfunction.html)
- - [Problems controlling your bowel movements](https://medlineplus.gov/bowelincontinence.html) (BMs)
+- [Urinary incontinence](Urinary%20Incontinence.md)
+ - [Erectile dysfunction](Erectile%20Dysfunction.md)
+ - [Problems controlling your bowel movements](Bowel%20Incontinence.md) (BMs)
 
 #### Should I be screened for prostate cancer?
 
@@ -69,8 +69,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Prostate Cancer
+- [Prostate Cancer](Prostate%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/prostatecancerscreening.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/prostatecancerscreening.html). General information, not medical advice.*

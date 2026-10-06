@@ -4,7 +4,7 @@
 
 Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine.
 
-Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the [bile ducts](https://medlineplus.gov/bileductdiseases.html). That is usually a gallstone. Gallstones form when substances in bile harden. Gallstone attacks usually happen after you eat. Signs of a gallstone attack may include nausea, vomiting, or pain in the abdomen, back, or just under the right arm.
+Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the [bile ducts](Bile%20Duct%20Diseases.md). That is usually a gallstone. Gallstones form when substances in bile harden. Gallstone attacks usually happen after you eat. Signs of a gallstone attack may include nausea, vomiting, or pain in the abdomen, back, or just under the right arm.
 
 Gallstones are most common among older adults, women, overweight people, Native Americans and Mexican Americans.
 
@@ -14,8 +14,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Gallbladder Diseases
+- [Gallbladder Diseases](Gallbladder%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/gallstones.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/gallstones.html). General information, not medical advice.*

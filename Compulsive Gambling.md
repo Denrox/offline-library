@@ -16,4 +16,4 @@ NIH: National Institutes of Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/compulsivegambling.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/compulsivegambling.html). General information, not medical advice.*

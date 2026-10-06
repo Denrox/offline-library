@@ -4,7 +4,7 @@ Arsenic is a natural element found in soil and minerals. Arsenic compounds are u
 
 You may be exposed to arsenic by:
 
-- Taking in small amounts in food, [drinking water](https://medlineplus.gov/drinkingwater.html), or air
+- Taking in small amounts in food, [drinking water](Drinking%20Water.md), or air
 - Breathing sawdust or burning smoke from arsenic-treated wood
 - Living in an area with high levels of arsenic in rock
 - Working in a job where arsenic is made or used
@@ -15,4 +15,4 @@ Agency for Toxic Substances Disease Registry
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/arsenic.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/arsenic.html). General information, not medical advice.*

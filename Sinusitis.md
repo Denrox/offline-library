@@ -15,10 +15,10 @@ Symptoms of sinusitis can include fever, weakness, fatigue, cough, and congestio
 
 ## Related topics
 
-- Allergy
-- Common Cold
-- Headache
+- [Allergy](Allergy.md)
+- [Common Cold](Common%20Cold.md)
+- [Headache](Headache.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sinusitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sinusitis.html). General information, not medical advice.*

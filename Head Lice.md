@@ -6,7 +6,7 @@
 
 Head lice are tiny insects that live on people's heads. Adult lice are about the size of sesame seeds. The eggs, called nits, are even smaller - about the size of a dandruff flake. Lice and nits are found on or near the scalp, most often at the neckline and behind the ears.
 
-Head lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are [body lice](https://medlineplus.gov/bodylice.html) and [pubic lice](https://medlineplus.gov/pubiclice.html). Each type of lice is different, and getting one type does not mean that you will get another type.
+Head lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are [body lice](Body%20Lice.md) and [pubic lice](Pubic%20Lice.md). Each type of lice is different, and getting one type does not mean that you will get another type.
 
 #### How do head lice spread?
 
@@ -64,10 +64,10 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Body Lice
-- Parasitic Diseases
-- Pubic Lice
+- [Body Lice](Body%20Lice.md)
+- [Parasitic Diseases](Parasitic%20Diseases.md)
+- [Pubic Lice](Pubic%20Lice.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/headlice.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/headlice.html). General information, not medical advice.*

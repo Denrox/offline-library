@@ -4,14 +4,14 @@
 
 #### What is a cesarean delivery?
 
-A cesarean delivery, also called a cesarean section or c-section, is surgery to deliver a baby. The baby is taken out through your abdomen (belly). In the United States, almost one in three babies are born this way. Some cesarean deliveries are planned. Others are emergency cesarean deliveries, which are done when [unexpected problems](https://medlineplus.gov/childbirthproblems.html) happen during delivery.
+A cesarean delivery, also called a cesarean section or c-section, is surgery to deliver a baby. The baby is taken out through your abdomen (belly). In the United States, almost one in three babies are born this way. Some cesarean deliveries are planned. Others are emergency cesarean deliveries, which are done when [unexpected problems](Childbirth%20Problems.md) happen during delivery.
 
 #### When is a cesarean delivery needed?
 
 You may need a cesarean delivery because:
 
-- You have [health problems](https://medlineplus.gov/healthproblemsinpregnancy.html), including [infection](https://medlineplus.gov/infectionsandpregnancy.html)
-- You are carrying [more than one baby](https://medlineplus.gov/twinstripletsmultiplebirths.html)
+- You have [health problems](Health%20Problems%20in%20Pregnancy.md), including [infection](Infections%20and%20Pregnancy.md)
+- You are carrying [more than one baby](Twins%2C%20Triplets%2C%20Multiple%20Births.md)
 - Your baby is too big
 - Your baby is in the wrong position
 - Your baby's health is in danger
@@ -40,10 +40,10 @@ During the surgery, the surgeon will:
 A cesarean delivery is relatively safe for you and your baby. But it is still a major surgery, and it carries risks. They may include:
 
 - Infection
-- [Blood loss](https://medlineplus.gov/bleeding.html)
-- [Blood clots](https://medlineplus.gov/bloodclots.html) in the legs, pelvic organs, or lungs
+- [Blood loss](Bleeding.md)
+- [Blood clots](Blood%20Clots.md) in the legs, pelvic organs, or lungs
 - Injury to surrounding structures, such as the bowel or bladder
-- A [reaction](https://medlineplus.gov/drugreactions.html) to the medicines or anesthesia used
+- A [reaction](Drug%20Reactions.md) to the medicines or anesthesia used
 
 Some of these risks do also apply to a vaginal birth. But it does take longer to recover from a cesarean delivery than from a vaginal birth. And having a cesarean delivery can raise the risk of having difficulties with future pregnancies. The more cesarean deliveries you have, the more the risk goes up.
 
@@ -51,9 +51,9 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Childbirth
-- Childbirth Problems
+- [Childbirth](Childbirth.md)
+- [Childbirth Problems](Childbirth%20Problems.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cesareandelivery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cesareandelivery.html). General information, not medical advice.*

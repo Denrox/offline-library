@@ -2,7 +2,7 @@
 
 *Also called: Behcet's disease*
 
-Behcet's syndrome is a disease that involves [vasculitis](https://medlineplus.gov/vasculitis.html), which is inflammation of the blood vessels. It causes problems in many parts of the body. The most common symptoms are:
+Behcet's syndrome is a disease that involves [vasculitis](Vasculitis.md), which is inflammation of the blood vessels. It causes problems in many parts of the body. The most common symptoms are:
 
 - Sores in the mouth
 - Sores on the sex organs
@@ -18,4 +18,4 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/behcetssyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/behcetssyndrome.html). General information, not medical advice.*

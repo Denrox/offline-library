@@ -4,7 +4,7 @@
 
 #### What is a caregiver?
 
-A [caregiver](https://medlineplus.gov/caregivers.html) gives care to someone who needs help taking care of themselves. The person who needs help may be a child, an adult, or an older adult. They may need help because of an injury, chronic illness, or [disability](https://medlineplus.gov/disabilities.html).
+A [caregiver](Caregivers.md) gives care to someone who needs help taking care of themselves. The person who needs help may be a child, an adult, or an older adult. They may need help because of an injury, chronic illness, or [disability](Disabilities.md).
 
 Some caregivers are informal caregivers. They are usually family members or friends. Other caregivers are paid professionals. Caregivers may give care at home or in a hospital or other health care setting. Sometimes they are caregiving from a distance. The types of tasks that caregivers do may include:
 
@@ -18,7 +18,7 @@ Caregiving can be rewarding. It may help to strengthen connections to a loved on
 
 #### What is caregiver stress?
 
-Many caregivers are affected by caregiver [stress](https://medlineplus.gov/stress.html). This is the stress that comes from the emotional and physical strain of caregiving. The signs include:
+Many caregivers are affected by caregiver [stress](Stress.md). This is the stress that comes from the emotional and physical strain of caregiving. The signs include:
 
 - Feeling overwhelmed
 - Feeling alone, isolated, or deserted by others
@@ -28,18 +28,18 @@ Many caregivers are affected by caregiver [stress](https://medlineplus.gov/stres
 - Losing interest in activities you used to enjoy
 - Becoming easily irritated or angered
 - Feeling worried or sad often
-- Having [headaches](https://medlineplus.gov/headache.html) or body aches often
-- Turning to unhealthy behaviors like [smoking](https://medlineplus.gov/smoking.html) or [drinking too much alcohol](https://medlineplus.gov/alcohol.html)
+- Having [headaches](Headache.md) or body aches often
+- Turning to unhealthy behaviors like [smoking](Smoking.md) or [drinking too much alcohol](Alcohol.md)
 
 #### How can caregiver stress affect my health?
 
 Long-term caregiver stress may put you at risk for many different health problems. Some of these problems can be serious. They include:
 
-- [Depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html)
+- [Depression](Depression.md) and [anxiety](Anxiety.md)
 - A weak immune system
-- Excess weight and [obesity](https://medlineplus.gov/obesity.html)
-- Chronic diseases such as [heart disease](https://medlineplus.gov/heartdiseases.html), cancer, [diabetes](https://medlineplus.gov/diabetes.html), or [arthritis](https://medlineplus.gov/arthritis.html). Depression and obesity can raise the risk of these diseases even more.
-- Problems with short-term [memory](https://medlineplus.gov/memory.html) or paying attention
+- Excess weight and [obesity](Obesity.md)
+- Chronic diseases such as [heart disease](Heart%20Diseases.md), cancer, [diabetes](Diabetes.md), or [arthritis](Arthritis.md). Depression and obesity can raise the risk of these diseases even more.
+- Problems with short-term [memory](Memory.md) or paying attention
 
 #### What can I do to prevent or relieve caregiver stress?
 
@@ -51,16 +51,16 @@ Taking steps to prevent or relieve caregiver stress may help prevent health prob
 - **Joining a support group for caregivers.** A support group can allow you to share stories, pick up caregiving tips, and get support from others who face the same challenges as you do.
 - **Being organized** to make caregiving more manageable. Make to-do lists and set a daily routine.
 - **Staying in touch with family and friends.** It's important for you to have emotional support.
-- **Taking care of your own health.** Try to find time to be [physically active](https://medlineplus.gov/exerciseandphysicalfitness.html) on most days of the week, choose healthy foods, and [get enough sleep](https://medlineplus.gov/healthysleep.html). Make sure that you keep up with your medical care such as [regular checkups](https://medlineplus.gov/healthcheckup.html) and [screenings](https://medlineplus.gov/healthscreening.html).
+- **Taking care of your own health.** Try to find time to be [physically active](Exercise%20and%20Physical%20Fitness.md) on most days of the week, choose healthy foods, and [get enough sleep](Healthy%20Sleep.md). Make sure that you keep up with your medical care such as [regular checkups](Health%20Checkup.md) and [screenings](Health%20Screening.md).
 - **Considering taking a break from your job**, if you also work and are feeling overwhelmed. Under the federal Family and Medical Leave Act, eligible employees can take up to 12 weeks of unpaid leave per year to care for relatives. Check with your human resources office about your options.
 
 Dept. of Health and Human Services Office on Women's Health
 
 ## Related topics
 
-- Alzheimer's Caregivers
-- Caregivers
+- [Alzheimer's Caregivers](Alzheimer%27s%20Caregivers.md)
+- [Caregivers](Caregivers.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/caregiverhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/caregiverhealth.html). General information, not medical advice.*

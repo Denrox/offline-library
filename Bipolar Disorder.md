@@ -4,7 +4,7 @@
 
 #### What is bipolar disorder?
 
-Bipolar disorder is a [mood disorder](https://medlineplus.gov/mooddisorders.html) that can cause intense mood swings:
+Bipolar disorder is a [mood disorder](Mood%20Disorders.md) that can cause intense mood swings:
 
 - Sometimes you may feel extremely "up," elated, irritable, or energized. This is called a **manic episode**.
 - Other times you may feel "down," sad, indifferent, or hopeless. This is called a **depressive episode**.
@@ -26,7 +26,7 @@ With any of these types, having four or more episodes of mania or depression in 
 
 #### What causes bipolar disorder?
 
-The exact cause of bipolar disorder is unknown. Several factors likely play a role in the disorder. They include [genetics](https://medlineplus.gov/genetics/condition/bipolar-disorder/), brain structure and function, and your environment.
+The exact cause of bipolar disorder is unknown. Several factors likely play a role in the disorder. They include genetics, brain structure and function, and your environment.
 
 #### Who is at risk for bipolar disorder?
 
@@ -89,8 +89,8 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Depression
+- [Depression](Depression.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bipolardisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bipolardisorder.html). General information, not medical advice.*

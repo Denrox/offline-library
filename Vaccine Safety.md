@@ -2,7 +2,7 @@
 
 #### What are vaccines?
 
-[Vaccines](https://medlineplus.gov/vaccines.html) play an important role in keeping us healthy. They protect us from serious and sometimes deadly diseases. Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's immune system to recognize and defend against harmful germs. The germs could be [viruses](https://medlineplus.gov/viralinfections.html) or [bacteria](https://medlineplus.gov/bacterialinfections.html).
+[Vaccines](Vaccines.md) play an important role in keeping us healthy. They protect us from serious and sometimes deadly diseases. Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's immune system to recognize and defend against harmful germs. The germs could be [viruses](Viral%20Infections.md) or [bacteria](Bacterial%20Infections.md).
 
 Some types of vaccines contain germs that cause disease. But the germs have been killed or weakened enough that they won't make you sick. Some vaccines only contain a part of a germ. Other types of vaccines include instructions for your cells to make a protein of the germ.
 
@@ -12,18 +12,18 @@ These diseases can be very serious. Because of this, getting immunity from a vac
 
 #### Do vaccines cause side effects?
 
-As with medicines, any vaccine can cause side effects. Most of the time the side effects are minor, such as a sore arm, [fatigue](https://medlineplus.gov/fatigue.html), or mild [fever](https://medlineplus.gov/fever.html). They usually go away within a few days. These common side effects are often a sign that your body is starting to build immunity against a disease.
+As with medicines, any vaccine can cause side effects. Most of the time the side effects are minor, such as a sore arm, [fatigue](Fatigue.md), or mild [fever](Fever.md). They usually go away within a few days. These common side effects are often a sign that your body is starting to build immunity against a disease.
 
-Serious side effects from vaccines can happen, but they are very rare. These side effects could include a severe [allergic reaction](https://medlineplus.gov/anaphylaxis.html). Other possible side effects are different for each vaccine. Talk with your health care provider if you're concerned about your health after getting vaccinated.
+Serious side effects from vaccines can happen, but they are very rare. These side effects could include a severe [allergic reaction](Anaphylaxis.md). Other possible side effects are different for each vaccine. Talk with your health care provider if you're concerned about your health after getting vaccinated.
 
-Some people worry that [childhood vaccines](https://medlineplus.gov/childhoodvaccines.html) could cause [autism spectrum disorder](https://medlineplus.gov/autismspectrumdisorder.html) (ASD). But many scientific studies have looked at this and have found no link between vaccines and ASD.
+Some people worry that [childhood vaccines](Childhood%20Vaccines.md) could cause [autism spectrum disorder](Autism%20Spectrum%20Disorder.md) (ASD). But many scientific studies have looked at this and have found no link between vaccines and ASD.
 
 #### How are vaccines tested for safety?
 
 Every vaccine that is approved in the United States goes through extensive safety testing. It starts with testing and evaluation of the vaccine before it's approved by the Food and Drug Administration (FDA). This process can often take several years.:
 
 - First, the vaccine is tested in labs. Based on those tests, the FDA decides whether to test the vaccine with people.
-- Testing with people is done through [clinical trials](https://medlineplus.gov/clinicaltrials.html). In these trials, the vaccines are tested on volunteers. Clinical trials usually start with 20 to 100 volunteers, but eventually include thousands of volunteers.
+- Testing with people is done through [clinical trials](Clinical%20Trials.md). In these trials, the vaccines are tested on volunteers. Clinical trials usually start with 20 to 100 volunteers, but eventually include thousands of volunteers.
 - The clinical trials have three phases. The trials are looking for the answer to important questions such as
 
  - Is the vaccine safe?
@@ -42,12 +42,12 @@ These high safety standards and testing help to make sure that vaccines in the U
 
 ## Related topics
 
-- Childhood Vaccines
-- COVID-19 Vaccines
-- Flu Shot
-- Tetanus, Diphtheria, and Pertussis Vaccines
-- Vaccines
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
+- [Flu Shot](Flu%20Shot.md)
+- [Tetanus, Diphtheria, and Pertussis Vaccines](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md)
+- [Vaccines](Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vaccinesafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vaccinesafety.html). General information, not medical advice.*

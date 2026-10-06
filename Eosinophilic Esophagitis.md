@@ -4,9 +4,9 @@
 
 #### What is eosinophilic esophagitis (EoE)?
 
-Eosinophilic esophagitis (EoE) is a chronic disease of the esophagus. Your esophagus is the muscular tube that carries food and liquids from your mouth to the stomach. If you have EoE, white blood cells called eosinophils build up in your esophagus. This causes damage and inflammation, which can cause pain, [trouble swallowing](https://medlineplus.gov/swallowingdisorders.html), and food getting stuck in your throat.
+Eosinophilic esophagitis (EoE) is a chronic disease of the esophagus. Your esophagus is the muscular tube that carries food and liquids from your mouth to the stomach. If you have EoE, white blood cells called eosinophils build up in your esophagus. This causes damage and inflammation, which can cause pain, [trouble swallowing](Swallowing%20Disorders.md), and food getting stuck in your throat.
 
-EoE is rare. But because it is a newly recognized disease, it is being diagnosed more often. Some people who think that they have reflux [(GERD)](gerd.html) may actually have EoE.
+EoE is rare. But because it is a newly recognized disease, it is being diagnosed more often. Some people who think that they have reflux (GERD) may actually have EoE.
 
 #### What causes eosinophilic esophagitis (EoE)?
 
@@ -17,7 +17,7 @@ Researchers are not certain about the exact cause of EoE. They think that it is 
 EoE can affect anyone, but it is more common in people who:
 
 - Are male
-- Have other allergic diseases, such as [hay fever](https://medlineplus.gov/hayfever.html), [eczema](https://medlineplus.gov/eczema.html), [asthma](https://medlineplus.gov/asthma.html) and [food allergies](https://medlineplus.gov/foodallergy.html)
+- Have other allergic diseases, such as [hay fever](Hay%20Fever.md), [eczema](Eczema.md), [asthma](Asthma.md) and [food allergies](Food%20Allergy.md)
 - Have family members with EoE
 
 #### What are the symptoms of eosinophilic esophagitis (EoE)?
@@ -27,16 +27,16 @@ The most common symptoms of EoE can depend on your age.
 **In infants and toddlers:**:
 
 - Feeding problems
-- [Vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Vomiting](Nausea%20and%20Vomiting.md)
 - Poor weight gain and growth
-- [Reflux](https://medlineplus.gov/refluxininfants.html) that does not get better with medicines
+- [Reflux](Reflux%20in%20Infants.md) that does not get better with medicines
 
 **In older children:**:
 
 - Vomiting
-- [Abdominal pain](https://medlineplus.gov/abdominalpain.html)
+- [Abdominal pain](Abdominal%20Pain.md)
 - Trouble swallowing, especially with solid foods
-- [Reflux](https://medlineplus.gov/refluxinchildren.html) that does not get better with medicines
+- [Reflux](Reflux%20in%20Children.md) that does not get better with medicines
 - Poor appetite
 
 **In adults:**:
@@ -44,15 +44,15 @@ The most common symptoms of EoE can depend on your age.
 - Trouble swallowing, especially with solid foods
 - Food getting stuck in the esophagus
 - Reflux that does not get better with medicines
-- [Heartburn](https://medlineplus.gov/heartburn.html)
-- [Chest pain](https://medlineplus.gov/chestpain.html)
+- [Heartburn](Heartburn.md)
+- [Chest pain](Chest%20Pain.md)
 
 #### How is eosinophilic esophagitis (EoE) diagnosed?
 
 To find out if you have EoE, your doctor will likely:
 
 - **Ask about your symptoms and medical history.** Since other conditions can have the same symptoms of EoE, it is important for your doctor to take a thorough history.
-- **Do an upper gastrointestinal (GI) endoscopy.** An endoscope is a long, flexible tube with a light and camera at the end of it. Your doctor will run the endoscope down your esophagus and look at it. Some signs that you might have EoE include white spots, rings, narrowing, and inflammation in the esophagus. However, not everyone with EoE has those signs, and sometimes they can be signs of a different [esophagus disorder](https://medlineplus.gov/esophagusdisorders.html).
+- **Do an upper gastrointestinal (GI) endoscopy.** An endoscope is a long, flexible tube with a light and camera at the end of it. Your doctor will run the endoscope down your esophagus and look at it. Some signs that you might have EoE include white spots, rings, narrowing, and inflammation in the esophagus. However, not everyone with EoE has those signs, and sometimes they can be signs of a different [esophagus disorder](Esophagus%20Disorders.md).
 - **Do a biopsy.** During the endoscopy, the doctor will take small tissue samples from your esophagus. The samples will be checked for a high number of eosinophils. This is the only way to make a diagnosis of EoE.
 - **Do other tests as needed.** You may have blood tests to check for other conditions. If you do have EoE, you may have blood or other types of tests to check for specific allergies.
 
@@ -62,7 +62,7 @@ There is no cure for EoE. Treatments can manage your symptoms and prevent furthe
 
 Medicines used to treat EoE are:
 
-- **Steroids,** which can help control inflammation. These are usually topical steroids, which you swallow either from an inhaler or as a liquid. Sometimes doctors prescribe [oral steroids](https://medlineplus.gov/steroids.html) (pills) to treat people who have serious swallowing problems or weight loss.
+- **Steroids,** which can help control inflammation. These are usually topical steroids, which you swallow either from an inhaler or as a liquid. Sometimes doctors prescribe [oral steroids](Steroids.md) (pills) to treat people who have serious swallowing problems or weight loss.
 - **Acid suppressors** such as proton pump inhibitors (PPIs), which may help with reflux symptoms and decrease inflammation.
 - **Monoclonal antibodies,** which can reduce inflammation and may help with swallowing. They can be used in adults and children over age 12.
 
@@ -70,7 +70,7 @@ Dietary changes for EoE include:
 
 - **Elimination diet.** If you are on an elimination diet, you stop eating and drinking certain foods and beverages for several weeks. If you are feeling better, you add the foods back to your diet one at a time. You have repeat endoscopies to see whether or not you are tolerating those foods. There are different types of elimination diets:
 
- - With one type, you first have an [allergy test](https://medlineplus.gov/lab-tests/food-allergy-testing/). Then you stop eating and drinking the foods you are allergic to.
+ - With one type, you first have an allergy test. Then you stop eating and drinking the foods you are allergic to.
  - For another type, you eliminate foods and drinks that commonly cause allergies, such as dairy products, egg, wheat, soy, peanuts, tree nuts and fish/shellfish.
 - **Elemental diet.** With this diet, you stop eating and drinking all proteins. Instead, you drink an amino acid formula. Some people who do not like the taste of the formula use a feeding tube instead. If your symptoms and inflammation go away completely, you may be able to try adding foods back one at a time, to see whether you can tolerate them.
 
@@ -80,4 +80,4 @@ If your treatment is not working well enough and you have narrowing of the esoph
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eosinophilicesophagitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eosinophilicesophagitis.html). General information, not medical advice.*

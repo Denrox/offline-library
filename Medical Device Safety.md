@@ -14,8 +14,8 @@ Food and Drug Administration
 
 ## Related topics
 
-- Drug Safety
+- [Drug Safety](Drug%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/medicaldevicesafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/medicaldevicesafety.html). General information, not medical advice.*

@@ -2,11 +2,11 @@
 
 #### What is chlamydia?
 
-Chlamydia is a common [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI). It is caused by bacteria called *Chlamydia trachomatis*. Anyone can get chlamydia. It often doesn't cause symptoms, so people may not know that they have it. Antibiotics can cure it. But if it's not treated, chlamydia can cause serious health problems.
+Chlamydia is a common [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI). It is caused by bacteria called *Chlamydia trachomatis*. Anyone can get chlamydia. It often doesn't cause symptoms, so people may not know that they have it. Antibiotics can cure it. But if it's not treated, chlamydia can cause serious health problems.
 
 #### How is chlamydia spread?
 
-You can get chlamydia during oral, vaginal, or anal sex with someone who has chlamydia. Chlamydia can also be passed to the baby during [childbirth](https://medlineplus.gov/childbirth.html).
+You can get chlamydia during oral, vaginal, or anal sex with someone who has chlamydia. Chlamydia can also be passed to the baby during [childbirth](Childbirth.md).
 
 If you've had chlamydia and were treated in the past, you can get re-infected if you have unprotected sex with someone who has it.
 
@@ -25,7 +25,7 @@ Symptoms in women include:
 - Abnormal vaginal discharge, which may have a strong smell
 - A burning sensation when urinating
 
-If the infection spreads, you might get lower [abdominal (belly) pain](abdominalpain.html), pain during sex, [nausea](https://medlineplus.gov/nauseaandvomiting.html), and [fever](https://medlineplus.gov/fever.html).
+If the infection spreads, you might get lower abdominal (belly) pain, pain during sex, [nausea](Nausea%20and%20Vomiting.md), and [fever](Fever.md).
 
 Symptoms in men include:
 
@@ -41,7 +41,7 @@ There are lab tests to diagnose chlamydia. Your health care provider may ask you
 
 #### Who should be tested for chlamydia?
 
-You should go to your provider for a test if you have symptoms of chlamydia or if you have a partner who has an STI. If you are pregnant, you should get a test when you go to your first [prenatal visit](https://medlineplus.gov/prenatalcare.html).
+You should go to your provider for a test if you have symptoms of chlamydia or if you have a partner who has an STI. If you are pregnant, you should get a test when you go to your first [prenatal visit](Prenatal%20Care.md).
 
 People at higher risk should get checked for chlamydia every year:
 
@@ -51,15 +51,15 @@ People at higher risk should get checked for chlamydia every year:
 
 #### What other problems can chlamydia cause?
 
-In women, an untreated infection can spread to your uterus and fallopian tubes, causing [pelvic inflammatory disease](https://medlineplus.gov/pelvicinflammatorydisease.html) (PID). PID can cause permanent damage to your reproductive system. This can lead to long-term [pelvic pain](https://medlineplus.gov/pelvicpain.html), [infertility](https://medlineplus.gov/femaleinfertility.html), and [ectopic pregnancy](https://medlineplus.gov/ectopicpregnancy.html). Women who have had chlamydia infections more than once are at higher risk of serious reproductive health complications.
+In women, an untreated infection can spread to your uterus and fallopian tubes, causing [pelvic inflammatory disease](Pelvic%20Inflammatory%20Disease.md) (PID). PID can cause permanent damage to your reproductive system. This can lead to long-term [pelvic pain](Pelvic%20Pain.md), [infertility](Female%20Infertility.md), and [ectopic pregnancy](Ectopic%20Pregnancy.md). Women who have had chlamydia infections more than once are at higher risk of serious reproductive health complications.
 
-Men often don't have health problems from chlamydia. Sometimes it can infect the epididymis (the tube that carries sperm). This can cause pain, fever, and, rarely, [infertility](https://medlineplus.gov/maleinfertility.html).
+Men often don't have health problems from chlamydia. Sometimes it can infect the epididymis (the tube that carries sperm). This can cause pain, fever, and, rarely, [infertility](Male%20Infertility.md).
 
-Both men and women can develop [reactive arthritis](https://medlineplus.gov/infectiousarthritis.html) because of a chlamydia infection. Reactive arthritis is a type of arthritis that happens as a "reaction" to an infection in the body.
+Both men and women can develop [reactive arthritis](Infectious%20Arthritis.md) because of a chlamydia infection. Reactive arthritis is a type of arthritis that happens as a "reaction" to an infection in the body.
 
-Babies born to infected mothers can get [eye infections](https://medlineplus.gov/eyeinfections.html) and [pneumonia](https://medlineplus.gov/pneumonia.html) from chlamydia. It may also make it more likely for your baby to be [born too early](https://medlineplus.gov/pretermlabor.html).
+Babies born to infected mothers can get [eye infections](Eye%20Infections.md) and [pneumonia](Pneumonia.md) from chlamydia. It may also make it more likely for your baby to be [born too early](Preterm%20Labor.md).
 
-Untreated chlamydia may also increase your chances of getting or giving [HIV](https://medlineplus.gov/hiv.html).
+Untreated chlamydia may also increase your chances of getting or giving [HIV](HIV.md).
 
 #### What are the treatments for chlamydia?
 
@@ -73,14 +73,14 @@ It is common to get a repeat infection, so you need to get tested again about th
 
 The only sure way to prevent chlamydia is to not have vaginal, anal, or oral sex.
 
-Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading chlamydia. If your or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading chlamydia. If your or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Sexually Transmitted Infections
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/chlamydiainfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/chlamydiainfections.html). General information, not medical advice.*

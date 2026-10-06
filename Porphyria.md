@@ -12,4 +12,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/porphyria.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/porphyria.html). General information, not medical advice.*

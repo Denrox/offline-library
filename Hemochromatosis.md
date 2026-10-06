@@ -2,7 +2,7 @@
 
 *Also called: Iron overload disease*
 
-Hemochromatosis is a disease in which too much [iron](https://medlineplus.gov/iron.html) builds up in your body. Your body needs iron but too much of it is toxic. If you have hemochromatosis, you absorb more iron than you need. Your body has no natural way to get rid of the extra iron. It stores it in body tissues, especially the liver, heart, and pancreas. The extra iron can damage your organs. Without treatment, it can cause your organs to fail.
+Hemochromatosis is a disease in which too much [iron](Iron.md) builds up in your body. Your body needs iron but too much of it is toxic. If you have hemochromatosis, you absorb more iron than you need. Your body has no natural way to get rid of the extra iron. It stores it in body tissues, especially the liver, heart, and pancreas. The extra iron can damage your organs. Without treatment, it can cause your organs to fail.
 
 There are two types of hemochromatosis. Primary hemochromatosis is an inherited disease. Secondary hemochromatosis is usually the result of something else, such as anemia, thalassemia, liver disease, or blood transfusions.
 
@@ -14,8 +14,8 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Iron
+- [Iron](Iron.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hemochromatosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hemochromatosis.html). General information, not medical advice.*

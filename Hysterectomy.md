@@ -2,22 +2,22 @@
 
 #### What is a hysterectomy?
 
-A hysterectomy is [surgery](https://medlineplus.gov/surgery.html) to remove the uterus (womb). The uterus is the place where a fetus grows during pregnancy. A hysterectomy treats problems like heavy bleeding, pain, or cancer in the uterus.
+A hysterectomy is [surgery](Surgery.md) to remove the uterus (womb). The uterus is the place where a fetus grows during pregnancy. A hysterectomy treats problems like heavy bleeding, pain, or cancer in the uterus.
 
-After a hysterectomy, you no longer have menstrual periods and can't become pregnant. Sometimes the surgery also removes the ovaries and fallopian tubes. If you have both ovaries taken out,[menopause](https://medlineplus.gov/menopause.html) symptoms will usually begin.
+After a hysterectomy, you no longer have menstrual periods and can't become pregnant. Sometimes the surgery also removes the ovaries and fallopian tubes. If you have both ovaries taken out,[menopause](Menopause.md) symptoms will usually begin.
 
 #### What conditions does a hysterectomy treat?
 
-Hysterectomy is a major surgery. Your health care provider may suggest other treatment options first. These might include medicine, hormone therapy, or procedures to remove [fibroids](https://medlineplus.gov/uterinefibroids.html) or stop heavy bleeding. Sometimes these won't help, or surgery might be the only option, depending on the condition that needs to be treated.
+Hysterectomy is a major surgery. Your health care provider may suggest other treatment options first. These might include medicine, hormone therapy, or procedures to remove [fibroids](Uterine%20Fibroids.md) or stop heavy bleeding. Sometimes these won't help, or surgery might be the only option, depending on the condition that needs to be treated.
 
 Your provider might recommend a hysterectomy if you have:
 
 - **Fibroids**, if you are near or past menopause, have large fibroids or very heavy bleeding.
-- **[Endometriosis](https://medlineplus.gov/endometriosis.html)**, that hasn't been cured by medicine or surgery.
+- **[Endometriosis](Endometriosis.md)**, that hasn't been cured by medicine or surgery.
 - **Uterine prolapse**, which can happen after several vaginal births, menopause, or because of obesity. It is when the uterus drops into the vagina.
-- **Cancer**, of the [uterus](https://medlineplus.gov/uterinecancer.html), [cervix](https://medlineplus.gov/cervicalcancer.html), [ovaries](https://medlineplus.gov/ovariancancer.html), or endometrium (the lining of the uterus).
-- **[Vaginal bleeding](https://medlineplus.gov/vaginalbleeding.html)**, that is heavy or unusual and persists despite treatment.
-- **[Chronic pelvic pain](https://medlineplus.gov/pelvicpain.html)**, which starts in the uterus. A hysterectomy is a last resort since it doesn't fix some pelvic pain.
+- **Cancer**, of the [uterus](Uterine%20Cancer.md), [cervix](Cervical%20Cancer.md), [ovaries](Ovarian%20Cancer.md), or endometrium (the lining of the uterus).
+- **[Vaginal bleeding](Vaginal%20Bleeding.md)**, that is heavy or unusual and persists despite treatment.
+- **[Chronic pelvic pain](Pelvic%20Pain.md)**, which starts in the uterus. A hysterectomy is a last resort since it doesn't fix some pelvic pain.
 - **Adenomyosis**, is a thickening of the walls of the uterus. A hysterectomy is only considered if pain is severe and no other treatments have worked.
 
 #### What are the different types of hysterectomies?
@@ -41,7 +41,7 @@ Methods to perform a hysterectomy include:
 - **Laparoscopic hysterectomy.** Uses an instrument with a thin, lighted tube and an attached camera. This helps your provider see your pelvic organs. Small cuts are made in either your abdomen (belly) or vagina. This is not an option for all types of uterine fibroids.
 - **Robotic surgery.** Your provider guides a robotic arm to do the surgery through small cuts in your lower abdomen (belly).
 
-[After a hysterectomy](https://medlineplus.gov/aftersurgery.html), it can take four to six weeks to recover, depending on the type of surgery you have.
+[After a hysterectomy](After%20Surgery.md), it can take four to six weeks to recover, depending on the type of surgery you have.
 
 #### What are the risks of a hysterectomy?
 
@@ -51,10 +51,10 @@ More serious risks can include:
 
 - Too much bleeding during surgery
 - Infection
-- [Blood clots](https://medlineplus.gov/bloodclots.html)
+- [Blood clots](Blood%20Clots.md)
 
 Dept. of Health and Human Services Office on Women's Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hysterectomy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hysterectomy.html). General information, not medical advice.*

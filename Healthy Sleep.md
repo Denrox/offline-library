@@ -49,17 +49,17 @@ Sleep deprivation can also affect your mood, leading to:
 
 - Irritability
 - Problems with relationships, especially for children and teenagers
-- [Depression](https://medlineplus.gov/depression.html)
-- [Anxiety](https://medlineplus.gov/anxiety.html)
+- [Depression](Depression.md)
+- [Anxiety](Anxiety.md)
 
 It can also affect your physical health. Not getting enough sleep, or getting poor-quality sleep, increases your risk of:
 
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- [Heart disease](https://medlineplus.gov/heartdiseases.html)
-- [Stroke](https://medlineplus.gov/stroke.html)
-- [Kidney disease](https://medlineplus.gov/kidneydiseases.html)
-- [Obesity](https://medlineplus.gov/obesity.html)
-- [Type 2 diabetes](https://medlineplus.gov/diabetestype2.html)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- [Heart disease](Heart%20Diseases.md)
+- [Stroke](Stroke.md)
+- [Kidney disease](Kidney%20Diseases.md)
+- [Obesity](Obesity.md)
+- [Type 2 diabetes](Diabetes%20Type%202.md)
 
 Not getting enough sleep can also lower your levels of hormones that help children grow and help the body build muscle, repair tissue, and fight infections.
 
@@ -72,9 +72,9 @@ You can take steps to improve your sleep habits. First, make sure that you allow
 To improve your sleep habits, it also may help to:
 
 - Go to bed and wake up at the same time every day.
-- Avoid [caffeine](https://medlineplus.gov/caffeine.html), especially in the afternoon and evening.
+- Avoid [caffeine](Caffeine.md), especially in the afternoon and evening.
 - Avoid nicotine.
-- [Exercise](https://medlineplus.gov/exerciseandphysicalfitness.html) regularly, but not too close to bedtime.
+- [Exercise](Exercise%20and%20Physical%20Fitness.md) regularly, but not too close to bedtime.
 - Avoid alcoholic drinks before bed.
 - Avoid large meals and drinks late at night.
 - Don't take a nap after 3 p.m.
@@ -83,7 +83,7 @@ To improve your sleep habits, it also may help to:
 - Get rid of distractions such as TVs, computers, and phones.
 - Get enough sunlight exposure during the day.
 - If you can't fall asleep for 20 minutes, get up and do something relaxing.
-- See a health care provider if you have continued trouble sleeping. You may have a [sleep disorder](https://medlineplus.gov/sleepdisorders.html), such as [insomnia](https://medlineplus.gov/insomnia.html) or [sleep apnea](https://medlineplus.gov/sleepapnea.html). In some cases, your provider may suggest trying a sleep study or other treatments.
+- See a health care provider if you have continued trouble sleeping. You may have a [sleep disorder](Sleep%20Disorders.md), such as [insomnia](Insomnia.md) or [sleep apnea](Sleep%20Apnea.md). In some cases, your provider may suggest trying a sleep study or other treatments.
 
 If you are a shift worker, getting good sleep can be more challenging. You may also want to:
 
@@ -95,8 +95,8 @@ If you are a shift worker, getting good sleep can be more challenging. You may a
 
 ## Related topics
 
-- Sleep Disorders
+- [Sleep Disorders](Sleep%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthysleep.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthysleep.html). General information, not medical advice.*

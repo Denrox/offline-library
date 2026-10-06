@@ -4,7 +4,7 @@
 
 Adhesions are bands of scar-like tissue. Normally, internal tissues and organs have slippery surfaces so they can shift easily as the body moves. Adhesions cause tissues and organs to stick together. They might connect the loops of the intestines to each other, to nearby organs, or to the wall of the abdomen. They can pull sections of the intestines out of place. This may block food from passing through the intestine.
 
-Adhesions can occur anywhere in the body. But they often form after surgery on the abdomen. Almost everyone who has surgery on the abdomen gets adhesions. Some adhesions don't cause any problems. But when they partly or completely [block the intestines](https://medlineplus.gov/intestinalobstruction.html), they cause symptoms such as:
+Adhesions can occur anywhere in the body. But they often form after surgery on the abdomen. Almost everyone who has surgery on the abdomen gets adhesions. Some adhesions don't cause any problems. But when they partly or completely [block the intestines](Intestinal%20Obstruction.md), they cause symptoms such as:
 
 - Severe abdominal pain or cramping
 - Vomiting
@@ -12,7 +12,7 @@ Adhesions can occur anywhere in the body. But they often form after surgery on t
 - An inability to pass gas
 - Constipation
 
-Adhesions can sometimes cause [infertility in women](https://medlineplus.gov/femaleinfertility.html) by preventing fertilized eggs from reaching the uterus.
+Adhesions can sometimes cause [infertility in women](Female%20Infertility.md) by preventing fertilized eggs from reaching the uterus.
 
 No tests are available to detect adhesions. Doctors usually find them during surgery to diagnose other problems.
 
@@ -22,8 +22,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Intestinal Obstruction
+- [Intestinal Obstruction](Intestinal%20Obstruction.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/adhesions.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/adhesions.html). General information, not medical advice.*

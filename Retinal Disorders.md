@@ -4,27 +4,27 @@
 
 Retinal disorders are conditions that affect the retina, the thin light-sensitive tissue at the back of your eye. The retina senses light and sends signals to your brain so you can see.
 
-Retinal disorders can cause blurred or distorted vision. Some can lead to [vision loss or blindness](https://medlineplus.gov/visionimpairmentandblindness.html).
+Retinal disorders can cause blurred or distorted vision. Some can lead to [vision loss or blindness](Vision%20Impairment%20and%20Blindness.md).
 
 #### What causes retinal disorders?
 
 The causes of retinal disorders vary. Aging is a common factor, but other things can raise your risk, such as if you:
 
-- [Smoke](https://medlineplus.gov/smoking.html)
-- Have [obesity](https://medlineplus.gov/obesity.html)
-- Have health conditions like [diabetes](https://medlineplus.gov/diabetes.html) or [high blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- Have had an [eye injury](https://medlineplus.gov/eyeinjuries.html) or trauma
+- [Smoke](Smoking.md)
+- Have [obesity](Obesity.md)
+- Have health conditions like [diabetes](Diabetes.md) or [high blood pressure](High%20Blood%20Pressure.md)
+- Have had an [eye injury](Eye%20Injuries.md) or trauma
 - Have a family history of retinal disorders
 
 #### What are common retinal disorders?
 
 Some common retinal disorders include:
 
-- **[Macular degeneration.](https://medlineplus.gov/maculardegeneration.html)** Occurs when the macula (the center of the retina that helps you see fine details) breaks down. There are two types: wet and dry macular degeneration.
-- **[Diabetic retinopathy.](https://medlineplus.gov/diabeticeyeproblems.html)** Occurs when diabetes damages small blood vessels in the retina, causing them to swell or leak.
-- **[Retinal detachment.](https://medlineplus.gov/retinaldetachment.html)** Occurs when the retina pulls away from the back of the eye. This is a medical emergency.
+- **[Macular degeneration.](Macular%20Degeneration.md)** Occurs when the macula (the center of the retina that helps you see fine details) breaks down. There are two types: wet and dry macular degeneration.
+- **[Diabetic retinopathy.](Diabetic%20Eye%20Problems.md)** Occurs when diabetes damages small blood vessels in the retina, causing them to swell or leak.
+- **[Retinal detachment.](Retinal%20Detachment.md)** Occurs when the retina pulls away from the back of the eye. This is a medical emergency.
 - **Retinal tears.** A hole or break in the retina caused when the gel-like substance inside your eye (the vitreous) pulls away.
-- **[Retinoblastoma.](https://medlineplus.gov/eyecancer.html)** A rare cancer of the retina that most often affects young children.
+- **[Retinoblastoma.](Eye%20Cancer.md)** A rare cancer of the retina that most often affects young children.
 - **Macular pucker.** Scar tissue that forms on the macula and distorts vision.
 - **Macular hole.** A small opening in the macula, often related to aging or injury. It can blur or distort central vision.
 - **Eye floaters.** Small specks, cobwebs, or threads that drift across your vision. These are more common with aging.
@@ -60,29 +60,29 @@ Some retinal disorders can be treated to slow or stop vision loss, and sometimes
 - Laser therapy
 - Medicine or eye injections
 - Surgery
-- Lifestyle management to control health conditions such as [diabetes](https://medlineplus.gov/diabetes.html) or [high blood pressure](https://medlineplus.gov/highbloodpressure.html)
+- Lifestyle management to control health conditions such as [diabetes](Diabetes.md) or [high blood pressure](High%20Blood%20Pressure.md)
 
 #### Can retinal disorders be prevented?
 
-Not all retinal disorders can be prevented. Some are related to aging or genetics. But you can [protect your eyes](https://medlineplus.gov/eyewear.html) by:
+Not all retinal disorders can be prevented. Some are related to aging or genetics. But you can [protect your eyes](Eyewear.md) by:
 
-- Wearing [safety goggles or sunglasses](https://medlineplus.gov/eyecare.html)
-- Getting [regular eye exams](https://medlineplus.gov/lab-tests/vision-screening/)
+- Wearing [safety goggles or sunglasses](Eye%20Care.md)
+- Getting regular eye exams
 - Making healthy lifestyle changes, such as:
 
- - [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) (or not starting)
+ - [Quitting smoking](Quitting%20Smoking.md) (or not starting)
  - Managing diabetes and blood pressure
 
 NIH: National Eye Institute
 
 ## Related topics
 
-- Diabetic Eye Problems
-- Eye Diseases
-- Macular Degeneration
-- Retinal Detachment
-- Usher Syndrome
+- [Diabetic Eye Problems](Diabetic%20Eye%20Problems.md)
+- [Eye Diseases](Eye%20Diseases.md)
+- [Macular Degeneration](Macular%20Degeneration.md)
+- [Retinal Detachment](Retinal%20Detachment.md)
+- [Usher Syndrome](Usher%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/retinaldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/retinaldisorders.html). General information, not medical advice.*

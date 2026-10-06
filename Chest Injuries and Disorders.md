@@ -23,18 +23,18 @@ Chest injuries and disorders are problems that affect any of the organs or struc
 There are many types of chest injuries and disorders, for example:
 
 - Broken ribs
-- [Esophagus disorders](https://medlineplus.gov/esophagusdisorders.html)
-- [Swallowing disorders](https://medlineplus.gov/swallowingdisorders.html), also called dysphagia
-- [Tracheal disorders](https://medlineplus.gov/trachealdisorders.html)
-- [Bronchial disorders](https://medlineplus.gov/bronchialdisorders.html)
-- [Lung diseases](https://medlineplus.gov/lungdiseases.html) and [collapsed lung](https://medlineplus.gov/collapsedlung.html)
-- [Pleural disorders](https://medlineplus.gov/pleuraldisorders.html)
+- [Esophagus disorders](Esophagus%20Disorders.md)
+- [Swallowing disorders](Swallowing%20Disorders.md), also called dysphagia
+- [Tracheal disorders](Tracheal%20Disorders.md)
+- [Bronchial disorders](Bronchial%20Disorders.md)
+- [Lung diseases](Lung%20Diseases.md) and [collapsed lung](Collapsed%20Lung.md)
+- [Pleural disorders](Pleural%20Disorders.md)
 - Heart diseases
 - Mediastinal diseases, which are tumors, inflammation, and other problems with the structures in the mediastinum, which is the space between your lungs, breastbone, and spine
-- Thoracic [aortic aneurysm](https://medlineplus.gov/aorticaneurysm.html)
-- [Thoracic outlet syndrome](https://medlineplus.gov/thoracicoutletsyndrome.html)
+- Thoracic [aortic aneurysm](Aortic%20Aneurysm.md)
+- [Thoracic outlet syndrome](Thoracic%20Outlet%20Syndrome.md)
 
-Chest injuries may happen from the force of car accidents, [falls](https://medlineplus.gov/falls.html), or [sports injuries](https://medlineplus.gov/sportsinjuries.html). Or the chest may be pierced by a bullet or sharp object. Because your chest holds so many important structures, certain chest injuries may be life-threatening.
+Chest injuries may happen from the force of car accidents, [falls](Falls.md), or [sports injuries](Sports%20Injuries.md). Or the chest may be pierced by a bullet or sharp object. Because your chest holds so many important structures, certain chest injuries may be life-threatening.
 
 #### How are chest injuries and disorders diagnosed?
 
@@ -42,22 +42,22 @@ Diagnosis of chest injuries or disorders depends on the type of symptoms you're 
 
 There are many types of tests for diagnosing different types of chest injuries and disorders, for example:
 
-- [Diagnostic imaging tests](https://medlineplus.gov/diagnosticimaging.html)
-- [Heart tests](https://medlineplus.gov/hearthealthtests.html)
-- [Lung function tests](https://medlineplus.gov/lab-tests/lung-function-tests/)
-- [Bronchoscopy](https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/)
-- [Pleural fluid analysis](https://medlineplus.gov/lab-tests/pleural-fluid-analysis/)
-- [Dysphagia tests](https://medlineplus.gov/lab-tests/dysphagia-tests/)
-- [Biopsy](https://medlineplus.gov/biopsy.html)
+- [Diagnostic imaging tests](Diagnostic%20Imaging.md)
+- [Heart tests](Heart%20Health%20Tests.md)
+- Lung function tests
+- Bronchoscopy
+- Pleural fluid analysis
+- Dysphagia tests
+- [Biopsy](Biopsy.md)
 
 Treatments will depend on the type of chest injury or disorder you have.
 
 ## Related topics
 
-- Chest Pain
-- Collapsed Lung
-- Pleural Disorders
+- [Chest Pain](Chest%20Pain.md)
+- [Collapsed Lung](Collapsed%20Lung.md)
+- [Pleural Disorders](Pleural%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/chestinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/chestinjuriesanddisorders.html). General information, not medical advice.*

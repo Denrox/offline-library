@@ -10,28 +10,28 @@ There are many types of digestive disorders. The symptoms vary widely depending 
 
 - Blood in your stool
 - Changes in bowel habits
-- Severe [abdominal pain](https://medlineplus.gov/abdominalpain.html)
+- Severe [abdominal pain](Abdominal%20Pain.md)
 - Unintentional weight loss
-- [Heartburn](https://medlineplus.gov/heartburn.html) not relieved by antacids
+- [Heartburn](Heartburn.md) not relieved by antacids
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Celiac Disease
-- Colonic Diseases
-- Constipation
-- Diverticulosis and Diverticulitis
-- Gas
-- Gastroenteritis
-- GERD
-- Indigestion
-- Intestinal Obstruction
-- Liver Diseases
-- Peptic Ulcer
-- Small Intestine Disorders
-- Stomach Disorders
+- [Celiac Disease](Celiac%20Disease.md)
+- [Colonic Diseases](Colonic%20Diseases.md)
+- [Constipation](Constipation.md)
+- [Diverticulosis and Diverticulitis](Diverticulosis%20and%20Diverticulitis.md)
+- [Gas](Gas.md)
+- [Gastroenteritis](Gastroenteritis.md)
+- [GERD](GERD.md)
+- [Indigestion](Indigestion.md)
+- [Intestinal Obstruction](Intestinal%20Obstruction.md)
+- [Liver Diseases](Liver%20Diseases.md)
+- [Peptic Ulcer](Peptic%20Ulcer.md)
+- [Small Intestine Disorders](Small%20Intestine%20Disorders.md)
+- [Stomach Disorders](Stomach%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/digestivediseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/digestivediseases.html). General information, not medical advice.*

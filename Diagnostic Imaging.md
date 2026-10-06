@@ -12,11 +12,11 @@ Different machines are used to create pictures inside your body. The type of ima
 
 Common types of diagnostic imaging include:
 
-- [X-rays](https://medlineplus.gov/xrays.html)
-- [CT (computed tomography) scans](ctscans.html)
-- [Nuclear medicine scans](https://medlineplus.gov/nuclearscans.html)
-- [MRI (magnetic resonance imaging) scans](mriscans.html)
-- [Ultrasound](https://medlineplus.gov/lab-tests/sonogram/)
+- [X-rays](X-Rays.md)
+- CT (computed tomography) scans
+- [Nuclear medicine scans](Nuclear%20Scans.md)
+- MRI (magnetic resonance imaging) scans
+- Ultrasound
 
 #### Why is diagnostic imaging done?
 
@@ -41,7 +41,7 @@ During an imaging test:
 - Some tests require you to fast (not eat or drink) or drink contrast material (a substance that helps some parts of your body show up more clearly on the images)
 - Many imaging tests take only a short time
 - Some tests require you to stay still inside an imaging machine, which may feel uncomfortable
-- Some tests use a small amount of [radiation](https://medlineplus.gov/radiationexposure.html)
+- Some tests use a small amount of [radiation](Radiation%20Exposure.md)
 
 Always tell your provider if you are pregnant or think you may be pregnant.
 
@@ -49,4 +49,4 @@ After most imaging tests, you can return to normal activities right away. A spec
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diagnosticimaging.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diagnosticimaging.html). General information, not medical advice.*

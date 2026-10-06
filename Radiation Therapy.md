@@ -4,13 +4,13 @@
 
 #### What is radiation therapy?
 
-Radiation therapy is a [cancer](https://medlineplus.gov/cancer.html) treatment. It uses high doses of radiation to kill cancer cells and stop them from spreading. It may also be used for easing cancer symptoms. Radiation therapy may damage healthy cells. They can usually repair themselves more easily than cancer cells.
+Radiation therapy is a [cancer](Cancer.md) treatment. It uses high doses of radiation to kill cancer cells and stop them from spreading. It may also be used for easing cancer symptoms. Radiation therapy may damage healthy cells. They can usually repair themselves more easily than cancer cells.
 
 You may need days or weeks of treatment before the radiation starts killing cancer cells. But cancer cells should keep dying for weeks or months after your treatment ends.
 
 #### When is radiation therapy used for cancer treatment?
 
-Radiation therapy treats many types of cancer. It may be used at different times or for different reasons during your treatment. Sometimes radiation is used with other treatments, like surgery, [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html), or [immunotherapy](https://medlineplus.gov/cancerimmunotherapy.html).
+Radiation therapy treats many types of cancer. It may be used at different times or for different reasons during your treatment. Sometimes radiation is used with other treatments, like surgery, [chemotherapy](Cancer%20Chemotherapy.md), or [immunotherapy](Cancer%20Immunotherapy.md).
 
 #### How is radiation therapy given?
 
@@ -31,14 +31,14 @@ The type of radiation therapy you get depends on many factors, including:
 
 Your treatment must be carefully planned to reduce side effects. Radiation therapy can damage normal cells as well as cancer cells. Healthy cells usually repair themselves but damaging them can cause side effects.
 
-Side effects can vary from person to person. Common side effects include skin changes and [fatigue](https://medlineplus.gov/fatigue.html). Other side effects depend on the part of your body being treated. Most side effects go away a few months after you are done with treatment.
+Side effects can vary from person to person. Common side effects include skin changes and [fatigue](Fatigue.md). Other side effects depend on the part of your body being treated. Most side effects go away a few months after you are done with treatment.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Diagnostic Imaging
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/radiationtherapy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/radiationtherapy.html). General information, not medical advice.*

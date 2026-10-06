@@ -2,14 +2,14 @@
 
 Vitamins are substances that your body needs to grow and develop normally. There are 13 vitamins your body needs. They are:
 
-- [Vitamin A](https://medlineplus.gov/vitamina.html)
-- [B vitamins](https://medlineplus.gov/bvitamins.html) (thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12 and [folate](https://medlineplus.gov/folicacid.html))
-- [Vitamin C](https://medlineplus.gov/vitaminc.html)
-- [Vitamin D](https://medlineplus.gov/vitamind.html)
-- [Vitamin E](https://medlineplus.gov/vitamine.html)
-- [Vitamin K](https://medlineplus.gov/vitamink.html)
+- [Vitamin A](Vitamin%20A.md)
+- [B vitamins](B%20Vitamins.md) (thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12 and [folate](Folic%20Acid.md))
+- [Vitamin C](Vitamin%20C.md)
+- [Vitamin D](Vitamin%20D.md)
+- [Vitamin E](Vitamin%20E.md)
+- [Vitamin K](Vitamin%20K.md)
 
-You can usually get all your vitamins from the foods you eat. Your body can also make vitamins D and K. People who eat a [vegetarian diet](https://medlineplus.gov/vegetariandiet.html)may need to take a vitamin B12 supplement.
+You can usually get all your vitamins from the foods you eat. Your body can also make vitamins D and K. People who eat a [vegetarian diet](Vegetarian%20Diet.md)may need to take a vitamin B12 supplement.
 
 Each vitamin has specific jobs. If you have low levels of certain vitamins, you may get health problems. For example, if you don't get enough vitamin C, you could become anemic. Some vitamins may help prevent medical problems. Vitamin A prevents night blindness.
 
@@ -17,20 +17,20 @@ The best way to get enough vitamins is to eat a balanced diet with a variety of 
 
 ## Related topics
 
-- Antioxidants
-- B Vitamins
-- Calcium
-- Dietary Supplements
-- Folic Acid
-- Herbal Medicine
-- Minerals
-- Nutrition
-- Vitamin A
-- Vitamin C
-- Vitamin D
-- Vitamin E
-- Vitamin K
+- [Antioxidants](Antioxidants.md)
+- [B Vitamins](B%20Vitamins.md)
+- [Calcium](Calcium.md)
+- [Dietary Supplements](Dietary%20Supplements.md)
+- [Folic Acid](Folic%20Acid.md)
+- [Herbal Medicine](Herbal%20Medicine.md)
+- [Minerals](Minerals.md)
+- [Nutrition](Nutrition.md)
+- [Vitamin A](Vitamin%20A.md)
+- [Vitamin C](Vitamin%20C.md)
+- [Vitamin D](Vitamin%20D.md)
+- [Vitamin E](Vitamin%20E.md)
+- [Vitamin K](Vitamin%20K.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitamins.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitamins.html). General information, not medical advice.*

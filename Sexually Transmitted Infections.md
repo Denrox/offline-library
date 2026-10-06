@@ -8,27 +8,27 @@ Sexually transmitted infections (STIs) are infections that are passed from one p
 
 STIs are usually spread during vaginal, oral, or anal sex. But sometimes they can spread through other sexual contact involving the penis, vagina, mouth, or anus. This is because some STIs, like herpes and HPV, are spread by skin-to-skin contact.
 
-Some STIs can be passed to the fetus during [pregnancy](https://medlineplus.gov/pregnancy.html) or childbirth. Other ways that some STIs may spread include while [breastfeeding](https://medlineplus.gov/breastfeeding.html), through [blood transfusions](https://medlineplus.gov/bloodtransfusionanddonation.html), or by sharing needles.
+Some STIs can be passed to the fetus during [pregnancy](Pregnancy.md) or childbirth. Other ways that some STIs may spread include while [breastfeeding](Breastfeeding.md), through [blood transfusions](Blood%20Transfusion%20and%20Donation.md), or by sharing needles.
 
 There are more than 20 types of STIs, including:
 
-- [Chlamydia](https://medlineplus.gov/chlamydiainfections.html)
-- [Genital herpes](https://medlineplus.gov/genitalherpes.html)
-- [Genital warts](https://medlineplus.gov/genitalwarts.html)
-- [Gonorrhea](https://medlineplus.gov/gonorrhea.html)
-- [HIV](https://medlineplus.gov/hiv.html)
-- [HPV](https://medlineplus.gov/hpv.html)
-- [Pubic lice](https://medlineplus.gov/pubiclice.html)
-- [Syphilis](https://medlineplus.gov/syphilis.html)
-- [Trichomoniasis](https://medlineplus.gov/trichomoniasis.html)
+- [Chlamydia](Chlamydia%20Infections.md)
+- [Genital herpes](Genital%20Herpes.md)
+- [Genital warts](Genital%20Warts.md)
+- [Gonorrhea](Gonorrhea.md)
+- [HIV](HIV.md)
+- [HPV](HPV.md)
+- [Pubic lice](Pubic%20Lice.md)
+- [Syphilis](Syphilis.md)
+- [Trichomoniasis](Trichomoniasis.md)
 
 #### What causes sexually transmitted infections (STIs)?
 
-STIs can be caused by [bacteria](https://medlineplus.gov/bacterialinfections.html), [viruses](https://medlineplus.gov/viralinfections.html), and [parasites](https://medlineplus.gov/parasiticdiseases.html).
+STIs can be caused by [bacteria](Bacterial%20Infections.md), [viruses](Viral%20Infections.md), and [parasites](Parasitic%20Diseases.md).
 
 #### Who is affected by sexually transmitted infections (STIs)?
 
-Most STIs affect both men and women, but in many cases the health problems they cause can be more severe for women. If an STI is passed to a fetus during [pregnancy or childbirth](https://medlineplus.gov/infectionsandpregnancy.html), it can cause serious health problems.
+Most STIs affect both men and women, but in many cases the health problems they cause can be more severe for women. If an STI is passed to a fetus during [pregnancy or childbirth](Infections%20and%20Pregnancy.md), it can cause serious health problems.
 
 #### What are the symptoms of sexually transmitted infections (STIs)?
 
@@ -43,18 +43,18 @@ If you do have symptoms, they could include:
 - Blisters or sores in or around the mouth
 - Abnormal vaginal odor
 - Anal itching, soreness, or bleeding
-- [Abdominal (belly) pain](abdominalpain.html)
-- [Fever](https://medlineplus.gov/fever.html)
+- Abdominal (belly) pain
+- [Fever](Fever.md)
 
 #### How are sexually transmitted infections (STIs) diagnosed?
 
 If you are sexually active, you should talk to your health care provider about your risk for STIs and whether you need to be tested. This is especially important since many STIs do not usually cause symptoms.
 
-Some STIs may be diagnosed during a physical exam or through [STI testing](https://medlineplus.gov/lab-tests/sexually-transmitted-infection-sti-tests/). Some tests involve a microscopic examination of a sore or fluid swabbed from the vagina, penis, or anus. Blood tests can diagnose other types of STIs.
+Some STIs may be diagnosed during a physical exam or through STI testing. Some tests involve a microscopic examination of a sore or fluid swabbed from the vagina, penis, or anus. Blood tests can diagnose other types of STIs.
 
 #### What are the treatments for sexually transmitted infections (STIs)?
 
-[Antibiotics](https://medlineplus.gov/antibiotics.html) can treat STIs that are caused by bacteria or parasites. There is no cure for STIs caused by viruses, but antiviral medicines can often help with the symptoms and lower your risk of spreading the infection.
+[Antibiotics](Antibiotics.md) can treat STIs that are caused by bacteria or parasites. There is no cure for STIs caused by viruses, but antiviral medicines can often help with the symptoms and lower your risk of spreading the infection.
 
 It's important to get treatment if you have an STI. Some types of STIs can cause serious health problems if they are not treated. Talk to your provider about how long to not have sex after treatment to avoid passing the infection back and forth with your partner.
 
@@ -65,23 +65,23 @@ The surest way to protect yourself against STIs is to not have sex.
 If you do decide to have sex, you can lower your risk of getting an STI by:
 
 - Having you and your partner tested for STIs before having sex.
-- Using a condom every time you have sex. Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading STIs. If you or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+- Using a condom every time you have sex. Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading STIs. If you or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 - Reducing your number of sex partners. You might even consider "mutual monogamy" with just one partner. This means that you agree to be sexually active only with them, and they agree to be sexually active only with you. But first you should both get tested to make sure that you don't already have an STI.
-- Getting vaccinated against HPV and [hepatitis B](https://medlineplus.gov/hepatitisb.html).
+- Getting vaccinated against HPV and [hepatitis B](Hepatitis%20B.md).
 
 ## Related topics
 
-- Chlamydia Infections
-- Genital Herpes
-- Genital Warts
-- Gonorrhea
-- HIV
-- HPV
-- Pelvic Inflammatory Disease
-- Pubic Lice
-- Syphilis
-- Trichomoniasis
+- [Chlamydia Infections](Chlamydia%20Infections.md)
+- [Genital Herpes](Genital%20Herpes.md)
+- [Genital Warts](Genital%20Warts.md)
+- [Gonorrhea](Gonorrhea.md)
+- [HIV](HIV.md)
+- [HPV](HPV.md)
+- [Pelvic Inflammatory Disease](Pelvic%20Inflammatory%20Disease.md)
+- [Pubic Lice](Pubic%20Lice.md)
+- [Syphilis](Syphilis.md)
+- [Trichomoniasis](Trichomoniasis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sexuallytransmittedinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sexuallytransmittedinfections.html). General information, not medical advice.*

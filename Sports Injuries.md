@@ -4,14 +4,14 @@ Exercising is good for you, but sometimes you can injure yourself when you play 
 
 The most common sports injuries are:
 
-- [Sprains and strains](https://medlineplus.gov/sprainsandstrains.html)
-- [Knee injuries](https://medlineplus.gov/kneeinjuriesanddisorders.html)
+- [Sprains and strains](Sprains%20and%20Strains.md)
+- [Knee injuries](Knee%20Injuries%20and%20Disorders.md)
 - Swollen muscles
 - Achilles tendon injuries
 - Pain along the shin bone
-- [Rotator cuff injuries](https://medlineplus.gov/rotatorcuffinjuries.html)
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones)
-- [Dislocations](https://medlineplus.gov/dislocations.html)
+- [Rotator cuff injuries](Rotator%20Cuff%20Injuries.md)
+- [Fractures](Fractures.md) (broken bones)
+- [Dislocations](Dislocations.md)
 
 If you get hurt, stop playing. Continuing to play or exercise can cause more harm. Treatment often begins with the RICE (Rest, Ice, Compression, and Elevation) method to relieve pain, reduce swelling, and speed healing. Other possible treatments include pain relievers, keeping the injured area from moving, rehabilitation, and sometimes surgery.
 
@@ -19,16 +19,16 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Ankle Injuries and Disorders
-- Concussion
-- Elbow Injuries and Disorders
-- Foot Injuries and Disorders
-- Hand Injuries and Disorders
-- Knee Injuries and Disorders
-- Shoulder Injuries and Disorders
-- Sports Fitness
-- Sprains and Strains
+- [Ankle Injuries and Disorders](Ankle%20Injuries%20and%20Disorders.md)
+- [Concussion](Concussion.md)
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Foot Injuries and Disorders](Foot%20Injuries%20and%20Disorders.md)
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Knee Injuries and Disorders](Knee%20Injuries%20and%20Disorders.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
+- [Sports Fitness](Sports%20Fitness.md)
+- [Sprains and Strains](Sprains%20and%20Strains.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sportsinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sportsinjuries.html). General information, not medical advice.*

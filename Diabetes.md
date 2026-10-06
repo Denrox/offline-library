@@ -4,25 +4,25 @@
 
 #### What is diabetes?
 
-Diabetes, also known as diabetes mellitus, is a disease in which your [blood glucose](https://medlineplus.gov/bloodglucose.html), or blood sugar, levels are too high. Glucose is your body's main source of energy. Your body can make glucose, but it also comes from the food you eat. Insulin is a [hormone](https://medlineplus.gov/hormones.html) made by your pancreas. Insulin helps move glucose from your bloodstream into your cells, where it can be used for energy.
+Diabetes, also known as diabetes mellitus, is a disease in which your [blood glucose](Blood%20Glucose.md), or blood sugar, levels are too high. Glucose is your body's main source of energy. Your body can make glucose, but it also comes from the food you eat. Insulin is a [hormone](Hormones.md) made by your pancreas. Insulin helps move glucose from your bloodstream into your cells, where it can be used for energy.
 
-If you have diabetes, your body can't make insulin, can't use insulin as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. This can cause glucose levels to get too high. Over time, high blood glucose levels can lead to [serious health conditions](https://medlineplus.gov/diabetescomplications.html). But you can take steps to manage your diabetes and try to prevent these health problems.
+If you have diabetes, your body can't make insulin, can't use insulin as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. This can cause glucose levels to get too high. Over time, high blood glucose levels can lead to [serious health conditions](Diabetes%20Complications.md). But you can take steps to manage your diabetes and try to prevent these health problems.
 
 #### What are the types of diabetes?
 
 There are different types of diabetes:
 
-- **[Type 1 diabetes](https://medlineplus.gov/diabetestype1.html)**. If you have type 1 diabetes, your body makes little or no insulin. It happens when your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) attacks and destroys the cells that produce insulin.
-- **[Type 2 diabetes](https://medlineplus.gov/diabetestype2.html).** This is the most common form of diabetes. If you have type 2 diabetes, your body may still be able to make insulin, but your cells don't respond well to insulin. They can't easily take up enough glucose from your blood.
-- **[Gestational diabetes](https://medlineplus.gov/diabetesandpregnancy.html).** This is a form of diabetes that develops during pregnancy. It happens when your body can't make the extra insulin it needs during pregnancy.
+- **[Type 1 diabetes](Diabetes%20Type%201.md)**. If you have type 1 diabetes, your body makes little or no insulin. It happens when your [immune system](Immune%20System%20and%20Disorders.md) attacks and destroys the cells that produce insulin.
+- **[Type 2 diabetes](Diabetes%20Type%202.md).** This is the most common form of diabetes. If you have type 2 diabetes, your body may still be able to make insulin, but your cells don't respond well to insulin. They can't easily take up enough glucose from your blood.
+- **[Gestational diabetes](Diabetes%20and%20Pregnancy.md).** This is a form of diabetes that develops during pregnancy. It happens when your body can't make the extra insulin it needs during pregnancy.
 
 #### What causes diabetes?
 
 The different types of diabetes have different causes:
 
-- Researchers think **type 1 diabetes** is caused by [genes](https://medlineplus.gov/genetics/condition/type-1-diabetes/) and factors in the environment that might trigger the disease.
-- **Type 2 diabetes** is caused by several factors, including lifestyle factors and [genes](https://medlineplus.gov/genetics/condition/type-2-diabetes). The lifestyle factors include [not being physically active](https://medlineplus.gov/healthrisksofaninactivelifestyle.html) and being overweight or having [obesity](https://medlineplus.gov/obesity.html).
-- Researchers think **gestational diabetes** is caused by the hormonal changes of pregnancy along with [genetic](https://medlineplus.gov/genetics/condition/gestational-diabetes/) and lifestyle factors.
+- Researchers think **type 1 diabetes** is caused by genes and factors in the environment that might trigger the disease.
+- **Type 2 diabetes** is caused by several factors, including lifestyle factors and genes. The lifestyle factors include [not being physically active](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md) and being overweight or having [obesity](Obesity.md).
+- Researchers think **gestational diabetes** is caused by the hormonal changes of pregnancy along with genetic and lifestyle factors.
 
 #### Who is more likely to develop diabetes?
 
@@ -32,14 +32,14 @@ The different types of diabetes have different risk factors:
 - You are at higher risk of developing **type 2 diabetes** if you:
 
  - Are overweight or have obesity.
- - Are over age 35. [Children, teenagers,](https://medlineplus.gov/diabetesinchildrenandteens.html) and younger adults can get diabetes, but it is more common in middle-aged and older adults.
+ - Are over age 35. [Children, teenagers,](Diabetes%20in%20Children%20and%20Teens.md) and younger adults can get diabetes, but it is more common in middle-aged and older adults.
  - Have a family history of diabetes.
- - Have [prediabetes](https://medlineplus.gov/prediabetes.html). This means that your blood glucose is higher than normal, but it's not high enough to be called diabetes.
+ - Have [prediabetes](Prediabetes.md). This means that your blood glucose is higher than normal, but it's not high enough to be called diabetes.
  - Had gestational diabetes.
  - Have given birth to a baby weighing 9 pounds or more.
  - Are African American, American Indian, Asian American, Hispanic/Latino, or Pacific Islander.
  - Are not physically active.
- - Have certain other health conditions, such as [high blood pressure](https://medlineplus.gov/highbloodpressure.html) or [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS).
+ - Have certain other health conditions, such as [high blood pressure](High%20Blood%20Pressure.md) or [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS).
 - You are at higher risk of developing **gestational diabetes** if you:
 
  - Are overweight or have obesity.
@@ -56,7 +56,7 @@ The symptoms of diabetes may include:
 - Feeling very thirsty
 - Feeling very hungry
 - Urinating (peeing) more often, including at night
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Fatigue](Fatigue.md)
 - Blurry vision
 - Numbness or tingling in the feet or hands
 - Sores that do not heal
@@ -70,14 +70,14 @@ But it's important to know that your symptoms may vary, depending on which type 
 
 #### How is diabetes diagnosed?
 
-To find out if you have diabetes, your health care provider will use one or more [glucose blood tests](https://medlineplus.gov/lab-tests/blood-glucose-test/). There are several types, including the [A1C test](https://medlineplus.gov/a1c.html).
+To find out if you have diabetes, your health care provider will use one or more glucose blood tests. There are several types, including the [A1C test](A1C.md).
 
 #### What are the treatments for diabetes?
 
 Treatment for diabetes involves managing your blood glucose levels:
 
-- If you have **type 1 diabetes,** you will need to take daily doses of insulin, either by injection or through a special pump. Some people also need to take another type of [diabetes medicine](https://medlineplus.gov/diabetesmedicines.html) that works with insulin.
-- If you have **type 2 diabetes,** you may be able to manage or even reverse it by making [lifestyle changes](https://medlineplus.gov/howtopreventdiabetes.html). These include eating a [healthy diet](https://medlineplus.gov/diabeticdiet.html), [staying at healthy weight](https://medlineplus.gov/weightcontrol.html), and [getting regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html). Some people also need to take diabetes medicines to manage their diabetes.
+- If you have **type 1 diabetes,** you will need to take daily doses of insulin, either by injection or through a special pump. Some people also need to take another type of [diabetes medicine](Diabetes%20Medicines.md) that works with insulin.
+- If you have **type 2 diabetes,** you may be able to manage or even reverse it by making [lifestyle changes](How%20to%20Prevent%20Diabetes.md). These include eating a [healthy diet](Diabetic%20Diet.md), [staying at healthy weight](Weight%20Control.md), and [getting regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md). Some people also need to take diabetes medicines to manage their diabetes.
 - If you have **gestational diabetes,** you may be able to lower your glucose levels by eating a healthy diet and getting regular exercise. But be sure to talk to your provider about your treatment options. Gestational diabetes usually goes away after you give birth. But you will have a higher risk of developing type 2 diabetes later.
 
 Checking your blood glucose levels is also an important part of managing your diabetes. Ask your provider about the best way to check your blood glucose level and how often you should check it.
@@ -92,26 +92,26 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- A1C
-- Blood Glucose
-- Diabetes and Pregnancy
-- Diabetes Complications
-- Diabetes in Children and Teens
-- Diabetes Medicines
-- Diabetes Type 1
-- Diabetes Type 2
-- Diabetic Diet
-- Diabetic Eye Problems
-- Diabetic Foot
-- Diabetic Heart Disease
-- Diabetic Kidney Problems
-- Diabetic Nerve Problems
-- Hyperglycemia
-- Hypoglycemia
-- Islet Cell Transplantation
-- Pancreas Transplantation
-- Prediabetes
+- [A1C](A1C.md)
+- [Blood Glucose](Blood%20Glucose.md)
+- [Diabetes and Pregnancy](Diabetes%20and%20Pregnancy.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Medicines](Diabetes%20Medicines.md)
+- [Diabetes Type 1](Diabetes%20Type%201.md)
+- [Diabetes Type 2](Diabetes%20Type%202.md)
+- [Diabetic Diet](Diabetic%20Diet.md)
+- [Diabetic Eye Problems](Diabetic%20Eye%20Problems.md)
+- [Diabetic Foot](Diabetic%20Foot.md)
+- [Diabetic Heart Disease](Diabetic%20Heart%20Disease.md)
+- [Diabetic Kidney Problems](Diabetic%20Kidney%20Problems.md)
+- [Diabetic Nerve Problems](Diabetic%20Nerve%20Problems.md)
+- [Hyperglycemia](Hyperglycemia.md)
+- [Hypoglycemia](Hypoglycemia.md)
+- [Islet Cell Transplantation](Islet%20Cell%20Transplantation.md)
+- [Pancreas Transplantation](Pancreas%20Transplantation.md)
+- [Prediabetes](Prediabetes.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabetes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabetes.html). General information, not medical advice.*

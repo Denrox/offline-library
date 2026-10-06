@@ -2,13 +2,13 @@
 
 *Also called: Zika*
 
-Zika is a [virus](https://medlineplus.gov/viralinfections.html) that is spread mostly by mosquitoes. A pregnant mother can pass it to her baby during pregnancy or around the time of birth. It can spread through sexual contact. There have also been reports that the virus has spread through blood transfusions. There have been outbreaks of Zika virus in the United States, Africa, Southeast Asia, the Pacific Islands, parts of the Caribbean, and Central and South America.
+Zika is a [virus](Viral%20Infections.md) that is spread mostly by mosquitoes. A pregnant mother can pass it to her baby during pregnancy or around the time of birth. It can spread through sexual contact. There have also been reports that the virus has spread through blood transfusions. There have been outbreaks of Zika virus in the United States, Africa, Southeast Asia, the Pacific Islands, parts of the Caribbean, and Central and South America.
 
-Most people who get the virus do not get sick. One in five people do get symptoms, which can include a fever, rash, joint pain, and conjunctivitis ([pink eye](https://medlineplus.gov/pinkeye.html)). Symptoms are usually mild, and start 2 to 7 days after being bitten by an infected mosquito.
+Most people who get the virus do not get sick. One in five people do get symptoms, which can include a fever, rash, joint pain, and conjunctivitis ([pink eye](Pink%20Eye.md)). Symptoms are usually mild, and start 2 to 7 days after being bitten by an infected mosquito.
 
 A blood test can tell whether you have the infection. There are no vaccines or medicines to treat it. Drinking lots of fluids, resting, and taking acetaminophen might help.
 
-Zika can cause microcephaly (a serious [birth defect of the brain](https://medlineplus.gov/brainmalformations.html)) and other problems in babies whose mothers were infected while pregnant. The Centers for Disease Control and Prevention recommends that pregnant women do not travel to areas where there is a Zika virus outbreak. If you do decide to travel, first talk to your doctor. You should also be careful to prevent [mosquito bites](https://medlineplus.gov/mosquitobites.html):
+Zika can cause microcephaly (a serious [birth defect of the brain](Brain%20Malformations.md)) and other problems in babies whose mothers were infected while pregnant. The Centers for Disease Control and Prevention recommends that pregnant women do not travel to areas where there is a Zika virus outbreak. If you do decide to travel, first talk to your doctor. You should also be careful to prevent [mosquito bites](Mosquito%20Bites.md):
 
 - Use insect repellent
 - Wear clothes that cover your arms, legs, and feet
@@ -18,8 +18,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Mosquito Bites
+- [Mosquito Bites](Mosquito%20Bites.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/zikavirus.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/zikavirus.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Melanoma
 
-Melanoma is the most serious type of [skin cancer](https://medlineplus.gov/skincancer.html). Often the first sign of melanoma is a change in the size, shape, color, or feel of a mole. Most melanomas have a black or black-blue area. Melanoma may also appear as a new mole. It may be black, abnormal, or "ugly looking."
+Melanoma is the most serious type of [skin cancer](Skin%20Cancer.md). Often the first sign of melanoma is a change in the size, shape, color, or feel of a mole. Most melanomas have a black or black-blue area. Melanoma may also appear as a new mole. It may be black, abnormal, or "ugly looking."
 
 Thinking of "ABCDE" can help you remember what to watch for:
 
@@ -16,10 +16,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Skin Cancer
-- Sun Exposure
-- Tanning
+- [Skin Cancer](Skin%20Cancer.md)
+- [Sun Exposure](Sun%20Exposure.md)
+- [Tanning](Tanning.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/melanoma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/melanoma.html). General information, not medical advice.*

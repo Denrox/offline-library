@@ -1,8 +1,8 @@
 # Talking With Your Doctor
 
-How well you and your doctor or provider communicate with each other is one of the most important parts of getting good health care. Being prepared can help you make the most of your visit, whether it is in person or through [telehealth](https://medlineplus.gov/telehealth.html). Here are some things you can do to make the most of your appointment:
+How well you and your doctor or provider communicate with each other is one of the most important parts of getting good health care. Being prepared can help you make the most of your visit, whether it is in person or through [telehealth](Telehealth.md). Here are some things you can do to make the most of your appointment:
 
-- Make lists of any allergies you have and all the medicines, [herbs](https://medlineplus.gov/herbalmedicine.html), [vitamins](https://medlineplus.gov/vitamins.html), and [supplements](https://medlineplus.gov/dietarysupplements.html) you take.
+- Make lists of any allergies you have and all the medicines, [herbs](Herbal%20Medicine.md), [vitamins](Vitamins.md), and [supplements](Dietary%20Supplements.md) you take.
 - Make a list of the questions and concerns you want to talk about.
 - If you are having any health problems, write down a description of your symptoms. Include information such as when they started, what makes them better, and what makes them worse.
 - Ask a trusted friend or family member to come to the appointment with you.
@@ -17,10 +17,10 @@ How well you and your doctor or provider communicate with each other is one of t
 
 ## Related topics
 
-- Patient Rights
-- Patient Safety
-- Telehealth
+- [Patient Rights](Patient%20Rights.md)
+- [Patient Safety](Patient%20Safety.md)
+- [Telehealth](Telehealth.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/talkingwithyourdoctor.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/talkingwithyourdoctor.html). General information, not medical advice.*

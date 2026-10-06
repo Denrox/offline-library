@@ -2,7 +2,7 @@
 
 *Also called: Paralysis agitans, Shaking palsy*
 
-Parkinson's disease (PD) is a type of [movement disorder](https://medlineplus.gov/movementdisorders.html). It happens when nerve cells in the brain don't produce enough of a brain chemical called dopamine. Sometimes it is genetic, but most cases do not seem to run in families. Exposure to chemicals in the environment might play a role.
+Parkinson's disease (PD) is a type of [movement disorder](Movement%20Disorders.md). It happens when nerve cells in the brain don't produce enough of a brain chemical called dopamine. Sometimes it is genetic, but most cases do not seem to run in families. Exposure to chemicals in the environment might play a role.
 
 Symptoms begin gradually, often on one side of the body. Later they affect both sides. They include:
 
@@ -21,8 +21,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Movement Disorders
+- [Movement Disorders](Movement%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/parkinsonsdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/parkinsonsdisease.html). General information, not medical advice.*

@@ -5,21 +5,21 @@ Vaginal problems are some of the most common reasons women go to the doctor. The
 - Itching
 - Burning
 - Pain
-- [Abnormal bleeding](https://medlineplus.gov/vaginalbleeding.html)
+- [Abnormal bleeding](Vaginal%20Bleeding.md)
 - Discharge
 
-One common problem is [vaginitis](https://medlineplus.gov/vaginitis.html), an inflammation of the vagina. Other problems that affect the vagina include [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs), [vaginal cancer](https://medlineplus.gov/vaginalcancer.html), and [vulvar cancer](https://medlineplus.gov/vulvarcancer.html). Treatment of vaginal problems depends on the cause.
+One common problem is [vaginitis](Vaginitis.md), an inflammation of the vagina. Other problems that affect the vagina include [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs), [vaginal cancer](Vaginal%20Cancer.md), and [vulvar cancer](Vulvar%20Cancer.md). Treatment of vaginal problems depends on the cause.
 
 ## Related topics
 
-- Sexually Transmitted Infections
-- Vaginal Bleeding
-- Vaginal Cancer
-- Vaginitis
-- Vulvar Cancer
-- Vulvar Disorders
-- Yeast Infections
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
+- [Vaginal Bleeding](Vaginal%20Bleeding.md)
+- [Vaginal Cancer](Vaginal%20Cancer.md)
+- [Vaginitis](Vaginitis.md)
+- [Vulvar Cancer](Vulvar%20Cancer.md)
+- [Vulvar Disorders](Vulvar%20Disorders.md)
+- [Yeast Infections](Yeast%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vaginaldiseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vaginaldiseases.html). General information, not medical advice.*

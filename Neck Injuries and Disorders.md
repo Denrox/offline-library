@@ -8,9 +8,9 @@ Treatment depends on the cause, but may include applying ice, taking pain reliev
 
 ## Related topics
 
-- Head and Neck Cancer
-- Spine Injuries and Disorders
+- [Head and Neck Cancer](Head%20and%20Neck%20Cancer.md)
+- [Spine Injuries and Disorders](Spine%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/neckinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/neckinjuriesanddisorders.html). General information, not medical advice.*

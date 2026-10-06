@@ -15,8 +15,8 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Drug Use and Addiction
+- [Drug Use and Addiction](Drug%20Use%20and%20Addiction.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/methamphetamine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/methamphetamine.html). General information, not medical advice.*

@@ -4,32 +4,32 @@
 
 #### What is diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) is a disease in which your [blood glucose](https://medlineplus.gov/bloodglucose.html), or blood sugar, levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
+[Diabetes](Diabetes.md) is a disease in which your [blood glucose](Blood%20Glucose.md), or blood sugar, levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
 
-With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body doesn't make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood glucose levels.
+With [type 1 diabetes](Diabetes%20Type%201.md), your body doesn't make insulin. With [type 2 diabetes](Diabetes%20Type%202.md), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood glucose levels.
 
 #### What eye problems can diabetes cause?
 
-Over time, high blood glucose may damage the blood vessels and lenses in your eyes. This can lead to serious diabetic eye problems which can [harm your vision and sometimes cause blindness](https://medlineplus.gov/visionimpairmentandblindness.html). Some common diabetic eye problems include:
+Over time, high blood glucose may damage the blood vessels and lenses in your eyes. This can lead to serious diabetic eye problems which can [harm your vision and sometimes cause blindness](Vision%20Impairment%20and%20Blindness.md). Some common diabetic eye problems include:
 
-- **Diabetic retinopathy**, which is the leading cause of blindness in American adults. It affects blood vessels in the retina (the light-sensitive layer of tissue in the back of your eye). The blood vessels may swell and leak fluid into your eye. If it's not treated, it can cause serious problems such as vision loss and [retinal detachment](https://medlineplus.gov/retinaldetachment.html), where the retina is pulled away from its normal position at the back of your eye.
+- **Diabetic retinopathy**, which is the leading cause of blindness in American adults. It affects blood vessels in the retina (the light-sensitive layer of tissue in the back of your eye). The blood vessels may swell and leak fluid into your eye. If it's not treated, it can cause serious problems such as vision loss and [retinal detachment](Retinal%20Detachment.md), where the retina is pulled away from its normal position at the back of your eye.
 - **Diabetic macular edema (DME)**, which happens when blood vessels in the retina leak fluid into the macula (the part of the retina needed for sharp, central vision). This usually develops in people who already have other signs of diabetic retinopathy.
-- **[Glaucoma](https://medlineplus.gov/glaucoma.html)**, a group of eye diseases that can damage the [optic nerve](https://medlineplus.gov/opticnervedisorders.html) (the bundle of nerves that connects the eye to the brain). Glaucoma from diabetes happens when the blood vessels in the front of your eye are damaged, and new blood vessels grow near the iris (the colored part of your eye). The blood vessels block the space where fluid drains from your eye. This causes fluid to build up and pressure to increase inside your eye.
-- **[Cataract](https://medlineplus.gov/cataract.html)**, which is the leading cause of blindness worldwide. It happens when the clear lens in the front of your eye becomes cloudy. Cataracts are common as people age. But people with diabetes are more likely to develop cataracts younger and faster than people without diabetes. Researchers think that high glucose levels cause deposits to build up in the lenses of your eyes.
+- **[Glaucoma](Glaucoma.md)**, a group of eye diseases that can damage the [optic nerve](Optic%20Nerve%20Disorders.md) (the bundle of nerves that connects the eye to the brain). Glaucoma from diabetes happens when the blood vessels in the front of your eye are damaged, and new blood vessels grow near the iris (the colored part of your eye). The blood vessels block the space where fluid drains from your eye. This causes fluid to build up and pressure to increase inside your eye.
+- **[Cataract](Cataract.md)**, which is the leading cause of blindness worldwide. It happens when the clear lens in the front of your eye becomes cloudy. Cataracts are common as people age. But people with diabetes are more likely to develop cataracts younger and faster than people without diabetes. Researchers think that high glucose levels cause deposits to build up in the lenses of your eyes.
 
 #### Who is more likely to develop diabetic eye problems?
 
 Anyone with diabetes can develop diabetic eye disease. But your risk of developing it is higher if you have diabetes and:
 
 - Have had diabetes for a long time
-- Don't have good control over your high blood glucose or [high blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- Are [pregnant](https://medlineplus.gov/diabetesandpregnancy.html)
-- Have [high blood cholesterol](https://medlineplus.gov/cholesterol.html)
-- [Smoke tobacco](https://medlineplus.gov/smoking.html)
+- Don't have good control over your high blood glucose or [high blood pressure](High%20Blood%20Pressure.md)
+- Are [pregnant](Diabetes%20and%20Pregnancy.md)
+- Have [high blood cholesterol](Cholesterol.md)
+- [Smoke tobacco](Smoking.md)
 
 #### What are the symptoms of diabetic eye problems?
 
-In the early stages, diabetic eye problems usually don't have any symptoms. That's why regular dilated [eye exams](https://medlineplus.gov/eyecare.html) are so important, even if you think your eyes are healthy.
+In the early stages, diabetic eye problems usually don't have any symptoms. That's why regular dilated [eye exams](Eye%20Care.md) are so important, even if you think your eyes are healthy.
 
 You should also watch for sudden changes in your vision that could be signs of an emergency. Call your eye care professional right away if you notice any of these symptoms:
 
@@ -59,16 +59,16 @@ Treatment for diabetic eye problems depends on the problem and how serious it is
 - Surgery to remove blood and scar tissue or replace a cloudy lens
 - Eye drops to lower fluid pressure in the eye
 
-But these treatments aren't cures. Eye problems can come back. That's why your best defense against serious vision loss is to take control of your diabetes and get regular eye exams. It's also important to keep your [blood pressure](https://medlineplus.gov/howtopreventhighbloodpressure.html) and [cholesterol](https://medlineplus.gov/howtolowercholesterol.html) in a healthy range.
+But these treatments aren't cures. Eye problems can come back. That's why your best defense against serious vision loss is to take control of your diabetes and get regular eye exams. It's also important to keep your [blood pressure](How%20to%20Prevent%20High%20Blood%20Pressure.md) and [cholesterol](How%20to%20Lower%20Cholesterol.md) in a healthy range.
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Diabetes
-- Diabetes Complications
-- Vision Impairment and Blindness
+- [Diabetes](Diabetes.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Vision Impairment and Blindness](Vision%20Impairment%20and%20Blindness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabeticeyeproblems.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabeticeyeproblems.html). General information, not medical advice.*

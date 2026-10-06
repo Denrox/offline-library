@@ -1,6 +1,6 @@
 # Obesity in Children
 
-[Obesity](https://medlineplus.gov/obesity.html) means having too much body fat. It is different from being overweight, which means weighing too much. Both terms mean that a person's weight is greater than what's considered healthy for his or her height. Children grow at different rates, so it isn't always easy to know when a child has obesity or is overweight. Ask your health care provider to check whether your child's weight and height are in a healthy range.
+[Obesity](Obesity.md) means having too much body fat. It is different from being overweight, which means weighing too much. Both terms mean that a person's weight is greater than what's considered healthy for his or her height. Children grow at different rates, so it isn't always easy to know when a child has obesity or is overweight. Ask your health care provider to check whether your child's weight and height are in a healthy range.
 
 If a weight-loss program is necessary, involve the whole family in healthy habits so your child doesn't feel singled out. Encourage healthy eating by:
 
@@ -16,12 +16,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Body Weight
-- Child Nutrition
-- High Cholesterol in Children and Teens
-- Obesity
-- Weight Control
+- [Body Weight](Body%20Weight.md)
+- [Child Nutrition](Child%20Nutrition.md)
+- [High Cholesterol in Children and Teens](High%20Cholesterol%20in%20Children%20and%20Teens.md)
+- [Obesity](Obesity.md)
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/obesityinchildren.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/obesityinchildren.html). General information, not medical advice.*

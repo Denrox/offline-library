@@ -1,6 +1,6 @@
 # Genetic Counseling
 
-Genetic counseling provides information and support to people who have, or may be at risk for, [genetic disorders](https://medlineplus.gov/geneticdisorders.html). A genetic counselor meets with you to discuss genetic risks. The counseling may be for yourself or a family member. Or you may get it when you are planning or expecting a baby. You may follow up with [genetic testing](https://medlineplus.gov/genetictesting.html).
+Genetic counseling provides information and support to people who have, or may be at risk for, [genetic disorders](Genetic%20Disorders.md). A genetic counselor meets with you to discuss genetic risks. The counseling may be for yourself or a family member. Or you may get it when you are planning or expecting a baby. You may follow up with [genetic testing](Genetic%20Testing.md).
 
 There are many reasons to seek genetic counseling. You may consider it if you :
 
@@ -12,12 +12,12 @@ There are many reasons to seek genetic counseling. You may consider it if you :
 
 ## Related topics
 
-- Birth Defects
-- Family History
-- Genetic Disorders
-- Genetic Testing
-- Prenatal Testing
+- [Birth Defects](Birth%20Defects.md)
+- [Family History](Family%20History.md)
+- [Genetic Disorders](Genetic%20Disorders.md)
+- [Genetic Testing](Genetic%20Testing.md)
+- [Prenatal Testing](Prenatal%20Testing.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/geneticcounseling.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/geneticcounseling.html). General information, not medical advice.*

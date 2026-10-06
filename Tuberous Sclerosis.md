@@ -18,4 +18,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tuberoussclerosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tuberoussclerosis.html). General information, not medical advice.*

@@ -4,7 +4,7 @@
 
 #### What is osteoarthritis?
 
-Osteoarthritis, sometimes called OA, is a type of [arthritis](https://medlineplus.gov/arthritis.html) that only affects the joints, usually in the hands, knees, hips, neck, and lower back. It's the most common type of arthritis.
+Osteoarthritis, sometimes called OA, is a type of [arthritis](Arthritis.md) that only affects the joints, usually in the hands, knees, hips, neck, and lower back. It's the most common type of arthritis.
 
 In a healthy joint, the ends of the bones are covered with a smooth, slippery tissue called cartilage. The cartilage pads the bones and helps them glide easily when you move the joint. With osteoarthritis, the cartilage breaks down and becomes rough. Sometimes, all the cartilage wears away and the bones rub together. Bumps of extra bone called bone spurs may grow in the joint area.
 
@@ -33,7 +33,7 @@ Things that make you more likely to develop osteoarthritis include:
 - **Having a past injury or surgery on a joint.** This is often the cause of osteoarthritis in younger adults.
 - **Doing a lot of activities that overuse the joint.** This includes sports with a lot of jumping, twisting, running, or throwing.
 - **Having a joint that doesn't line up correctly.**
-- **A family history of osteoarthritis.** Some people [inherit genetic changes](https://medlineplus.gov/genetics/condition/osteoarthritis/) that increase their chance of developing osteoarthritis.
+- **A family history of osteoarthritis.** Some people inherit genetic changes that increase their chance of developing osteoarthritis.
 
 #### How is osteoarthritis diagnosed?
 
@@ -41,7 +41,7 @@ There is no specific test for osteoarthritis. To find out if you have osteoarthr
 
 - Will ask about your symptoms and medical history
 - Will do a physical exam
-- May use [x-rays](https://medlineplus.gov/xrays.html) or other [imaging tests](https://medlineplus.gov/diagnosticimaging.html) to look at your joints
+- May use [x-rays](X-Rays.md) or other [imaging tests](Diagnostic%20Imaging.md) to look at your joints
 - May order lab tests to make sure that a different problem isn't causing your symptoms
 
 #### What are the treatments for osteoarthritis?
@@ -54,9 +54,9 @@ Treatment usually begins with:
 - Weight loss, if needed, to improve pain, especially in your hips or knees
 - Braces or shoe inserts (orthotics) that a health care provider fits for you
 
-You can buy some [pain relievers](https://medlineplus.gov/painrelievers.html) and arthritis creams without a prescription. They can be helpful, but it's best to talk to your provider about using them. If they don't help enough, your provider may prescribe injections (shots) into the joint or prescription pain relievers.
+You can buy some [pain relievers](Pain%20Relievers.md) and arthritis creams without a prescription. They can be helpful, but it's best to talk to your provider about using them. If they don't help enough, your provider may prescribe injections (shots) into the joint or prescription pain relievers.
 
-[Complementary therapies](https://medlineplus.gov/complementaryandintegrativemedicine.html) may help some people. Massage can increase blood flow and bring warmth to the area. Some research shows that [acupuncture](https://medlineplus.gov/acupuncture.html) may help relieve osteoarthritis pain. Simple things like heat and ice can help, too.
+[Complementary therapies](Complementary%20and%20Integrative%20Medicine.md) may help some people. Massage can increase blood flow and bring warmth to the area. Some research shows that [acupuncture](Acupuncture.md) may help relieve osteoarthritis pain. Simple things like heat and ice can help, too.
 
 If none of these treatments help enough, surgery may be an option. You and your provider can decide if it's right for you.
 
@@ -64,9 +64,9 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Arthritis
-- Rheumatoid Arthritis
+- [Arthritis](Arthritis.md)
+- [Rheumatoid Arthritis](Rheumatoid%20Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/osteoarthritis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/osteoarthritis.html). General information, not medical advice.*

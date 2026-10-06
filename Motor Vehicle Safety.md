@@ -8,10 +8,10 @@ Every year thousands of people in the U.S. die from motor vehicle crashes. Tryin
 - Use car seats for children
 - Wear your seat belt
 - Don't speed or drive aggressively
-- Don't drive [impaired](https://medlineplus.gov/impaireddriving.html)
+- Don't drive [impaired](Impaired%20Driving.md)
 
 Safety also involves being aware of others. Share the road with bicycles and motorcycles, and watch for pedestrians.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/motorvehiclesafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/motorvehiclesafety.html). General information, not medical advice.*

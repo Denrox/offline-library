@@ -4,9 +4,9 @@
 
 #### What is fifth disease?
 
-Fifth disease, also called erythema infectiosum, is a [viral infection](https://medlineplus.gov/viralinfections.html) caused by parvovirus B19. This virus only infects people; it's not the same type of parvovirus that dogs and cats can get.
+Fifth disease, also called erythema infectiosum, is a [viral infection](Viral%20Infections.md) caused by parvovirus B19. This virus only infects people; it's not the same type of parvovirus that dogs and cats can get.
 
-Fifth disease mostly affects children. It often causes a bright red [rash](https://medlineplus.gov/rashes.html) on their cheeks (sometimes called a "slapped cheek" rash).
+Fifth disease mostly affects children. It often causes a bright red [rash](Rashes.md) on their cheeks (sometimes called a "slapped cheek" rash).
 
 In the United States, parvovirus B19 infections are more common in late winter, spring, and early summer. There are usually minor outbreaks of fifth disease about every 3 to 4 years.
 
@@ -19,7 +19,7 @@ Parvovirus B19, which causes fifth disease, can spread from person to person:
  - Someone who has the virus coughs and sneezes
  - You touch an item that has the virus on it
 - Through blood or blood products
-- From a pregnant parent to the baby [during pregnancy](https://medlineplus.gov/infectionsandpregnancy.html)
+- From a pregnant parent to the baby [during pregnancy](Infections%20and%20Pregnancy.md)
 
 You are most contagious early in your infection, when you usually only have a fever or cold-like symptoms. You are not likely to be contagious after you get later symptoms such as a rash and joint pain.
 
@@ -29,10 +29,10 @@ About 2 out of 10 people who get a B19 parvovirus infection will have no symptom
 
 But most people will get the symptoms of fifth disease, which are usually mild and can include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Headache](https://medlineplus.gov/headache.html)
-- [Cough](https://medlineplus.gov/cough.html)
-- [Sore throat](https://medlineplus.gov/sorethroat.html)
+- [Fever](Fever.md)
+- [Headache](Headache.md)
+- [Cough](Cough.md)
+- [Sore throat](Sore%20Throat.md)
 - Rashes
 - Joint pain
 
@@ -40,7 +40,7 @@ The "slapped cheek" rash is more common in children. They usually get the rash a
 
 Adults who get fifth disease might also have joint pain and swelling (called polyarthropathy syndrome).
 
-Sometimes the infection can cause serious health complications affecting the nerves, joints, or blood system. This is more likely to happen if you are pregnant, have a [blood disorder](https://medlineplus.gov/blooddisorders.html) such as [anemia](https://medlineplus.gov/anemia.html), or a [weakened immune system](https://medlineplus.gov/immunesystemanddisorders.html).
+Sometimes the infection can cause serious health complications affecting the nerves, joints, or blood system. This is more likely to happen if you are pregnant, have a [blood disorder](Blood%20Disorders.md) such as [anemia](Anemia.md), or a [weakened immune system](Immune%20System%20and%20Disorders.md).
 
 Because of these risks to you and some possible risks to your baby, contact your health care provider if you are pregnant and:
 
@@ -57,13 +57,13 @@ There is testing to show whether or not you have protection (immunity) against t
 
 There is no specific treatment for fifth disease. It is usually mild and goes away on its own.
 
-To feel better, get plenty of rest. Taking acetaminophen can help with the fever and pain. Do not give aspirin to children, because it may cause [Reye syndrome](https://medlineplus.gov/reyesyndrome.html). This is a rare, serious illness that can affect the brain and liver.
+To feel better, get plenty of rest. Taking acetaminophen can help with the fever and pain. Do not give aspirin to children, because it may cause [Reye syndrome](Reye%20Syndrome.md). This is a rare, serious illness that can affect the brain and liver.
 
 #### Can fifth disease be prevented?
 
 There is no vaccine to prevent fifth disease. But you can help protect yourself and others by:
 
-- [Washing your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water
+- [Washing your hands](Germs%20and%20Hygiene.md) often with soap and water
 - Covering your mouth and nose when you cough or sneeze
 - Avoiding touching your eyes, nose, and mouth with unwashed hands
 - Avoiding close contact with people who are sick
@@ -75,4 +75,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/fifthdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/fifthdisease.html). General information, not medical advice.*

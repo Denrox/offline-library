@@ -2,39 +2,39 @@
 
 #### What are birth defects?
 
-A birth defect is a problem that happens while a [baby is developing](https://medlineplus.gov/fetalhealthanddevelopment.html) in the mother's body. Most birth defects happen during the first 3 months of pregnancy. One out of every 33 babies in the United States is born with a birth defect.
+A birth defect is a problem that happens while a [baby is developing](Fetal%20Health%20and%20Development.md) in the mother's body. Most birth defects happen during the first 3 months of pregnancy. One out of every 33 babies in the United States is born with a birth defect.
 
-A birth defect may affect how the body looks, works, or both. Some birth defects like [cleft lip](https://medlineplus.gov/cleftlipandpalate.html) or [neural tube defects](https://medlineplus.gov/neuraltubedefects.html) are structural problems that can be easy to see. Others, like [heart disease](https://medlineplus.gov/heartdiseases.html), are found using special tests. Birth defects can range from mild to severe. How a birth defect affects a child's life depends mostly on which organ or body part is involved and how severe the defect is.
+A birth defect may affect how the body looks, works, or both. Some birth defects like [cleft lip](Cleft%20Lip%20and%20Palate.md) or [neural tube defects](Neural%20Tube%20Defects.md) are structural problems that can be easy to see. Others, like [heart disease](Heart%20Diseases.md), are found using special tests. Birth defects can range from mild to severe. How a birth defect affects a child's life depends mostly on which organ or body part is involved and how severe the defect is.
 
 #### What causes birth defects?
 
 For some birth defects, researchers know the cause. But for many birth defects, the exact cause is unknown. Researchers think that most birth defects are caused by a complex mix of factors, which can include:
 
-- **Genetics.** One or more genes might have a change or mutation that prevents them from working properly. For example, this happens in [Fragile X syndrome](https://medlineplus.gov/fragilexsyndrome.html). With some defects, a gene or part of the gene might be missing.
-- **Chromosomal problems.** In some cases, a chromosome or part of a chromosome might be missing. This is what happens in [Turner syndrome](https://medlineplus.gov/turnersyndrome.html). In other cases, such as with [Down syndrome](https://medlineplus.gov/downsyndrome.html), the child has an extra chromosome.
-- **Exposures to [medicines](https://medlineplus.gov/pregnancyandmedicines.html), chemicals, or [other toxic substances](https://medlineplus.gov/reproductivehazards.html).** For example, alcohol misuse can cause [fetal alcohol spectrum disorders](https://medlineplus.gov/fetalalcoholspectrumdisorders.html).
-- **[Infections during pregnancy](https://medlineplus.gov/infectionsandpregnancy.html).** For example, infection with [Zika virus](https://medlineplus.gov/zikavirus.html) during pregnancy can cause a serious [defect in the brain](https://medlineplus.gov/brainmalformations.html).
-- **Lack of certain nutrients.** Not getting enough [folic acid](https://medlineplus.gov/folicacid.html) before and during pregnancy is a key factor in causing neural tube defects.
+- **Genetics.** One or more genes might have a change or mutation that prevents them from working properly. For example, this happens in [Fragile X syndrome](Fragile%20X%20Syndrome.md). With some defects, a gene or part of the gene might be missing.
+- **Chromosomal problems.** In some cases, a chromosome or part of a chromosome might be missing. This is what happens in [Turner syndrome](Turner%20Syndrome.md). In other cases, such as with [Down syndrome](Down%20Syndrome.md), the child has an extra chromosome.
+- **Exposures to [medicines](Pregnancy%20and%20Medicines.md), chemicals, or [other toxic substances](Reproductive%20Hazards.md).** For example, alcohol misuse can cause [fetal alcohol spectrum disorders](Fetal%20Alcohol%20Spectrum%20Disorders.md).
+- **[Infections during pregnancy](Infections%20and%20Pregnancy.md).** For example, infection with [Zika virus](Zika%20Virus.md) during pregnancy can cause a serious [defect in the brain](Brain%20Malformations.md).
+- **Lack of certain nutrients.** Not getting enough [folic acid](Folic%20Acid.md) before and during pregnancy is a key factor in causing neural tube defects.
 
 #### Who is at risk of having a baby with birth defects?
 
 Certain factors may increase the chances of having a baby with a birth defect, such as:
 
-- Smoking, drinking alcohol, or taking certain "street" drugs [during pregnancy](https://medlineplus.gov/pregnancyandsubstanceuse.html)
-- Having certain medical conditions, such as [obesity](https://medlineplus.gov/obesity.html) or uncontrolled [diabetes](https://medlineplus.gov/diabetes.html), before and during pregnancy
+- Smoking, drinking alcohol, or taking certain "street" drugs [during pregnancy](Pregnancy%20and%20Substance%20Use.md)
+- Having certain medical conditions, such as [obesity](Obesity.md) or uncontrolled [diabetes](Diabetes.md), before and during pregnancy
 - Taking certain medicines
-- Having someone in your family with a birth defect. To learn more about your risk of having a baby with a birth defect, you can talk with a [genetic counselor](https://medlineplus.gov/geneticcounseling.html),
+- Having someone in your family with a birth defect. To learn more about your risk of having a baby with a birth defect, you can talk with a [genetic counselor](Genetic%20Counseling.md),
 - Being an older mother, typically over the age of 34 years
 
 #### How are birth defects diagnosed?
 
-Health care providers can diagnose some birth defects during pregnancy, using [prenatal testing](https://medlineplus.gov/prenataltesting.html). That's why it important to get regular [prenatal care](https://medlineplus.gov/prenatalcare.html).
+Health care providers can diagnose some birth defects during pregnancy, using [prenatal testing](Prenatal%20Testing.md). That's why it important to get regular [prenatal care](Prenatal%20Care.md).
 
-Other birth defects may not be found until after the baby is born. Providers may find them through [newborn screening](https://medlineplus.gov/newbornscreening.html). Some defects, such as club foot, are obvious right away. Other times, the health care provider may not discover a defect until later in life, when the child has symptoms.
+Other birth defects may not be found until after the baby is born. Providers may find them through [newborn screening](Newborn%20Screening.md). Some defects, such as club foot, are obvious right away. Other times, the health care provider may not discover a defect until later in life, when the child has symptoms.
 
 #### What are the treatments for birth defects?
 
-Children with birth defects often need special care and treatments. Because the symptoms and problems caused by birth defects vary, the treatments also vary. Possible treatments may include surgery, medicines, [assistive devices](https://medlineplus.gov/assistivedevices.html), physical therapy, and speech therapy.
+Children with birth defects often need special care and treatments. Because the symptoms and problems caused by birth defects vary, the treatments also vary. Possible treatments may include surgery, medicines, [assistive devices](Assistive%20Devices.md), physical therapy, and speech therapy.
 
 Often, children with birth defects need a variety of services and may need to see several specialists. The primary health care provider can coordinate the special care that the child needs.
 
@@ -53,19 +53,19 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Brain Malformations
-- Chiari Malformation
-- Cleft Lip and Palate
-- Congenital Heart Defects
-- Craniofacial Abnormalities
-- Fetal Alcohol Spectrum Disorders
-- Fetal Health and Development
-- Genetic Brain Disorders
-- Genetic Disorders
-- Genetic Testing
-- Neural Tube Defects
-- Prenatal Testing
+- [Brain Malformations](Brain%20Malformations.md)
+- [Chiari Malformation](Chiari%20Malformation.md)
+- [Cleft Lip and Palate](Cleft%20Lip%20and%20Palate.md)
+- [Congenital Heart Defects](Congenital%20Heart%20Defects.md)
+- [Craniofacial Abnormalities](Craniofacial%20Abnormalities.md)
+- [Fetal Alcohol Spectrum Disorders](Fetal%20Alcohol%20Spectrum%20Disorders.md)
+- [Fetal Health and Development](Fetal%20Health%20and%20Development.md)
+- [Genetic Brain Disorders](Genetic%20Brain%20Disorders.md)
+- [Genetic Disorders](Genetic%20Disorders.md)
+- [Genetic Testing](Genetic%20Testing.md)
+- [Neural Tube Defects](Neural%20Tube%20Defects.md)
+- [Prenatal Testing](Prenatal%20Testing.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/birthdefects.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/birthdefects.html). General information, not medical advice.*

@@ -4,7 +4,7 @@ Your kidneys make urine by filtering wastes and extra water from your blood. The
 
 The ureters are about 8 to 10 inches long. Muscles in the ureter walls tighten and relax to force urine down and away from the kidneys. Small amounts of urine flow from the ureters into the bladder about every 10 to 15 seconds.
 
-Sometimes the ureters can become blocked or injured. This can block the flow of urine to the bladder. If urine stands still or backs up the ureter, you may get a [urinary tract infection](https://medlineplus.gov/urinarytractinfections.html).
+Sometimes the ureters can become blocked or injured. This can block the flow of urine to the bladder. If urine stands still or backs up the ureter, you may get a [urinary tract infection](Urinary%20Tract%20Infections.md).
 
 Doctors diagnose problems with the ureters using different tests. These include urine tests, x-rays, and examination of the ureter with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.
 
@@ -12,8 +12,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Bladder Diseases
+- [Bladder Diseases](Bladder%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ureteraldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ureteraldisorders.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 #### What is calcium and why do I need it?
 
-Calcium is a [mineral](https://medlineplus.gov/minerals.html), a nutrient that you need (in small amounts) to keep your body healthy. You have more calcium in your body than any other mineral.
+Calcium is a [mineral](Minerals.md), a nutrient that you need (in small amounts) to keep your body healthy. You have more calcium in your body than any other mineral.
 
 Calcium has many important jobs:
 
@@ -14,8 +14,8 @@ Calcium has many important jobs:
 
 Not getting enough calcium can cause several conditions, including:
 
-- [Osteoporosis](https://medlineplus.gov/osteoporosis.html), a disease which can make your bones weaker and more likely to break.
-- [Rickets](https://medlineplus.gov/rickets.html), a disease in children that causes soft, weak bones.
+- [Osteoporosis](Osteoporosis.md), a disease which can make your bones weaker and more likely to break.
+- [Rickets](Rickets.md), a disease in children that causes soft, weak bones.
 - Osteomalacia, a condition which causes soft bones in children and adults.
 
 #### How do I get calcium?
@@ -25,7 +25,7 @@ You can get calcium from foods and supplements. You may be able to get enough ca
 - Dairy products such as milk, cheese, and yogurt. These are the main food sources of calcium for most people in the United States.
 - Leafy, green vegetables such as kale, broccoli, and Chinese cabbage (bok choi).
 - Fish with soft bones that you can eat, such as canned sardines and salmon.
-- Calcium-enriched foods such as breakfast cereals, fruit juices, soy and rice drinks, and tofu. The [product labels](https://medlineplus.gov/foodlabeling.html) for these foods will show how much calcium they have.
+- Calcium-enriched foods such as breakfast cereals, fruit juices, soy and rice drinks, and tofu. The [product labels](Food%20Labeling.md) for these foods will show how much calcium they have.
 
 Calcium is available in supplements. It is also included in many multivitamins. The two main forms of calcium supplements are calcium carbonate and calcium citrate:
 
@@ -34,7 +34,7 @@ Calcium is available in supplements. It is also included in many multivitamins. 
 
 Calcium is absorbed best when you take 500 mg or less at one time. If you are taking more than that amount each day, take a smaller dose twice a day rather than taking it all at once.
 
-Calcium supplements might cause [gas](https://medlineplus.gov/gas.html), bloating, and [constipation](https://medlineplus.gov/constipation.html) in some people. If you have any of these symptoms, you could try:
+Calcium supplements might cause [gas](Gas.md), bloating, and [constipation](Constipation.md) in some people. If you have any of these symptoms, you could try:
 
 - Spreading out the calcium dose throughout the day
 - Taking it with meals
@@ -65,17 +65,17 @@ Certain people may have trouble getting enough calcium, including:
 - Postmenopausal women; your body absorbs and retains less calcium after menopause
 - People who don't drink milk or eat other dairy products
 
-Check with your health care provider to see if you need to take calcium supplements, and if so, how much you should take. Your provider may want to first do a [calcium blood test](https://medlineplus.gov/lab-tests/calcium-blood-test/) to see if you are getting enough of it.
+Check with your health care provider to see if you need to take calcium supplements, and if so, how much you should take. Your provider may want to first do a calcium blood test to see if you are getting enough of it.
 
 NIH: National Institutes of Health Office of Dietary Supplements
 
 ## Related topics
 
-- Fluid and Electrolyte Balance
-- Minerals
-- Osteoporosis
-- Vitamins
+- [Fluid and Electrolyte Balance](Fluid%20and%20Electrolyte%20Balance.md)
+- [Minerals](Minerals.md)
+- [Osteoporosis](Osteoporosis.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/calcium.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/calcium.html). General information, not medical advice.*

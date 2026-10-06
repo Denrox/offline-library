@@ -10,16 +10,16 @@ Urinary incontinence (UI) is the loss of bladder control, or being unable to con
 
 There are several different types of UI. Each type has different symptoms and causes:
 
-- **Stress incontinence** happens when stress or pressure on your bladder causes you to leak urine. This could be due to coughing, sneezing, laughing, lifting something heavy, or physical activity. Causes include [weak pelvic floor muscles](https://medlineplus.gov/pelvicfloordisorders.html) and the bladder being out of its normal position.
-- **Urge, or urgency, incontinence** happens when you have a strong urge (need) to urinate, and some urine leaks out before you can make it to the toilet. It is often related to an [overactive bladder](https://medlineplus.gov/overactivebladder.html). Urge incontinence is most common in older people. It can sometimes be a sign of a [urinary tract infection (UTI)](urinarytractinfections.html). It can also happen in some [neurological conditions](https://medlineplus.gov/neurologicdiseases.html), such as [multiple sclerosis](https://medlineplus.gov/multiplesclerosis.html) and [spinal cord injuries](https://medlineplus.gov/spinalcordinjuries.html).
-- **Overflow incontinence** happens when your bladder doesn't empty all the way. This causes too much urine to stay in your bladder. Your bladder gets too full, and you leak urine. This form of UI is most common in men. Some of the causes include tumors, [kidney stones](https://medlineplus.gov/kidneystones.html), [diabetes](https://medlineplus.gov/diabetes.html), and certain medicines.
-- **Functional incontinence** happens when a physical or mental [disability](https://medlineplus.gov/disabilities.html), [trouble speaking](https://medlineplus.gov/speechandcommunicationdisorders.html), or some other problem keeps you from getting to the toilet in time. For example, someone with arthritis may have trouble unbuttoning his or her pants, or a person with [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html) may not realize they need to plan to use the toilet.
+- **Stress incontinence** happens when stress or pressure on your bladder causes you to leak urine. This could be due to coughing, sneezing, laughing, lifting something heavy, or physical activity. Causes include [weak pelvic floor muscles](Pelvic%20Floor%20Disorders.md) and the bladder being out of its normal position.
+- **Urge, or urgency, incontinence** happens when you have a strong urge (need) to urinate, and some urine leaks out before you can make it to the toilet. It is often related to an [overactive bladder](Overactive%20Bladder.md). Urge incontinence is most common in older people. It can sometimes be a sign of a urinary tract infection (UTI). It can also happen in some [neurological conditions](Neurologic%20Diseases.md), such as [multiple sclerosis](Multiple%20Sclerosis.md) and [spinal cord injuries](Spinal%20Cord%20Injuries.md).
+- **Overflow incontinence** happens when your bladder doesn't empty all the way. This causes too much urine to stay in your bladder. Your bladder gets too full, and you leak urine. This form of UI is most common in men. Some of the causes include tumors, [kidney stones](Kidney%20Stones.md), [diabetes](Diabetes.md), and certain medicines.
+- **Functional incontinence** happens when a physical or mental [disability](Disabilities.md), [trouble speaking](Speech%20and%20Communication%20Disorders.md), or some other problem keeps you from getting to the toilet in time. For example, someone with arthritis may have trouble unbuttoning his or her pants, or a person with [Alzheimer's disease](Alzheimer%27s%20Disease.md) may not realize they need to plan to use the toilet.
 - **Mixed incontinence** means that you have more than one type of incontinence. It's usually a combination of stress and urge incontinence.
 - **Transient incontinence** is urine leakage that is caused by a temporary (transient) situation such as an infection or new medicine. Once the cause is removed, the incontinence goes away.
 - **Bedwetting** refers to urine leakage during sleep. This is most common in children, but adults can also have it.
 
  - Bedwetting is normal for many children. It is more common in boys. Bedwetting is often not considered a health problem, especially when it runs in the family. But if it still happens often at age 5 and older, it may be because of a bladder control problem. This problem could be caused by slow physical development, an illness, making too much urine at night, or another problem. Sometimes there is more than one cause.
- - In adults, the causes include some medicines, [caffeine](https://medlineplus.gov/caffeine.html), and [alcohol](https://medlineplus.gov/alcohol.html). It can also be caused by certain health problems, such as [diabetes insipidus](https://medlineplus.gov/diabetesinsipidus.html), a urinary tract infection (UTI), kidney stones, [enlarged prostate](https://medlineplus.gov/enlargedprostatebph.html) (BPH), and [sleep apnea](https://medlineplus.gov/sleepapnea.html).
+ - In adults, the causes include some medicines, [caffeine](Caffeine.md), and [alcohol](Alcohol.md). It can also be caused by certain health problems, such as [diabetes insipidus](Diabetes%20Insipidus.md), a urinary tract infection (UTI), kidney stones, [enlarged prostate](Enlarged%20Prostate%20%28BPH%29.md) (BPH), and [sleep apnea](Sleep%20Apnea.md).
 
 #### Who is at risk for urinary incontinence (UI)?
 
@@ -27,10 +27,10 @@ In adults, you are at higher risk of developing UI if you:
 
 - Are female, especially after going through pregnancy, childbirth, and/or menopause
 - Are older. As you age, your urinary tract muscles weaken, making it harder to hold in urine.
-- Are a man with [prostate problems](https://medlineplus.gov/prostatediseases.html)
-- Have certain health problems, such as diabetes, [obesity](https://medlineplus.gov/obesity.html), or long-lasting [constipation](https://medlineplus.gov/constipation.html)
+- Are a man with [prostate problems](Prostate%20Diseases.md)
+- Have certain health problems, such as diabetes, [obesity](Obesity.md), or long-lasting [constipation](Constipation.md)
 - Are a smoker
-- Have a [birth defect](https://medlineplus.gov/birthdefects.html) that affects the structure of your urinary tract
+- Have a [birth defect](Birth%20Defects.md) that affects the structure of your urinary tract
 
 In children, bedwetting is more common in younger children, boys, and those whose parents wet the bed when they were children.
 
@@ -40,9 +40,9 @@ Your health care provider may use many tools to make a diagnosis:
 
 - A medical history, which includes asking about your symptoms. Your provider may ask you to keep a bladder diary for a few days before your appointment. The bladder diary includes how much and when you drink liquids, when and how much you urinate, and whether you leak urine.
 - A physical exam, which can include a rectal exam. Women may also get a pelvic exam.
-- [Urine](https://medlineplus.gov/urinalysis.html) and/or blood tests
+- [Urine](Urinalysis.md) and/or blood tests
 - Bladder function tests
-- [Imaging tests](https://medlineplus.gov/diagnosticimaging.html)
+- [Imaging tests](Diagnostic%20Imaging.md)
 
 #### What are the treatments for urinary incontinence (UI)?
 
@@ -77,10 +77,10 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Overactive Bladder
-- Pelvic Floor Disorders
-- Urinary Tract Infections
+- [Overactive Bladder](Overactive%20Bladder.md)
+- [Pelvic Floor Disorders](Pelvic%20Floor%20Disorders.md)
+- [Urinary Tract Infections](Urinary%20Tract%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/urinaryincontinence.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/urinaryincontinence.html). General information, not medical advice.*

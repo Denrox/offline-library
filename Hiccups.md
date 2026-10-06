@@ -38,4 +38,4 @@ Some people have chronic hiccups. This means that the hiccups last more than a f
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hiccups.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hiccups.html). General information, not medical advice.*

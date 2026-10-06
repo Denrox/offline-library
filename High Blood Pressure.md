@@ -29,11 +29,11 @@ There are two main types of high blood pressure:
 
 #### Why do I need to worry about high blood pressure?
 
-When your blood pressure stays high over time, it causes the heart to pump harder and work overtime, possibly leading to serious health problems such as [heart attack](https://medlineplus.gov/heartattack.html), [stroke](https://medlineplus.gov/stroke.html), [heart failure](https://medlineplus.gov/heartfailure.html), and [kidney failure](https://medlineplus.gov/kidneyfailure.html).
+When your blood pressure stays high over time, it causes the heart to pump harder and work overtime, possibly leading to serious health problems such as [heart attack](Heart%20Attack.md), [stroke](Stroke.md), [heart failure](Heart%20Failure.md), and [kidney failure](Kidney%20Failure.md).
 
 #### What are the treatments for high blood pressure?
 
-Treatments for high blood pressure include [heart-healthy lifestyle changes](https://medlineplus.gov/howtopreventhighbloodpressure.html) and [medicines](https://medlineplus.gov/bloodpressuremedicines.html).
+Treatments for high blood pressure include [heart-healthy lifestyle changes](How%20to%20Prevent%20High%20Blood%20Pressure.md) and [medicines](Blood%20Pressure%20Medicines.md).
 
 You will work with your provider to come up with a treatment plan. It may include only the lifestyle changes. These changes, such as heart-healthy eating and exercise, can be very effective. But sometimes the changes do not control or lower your high blood pressure. Then you may need to take medicine. There are different types of blood pressure medicines. Some people need to take more than one type.
 
@@ -43,12 +43,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Blood Pressure Medicines
-- DASH Eating Plan
-- High Blood Pressure in Pregnancy
-- How to Prevent High Blood Pressure
-- Low Blood Pressure
+- [Blood Pressure Medicines](Blood%20Pressure%20Medicines.md)
+- [DASH Eating Plan](DASH%20Eating%20Plan.md)
+- [High Blood Pressure in Pregnancy](High%20Blood%20Pressure%20in%20Pregnancy.md)
+- [How to Prevent High Blood Pressure](How%20to%20Prevent%20High%20Blood%20Pressure.md)
+- [Low Blood Pressure](Low%20Blood%20Pressure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/highbloodpressure.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/highbloodpressure.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Cellulitis
 
-Cellulitis is an infection of the skin and deep underlying tissues. Group A strep ([streptococcal](https://medlineplus.gov/streptococcalinfections.html)) bacteria are the most common cause. The bacteria enter your body when you get an injury such as a bruise, burn, surgical cut, or wound.
+Cellulitis is an infection of the skin and deep underlying tissues. Group A strep ([streptococcal](Streptococcal%20Infections.md)) bacteria are the most common cause. The bacteria enter your body when you get an injury such as a bruise, burn, surgical cut, or wound.
 
 Symptoms include:
 
@@ -12,9 +12,9 @@ Your health care provider may take a sample or culture from your skin or do a bl
 
 ## Related topics
 
-- Staphylococcal Infections
-- Streptococcal Infections
+- [Staphylococcal Infections](Staphylococcal%20Infections.md)
+- [Streptococcal Infections](Streptococcal%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cellulitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cellulitis.html). General information, not medical advice.*

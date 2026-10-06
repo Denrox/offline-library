@@ -2,9 +2,9 @@
 
 #### What is a food allergy?
 
-A food [allergy](https://medlineplus.gov/allergy.html) is an abnormal [immune system](https://medlineplus.gov/immunesystemanddisorders.html) reaction to certain foods. Your immune system normally protects you from germs. But if you have a food allergy, your immune system mistakenly reacts to certain foods as if they were harmful. This reaction is usually mild. But in some cases, it can be serious or even life-threatening.
+A food [allergy](Allergy.md) is an abnormal [immune system](Immune%20System%20and%20Disorders.md) reaction to certain foods. Your immune system normally protects you from germs. But if you have a food allergy, your immune system mistakenly reacts to certain foods as if they were harmful. This reaction is usually mild. But in some cases, it can be serious or even life-threatening.
 
-A food intolerance is different than a food allergy. If you have a food intolerance, you also have symptoms when you eat that food. But these are typically just digestive symptoms such as bloating and [gas](https://medlineplus.gov/gas.html). Also, an intolerance is not an immune system reaction.
+A food intolerance is different than a food allergy. If you have a food intolerance, you also have symptoms when you eat that food. But these are typically just digestive symptoms such as bloating and [gas](Gas.md). Also, an intolerance is not an immune system reaction.
 
 Most food allergies are caused by:
 
@@ -26,8 +26,8 @@ Both children and adults can have food allergies. Some children will outgrow the
 
 Certain factors can make you more likely to have a food allergy. They include:
 
-- **Having [eczema](https://medlineplus.gov/eczema.html)**, a disease that causes inflammation, redness, and irritation of the skin. Your immune system also plays a role in eczema.
-- **Having asthma or other allergies**, such as [hay fever](https://medlineplus.gov/hayfever.html).
+- **Having [eczema](Eczema.md)**, a disease that causes inflammation, redness, and irritation of the skin. Your immune system also plays a role in eczema.
+- **Having asthma or other allergies**, such as [hay fever](Hay%20Fever.md).
 - **Your genes.** Certain genes may influence the development of food allergies. And you are more likely to have food allergies if someone in your family has allergies, asthma, or eczema.
 
 #### What are the symptoms of food allergies?
@@ -36,18 +36,18 @@ If you are allergic to a food you have eaten, you may have a variety of symptoms
 
 Food allergy symptoms usually start within a few minutes to two hours after you eat that food. They may include:
 
-- [Hives](https://medlineplus.gov/hives.html)
+- [Hives](Hives.md)
 - Flushed skin or rash
 - Tingling or itchy sensation in the mouth
 - Face, tongue, or lip swelling
-- [Vomiting](https://medlineplus.gov/nauseaandvomiting.html) and/or [diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Vomiting](Nausea%20and%20Vomiting.md) and/or [diarrhea](Diarrhea.md)
 - Abdominal (belly) cramps
-- [Coughing](https://medlineplus.gov/cough.html) or wheezing
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html) and/or lightheadedness
+- [Coughing](Cough.md) or wheezing
+- [Dizziness](Dizziness%20and%20Vertigo.md) and/or lightheadedness
 - Swelling of the throat and vocal cords
-- [Trouble breathing](https://medlineplus.gov/breathingproblems.html)
+- [Trouble breathing](Breathing%20Problems.md)
 
-In rare cases, a food allergy can cause a life-threatening reaction called [anaphylaxis](https://medlineplus.gov/anaphylaxis.html). It may start out with some milder symptoms, but then it becomes more serious. It can lead to:
+In rare cases, a food allergy can cause a life-threatening reaction called [anaphylaxis](Anaphylaxis.md). It may start out with some milder symptoms, but then it becomes more serious. It can lead to:
 
 - Narrowed airways in the lungs
 - Severe trouble breathing because of swelling in the throat
@@ -62,7 +62,7 @@ To find out if you have a food allergy, your health care provider will
 
 - Ask about your symptoms, family health history, and medical history, including other allergies.
 - Likely do a physical exam.
-- Do food [allergy testing](https://medlineplus.gov/lab-tests/food-allergy-testing/). This could involve skin testing, blood testing, a food elimination diet, and/or an oral food challenge test. An oral food challenge test is the most accurate food allergy test.
+- Do food allergy testing. This could involve skin testing, blood testing, a food elimination diet, and/or an oral food challenge test. An oral food challenge test is the most accurate food allergy test.
 
 #### What are the treatments for food allergies?
 
@@ -70,7 +70,7 @@ There is no cure for food allergies. The only way to prevent a reaction is to av
 
 There are medicines for people with food allergies. They include:
 
-- Medicines to reduce food allergy symptoms, including antihistamines and [corticosteroids](https://medlineplus.gov/steroids.html).
+- Medicines to reduce food allergy symptoms, including antihistamines and [corticosteroids](Steroids.md).
 - Medicines to reduce allergic reactions, including severe reactions.
 - Epinephrine, a medicine to treat anaphylaxis. Your provider may give you a prescription for an epinephrine auto-injector. It is a device used to inject epinephrine when someone is having symptoms of anaphylaxis. If you have been prescribed one, it's important to learn how to use it and to carry it with you at all times.
 
@@ -78,11 +78,11 @@ If you have a food allergy, it's a good idea to have a medical alert bracelet th
 
 ## Related topics
 
-- Allergy
-- Anaphylaxis
-- Celiac Disease
-- Lactose Intolerance
+- [Allergy](Allergy.md)
+- [Anaphylaxis](Anaphylaxis.md)
+- [Celiac Disease](Celiac%20Disease.md)
+- [Lactose Intolerance](Lactose%20Intolerance.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/foodallergy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/foodallergy.html). General information, not medical advice.*

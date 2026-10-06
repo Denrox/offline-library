@@ -16,4 +16,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/neurofibromatosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/neurofibromatosis.html). General information, not medical advice.*

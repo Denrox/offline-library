@@ -2,7 +2,7 @@
 
 #### Why is weight control important?
 
-If you are struggling with your weight, you are not alone. In the United States, more than 70 percent of adults are overweight or have [obesity](https://medlineplus.gov/obesity.html). Having this extra weight raises your risk for many health conditions, such as [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), [heart disease](https://medlineplus.gov/heartdiseases.html), [kidney disease](https://medlineplus.gov/kidneydiseases.html), and certain cancers.
+If you are struggling with your weight, you are not alone. In the United States, more than 70 percent of adults are overweight or have [obesity](Obesity.md). Having this extra weight raises your risk for many health conditions, such as [type 2 diabetes](Diabetes%20Type%202.md), [heart disease](Heart%20Diseases.md), [kidney disease](Kidney%20Diseases.md), and certain cancers.
 
 Reaching and staying at a healthy weight can be challenging. But having a healthy lifestyle, including healthy eating patterns and regular physical activity, can help you lose weight. It can also lower your chance of developing weight-related health conditions.
 
@@ -12,23 +12,23 @@ You gain weight when you take in more calories (through food and drinks) than yo
 
 - **The world around you.** Your home, community, and workplace all may affect how you make daily lifestyle choices. For example:
 
- - It is often easier to find food and beverages high in calories, sugar, and [fat](https://medlineplus.gov/dietaryfats.html). For instance, vending machines, cafeterias, and special events may not offer healthy, lower calorie options.
+ - It is often easier to find food and beverages high in calories, sugar, and [fat](Dietary%20Fats.md). For instance, vending machines, cafeterias, and special events may not offer healthy, lower calorie options.
  - Less healthy foods may be cheaper than healthier foods.
  - Many people are getting less physical activity because they are spending more time using smartphones and other devices.
 - **Families.** Overweight and obesity tend to run in families. This suggests that genes may play a role in weight gain. Families may also share eating and lifestyle habits. For example, some families may often have foods and drinks that are high in calories, sugar, and fat. And some families may tend to be less active and spend more time doing things like sitting and watching TV or using computers.
 - **Not enough sleep.** People who don't get enough sleep may eat more calories and snack more.
 - **Emotions.** Some people eat when they feel bored, sad, or stressed, even if they are not hungry.
-- **Medicines and health conditions.** Taking certain medicines, such as [steroids](https://medlineplus.gov/steroids.html) and certain [antidepressants](https://medlineplus.gov/antidepressants.html), can lead to weight gain. Some chronic health problems can also cause you to gain weight. A few examples are [Cushing's syndrome](https://medlineplus.gov/cushingssyndrome.html) and [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS).
+- **Medicines and health conditions.** Taking certain medicines, such as [steroids](Steroids.md) and certain [antidepressants](Antidepressants.md), can lead to weight gain. Some chronic health problems can also cause you to gain weight. A few examples are [Cushing's syndrome](Cushing%27s%20Syndrome.md) and [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS).
 
 #### How can I get to and stay at a healthy weight?
 
 Getting to and staying at a healthy weight involves finding a balance of food and activity. To lose weight, you need to take in fewer calories than you use up. Some ways to do this are:
 
-- Eating more nutrient-rich foods, such as foods with lots of [vitamins](https://medlineplus.gov/vitamins.html), [minerals](https://medlineplus.gov/minerals.html), and [fiber](https://medlineplus.gov/dietaryfiber.html).
-- Eating and drinking less of the foods and beverages that have lots of calories, [salt](https://medlineplus.gov/sodium.html), sugar, and fat.
-- Limiting [alcohol](https://medlineplus.gov/alcohol.html).
+- Eating more nutrient-rich foods, such as foods with lots of [vitamins](Vitamins.md), [minerals](Minerals.md), and [fiber](Dietary%20Fiber.md).
+- Eating and drinking less of the foods and beverages that have lots of calories, [salt](Sodium.md), sugar, and fat.
+- Limiting [alcohol](Alcohol.md).
 - Finding healthier ways to cook, such as using healthier oils to cook with and baking or grilling instead of frying foods.
-- Getting more [physical activity](https://medlineplus.gov/howmuchexercisedoineed.html). The general recommendation is for adults to get 150 minutes of physical activity each week. This time can be broken down into short bursts of activity throughout your day. Types of physical activity include:
+- Getting more [physical activity](How%20Much%20Exercise%20Do%20I%20Need.md). The general recommendation is for adults to get 150 minutes of physical activity each week. This time can be broken down into short bursts of activity throughout your day. Types of physical activity include:
 
  - Aerobic activity, which is also called cardio. It uses your large muscle groups (chest, legs, and back) to speed up your heart rate and breathing.
  - Muscle-strengthening activity, which is also called strength training. It works your muscles by making you push or pull against something.
@@ -39,7 +39,7 @@ You may decide to do these lifestyle changes on your own, or you may decide to t
 
 If making lifestyle changes or doing a weight-loss program are not enough to help you lose weight, your provider may prescribe medicines. These medicines are meant to help people who have weight-related health conditions and should be used along with healthy eating and physical activity. The prescription medicines to treat overweight and obesity work in different ways. Some may help you feel less hungry or full sooner. Others may make it harder for your body to absorb fat from the foods you eat.
 
-Another treatment is [weight loss surgery](https://medlineplus.gov/weightlosssurgery.html). Your provider may recommend the surgery if you have severe obesity or serious obesity-related health problems and you have not been able to lose enough weight.
+Another treatment is [weight loss surgery](Weight%20Loss%20Surgery.md). Your provider may recommend the surgery if you have severe obesity or serious obesity-related health problems and you have not been able to lose enough weight.
 
 #### How can I maintain my weight loss?
 
@@ -49,14 +49,14 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Body Weight
-- Diets
-- Eating Disorders
-- Exercise and Physical Fitness
-- Nutrition
-- Obesity
-- Weight Loss Surgery
+- [Body Weight](Body%20Weight.md)
+- [Diets](Diets.md)
+- [Eating Disorders](Eating%20Disorders.md)
+- [Exercise and Physical Fitness](Exercise%20and%20Physical%20Fitness.md)
+- [Nutrition](Nutrition.md)
+- [Obesity](Obesity.md)
+- [Weight Loss Surgery](Weight%20Loss%20Surgery.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/weightcontrol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/weightcontrol.html). General information, not medical advice.*

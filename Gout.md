@@ -4,7 +4,7 @@
 
 #### What is gout?
 
-Gout is a common type of inflammatory [arthritis](https://medlineplus.gov/arthritis.html). It causes pain, swelling, and redness in one or more joints. It usually happens as a flare, which can last for a week or two and then gets better. The flares often begin in your big toe or a lower limb.
+Gout is a common type of inflammatory [arthritis](Arthritis.md). It causes pain, swelling, and redness in one or more joints. It usually happens as a flare, which can last for a week or two and then gets better. The flares often begin in your big toe or a lower limb.
 
 #### What causes gout?
 
@@ -12,7 +12,7 @@ Gout happens when too much uric acid (urate) builds up in your body over a long 
 
 When your body breaks down old cells or digests foods that contain purine, most of the uric acid that's made dissolves in your blood. Your kidneys filter the uric acid out of your blood, and it leaves your body in your urine (pee).
 
-However, sometimes your body can make too much uric acid or does not remove enough of it. Then the uric acid levels build up in your body, including in your blood. Having too much uric acid in the blood is called hyperuricemia. It does not cause health problems for everyone. But in some people, uric acid forms needle-like crystals. They can form in your joints, which causes gout. The crystals can also cause [kidney stones](https://medlineplus.gov/kidneystones.html).
+However, sometimes your body can make too much uric acid or does not remove enough of it. Then the uric acid levels build up in your body, including in your blood. Having too much uric acid in the blood is called hyperuricemia. It does not cause health problems for everyone. But in some people, uric acid forms needle-like crystals. They can form in your joints, which causes gout. The crystals can also cause [kidney stones](Kidney%20Stones.md).
 
 Calcium pyrophosphate arthritis, sometimes called pseudogout, is a related disease. It causes similar symptoms and is sometimes confused with gout. But it is caused by a buildup of calcium phosphate, not uric acid.
 
@@ -22,14 +22,14 @@ Many people develop gout. You are more likely to get it if you:
 
 - Are male.
 - Are older; it usually develops in middle age.
-- Have [obesity](https://medlineplus.gov/obesity.html).
+- Have [obesity](Obesity.md).
 - Have certain health conditions, such as:
 
- - [Heart failure](https://medlineplus.gov/heartfailure.html)
- - [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
- - [Metabolic syndrome](https://medlineplus.gov/metabolicsyndrome.html)
- - [Chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html)
- - Conditions that cause your cells to break down more quickly, such as [psoriasis](https://medlineplus.gov/psoriasis.html) or some cancers
+ - [Heart failure](Heart%20Failure.md)
+ - [High blood pressure](High%20Blood%20Pressure.md)
+ - [Metabolic syndrome](Metabolic%20Syndrome.md)
+ - [Chronic kidney disease](Chronic%20Kidney%20Disease.md)
+ - Conditions that cause your cells to break down more quickly, such as [psoriasis](Psoriasis.md) or some cancers
  - Rare genetic conditions that lead to increased uric acid
 - Have a family history of gout.
 - Have an unhealthy diet and eat foods that are rich in purines, such as red meat, organ meats, certain seafoods.
@@ -62,8 +62,8 @@ To find out if you have gout, your health care provider:
 - May order various tests, such as:
 
  - A test of a sample of fluid from one of your painful joints. The fluid is examined under a microscope and is checked for uric acid crystals.
- - A [uric acid blood or urine test](https://medlineplus.gov/lab-tests/uric-acid-test/).
- - An [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) or special [CT scan](https://medlineplus.gov/ctscans.html) to look for uric acid crystal buildup in the affected joint and check for other conditions that may be causing the symptoms.
+ - A uric acid blood or urine test.
+ - An ultrasound or special [CT scan](CT%20Scans.md) to look for uric acid crystal buildup in the affected joint and check for other conditions that may be causing the symptoms.
 
 #### What are the treatments for gout?
 
@@ -73,7 +73,7 @@ There are effective treatments for gout. Which treatment you get will depend on 
 
  - Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen.
  - Acetaminophen and the anti-inflammatory drug colchicine.
- - Oral or injected [corticosteroids](https://medlineplus.gov/steroids.html).
+ - Oral or injected [corticosteroids](Steroids.md).
 - **Prevent future flares,** for example by:
 
  - Making lifestyle changes such as losing weight, limiting alcohol, and avoiding foods high in purines. If you are taking medicines that can cause high uric acid in the blood, your provider may suggest stopping or changing those medicines.
@@ -86,8 +86,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Arthritis
+- [Arthritis](Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/gout.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/gout.html). General information, not medical advice.*

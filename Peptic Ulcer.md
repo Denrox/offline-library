@@ -9,9 +9,9 @@ A peptic ulcer is a sore in the lining of your stomach or your duodenum, the fir
 - Lasts for minutes to hours
 - Comes and goes for several days or weeks
 
-Peptic ulcers happen when the acids that help you digest food damage the walls of the stomach or duodenum. The most common cause is infection with a bacterium called [Helicobacter pylori](https://medlineplus.gov/helicobacterpyloriinfections.html). Another cause is the long-term use of nonsteroidal anti-inflammatory medicines (NSAIDs) such as aspirin and ibuprofen. Stress and spicy foods do not cause ulcers, but can make them worse.
+Peptic ulcers happen when the acids that help you digest food damage the walls of the stomach or duodenum. The most common cause is infection with a bacterium called [Helicobacter pylori](Helicobacter%20pylori%20Infections.md). Another cause is the long-term use of nonsteroidal anti-inflammatory medicines (NSAIDs) such as aspirin and ibuprofen. Stress and spicy foods do not cause ulcers, but can make them worse.
 
-To see if you have an H. pylori infection, your doctor will test your blood, breath, or stool. Your doctor also may look inside your stomach and duodenum by doing an [endoscopy](https://medlineplus.gov/endoscopy.html) or x-ray.
+To see if you have an H. pylori infection, your doctor will test your blood, breath, or stool. Your doctor also may look inside your stomach and duodenum by doing an [endoscopy](Endoscopy.md) or x-ray.
 
 Peptic ulcers will get worse if not treated. Treatment may include medicines to reduce stomach acids or antibiotics to kill H. pylori. Antacids and milk can't heal peptic ulcers. Not smoking and avoiding alcohol can help. You may need surgery if your ulcers don't heal.
 
@@ -19,9 +19,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Helicobacter pylori Infections
-- Stomach Disorders
+- [Helicobacter pylori Infections](Helicobacter%20pylori%20Infections.md)
+- [Stomach Disorders](Stomach%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pepticulcer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pepticulcer.html). General information, not medical advice.*

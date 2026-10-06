@@ -4,7 +4,7 @@
 
 The stomach is an organ between the esophagus and the small intestine. It mixes food with stomach acid and helps digest protein. Stomach cancer mostly affects older people - two-thirds of people who have it are over age 65. Your risk of getting it is also higher if you:
 
-- Have had a [Helicobacter pylori infection](https://medlineplus.gov/helicobacterpyloriinfections.html)
+- Have had a [Helicobacter pylori infection](Helicobacter%20pylori%20Infections.md)
 - Have had stomach inflammation
 - Are a man
 - Eat lots of salted, smoked, or pickled foods
@@ -19,8 +19,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Stomach Disorders
+- [Stomach Disorders](Stomach%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/stomachcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/stomachcancer.html). General information, not medical advice.*

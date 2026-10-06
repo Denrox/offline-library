@@ -2,7 +2,7 @@
 
 *Also called: Drinking*
 
-Many Americans drink alcohol at least occasionally. The [Dietary Guidelines for Americans](https://www.dietaryguidelines.gov/sites/default/files/2021-03/DGA_2020-2025_ExecutiveSummary_English.pdf) say that adults of legal drinking age should either not drink or drink in moderation. Drinking less is better for your health than drinking more. Also, there are some people who should not drink at all.
+Many Americans drink alcohol at least occasionally. The Dietary Guidelines for Americans say that adults of legal drinking age should either not drink or drink in moderation. Drinking less is better for your health than drinking more. Also, there are some people who should not drink at all.
 
 If you are going to drink, it's important to know how alcohol affects you and how much is too much.
 
@@ -43,10 +43,10 @@ In the United States, a standard drink is one that contains about 14 grams of pu
 
 Some people should not drink alcohol at all, including those who:
 
-- Are in recovery from an [alcohol use disorder](https://medlineplus.gov/alcoholusedisorderaud.html) (AUD)
+- Are in recovery from an [alcohol use disorder](Alcohol%20Use%20Disorder%20%28AUD%29.md) (AUD)
 - Are unable to control the amount they drink
-- Are [under age 21](https://medlineplus.gov/underagedrinking.html)
-- Are [pregnant](https://medlineplus.gov/pregnancyandsubstanceuse.html) or trying to become pregnant
+- Are [under age 21](Underage%20Drinking.md)
+- Are [pregnant](Pregnancy%20and%20Substance%20Use.md) or trying to become pregnant
 - Are taking medicines that can interact with alcohol
 - Have medical conditions that can get worse if you drink alcohol
 - Are planning on driving
@@ -72,24 +72,24 @@ Binge drinking raises your risk of injuries, car crashes, and alcohol overdose. 
 Heavy alcohol use over a long period of time may cause health problems such as:
 
 - Alcohol use disorder (AUD)
-- [Liver diseases](https://medlineplus.gov/liverdiseases.html), including [cirrhosis](https://medlineplus.gov/cirrhosis.html) and [alcohol-associated liver disease](https://medlineplus.gov/steatoticliverdisease.html) (ALD)
-- [Heart diseases](https://medlineplus.gov/heartdiseases.html)
+- [Liver diseases](Liver%20Diseases.md), including [cirrhosis](Cirrhosis.md) and [alcohol-associated liver disease](Steatotic%20Liver%20Disease.md) (ALD)
+- [Heart diseases](Heart%20Diseases.md)
 - Increased risk of certain cancers
 - Increased risk of injuries
 
-Heavy alcohol use can also cause problems at home, at work, and with friends. But [treatment](https://medlineplus.gov/alcoholusedisorderaudtreatment.html) can help.
+Heavy alcohol use can also cause problems at home, at work, and with friends. But [treatment](Alcohol%20Use%20Disorder%20%28AUD%29%20Treatment.md) can help.
 
 NIH: National Institute on Alcohol Abuse and Alcoholism
 
 ## Related topics
 
-- Alcohol Use Disorder (AUD)
-- Alcohol Use Disorder (AUD) Treatment
-- Fetal Alcohol Spectrum Disorders
-- Impaired Driving
-- Pregnancy and Substance Use
-- Underage Drinking
+- [Alcohol Use Disorder (AUD)](Alcohol%20Use%20Disorder%20%28AUD%29.md)
+- [Alcohol Use Disorder (AUD) Treatment](Alcohol%20Use%20Disorder%20%28AUD%29%20Treatment.md)
+- [Fetal Alcohol Spectrum Disorders](Fetal%20Alcohol%20Spectrum%20Disorders.md)
+- [Impaired Driving](Impaired%20Driving.md)
+- [Pregnancy and Substance Use](Pregnancy%20and%20Substance%20Use.md)
+- [Underage Drinking](Underage%20Drinking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/alcohol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/alcohol.html). General information, not medical advice.*

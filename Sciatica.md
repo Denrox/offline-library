@@ -1,11 +1,11 @@
 # Sciatica
 
-Sciatica is a symptom of a problem with the sciatic nerve, the largest nerve in the body. It controls muscles in the back of your knee and lower leg and provides feeling to the back of your thigh, part of your lower leg, and the sole of your foot. When you have sciatica, you have pain, weakness, numbness, or tingling. It can start in the [lower back](https://medlineplus.gov/backpain.html) and extend down your leg to your calf, foot, or even your toes. It's usually on only one side of your body.
+Sciatica is a symptom of a problem with the sciatic nerve, the largest nerve in the body. It controls muscles in the back of your knee and lower leg and provides feeling to the back of your thigh, part of your lower leg, and the sole of your foot. When you have sciatica, you have pain, weakness, numbness, or tingling. It can start in the [lower back](Back%20Pain.md) and extend down your leg to your calf, foot, or even your toes. It's usually on only one side of your body.
 
 Causes of sciatica include:
 
-- A [ruptured intervertebral disk](https://medlineplus.gov/herniateddisk.html)
-- Narrowing of the spinal canal that puts pressure on the nerve, called [spinal stenosis](https://medlineplus.gov/spinalstenosis.html)
+- A [ruptured intervertebral disk](Herniated%20Disk.md)
+- Narrowing of the spinal canal that puts pressure on the nerve, called [spinal stenosis](Spinal%20Stenosis.md)
 - An injury such as a pelvic fracture.
 
 In many cases no cause can be found.
@@ -14,10 +14,10 @@ Sometimes sciatica goes away on its own. Treatment, if needed, depends on the ca
 
 ## Related topics
 
-- Back Pain
-- Herniated Disk
-- Peripheral Nerve Disorders
+- [Back Pain](Back%20Pain.md)
+- [Herniated Disk](Herniated%20Disk.md)
+- [Peripheral Nerve Disorders](Peripheral%20Nerve%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sciatica.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sciatica.html). General information, not medical advice.*

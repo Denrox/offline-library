@@ -2,7 +2,7 @@
 
 *Also called: TN, Tic douloureux*
 
-Trigeminal neuralgia (TN) is a type of chronic [pain](https://medlineplus.gov/pain.html) that affects your face. It causes extreme, sudden burning or shock-like pain. It usually affects one side of the face. Any vibration on your face, even from talking, can set it off. The condition may come and go, disappearing for days or even months. But the longer you have it, the less often it goes away.
+Trigeminal neuralgia (TN) is a type of chronic [pain](Pain.md) that affects your face. It causes extreme, sudden burning or shock-like pain. It usually affects one side of the face. Any vibration on your face, even from talking, can set it off. The condition may come and go, disappearing for days or even months. But the longer you have it, the less often it goes away.
 
 TN usually affects people over 50, especially women. The cause is probably a blood vessel pressing on the trigeminal nerve, one of the largest nerves in the head. Tumors and multiple sclerosis can also cause TN, but in some cases the cause is unknown.
 
@@ -12,4 +12,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/trigeminalneuralgia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/trigeminalneuralgia.html). General information, not medical advice.*

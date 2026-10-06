@@ -2,7 +2,7 @@
 
 *Also called: Renal dialysis*
 
-When your kidneys are healthy, they clean your blood. They also make hormones that keep your bones strong and your blood healthy. When your kidneys fail, you need treatment to replace the work your kidneys used to do. Unless you have a [kidney transplant](https://medlineplus.gov/kidneytransplantation.html), you will need a treatment called dialysis.
+When your kidneys are healthy, they clean your blood. They also make hormones that keep your bones strong and your blood healthy. When your kidneys fail, you need treatment to replace the work your kidneys used to do. Unless you have a [kidney transplant](Kidney%20Transplantation.md), you will need a treatment called dialysis.
 
 There are two main types of dialysis. Both types filter your blood to rid your body of harmful wastes, extra salt, and water.:
 
@@ -13,10 +13,10 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Kidney Cysts
-- Kidney Failure
-- Peritoneal Disorders
+- [Kidney Cysts](Kidney%20Cysts.md)
+- [Kidney Failure](Kidney%20Failure.md)
+- [Peritoneal Disorders](Peritoneal%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dialysis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dialysis.html). General information, not medical advice.*

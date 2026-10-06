@@ -10,7 +10,7 @@ Ticks can be different colors and sizes. They can be light-colored, reddish brow
 
 If you spend time outdoors or have pets that go outdoors, you need to beware of ticks. When they bite, certain types of ticks can pass on germs that cause different diseases. Sometimes the symptoms can be mild. In other cases, you can have serious, long-lasting health problems. Some of the diseases you can get from a tick bite (called tickborne diseases) include:
 
-- [Lyme disease](https://medlineplus.gov/lymedisease.html)
+- [Lyme disease](Lyme%20Disease.md)
 - Alpha-gal syndrome (tick bite red meat allergy)
 - Babesiosis
 - Ehrlichiosis
@@ -33,10 +33,10 @@ If you find a tick attached to your skin, remove the tick as soon as you can. Yo
 
 Many tickborne diseases can have similar signs and symptoms. The most common are:
 
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fever](Fever.md)
 - Chills
 - Aches and pains
-- [Rash](https://medlineplus.gov/rashes.html)
+- [Rash](Rashes.md)
 
 If you develop any of these symptoms within several weeks of removing a tick, contact your provider.
 
@@ -54,9 +54,9 @@ There are steps you can take to prevent tick bites:
 
 ## Related topics
 
-- Insect Bites and Stings
-- Lyme Disease
+- [Insect Bites and Stings](Insect%20Bites%20and%20Stings.md)
+- [Lyme Disease](Lyme%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tickbites.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tickbites.html). General information, not medical advice.*

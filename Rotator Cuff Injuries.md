@@ -2,14 +2,14 @@
 
 #### What is a rotator cuff?
 
-Your rotator cuff is part of your [shoulder joint](https://medlineplus.gov/shoulderinjuriesanddisorders.html). It's a group of muscles and tendons that holds the top part of your upper arm bone firmly in your shoulder socket. The rotator cuff keeps your shoulder stable when you move your arm in any direction.
+Your rotator cuff is part of your [shoulder joint](Shoulder%20Injuries%20and%20Disorders.md). It's a group of muscles and tendons that holds the top part of your upper arm bone firmly in your shoulder socket. The rotator cuff keeps your shoulder stable when you move your arm in any direction.
 
 #### What are rotator cuff injuries?
 
 Rotator cuff injuries are common. Most of them are wear-and-tear injuries from doing the same arm movements over and over - especially reaching over your head. With time, the tissues in the rotator cuff break down, leading to these injuries:
 
-- **[Tendinitis](https://medlineplus.gov/tendinitis.html).** The tendons in the rotator cuff connect your muscles to your shoulder bones. In tendinitis, the tendons become irritated and swollen from being pinched during shoulder movements.
-- **[Bursitis](https://medlineplus.gov/bursitis.html).** The bursa is a small, fluid-filled sac that pads the space between the rotator cuff and the bones of your shoulder. Bursitis happens when the muscle and bone rub the bursa too much. It swells with extra fluid, which causes pain
+- **[Tendinitis](Tendinitis.md).** The tendons in the rotator cuff connect your muscles to your shoulder bones. In tendinitis, the tendons become irritated and swollen from being pinched during shoulder movements.
+- **[Bursitis](Bursitis.md).** The bursa is a small, fluid-filled sac that pads the space between the rotator cuff and the bones of your shoulder. Bursitis happens when the muscle and bone rub the bursa too much. It swells with extra fluid, which causes pain
 - **Rotator cuff tears.** Tears in a rotator cuff tendon can happen over time or suddenly from an injury, such as falling on an outstretched arm or lifting something heavy. A tear may go part way through a tendon (partial tear) or all the way through (full tear).
 
 #### Who is more likely to develop a rotator cuff injury?
@@ -39,7 +39,7 @@ To find out if you have a rotator cuff injury, your health care provider:
 
 - Will examine your shoulder. This includes checking the range of motion and where the pain is.
 - Will test your arm and shoulder strength.
-- May order [imaging tests](https://medlineplus.gov/diagnosticimaging.html), such as [x-rays](https://medlineplus.gov/xrays.html), an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/), or an [MRI scan](https://medlineplus.gov/mriscans.html).
+- May order [imaging tests](Diagnostic%20Imaging.md), such as [x-rays](X-Rays.md), an ultrasound, or an [MRI scan](MRI%20Scans.md).
 
 #### What are the treatments for rotator cuff injuries?
 
@@ -49,7 +49,7 @@ Treatments for rotator cuff injuries often include:
 
 - Rest
 - Putting ice or a cold pack on the sore area
-- [Pain relievers](https://medlineplus.gov/painrelievers.html) to lessen pain and swelling, such as ibuprofen or aspirin
+- [Pain relievers](Pain%20Relievers.md) to lessen pain and swelling, such as ibuprofen or aspirin
 - Physical therapy exercises to strengthen your shoulder and improve movement
 - A corticosteroid shot into your shoulder joint if other treatments don't help with the pain
 
@@ -65,9 +65,9 @@ If certain activities bother your shoulder, it's best to stop doing them and che
 
 ## Related topics
 
-- Arm Injuries and Disorders
-- Shoulder Injuries and Disorders
+- [Arm Injuries and Disorders](Arm%20Injuries%20and%20Disorders.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rotatorcuffinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rotatorcuffinjuries.html). General information, not medical advice.*

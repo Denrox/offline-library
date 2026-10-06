@@ -10,7 +10,7 @@ As a street (illegal) drug, cocaine is usually a fine, white, crystal powder. St
 
 #### How do people use cocaine?
 
-People snort cocaine powder through the nose or rub it into their gums. Others dissolve the powder and inject it into the bloodstream. Some people inject a combination of cocaine and [heroin](https://medlineplus.gov/heroin.html), called a "speedball." Crack cocaine is smoked.
+People snort cocaine powder through the nose or rub it into their gums. Others dissolve the powder and inject it into the bloodstream. Some people inject a combination of cocaine and [heroin](Heroin.md), called a "speedball." Crack cocaine is smoked.
 
 #### What are the short-term effects of cocaine?
 
@@ -18,25 +18,25 @@ Cocaine is a stimulant that can make people feel like they have more energy and 
 
 Cocaine's effects appear almost immediately and disappear within a few minutes to an hour. How long the effects last and how intense they are will depend on how the person used it.
 
-In some cases, cocaine can cause very serious health problems such as a [heart attack](https://medlineplus.gov/heartattack.html), [stroke](https://medlineplus.gov/stroke.html), or [coma](https://medlineplus.gov/coma.html).
+In some cases, cocaine can cause very serious health problems such as a [heart attack](Heart%20Attack.md), [stroke](Stroke.md), or [coma](Coma.md).
 
 #### What are the long-term effects of cocaine?
 
 People who use cocaine over the long term may develop health problems. Which problems they have will depend on how they used the cocaine:
 
-- Snorting it can lead to a [loss of sense of smell](https://medlineplus.gov/tasteandsmelldisorders.html), nosebleeds, nasal damage, and [trouble swallowing](https://medlineplus.gov/swallowingdisorders.html).
-- Smoking it can cause a [cough](https://medlineplus.gov/cough.html), [asthma](https://medlineplus.gov/asthma.html), [trouble breathing](https://medlineplus.gov/breathingproblems.html), and a higher risk of infections like [pneumonia](https://medlineplus.gov/pneumonia.html).
-- Injecting it with a needle can lead to [skin](https://medlineplus.gov/skininfections.html) or soft tissue infections, as well as [scarring](https://medlineplus.gov/scars.html). It can cause collapsed veins. When a vein collapses, the blood cannot flow through it. Injecting cocaine also puts a person at higher risk of getting diseases such as [HIV](https://medlineplus.gov/hiv.html) and [hepatitis C](https://medlineplus.gov/hepatitisc.html).
+- Snorting it can lead to a [loss of sense of smell](Taste%20and%20Smell%20Disorders.md), nosebleeds, nasal damage, and [trouble swallowing](Swallowing%20Disorders.md).
+- Smoking it can cause a [cough](Cough.md), [asthma](Asthma.md), [trouble breathing](Breathing%20Problems.md), and a higher risk of infections like [pneumonia](Pneumonia.md).
+- Injecting it with a needle can lead to [skin](Skin%20Infections.md) or soft tissue infections, as well as [scarring](Scars.md). It can cause collapsed veins. When a vein collapses, the blood cannot flow through it. Injecting cocaine also puts a person at higher risk of getting diseases such as [HIV](HIV.md) and [hepatitis C](Hepatitis%20C.md).
 
-Other long-term effects of cocaine use may include [malnutrition](https://medlineplus.gov/malnutrition.html) and [movement disorders](https://medlineplus.gov/movementdisorders.html), including [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html).
+Other long-term effects of cocaine use may include [malnutrition](Malnutrition.md) and [movement disorders](Movement%20Disorders.md), including [Parkinson's disease](Parkinson%27s%20Disease.md).
 
 Repeated use of cocaine can lead to tolerance. This means users need more and more of the drug to have the same effect. At higher doses over time, the body becomes dependent on cocaine. If someone who is dependent on cocaine stops using it, they will have withdrawal symptoms. These symptoms can include:
 
-- [Depression](https://medlineplus.gov/depression.html)
+- [Depression](Depression.md)
 - Restlessness
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Fatigue](Fatigue.md)
 - Increased appetite
-- Bad dreams and [insomnia](https://medlineplus.gov/insomnia.html)
+- Bad dreams and [insomnia](Insomnia.md)
 - Slowed thinking
 
 Repeated use of cocaine can also lead to cocaine use disorder, also called addiction. This is more than physical dependence. It's a chronic (long-lasting) brain disorder. When someone has it, they continue to use cocaine even though it causes problems in their life. Some examples include health problems and not being able to meet responsibilities at work, school, or home. Getting and using cocaine becomes their main purpose in life.
@@ -48,8 +48,8 @@ It's possible to overdose on cocaine. This happens when a person uses so much co
 A cocaine overdose can cause health problems such as:
 
 - Stroke
-- [Seizures](https://medlineplus.gov/seizures.html)
-- [irregular heartbeat](https://medlineplus.gov/arrhythmia.html) (arrhythmia)
+- [Seizures](Seizures.md)
+- [irregular heartbeat](Arrhythmia.md) (arrhythmia)
 - Heart attack
 
 There is no specific medicine to treat an overdose. Health care providers will focus on treating the specific health problems caused by the overdose.
@@ -62,8 +62,8 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Drug Use and Addiction
+- [Drug Use and Addiction](Drug%20Use%20and%20Addiction.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cocaine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cocaine.html). General information, not medical advice.*

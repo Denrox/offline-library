@@ -4,7 +4,7 @@
 
 #### What are post-COVID conditions (long COVID)?
 
-[COVID-19](https://medlineplus.gov/covid19coronavirusdisease2019.html) (coronavirus disease 2019) is an illness caused by a virus. Many people get better within a few days or weeks after being infected with the virus. But others have post-COVID conditions. They may:
+[COVID-19](COVID-19%20%28Coronavirus%20Disease%202019%29.md) (coronavirus disease 2019) is an illness caused by a virus. Many people get better within a few days or weeks after being infected with the virus. But others have post-COVID conditions. They may:
 
 - Have symptoms that linger for weeks, months, or even years
 - Seem to recover from COVID-19 but then see their symptoms return
@@ -18,22 +18,22 @@ Anyone who had COVID-19, whether it was severe or mild, can have long-lasting sy
 
 - Had severe COVID-19 illness, especially if you were hospitalized or needed intensive care.
 - Had underlying health conditions before you got COVID-19.
-- Did not get a [COVID-19 vaccine](https://medlineplus.gov/covid19vaccines.html).
+- Did not get a [COVID-19 vaccine](COVID-19%20Vaccines.md).
 - Had multisystem inflammatory syndrome (MIS) during or after COVID-19. MIS is a rare but serious condition in which different body parts become inflamed.
 
 #### What are the symptoms of post-COVID conditions (long COVID)?
 
 Post-COVID conditions do not affect everyone the same way. They can cause various types and combinations of symptoms in different people. The symptoms may affect different parts of the body, for example:
 
-- General symptoms, such as [fatigue](https://medlineplus.gov/fatigue.html) and [fever](https://medlineplus.gov/fever.html)
-- Respiratory symptoms, such as [trouble breathing](https://medlineplus.gov/breathingproblems.html) and [cough](https://medlineplus.gov/cough.html)
-- Heart symptoms, such as [chest pain](https://medlineplus.gov/chestpain.html) and palpitations
-- Neurologic symptoms such as trouble thinking and concentrating ("brain fog"), [headaches](https://medlineplus.gov/headache.html), and [sleep problems](https://medlineplus.gov/sleepdisorders.html)
-- Digestive symptoms such as [diarrhea](https://medlineplus.gov/diarrhea.html) and stomach pain
+- General symptoms, such as [fatigue](Fatigue.md) and [fever](Fever.md)
+- Respiratory symptoms, such as [trouble breathing](Breathing%20Problems.md) and [cough](Cough.md)
+- Heart symptoms, such as [chest pain](Chest%20Pain.md) and palpitations
+- Neurologic symptoms such as trouble thinking and concentrating ("brain fog"), [headaches](Headache.md), and [sleep problems](Sleep%20Disorders.md)
+- Digestive symptoms such as [diarrhea](Diarrhea.md) and stomach pain
 
-Some people may have a wide variety of symptoms that are similar to those of other conditions, such as [myalgic encephalomyelitis/chronic fatigue syndrome](https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html) (ME/CFS).
+Some people may have a wide variety of symptoms that are similar to those of other conditions, such as [myalgic encephalomyelitis/chronic fatigue syndrome](Myalgic%20Encephalomyelitis%20Chronic%20Fatigue%20Syndrome.md) (ME/CFS).
 
-Most people's symptoms slowly improve over time. But for some people, the symptoms can last weeks, months, or longer. Sometimes the symptoms are severe enough to result in [disability](https://medlineplus.gov/disabilities.html).
+Most people's symptoms slowly improve over time. But for some people, the symptoms can last weeks, months, or longer. Sometimes the symptoms are severe enough to result in [disability](Disabilities.md).
 
 #### How are post-COVID conditions (long COVID) diagnosed?
 
@@ -41,7 +41,7 @@ There is no specific test for post-COVID conditions. To find out if you have a p
 
 - Will ask about your medical history. This includes asking if you have had a diagnosis of COVID-19, either based on a positive test, symptoms, or exposure.
 - Will do a physical exam.
-- May order blood and [imaging](https://medlineplus.gov/diagnosticimaging.html) tests.
+- May order blood and [imaging](Diagnostic%20Imaging.md) tests.
 
 Some of the symptoms of post-COVID conditions may be hard to explain. The results of blood and imaging tests may be normal. And people who have unexplained symptoms may sometimes be misunderstood by their providers. So it can take some time to get a diagnosis.
 
@@ -55,10 +55,10 @@ The best way to prevent post-COVID conditions is to avoid getting COVID-19. Stay
 
 ## Related topics
 
-- COVID-19 (Coronavirus Disease 2019)
-- COVID-19 Testing
-- COVID-19 Vaccines
+- [COVID-19 (Coronavirus Disease 2019)](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- [COVID-19 Testing](COVID-19%20Testing.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/postcovidconditionslongcovid.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/postcovidconditionslongcovid.html). General information, not medical advice.*

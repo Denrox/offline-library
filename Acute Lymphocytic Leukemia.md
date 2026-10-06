@@ -4,19 +4,19 @@
 
 #### What is leukemia?
 
-[Leukemia](https://medlineplus.gov/leukemia.html) is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+[Leukemia](Leukemia.md) is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
 
 - White blood cells help your body fight infection
 - Red blood cells deliver oxygen from your lungs to your tissues and organs
-- [Platelets](https://medlineplus.gov/plateletdisorders.html) help form clots to stop bleeding
+- [Platelets](Platelet%20Disorders.md) help form clots to stop bleeding
 
 When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
 
 #### What is acute lymphocytic leukemia (ALL)?
 
-Acute lymphocytic leukemia is a type of acute leukemia. It's also called ALL and acute lymphoblastic leukemia. "Acute" means that it usually gets worse quickly if it's not treated. ALL is the most common type of cancer in [children](https://medlineplus.gov/childhoodleukemia.html). It can also affect adults.
+Acute lymphocytic leukemia is a type of acute leukemia. It's also called ALL and acute lymphoblastic leukemia. "Acute" means that it usually gets worse quickly if it's not treated. ALL is the most common type of cancer in [children](Childhood%20Leukemia.md). It can also affect adults.
 
-In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. These cells normally help your body fight infection. But in ALL, they are abnormal and cannot fight infection very well. They also crowd out the healthy cells, which can lead to infection, [anemia](https://medlineplus.gov/anemia.html), and easy bleeding. These abnormal cells can also spread to other parts of the body, including the brain and spinal cord.
+In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. These cells normally help your body fight infection. But in ALL, they are abnormal and cannot fight infection very well. They also crowd out the healthy cells, which can lead to infection, [anemia](Anemia.md), and easy bleeding. These abnormal cells can also spread to other parts of the body, including the brain and spinal cord.
 
 #### What causes acute lymphocytic leukemia (ALL)?
 
@@ -29,19 +29,19 @@ The factors that raise your risk of ALL include:
 - Being male
 - Being white
 - Being over age 70
-- Having had [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html) or [radiation therapy](https://medlineplus.gov/radiationtherapy.html)
-- Having been exposed to high levels of [radiation](https://medlineplus.gov/radiationexposure.html)
-- Having certain [genetic disorders](https://medlineplus.gov/geneticdisorders.html), such as [Down syndrome](https://medlineplus.gov/downsyndrome.html)
+- Having had [chemotherapy](Cancer%20Chemotherapy.md) or [radiation therapy](Radiation%20Therapy.md)
+- Having been exposed to high levels of [radiation](Radiation%20Exposure.md)
+- Having certain [genetic disorders](Genetic%20Disorders.md), such as [Down syndrome](Down%20Syndrome.md)
 
 #### What are the symptoms of acute lymphocytic leukemia (ALL)?
 
 The signs and symptoms of ALL include:
 
-- Weakness or [feeling tired](https://medlineplus.gov/fatigue.html)
-- [Fever](https://medlineplus.gov/fever.html) or night sweats
-- Easy [bruising](https://medlineplus.gov/bruises.html) or [bleeding](https://medlineplus.gov/bleedingdisorders.html)
+- Weakness or [feeling tired](Fatigue.md)
+- [Fever](Fever.md) or night sweats
+- Easy [bruising](Bruises.md) or [bleeding](Bleeding%20Disorders.md)
 - Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
+- [Shortness of breath](Breathing%20Problems.md)
 - Weight loss or loss of appetite
 - Pain in the bones or stomach
 - Pain or feeling of fullness below the ribs
@@ -56,13 +56,13 @@ Your health care provider may use many tools to diagnose ALL and figure out whic
 - A medical history
 - Blood tests, such as
 
- - [Complete blood count (CBC) with differential](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)
- - Blood chemistry tests such as a [basic metabolic panel (BMP)](https://medlineplus.gov/lab-tests/basic-metabolic-panel-bmp/), [comprehensive metabolic panel (CMP)](https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/), [kidney function tests](https://medlineplus.gov/kidneytests.html), [liver function tests](https://medlineplus.gov/lab-tests/liver-function-tests/), and [electrolyte panel](https://medlineplus.gov/lab-tests/electrolyte-panel/)
- - [Blood smear](https://medlineplus.gov/lab-tests/blood-smear/)
-- [Bone marrow tests](https://medlineplus.gov/lab-tests/bone-marrow-tests/). There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
-- [Genetic tests](https://medlineplus.gov/genetictesting.html) to look for gene and chromosome changes
+ - Complete blood count (CBC) with differential
+ - Blood chemistry tests such as a basic metabolic panel (BMP), comprehensive metabolic panel (CMP), [kidney function tests](Kidney%20Tests.md), liver function tests, and electrolyte panel
+ - Blood smear
+- Bone marrow tests. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+- [Genetic tests](Genetic%20Testing.md) to look for gene and chromosome changes
 
-If you are diagnosed with ALL, you may have additional tests to see whether the cancer has spread. These include [imaging tests](https://medlineplus.gov/diagnosticimaging.html) and a [lumbar puncture](https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/), which is a procedure to collect and test cerebrospinal fluid (CSF).
+If you are diagnosed with ALL, you may have additional tests to see whether the cancer has spread. These include [imaging tests](Diagnostic%20Imaging.md) and a lumbar puncture, which is a procedure to collect and test cerebrospinal fluid (CSF).
 
 #### What are the treatments for acute lymphocytic leukemia (ALL)?
 
@@ -70,7 +70,7 @@ Treatments for ALL include:
 
 - Chemotherapy
 - Radiation therapy
-- Chemotherapy with [stem cell transplant](https://medlineplus.gov/stemcells.html)
+- Chemotherapy with [stem cell transplant](Stem%20Cells.md)
 - Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
 
 Treatment is usually done in two phases:
@@ -84,12 +84,12 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Acute Myeloid Leukemia
-- Childhood Leukemia
-- Chronic Lymphocytic Leukemia
-- Chronic Myeloid Leukemia
-- Leukemia
+- [Acute Myeloid Leukemia](Acute%20Myeloid%20Leukemia.md)
+- [Childhood Leukemia](Childhood%20Leukemia.md)
+- [Chronic Lymphocytic Leukemia](Chronic%20Lymphocytic%20Leukemia.md)
+- [Chronic Myeloid Leukemia](Chronic%20Myeloid%20Leukemia.md)
+- [Leukemia](Leukemia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acutelymphocyticleukemia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acutelymphocyticleukemia.html). General information, not medical advice.*

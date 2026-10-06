@@ -2,7 +2,7 @@
 
 *Also called: Cooley's anemia, Mediterranean anemia*
 
-Thalassemias are inherited blood disorders. If you have one, your body makes fewer healthy red blood cells and less hemoglobin. Hemoglobin is a protein that carries oxygen to the body. That leads to [anemia](https://medlineplus.gov/anemia.html). Thalassemias occur most often among people of Italian, Greek, Middle Eastern, Southern Asian, and African descent.
+Thalassemias are inherited blood disorders. If you have one, your body makes fewer healthy red blood cells and less hemoglobin. Hemoglobin is a protein that carries oxygen to the body. That leads to [anemia](Anemia.md). Thalassemias occur most often among people of Italian, Greek, Middle Eastern, Southern Asian, and African descent.
 
 Thalassemias can be mild or severe. Some people have no symptoms or mild anemia. The most common severe type in the United States is called Cooley's anemia. It usually appears during the first two years of life. People with it may have severe anemia, slowed growth and delayed puberty, and problems with the spleen, liver, heart, or bones.
 
@@ -12,8 +12,8 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Anemia
+- [Anemia](Anemia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/thalassemia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/thalassemia.html). General information, not medical advice.*

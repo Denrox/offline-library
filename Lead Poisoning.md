@@ -17,4 +17,4 @@ Agency for Toxic Substances and Disease Registry
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/leadpoisoning.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/leadpoisoning.html). General information, not medical advice.*

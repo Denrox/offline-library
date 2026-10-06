@@ -12,9 +12,9 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Degenerative Nerve Diseases
-- Movement Disorders
+- [Degenerative Nerve Diseases](Degenerative%20Nerve%20Diseases.md)
+- [Movement Disorders](Movement%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/huntingtonsdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/huntingtonsdisease.html). General information, not medical advice.*

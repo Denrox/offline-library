@@ -14,10 +14,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Blood Disorders
-- Organ Donation
-- Stem Cells
+- [Blood Disorders](Blood%20Disorders.md)
+- [Organ Donation](Organ%20Donation.md)
+- [Stem Cells](Stem%20Cells.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bloodtransfusionanddonation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bloodtransfusionanddonation.html). General information, not medical advice.*

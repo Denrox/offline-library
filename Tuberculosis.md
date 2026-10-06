@@ -4,12 +4,12 @@
 
 #### What is tuberculosis (TB)?
 
-Tuberculosis (TB) is a [bacterial disease](https://medlineplus.gov/bacterialinfections.html) that usually attacks the lungs. But it can also attack other parts of the body, including the kidneys, spine, and brain.
+Tuberculosis (TB) is a [bacterial disease](Bacterial%20Infections.md) that usually attacks the lungs. But it can also attack other parts of the body, including the kidneys, spine, and brain.
 
 Not everyone infected with TB bacteria (germs) becomes sick. So, there are two types of TB conditions:
 
 - **Inactive (latent) TB infection**, where the TB germs live in your body but don't make you sick.
-- **TB disease (active TB)** where you get sick from the TB germs. TB disease can almost always be cured with [antibiotics](https://medlineplus.gov/antibiotics.html). But if it's not treated properly, it can be fatal.
+- **TB disease (active TB)** where you get sick from the TB germs. TB disease can almost always be cured with [antibiotics](Antibiotics.md). But if it's not treated properly, it can be fatal.
 
 TB is found in the U.S., but it is more common in certain other countries.
 
@@ -33,14 +33,14 @@ Anyone who is near a person with TB disease can get infected with the germs. You
 
 Certain people are more likely to get sick with TB disease after they get infected. They include people who:
 
-- Have [HIV](https://medlineplus.gov/hiv.html)
+- Have [HIV](HIV.md)
 - Became infected with TB in the last 2 years
-- Have other diseases, such as [diabetes](https://medlineplus.gov/diabetes.html), that make it hard for your body to fight TB germs
-- Have [alcohol use disorder](https://medlineplus.gov/alcoholusedisorderaud.html) (AUD) or inject [illegal drugs](https://medlineplus.gov/druguseandaddiction.html)
+- Have other diseases, such as [diabetes](Diabetes.md), that make it hard for your body to fight TB germs
+- Have [alcohol use disorder](Alcohol%20Use%20Disorder%20%28AUD%29.md) (AUD) or inject [illegal drugs](Drug%20Use%20and%20Addiction.md)
 - Were not treated correctly for TB in the past
 - Are under age 5
 - Are an older adult
-- Take medicines that [weaken the immune system](https://medlineplus.gov/immunesystemanddisorders.html), such as medicines taken after an [organ transplant](https://medlineplus.gov/organtransplantation.html), [steroids](https://medlineplus.gov/steroids.html), and specialized treatments for certain [autoimmune diseases](https://medlineplus.gov/autoimmunediseases.html)
+- Take medicines that [weaken the immune system](Immune%20System%20and%20Disorders.md), such as medicines taken after an [organ transplant](Organ%20Transplantation.md), [steroids](Steroids.md), and specialized treatments for certain [autoimmune diseases](Autoimmune%20Diseases.md)
 
 #### What are the symptoms of tuberculosis (TB)?
 
@@ -57,25 +57,25 @@ With TB disease, your symptoms will depend on where the TB is growing in your bo
 
 - General symptoms may include:
 
- - Chills and [fever](https://medlineplus.gov/fever.html)
+ - Chills and [fever](Fever.md)
  - Night sweats (heavy sweating during sleep)
  - Losing weight without trying
  - Loss of appetite
- - Weakness or [fatigue](https://medlineplus.gov/fatigue.html)
+ - Weakness or [fatigue](Fatigue.md)
 - Symptoms from TB disease in your lungs may include:
 
- - A [cough](https://medlineplus.gov/cough.html) that lasts longer than 3 weeks
+ - A [cough](Cough.md) that lasts longer than 3 weeks
  - Coughing up blood or sputum (a thick mucus from the lungs)
- - [Chest pain](https://medlineplus.gov/chestpain.html)
+ - [Chest pain](Chest%20Pain.md)
 
 #### How is tuberculosis (TB) diagnosed?
 
-Your health care provider or your local health department can test you to find out if you have TB germs in your body. They will give you either a [TB skin or blood test](https://medlineplus.gov/lab-tests/tuberculosis-screening/).
+Your health care provider or your local health department can test you to find out if you have TB germs in your body. They will give you either a TB skin or blood test.
 
 If your test shows that you have TB germs, you'll need to have other tests to see if the germs are actively growing:
 
-- **Tests for TB disease in the lungs** usually include [testing samples of your sputum](https://medlineplus.gov/lab-tests/acid-fast-bacillus-afb-tests/) and having chest [x-rays](https://medlineplus.gov/xrays.html).
-- **Tests for TB disease in other parts of your body** may include tests of [urine](https://medlineplus.gov/urinalysis.html) and [tissue samples](https://medlineplus.gov/biopsy.html).
+- **Tests for TB disease in the lungs** usually include testing samples of your sputum and having chest [x-rays](X-Rays.md).
+- **Tests for TB disease in other parts of your body** may include tests of [urine](Urinalysis.md) and [tissue samples](Biopsy.md).
 
 You may need a TB test if you have symptoms of TB disease or if you are at high risk because you are more likely to be near someone with TB disease.
 
@@ -85,7 +85,7 @@ People who have HIV also need to get tested for TB. HIV weakens your immune syst
 
 The treatment for both inactive TB infection and TB disease is antibiotics. To make sure you get rid of all the TB germs in your body, it's very important to follow the directions for taking your medicine.
 
-If you don't follow the directions, the TB germs in your body could change and become [antibiotic resistant](https://medlineplus.gov/antibioticresistance.html). That means the medicine may stop working and your TB may become hard to cure.
+If you don't follow the directions, the TB germs in your body could change and become [antibiotic resistant](Antibiotic%20Resistance.md). That means the medicine may stop working and your TB may become hard to cure.
 
 - **For inactive TB infections**, you need to take medicines for three, four, six, or nine months, depending on the treatment plan. Treatment helps make sure you don't get TB disease in the future.
 - **For active TB disease**, you usually need to take medicines for four, six, or nine months, depending on the treatment plan. Treatment will almost always cure you if you take your pills the right way.
@@ -94,7 +94,7 @@ If you don't follow the directions, the TB germs in your body could change and b
  - Covering your nose and mouth.
  - Opening windows when possible.
  - Not getting too close to them.
-- **For drug-resistant TB disease,** which means that the TB germs are resistant to certain TB medicines, you will need to take special medicines. Treatment may take a long time, sometimes months or years. The medicines can cause [side effects](https://medlineplus.gov/drugreactions.html). Your provider will closely monitor your treatment to make sure the medicines are working.
+- **For drug-resistant TB disease,** which means that the TB germs are resistant to certain TB medicines, you will need to take special medicines. Treatment may take a long time, sometimes months or years. The medicines can cause [side effects](Drug%20Reactions.md). Your provider will closely monitor your treatment to make sure the medicines are working.
 
 By following medical advice for TB testing and treatment, you can keep yourself healthy and help stop the spread of TB.
 
@@ -102,8 +102,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Mycobacterial Infections
+- [Mycobacterial Infections](Mycobacterial%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tuberculosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tuberculosis.html). General information, not medical advice.*

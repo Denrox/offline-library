@@ -8,14 +8,14 @@ West Nile virus (WNV) is an infectious disease. It is most often spread by the b
 
 #### How does West Nile Virus spread?
 
-WNV usually spreads to people through the bite of an infected mosquito. However, in rare cases, it can spread from person-to-person. This can happen through an [organ transplant](https://medlineplus.gov/organtransplantation.html) or [blood transfusion](https://medlineplus.gov/bloodtransfusionanddonation.html). If you are preganant you can spread WNV to your fetus during [pregnancy](https://medlineplus.gov/infectionsandpregnancy.html) or delivery. And after delivery, it can spread to the baby during [breastfeeding](https://medlineplus.gov/breastfeeding.html).
+WNV usually spreads to people through the bite of an infected mosquito. However, in rare cases, it can spread from person-to-person. This can happen through an [organ transplant](Organ%20Transplantation.md) or [blood transfusion](Blood%20Transfusion%20and%20Donation.md). If you are preganant you can spread WNV to your fetus during [pregnancy](Infections%20and%20Pregnancy.md) or delivery. And after delivery, it can spread to the baby during [breastfeeding](Breastfeeding.md).
 
 #### Who is more likely to develop West Nile Virus?
 
 Anyone could be bitten by an infected mosquito and get WNV. But certain people are at higher risk for more serious illness they get a WNV infection. They include people who:
 
 - Are over age 60
-- Have certain medical conditions, such as cancer, [diabetes](https://medlineplus.gov/diabetes.html), [high blood pressure](https://medlineplus.gov/highbloodpressure.html), or [kidney disease](https://medlineplus.gov/kidneydiseases.html)
+- Have certain medical conditions, such as cancer, [diabetes](Diabetes.md), [high blood pressure](High%20Blood%20Pressure.md), or [kidney disease](Kidney%20Diseases.md)
 - Had an organ transplant
 
 #### What are the symptoms of West Nile Virus?
@@ -24,16 +24,16 @@ Symptoms can be mild to severe. But most people have no symptoms or mild symptom
 
 Mild symptoms of WNV can include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Fever](Fever.md)
+- [Headache](Headache.md)
 - Body aches
-- [Vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
-- [Skin rash](https://medlineplus.gov/rashes.html)
+- [Vomiting](Nausea%20and%20Vomiting.md)
+- [Diarrhea](Diarrhea.md)
+- [Skin rash](Rashes.md)
 
-These symptoms usually go away on their own within a few days to several weeks. But some people will have weakness or [fatigue](https://medlineplus.gov/fatigue.html) that lasts for weeks or months.
+These symptoms usually go away on their own within a few days to several weeks. But some people will have weakness or [fatigue](Fatigue.md) that lasts for weeks or months.
 
-Although rare, If West Nile virus enters your brain, it can be life-threatening. It may cause inflammation of the brain ([encephalitis](https://medlineplus.gov/encephalitis.html)) or inflammation of the tissue that surrounds the brain and spinal cord ([meningitis](https://medlineplus.gov/meningitis.html)).
+Although rare, If West Nile virus enters your brain, it can be life-threatening. It may cause inflammation of the brain ([encephalitis](Encephalitis.md)) or inflammation of the tissue that surrounds the brain and spinal cord ([meningitis](Meningitis.md)).
 
 Serious symptoms of WNV can include:
 
@@ -41,7 +41,7 @@ Serious symptoms of WNV can include:
 - Headache
 - Neck stiffness
 - Numbness
-- [Coma](https://medlineplus.gov/coma.html)
+- [Coma](Coma.md)
 - Muscle weakness
 - Vision loss
 
@@ -55,11 +55,11 @@ To find out if you have WNV, your health care provider:
 
 #### What are the treatments for West Nile Virus?
 
-There are no specific vaccines or treatments for human WNV disease. But rest, fluids, and over-the-counter [pain medicines](https://medlineplus.gov/painrelievers.html) may relieve some symptoms. You may need to be hospitalized if you have serious symptoms.
+There are no specific vaccines or treatments for human WNV disease. But rest, fluids, and over-the-counter [pain medicines](Pain%20Relievers.md) may relieve some symptoms. You may need to be hospitalized if you have serious symptoms.
 
 #### Can West Nile Virus be prevented?
 
-There are no vaccines or medicines to prevent WNV. The best way to avoid WNV is to help prevent [mosquito bites](https://medlineplus.gov/mosquitobites.html):
+There are no vaccines or medicines to prevent WNV. The best way to avoid WNV is to help prevent [mosquito bites](Mosquito%20Bites.md):
 
 - Wear insect repellent with DEET or another U.S. Environmental Protection Agency (EPA)-registered insect repellent. Make sure to follow the instructions for using the repellent.
 - Wear long-sleeved shirts and pants if you're outside.
@@ -71,9 +71,9 @@ Centers for Disease Control and Prevention (CDC)
 
 ## Related topics
 
-- Encephalitis
-- Mosquito Bites
+- [Encephalitis](Encephalitis.md)
+- [Mosquito Bites](Mosquito%20Bites.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/westnilevirus.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/westnilevirus.html). General information, not medical advice.*

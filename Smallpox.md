@@ -1,6 +1,6 @@
 # Smallpox
 
-Smallpox is a disease caused by the Variola major virus. Some experts say that over the centuries it has killed more people than all other infectious diseases combined. Worldwide vaccination stopped the spread of smallpox three decades ago. The last case was reported in 1977. Two research labs still keep small amounts of the virus. Experts fear [bioterrorists](https://medlineplus.gov/biodefenseandbioterrorism.html) could use the virus to spread disease.
+Smallpox is a disease caused by the Variola major virus. Some experts say that over the centuries it has killed more people than all other infectious diseases combined. Worldwide vaccination stopped the spread of smallpox three decades ago. The last case was reported in 1977. Two research labs still keep small amounts of the virus. Experts fear [bioterrorists](Biodefense%20and%20Bioterrorism.md) could use the virus to spread disease.
 
 Smallpox spreads very easily from person to person. Symptoms are flu-like. They include:
 
@@ -16,8 +16,8 @@ The U.S. stopped routine smallpox vaccinations in 1972. Military and other high-
 
 ## Related topics
 
-- Biodefense and Bioterrorism
+- [Biodefense and Bioterrorism](Biodefense%20and%20Bioterrorism.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/smallpox.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/smallpox.html). General information, not medical advice.*

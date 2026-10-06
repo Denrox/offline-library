@@ -2,50 +2,50 @@
 
 #### What is diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) is a disease in which your blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
+[Diabetes](Diabetes.md) is a disease in which your blood glucose, or [blood sugar](Blood%20Glucose.md), levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
 
-With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body doesn't make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood sugar levels.
+With [type 1 diabetes](Diabetes%20Type%201.md), your body doesn't make insulin. With [type 2 diabetes](Diabetes%20Type%202.md), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood sugar levels.
 
 #### What is diabetic heart disease?
 
-Diabetic heart disease is a term for [heart disease](https://medlineplus.gov/heartdiseases.html) in people who have diabetes. If you have diabetes, you are much more likely to develop heart disease or have a [stroke](https://medlineplus.gov/stroke.html) than people who don't have diabetes. And you may start having these problems at a younger age.
+Diabetic heart disease is a term for [heart disease](Heart%20Diseases.md) in people who have diabetes. If you have diabetes, you are much more likely to develop heart disease or have a [stroke](Stroke.md) than people who don't have diabetes. And you may start having these problems at a younger age.
 
 Over time, the effects of high blood sugar from diabetes can include damage to the blood vessels and nerves in your heart. This damage increases your chance of developing heart diseases, including:
 
-- **[Coronary artery disease (CAD)](coronaryarterydisease.html).** It happens slowly as a sticky material called [plaque builds up in the arteries](https://medlineplus.gov/atherosclerosis.html) that supply your heart muscle with blood.
-- **[Heart failure](https://medlineplus.gov/heartfailure.html).** With this condition, your heart can't pump enough oxygen-rich blood to meet the needs of your body.
-- **[Cardiomyopathy](https://medlineplus.gov/cardiomyopathy.html).** This is a group of diseases in which the heart muscle may become thick or stiff.
+- **Coronary artery disease (CAD).** It happens slowly as a sticky material called [plaque builds up in the arteries](Atherosclerosis.md) that supply your heart muscle with blood.
+- **[Heart failure](Heart%20Failure.md).** With this condition, your heart can't pump enough oxygen-rich blood to meet the needs of your body.
+- **[Cardiomyopathy](Cardiomyopathy.md).** This is a group of diseases in which the heart muscle may become thick or stiff.
 
 #### Who is more likely to develop diabetic heart disease?
 
 Diabetes puts you at serious risk for heart disease. It also makes you more likely to develop other conditions that raise your risk even more, including:
 
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- High blood levels of [LDL "bad" cholesterol](https://medlineplus.gov/ldlthebadcholesterol.html)
-- [High triglycerides](https://medlineplus.gov/triglycerides.html) (a type of fat in your blood) with low blood levels of [HDL "good" cholesterol](https://medlineplus.gov/hdlthegoodcholesterol.html)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- High blood levels of [LDL "bad" cholesterol](LDL%20The%20Bad%20Cholesterol.md)
+- [High triglycerides](Triglycerides.md) (a type of fat in your blood) with low blood levels of [HDL "good" cholesterol](HDL%20The%20Good%20Cholesterol.md)
 
 Your risk for heart disease is also higher if you
 
 - Are male
-- [Smoke](https://medlineplus.gov/smoking.html)
-- Have [obesity](https://medlineplus.gov/obesity.html)
+- [Smoke](Smoking.md)
+- Have [obesity](Obesity.md)
 - Have too much belly fat around your waist, even though you're at a healthy weight:
 
  - For men, that's a waist more than 40 inches
  - For women, that's a waist more than 35 inches
 - Have a family history of heart disease
-- Have [chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html)
+- Have [chronic kidney disease](Chronic%20Kidney%20Disease.md)
 
 #### What are the symptoms of diabetic heart disease?
 
 In the early stages, heart disease usually doesn't have any symptoms. But if your heart disease worsens, you can have symptoms. Your symptoms will depend on the type of heart disease you have. They might include:
 
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html) or [fainting](https://medlineplus.gov/fainting.html)
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html) (problem with the rate or rhythm of your heartbeat)
-- [Swollen feet and ankles](https://medlineplus.gov/edema.html)
-- [Chest pain](https://medlineplus.gov/chestpain.html)
+- [Shortness of breath](Breathing%20Problems.md)
+- [Fatigue](Fatigue.md)
+- [Dizziness](Dizziness%20and%20Vertigo.md) or [fainting](Fainting.md)
+- [Arrhythmia](Arrhythmia.md) (problem with the rate or rhythm of your heartbeat)
+- [Swollen feet and ankles](Edema.md)
+- [Chest pain](Chest%20Pain.md)
 
 It's important to know that people with diabetes may not feel chest pain. That's because diabetes can damage the nerves in your heart. If you have any symptoms that could be heart disease, talk with your health care provider.
 
@@ -56,11 +56,11 @@ To find out if you have diabetic heart disease, your provider will:
 - Ask about your **medical history**, including your symptoms and other health conditions you may have
 - Ask about your **family history**, to find out if you have relatives who have or had heart disease
 - Do a **physical exam**
-- Likely run some **tests** to help understand your [personal risk for heart disease](https://medlineplus.gov/lab-tests/heart-disease-risk-assessment/), including:
+- Likely run some **tests** to help understand your personal risk for heart disease, including:
 
- - Blood tests to check your [cholesterol](https://medlineplus.gov/lab-tests/cholesterol-levels/""), [triglycerides](https://medlineplus.gov/lab-tests/triglycerides-test/), and [blood sugar levels](https://medlineplus.gov/lab-tests/blood-glucose-test/)
- - [A blood-pressure check](https://medlineplus.gov/lab-tests/measuring-blood-pressure/)
- - [Heart tests](https://medlineplus.gov/hearthealthtests.html), if needed
+ - Blood tests to check your cholesterol, triglycerides, and blood sugar levels
+ - A blood-pressure check
+ - [Heart tests](Heart%20Health%20Tests.md), if needed
 
 Depending on your risk level, your provider may send you to a cardiologist (a doctor who specializes in heart diseases) for care. If you do have heart disease, treatment will depend on the type of heart disease you have.
 
@@ -71,19 +71,19 @@ You may be able to prevent heart disease or keep it from getting worse by workin
 - Control your blood sugar levels
 - Manage other conditions you may have that can raise your risk for heart disease
 - Take any medicines your provider prescribed
-- Make [heart-healthy habits](https://medlineplus.gov/howtopreventheartdisease.html) part of your daily life
-- [Follow a healthy eating plan for diabetes](https://medlineplus.gov/diabeticdiet.html)
+- Make [heart-healthy habits](How%20to%20Prevent%20Heart%20Disease.md) part of your daily life
+- [Follow a healthy eating plan for diabetes](Diabetic%20Diet.md)
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Cardiomyopathy
-- Coronary Artery Disease
-- Diabetes
-- Diabetes Complications
-- Heart Failure
+- [Cardiomyopathy](Cardiomyopathy.md)
+- [Coronary Artery Disease](Coronary%20Artery%20Disease.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Heart Failure](Heart%20Failure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabeticheartdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabeticheartdisease.html). General information, not medical advice.*

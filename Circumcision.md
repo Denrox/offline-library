@@ -12,8 +12,8 @@ As parents, it is your decision whether to have your baby circumcised. When maki
 
 The possible medical benefits of circumcision include:
 
-- A lower risk of [HIV](https://medlineplus.gov/hiv.html) and some other [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs).
-- A slightly lower risk of [urinary tract infections](https://medlineplus.gov/urinarytractinfections.html) (UTIs) during the first year of life and penile cancer later in life. However, these conditions are rare in all males (circumcised or not).
+- A lower risk of [HIV](HIV.md) and some other [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs).
+- A slightly lower risk of [urinary tract infections](Urinary%20Tract%20Infections.md) (UTIs) during the first year of life and penile cancer later in life. However, these conditions are rare in all males (circumcised or not).
 - Prevention of certain penile problems, such as foreskin infections and phimosis, a condition in which the foreskin can't be retracted (pulled back).
 - Easier hygiene.
 
@@ -29,7 +29,7 @@ These risks are higher when circumcision is performed on older babies, boys, and
 
 #### What else do I need to know about circumcision?
 
-[Premature babies](https://medlineplus.gov/prematurebabies.html) and babies born with health problems should not be circumcised until they are healthy.
+[Premature babies](Premature%20Babies.md) and babies born with health problems should not be circumcised until they are healthy.
 
 If have your baby circumcised, ask their provider how to care for the penis as it heals.
 
@@ -37,4 +37,4 @@ If your baby does not get circumcised, their provider can teach you how to keep 
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/circumcision.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/circumcision.html). General information, not medical advice.*

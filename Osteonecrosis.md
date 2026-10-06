@@ -21,8 +21,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Hip Injuries and Disorders
+- [Hip Injuries and Disorders](Hip%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/osteonecrosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/osteonecrosis.html). General information, not medical advice.*

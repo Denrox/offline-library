@@ -13,4 +13,4 @@ Agency for Toxic Substances and Disease Registry
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mercury.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mercury.html). General information, not medical advice.*

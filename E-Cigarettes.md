@@ -15,4 +15,4 @@ NIH: National Institute on Drug Abuse
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ecigarettes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ecigarettes.html). General information, not medical advice.*

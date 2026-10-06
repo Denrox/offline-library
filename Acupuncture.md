@@ -8,4 +8,4 @@ NIH: National Center for Complementary and Integrative Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acupuncture.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acupuncture.html). General information, not medical advice.*

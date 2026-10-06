@@ -8,21 +8,21 @@ But there are also challenges to living in a rural area, including when it comes
 - A higher percentage of older adults, who are more likely to have chronic health problems.
 - More residents without health insurance.
 - Less access to health care. For example, clinics and hospitals may be far away.
-- Higher rates of certain substance use, such as [cigarette smoking](https://medlineplus.gov/smoking.html) and [opioid](https://medlineplus.gov/opioidsandopioidusedisorderoud.html) and [methamphetamine](https://medlineplus.gov/methamphetamine.html) misuse.
-- Higher rates of chronic health problems such as [high blood pressure](https://medlineplus.gov/highbloodpressure.html) and [obesity](https://medlineplus.gov/obesity.html).
+- Higher rates of certain substance use, such as [cigarette smoking](Smoking.md) and [opioid](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md) and [methamphetamine](Methamphetamine.md) misuse.
+- Higher rates of chronic health problems such as [high blood pressure](High%20Blood%20Pressure.md) and [obesity](Obesity.md).
 - More exposure to environmental hazards, such as chemicals used for farming.
 
 There are solutions to deal with these problems. A few examples include:
 
-- Clinics offering [telehealth](https://medlineplus.gov/telehealth.html) to provide care for people who live far away from specialists or can't easily get to their providers' offices.
+- Clinics offering [telehealth](Telehealth.md) to provide care for people who live far away from specialists or can't easily get to their providers' offices.
 - Local public health agencies working with their communities to promote healthy living. They can provide wellness and exercise classes and start a farmer's market.
 - Local governments adding bike lanes and trails to encourage people to bike and walk.
 - Rural schools can offer counseling and mental health services for their students.
 
 ## Related topics
 
-- Telehealth
+- [Telehealth](Telehealth.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ruralhealthconcerns.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ruralhealthconcerns.html). General information, not medical advice.*

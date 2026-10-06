@@ -17,11 +17,11 @@ In some cases, aphasia may get better on its own. But it can be a long-term cond
 
 Aphasia happens from damage to one or more parts of the brain involved with language. The damage may be from:
 
-- [Stroke](https://medlineplus.gov/stroke.html), which is the most common cause of aphasia
-- [Brain tumor](https://medlineplus.gov/braintumors.html)
+- [Stroke](Stroke.md), which is the most common cause of aphasia
+- [Brain tumor](Brain%20Tumors.md)
 - Brain infection or inflammation
-- [Brain injury](https://medlineplus.gov/traumaticbraininjury.html)
-- Other [brain disorders](https://medlineplus.gov/braindiseases.html) or [neurologic diseases](https://medlineplus.gov/neurologicdiseases.html) that affect the brain and get worse over time, such as [dementia](https://medlineplus.gov/dementia.html)
+- [Brain injury](Traumatic%20Brain%20Injury.md)
+- Other [brain disorders](Brain%20Diseases.md) or [neurologic diseases](Neurologic%20Diseases.md) that affect the brain and get worse over time, such as [dementia](Dementia.md)
 
 #### Who is more likely to develop aphasia?
 
@@ -34,10 +34,10 @@ If a health care provider sees signs of aphasia, the provider will usually:
 - Test the person's ability to understand language and speech. This includes asking questions and checking to see if the person can follow simple commands.
 - Order an imaging scan to see if there's a brain injury and what part of the brain is damaged. Possible tests include:
 
- - [MRI](https://medlineplus.gov/mriscans.html)
- - [CT scan](https://medlineplus.gov/ctscans.html)
+ - [MRI](MRI%20Scans.md)
+ - [CT scan](CT%20Scans.md)
 
-If imaging shows signs of aphasia, more tests may be needed. These tests measure how much the brain damage has affected the ability to talk, read, write, and understand. In most cases, the tests are done by a speech-language pathologist or speech therapist (a specialist who treats [speech and communication disorders](https://medlineplus.gov/speechandcommunicationdisorders.html)).
+If imaging shows signs of aphasia, more tests may be needed. These tests measure how much the brain damage has affected the ability to talk, read, write, and understand. In most cases, the tests are done by a speech-language pathologist or speech therapist (a specialist who treats [speech and communication disorders](Speech%20and%20Communication%20Disorders.md)).
 
 #### What are the treatments for aphasia?
 
@@ -66,24 +66,24 @@ How much a person recovers depends on many things, including:
 
 You can help prevent aphasia by:
 
-- Making [heart-healthy lifestyle changes](https://medlineplus.gov/howtopreventheartdisease.html) to lower your chance of having:
+- Making [heart-healthy lifestyle changes](How%20to%20Prevent%20Heart%20Disease.md) to lower your chance of having:
 
  - A stroke
- - [Heart disease](https://medlineplus.gov/heartdiseases.html)
- - [Vascular disease](https://medlineplus.gov/vasculardiseases.html) (problems with your blood vessels)
+ - [Heart disease](Heart%20Diseases.md)
+ - [Vascular disease](Vascular%20Diseases.md) (problems with your blood vessels)
 - Protecting your brain from injury:
 
- - Wearing the right helmet for [sports safety](https://medlineplus.gov/sportssafety.html), such as when riding a bike
- - Taking action to prevent [falls](https://medlineplus.gov/falls.html)
- - Always wearing your seatbelt and [driving safely](https://medlineplus.gov/motorvehiclesafety.html)
+ - Wearing the right helmet for [sports safety](Sports%20Safety.md), such as when riding a bike
+ - Taking action to prevent [falls](Falls.md)
+ - Always wearing your seatbelt and [driving safely](Motor%20Vehicle%20Safety.md)
 
 NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Speech and Communication Disorders
-- Stroke
+- [Speech and Communication Disorders](Speech%20and%20Communication%20Disorders.md)
+- [Stroke](Stroke.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/aphasia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/aphasia.html). General information, not medical advice.*

@@ -4,13 +4,13 @@
 
 #### What are antidepressants?
 
-Antidepressants are prescription medicines to treat depression. [Depression](https://medlineplus.gov/depression.html) is more than feeling a little sad or "blue" for a few days. It's a very common, serious medical illness that affects your mood and general [mental health](https://medlineplus.gov/mentalhealth.html). It can make you feel tired, hopeless, worried, or fearful. It can change your thinking, sleeping, and eating. Depression may make some people think about ending their lives.
+Antidepressants are prescription medicines to treat depression. [Depression](Depression.md) is more than feeling a little sad or "blue" for a few days. It's a very common, serious medical illness that affects your mood and general [mental health](Mental%20Health.md). It can make you feel tired, hopeless, worried, or fearful. It can change your thinking, sleeping, and eating. Depression may make some people think about ending their lives.
 
 But antidepressants can help many people who have depression. Researchers think antidepressants may help improve the way your brain uses certain chemicals that control mood or stress.
 
 #### Are antidepressants used for other conditions?
 
-A health care provider may prescribe antidepressants for [anxiety](https://medlineplus.gov/anxiety.html), [chronic pain](https://medlineplus.gov/chronicpain.html), or [insomnia](https://medlineplus.gov/insomnia.html). Sometimes providers also prescribe antidepressants for other conditions.
+A health care provider may prescribe antidepressants for [anxiety](Anxiety.md), [chronic pain](Chronic%20Pain.md), or [insomnia](Insomnia.md). Sometimes providers also prescribe antidepressants for other conditions.
 
 #### What are the different types of antidepressants?
 
@@ -40,7 +40,7 @@ Your provider will work with you to choose the best option to try first. You'll 
 
 Antidepressants usually take 4 to 8 weeks to work, so you'll need to be patient. You may notice that some problems, such as sleeping and eating, get better before your mood improves. That's a good sign. You may just need to give the medicine a little more time to do its job.
 
-Sometimes an antidepressant helps at first, but symptoms return while you're still taking it. But there's usually another one you can try. To get more relief from depression, your provider may suggest combining two antidepressants, using another kind of medicine with an antidepressant, or adding talk therapy or other approaches [to improve your mental health](https://medlineplus.gov/howtoimprovementalhealth.html).
+Sometimes an antidepressant helps at first, but symptoms return while you're still taking it. But there's usually another one you can try. To get more relief from depression, your provider may suggest combining two antidepressants, using another kind of medicine with an antidepressant, or adding talk therapy or other approaches [to improve your mental health](How%20to%20Improve%20Mental%20Health.md).
 
 #### How long will I need to take an antidepressant?
 
@@ -52,9 +52,9 @@ Not everyone has side effects from antidepressants. But if you do have them, the
 
 The most common side effects from antidepressants include:
 
-- [Nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Nausea and vomiting](Nausea%20and%20Vomiting.md)
 - Weight gain
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Diarrhea](Diarrhea.md)
 - Sleepiness
 - Sexual problems, such as a lack of desire or ability to have sex
 
@@ -70,7 +70,7 @@ In some cases, children, teenagers, and young adults under 25 may be more likely
 
 Antidepressants are generally safe when you use them correctly:
 
-- **Tell your provider about everything you take.** That includes medicines, herbs, supplements, and over-the-counter medicines you take, such as pain relievers and decongestants. Be honest about [recreational drugs](https://medlineplus.gov/druguseandaddiction.html) and alcohol, too.
+- **Tell your provider about everything you take.** That includes medicines, herbs, supplements, and over-the-counter medicines you take, such as pain relievers and decongestants. Be honest about [recreational drugs](Drug%20Use%20and%20Addiction.md) and alcohol, too.
 - **Try to get all your medicines from the same pharmacy.** That way the pharmacist can warn you and your provider if you take medicines that may cause problems when used together.
 - **Follow all instructions about how to take your medicine.**
 - **Talk with your provider if side effects bother you.**
@@ -80,8 +80,8 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Depression
+- [Depression](Depression.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/antidepressants.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/antidepressants.html). General information, not medical advice.*

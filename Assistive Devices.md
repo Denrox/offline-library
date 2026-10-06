@@ -4,14 +4,14 @@
 
 #### What are assistive devices?
 
-Assistive devices are tools, products, or equipment that can help you perform tasks and activities. They may help you [move around](https://medlineplus.gov/mobilityaids.html), see, communicate, eat, or get dressed.
+Assistive devices are tools, products, or equipment that can help you perform tasks and activities. They may help you [move around](Mobility%20Aids.md), see, communicate, eat, or get dressed.
 
 #### Who might benefit from assistive devices?
 
 You may use various assistive devices if you:
 
 - Have a disability or injury
-- Have certain health conditions such as [dementia](https://medlineplus.gov/dementia.html), or if you've had a [stroke](https://medlineplus.gov/stroke.html)
+- Have certain health conditions such as [dementia](Dementia.md), or if you've had a [stroke](Stroke.md)
 - Are an older adult
 
 You might use an assistive device for a short time or long term. Others might use them throughout their lifespan.
@@ -35,15 +35,15 @@ Assistive devices may also be used to make changes to your physical environment 
 
 ## Related topics
 
-- Artificial Limbs
-- Cochlear Implants
-- Disabilities
-- Eyewear
-- Hearing Aids
-- Medical Device Safety
-- Mobility Aids
-- Rehabilitation
+- [Artificial Limbs](Artificial%20Limbs.md)
+- [Cochlear Implants](Cochlear%20Implants.md)
+- [Disabilities](Disabilities.md)
+- [Eyewear](Eyewear.md)
+- [Hearing Aids](Hearing%20Aids.md)
+- [Medical Device Safety](Medical%20Device%20Safety.md)
+- [Mobility Aids](Mobility%20Aids.md)
+- [Rehabilitation](Rehabilitation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/assistivedevices.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/assistivedevices.html). General information, not medical advice.*

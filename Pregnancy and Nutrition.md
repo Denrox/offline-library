@@ -2,30 +2,30 @@
 
 #### What is nutrition, and why is it important during pregnancy?
 
-Nutrition is about eating a healthy and balanced diet so your body gets the nutrients that it needs. Nutrients are substances in foods that our bodies need so they can function and grow. They include [carbohydrates](https://medlineplus.gov/carbohydrates.html), [fats](https://medlineplus.gov/dietaryfats.html), [proteins](https://medlineplus.gov/dietaryproteins.html), [vitamins](https://medlineplus.gov/vitamins.html), [minerals](https://medlineplus.gov/minerals.html), and water.
+Nutrition is about eating a healthy and balanced diet so your body gets the nutrients that it needs. Nutrients are substances in foods that our bodies need so they can function and grow. They include [carbohydrates](Carbohydrates.md), [fats](Dietary%20Fats.md), [proteins](Dietary%20Proteins.md), [vitamins](Vitamins.md), [minerals](Minerals.md), and water.
 
-When you're [pregnant](https://medlineplus.gov/pregnancy.html), nutrition is more important than ever. You need more of many important nutrients than you did before pregnancy. Making healthy food choices every day will help you give your baby what they [need to develop](https://medlineplus.gov/fetalhealthanddevelopment.html). It will also help make sure that you and your baby gain a healthy amount of weight.
+When you're [pregnant](Pregnancy.md), nutrition is more important than ever. You need more of many important nutrients than you did before pregnancy. Making healthy food choices every day will help you give your baby what they [need to develop](Fetal%20Health%20and%20Development.md). It will also help make sure that you and your baby gain a healthy amount of weight.
 
 #### Do I have any special nutritional needs now that I am pregnant?
 
 You need more folic acid, iron, calcium, and vitamin D than you did before pregnancy:
 
-- [Folic acid](https://medlineplus.gov/folicacid.html) is a B vitamin that may help prevent [neural tube defects](https://medlineplus.gov/neuraltubedefects.html).
+- [Folic acid](Folic%20Acid.md) is a B vitamin that may help prevent [neural tube defects](Neural%20Tube%20Defects.md).
 
  - Before pregnancy, you need 400 mcg (micrograms) per day.
  - During pregnancy and when breastfeeding, you need 600 mcg per day from foods and/or vitamins. It is hard to get this amount from foods alone, so you will most likely need to take a supplement that contains folic acid.
-- [Iron](https://medlineplus.gov/iron.html) is important for your baby's growth and brain development. During pregnancy, the amount of blood in your body increases, so you need more iron for yourself and your growing baby. You should get 27 mg (milligrams) of iron a day.
-- [Calcium](https://medlineplus.gov/calcium.html) during pregnancy can reduce your risk of [preeclampsia](https://medlineplus.gov/highbloodpressureinpregnancy.html). It's a serious medical condition that causes a sudden increase in your blood pressure. Calcium also builds up your baby's bones and teeth.
+- [Iron](Iron.md) is important for your baby's growth and brain development. During pregnancy, the amount of blood in your body increases, so you need more iron for yourself and your growing baby. You should get 27 mg (milligrams) of iron a day.
+- [Calcium](Calcium.md) during pregnancy can reduce your risk of [preeclampsia](High%20Blood%20Pressure%20in%20Pregnancy.md). It's a serious medical condition that causes a sudden increase in your blood pressure. Calcium also builds up your baby's bones and teeth.
 
  - Pregnant adults should get 1,000 mg (milligrams) of calcium a day
  - Pregnant teenagers (ages 14-18) need 1,300 mg of calcium a day
-- [Vitamin D](https://medlineplus.gov/vitamind.html) helps the calcium to build your baby's bones and teeth. All women, pregnant or not, should be getting 600 IU (international units) of vitamin D per day.
+- [Vitamin D](Vitamin%20D.md) helps the calcium to build your baby's bones and teeth. All women, pregnant or not, should be getting 600 IU (international units) of vitamin D per day.
 
-Keep in mind that taking too much of a supplement can be harmful. For example, very high levels of vitamin A can cause [birth defects](https://medlineplus.gov/birthdefects.html). Only take vitamins and mineral supplements that your health care provider recommends.
+Keep in mind that taking too much of a supplement can be harmful. For example, very high levels of vitamin A can cause [birth defects](Birth%20Defects.md). Only take vitamins and mineral supplements that your health care provider recommends.
 
 You also need more protein when you are pregnant. Healthy sources of protein include beans, peas, eggs, lean meats, seafood, and unsalted nuts and seeds.
 
-Getting enough fluids is another special nutritional concern during pregnancy. When you are pregnant, your body needs even more water to [stay hydrated](https://medlineplus.gov/fluidandelectrolytebalance.html) and support the life inside you. So it's important to drink enough fluids every day.
+Getting enough fluids is another special nutritional concern during pregnancy. When you are pregnant, your body needs even more water to [stay hydrated](Fluid%20and%20Electrolyte%20Balance.md) and support the life inside you. So it's important to drink enough fluids every day.
 
 #### How much weight should I gain during my pregnancy?
 
@@ -52,9 +52,9 @@ Keep in mind that not all calories are equal. You should eat healthy foods that 
 
 During pregnancy, you should avoid:
 
-- **Alcohol.** There is no known amount of alcohol that is safe for a woman to [drink during pregnancy](https://medlineplus.gov/pregnancyandsubstanceuse.html).
+- **Alcohol.** There is no known amount of alcohol that is safe for a woman to [drink during pregnancy](Pregnancy%20and%20Substance%20Use.md).
 - **Fish that may have high levels of mercury.** Limit white (albacore) tuna to 6 ounces per week. Do not eat tilefish, shark, swordfish, marlin, orange roughy, or king mackerel.
-- **Foods that are more likely to contain germs that could cause [foodborne illness](https://medlineplus.gov/foodborneillness.html)**, including
+- **Foods that are more likely to contain germs that could cause [foodborne illness](Foodborne%20Illness.md)**, including
 
  - Refrigerated smoked seafood like whitefish, salmon, and mackerel
  - Undercooked meat, poultry, eggs, and seafood
@@ -66,8 +66,8 @@ During pregnancy, you should avoid:
  - Raw sprouts of any kind (including alfalfa, clover, radish, and mung bean)
  - Raw cookie dough
  - Unwashed fruits and vegetables
-- **Too much [caffeine](https://medlineplus.gov/caffeine.html).** Drinking high amounts of caffeine may be harmful for your baby. For most people, it's best to limit caffeine to less than 200 mg per day during pregnancy. But first check with your provider about whether you should have caffeine at all.
+- **Too much [caffeine](Caffeine.md).** Drinking high amounts of caffeine may be harmful for your baby. For most people, it's best to limit caffeine to less than 200 mg per day during pregnancy. But first check with your provider about whether you should have caffeine at all.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pregnancyandnutrition.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pregnancyandnutrition.html). General information, not medical advice.*

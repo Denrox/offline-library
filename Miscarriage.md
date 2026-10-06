@@ -4,7 +4,7 @@
 
 #### What is a miscarriage?
 
-A miscarriage is an unexpected loss of pregnancy before the 20th week. Most miscarriages happen very early in the pregnancy, often before a woman even knows she is [pregnant](https://medlineplus.gov/pregnancy.html).
+A miscarriage is an unexpected loss of pregnancy before the 20th week. Most miscarriages happen very early in the pregnancy, often before a woman even knows she is [pregnant](Pregnancy.md).
 
 #### What causes a miscarriage?
 
@@ -12,13 +12,13 @@ A miscarriage can happen in any pregnancy. Most miscarriages occur because the f
 
 In many cases, the cause of a miscarriage is unknown. Some possible factors that may increase the chance of a miscarriage can include:
 
-- Problems with the [uterus](https://medlineplus.gov/uterinediseases.html) or [cervix](https://medlineplus.gov/cervixdisorders.html)
-- Chronic diseases, including [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html)
+- Problems with the [uterus](Uterine%20Diseases.md) or [cervix](Cervix%20Disorders.md)
+- Chronic diseases, including [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md)
 - Genetic problems with the fetus
 - Pregnancy after 35 years of age
-- [Smoking, drug or alcohol](https://medlineplus.gov/pregnancyandsubstanceuse.html) use
-- Certain chronic (long-term) health conditions, such as uncontrolled [diabetes](https://medlineplus.gov/diabetesandpregnancy.html)
-- Severe [malnutrition](https://medlineplus.gov/malnutrition.html)
+- [Smoking, drug or alcohol](Pregnancy%20and%20Substance%20Use.md) use
+- Certain chronic (long-term) health conditions, such as uncontrolled [diabetes](Diabetes%20and%20Pregnancy.md)
+- Severe [malnutrition](Malnutrition.md)
 
 #### What are the signs of a miscarriage?
 
@@ -26,7 +26,7 @@ The signs of a miscarriage may be different for everyone and can vary based on h
 
 Signs of a miscarriage can include:
 
-- Vaginal spotting or [bleeding](https://medlineplus.gov/vaginalbleeding.html) with or without pain. Some women may have some spotting in early pregnancy and don't miscarry. To be sure, contact your provider right away if you have any bleeding.
+- Vaginal spotting or [bleeding](Vaginal%20Bleeding.md) with or without pain. Some women may have some spotting in early pregnancy and don't miscarry. To be sure, contact your provider right away if you have any bleeding.
 - Dark-colored vaginal discharge.
 - A gush of fluid or tissue from your vagina.
 - Cramping or pain in your abdomen (belly) or lower back.
@@ -37,13 +37,13 @@ Sometimes, it's hard to know what's normal during pregnancy. If something seems 
 
 To check if you have had a miscarriage, your provider may do the following:
 
-- A [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html) to check your cervix.
-- Blood tests to check things such as the amount of blood loss and [confirm pregnancy](https://medlineplus.gov/lab-tests/pregnancy-test/).
-- An [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) to check the fetus.
+- A [pelvic exam](Women%27s%20Health%20Checkup.md) to check your cervix.
+- Blood tests to check things such as the amount of blood loss and confirm pregnancy.
+- An ultrasound to check the fetus.
 
 #### What is the treatment for a miscarriage?
 
-Treatment after a miscarriage often depends on when it occurs during the pregnancy. If you miscarry early in your pregnancy, you may not need any treatment. If you are 12 or more weeks pregnant, you may need a shot to prevent problems with the [Rh factor](https://medlineplus.gov/rhincompatibility.html) in future pregnancies.
+Treatment after a miscarriage often depends on when it occurs during the pregnancy. If you miscarry early in your pregnancy, you may not need any treatment. If you are 12 or more weeks pregnant, you may need a shot to prevent problems with the [Rh factor](Rh%20Incompatibility.md) in future pregnancies.
 
 In some cases, tissue is left in the uterus. If you don't have any signs of infection, your provider may recommend waiting for the tissue to pass naturally. If you need treatment to remove the tissue, it can include:
 
@@ -54,15 +54,15 @@ No matter when it occurs, losing a pregnancy can be difficult. Counseling may he
 
 #### Can a miscarriage be prevented?
 
-Miscarriage can affect anyone and often can't be prevented. Focus on taking good care of yourself and start [prenatal care](https://medlineplus.gov/prenatalcare.html) visits early in your pregnancy.
+Miscarriage can affect anyone and often can't be prevented. Focus on taking good care of yourself and start [prenatal care](Prenatal%20Care.md) visits early in your pregnancy.
 
 NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Ectopic Pregnancy
-- Stillbirth
+- [Ectopic Pregnancy](Ectopic%20Pregnancy.md)
+- [Stillbirth](Stillbirth.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/miscarriage.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/miscarriage.html). General information, not medical advice.*

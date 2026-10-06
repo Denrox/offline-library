@@ -4,7 +4,7 @@ Your cornea is the outermost layer of your eye. It is clear and shaped like a do
 
 Problems with the cornea include:
 
-- [Refractive errors](https://medlineplus.gov/refractiveerrors.html)
+- [Refractive errors](Refractive%20Errors.md)
 - Allergies
 - Infections
 - Injuries
@@ -16,11 +16,11 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Eye Diseases
-- Eye Infections
-- Eye Injuries
-- Refractive Errors
+- [Eye Diseases](Eye%20Diseases.md)
+- [Eye Infections](Eye%20Infections.md)
+- [Eye Injuries](Eye%20Injuries.md)
+- [Refractive Errors](Refractive%20Errors.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cornealdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cornealdisorders.html). General information, not medical advice.*

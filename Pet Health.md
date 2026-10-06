@@ -14,10 +14,10 @@ Once you own a pet, keep it healthy. Know the signs of medical problems. Take yo
 
 ## Related topics
 
-- Animal Diseases and Your Health
-- Mpox
-- Rabies
+- [Animal Diseases and Your Health](Animal%20Diseases%20and%20Your%20Health.md)
+- [Mpox](Mpox.md)
+- [Rabies](Rabies.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pethealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pethealth.html). General information, not medical advice.*

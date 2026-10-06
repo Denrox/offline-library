@@ -14,17 +14,17 @@ The flu is caused by flu viruses that spread from person to person. When someone
 
 Symptoms of the flu come on suddenly and may include:
 
-- [Fever](https://medlineplus.gov/fever.html) or feeling feverish/chills
-- [Cough](https://medlineplus.gov/cough.html)
-- [Sore throat](https://medlineplus.gov/sorethroat.html)
+- [Fever](Fever.md) or feeling feverish/chills
+- [Cough](Cough.md)
+- [Sore throat](Sore%20Throat.md)
 - Runny or stuffy nose
 - Muscle or body aches
-- [Headaches](https://medlineplus.gov/headache.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html) (tiredness)
+- [Headaches](Headache.md)
+- [Fatigue](Fatigue.md) (tiredness)
 
-Some people may also have [vomiting](https://medlineplus.gov/nauseaandvomiting.html) and [diarrhea](https://medlineplus.gov/diarrhea.html). This is more common in children.
+Some people may also have [vomiting](Nausea%20and%20Vomiting.md) and [diarrhea](Diarrhea.md). This is more common in children.
 
-Sometimes people have trouble figuring out whether they have a [cold](https://medlineplus.gov/commoncold.html) or the flu. There are differences between them:
+Sometimes people have trouble figuring out whether they have a [cold](Common%20Cold.md) or the flu. There are differences between them:
 
 - Signs and Symptoms  Cold  Flu
 - Start of symptoms  Slowly  Suddenly
@@ -33,30 +33,30 @@ Sometimes people have trouble figuring out whether they have a [cold](https://me
 - Fatigue, weakness  Sometimes  Usually
 - Headache  Rarely  Common
 - Stuffy nose, sneezing, or sore throat  Common  Sometimes  
-Sometimes people say that they have a "flu" when they really have something else. For example, "stomach flu" isn't the flu; it's [gastroenteritis](https://medlineplus.gov/gastroenteritis.html).
+Sometimes people say that they have a "flu" when they really have something else. For example, "stomach flu" isn't the flu; it's [gastroenteritis](Gastroenteritis.md).
 
 #### What other problems can the flu cause?
 
 Some people who get the flu will develop complications. Some of these complications can be serious or even life-threatening. They include:
 
-- [Bronchitis](https://medlineplus.gov/acutebronchitis.html)
-- [Ear infection](https://medlineplus.gov/earinfections.html)
-- [Sinus infection](https://medlineplus.gov/sinusitis.html)
-- [Pneumonia](https://medlineplus.gov/pneumonia.html)
-- Inflammation of the heart (myocarditis), brain ([encephalitis](https://medlineplus.gov/encephalitis.html)), or muscle tissues ([myositis](https://medlineplus.gov/myositis.html), rhabdomyolysis)
+- [Bronchitis](Acute%20Bronchitis.md)
+- [Ear infection](Ear%20Infections.md)
+- [Sinus infection](Sinusitis.md)
+- [Pneumonia](Pneumonia.md)
+- Inflammation of the heart (myocarditis), brain ([encephalitis](Encephalitis.md)), or muscle tissues ([myositis](Myositis.md), rhabdomyolysis)
 
-The flu also can make chronic health problems worse. For example, people with [asthma](https://medlineplus.gov/asthma.html) may have asthma attacks while they have flu.
+The flu also can make chronic health problems worse. For example, people with [asthma](Asthma.md) may have asthma attacks while they have flu.
 
 Certain people are more likely to have complications from the flu, including:
 
 - Adults 65 and older
-- [Pregnant women](https://medlineplus.gov/infectionsandpregnancy.html)
+- [Pregnant women](Infections%20and%20Pregnancy.md)
 - Children younger than 5
 - People with certain chronic health conditions, such as asthma, diabetes, and heart disease
 
 #### How is the flu diagnosed?
 
-To diagnose the flu, health care providers will first do a medical history and ask about your symptoms. There are several [tests for the flu](https://medlineplus.gov/lab-tests/flu-influenza-test/). For the tests, your provider will swipe the inside of your nose or the back of your throat with a swab. Then the swab will be tested for the flu virus.
+To diagnose the flu, health care providers will first do a medical history and ask about your symptoms. There are several tests for the flu. For the tests, your provider will swipe the inside of your nose or the back of your throat with a swab. Then the swab will be tested for the flu virus.
 
 Some tests are quick and give results in 15-20 minutes. But these tests are not as accurate as other flu tests. These other tests can give you the results in one hour or several hours.
 
@@ -68,18 +68,18 @@ But if you have symptoms of flu and are in a high risk group or are very sick or
 
 #### Can the flu be prevented?
 
-The best way to prevent the flu is to get a [flu vaccine](https://medlineplus.gov/flushot.html) every year. But it's also important to have [good health habits](https://medlineplus.gov/germsandhygiene.html) like covering your cough and washing your hands often. This can help stop the spread of germs and prevent the flu.
+The best way to prevent the flu is to get a [flu vaccine](Flu%20Shot.md) every year. But it's also important to have [good health habits](Germs%20and%20Hygiene.md) like covering your cough and washing your hands often. This can help stop the spread of germs and prevent the flu.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Bird Flu
-- Common Cold
-- Flu Shot
-- H1N1 Flu (Swine Flu)
-- Viral Infections
+- [Bird Flu](Bird%20Flu.md)
+- [Common Cold](Common%20Cold.md)
+- [Flu Shot](Flu%20Shot.md)
+- [H1N1 Flu (Swine Flu)](H1N1%20Flu%20%28Swine%20Flu%29.md)
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/flu.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/flu.html). General information, not medical advice.*

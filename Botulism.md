@@ -2,7 +2,7 @@
 
 Botulism is a rare but serious illness. The cause is a toxin (poison) made by a bacterium called Clostridium botulinum. It occurs naturally in soil.
 
-There are several kinds of botulism. [Foodborne](https://medlineplus.gov/foodborneillness.html) botulism comes from eating foods contaminated with the toxin. Wound botulism happens when a wound infected with the bacteria makes the toxin. It is more common in heroin users. Infant botulism happens when a baby consumes the spores of the bacteria from soil or honey. All forms can be deadly and are medical emergencies.
+There are several kinds of botulism. [Foodborne](Foodborne%20Illness.md) botulism comes from eating foods contaminated with the toxin. Wound botulism happens when a wound infected with the bacteria makes the toxin. It is more common in heroin users. Infant botulism happens when a baby consumes the spores of the bacteria from soil or honey. All forms can be deadly and are medical emergencies.
 
 Symptoms include double or blurred vision, drooping eyelids, slurred speech, difficulty swallowing, dry mouth, and muscle weakness. Treatment may include antitoxins, intensive medical care, or surgery of infected wounds.
 
@@ -16,11 +16,11 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Biodefense and Bioterrorism
-- Botox
-- Food Safety
-- Foodborne Illness
+- [Biodefense and Bioterrorism](Biodefense%20and%20Bioterrorism.md)
+- [Botox](Botox.md)
+- [Food Safety](Food%20Safety.md)
+- [Foodborne Illness](Foodborne%20Illness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/botulism.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/botulism.html). General information, not medical advice.*

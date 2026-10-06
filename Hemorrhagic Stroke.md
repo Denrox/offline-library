@@ -4,9 +4,9 @@
 
 #### What is a hemorrhagic stroke?
 
-A [stroke](https://medlineplus.gov/stroke.html) happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
+A [stroke](Stroke.md) happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
 
-There are two main types of strokes, [ischemic](https://medlineplus.gov/ischemicstroke.html) and hemorrhagic. A hemorrhagic stroke is less common but often more severe. It occurs when a blood vessel in the brain bursts, causing bleeding (hemorrhage) in or around the brain. This bleeding increases pressure inside the skull and damages brain tissue. Within minutes, brain cells begin to die.
+There are two main types of strokes, [ischemic](Ischemic%20Stroke.md) and hemorrhagic. A hemorrhagic stroke is less common but often more severe. It occurs when a blood vessel in the brain bursts, causing bleeding (hemorrhage) in or around the brain. This bleeding increases pressure inside the skull and damages brain tissue. Within minutes, brain cells begin to die.
 
 #### What are the types of hemorrhagic stroke?
 
@@ -19,10 +19,10 @@ Hemorrhagic strokes are classified by where the bleeding happens:
 
 Common causes include:
 
-- **[Aneurysm](https://medlineplus.gov/aneurysms.html).** A bulge or "ballooning" in a weakened artery wall that can burst.
-- **[Arteriovenous malformation](https://medlineplus.gov/arteriovenousmalformations.html) (AVM).** A tangled group of abnormal blood vessels that can rupture inside the brain.
-- **[High blood pressure](https://medlineplus.gov/highbloodpressure.html) (hypertension).** Over time, it can weaken blood vessel walls and increase the risk of them breaking open.
-- **Head trauma.** Brain [injury](https://medlineplus.gov/traumaticbraininjury.html) can cause bleeding.
+- **[Aneurysm](Aneurysms.md).** A bulge or "ballooning" in a weakened artery wall that can burst.
+- **[Arteriovenous malformation](Arteriovenous%20Malformations.md) (AVM).** A tangled group of abnormal blood vessels that can rupture inside the brain.
+- **[High blood pressure](High%20Blood%20Pressure.md) (hypertension).** Over time, it can weaken blood vessel walls and increase the risk of them breaking open.
+- **Head trauma.** Brain [injury](Traumatic%20Brain%20Injury.md) can cause bleeding.
 
 #### What are the symptoms of a hemorrhagic stroke?
 
@@ -43,20 +43,20 @@ The **F.A.S.T.** test can help you remember what to look for if you think someon
 
 #### How is a hemorrhagic stroke diagnosed?
 
-To make a diagnosis, your health care provider may do a physical exam, ask about your symptoms and medical history, and use [imaging tests](https://medlineplus.gov/diagnosticimaging.html) to check for bleeding in your brain.
+To make a diagnosis, your health care provider may do a physical exam, ask about your symptoms and medical history, and use [imaging tests](Diagnostic%20Imaging.md) to check for bleeding in your brain.
 
 #### How is hemorrhagic stroke treated?
 
 It is important to treat strokes as quickly as possible. For a hemorrhagic stroke, the first step is to find the cause of bleeding in the brain and stop it. Treatment may involve medicines or, in some cases, surgery to stop the bleeding or relieve pressure on the brain.
 
-After the stroke, [rehabilitation](https://medlineplus.gov/strokerehabilitation.html) can help people recover lost abilities and regain independence.
+After the stroke, [rehabilitation](Stroke%20Rehabilitation.md) can help people recover lost abilities and regain independence.
 
 #### Can a hemorrhagic stroke be prevented?
 
-The best way to prevent stroke is by making [heart-healthy lifestyle changes](https://medlineplus.gov/howtopreventheartdisease.html) to lower your risk. If lifestyle changes aren't enough, your provider may prescribe medicine to help manage your risk factors.
+The best way to prevent stroke is by making [heart-healthy lifestyle changes](How%20to%20Prevent%20Heart%20Disease.md) to lower your risk. If lifestyle changes aren't enough, your provider may prescribe medicine to help manage your risk factors.
 
 NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hemorrhagicstroke.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hemorrhagicstroke.html). General information, not medical advice.*

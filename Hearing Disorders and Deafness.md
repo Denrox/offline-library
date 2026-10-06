@@ -7,30 +7,30 @@ It's frustrating to be unable to hear well enough to enjoy talking with friends 
 What causes hearing loss? Some possibilities are:
 
 - Heredity
-- Diseases such as [ear infections](https://medlineplus.gov/earinfections.html) and [meningitis](https://medlineplus.gov/meningitis.html)
+- Diseases such as [ear infections](Ear%20Infections.md) and [meningitis](Meningitis.md)
 - Trauma
 - Certain medicines
-- Long-term exposure to loud [noise](https://medlineplus.gov/noise.html)
+- Long-term exposure to loud [noise](Noise.md)
 - Aging
 
 There are two main types of hearing loss. One happens when your inner ear or auditory nerve is damaged. This type is usually permanent. The other kind happens when sound waves cannot reach your inner ear. Earwax buildup, fluid, or a punctured eardrum can cause it. Treatment or surgery can often reverse this kind of hearing loss.
 
-Untreated, hearing problems can get worse. If you have trouble hearing, you can get help. Possible treatments include [hearing aids](https://medlineplus.gov/hearingaids.html), [cochlear implants](https://medlineplus.gov/cochlearimplants.html), special training, certain medicines, and surgery.
+Untreated, hearing problems can get worse. If you have trouble hearing, you can get help. Possible treatments include [hearing aids](Hearing%20Aids.md), [cochlear implants](Cochlear%20Implants.md), special training, certain medicines, and surgery.
 
 NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Assistive Devices
-- Barotrauma
-- Cochlear Implants
-- Hearing Aids
-- Hearing Problems in Children
-- Meniere's Disease
-- Noise
-- Speech and Communication Disorders
-- Tinnitus
+- [Assistive Devices](Assistive%20Devices.md)
+- [Barotrauma](Barotrauma.md)
+- [Cochlear Implants](Cochlear%20Implants.md)
+- [Hearing Aids](Hearing%20Aids.md)
+- [Hearing Problems in Children](Hearing%20Problems%20in%20Children.md)
+- [Meniere's Disease](Meniere%27s%20Disease.md)
+- [Noise](Noise.md)
+- [Speech and Communication Disorders](Speech%20and%20Communication%20Disorders.md)
+- [Tinnitus](Tinnitus.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hearingdisordersanddeafness.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hearingdisordersanddeafness.html). General information, not medical advice.*

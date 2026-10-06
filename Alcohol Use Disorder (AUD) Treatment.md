@@ -4,7 +4,7 @@
 
 #### What is an alcohol use disorder?
 
-An [alcohol use disorder](https://medlineplus.gov/alcoholusedisorderaud.html)(AUD) is drinking that causes distress and harm. It is a medical condition in which you:
+An [alcohol use disorder](Alcohol%20Use%20Disorder%20%28AUD%29.md)(AUD) is drinking that causes distress and harm. It is a medical condition in which you:
 
 - Drink alcohol compulsively
 - Can't control how much you drink
@@ -45,9 +45,9 @@ NIH: National Institute on Alcohol Abuse and Alcoholism
 
 ## Related topics
 
-- Alcohol
-- Alcohol Use Disorder (AUD)
+- [Alcohol](Alcohol.md)
+- [Alcohol Use Disorder (AUD)](Alcohol%20Use%20Disorder%20%28AUD%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/alcoholusedisorderaudtreatment.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/alcoholusedisorderaudtreatment.html). General information, not medical advice.*

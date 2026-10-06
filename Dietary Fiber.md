@@ -2,7 +2,7 @@
 
 *Also called: Bulk, Roughage*
 
-Fiber is a substance in plants. Dietary fiber is the kind you eat. It's a type of [carbohydrate](https://medlineplus.gov/carbohydrates.html). You may also see it listed on a food label as soluble fiber or insoluble fiber. Both types have important health benefits.
+Fiber is a substance in plants. Dietary fiber is the kind you eat. It's a type of [carbohydrate](Carbohydrates.md). You may also see it listed on a food label as soluble fiber or insoluble fiber. Both types have important health benefits.
 
 Good sources of dietary fiber include:
 
@@ -10,15 +10,15 @@ Good sources of dietary fiber include:
 - Nuts and seeds
 - Fruit and vegetables
 
-Dietary fiber adds bulk to your diet and makes you feel full faster, helping you control your weight. It helps digestion and helps prevent [constipation](https://medlineplus.gov/constipation.html). Most Americans don't eat enough dietary fiber. But add it to your diet slowly. Increasing dietary fiber too quickly can lead to [gas](https://medlineplus.gov/gas.html), bloating, and cramps.
+Dietary fiber adds bulk to your diet and makes you feel full faster, helping you control your weight. It helps digestion and helps prevent [constipation](Constipation.md). Most Americans don't eat enough dietary fiber. But add it to your diet slowly. Increasing dietary fiber too quickly can lead to [gas](Gas.md), bloating, and cramps.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Colonic Diseases
-- Constipation
+- [Colonic Diseases](Colonic%20Diseases.md)
+- [Constipation](Constipation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dietaryfiber.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dietaryfiber.html). General information, not medical advice.*

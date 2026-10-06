@@ -2,7 +2,7 @@
 
 *Also called: Berry aneurysm, Cerebral aneurysm, Intracranial aneurysm*
 
-A brain [aneurysm](https://medlineplus.gov/aneurysms.html) is an abnormal bulge or "ballooning" in the wall of an artery in the brain. They are sometimes called berry aneurysms because they are often the size of a small berry. Most brain aneurysms produce no symptoms until they become large, begin to leak blood, or burst.
+A brain [aneurysm](Aneurysms.md) is an abnormal bulge or "ballooning" in the wall of an artery in the brain. They are sometimes called berry aneurysms because they are often the size of a small berry. Most brain aneurysms produce no symptoms until they become large, begin to leak blood, or burst.
 
 If a brain aneurysm presses on nerves in your brain, it can cause signs and symptoms. These can include:
 
@@ -12,15 +12,15 @@ If a brain aneurysm presses on nerves in your brain, it can cause signs and symp
 - A dilated pupil
 - Numbness or weakness on one side of the face or body
 
-Treatment depends on the size and location of the aneurysm, whether it is infected, and whether it has burst. If a brain aneurysm bursts, symptoms can include a sudden, severe headache, nausea and vomiting, stiff neck, loss of consciousness, and signs of a [stroke](https://medlineplus.gov/hemorrhagicstroke.html). Any of these symptoms requires immediate medical attention.
+Treatment depends on the size and location of the aneurysm, whether it is infected, and whether it has burst. If a brain aneurysm bursts, symptoms can include a sudden, severe headache, nausea and vomiting, stiff neck, loss of consciousness, and signs of a [stroke](Hemorrhagic%20Stroke.md). Any of these symptoms requires immediate medical attention.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Aneurysms
-- Hemorrhagic Stroke
+- [Aneurysms](Aneurysms.md)
+- [Hemorrhagic Stroke](Hemorrhagic%20Stroke.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/brainaneurysm.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/brainaneurysm.html). General information, not medical advice.*

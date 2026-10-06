@@ -2,13 +2,13 @@
 
 #### What is first aid?
 
-Accidents happen. Someone starts to [choke](https://medlineplus.gov/choking.html), gets [stung by a bee](https://medlineplus.gov/insectbitesandstings.html), [sprains](https://medlineplus.gov/sprainsandstrains.html) an ankle, or gets a [minor burn](https://medlineplus.gov/burns.html) or [cut](https://medlineplus.gov/woundsandinjuries.html) while cooking. First aid is the care you give right away for an injury or sudden illness before [medical help](https://medlineplus.gov/emergencymedicalservices.html) arrives. Knowing basic first aid, and when to call 911, can help you stay calm and act quickly.
+Accidents happen. Someone starts to [choke](Choking.md), gets [stung by a bee](Insect%20Bites%20and%20Stings.md), [sprains](Sprains%20and%20Strains.md) an ankle, or gets a [minor burn](Burns.md) or [cut](Wounds%20and%20Injuries.md) while cooking. First aid is the care you give right away for an injury or sudden illness before [medical help](Emergency%20Medical%20Services.md) arrives. Knowing basic first aid, and when to call 911, can help you stay calm and act quickly.
 
 #### When is 911 needed?
 
 Call 911 right away for life-threatening emergencies, such as when someone collapses, can't breathe, or is unresponsive. While you wait for help, you may be able to save a life:
 
-- Cardiopulmonary resuscitation ([CPR](https://medlineplus.gov/cpr.html)) can help someone whose heart or breathing has stopped. An automated external defibrillator (AED) can also help. It's used along with CPR to help someone in [cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html). You'll often find one in public places like gyms, airports, and offices.
+- Cardiopulmonary resuscitation ([CPR](CPR.md)) can help someone whose heart or breathing has stopped. An automated external defibrillator (AED) can also help. It's used along with CPR to help someone in [cardiac arrest](Sudden%20Cardiac%20Arrest.md). You'll often find one in public places like gyms, airports, and offices.
 - Back blows and abdominal thrusts (Heimlich maneuver) can help someone who is choking.
 
 #### What are the treatments for common injuries?
@@ -23,11 +23,11 @@ Consider taking a CPR or first aid class to build hands-on skills you can use in
  - Seek medical care if the bleeding doesn't stop after 10 minutes of firm pressure, or if the wound is deep, gaping, or caused by a dirty or rusty object.
 - **Poisoning**
 
-If someone [swallows something dangerous](https://medlineplus.gov/poisoning.html), call Poison Control at 1-800-222-1222. They can often help you figure out what to do, including whether you need to call 911 or go to the emergency room.
+If someone [swallows something dangerous](Poisoning.md), call Poison Control at 1-800-222-1222. They can often help you figure out what to do, including whether you need to call 911 or go to the emergency room.
 
 - **Heat-related illness**
 
-Learn how to recognize and respond to [heat-related illnesses](https://medlineplus.gov/heatillness.html) and other common emergencies before they become serious.
+Learn how to recognize and respond to [heat-related illnesses](Heat%20Illness.md) and other common emergencies before they become serious.
 
 #### What should be in a basic first aid kit?
 
@@ -47,18 +47,18 @@ Check the kit regularly to replace expired items.
 
 ## Related topics
 
-- Animal Bites
-- Burns
-- Choking
-- CPR
-- Disaster Preparation and Recovery
-- Emergency Medical Services
-- Foreign Bodies
-- Heat Illness
-- Hypothermia
-- Insect Bites and Stings
-- Shock
+- [Animal Bites](Animal%20Bites.md)
+- [Burns](Burns.md)
+- [Choking](Choking.md)
+- [CPR](CPR.md)
+- [Disaster Preparation and Recovery](Disaster%20Preparation%20and%20Recovery.md)
+- [Emergency Medical Services](Emergency%20Medical%20Services.md)
+- [Foreign Bodies](Foreign%20Bodies.md)
+- [Heat Illness](Heat%20Illness.md)
+- [Hypothermia](Hypothermia.md)
+- [Insect Bites and Stings](Insect%20Bites%20and%20Stings.md)
+- [Shock](Shock.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/firstaid.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/firstaid.html). General information, not medical advice.*

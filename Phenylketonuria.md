@@ -2,7 +2,7 @@
 
 *Also called: PKU*
 
-Phenylketonuria (PKU) is a type of [amino acid metabolism disorder](https://medlineplus.gov/aminoacidmetabolismdisorders.html). It is inherited. If you have it, your body can't process phenylalanine (Phe). Phe is an amino acid, a building block of proteins. It is in almost all foods. If your Phe level gets too high, it can damage your brain and cause severe intellectual disability. All babies born in U.S. hospitals must now have a [screening](https://medlineplus.gov/newbornscreening.html) test for PKU. This makes it easier to diagnose and treat the problem early.
+Phenylketonuria (PKU) is a type of [amino acid metabolism disorder](Amino%20Acid%20Metabolism%20Disorders.md). It is inherited. If you have it, your body can't process phenylalanine (Phe). Phe is an amino acid, a building block of proteins. It is in almost all foods. If your Phe level gets too high, it can damage your brain and cause severe intellectual disability. All babies born in U.S. hospitals must now have a [screening](Newborn%20Screening.md) test for PKU. This makes it easier to diagnose and treat the problem early.
 
 The best treatment for PKU is a diet of low-protein foods. There are special formulas for newborns. For older children and adults, the diet includes many fruits and vegetables. It also includes some low-protein breads, pastas, and cereals. Nutritional formulas provide the vitamins and minerals you can't get from their food.
 
@@ -12,9 +12,9 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Genetic Disorders
-- Newborn Screening
+- [Genetic Disorders](Genetic%20Disorders.md)
+- [Newborn Screening](Newborn%20Screening.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/phenylketonuria.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/phenylketonuria.html). General information, not medical advice.*

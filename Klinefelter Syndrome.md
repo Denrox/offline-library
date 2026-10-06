@@ -4,7 +4,7 @@
 
 #### What is Klinefelter syndrome (KS)?
 
-Klinefelter syndrome (KS) is a [genetic condition](https://medlineplus.gov/geneticdisorders.html) that happens when a male is born with an extra copy of the X chromosome. KS can affect different stages of physical, language, and social development. It also usually causes [infertility](https://medlineplus.gov/maleinfertility.html).
+Klinefelter syndrome (KS) is a [genetic condition](Genetic%20Disorders.md) that happens when a male is born with an extra copy of the X chromosome. KS can affect different stages of physical, language, and social development. It also usually causes [infertility](Male%20Infertility.md).
 
 #### What causes Klinefelter syndrome (KS)?
 
@@ -29,15 +29,15 @@ Boys with KS may be taller than other boys their age, with more fat around the b
 - Decreased sexual interest
 - Lower energy
 
-Many of these symptoms happen because of low testosterone in the body. Testosterone is the main male sex [hormone](https://medlineplus.gov/hormones.html).
+Many of these symptoms happen because of low testosterone in the body. Testosterone is the main male sex [hormone](Hormones.md).
 
-Boys with KS may also have [learning](https://medlineplus.gov/learningdisabilities.html) or [language](https://medlineplus.gov/speechandlanguageproblemsinchildren.html) problems. These problems may affect them socially, so they may be shy and quiet and can have trouble fitting in.
+Boys with KS may also have [learning](Learning%20Disabilities.md) or [language](Speech%20and%20Language%20Problems%20in%20Children.md) problems. These problems may affect them socially, so they may be shy and quiet and can have trouble fitting in.
 
 Most males with KS are infertile because they make little or no sperm.
 
 #### How is Klinefelter syndrome (KS) diagnosed?
 
-A genetic test called a [karyotype test](https://medlineplus.gov/lab-tests/karyotype-genetic-test/) can diagnose KS. This test can show if there are abnormal chromosomes, including if there is an extra X chromosome.
+A genetic test called a karyotype test can diagnose KS. This test can show if there are abnormal chromosomes, including if there is an extra X chromosome.
 
 #### What are the treatments for Klinefelter syndrome (KS)?
 
@@ -49,10 +49,10 @@ Treatments for KS may include:
 - Surgery to remove or reduce breasts
 - Physical, speech, behavioral, and occupational therapy
 
-In some cases, [fertility treatments](https://medlineplus.gov/assistedreproductivetechnology.html) may help men with KS father children.
+In some cases, [fertility treatments](Assisted%20Reproductive%20Technology.md) may help men with KS father children.
 
 NIH: National Institute of Child Health and Human Development
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/klinefeltersyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/klinefeltersyndrome.html). General information, not medical advice.*

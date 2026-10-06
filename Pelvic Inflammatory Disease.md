@@ -4,11 +4,11 @@
 
 #### What is pelvic inflammatory disease?
 
-Pelvic inflammatory disease (PID) is an infection of the uterus, ovaries, and other female reproductive organs. PID causes scarring in these organs. This can lead to [infertility](https://medlineplus.gov/infertility.html), [ectopic pregnancy](https://medlineplus.gov/ectopicpregnancy.html), pelvic pain, abscesses (a collection of pus), and other serious problems. PID is the most common preventable cause of infertility in the United States.
+Pelvic inflammatory disease (PID) is an infection of the uterus, ovaries, and other female reproductive organs. PID causes scarring in these organs. This can lead to [infertility](Infertility.md), [ectopic pregnancy](Ectopic%20Pregnancy.md), pelvic pain, abscesses (a collection of pus), and other serious problems. PID is the most common preventable cause of infertility in the United States.
 
 #### What causes pelvic inflammatory disease?
 
-Many types of [bacteria](https://medlineplus.gov/bacterialinfections.html) can cause PID, but it's often caused by [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs). [Gonorrhea](https://medlineplus.gov/gonorrhea.html) and [chlamydia](https://medlineplus.gov/chlamydiainfections.html) are the most common causes of PID.
+Many types of [bacteria](Bacterial%20Infections.md) can cause PID, but it's often caused by [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs). [Gonorrhea](Gonorrhea.md) and [chlamydia](Chlamydia%20Infections.md) are the most common causes of PID.
 
 You are at greater risk for PID if you:
 
@@ -24,7 +24,7 @@ It's not as common, but sometimes using an intrauterine device (IUD) for birth c
 
 If you have PID, you may have mild or no symptoms. If you do have symptoms, the most common symptom is pain in the lower abdomen (belly). Other symptoms can include:
 
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fever](Fever.md)
 - Foul-smelling vaginal discharge
 - Bleeding between periods
 - Pain or bleeding during sex
@@ -38,12 +38,12 @@ There is no one test for PID. To check for PID, your provider may:
 
 - Ask about your medical and sexual history
 - Review your symptoms
-- Do a [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html)
-- Order blood, urine, and i[maging tests](https://medlineplus.gov/lab-tests/sonogram/)
+- Do a [pelvic exam](Women%27s%20Health%20Checkup.md)
+- Order blood, urine, and imaging tests
 
 #### What is the treatment for pelvic inflammatory disease?
 
-[Antibiotics](https://medlineplus.gov/antibiotics.html) are used to treat PID. You must take all the medicine, even if your symptoms go away to make sure the infection is cured. You will likely need to follow up with your provider to make sure the treatment is working.
+[Antibiotics](Antibiotics.md) are used to treat PID. You must take all the medicine, even if your symptoms go away to make sure the infection is cured. You will likely need to follow up with your provider to make sure the treatment is working.
 
 Tell your recent sex partner(s) so they can get tested and treated. Don't have sex until you finish treatment, otherwise you can reinfect each other.
 
@@ -70,8 +70,8 @@ If you do decide to have sex, a few ways you can lower your risk include to:
 
 ## Related topics
 
-- Sexually Transmitted Infections
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pelvicinflammatorydisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pelvicinflammatorydisease.html). General information, not medical advice.*

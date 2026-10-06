@@ -6,11 +6,11 @@ Your muscles help you move and help your body work. Different types of muscles h
 
 Causes of muscle disorders include:
 
-- Injury or overuse, such as [sprains or strains](https://medlineplus.gov/sprainsandstrains.html), [cramps](https://medlineplus.gov/musclecramps.html) or [tendinitis](https://medlineplus.gov/tendinitis.html)
-- A genetic disorder, such as [muscular dystrophy](https://medlineplus.gov/musculardystrophy.html)
-- Some [cancers](https://medlineplus.gov/softtissuesarcoma.html)
-- Inflammation, such as [myositis](https://medlineplus.gov/myositis.html)
-- Diseases of [nerves](https://medlineplus.gov/neuromusculardisorders.html) that affect muscles
+- Injury or overuse, such as [sprains or strains](Sprains%20and%20Strains.md), [cramps](Muscle%20Cramps.md) or [tendinitis](Tendinitis.md)
+- A genetic disorder, such as [muscular dystrophy](Muscular%20Dystrophy.md)
+- Some [cancers](Soft%20Tissue%20Sarcoma.md)
+- Inflammation, such as [myositis](Myositis.md)
+- Diseases of [nerves](Neuromuscular%20Disorders.md) that affect muscles
 - Infections
 - Certain medicines
 
@@ -18,18 +18,18 @@ Sometimes the cause of muscle disorders is unknown.
 
 ## Related topics
 
-- Fibromyalgia
-- Movement Disorders
-- Multiple Sclerosis
-- Muscle Cramps
-- Muscular Dystrophy
-- Myasthenia Gravis
-- Myositis
-- Neuromuscular Disorders
-- Soft Tissue Sarcoma
-- Sprains and Strains
-- Tendinitis
+- [Fibromyalgia](Fibromyalgia.md)
+- [Movement Disorders](Movement%20Disorders.md)
+- [Multiple Sclerosis](Multiple%20Sclerosis.md)
+- [Muscle Cramps](Muscle%20Cramps.md)
+- [Muscular Dystrophy](Muscular%20Dystrophy.md)
+- [Myasthenia Gravis](Myasthenia%20Gravis.md)
+- [Myositis](Myositis.md)
+- [Neuromuscular Disorders](Neuromuscular%20Disorders.md)
+- [Soft Tissue Sarcoma](Soft%20Tissue%20Sarcoma.md)
+- [Sprains and Strains](Sprains%20and%20Strains.md)
+- [Tendinitis](Tendinitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/muscledisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/muscledisorders.html). General information, not medical advice.*

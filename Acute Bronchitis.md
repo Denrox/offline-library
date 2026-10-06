@@ -2,7 +2,7 @@
 
 *Also called: Chest cold*
 
-Bronchitis is an inflammation of the bronchial tubes, the airways that carry air to your lungs. It causes a cough that often brings up mucus. It can also cause shortness of breath, wheezing, a low fever, and chest tightness. There are two main types of bronchitis: acute and [chronic](https://medlineplus.gov/chronicbronchitis.html).
+Bronchitis is an inflammation of the bronchial tubes, the airways that carry air to your lungs. It causes a cough that often brings up mucus. It can also cause shortness of breath, wheezing, a low fever, and chest tightness. There are two main types of bronchitis: acute and [chronic](Chronic%20Bronchitis.md).
 
 Most cases of acute bronchitis get better within several days. But your cough can last for several weeks after the infection is gone.
 
@@ -16,10 +16,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Chronic Bronchitis
-- Common Cold
-- Respiratory Syncytial Virus Infections
+- [Chronic Bronchitis](Chronic%20Bronchitis.md)
+- [Common Cold](Common%20Cold.md)
+- [Respiratory Syncytial Virus Infections](Respiratory%20Syncytial%20Virus%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acutebronchitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acutebronchitis.html). General information, not medical advice.*

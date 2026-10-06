@@ -4,7 +4,7 @@
 
 #### What is a nuclear scan?
 
-A nuclear scan is a type of medical [imaging test](https://medlineplus.gov/diagnosticimaging.html) that uses a small amount of radioactive material, called a radiotracer. This scan shows how organs and tissues are working, not just what they look like.
+A nuclear scan is a type of medical [imaging test](Diagnostic%20Imaging.md) that uses a small amount of radioactive material, called a radiotracer. This scan shows how organs and tissues are working, not just what they look like.
 
 After the radiotracer is given, a special camera detects the radiation coming from inside the body. This allows your health care provider to see organ function, blood flow, or tissue activity, which can help diagnose conditions and check how well treatment is working.
 
@@ -15,8 +15,8 @@ Nuclear scans may be used to find disease, target certain cells, and monitor res
 - Check how organs such as the heart, lungs, or kidneys are working
 - Find disease early, sometimes before changes can be seen on other imaging tests
 - Perform bone scans
-- Evaluate the [thyroid](https://medlineplus.gov/thyroidtests.html)
-- Check how well [cancer](https://medlineplus.gov/cancer.html) treatment is working
+- Evaluate the [thyroid](Thyroid%20Tests.md)
+- Check how well [cancer](Cancer.md) treatment is working
 
 #### How do you prepare for a nuclear scan?
 
@@ -43,7 +43,7 @@ Depending on the type of nuclear scan, you may:
 
 You will be asked to stay as still as possible, unless movement is part of the test.
 
-A special imaging device, such as a gamma camera, single-photon emission computed tomography (SPECT) scanner, or positron emission tomography ([PET](https://medlineplus.gov/lab-tests/pet-scan/)) scanner, detects [radiation](https://medlineplus.gov/radiationexposure.html) from the tracer and creates images.
+A special imaging device, such as a gamma camera, single-photon emission computed tomography (SPECT) scanner, or positron emission tomography (PET) scanner, detects [radiation](Radiation%20Exposure.md) from the tracer and creates images.
 
 The length of the scan depends on the type of test and the area being examined. Some scans take only minutes. Others may include waiting periods or require you to return later the same day or over several days.
 
@@ -55,8 +55,8 @@ A specialist called a radiologist reviews the images and shares the results with
 
 ## Related topics
 
-- Diagnostic Imaging
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/nuclearscans.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/nuclearscans.html). General information, not medical advice.*

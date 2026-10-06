@@ -2,7 +2,7 @@
 
 *Also called: Pimples, Zits*
 
-Acne is a common skin disease that causes pimples. Pimples form when hair follicles under your skin clog up. Most pimples form on the face, neck, back, chest, and shoulders. Anyone can get acne, but it is common in teenagers and young adults. It is not serious, but it can cause [scars](https://medlineplus.gov/scars.html).
+Acne is a common skin disease that causes pimples. Pimples form when hair follicles under your skin clog up. Most pimples form on the face, neck, back, chest, and shoulders. Anyone can get acne, but it is common in teenagers and young adults. It is not serious, but it can cause [scars](Scars.md).
 
 No one knows exactly what causes acne. Hormone changes, such as those during the teenage years and pregnancy, probably play a role. There are many myths about what causes acne. Chocolate and greasy foods are often blamed, but there is little evidence that foods have much effect on acne in most people. Another common myth is that dirty skin causes acne; however, blackheads and pimples are not caused by dirt. Stress doesn't cause acne, but stress can make it worse.
 
@@ -18,9 +18,9 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Hidradenitis Suppurativa
-- Rosacea
+- [Hidradenitis Suppurativa](Hidradenitis%20Suppurativa.md)
+- [Rosacea](Rosacea.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acne.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acne.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 Ataxia-telangiectasia (A-T) is a rare, inherited disease. It affects the nervous system, immune system, and other body systems. Symptoms appear in young children, usually before age 5. They include:
 
-- Ataxia - trouble coordinating [movements](https://medlineplus.gov/movementdisorders.html)
+- Ataxia - trouble coordinating [movements](Movement%20Disorders.md)
 - Poor balance
 - Slurred speech
 - Tiny, red spider veins, called telangiectasias, on the skin and eyes
@@ -17,4 +17,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ataxiatelangiectasia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ataxiatelangiectasia.html). General information, not medical advice.*

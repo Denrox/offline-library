@@ -6,21 +6,21 @@ If you have a swallowing disorder, you may have difficulty or pain when swallowi
 
 Anyone can have a swallowing disorder, but it is more common in older adults. It often happens because of other conditions, including:
 
-- [Nervous system disorders](https://medlineplus.gov/neurologicdiseases.html), such as [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html) and [cerebral palsy](https://medlineplus.gov/cerebralpalsy.html)
-- Problems with your [esophagus,](https://medlineplus.gov/esophagusdisorders.html) including [GERD](https://medlineplus.gov/gerd.html) (gastroesophageal reflux disease)
-- [Stroke](https://medlineplus.gov/stroke.html)
-- [Head](https://medlineplus.gov/headinjuries.html) or [spinal cord](https://medlineplus.gov/spinalcordinjuries.html) injury
-- Cancer of the [head, neck](https://medlineplus.gov/headandneckcancer.html), or [esophagus](https://medlineplus.gov/esophagealcancer.html)
+- [Nervous system disorders](Neurologic%20Diseases.md), such as [Parkinson's disease](Parkinson%27s%20Disease.md) and [cerebral palsy](Cerebral%20Palsy.md)
+- Problems with your [esophagus,](Esophagus%20Disorders.md) including [GERD](GERD.md) (gastroesophageal reflux disease)
+- [Stroke](Stroke.md)
+- [Head](Head%20Injuries.md) or [spinal cord](Spinal%20Cord%20Injuries.md) injury
+- Cancer of the [head, neck](Head%20and%20Neck%20Cancer.md), or [esophagus](Esophageal%20Cancer.md)
 
-Medicines can help some people, while others may need surgery. Swallowing treatment with a speech-language pathologist can help. You may find it helpful to change your diet or hold your head or neck in a certain way when you eat. In very serious cases, people may need [feeding tubes](https://medlineplus.gov/nutritionalsupport.html).
+Medicines can help some people, while others may need surgery. Swallowing treatment with a speech-language pathologist can help. You may find it helpful to change your diet or hold your head or neck in a certain way when you eat. In very serious cases, people may need [feeding tubes](Nutritional%20Support.md).
 
 NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Esophagus Disorders
-- GERD
+- [Esophagus Disorders](Esophagus%20Disorders.md)
+- [GERD](GERD.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/swallowingdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/swallowingdisorders.html). General information, not medical advice.*

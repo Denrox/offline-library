@@ -4,18 +4,18 @@
 
 #### What is high blood pressure?
 
-[High blood pressure](https://medlineplus.gov/highbloodpressure.html), also called hypertension, is when blood puts too much pressure against the walls of your arteries. Almost half of American adults have high blood pressure, usually with no symptoms. But it can cause serious problems such as [stroke](https://medlineplus.gov/stroke.html), [heart failure](https://medlineplus.gov/heartfailure.html), [heart attack](https://medlineplus.gov/heartattack.html), and [kidney disease](https://medlineplus.gov/kidneydiseases.html).
+[High blood pressure](High%20Blood%20Pressure.md), also called hypertension, is when blood puts too much pressure against the walls of your arteries. Almost half of American adults have high blood pressure, usually with no symptoms. But it can cause serious problems such as [stroke](Stroke.md), [heart failure](Heart%20Failure.md), [heart attack](Heart%20Attack.md), and [kidney disease](Kidney%20Diseases.md).
 
 #### What lifestyle changes can help lower high blood pressure?
 
-[Healthy lifestyle changes](https://medlineplus.gov/howtopreventhighbloodpressure.html) can help reduce high blood pressure:
+[Healthy lifestyle changes](How%20to%20Prevent%20High%20Blood%20Pressure.md) can help reduce high blood pressure:
 
-- [Losing weight](https://medlineplus.gov/weightcontrol.html)
-- [Being physically active](https://medlineplus.gov/howmuchexercisedoineed.html)
-- Managing [stress](https://medlineplus.gov/stress.html)
-- Reducing [sodium](https://medlineplus.gov/sodium.html) in your diet
-- Avoiding [alcohol](https://medlineplus.gov/alcohol.html), [tobacco](https://medlineplus.gov/quittingsmoking.html), and [illegal drugs](https://medlineplus.gov/druguseandaddiction.html)
-- [Getting enough sleep](https://medlineplus.gov/healthysleep.html)
+- [Losing weight](Weight%20Control.md)
+- [Being physically active](How%20Much%20Exercise%20Do%20I%20Need.md)
+- Managing [stress](Stress.md)
+- Reducing [sodium](Sodium.md) in your diet
+- Avoiding [alcohol](Alcohol.md), [tobacco](Quitting%20Smoking.md), and [illegal drugs](Drug%20Use%20and%20Addiction.md)
+- [Getting enough sleep](Healthy%20Sleep.md)
 
 #### What if lifestyle changes alone cannot lower blood pressure?
 
@@ -38,8 +38,8 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- High Blood Pressure
+- [High Blood Pressure](High%20Blood%20Pressure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bloodpressuremedicines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bloodpressuremedicines.html). General information, not medical advice.*

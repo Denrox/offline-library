@@ -4,9 +4,9 @@
 
 #### What is blood glucose?
 
-[Blood glucose](https://medlineplus.gov/bloodglucose.html), or blood sugar, is the main sugar found in your blood. It is your body's primary source of energy. It comes from the food you eat. Your body breaks down most of that food into glucose and releases it into your bloodstream. When your blood glucose goes up, it signals your pancreas to release insulin. Insulin is a hormone that helps the glucose get into your cells to be used for energy.
+[Blood glucose](Blood%20Glucose.md), or blood sugar, is the main sugar found in your blood. It is your body's primary source of energy. It comes from the food you eat. Your body breaks down most of that food into glucose and releases it into your bloodstream. When your blood glucose goes up, it signals your pancreas to release insulin. Insulin is a hormone that helps the glucose get into your cells to be used for energy.
 
-For people with [diabetes](https://medlineplus.gov/diabetes.html), your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells.
+For people with [diabetes](Diabetes.md), your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells.
 
 #### What is hypoglycemia?
 
@@ -17,15 +17,15 @@ Hypoglycemia means low glucose. It happens when the level of glucose in your blo
 
 #### What causes hypoglycemia?
 
-Hypoglycemia is common in people who have [diabetes type 1](https://medlineplus.gov/diabetestype1.html) or who have [diabetes type 2](https://medlineplus.gov/diabetestype2.html) and take insulin or other [diabetes medicines](https://medlineplus.gov/diabetesmedicines.html). It can happen:
+Hypoglycemia is common in people who have [diabetes type 1](Diabetes%20Type%201.md) or who have [diabetes type 2](Diabetes%20Type%202.md) and take insulin or other [diabetes medicines](Diabetes%20Medicines.md). It can happen:
 
 - As a side effect of insulin or some other medicines that help your pancreas release insulin into your blood. These medicines can lower your blood glucose level.
-- If you don't eat or drink enough [carbohydrates](https://medlineplus.gov/carbohydrates.html) (carbs). Carbs are the main source of glucose for your body.
+- If you don't eat or drink enough [carbohydrates](Carbohydrates.md) (carbs). Carbs are the main source of glucose for your body.
 - If you get a lot more physical activity than usual.
 - If you drink too much alcohol without enough food.
 - When you are sick and can't eat enough food or keep food down.
 
-Although it's rare, you can still get low blood glucose without having diabetes. The causes can include conditions such as [liver disease](https://medlineplus.gov/liverdiseases.html), [kidney disease](https://medlineplus.gov/kidneydiseases.html), and [hormone](https://medlineplus.gov/hormones.html) deficiencies (lack of certain hormones). It can also happen in people who have had certain types of [weight loss surgery](https://medlineplus.gov/weightlosssurgery.html). Some medicines, such as certain heart medicines and [antibiotics](https://medlineplus.gov/antibiotics.html), can also cause it. See your health care provider to find out the cause of your low blood glucose and how to treat it.
+Although it's rare, you can still get low blood glucose without having diabetes. The causes can include conditions such as [liver disease](Liver%20Diseases.md), [kidney disease](Kidney%20Diseases.md), and [hormone](Hormones.md) deficiencies (lack of certain hormones). It can also happen in people who have had certain types of [weight loss surgery](Weight%20Loss%20Surgery.md). Some medicines, such as certain heart medicines and [antibiotics](Antibiotics.md), can also cause it. See your health care provider to find out the cause of your low blood glucose and how to treat it.
 
 #### What are the symptoms of hypoglycemia?
 
@@ -35,14 +35,14 @@ The symptoms of low blood glucose tend to come on quickly. The symptoms can be d
 - Sweating
 - Nervousness or anxiety
 - Irritability or confusion
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Hunger
 
 #### How is hypoglycemia diagnosed?
 
 If you have diabetes, you'll most likely need to check your blood glucose every day and make sure that it's not too low. You can do this with a blood glucose meter or continuous glucose monitoring (CGM) system.
 
-There are also [blood tests](https://medlineplus.gov/lab-tests/blood-glucose-test/) that providers can use to check if your blood glucose is too low.
+There are also blood tests that providers can use to check if your blood glucose is too low.
 
 If you don't have diabetes and you have hypoglycemia, your provider will likely order other tests to try to figure out the cause.
 
@@ -50,7 +50,7 @@ If you don't have diabetes and you have hypoglycemia, your provider will likely 
 
 If you have mild or moderate hypoglycemia, eating or drinking something with carbohydrates can help. But severe hypoglycemia can cause serious complications, including passing out, coma, or even death. Severe hypoglycemia can be treated with glucagon, a hormone that raises blood glucose levels. It can be given as nasal spray or injection. If you have diabetes, your provider can prescribe you a glucagon kit for use in case of an emergency.
 
-If you have diabetes and you often have mild or moderate low blood glucose, your health care team may make changes to your [diabetes meal plan](https://medlineplus.gov/diabeticdiet.html), physical activity plan, and/or diabetes medicines.
+If you have diabetes and you often have mild or moderate low blood glucose, your health care team may make changes to your [diabetes meal plan](Diabetic%20Diet.md), physical activity plan, and/or diabetes medicines.
 
 If you don't have diabetes and you keep having low blood glucose, the treatment will depend on what is causing it to happen.
 
@@ -64,9 +64,9 @@ If you have diabetes and you take insulin or other medicines that lower blood gl
 
 ## Related topics
 
-- Blood Glucose
-- Diabetes
+- [Blood Glucose](Blood%20Glucose.md)
+- [Diabetes](Diabetes.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hypoglycemia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hypoglycemia.html). General information, not medical advice.*

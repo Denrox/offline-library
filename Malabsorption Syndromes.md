@@ -4,8 +4,8 @@ Your small intestine does most of the digesting of the foods you eat. If you hav
 
 Causes of malabsorption syndromes include:
 
-- [Celiac disease](https://medlineplus.gov/celiacdisease.html)
-- [Lactose intolerance](https://medlineplus.gov/lactoseintolerance.html)
+- [Celiac disease](Celiac%20Disease.md)
+- [Lactose intolerance](Lactose%20Intolerance.md)
 - Short bowel syndrome. This happens after surgery to remove half or more of the small intestine. You might need the surgery if you have a problem with the small intestine from a disease, injury, or birth defect.
 - Whipple disease, a rare bacterial infection
 - Genetic diseases
@@ -17,10 +17,10 @@ Treatment of malabsorption syndromes depends on the cause.
 
 ## Related topics
 
-- Celiac Disease
-- Lactose Intolerance
-- Small Intestine Disorders
+- [Celiac Disease](Celiac%20Disease.md)
+- [Lactose Intolerance](Lactose%20Intolerance.md)
+- [Small Intestine Disorders](Small%20Intestine%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/malabsorptionsyndromes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/malabsorptionsyndromes.html). General information, not medical advice.*

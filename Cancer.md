@@ -6,7 +6,7 @@
 
 Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
 
-Tumors can be benign or malignant. [Benign tumors](https://medlineplus.gov/benigntumors.html) aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.
+Tumors can be benign or malignant. [Benign tumors](Benign%20Tumors.md) aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.
 
 #### What are the types of cancer?
 
@@ -16,14 +16,14 @@ Cancer may also be described by the type of cell that formed it, such as sarcoma
 
 #### How does cancer develop?
 
-Cancer is a [genetic](https://medlineplus.gov/geneticdisorders.html) disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.
+Cancer is a [genetic](Genetic%20Disorders.md) disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.
 
 Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:
 
-- Exposure to [ultraviolet (UV) rays from the sun](sunexposure.html)
-- [Smoking](https://medlineplus.gov/smoking.html)
-- Your [diet](https://medlineplus.gov/diets.html)
-- [Physical inactivity](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
+- Exposure to ultraviolet (UV) rays from the sun
+- [Smoking](Smoking.md)
+- Your [diet](Diets.md)
+- [Physical inactivity](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
 
 #### What are the symptoms of cancer?
 
@@ -31,7 +31,7 @@ Cancer symptoms depend on the type of cancer. For example, some of the symptoms 
 
 - A lump in your breast
 - Blood in your urine (pee) or stool (poop)
-- [Bleeding](https://medlineplus.gov/bleeding.html) or [bruising](https://medlineplus.gov/bruises.html) for no known reason
+- [Bleeding](Bleeding.md) or [bruising](Bruises.md) for no known reason
 - A sore that doesn't heal
 - Trouble swallowing
 - A new mole or a change to a mole you already have
@@ -45,14 +45,14 @@ There is no single test that can diagnose cancer. The tests ordered are usually 
 - Ask about your **medical history**
 - Ask about your **family health history**, including relatives who have had cancer
 - Do a **physical exam**
-- Do a [screening test](https://medlineplus.gov/healthscreening.html) such as a [mammogram](https://medlineplus.gov/mammography.html), [colonoscopy](https://medlineplus.gov/colonoscopy.html), or a[Pap test](https://medlineplus.gov/lab-tests/pap-smear/)
-- Order blood tests or **[imaging tests](https://medlineplus.gov/diagnosticimaging.html)**
+- Do a [screening test](Health%20Screening.md) such as a [mammogram](Mammography.md), [colonoscopy](Colonoscopy.md), or aPap test
+- Order blood tests or **[imaging tests](Diagnostic%20Imaging.md)**
 
-To find out if you have cancer, your provider may order a [biopsy](https://medlineplus.gov/biopsy.html). A biopsy is the procedure of removing and examining tissue, cells, or fluids from your body.
+To find out if you have cancer, your provider may order a [biopsy](Biopsy.md). A biopsy is the procedure of removing and examining tissue, cells, or fluids from your body.
 
 #### What are the treatments for cancer?
 
-Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, [radiation](https://medlineplus.gov/radiationtherapy.html), and/or [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html). Some may involve hormone therapy, [immunotherapy](https://medlineplus.gov/cancerimmunotherapy.html) or other types of biological therapy, or [stem cell transplantation](https://medlineplus.gov/stemcells.html).
+Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, [radiation](Radiation%20Therapy.md), and/or [chemotherapy](Cancer%20Chemotherapy.md). Some may involve hormone therapy, [immunotherapy](Cancer%20Immunotherapy.md) or other types of biological therapy, or [stem cell transplantation](Stem%20Cells.md).
 
 #### Can cancer be prevented?
 
@@ -60,21 +60,21 @@ It's usually not possible to know exactly why cancer develops in some people but
 
 - Smoking and tobacco use
 - Having too much sun exposure
-- Drinking too much [alcohol](https://medlineplus.gov/alcoholusedisorderaud.html)
+- Drinking too much [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md)
 - Not getting enough physical activity
-- Having [obesity](https://medlineplus.gov/obesity.html)
+- Having [obesity](Obesity.md)
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Cancer Alternative Therapies
-- Cancer Chemotherapy
-- Cancer Immunotherapy
-- Cancer--Living with Cancer
-- Radiation Therapy
-- Tumors and Pregnancy
+- [Cancer Alternative Therapies](Cancer%20Alternative%20Therapies.md)
+- [Cancer Chemotherapy](Cancer%20Chemotherapy.md)
+- [Cancer Immunotherapy](Cancer%20Immunotherapy.md)
+- [Cancer--Living with Cancer](Cancer--Living%20with%20Cancer.md)
+- [Radiation Therapy](Radiation%20Therapy.md)
+- [Tumors and Pregnancy](Tumors%20and%20Pregnancy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cancer.html). General information, not medical advice.*

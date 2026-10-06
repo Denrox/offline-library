@@ -7,10 +7,10 @@ Some people are born with a fistula. Other common causes of fistulas include:
 - Complications from surgery
 - Injury
 - Infection
-- Diseases, such as [Crohn's disease](https://medlineplus.gov/crohnsdisease.html) or [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html)
+- Diseases, such as [Crohn's disease](Crohn%27s%20Disease.md) or [ulcerative colitis](Ulcerative%20Colitis.md)
 
 Treatment depends on the cause of the fistula, where it is, and how bad it is. Some fistulas will close on their own. In some cases, you may need antibiotics and/or surgery.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/fistulas.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/fistulas.html). General information, not medical advice.*

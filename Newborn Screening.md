@@ -14,8 +14,8 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Genetic Testing
+- [Genetic Testing](Genetic%20Testing.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/newbornscreening.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/newbornscreening.html). General information, not medical advice.*

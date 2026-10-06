@@ -2,13 +2,13 @@
 
 #### What is diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) is a disease in which your blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), levels are too high. Glucose comes from the foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
+[Diabetes](Diabetes.md) is a disease in which your blood glucose, or [blood sugar](Blood%20Glucose.md), levels are too high. Glucose comes from the foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
 
-With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body does not make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html),your body does not make or use insulin well. Without enough insulin, glucose can't get into your cells as quickly as usual. The glucose builds up in your blood and causes high blood sugar levels.
+With [type 1 diabetes](Diabetes%20Type%201.md), your body does not make insulin. With [type 2 diabetes](Diabetes%20Type%202.md),your body does not make or use insulin well. Without enough insulin, glucose can't get into your cells as quickly as usual. The glucose builds up in your blood and causes high blood sugar levels.
 
 #### What are the treatments for diabetes?
 
-Treatments for diabetes can depend on the type. Common treatments include a [diabetic meal plan](https://medlineplus.gov/diabeticdiet.html), regular physical activity, and medicines. Some less common treatments are [weight loss surgery](https://medlineplus.gov/weightlosssurgery.html) for either type and an artificial pancreas or [pancreatic islet transplantation](https://medlineplus.gov/isletcelltransplantation.html) for some people with type 1 diabetes.
+Treatments for diabetes can depend on the type. Common treatments include a [diabetic meal plan](Diabetic%20Diet.md), regular physical activity, and medicines. Some less common treatments are [weight loss surgery](Weight%20Loss%20Surgery.md) for either type and an artificial pancreas or [pancreatic islet transplantation](Islet%20Cell%20Transplantation.md) for some people with type 1 diabetes.
 
 #### Who needs diabetes medicines?
 
@@ -34,7 +34,7 @@ There are several different medicines for type 2 diabetes. Each works in a diffe
 
 Over time, you may need more than one diabetes medicine to manage your blood sugar. You might add another diabetes medicine or switch to a combination medicine. A combination medicine contains more than one type of diabetes medicine in the same pill. Some people with type 2 diabetes take both pills and injections.
 
-Even if you don't usually take insulin, you may need it at special times, such as during [pregnancy](https://medlineplus.gov/diabetesandpregnancy.html) or if you are in the hospital.
+Even if you don't usually take insulin, you may need it at special times, such as during [pregnancy](Diabetes%20and%20Pregnancy.md) or if you are in the hospital.
 
 #### What else should I know about taking medicines for diabetes?
 
@@ -53,12 +53,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Blood Glucose
-- Diabetes
-- Diabetes in Children and Teens
-- Diabetes Type 1
-- Diabetes Type 2
+- [Blood Glucose](Blood%20Glucose.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Type 1](Diabetes%20Type%201.md)
+- [Diabetes Type 2](Diabetes%20Type%202.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabetesmedicines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabetesmedicines.html). General information, not medical advice.*

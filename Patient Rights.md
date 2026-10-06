@@ -33,11 +33,11 @@ There are different resources that can help you if you have a problem with your 
 
 ## Related topics
 
-- End of Life Issues
-- Family Issues
-- Patient Safety
-- Personal Health Records
+- [End of Life Issues](End%20of%20Life%20Issues.md)
+- [Family Issues](Family%20Issues.md)
+- [Patient Safety](Patient%20Safety.md)
+- [Personal Health Records](Personal%20Health%20Records.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/patientrights.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/patientrights.html). General information, not medical advice.*

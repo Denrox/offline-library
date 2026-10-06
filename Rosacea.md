@@ -8,7 +8,7 @@ In most cases, rosacea only affects the face. Symptoms can include:
 
 - Frequent redness of the face, or flushing
 - Small, red lines under the skin
-- [Acne](https://medlineplus.gov/acne.html)
+- [Acne](Acne.md)
 - A swollen nose
 - Thick skin, usually on the forehead, chin, and cheeks
 - Red, dry, itchy eyes and sometimes vision problems
@@ -19,8 +19,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Acne
+- [Acne](Acne.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rosacea.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rosacea.html). General information, not medical advice.*

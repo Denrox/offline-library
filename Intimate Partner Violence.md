@@ -9,7 +9,7 @@ Intimate partner violence (IPV) is abuse that happens in a romantic relationship
 IPV can happen one time, or it may be ongoing. It may include different types of abuse, such as:
 
 - **Physical violence**, which is when a person hurts or tries to hurt a partner by hitting, kicking, or using another type of physical force.
-- **[Sexual violence](https://medlineplus.gov/sexualassault.html)** which involves forcing or attempting to force a partner to take part in sexual activity when the partner does not or cannot consent. The sexual activity could include things like sex acts, sexual touching, or non-physical sexual events (e.g., sexting).
+- **[Sexual violence](Sexual%20Assault.md)** which involves forcing or attempting to force a partner to take part in sexual activity when the partner does not or cannot consent. The sexual activity could include things like sex acts, sexual touching, or non-physical sexual events (e.g., sexting).
 - **Emotional abuse**, which includes threats, name-calling, put-downs, and humiliation. It can also involve controlling behavior, such as telling a partner how to act or dress and not letting them see family or friends.
 - **Economic abuse**, also called financial abuse, involves controlling access to money.
 - **Stalking**, which is repeated, unwanted contact that causes fear or concern for the safety of the partner. This can include watching or following the partner. The stalker may send repeated, unwanted phone calls or texts.
@@ -46,7 +46,7 @@ Your safety is the most important concern. **If you are in immediate danger, cal
 If you are not in immediate danger, you can:
 
 - **Get medical care** if you have been injured or sexually assaulted.
-- **Call a helpline** for free, anonymous help. You can contact the National Domestic Violence Hotline at 800-799-SAFE (7233) or 800-787-3224 (TTY). You can also chat with them through [their website](https://www.thehotline.org/) or through text by texting START to 88788.
+- **Call a helpline** for free, anonymous help. You can contact the National Domestic Violence Hotline at 800-799-SAFE (7233) or 800-787-3224 (TTY). You can also chat with them through their website or through text by texting START to 88788.
 - **Find out where to get help in your community.** Contact local organizations that can help you.
 - **Make a safety plan to leave.** Intimate partner violence usually does not get better. Think about a safe place for you to go and all the things you will need when you leave.
 - **Save the evidence.** Keep evidence of abuse, such as pictures of your injuries or threatening emails or texts. Make sure that it is in a safe place the abuser cannot access.
@@ -67,12 +67,12 @@ Let your loved one know that being treated this way isn't healthy and that they 
 
 ## Related topics
 
-- Child Abuse
-- Child Sexual Abuse
-- Elder Abuse
-- Sexual Assault
-- Teen Violence
+- [Child Abuse](Child%20Abuse.md)
+- [Child Sexual Abuse](Child%20Sexual%20Abuse.md)
+- [Elder Abuse](Elder%20Abuse.md)
+- [Sexual Assault](Sexual%20Assault.md)
+- [Teen Violence](Teen%20Violence.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/intimatepartnerviolence.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/intimatepartnerviolence.html). General information, not medical advice.*

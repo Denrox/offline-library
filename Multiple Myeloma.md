@@ -7,7 +7,7 @@ Multiple myeloma is a cancer that begins in plasma cells, a type of white blood 
 No one knows the exact causes of multiple myeloma, but it is more common in older people and African Americans. It can run in families. Common symptoms may include:
 
 - Bone pain, often in the back or ribs
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones)
+- [Fractures](Fractures.md) (broken bones)
 - Weakness or fatigue
 - Weight loss
 - Frequent infections and fevers
@@ -20,10 +20,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Bone Marrow Diseases
-- Bone Marrow Transplantation
-- Lymphoma
+- [Bone Marrow Diseases](Bone%20Marrow%20Diseases.md)
+- [Bone Marrow Transplantation](Bone%20Marrow%20Transplantation.md)
+- [Lymphoma](Lymphoma.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/multiplemyeloma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/multiplemyeloma.html). General information, not medical advice.*

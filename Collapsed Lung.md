@@ -17,10 +17,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Chest Injuries and Disorders
-- Lung Diseases
-- Pleural Disorders
+- [Chest Injuries and Disorders](Chest%20Injuries%20and%20Disorders.md)
+- [Lung Diseases](Lung%20Diseases.md)
+- [Pleural Disorders](Pleural%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/collapsedlung.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/collapsedlung.html). General information, not medical advice.*

@@ -4,10 +4,10 @@
 
 ####  Why do I need vitamin D?
 
-[Vitamins](https://medlineplus.gov/vitamins.html) are substances that your body needs to grow and develop normally. Vitamin D is important to your body because:
+[Vitamins](Vitamins.md) are substances that your body needs to grow and develop normally. Vitamin D is important to your body because:
 
-- It helps your body absorb [calcium](https://medlineplus.gov/calcium.html). Calcium is one of the main building blocks of bone. [A lack of vitamin D](https://medlineplus.gov/vitaminddeficiency.html) can lead to bone diseases such as [osteoporosis](https://medlineplus.gov/osteoporosis.html) or [rickets](https://medlineplus.gov/rickets.html).
-- It also has a role in your nerve, muscle, and [immune](https://medlineplus.gov/immunesystemanddisorders.html) systems:
+- It helps your body absorb [calcium](Calcium.md). Calcium is one of the main building blocks of bone. [A lack of vitamin D](Vitamin%20D%20Deficiency.md) can lead to bone diseases such as [osteoporosis](Osteoporosis.md) or [rickets](Rickets.md).
+- It also has a role in your nerve, muscle, and [immune](Immune%20System%20and%20Disorders.md) systems:
 
  - Your muscles need it to move
  - Your nerves need it to carry messages between your brain and your body
@@ -15,7 +15,7 @@
 
 #### How do I get vitamin D?
 
-You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after [exposure to sunlight](https://medlineplus.gov/sunexposure.html). However, too much sun exposure can lead to [skin aging](https://medlineplus.gov/skinaging.html) and [skin cancer](https://medlineplus.gov/skincancer.html). So many people try to get their vitamin D from other sources.
+You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after [exposure to sunlight](Sun%20Exposure.md). However, too much sun exposure can lead to [skin aging](Skin%20Aging.md) and [skin cancer](Skin%20Cancer.md). So many people try to get their vitamin D from other sources.
 
 Very few foods naturally contain vitamin D. Most people get vitamin D in their diet from foods that are fortified. This means that vitamin D is added to the food. These foods may include milk, cereal, and yogurt. Foods that naturally have vitamin D include egg yolks, saltwater fish, and liver.
 
@@ -37,19 +37,19 @@ But certain people may need extra vitamin D, such as:
 - Older adults
 - Breastfed infants
 - People with dark skin
-- People with certain conditions that limit the absorption of fat, such as [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), [celiac disease](https://medlineplus.gov/celiacdisease.html), and [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html)
-- People who have [obesity](https://medlineplus.gov/obesity.html) or have had [gastric bypass surgery](https://medlineplus.gov/weightlosssurgery.html)
+- People with certain conditions that limit the absorption of fat, such as [Crohn's disease](Crohn%27s%20Disease.md), [celiac disease](Celiac%20Disease.md), and [ulcerative colitis](Ulcerative%20Colitis.md)
+- People who have [obesity](Obesity.md) or have had [gastric bypass surgery](Weight%20Loss%20Surgery.md)
 
-Check with your health care provider to see if you need to take vitamin D supplements, and if so, how much you should take. Your provider may want to first do a [vitamin D test](https://medlineplus.gov/lab-tests/vitamin-d-test/) to see if you are getting enough of it.
+Check with your health care provider to see if you need to take vitamin D supplements, and if so, how much you should take. Your provider may want to first do a vitamin D test to see if you are getting enough of it.
 
 NIH: National Institutes of Health Office of Dietary Supplements
 
 ## Related topics
 
-- Rickets
-- Vitamin D Deficiency
-- Vitamins
+- [Rickets](Rickets.md)
+- [Vitamin D Deficiency](Vitamin%20D%20Deficiency.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitamind.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitamind.html). General information, not medical advice.*

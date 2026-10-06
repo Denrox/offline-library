@@ -4,7 +4,7 @@
 
 #### What is hormone therapy for menopause?
 
-[Menopause](https://medlineplus.gov/menopause.html) is the time in a woman's life when her [menstrual periods](https://medlineplus.gov/menstruation.html) stop. It is a normal part of aging. During menopause, the body makes much lower amounts of the [hormones](https://medlineplus.gov/hormones.html) estrogen and progesterone.
+[Menopause](Menopause.md) is the time in a woman's life when her [menstrual periods](Menstruation.md) stop. It is a normal part of aging. During menopause, the body makes much lower amounts of the [hormones](Hormones.md) estrogen and progesterone.
 
 Hormone therapy for menopause involves taking estrogen, with or without progesterone (or a similar hormone called progestin). The goal is to replace some of the hormones the body no longer makes and help relieve menopausal symptoms.
 
@@ -20,7 +20,7 @@ Lower hormone levels during menopause can cause symptoms such as:
 - Vaginal dryness
 - Pain during sex
 
-Hormone therapy may help relieve these symptoms. It may also help protect against [osteoporosis](https://medlineplus.gov/osteoporosis.html).
+Hormone therapy may help relieve these symptoms. It may also help protect against [osteoporosis](Osteoporosis.md).
 
 #### Who should not use hormone therapy for menopause?
 
@@ -29,15 +29,15 @@ Hormone therapy is not right for everyone. You should not use hormone therapy fo
 - Are pregnant or think that you may be pregnant
 - Have unexplained vaginal bleeding
 - Have had certain types of cancer
-- Have had a [stroke](https://medlineplus.gov/stroke.html) or [heart attack](https://medlineplus.gov/heartattack.html)
-- Have had [blood clots](https://medlineplus.gov/bloodclots.html)
-- Have [liver disease](https://medlineplus.gov/liverdiseases.html)
+- Have had a [stroke](Stroke.md) or [heart attack](Heart%20Attack.md)
+- Have had [blood clots](Blood%20Clots.md)
+- Have [liver disease](Liver%20Diseases.md)
 
 Talk with your health care provider about your medical history before starting hormone therapy.
 
 #### What are the types of hormone therapy for menopause?
 
-There are different types of hormone therapy for menopause. If you had surgery to remove your uterus ([hysterectomy](https://medlineplus.gov/hysterectomy.html)) your provider may recommend estrogen only therapy. If you still have your uterus, your provider may recommend estrogen plus progesterone (or progestin) therapy.
+There are different types of hormone therapy for menopause. If you had surgery to remove your uterus ([hysterectomy](Hysterectomy.md)) your provider may recommend estrogen only therapy. If you still have your uterus, your provider may recommend estrogen plus progesterone (or progestin) therapy.
 
 Hormone therapy for menopause comes in several forms. Most are pills taken by mouth, but there are also skin patches, gels or sprays, vaginal creams, tablets, or rings.
 
@@ -50,8 +50,8 @@ Hormone therapy has some risks. For some women, it may increase the risk of:
 - Blood clots
 - Heart attack
 - Stroke
-- [Breast cancer](https://medlineplus.gov/breastcancer.html)
-- [Gallbladder disease](https://medlineplus.gov/gallbladderdiseases.html)
+- [Breast cancer](Breast%20Cancer.md)
+- [Gallbladder disease](Gallbladder%20Diseases.md)
 
 The level of risk depends on the type of hormone therapy, how long it is used, and your medical history and lifestyle.
 
@@ -61,8 +61,8 @@ Food and Drug Administration
 
 ## Related topics
 
-- Menopause
+- [Menopause](Menopause.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hormonetherapyformenopause.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hormonetherapyformenopause.html). General information, not medical advice.*

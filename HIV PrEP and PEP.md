@@ -4,7 +4,7 @@
 
 #### What are PrEP and PEP?
 
-PrEP and PEP are [medicines](https://medlineplus.gov/hivmedicines.html) to prevent [HIV](https://medlineplus.gov/hiv.html). Each type is used in a different situation:
+PrEP and PEP are [medicines](HIV%20Medicines.md) to prevent [HIV](HIV.md). Each type is used in a different situation:
 
 - **PrEP** stands for pre-exposure prophylaxis. It is for people who don't already have HIV but are at risk of getting it. PrEP is medicine that can reduce this risk. You can take it as a pill every day or as an injection every two or six months. With PrEP, if you do get exposed to HIV, the medicine can stop HIV from taking hold and spreading throughout your body.
 - **PEP** stands for post-exposure prophylaxis. PEP is for people who have possibly been exposed to HIV. It is only for emergency situations. PEP must be started within 72 hours after a possible exposure to HIV.
@@ -19,7 +19,7 @@ PrEP can help protect you if you don't have HIV and any of these applies to you:
 
  - Have a sexual partner with HIV,
  - Have not consistently used a condom, **OR**
- - Have been diagnosed with a [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI) in the past 6 months
+ - Have been diagnosed with a [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI) in the past 6 months
 - **You inject drugs** and:
 
  - Share needles or other equipment to inject drugs **OR**
@@ -29,13 +29,13 @@ PrEP can help protect you if you don't have HIV and any of these applies to you:
  - Continue engaging in high-risk behaviors **OR**
  - Have used multiple courses of PEP
 
-If you have a partner who is HIV-positive and are considering getting pregnant, talk to your health care provider about PrEP. Taking it may help protect you and your fetus or baby from getting an HIV infection while you try to get pregnant, [during pregnancy](https://medlineplus.gov/hivandpregnancy.html), or while breastfeeding.
+If you have a partner who is HIV-positive and are considering getting pregnant, talk to your health care provider about PrEP. Taking it may help protect you and your fetus or baby from getting an HIV infection while you try to get pregnant, [during pregnancy](HIV%20and%20Pregnancy.md), or while breastfeeding.
 
 #### How well does PrEP work?
 
 PrEP is very effective when you take it consistently. It reduces the risk of getting HIV from sex by about 99%. In people who inject drugs, it reduces the risk of HIV by at least 74%. PrEP is much less effective if you do not take it consistently.
 
-PrEP does not protect against other STIs, so you should still use latex condoms every time you have sex. If your or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+PrEP does not protect against other STIs, so you should still use latex condoms every time you have sex. If your or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 
 You must have an HIV test every 3 months while taking PrEP, so you'll have regular follow-up visits with your provider. If you are having trouble taking PrEP every day or if you want to stop taking PrEP, talk to your provider.
 
@@ -53,7 +53,7 @@ You may be prescribed PEP if you are HIV negative or don't know your HIV status,
 
 - During sex, for example if a condom broke during sex with someone who could have HIV,
 - Through the sharing of needles or drug preparation equipment
-- Through [sexual assault](https://medlineplus.gov/sexualassault.html)
+- Through [sexual assault](Sexual%20Assault.md)
 
 Your provider or emergency room doctor will help to decide whether PEP is right for you.
 
@@ -63,13 +63,13 @@ PEP may also be given to a health care worker after a possible exposure to HIV a
 
 PEP must be started within 72 hours (3 days) after a possible exposure to HIV. The sooner you start it, the better; every hour counts.
 
-You need to take the PEP medicines every day for 28 days. You will have to see your provider at certain times during and after taking the PEP, so you can have an [HIV screening test](https://medlineplus.gov/lab-tests/hiv-screening-test/) and other testing.
+You need to take the PEP medicines every day for 28 days. You will have to see your provider at certain times during and after taking the PEP, so you can have an HIV screening test and other testing.
 
 #### Does PEP cause side effects?
 
 Some people taking PEP may have side effects, like nausea. The side effects are usually not serious and often get better over time. If you are taking PEP, tell your provider if you have a side effect that bothers you or that does not go away.
 
-PEP medicines may also interact with other medicines that a person is taking (called a [drug interaction](https://medlineplus.gov/drugreactions.html)). So it's important to tell your provider about any other medicines that you take.
+PEP medicines may also interact with other medicines that a person is taking (called a [drug interaction](Drug%20Reactions.md)). So it's important to tell your provider about any other medicines that you take.
 
 #### Can I take PEP every time I have unprotected sex?
 
@@ -77,9 +77,9 @@ PEP is only for emergency situations. It is not the right choice for people who 
 
 ## Related topics
 
-- HIV
-- HIV Medicines
+- [HIV](HIV.md)
+- [HIV Medicines](HIV%20Medicines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hivprepandpep.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hivprepandpep.html). General information, not medical advice.*

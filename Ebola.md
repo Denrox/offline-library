@@ -4,7 +4,7 @@
 
 #### What is Ebola?
 
-Ebola, also known as Ebola virus disease (EVD), is a type of [hemorrhagic fever](https://medlineplus.gov/hemorrhagicfevers.html). It is a rare and often deadly disease. It can be caused by several different types of Ebola viruses. There are occasional outbreaks of Ebola, and they mostly occur in Africa.
+Ebola, also known as Ebola virus disease (EVD), is a type of [hemorrhagic fever](Hemorrhagic%20Fevers.md). It is a rare and often deadly disease. It can be caused by several different types of Ebola viruses. There are occasional outbreaks of Ebola, and they mostly occur in Africa.
 
 #### How does Ebola spread?
 
@@ -20,16 +20,16 @@ When people become infected with Ebola, they do not start developing signs or sy
 
 The symptoms of Ebola may appear anywhere from 2 to 21 days after exposure to the virus. The average is about 8 to 10 days. The symptoms usually include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Fever](Fever.md)
+- [Headache](Headache.md)
 - Joint and muscle aches
-- Weakness and [fatigue](https://medlineplus.gov/fatigue.html)
+- Weakness and [fatigue](Fatigue.md)
 - Sore throat
-- Gastrointestinal symptoms including [abdominal (belly) pain](abdominalpain.html), [diarrhea](https://medlineplus.gov/diarrhea.html), and [vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- Gastrointestinal symptoms including abdominal (belly) pain, [diarrhea](Diarrhea.md), and [vomiting](Nausea%20and%20Vomiting.md)
 - Loss of appetite
-- Unexplained [bleeding](https://medlineplus.gov/bleeding.html) or [bruising](https://medlineplus.gov/bruises.html)
+- Unexplained [bleeding](Bleeding.md) or [bruising](Bruises.md)
 
-Other symptoms may include a [rash](https://medlineplus.gov/rashes.html), red eyes, and hiccups.
+Other symptoms may include a [rash](Rashes.md), red eyes, and hiccups.
 
 #### How is Ebola diagnosed?
 
@@ -41,12 +41,12 @@ In the United States, there are two approved medicines to treat Ebola that is ca
 
 Whether or not there are medicines to treat a case of Ebola, there is supportive care. This type of care can improve the chances of survival, especially when given early. Supportive care includes:
 
-- Giving [fluids and electrolytes](https://medlineplus.gov/fluidandelectrolytebalance.html)
+- Giving [fluids and electrolytes](Fluid%20and%20Electrolyte%20Balance.md)
 - Giving medicines to support blood pressure, reduce vomiting and diarrhea, and to manage fever and pain
 - Giving oxygen
 - Treating any other complications or infections
 
-People who recover may still have side effects afterwards, such as fatigue, muscle aches, eye and [vision problems](https://medlineplus.gov/visionimpairmentandblindness.html), and stomach pain.
+People who recover may still have side effects afterwards, such as fatigue, muscle aches, eye and [vision problems](Vision%20Impairment%20and%20Blindness.md), and stomach pain.
 
 #### Can Ebola be prevented?
 
@@ -63,8 +63,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Hemorrhagic Fevers
+- [Hemorrhagic Fevers](Hemorrhagic%20Fevers.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ebola.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ebola.html). General information, not medical advice.*

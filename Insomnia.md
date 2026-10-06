@@ -2,13 +2,13 @@
 
 #### What is insomnia?
 
-Insomnia is a common [sleep disorder](https://medlineplus.gov/sleepdisorders.html). If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.
+Insomnia is a common [sleep disorder](Sleep%20Disorders.md). If you have it, you may have trouble falling asleep, staying asleep, or both. As a result, you may get too little sleep or have poor-quality sleep. You may not feel refreshed when you wake up.
 
 #### What are the types of insomnia?
 
 Insomnia can be acute (short-term) or chronic (ongoing). Acute insomnia is common. Common causes include stress at work, family pressures, or a traumatic event. It usually lasts for days or weeks.
 
-Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as [caffeine](https://medlineplus.gov/caffeine.html), tobacco, and [alcohol](https://medlineplus.gov/alcohol.html) can also be a cause.
+Chronic insomnia lasts for a month or longer. Most cases of chronic insomnia are secondary. This means they are the symptom or side effect of some other problem, such as certain medical conditions, medicines, and other sleep disorders. Substances such as [caffeine](Caffeine.md), tobacco, and [alcohol](Alcohol.md) can also be a cause.
 
 Sometimes chronic insomnia is the primary problem. This means that it is not caused by something else. Its cause is not well understood, but long-lasting stress, emotional upset, travel and shift work can be factors. Primary insomnia usually lasts more than one month.
 
@@ -16,12 +16,12 @@ Sometimes chronic insomnia is the primary problem. This means that it is not cau
 
 Insomnia is common. It affects women more often than men. You can get it at any age, but older adults are more likely to have it. You are also at higher risk of insomnia if you:
 
-- Have a lot of [stress](https://medlineplus.gov/stress.html)
+- Have a lot of [stress](Stress.md)
 - Are depressed or have other emotional distress, such as divorce or death of a spouse
 - Have a lower income
 - Work at night or have frequent major shifts in your work hours
 - Travel long distances with time changes
-- Have an [inactive lifestyle](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
+- Have an [inactive lifestyle](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
 - Are African American; research shows that African Americans take longer to fall asleep, don't sleep as well, and have more sleep-related breathing problems than Whites.
 
 #### What are the symptoms of insomnia?
@@ -51,7 +51,7 @@ To diagnose insomnia, your health care provider:
 
 Treatments include lifestyle changes, counseling, and medicines:
 
-- Lifestyle changes, including [good sleep habits](https://medlineplus.gov/healthysleep.html), often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep.
+- Lifestyle changes, including [good sleep habits](Healthy%20Sleep.md), often help relieve acute (short-term) insomnia. These changes might make it easier for you to fall asleep and stay asleep.
 - A type of counseling called cognitive-behavioral therapy (CBT) can help relieve the anxiety linked to chronic (ongoing) insomnia
 - Several medicines also can help relieve your insomnia and allow you to re-establish a regular sleep schedule
 
@@ -61,9 +61,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Healthy Sleep
-- Sleep Disorders
+- [Healthy Sleep](Healthy%20Sleep.md)
+- [Sleep Disorders](Sleep%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/insomnia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/insomnia.html). General information, not medical advice.*

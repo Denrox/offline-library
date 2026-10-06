@@ -6,8 +6,8 @@ Families are much more than groups of people who share the same genes or the sam
 
 ## Related topics
 
-- Parenting
+- [Parenting](Parenting.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/familyissues.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/familyissues.html). General information, not medical advice.*

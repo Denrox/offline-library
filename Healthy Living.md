@@ -14,34 +14,34 @@ Healthy living can help you feel better, boost your energy, and lower your risk 
 
 You don't have to change everything at once. Start with a few steps to build a foundation for a healthier lifestyle. These can include:
 
-- Get the [screening tests](https://medlineplus.gov/healthscreening.html) recommended for you, including those specific to [women's health](https://medlineplus.gov/womenshealth.html) and [men's](https://medlineplus.gov/menshealth.html) health
-- Stay up to date on [vaccines](https://medlineplus.gov/vaccines.html) to protect yourself from disease
-- [Maintain a healthy weight](https://medlineplus.gov/weightcontrol.html) that's right for you
-- Eat a variety of [healthy foods](https://medlineplus.gov/nutrition.html), and limit calories, added sugar, and saturated fat
-- Be [physically active](https://medlineplus.gov/exerciseandphysicalfitness.html), even small amounts of exercise can be helpful
-- Keep your [blood pressure](https://medlineplus.gov/highbloodpressure.html) and [cholesterol](https://medlineplus.gov/howtolowercholesterol.html) in a healthy range
-- Don't [smoke](https://medlineplus.gov/smoking.html), or take steps to quit if you do
-- Protect your skin from [too much sun](https://medlineplus.gov/sunexposure.html)
-- Limit [alcohol](https://medlineplus.gov/alcohol.html), or choose not to drink at all
-- [Get enough sleep](https://medlineplus.gov/healthysleep.html) each night to help your body and mind recharge
-- Manage [stress](https://medlineplus.gov/stress.html) and work on [improving your mental health](https://medlineplus.gov/howtoimprovementalhealth.html), such as by practicing meditation, relaxation techniques, or gratitude
-- Protect yourself from [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs)
-- Visit your health care provider regularly for [checkups](https://medlineplus.gov/healthcheckup.html)
-- See your [dentist](https://medlineplus.gov/dentalhealth.html) and [eye care](https://medlineplus.gov/eyecare.html) specialist for routine care
+- Get the [screening tests](Health%20Screening.md) recommended for you, including those specific to [women's health](Women%27s%20Health.md) and [men's](Men%27s%20Health.md) health
+- Stay up to date on [vaccines](Vaccines.md) to protect yourself from disease
+- [Maintain a healthy weight](Weight%20Control.md) that's right for you
+- Eat a variety of [healthy foods](Nutrition.md), and limit calories, added sugar, and saturated fat
+- Be [physically active](Exercise%20and%20Physical%20Fitness.md), even small amounts of exercise can be helpful
+- Keep your [blood pressure](High%20Blood%20Pressure.md) and [cholesterol](How%20to%20Lower%20Cholesterol.md) in a healthy range
+- Don't [smoke](Smoking.md), or take steps to quit if you do
+- Protect your skin from [too much sun](Sun%20Exposure.md)
+- Limit [alcohol](Alcohol.md), or choose not to drink at all
+- [Get enough sleep](Healthy%20Sleep.md) each night to help your body and mind recharge
+- Manage [stress](Stress.md) and work on [improving your mental health](How%20to%20Improve%20Mental%20Health.md), such as by practicing meditation, relaxation techniques, or gratitude
+- Protect yourself from [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs)
+- Visit your health care provider regularly for [checkups](Health%20Checkup.md)
+- See your [dentist](Dental%20Health.md) and [eye care](Eye%20Care.md) specialist for routine care
 - Stay connected with friends, family, or community groups, and do activities you enjoy
 
 Healthy living is a lifelong journey. Over time, small steps can add up to big health benefits.
 
 ## Related topics
 
-- Exercise and Physical Fitness
-- Health Risks of an Inactive Lifestyle
-- How to Improve Mental Health
-- How to Prevent Diabetes
-- How to Prevent Heart Disease
-- How to Prevent High Blood Pressure
-- Nutrition
+- [Exercise and Physical Fitness](Exercise%20and%20Physical%20Fitness.md)
+- [Health Risks of an Inactive Lifestyle](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
+- [How to Improve Mental Health](How%20to%20Improve%20Mental%20Health.md)
+- [How to Prevent Diabetes](How%20to%20Prevent%20Diabetes.md)
+- [How to Prevent Heart Disease](How%20to%20Prevent%20Heart%20Disease.md)
+- [How to Prevent High Blood Pressure](How%20to%20Prevent%20High%20Blood%20Pressure.md)
+- [Nutrition](Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthyliving.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthyliving.html). General information, not medical advice.*

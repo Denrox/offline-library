@@ -4,7 +4,7 @@
 
 Many Americans use medical treatments that are not part of mainstream medicine. When you are using these types of care, it may be called complementary, integrative, or alternative medicine.
 
-Complementary medicine is used together with mainstream medical care. An example is using [acupuncture](https://medlineplus.gov/acupuncture.html) to help with side effects of cancer treatment. When health care providers and facilities offer both types of care, it is called integrative medicine. Alternative medicine is used instead of mainstream medical care.
+Complementary medicine is used together with mainstream medical care. An example is using [acupuncture](Acupuncture.md) to help with side effects of cancer treatment. When health care providers and facilities offer both types of care, it is called integrative medicine. Alternative medicine is used instead of mainstream medical care.
 
 The claims that non-mainstream practitioners make can sound promising. However, researchers do not know how safe many of these treatments are or how well they work. Studies are underway to determine the safety and usefulness of many of these practices.
 
@@ -19,11 +19,11 @@ NIH: National Center for Complementary and Integrative Health
 
 ## Related topics
 
-- Acupuncture
-- Cancer Alternative Therapies
-- Chiropractic
-- Herbal Medicine
+- [Acupuncture](Acupuncture.md)
+- [Cancer Alternative Therapies](Cancer%20Alternative%20Therapies.md)
+- [Chiropractic](Chiropractic.md)
+- [Herbal Medicine](Herbal%20Medicine.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/complementaryandintegrativemedicine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/complementaryandintegrativemedicine.html). General information, not medical advice.*

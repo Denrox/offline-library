@@ -4,8 +4,8 @@
 
 Platelets, also known as thrombocytes, are blood cells. They form in your bone marrow, a sponge-like tissue in your bones. Platelets play a major role in blood clotting. Normally, when one of your blood vessels is injured, you start to bleed. Your platelets will clot (clump together) to plug the hole in the blood vessel and stop the bleeding. You can have different problems with your platelets:
 
-- If your blood has a **low number of platelets**, it is called thrombocytopenia. This can put you at risk for mild to serious [bleeding](https://medlineplus.gov/bleeding.html). The bleeding could be external or internal. There can be various causes. If the problem is mild, you may not need treatment. For more serious cases, you may need medicines or [blood or platelet transfusions](https://medlineplus.gov/bloodtransfusionanddonation.html).
-- If your blood has **too many platelets**, you may have a higher risk of [blood clots](https://medlineplus.gov/bloodclots.html).
+- If your blood has a **low number of platelets**, it is called thrombocytopenia. This can put you at risk for mild to serious [bleeding](Bleeding.md). The bleeding could be external or internal. There can be various causes. If the problem is mild, you may not need treatment. For more serious cases, you may need medicines or [blood or platelet transfusions](Blood%20Transfusion%20and%20Donation.md).
+- If your blood has **too many platelets**, you may have a higher risk of [blood clots](Blood%20Clots.md).
 
  - When the cause is unknown, this is called thrombocythemia. It is rare. You may not need treatment if there are no signs or symptoms. In other cases, people who have it may need treatment with medicines or procedures.
  - If another disease or condition is causing the high platelet count, it is thrombocytosis. The treatment and outlook for thrombocytosis depends on what is causing it.
@@ -15,12 +15,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Bleeding Disorders
-- Blood Clots
-- Blood Count Tests
-- Blood Disorders
-- Blood Thinners
+- [Bleeding Disorders](Bleeding%20Disorders.md)
+- [Blood Clots](Blood%20Clots.md)
+- [Blood Count Tests](Blood%20Count%20Tests.md)
+- [Blood Disorders](Blood%20Disorders.md)
+- [Blood Thinners](Blood%20Thinners.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/plateletdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/plateletdisorders.html). General information, not medical advice.*

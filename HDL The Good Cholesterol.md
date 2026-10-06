@@ -4,18 +4,18 @@
 
 #### What is cholesterol?
 
-[Cholesterol](https://medlineplus.gov/cholesterol.html) is a waxy, fat-like substance that's found in all the cells in your body. Your liver makes cholesterol, and it is also in some foods, such as meat and dairy products. Your body needs some cholesterol to work properly. But having too much cholesterol in your blood raises your risk of [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html).
+[Cholesterol](Cholesterol.md) is a waxy, fat-like substance that's found in all the cells in your body. Your liver makes cholesterol, and it is also in some foods, such as meat and dairy products. Your body needs some cholesterol to work properly. But having too much cholesterol in your blood raises your risk of [coronary artery disease](Coronary%20Artery%20Disease.md).
 
 #### What are HDL and LDL?
 
-HDL and [LDL](https://medlineplus.gov/ldlthebadcholesterol.html) are two types of lipoproteins.They are a combination of fat (lipid) and protein. The lipids need to be attached to the proteins so they can move through the blood. HDL and LDL have different purposes:
+HDL and [LDL](LDL%20The%20Bad%20Cholesterol.md) are two types of lipoproteins.They are a combination of fat (lipid) and protein. The lipids need to be attached to the proteins so they can move through the blood. HDL and LDL have different purposes:
 
 - HDL stands for high-density lipoproteins. It is sometimes called the "good" cholesterol because it carries cholesterol from other parts of your body back to your liver. Your liver then removes the cholesterol from your body.
 - LDL stands for low-density lipoproteins. It is sometimes called the "bad" cholesterol because a high LDL level leads to a buildup of cholesterol in your arteries.
 
 #### How do I know what my HDL level is?
 
-A [blood test](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html) can measure your cholesterol levels, including HDL. When and how often you should get this test depends on your age, risk factors, and family history. The general recommendations are:
+A [blood test](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md) can measure your cholesterol levels, including HDL. When and how often you should get this test depends on your age, risk factors, and family history. The general recommendations are:
 
 **For people who are age 19 or younger:**
 
@@ -30,7 +30,7 @@ A [blood test](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html) 
 
 #### What should my HDL level be?
 
-With HDL cholesterol, higher numbers are better, because a high HDL level can lower your risk for coronary artery disease and [stroke](https://medlineplus.gov/stroke.html). How high your HDL should be depends on your age and sex:
+With HDL cholesterol, higher numbers are better, because a high HDL level can lower your risk for coronary artery disease and [stroke](Stroke.md). How high your HDL should be depends on your age and sex:
 
 - Group  Healthy HDL Level
 - Age 19 or younger  More than 45mg/dl
@@ -42,38 +42,38 @@ If your HDL level is too low, lifestyle changes may help. These changes may also
 
 - **Eat a healthy diet.** To raise your HDL level, you need to eat good fats instead of bad fats. This means limiting saturated fats, which include full-fat milk and cheese, high-fat meats like sausage and bacon, and foods made with butter, lard, and shortening. You should also avoid trans fats, which may be in some margarines, fried foods, and processed foods like baked goods. Instead, eat unsaturated fats, which are found in avocado, vegetable oils like olive oil, and nuts. Limit carbohydrates, especially sugar. Also try to eat more foods naturally high in fiber, such as oatmeal and beans.
 - **Stay at a healthy weight.** You can boost your HDL level by losing weight, especially if you have lots of fat around your waist.
-- **Exercise.** Getting [regular exercise](https://medlineplus.gov/howmuchexercisedoineed.html) can raise your HDL level, as well as lower your LDL. You should try to do 30 minutes of moderate to vigorous aerobic exercise on most, if not all, days.
-- **Avoid cigarettes.** [Smoking](https://medlineplus.gov/smoking.html) and exposure to [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html) can lower your HDL level. If you are a smoker, ask your health care provider for help in finding the best way for you to [quit](https://medlineplus.gov/quittingsmoking.html). You should also try to avoid secondhand smoke.
+- **Exercise.** Getting [regular exercise](How%20Much%20Exercise%20Do%20I%20Need.md) can raise your HDL level, as well as lower your LDL. You should try to do 30 minutes of moderate to vigorous aerobic exercise on most, if not all, days.
+- **Avoid cigarettes.** [Smoking](Smoking.md) and exposure to [secondhand smoke](Secondhand%20Smoke.md) can lower your HDL level. If you are a smoker, ask your health care provider for help in finding the best way for you to [quit](Quitting%20Smoking.md). You should also try to avoid secondhand smoke.
 - **Limit alcohol.** Moderate alcohol may lower your HDL level, although more studies are needed to confirm that. What we do know is that too much alcohol can make you gain weight, and that lowers your HDL level.
 
-Some [cholesterol medicines](https://medlineplus.gov/cholesterolmedicines.html), including certain [statins](https://medlineplus.gov/statins.html), can raise your HDL level, in addition to lowering your LDL level. Health care providers don't usually prescribe medicines only to raise HDL. But if you have a low HDL and high LDL level, you might need medicine.
+Some [cholesterol medicines](Cholesterol%20Medicines.md), including certain [statins](Statins.md), can raise your HDL level, in addition to lowering your LDL level. Health care providers don't usually prescribe medicines only to raise HDL. But if you have a low HDL and high LDL level, you might need medicine.
 
 #### What else can affect my HDL level?
 
 Taking certain medicines can lower HDL levels in some people. They include:
 
-- Beta blockers, a type of [blood pressure medicine](https://medlineplus.gov/bloodpressuremedicines.html)
-- [Anabolic steroids](https://medlineplus.gov/anabolicsteroids.html), including testosterone, a male hormone
-- Progestins, which are female hormones that are in some [birth control pills](https://medlineplus.gov/birthcontrol.html) and [hormone therapy for menopause](https://medlineplus.gov/hormonetherapyformenopause.html)
+- Beta blockers, a type of [blood pressure medicine](Blood%20Pressure%20Medicines.md)
+- [Anabolic steroids](Anabolic%20Steroids.md), including testosterone, a male hormone
+- Progestins, which are female hormones that are in some [birth control pills](Birth%20Control.md) and [hormone therapy for menopause](Hormone%20Therapy%20for%20Menopause.md)
 - Benzodiazepines, sedatives that are often used for anxiety and insomnia
 
 If you are taking one of these and you have a very low HDL level, ask your provider if you should continue to take them.
 
-Diabetes can also lower your HDL level, so that gives you another reason to manage your [diabetes](https://medlineplus.gov/diabetes.html).
+Diabetes can also lower your HDL level, so that gives you another reason to manage your [diabetes](Diabetes.md).
 
 ## Related topics
 
-- Cholesterol
-- Cholesterol Levels: What You Need to Know
-- Cholesterol Medicines
-- Dietary Fats
-- Heart Diseases
-- How to Lower Cholesterol
-- LDL: The "Bad" Cholesterol
-- Nutrition
-- Statins
-- Triglycerides
+- [Cholesterol](Cholesterol.md)
+- [Cholesterol Levels: What You Need to Know](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md)
+- [Cholesterol Medicines](Cholesterol%20Medicines.md)
+- [Dietary Fats](Dietary%20Fats.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [How to Lower Cholesterol](How%20to%20Lower%20Cholesterol.md)
+- [LDL: The "Bad" Cholesterol](LDL%20The%20Bad%20Cholesterol.md)
+- [Nutrition](Nutrition.md)
+- [Statins](Statins.md)
+- [Triglycerides](Triglycerides.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hdlthegoodcholesterol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hdlthegoodcholesterol.html). General information, not medical advice.*

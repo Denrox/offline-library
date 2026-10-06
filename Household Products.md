@@ -3,11 +3,11 @@
 The products you use for cleaning, carpentry, auto repair, gardening, and many other household uses can contain ingredients that can harm you, your family, and the environment. These include :
 
 - Oven and drain cleaners
-- [Cleaning and disinfecting products](https://medlineplus.gov/cleaningdisinfectingandsanitizing.html), including bleach and antibacterial cleaners
+- [Cleaning and disinfecting products](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md), including bleach and antibacterial cleaners
 - Laundry powder
 - Floor polish
 - Paint thinners, strippers, and removers
-- [Pesticides](https://medlineplus.gov/pesticides.html)
+- [Pesticides](Pesticides.md)
 - Grease and rust removers
 - Motor oil and fuel additives
 - Arts and crafts supplies
@@ -20,13 +20,13 @@ Environmental Protection Agency
 
 ## Related topics
 
-- Child Safety
-- Cleaning, Disinfecting, and Sanitizing
-- Cosmetics
-- Indoor Air Pollution
-- Pesticides
-- Poisoning
+- [Child Safety](Child%20Safety.md)
+- [Cleaning, Disinfecting, and Sanitizing](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md)
+- [Cosmetics](Cosmetics.md)
+- [Indoor Air Pollution](Indoor%20Air%20Pollution.md)
+- [Pesticides](Pesticides.md)
+- [Poisoning](Poisoning.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/householdproducts.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/householdproducts.html). General information, not medical advice.*

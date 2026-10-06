@@ -4,7 +4,7 @@
 
 #### What is Lyme disease?
 
-Lyme disease is a bacterial infection you get from [the bite of an infected tick](https://medlineplus.gov/tickbites.html). At first, Lyme disease usually causes symptoms such as a [rash](https://medlineplus.gov/rashes.html), [fever](https://medlineplus.gov/fever.html), [headache](https://medlineplus.gov/headache.html), and [fatigue](https://medlineplus.gov/fatigue.html). But if it is not treated early, the infection can spread to your joints, heart, and nervous system. Prompt treatment can help you recover quickly.
+Lyme disease is a bacterial infection you get from [the bite of an infected tick](Tick%20Bites.md). At first, Lyme disease usually causes symptoms such as a [rash](Rashes.md), [fever](Fever.md), [headache](Headache.md), and [fatigue](Fatigue.md). But if it is not treated early, the infection can spread to your joints, heart, and nervous system. Prompt treatment can help you recover quickly.
 
 #### What causes Lyme disease?
 
@@ -40,11 +40,11 @@ If the infection is not treated, it can spread to your joints, heart, and nervou
 - Severe headaches and neck stiffness.
 - More EM rashes on other areas of your body.
 - Facial palsy, which is a weakness in your facial muscles. It can cause drooping on one or both sides of your face.
-- [Arthritis](https://medlineplus.gov/arthritis.html) with severe joint pain and swelling, especially in your knees and other large joints.
+- [Arthritis](Arthritis.md) with severe joint pain and swelling, especially in your knees and other large joints.
 - Pain that comes and goes in your tendons, muscles, joints, and bones.
 - Heart palpitations, which are feelings that your heart is skipping a beat, fluttering, pounding, or beating too hard or too fast.
-- An [irregular heart beat](https://medlineplus.gov/arrhythmia.html) (Lyme carditis).
-- Episodes of [dizziness](https://medlineplus.gov/dizzinessandvertigo.html) or shortness of breath.
+- An [irregular heart beat](Arrhythmia.md) (Lyme carditis).
+- Episodes of [dizziness](Dizziness%20and%20Vertigo.md) or shortness of breath.
 - Inflammation of the brain and spinal cord.
 - Nerve pain.
 - Shooting pains, numbness, or tingling in the hands or feet.
@@ -58,11 +58,11 @@ To make a diagnosis, your health care provider will consider:
 - How likely it is that you could have other illnesses that cause similar symptoms
 - The results of any lab tests
 
-Most [Lyme disease tests](https://medlineplus.gov/lab-tests/lyme-disease-tests/) check for antibodies made by the body in response to infection. These antibodies can take several weeks to develop. If you are tested right away, it may not show that you have Lyme disease, even if you have it. So you may need to have another test later.
+Most Lyme disease tests check for antibodies made by the body in response to infection. These antibodies can take several weeks to develop. If you are tested right away, it may not show that you have Lyme disease, even if you have it. So you may need to have another test later.
 
 #### What are the treatments for Lyme disease?
 
-Lyme disease is treated with [antibiotics](https://medlineplus.gov/antibiotics.html). The earlier you are treated, the better; it gives you the best chance of fully recovering quickly.
+Lyme disease is treated with [antibiotics](Antibiotics.md). The earlier you are treated, the better; it gives you the best chance of fully recovering quickly.
 
 After treatment, some patients may still have pain, fatigue, or difficulty thinking that lasts more than 6 months. This is called post-treatment Lyme disease syndrome (PTLDS). Researchers don't know why some people have PTLDS. There is no proven treatment for PTLDS; long-term antibiotics have not been shown to help. However, there are ways to help with the symptoms of PTLDS. If you have been treated for Lyme disease and still feel unwell, contact your health care provider about how to manage your symptoms. Most people do get better with time. But it can take several months before you feel better.
 
@@ -82,8 +82,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Tick Bites
+- [Tick Bites](Tick%20Bites.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lymedisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lymedisease.html). General information, not medical advice.*

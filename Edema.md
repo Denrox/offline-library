@@ -8,11 +8,11 @@ Causes of edema include:
 
 - Eating too much salt
 - Sunburn
-- [Heart failure](https://medlineplus.gov/heartfailure.html)
-- [Kidney disease](https://medlineplus.gov/kidneydiseases.html)
-- Liver problems from [cirrhosis](https://medlineplus.gov/cirrhosis.html)
+- [Heart failure](Heart%20Failure.md)
+- [Kidney disease](Kidney%20Diseases.md)
+- Liver problems from [cirrhosis](Cirrhosis.md)
 - Pregnancy
-- Problems with [lymph nodes](https://medlineplus.gov/lymphedema.html), especially after [mastectomy](https://medlineplus.gov/mastectomy.html)
+- Problems with [lymph nodes](Lymphedema.md), especially after [mastectomy](Mastectomy.md)
 - Some medicines
 - Standing or walking a lot when the weather is warm
 
@@ -20,8 +20,8 @@ To keep swelling down, your health care provider may recommend keeping your legs
 
 ## Related topics
 
-- Lymphatic Diseases
+- [Lymphatic Diseases](Lymphatic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/edema.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/edema.html). General information, not medical advice.*

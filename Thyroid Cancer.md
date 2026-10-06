@@ -2,7 +2,7 @@
 
 #### What is thyroid cancer?
 
-Thyroid cancer is a cancer that starts in the tissues of the thyroid. Your thyroid is a small, butterfly-shaped gland in the front of your neck. It makes [hormones](https://medlineplus.gov/hormones.html) that control the way the body uses energy. These hormones affect nearly every organ in your body and control many of your body's most important functions. For example, they affect your breathing, heart rate, weight, digestion, and moods.
+Thyroid cancer is a cancer that starts in the tissues of the thyroid. Your thyroid is a small, butterfly-shaped gland in the front of your neck. It makes [hormones](Hormones.md) that control the way the body uses energy. These hormones affect nearly every organ in your body and control many of your body's most important functions. For example, they affect your breathing, heart rate, weight, digestion, and moods.
 
 #### What are the different types of thyroid cancer?
 
@@ -19,9 +19,9 @@ Certain people are more likely to develop thyroid cancer. Your risk is higher if
 - Are between ages 25 and 65
 - Are a woman
 - Are Asian
-- Were exposed to certain types of radiation, including from [radiation treatments](https://medlineplus.gov/radiationtherapy.html) to your head or neck as a child or from a [radiation emergency](https://medlineplus.gov/radiationemergencies.html)
+- Were exposed to certain types of radiation, including from [radiation treatments](Radiation%20Therapy.md) to your head or neck as a child or from a [radiation emergency](Radiation%20Emergencies.md)
 - Have had a goiter (enlarged thyroid)
-- Having certain [genetic conditions](https://medlineplus.gov/geneticdisorders.html), including certain types of [multiple endocrine neoplasia](https://medlineplus.gov/genetics/condition/multiple-endocrine-neoplasia/)
+- Having certain [genetic conditions](Genetic%20Disorders.md), including certain types of multiple endocrine neoplasia
 - Have a family history of thyroid cancer or thyroid disease
 
 #### What are the symptoms of thyroid cancer?
@@ -29,8 +29,8 @@ Certain people are more likely to develop thyroid cancer. Your risk is higher if
 Thyroid cancer may not cause symptoms at first. It is sometimes found during a routine physical exam. You may get signs or symptoms as the cancer gets bigger. The symptoms may include:
 
 - A lump (nodule) in the neck
-- [Trouble breathing](https://medlineplus.gov/breathingproblems.html)
-- [Trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
+- [Trouble breathing](Breathing%20Problems.md)
+- [Trouble swallowing](Swallowing%20Disorders.md)
 - Pain when swallowing
 - Hoarseness or other changes to your voice that do not get better
 
@@ -40,9 +40,9 @@ To find out if you have thyroid cancer, your health care provider may use:
 
 - A physical exam, including checking your neck for swelling, lumps, or anything that seems unusual
 - A medical history
-- [Thyroid tests](https://medlineplus.gov/thyroidtests.html)
-- Other blood or [imaging](https://medlineplus.gov/diagnosticimaging.html) tests
-- A [biopsy](https://medlineplus.gov/biopsy.html)
+- [Thyroid tests](Thyroid%20Tests.md)
+- Other blood or [imaging](Diagnostic%20Imaging.md) tests
+- A [biopsy](Biopsy.md)
 
 #### What are the treatments for thyroid cancer?
 
@@ -50,7 +50,7 @@ Treatment for thyroid cancer depends on the type of cancer you have and whether 
 
 - Surgery.
 - Radiation therapy, including radioactive iodine therapy.
-- [Chemotherapy](https://medlineplus.gov/cancerchemotherapy.html).
+- [Chemotherapy](Cancer%20Chemotherapy.md).
 - Thyroid hormone therapy.
 - Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
 - Watchful waiting, which means that you don't get treatment right away. Your regularly checks to see if your signs or symptoms appear or change.
@@ -59,9 +59,9 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Thyroid Diseases
-- Thyroid Tests
+- [Thyroid Diseases](Thyroid%20Diseases.md)
+- [Thyroid Tests](Thyroid%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/thyroidcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/thyroidcancer.html). General information, not medical advice.*

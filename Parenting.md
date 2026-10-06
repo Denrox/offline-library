@@ -16,9 +16,9 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Child Development
-- Family Issues
+- [Child Development](Child%20Development.md)
+- [Family Issues](Family%20Issues.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/parenting.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/parenting.html). General information, not medical advice.*

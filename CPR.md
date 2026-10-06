@@ -4,7 +4,7 @@
 
 #### What is CPR?
 
-Cardiopulmonary resuscitation (CPR) is used when a person's heart has stopped beating, called cardiac arrest, or when a person has stopped breathing. CPR is an emergency technique that keeps blood and oxygen moving through the body until [emergency medical](https://medlineplus.gov/emergencymedicalservices.html) help arrives.
+Cardiopulmonary resuscitation (CPR) is used when a person's heart has stopped beating, called cardiac arrest, or when a person has stopped breathing. CPR is an emergency technique that keeps blood and oxygen moving through the body until [emergency medical](Emergency%20Medical%20Services.md) help arrives.
 
 When someone's heart stops or they stop breathing, every second matters. Without treatment, permanent brain damage can happen quickly. If you know how to perform CPR, you could save a life.
 
@@ -16,7 +16,7 @@ Before starting CPR, check the person. Tap their shoulder and shout, "Are you ok
 
 **Call 911.** If someone else is nearby, send them to call while you start CPR.
 
-**Send someone to find an AED.** An automated external defibrillator (AED) is a device that can shock the heart back into a normal rhythm. It gives you step-by-step voice instructions. AEDs are especially useful in [sudden cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html), when the heart stops unexpectedly due to an electrical problem. AEDs are available in many public places.
+**Send someone to find an AED.** An automated external defibrillator (AED) is a device that can shock the heart back into a normal rhythm. It gives you step-by-step voice instructions. AEDs are especially useful in [sudden cardiac arrest](Sudden%20Cardiac%20Arrest.md), when the heart stops unexpectedly due to an electrical problem. AEDs are available in many public places.
 
 **Position the person.** Make sure that the person is lying on their back. Start CPR right away. Do not wait to move them to a different surface.
 
@@ -44,9 +44,9 @@ The steps above are an overview only. To be truly prepared, take an accredited C
 
 ## Related topics
 
-- First Aid
-- Sudden Cardiac Arrest
+- [First Aid](First%20Aid.md)
+- [Sudden Cardiac Arrest](Sudden%20Cardiac%20Arrest.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cpr.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cpr.html). General information, not medical advice.*

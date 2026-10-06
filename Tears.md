@@ -8,8 +8,8 @@ Tear glands produce tears, and tear ducts carry the tears from the glands to the
 
 ## Related topics
 
-- Sjogren's Syndrome
+- [Sjogren's Syndrome](Sjogren%27s%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tears.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tears.html). General information, not medical advice.*

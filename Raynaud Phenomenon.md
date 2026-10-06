@@ -4,7 +4,7 @@
 
 #### What is Raynaud phenomenon?
 
-Raynaud phenomenon is a condition that affects your blood vessels (the tubes that your blood flows through). It causes your blood vessels to narrow, which decreases blood flow. This is called a Raynaud episode or "attack." The attacks usually affect your fingers and toes, causing them to become cold and numb. They may also change color, usually to white or blue. These attacks happen in response to cold temperatures or [stress](https://medlineplus.gov/stress.html).
+Raynaud phenomenon is a condition that affects your blood vessels (the tubes that your blood flows through). It causes your blood vessels to narrow, which decreases blood flow. This is called a Raynaud episode or "attack." The attacks usually affect your fingers and toes, causing them to become cold and numb. They may also change color, usually to white or blue. These attacks happen in response to cold temperatures or [stress](Stress.md).
 
 Raynaud phenomenon may also be called Raynaud disease or Raynaud syndrome.
 
@@ -13,7 +13,7 @@ Raynaud phenomenon may also be called Raynaud disease or Raynaud syndrome.
 There are two types of Raynaud phenomenon:
 
 - **Primary Raynaud phenomenon** is the more common type. Its cause is unknown.
-- **Secondary Raynaud phenomenon** is usually caused by another disease or problem, such as [lupus](https://medlineplus.gov/lupus.html) or [scleroderma](https://medlineplus.gov/scleroderma.html). Other causes may be exposure to cold or certain chemicals. This type can be more serious than the primary type.
+- **Secondary Raynaud phenomenon** is usually caused by another disease or problem, such as [lupus](Lupus.md) or [scleroderma](Scleroderma.md). Other causes may be exposure to cold or certain chemicals. This type can be more serious than the primary type.
 
 #### What causes Raynaud phenomenon?
 
@@ -30,8 +30,8 @@ Anyone can develop Raynaud phenomenon, but some people are more likely to develo
  - **A family history of Raynaud phenomenon.** You are more likely to develop Raynaud phenomenon if you have a family member who has it.
 - **Secondary Raynaud phenomenon** has been linked to:
 
- - **Certain diseases.** These include lupus, scleroderma, [rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html) (RA), [carpal tunnel syndrome](https://medlineplus.gov/carpaltunnelsyndrome.html), and [connective tissue disorders](https://medlineplus.gov/connectivetissuedisorders.html).
- - **Certain medicines.** Medicines that treat [high blood pressure](https://medlineplus.gov/bloodpressuremedicines.html), [migraines](https://medlineplus.gov/migraine.html), and [attention deficit hyperactivity disorder](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html) (ADHD) may cause similar symptoms to Raynaud phenomenon or make your symptoms worse.
+ - **Certain diseases.** These include lupus, scleroderma, [rheumatoid arthritis](Rheumatoid%20Arthritis.md) (RA), [carpal tunnel syndrome](Carpal%20Tunnel%20Syndrome.md), and [connective tissue disorders](Connective%20Tissue%20Disorders.md).
+ - **Certain medicines.** Medicines that treat [high blood pressure](Blood%20Pressure%20Medicines.md), [migraines](Migraine.md), and [attention deficit hyperactivity disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md) (ADHD) may cause similar symptoms to Raynaud phenomenon or make your symptoms worse.
  - **Work-related exposures,** such as repeated use of vibrating machinery (such as a jackhammer), or exposure to cold or certain chemicals.
 
 #### What are the symptoms of Raynaud phenomenon?
@@ -40,7 +40,7 @@ Raynaud attacks most often happen when you get cold, for example when you grab s
 
 An attack causes the skin to become cold and numb. Your skin may also turn white or blue due to a lack of oxygen. As the blood flow returns, your skin may tingle, throb, or turn red. An attack may last a few minutes or a few hours. If you have darker skin, you may not be able to easily see the skin color changes.
 
-For many people, especially those with the primary type, the symptoms are mild. People with the secondary type often have more severe symptoms. They may develop skin ulcers (open sores caused by poor blood flow) or [skin infections](https://medlineplus.gov/skininfections.html).
+For many people, especially those with the primary type, the symptoms are mild. People with the secondary type often have more severe symptoms. They may develop skin ulcers (open sores caused by poor blood flow) or [skin infections](Skin%20Infections.md).
 
 #### How is Raynaud phenomenon diagnosed?
 
@@ -65,11 +65,11 @@ Raynaud phenomenon cannot be prevented, but you can help prevent attacks and man
 - Placing your hands or feet in a warm place when you have an attack. This could mean putting them under warm (not hot) water or under a heating pad.
 - Keeping your body, especially your hands and feet, warm in cold weather.
 - Avoiding triggers, such as certain medicines and stress.
-- [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) (or not starting smoking).
+- [Quitting smoking](Quitting%20Smoking.md) (or not starting smoking).
 - Managing stress.
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/raynaudphenomenon.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/raynaudphenomenon.html). General information, not medical advice.*

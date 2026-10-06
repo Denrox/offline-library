@@ -1,6 +1,6 @@
 # Balance Problems
 
-Have you ever felt [dizzy](https://medlineplus.gov/dizzinessandvertigo.html), lightheaded, or as if the room is spinning around you? If the feeling happens often, it could be a sign of a balance problem. Balance problems can make you feel unsteady. You may also have blurred vision, confusion, and disorientation. They are one cause of [falls](https://medlineplus.gov/falls.html) and fall-related injuries, such as a hip [fracture](https://medlineplus.gov/fractures.html) (broken hip).
+Have you ever felt [dizzy](Dizziness%20and%20Vertigo.md), lightheaded, or as if the room is spinning around you? If the feeling happens often, it could be a sign of a balance problem. Balance problems can make you feel unsteady. You may also have blurred vision, confusion, and disorientation. They are one cause of [falls](Falls.md) and fall-related injuries, such as a hip [fracture](Fractures.md) (broken hip).
 
 Some balance problems are due to problems in the inner ear. Others may involve another part of the body, such as the brain or the heart. Aging, infections, head injury, certain medicines, or problems with blood circulation may also cause balance problems.
 
@@ -12,10 +12,10 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Dizziness and Vertigo
-- Falls
-- Walking Problems
+- [Dizziness and Vertigo](Dizziness%20and%20Vertigo.md)
+- [Falls](Falls.md)
+- [Walking Problems](Walking%20Problems.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/balanceproblems.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/balanceproblems.html). General information, not medical advice.*

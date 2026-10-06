@@ -1,6 +1,6 @@
 # Vitamin E
 
-[Vitamins](https://medlineplus.gov/vitamins.html) are substances that your body needs to grow and develop normally. Vitamin E is an [antioxidant](https://medlineplus.gov/antioxidants.html). It plays a role in your immune system and metabolic processes.
+[Vitamins](Vitamins.md) are substances that your body needs to grow and develop normally. Vitamin E is an [antioxidant](Antioxidants.md). It plays a role in your immune system and metabolic processes.
 
 Good sources of vitamin E include:
 
@@ -17,4 +17,4 @@ NIH: National Institutes of Health Office of Dietary Supplements
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitamine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitamine.html). General information, not medical advice.*

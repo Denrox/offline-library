@@ -6,16 +6,16 @@ Cystic fibrosis (CF) is an inherited disease of the mucus and sweat glands. It a
 
 The symptoms and severity of CF can vary. Some people have serious problems from birth. Others have a milder version of the disease that doesn't show up until they are teens or young adults. Sometimes you will have few symptoms, but later you may have more symptoms.
 
-CF is diagnosed through various tests, such as gene, blood, and sweat tests. There is no cure for CF, but treatments have improved greatly in recent years. In the past, most deaths from CF were in children and teenagers. Today, with improved treatments, some people who have CF are living into their forties, fifties, or older. Treatments may include chest physical therapy, nutritional and [respiratory therapies](https://medlineplus.gov/pulmonaryrehabilitation.html), medicines, and exercise.
+CF is diagnosed through various tests, such as gene, blood, and sweat tests. There is no cure for CF, but treatments have improved greatly in recent years. In the past, most deaths from CF were in children and teenagers. Today, with improved treatments, some people who have CF are living into their forties, fifties, or older. Treatments may include chest physical therapy, nutritional and [respiratory therapies](Pulmonary%20Rehabilitation.md), medicines, and exercise.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Lung Transplantation
-- Oxygen Therapy
-- Pulmonary Rehabilitation
+- [Lung Transplantation](Lung%20Transplantation.md)
+- [Oxygen Therapy](Oxygen%20Therapy.md)
+- [Pulmonary Rehabilitation](Pulmonary%20Rehabilitation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cysticfibrosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cysticfibrosis.html). General information, not medical advice.*

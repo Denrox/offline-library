@@ -4,23 +4,23 @@
 
 #### What is scleroderma?
 
-Scleroderma means "hard skin." It's the name of an [autoimmune disease](https://medlineplus.gov/autoimmunediseases.html) that causes inflammation and thickening in the skin and other areas of the body. This inflammation causes you to have areas of tight, hard skin. Scleroderma may affect just one area of your body, or it can affect many systems in your body.
+Scleroderma means "hard skin." It's the name of an [autoimmune disease](Autoimmune%20Diseases.md) that causes inflammation and thickening in the skin and other areas of the body. This inflammation causes you to have areas of tight, hard skin. Scleroderma may affect just one area of your body, or it can affect many systems in your body.
 
 #### What are the types of scleroderma?
 
 There are two main types of scleroderma:
 
 - **Localized scleroderma** only affects your skin and the muscles and tissues just under your skin.
-- **Systemic scleroderma,** which is also called systemic sclerosis, is a more serious type. It affects many parts of your body and can damage your blood vessels and internal organs, such as your [heart](https://medlineplus.gov/heartdiseases.html), [lungs](https://medlineplus.gov/lungdiseases.html), and [kidneys](https://medlineplus.gov/kidneydiseases.html).
+- **Systemic scleroderma,** which is also called systemic sclerosis, is a more serious type. It affects many parts of your body and can damage your blood vessels and internal organs, such as your [heart](Heart%20Diseases.md), [lungs](Lung%20Diseases.md), and [kidneys](Kidney%20Diseases.md).
 
 #### What causes scleroderma?
 
 The exact cause of scleroderma is unknown. Researchers think that several factors may play a part in causing the disease:
 
 - **Your genetics.** Certain genes can increase the chance that you will develop scleroderma. They may also play a role in which the type of scleroderma you have. Scleroderma is not passed from parent to child, but you are more likely to develop it if a close relative has it.
-- **Your environment.** Exposure to certain things in the environment, such as [viruses](https://medlineplus.gov/viralinfections.html) or chemicals, may trigger scleroderma.
-- **[Immune system changes](https://medlineplus.gov/immunesystemanddisorders.html).** When your immune system changes, it can trigger your cells to make too much collagen in the body. Too much collagen causes patches of tight, hard skin.
-- **[Hormones](https://medlineplus.gov/hormones.html).** Hormonal or immune system differences between women and men might play a part in the disease.
+- **Your environment.** Exposure to certain things in the environment, such as [viruses](Viral%20Infections.md) or chemicals, may trigger scleroderma.
+- **[Immune system changes](Immune%20System%20and%20Disorders.md).** When your immune system changes, it can trigger your cells to make too much collagen in the body. Too much collagen causes patches of tight, hard skin.
+- **[Hormones](Hormones.md).** Hormonal or immune system differences between women and men might play a part in the disease.
 
 #### Who is more likely to develop scleroderma?
 
@@ -41,9 +41,9 @@ The symptoms of scleroderma are different for each person, depending on the type
 - **Systemic scleroderma** can cause problems with your internal organs as well as your skin. It can cause symptoms such as:
 
  - Thick, tight skin on your fingers
- - [Fatigue](https://medlineplus.gov/fatigue.html)
- - [Raynaud's phenomenon](https://medlineplus.gov/raynaudphenomenon.html), a narrowing of blood vessels in the hands or feet
- - Damage to your internal organs, including your [digestive system](https://medlineplus.gov/digestivediseases.html), lungs, kidneys, and heart
+ - [Fatigue](Fatigue.md)
+ - [Raynaud's phenomenon](Raynaud%20Phenomenon.md), a narrowing of blood vessels in the hands or feet
+ - Damage to your internal organs, including your [digestive system](Digestive%20Diseases.md), lungs, kidneys, and heart
 
 #### How is scleroderma diagnosed?
 
@@ -53,35 +53,35 @@ To find out if you have scleroderma, your health care provider:
 
 - Will ask about your symptoms and medical history
 - Will do a physical exam
-- May order blood tests, including an [ANA (antinuclear antibody) test](https://medlineplus.gov/lab-tests/ana-antinuclear-antibody-test/)
-- May do a skin [biopsy](https://medlineplus.gov/biopsy.html)
-- May do other tests, such as [imaging tests](https://medlineplus.gov/diagnosticimaging.html), to check for organ damage
+- May order blood tests, including an ANA (antinuclear antibody) test
+- May do a skin [biopsy](Biopsy.md)
+- May do other tests, such as [imaging tests](Diagnostic%20Imaging.md), to check for organ damage
 
 #### What are the treatments for scleroderma?
 
 There is no cure for scleroderma, but treatments can help control your symptoms and limit damage. The treatments may include:
 
-- **Medicines** to help decrease swelling, [manage pain](https://medlineplus.gov/painrelievers.html), control other symptoms, and prevent complications.
+- **Medicines** to help decrease swelling, [manage pain](Pain%20Relievers.md), control other symptoms, and prevent complications.
 - **Physical or occupational therapy** to help with pain, improve muscle strength, and teach you ways to help with daily living.
-- **Regular dental care,** because scleroderma can make your [mouth dry](https://medlineplus.gov/drymouth.html) and damage connective tissues in your mouth. These problems can speed up [tooth decay](https://medlineplus.gov/toothdecay.html) and cause your teeth to become loose.
+- **Regular dental care,** because scleroderma can make your [mouth dry](Dry%20Mouth.md) and damage connective tissues in your mouth. These problems can speed up [tooth decay](Tooth%20Decay.md) and cause your teeth to become loose.
 
 You may need to see specialists to help treat your disease. Many people with scleroderma will see a rheumatologist. This is a doctor who specializes in rheumatic diseases such as arthritis and other inflammatory or autoimmune disorders. Dermatologists, who specialize in conditions of the skin, hair, and nails, may also play an important role in treating the disease. And if you have organ damage, you may need to see other specialists.
 
 You can also help manage some of your symptoms, for example by:
 
 - Dressing warm and avoiding cold or wet environments
-- [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) (if you smoke)
-- Putting on [sunscreen](https://medlineplus.gov/sunexposure.html) before you go outdoors
+- [Quitting smoking](Quitting%20Smoking.md) (if you smoke)
+- Putting on [sunscreen](Sun%20Exposure.md) before you go outdoors
 - Using moisturizers on your skin to help lessen stiffness
 - Avoiding hot baths and showers, harsh soaps, and household cleaners
-- Getting [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
+- Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Raynaud Phenomenon
+- [Raynaud Phenomenon](Raynaud%20Phenomenon.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/scleroderma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/scleroderma.html). General information, not medical advice.*

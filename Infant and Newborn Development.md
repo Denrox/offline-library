@@ -12,9 +12,9 @@ Babies do not develop at the same rate. There is a wide range of what is conside
 
 ## Related topics
 
-- Child Development
-- Toddler Development
+- [Child Development](Child%20Development.md)
+- [Toddler Development](Toddler%20Development.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/infantandnewborndevelopment.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/infantandnewborndevelopment.html). General information, not medical advice.*

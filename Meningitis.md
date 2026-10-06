@@ -2,7 +2,7 @@
 
 *Also called: Spinal meningitis*
 
-Meningitis is inflammation of the thin tissue that surrounds the brain and spinal cord, called the meninges. There are several types of meningitis. The most common is viral meningitis. You get it when a virus enters the body through the nose or mouth and travels to the brain. Bacterial meningitis is rare but can be deadly. It usually starts with bacteria that cause a cold-like infection. It can cause [stroke](https://medlineplus.gov/stroke.html), [hearing loss](https://medlineplus.gov/hearingdisordersanddeafness.html), and brain damage. It can also harm other organs. [Pneumococcal infections](https://medlineplus.gov/pneumococcalinfections.html) and [meningococcal infections](https://medlineplus.gov/meningococcaldisease.html) are the most common causes of bacterial meningitis.
+Meningitis is inflammation of the thin tissue that surrounds the brain and spinal cord, called the meninges. There are several types of meningitis. The most common is viral meningitis. You get it when a virus enters the body through the nose or mouth and travels to the brain. Bacterial meningitis is rare but can be deadly. It usually starts with bacteria that cause a cold-like infection. It can cause [stroke](Stroke.md), [hearing loss](Hearing%20Disorders%20and%20Deafness.md), and brain damage. It can also harm other organs. [Pneumococcal infections](Pneumococcal%20Infections.md) and [meningococcal infections](Meningococcal%20Disease.md) are the most common causes of bacterial meningitis.
 
 Anyone can get meningitis, but it is more common in people with weak immune systems. Meningitis can get serious very quickly. You should get medical care right away if you have:
 
@@ -19,11 +19,11 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Encephalitis
-- Haemophilus Infections
-- Meningococcal Disease
-- Pneumococcal Infections
+- [Encephalitis](Encephalitis.md)
+- [Haemophilus Infections](Haemophilus%20Infections.md)
+- [Meningococcal Disease](Meningococcal%20Disease.md)
+- [Pneumococcal Infections](Pneumococcal%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/meningitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/meningitis.html). General information, not medical advice.*

@@ -14,8 +14,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Bone Diseases
+- [Bone Diseases](Bone%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bonecancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bonecancer.html). General information, not medical advice.*

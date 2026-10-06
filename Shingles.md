@@ -4,7 +4,7 @@
 
 #### What is shingles?
 
-Shingles (herpes zoster) is an infection that causes a painful rash. It is caused by the varicella-zoster virus (VZV). This is the same virus that causes [chickenpox](https://medlineplus.gov/chickenpox.html). After you have chickenpox, the virus stays in your body. It may not cause problems for many years. But as you get older, the virus may become active again and cause shingles.
+Shingles (herpes zoster) is an infection that causes a painful rash. It is caused by the varicella-zoster virus (VZV). This is the same virus that causes [chickenpox](Chickenpox.md). After you have chickenpox, the virus stays in your body. It may not cause problems for many years. But as you get older, the virus may become active again and cause shingles.
 
 #### Is shingles contagious?
 
@@ -18,9 +18,9 @@ Anyone who has had chickenpox can get shingles. But the risk of shingles goes up
 
 People with weakened immune systems are at higher risk of getting shingles. This includes those who:
 
-- Have [immune system diseases](https://medlineplus.gov/immunesystemanddisorders.html) such as [HIV](https://medlineplus.gov/hiv.html)
+- Have [immune system diseases](Immune%20System%20and%20Disorders.md) such as [HIV](HIV.md)
 - Have certain cancers
-- Take medicines that weaken their immune system, such as steroids and medicines you take after an [organ transplant](https://medlineplus.gov/organtransplantation.html)
+- Take medicines that weaken their immune system, such as steroids and medicines you take after an [organ transplant](Organ%20Transplantation.md)
 
 Your immune system may be weaker when you have an infection or are stressed. This can raise your risk of shingles.
 
@@ -34,8 +34,8 @@ Up to several days later, you will get a rash. It consists of blisters that typi
 
 Some people may also have other symptoms:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Fever](Fever.md)
+- [Headache](Headache.md)
 - Chills
 - Upset stomach
 
@@ -44,10 +44,10 @@ Some people may also have other symptoms:
 Shingles can cause other problems (complications):
 
 - Postherpetic neuralgia (PHN) is the most common complication of shingles. It causes severe pain in the areas where you had the shingles rash. It usually gets better in a few weeks or months. But some people can have pain from PHN for many years, and it can interfere with daily life.
-- [Vision loss](https://medlineplus.gov/visionimpairmentandblindness.html) can happen if shingles affects your eye. It may be temporary or permanent.
-- [Hearing](https://medlineplus.gov/hearingdisordersanddeafness.html) or [balance](https://medlineplus.gov/balanceproblems.html) problems are possible if you have shingles within or near your ear. You may also have weakness of the muscles on that side of your face. These problems can be temporary or permanent.
+- [Vision loss](Vision%20Impairment%20and%20Blindness.md) can happen if shingles affects your eye. It may be temporary or permanent.
+- [Hearing](Hearing%20Disorders%20and%20Deafness.md) or [balance](Balance%20Problems.md) problems are possible if you have shingles within or near your ear. You may also have weakness of the muscles on that side of your face. These problems can be temporary or permanent.
 
-Very rarely, shingles can also lead to [pneumonia](https://medlineplus.gov/pneumonia.html), brain inflammation ([encephalitis](https://medlineplus.gov/encephalitis.html)), or death.
+Very rarely, shingles can also lead to [pneumonia](Pneumonia.md), brain inflammation ([encephalitis](Encephalitis.md)), or death.
 
 #### How is shingles diagnosed?
 
@@ -69,7 +69,7 @@ If you have shingles, you can help prevent spreading the virus to others by:
 
  - People with weakened immune systems
  - People who have not had chickenpox or the chickenpox vaccine, especially if they are pregnant
- - [Premature](https://medlineplus.gov/prematurebabies.html) or [low birth weight](https://medlineplus.gov/birthweight.html) babies
+ - [Premature](Premature%20Babies.md) or [low birth weight](Birth%20Weight.md) babies
 - Keeping the rash covered
 - Not touching or scratching the rash
 - Washing your hands often
@@ -78,8 +78,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Chickenpox
+- [Chickenpox](Chickenpox.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/shingles.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/shingles.html). General information, not medical advice.*

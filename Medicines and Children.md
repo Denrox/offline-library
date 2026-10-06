@@ -1,8 +1,8 @@
 # Medicines and Children
 
-Children aren't just small adults. It is especially important to remember this when giving [medicines](https://medlineplus.gov/medicines.html) to children. Giving a child the wrong dose or a medicine that is not for children can have serious side effects.
+Children aren't just small adults. It is especially important to remember this when giving [medicines](Medicines.md) to children. Giving a child the wrong dose or a medicine that is not for children can have serious side effects.
 
-The drug labels for prescription medicines have a section on "Pediatric Use." It says whether the medicine has been studied for its effects on children. It also tells you which age groups were studied. Some [over-the-counter (OTC) medicines](https://medlineplus.gov/overthecountermedicines.html), like those that treat fever and pain, have been studied for effectiveness, safety, or dosing in children. But many other OTC medicines have not. It is important to read the labels carefully, to make sure that the medicine is right for your child.
+The drug labels for prescription medicines have a section on "Pediatric Use." It says whether the medicine has been studied for its effects on children. It also tells you which age groups were studied. Some [over-the-counter (OTC) medicines](Over-the-Counter%20Medicines.md), like those that treat fever and pain, have been studied for effectiveness, safety, or dosing in children. But many other OTC medicines have not. It is important to read the labels carefully, to make sure that the medicine is right for your child.
 
 Here are some other tips for giving medicine safely to your child:
 
@@ -28,12 +28,12 @@ Food and Drug Administration
 
 ## Related topics
 
-- Antibiotics
-- Cold and Cough Medicines
-- Medicines
-- Over-the-Counter Medicines
-- Pain Relievers
+- [Antibiotics](Antibiotics.md)
+- [Cold and Cough Medicines](Cold%20and%20Cough%20Medicines.md)
+- [Medicines](Medicines.md)
+- [Over-the-Counter Medicines](Over-the-Counter%20Medicines.md)
+- [Pain Relievers](Pain%20Relievers.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/medicinesandchildren.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/medicinesandchildren.html). General information, not medical advice.*

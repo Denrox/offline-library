@@ -2,16 +2,16 @@
 
 *Also called: Health scams, Quackery*
 
-Health fraud scams involve selling medicines, [supplements](https://medlineplus.gov/dietarysupplements.html), devices, foods, or cosmetics that have not been proven effective. At best, these scams don't work. At worst, they're dangerous. They also waste money and might keep you from getting the treatment you really need.
+Health fraud scams involve selling medicines, [supplements](Dietary%20Supplements.md), devices, foods, or cosmetics that have not been proven effective. At best, these scams don't work. At worst, they're dangerous. They also waste money and might keep you from getting the treatment you really need.
 
 Some of the possible dangers of scam products are that they could:
 
 - Be contaminated from being made in unclean facilities or without proper quality control
 - Contain harmful ingredients that are not listed on the label
-- Trigger a [harmful interaction](https://medlineplus.gov/drugreactions.html) with medicines you are taking
+- Trigger a [harmful interaction](Drug%20Reactions.md) with medicines you are taking
 - Cause serious, even life-threatening, injuries
 
-Health fraud scams can be found everywhere, promising help for many common health issues, including weight loss, memory loss, sexual performance, and joint pain. They target people with serious conditions such as [cancer](https://medlineplus.gov/cancer.html), [diabetes](https://medlineplus.gov/diabetes.html), [heart disease](https://medlineplus.gov/heartdiseases.html), [HIV](https://medlineplus.gov/hiv.html), and [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html).
+Health fraud scams can be found everywhere, promising help for many common health issues, including weight loss, memory loss, sexual performance, and joint pain. They target people with serious conditions such as [cancer](Cancer.md), [diabetes](Diabetes.md), [heart disease](Heart%20Diseases.md), [HIV](HIV.md), and [Alzheimer's disease](Alzheimer%27s%20Disease.md).
 
 Just remember - if it sounds too good to be true, it's probably a scam. Some red flags to watch for are product claims that:
 
@@ -36,4 +36,4 @@ Food and Drug Administration
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthfraud.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthfraud.html). General information, not medical advice.*

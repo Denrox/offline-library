@@ -2,15 +2,15 @@
 
 #### What is a cervix disorder?
 
-A cervix disorder is a problem with your cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). The cervix has a small opening that expands during childbirth. It also allows [menstrual blood](https://medlineplus.gov/menstruation.html) to leave your body.
+A cervix disorder is a problem with your cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). The cervix has a small opening that expands during childbirth. It also allows [menstrual blood](Menstruation.md) to leave your body.
 
-You may not have any symptoms of a cervix disorder, but routine [pelvic exams](https://medlineplus.gov/womenshealthcheckup.html) and a [Pap smear test](https://medlineplus.gov/lab-tests/pap-smear/) can help determine if you may need treatment.
+You may not have any symptoms of a cervix disorder, but routine [pelvic exams](Women%27s%20Health%20Checkup.md) and a Pap smear test can help determine if you may need treatment.
 
 Cervix disorders can include:
 
-- **[Cervical cancer](https://medlineplus.gov/cervicalcancer.html)** is a cancer that starts in the cells of the cervix.
-- **Cervicitis** is swelling of the cervix. An infection usually causes it, but it can also be caused by skin irritation. Treatment can help you avoid potential complications like [pelvic inflammatory disease (PID)](pelvicinflammatorydisease.html).
-- **Cervical incompetence (also called cervical insufficiency)** can happen during pregnancy. The opening of your cervix widens too early. This may cause you to [give birth too soon](https://medlineplus.gov/prematurebabies.html), or you could [lose the fetus](https://medlineplus.gov/miscarriage.html).
+- **[Cervical cancer](Cervical%20Cancer.md)** is a cancer that starts in the cells of the cervix.
+- **Cervicitis** is swelling of the cervix. An infection usually causes it, but it can also be caused by skin irritation. Treatment can help you avoid potential complications like pelvic inflammatory disease (PID).
+- **Cervical incompetence (also called cervical insufficiency)** can happen during pregnancy. The opening of your cervix widens too early. This may cause you to [give birth too soon](Premature%20Babies.md), or you could [lose the fetus](Miscarriage.md).
 - **Cervical polyps and cysts** are fleshy or fluid-filled growths on your cervix. These growths are usually benign (not cancer). They are more common during your reproductive years, especially after age 20.
 
 #### Who is more likely to develop cervix disorders?
@@ -18,7 +18,7 @@ Cervix disorders can include:
 You are more likely to develop a cervix disorder if:
 
 - You've had a previous cervical procedure or surgery.
-- You've had a [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI) such as [chlamydia](https://medlineplus.gov/chlamydiainfections.html) or [gonorrhea](https://medlineplus.gov/gonorrhea.html).
+- You've had a [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI) such as [chlamydia](Chlamydia%20Infections.md) or [gonorrhea](Gonorrhea.md).
 - You used a latex condom or a feminine product such as a spermicide or douche that irritated the skin of your vagina.
 - You left something in your vagina too long, such as a diaphragm, tampon, or cervical cap, and it caused irritation.
 - You don't consistently use a condom when you have sex, or you have multiple sex partners.
@@ -29,11 +29,11 @@ You may not know that something is wrong since cervix disorders may not have any
 
 Symptoms can include:
 
-- [Vaginal bleeding](https://medlineplus.gov/vaginalbleeding.html) that's not normal for you, such as bleeding between menstrual periods
+- [Vaginal bleeding](Vaginal%20Bleeding.md) that's not normal for you, such as bleeding between menstrual periods
 - Pain during sex or a pelvic exam
 - Abnormal vaginal discharge
 
-If you are [pregnant](https://medlineplus.gov/pregnancy.html), a few signs of an incompetent cervix could include light vaginal bleeding, a feeling of pelvic pressure, or mild cramps. But you may not have any signs.
+If you are [pregnant](Pregnancy.md), a few signs of an incompetent cervix could include light vaginal bleeding, a feeling of pelvic pressure, or mild cramps. But you may not have any signs.
 
 #### How are cervix disorders diagnosed?
 
@@ -46,25 +46,25 @@ Your provider may perform a Pap test to look for changes in your cervix.
 
 #### What are the treatments for cervix disorders?
 
-The treatment for cervix disorders depends on the cause. It might include [antibiotics](https://medlineplus.gov/antibiotics.html) or stopping using a product that causes skin irritation.
+The treatment for cervix disorders depends on the cause. It might include [antibiotics](Antibiotics.md) or stopping using a product that causes skin irritation.
 
-If you have had an incompetent cervix in the past, you might take medicine or have [ultrasound imaging tests](https://medlineplus.gov/lab-tests/sonogram/) to check how your pregnancy is going.
+If you have had an incompetent cervix in the past, you might take medicine or have ultrasound imaging tests to check how your pregnancy is going.
 
 #### Can cervix disorders be prevented?
 
 You can take steps to prevent some cervix disorders. This can include to:
 
-- Use a condom every time you have sex. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading STIs. If you or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+- Use a condom every time you have sex. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading STIs. If you or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 - Have regular pelvic exams.
 - Get tested for STIs as needed.
 - Avoid using personal care products that may cause skin irritation to your vagina.
 
 ## Related topics
 
-- Cervical Cancer
-- HPV
-- Uterine Diseases
+- [Cervical Cancer](Cervical%20Cancer.md)
+- [HPV](HPV.md)
+- [Uterine Diseases](Uterine%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cervixdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cervixdisorders.html). General information, not medical advice.*

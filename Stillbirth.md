@@ -2,7 +2,7 @@
 
 #### What is a stillbirth?
 
-If you lose a fetus at or after the 20th week of pregnancy, it's called a stillbirth. A stillbirth can occur before or during [delivery](https://medlineplus.gov/childbirth.html) and may be considered as:
+If you lose a fetus at or after the 20th week of pregnancy, it's called a stillbirth. A stillbirth can occur before or during [delivery](Childbirth.md) and may be considered as:
 
 - **Early.** The loss of a fetus between 20 and 27 weeks of pregnancy.
 - **Late.** The loss of a fetus between 28 and 36 weeks of pregnancy.
@@ -14,11 +14,11 @@ Stillbirth can happen in any pregnancy. Some factors may increase the chance tha
 
 - Are age 35 years or older
 - Are of low socioeconomic status
-- [Smoke during pregnancy](https://medlineplus.gov/pregnancyandsubstanceuse.html)
-- Have certain medical conditions, such as [diabetes](https://medlineplus.gov/diabetesandpregnancy.html) or [high blood pressure](https://medlineplus.gov/highbloodpressureinpregnancy.html)
+- [Smoke during pregnancy](Pregnancy%20and%20Substance%20Use.md)
+- Have certain medical conditions, such as [diabetes](Diabetes%20and%20Pregnancy.md) or [high blood pressure](High%20Blood%20Pressure%20in%20Pregnancy.md)
 - Are a non-Hispanic Black woman
 - Previously had a stillbirth
-- Are pregnant with more than one baby ([twins or triplets](https://medlineplus.gov/twinstripletsmultiplebirths.html))
+- Are pregnant with more than one baby ([twins or triplets](Twins%2C%20Triplets%2C%20Multiple%20Births.md))
 
 #### What are the possible causes of stillbirth?
 
@@ -27,14 +27,14 @@ In many cases, the cause remains unknown. Some causes may be preventable, but mo
 Causes for a stillbirth may include:
 
 - Problems with the placenta, the organ that carries oxygen and nutrients to the fetus
-- [Genetic problems](https://medlineplus.gov/neuraltubedefects.html) with the fetus
+- [Genetic problems](Neural%20Tube%20Defects.md) with the fetus
 - Fetal infections
-- Other [physical problems](https://medlineplus.gov/birthdefects.html) in the fetus
-- Problems with the umbilical cord [during labor and delivery](https://medlineplus.gov/childbirthproblems.html)
+- Other [physical problems](Birth%20Defects.md) in the fetus
+- Problems with the umbilical cord [during labor and delivery](Childbirth%20Problems.md)
 
 #### How is a stillbirth diagnosed?
 
-**Before delivery**, the only way to diagnose a stillbirth is to check if the fetus's heart is beating. Your health care provider may use an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) to look for the fetal heartbeat.
+**Before delivery**, the only way to diagnose a stillbirth is to check if the fetus's heart is beating. Your health care provider may use an ultrasound to look for the fetal heartbeat.
 
 **During your pregnancy**, your provider may recommend keeping track of fetal movements. However, if you don't notice movement, it doesn't always mean a stillbirth occurred. Sometimes, especially if it's your first pregnancy, it might be difficult to notice movement. If you're pregnant and something seems unusual or is worrying you, talk to your provider.
 
@@ -42,7 +42,7 @@ Causes for a stillbirth may include:
 
 #### How do health care providers manage a stillbirth?
 
-Care after a stillbirth depends on when it occurs. If it happens before delivery, your provider may induce (start) labor or use surgery to deliver the fetus ([cesarean delivery](https://medlineplus.gov/cesareandelivery.html)). If it happens during labor and delivery, the placenta will still need to be removed or delivered.
+Care after a stillbirth depends on when it occurs. If it happens before delivery, your provider may induce (start) labor or use surgery to deliver the fetus ([cesarean delivery](Cesarean%20Delivery.md)). If it happens during labor and delivery, the placenta will still need to be removed or delivered.
 
 No matter when it occurs, losing a pregnancy can be difficult. Counseling may help you cope with your grief. Later, if you decide to try to get pregnant again, work closely with your provider to understand any risks. Many women who have a stillbirth go on to have healthy babies.
 
@@ -50,8 +50,8 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Miscarriage
+- [Miscarriage](Miscarriage.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/stillbirth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/stillbirth.html). General information, not medical advice.*

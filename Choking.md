@@ -4,12 +4,12 @@ Food or small objects can cause choking if they get caught in your throat and bl
 
 Young children are at an especially high risk of choking. They can choke on foods like hot dogs, nuts and grapes, and on small objects like toy pieces and coins. Keep hazards out of their reach and supervise them when they eat.
 
-When someone is choking, quick action can be lifesaving. Learn how to do back blows, the Heimlich maneuver (abdominal thrusts), and [CPR](https://medlineplus.gov/cpr.html).
+When someone is choking, quick action can be lifesaving. Learn how to do back blows, the Heimlich maneuver (abdominal thrusts), and [CPR](CPR.md).
 
 ## Related topics
 
-- Foreign Bodies
+- [Foreign Bodies](Foreign%20Bodies.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/choking.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/choking.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 *Also called: Rachitis*
 
-Rickets causes soft, weak bones in children. It usually occurs when they do not get [enough vitamin D](https://medlineplus.gov/vitaminddeficiency.html), which helps growing bones absorb the minerals calcium and phosphorous. It can also happen when calcium or phosphorus levels are too low.
+Rickets causes soft, weak bones in children. It usually occurs when they do not get [enough vitamin D](Vitamin%20D%20Deficiency.md), which helps growing bones absorb the minerals calcium and phosphorous. It can also happen when calcium or phosphorus levels are too low.
 
 Your child might not get enough vitamin D if he or she:
 
@@ -17,8 +17,8 @@ In addition to dietary rickets, children can get an inherited form of the diseas
 
 ## Related topics
 
-- Vitamin D Deficiency
+- [Vitamin D Deficiency](Vitamin%20D%20Deficiency.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rickets.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rickets.html). General information, not medical advice.*

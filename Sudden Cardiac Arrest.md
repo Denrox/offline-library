@@ -4,30 +4,30 @@
 
 #### What is sudden cardiac arrest (SCA)?
 
-Sudden cardiac arrest (SCA) is a condition in which the heart suddenly stops beating. When that happens, blood stops flowing to the brain and other vital organs. If it is not treated, SCA usually causes death within minutes. But quick treatment with [cardiopulmonary resuscitation (CPR)](cpr.html) and a defibrillator may be lifesaving.
+Sudden cardiac arrest (SCA) is a condition in which the heart suddenly stops beating. When that happens, blood stops flowing to the brain and other vital organs. If it is not treated, SCA usually causes death within minutes. But quick treatment with cardiopulmonary resuscitation (CPR) and a defibrillator may be lifesaving.
 
 #### How is sudden cardiac arrest (SCA) different from a heart attack?
 
-A [heart attack](https://medlineplus.gov/heartattack.html) is different from an SCA. A heart attack happens when blood flow to the heart is blocked. During a heart attack, the heart usually doesn't suddenly stop beating. With an SCA, the heart stops beating.
+A [heart attack](Heart%20Attack.md) is different from an SCA. A heart attack happens when blood flow to the heart is blocked. During a heart attack, the heart usually doesn't suddenly stop beating. With an SCA, the heart stops beating.
 
 Sometimes an SCA can happen after or during recovery from a heart attack.
 
 #### What causes sudden cardiac arrest (SCA)?
 
-Your heart has an electrical system that controls the rate and rhythm of your heartbeat. An SCA can happen when the heart's electrical system is not working right and causes irregular heartbeats. Irregular heartbeats are called [arrhythmias](https://medlineplus.gov/arrhythmia.html). There are different types. They may cause the heart to beat too fast, too slow, or with an irregular rhythm. Some can cause the heart to stop pumping blood to the body; this is the type that causes SCA.
+Your heart has an electrical system that controls the rate and rhythm of your heartbeat. An SCA can happen when the heart's electrical system is not working right and causes irregular heartbeats. Irregular heartbeats are called [arrhythmias](Arrhythmia.md). There are different types. They may cause the heart to beat too fast, too slow, or with an irregular rhythm. Some can cause the heart to stop pumping blood to the body; this is the type that causes SCA.
 
 Certain diseases and conditions can cause the electrical problems that lead to SCA. They include:
 
 - **Ventricular fibrillation**, a type of arrhythmia where the ventricles (the heart's lower chambers) don't beat normally. Instead, they beat very fast and very irregularly. They can't pump blood to the body. This causes most SCAs.
-- **[Coronary artery disease (CAD)](coronaryarterydisease.html)**, also called ischemic heart disease. CAD happens when the arteries of the heart cannot deliver enough oxygen-rich blood to the heart. It is often caused by the buildup of plaque, a waxy substance, inside the lining of larger coronary arteries. The plaque blocks some or all of the blood flow to the heart.
+- **Coronary artery disease (CAD)**, also called ischemic heart disease. CAD happens when the arteries of the heart cannot deliver enough oxygen-rich blood to the heart. It is often caused by the buildup of plaque, a waxy substance, inside the lining of larger coronary arteries. The plaque blocks some or all of the blood flow to the heart.
 - Some types of **physical stress** can cause your heart's electrical system to fail, such as:
 
  - Intense physical activity in which your body releases the hormone adrenaline. This hormone can trigger SCA in people who have heart problems.
- - Very low blood levels of [potassium](https://medlineplus.gov/potassium.html) or magnesium. These minerals play an important role in your heart's electrical system.
+ - Very low blood levels of [potassium](Potassium.md) or magnesium. These minerals play an important role in your heart's electrical system.
  - Major blood loss.
  - Severe lack of oxygen.
-- **[Certain inherited disorders](https://medlineplus.gov/congenitalheartdefects.html)** which can cause arrhythmias or problems with the structure of your heart.
-- **Structural changes in the heart**, such as an enlarged heart due to [high blood pressure](https://medlineplus.gov/highbloodpressure.html) or advanced heart disease. Heart infections can also cause changes to the structure of the heart.
+- **[Certain inherited disorders](Congenital%20Heart%20Defects.md)** which can cause arrhythmias or problems with the structure of your heart.
+- **Structural changes in the heart**, such as an enlarged heart due to [high blood pressure](High%20Blood%20Pressure.md) or advanced heart disease. Heart infections can also cause changes to the structure of the heart.
 
 #### Who is at risk for sudden cardiac arrest (SCA)?
 
@@ -36,24 +36,24 @@ You are at higher risk for SCA if you:
 - Have coronary artery disease (CAD). Most people with SCA have CAD. But CAD usually doesn't cause symptoms, so they may not know that they have it.
 - Are older; your risk increases with age.
 - Are a man; it is more common in men than women.
-- Are Black or African American, especially if you have other conditions such as [diabetes](https://medlineplus.gov/diabetes.html), high blood pressure, [heart failure](https://medlineplus.gov/heartfailure.html), or [chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html).
+- Are Black or African American, especially if you have other conditions such as [diabetes](Diabetes.md), high blood pressure, [heart failure](Heart%20Failure.md), or [chronic kidney disease](Chronic%20Kidney%20Disease.md).
 - Have a personal history of heartbeats that aren't regular (arrhythmia).
 - Have a personal or family history of SCA or inherited disorders that can cause arrhythmia.
-- Have a problem with [drug](https://medlineplus.gov/druguseandaddiction.html) or [alcohol](https://medlineplus.gov/alcoholusedisorderaud.html) use.
+- Have a problem with [drug](Drug%20Use%20and%20Addiction.md) or [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md) use.
 - Have had a heart attack.
 - Have heart failure.
 
 #### What are the symptoms of sudden cardiac arrest (SCA)?
 
-Usually, the first sign of SCA is loss of consciousness ([fainting](https://medlineplus.gov/fainting.html)). This happens when the heart stops beating.
+Usually, the first sign of SCA is loss of consciousness ([fainting](Fainting.md)). This happens when the heart stops beating.
 
-Some people may have a racing heartbeat or feel dizzy or light-headed just before they faint. And sometimes people have [chest pain](https://medlineplus.gov/chestpain.html), [shortness of breath](https://medlineplus.gov/breathingproblems.html), [nausea, or vomiting](https://medlineplus.gov/nauseaandvomiting.html) in the hour before they have an SCA.
+Some people may have a racing heartbeat or feel dizzy or light-headed just before they faint. And sometimes people have [chest pain](Chest%20Pain.md), [shortness of breath](Breathing%20Problems.md), [nausea, or vomiting](Nausea%20and%20Vomiting.md) in the hour before they have an SCA.
 
 #### How is sudden cardiac arrest (SCA) diagnosed?
 
 SCA happens without warning and requires emergency treatment. Health care providers rarely diagnose SCA with medical tests as it's happening. Instead, it is usually diagnosed after it happens. Providers do this by ruling out other causes of a person's sudden collapse.
 
-If you are at high risk for SCA, your provider may refer you to a cardiologist, a doctor who specializes in heart diseases. The cardiologist may ask you to get various [heart health tests](https://medlineplus.gov/hearthealthtests.html) to see how well your heart is working. They'll work with you to decide whether you need treatment to prevent SCA.
+If you are at high risk for SCA, your provider may refer you to a cardiologist, a doctor who specializes in heart diseases. The cardiologist may ask you to get various [heart health tests](Heart%20Health%20Tests.md) to see how well your heart is working. They'll work with you to decide whether you need treatment to prevent SCA.
 
 #### What are the treatments for sudden cardiac arrest (SCA)?
 
@@ -73,22 +73,22 @@ People who are at risk for SCA may want to consider having an AED at home. Ask y
 
 If you survive SCA, you'll likely be admitted to a hospital for ongoing care and treatment. In the hospital, your medical team will closely watch your heart. They may give you medicines to try to reduce the risk of another SCA.
 
-They will also try to find out what caused your SCA. If you're diagnosed with coronary artery disease, you may have an [angioplasty](https://medlineplus.gov/angioplasty.html) or [coronary artery bypass surgery](https://medlineplus.gov/coronaryarterybypasssurgery.html). These procedures help restore blood flow through narrowed or blocked coronary arteries.
+They will also try to find out what caused your SCA. If you're diagnosed with coronary artery disease, you may have an [angioplasty](Angioplasty.md) or [coronary artery bypass surgery](Coronary%20Artery%20Bypass%20Surgery.md). These procedures help restore blood flow through narrowed or blocked coronary arteries.
 
-Often, people who have had SCA get a device called an [implantable cardioverter defibrillator (ICD)](pacemakersandimplantabledefibrillators.html). This small device is surgically placed under the skin in your chest or abdomen (belly). An ICD uses electric pulses or shocks to help control dangerous arrhythmias.
+Often, people who have had SCA get a device called an implantable cardioverter defibrillator (ICD). This small device is surgically placed under the skin in your chest or abdomen (belly). An ICD uses electric pulses or shocks to help control dangerous arrhythmias.
 
 #### Can sudden cardiac arrest (SCA) be prevented?
 
-You may be able to lower your risk of SCA by following a [heart-healthy lifestyle](https://medlineplus.gov/howtopreventheartdisease.html). If you have coronary artery disease or another heart disease, treating that disease can also lower your risk of SCA. If you have had an SCA, getting an implantable cardioverter defibrillator (ICD) can lower your chance of having another SCA.
+You may be able to lower your risk of SCA by following a [heart-healthy lifestyle](How%20to%20Prevent%20Heart%20Disease.md). If you have coronary artery disease or another heart disease, treating that disease can also lower your risk of SCA. If you have had an SCA, getting an implantable cardioverter defibrillator (ICD) can lower your chance of having another SCA.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Arrhythmia
-- CPR
-- Pacemakers and Implantable Defibrillators
+- [Arrhythmia](Arrhythmia.md)
+- [CPR](CPR.md)
+- [Pacemakers and Implantable Defibrillators](Pacemakers%20and%20Implantable%20Defibrillators.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/suddencardiacarrest.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/suddencardiacarrest.html). General information, not medical advice.*

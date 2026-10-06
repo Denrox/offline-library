@@ -16,9 +16,9 @@ NIH: National Institute on Aging
 
 ## Related topics
 
-- Dental Health
-- Tooth Disorders
+- [Dental Health](Dental%20Health.md)
+- [Tooth Disorders](Tooth%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dentures.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dentures.html). General information, not medical advice.*

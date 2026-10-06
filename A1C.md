@@ -2,7 +2,7 @@
 
 *Also called: Glycohemoglobin, HbA1C, Hemoglobin A1C test*
 
-A1C is a blood test for [type 2 diabetes](https://medlineplus.gov/diabetestype2.html) and [prediabetes](https://medlineplus.gov/prediabetes.html). It measures your average blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), level over the past 3 months. Doctors may use the A1C alone or in combination with other diabetes tests to make a diagnosis. They also use the A1C to see how well you are managing your diabetes. This test is different from the blood sugar checks that people with diabetes do every day.
+A1C is a blood test for [type 2 diabetes](Diabetes%20Type%202.md) and [prediabetes](Prediabetes.md). It measures your average blood glucose, or [blood sugar](Blood%20Glucose.md), level over the past 3 months. Doctors may use the A1C alone or in combination with other diabetes tests to make a diagnosis. They also use the A1C to see how well you are managing your diabetes. This test is different from the blood sugar checks that people with diabetes do every day.
 
 Your A1C test result is given in percentages. The higher the percentage, the higher your blood sugar levels have been:
 
@@ -15,4 +15,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/a1c.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/a1c.html). General information, not medical advice.*

@@ -8,7 +8,7 @@ Migraines are a recurring type of headache. They cause moderate to severe pain t
 
 Researchers believe that migraine has a genetic cause. There are also a number of factors that can trigger a migraine. These factors vary from person to person, and they include:
 
-- [Stress](https://medlineplus.gov/stress.html)
+- [Stress](Stress.md)
 - Anxiety
 - Hormonal changes in women
 - Bright or flashing lights
@@ -18,8 +18,8 @@ Researchers believe that migraine has a genetic cause. There are also a number o
 - Too much or not enough sleep
 - Sudden changes in weather or environment
 - Overexertion (too much physical activity)
-- [Tobacco](https://medlineplus.gov/smoking.html)
-- [Caffeine](https://medlineplus.gov/caffeine.html) or caffeine withdrawal
+- [Tobacco](Smoking.md)
+- [Caffeine](Caffeine.md) or caffeine withdrawal
 - Skipped meals
 - Medication overuse (taking medicine for migraines too often)
 
@@ -40,7 +40,7 @@ About 12% of Americans get migraines. They can affect anyone, but you are more l
 
 - **Are a woman.** Women are three times more likely than men to get migraines.
 - **Have a family history of migraines.** Most people with migraines have family members who have migraines.
-- **Have other medical conditions,** such as [depression](https://medlineplus.gov/depression.html), [anxiety](https://medlineplus.gov/anxiety.html), [bipolar disorder](https://medlineplus.gov/bipolardisorder.html), [sleep disorders](https://medlineplus.gov/sleepdisorders.html), and [epilepsy](https://medlineplus.gov/epilepsy.html).
+- **Have other medical conditions,** such as [depression](Depression.md), [anxiety](Anxiety.md), [bipolar disorder](Bipolar%20Disorder.md), [sleep disorders](Sleep%20Disorders.md), and [epilepsy](Epilepsy.md).
 
 #### What are the symptoms of migraines?
 
@@ -65,13 +65,13 @@ To make a diagnosis, your health care provider will:
 - Ask about your symptoms
 - Do a physical and neurological exam
 
-An important part of diagnosing migraines is to rule out other medical conditions which could be causing the symptoms. So you may also have blood tests, an [MRI](https://medlineplus.gov/mriscans.html) or [CT](https://medlineplus.gov/ctscans.html) scan, or other tests.
+An important part of diagnosing migraines is to rule out other medical conditions which could be causing the symptoms. So you may also have blood tests, an [MRI](MRI%20Scans.md) or [CT](CT%20Scans.md) scan, or other tests.
 
 #### How are migraines treated?
 
 There is no cure for migraines. Treatment focuses on relieving symptoms and preventing additional attacks.
 
-There are different types of medicines to relieve symptoms. They include triptan drugs, ergotamine drugs, and [pain relievers](https://medlineplus.gov/painrelievers.html). The sooner you take the medicine, the more effective it is.
+There are different types of medicines to relieve symptoms. They include triptan drugs, ergotamine drugs, and [pain relievers](Pain%20Relievers.md). The sooner you take the medicine, the more effective it is.
 
 There are also other things you can do to feel better:
 
@@ -83,8 +83,8 @@ There are some lifestyle changes you can make to prevent migraines:
 
 - Stress management strategies, such as exercise, relaxation techniques, and biofeedback, may reduce the number and severity of migraines. Biofeedback uses electronic devices to teach you to control certain body functions, such as your heartbeat, blood pressure, and muscle tension.
 - Make a log of what seems to trigger your migraines. You can learn what you need to avoid, such as certain foods and medicines. It also help you figure out what you should do, such as establishing a consistent sleep schedule and eating regular meals.
-- Hormone therapy may help some women whose migraines seem to be linked to their [menstrual cycle](https://medlineplus.gov/menstruation.html)
-- If you have [obesity](https://medlineplus.gov/obesity.html), [losing weight](https://medlineplus.gov/weightcontrol.html) may also be helpful
+- Hormone therapy may help some women whose migraines seem to be linked to their [menstrual cycle](Menstruation.md)
+- If you have [obesity](Obesity.md), [losing weight](Weight%20Control.md) may also be helpful
 
 If you have frequent or severe migraines, you may need to take medicines to prevent further attacks. Talk with your health care provider about which drug would be right for you.
 
@@ -94,8 +94,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Headache
+- [Headache](Headache.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/migraine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/migraine.html). General information, not medical advice.*

@@ -6,33 +6,33 @@ The brain, spinal cord, and nerves make up the nervous system. Together they con
 
 There are more than 600 neurologic diseases. Major types include:
 
-- Diseases caused by faulty genes, such as [Huntington's disease](https://medlineplus.gov/huntingtonsdisease.html) and [muscular dystrophy](https://medlineplus.gov/musculardystrophy.html)
-- Problems with the way the nervous system develops, such as [spina bifida](https://medlineplus.gov/spinabifida.html)
-- [Degenerative diseases](https://medlineplus.gov/degenerativenervediseases.html), where nerve cells are damaged or die, such as [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html)and [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html)
-- Diseases of the blood vessels that supply the brain, such as [stroke](https://medlineplus.gov/stroke.html)
-- Injuries to the [spinal cord](https://medlineplus.gov/spinalcordinjuries.html) and [brain](https://medlineplus.gov/traumaticbraininjury.html)
-- Seizure disorders, such as [epilepsy](https://medlineplus.gov/epilepsy.html)
-- Cancer, such as [brain tumors](https://medlineplus.gov/braintumors.html)
-- infections, such as [meningitis](https://medlineplus.gov/meningitis.html)
+- Diseases caused by faulty genes, such as [Huntington's disease](Huntington%27s%20Disease.md) and [muscular dystrophy](Muscular%20Dystrophy.md)
+- Problems with the way the nervous system develops, such as [spina bifida](Spina%20Bifida.md)
+- [Degenerative diseases](Degenerative%20Nerve%20Diseases.md), where nerve cells are damaged or die, such as [Parkinson's disease](Parkinson%27s%20Disease.md)and [Alzheimer's disease](Alzheimer%27s%20Disease.md)
+- Diseases of the blood vessels that supply the brain, such as [stroke](Stroke.md)
+- Injuries to the [spinal cord](Spinal%20Cord%20Injuries.md) and [brain](Traumatic%20Brain%20Injury.md)
+- Seizure disorders, such as [epilepsy](Epilepsy.md)
+- Cancer, such as [brain tumors](Brain%20Tumors.md)
+- infections, such as [meningitis](Meningitis.md)
 
 ## Related topics
 
-- Acute Flaccid Myelitis
-- Autonomic Nervous System Disorders
-- Brain Diseases
-- Complex Regional Pain Syndrome
-- Degenerative Nerve Diseases
-- Epilepsy
-- Meningitis
-- Movement Disorders
-- Neuromuscular Disorders
-- Parkinson's Disease
-- Peripheral Nerve Disorders
-- Spinal Cord Diseases
-- Tourette Syndrome
-- Trigeminal Neuralgia
-- Von Hippel-Lindau Disease
+- [Acute Flaccid Myelitis](Acute%20Flaccid%20Myelitis.md)
+- [Autonomic Nervous System Disorders](Autonomic%20Nervous%20System%20Disorders.md)
+- [Brain Diseases](Brain%20Diseases.md)
+- [Complex Regional Pain Syndrome](Complex%20Regional%20Pain%20Syndrome.md)
+- [Degenerative Nerve Diseases](Degenerative%20Nerve%20Diseases.md)
+- [Epilepsy](Epilepsy.md)
+- [Meningitis](Meningitis.md)
+- [Movement Disorders](Movement%20Disorders.md)
+- [Neuromuscular Disorders](Neuromuscular%20Disorders.md)
+- [Parkinson's Disease](Parkinson%27s%20Disease.md)
+- [Peripheral Nerve Disorders](Peripheral%20Nerve%20Disorders.md)
+- [Spinal Cord Diseases](Spinal%20Cord%20Diseases.md)
+- [Tourette Syndrome](Tourette%20Syndrome.md)
+- [Trigeminal Neuralgia](Trigeminal%20Neuralgia.md)
+- [Von Hippel-Lindau Disease](Von%20Hippel-Lindau%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/neurologicdiseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/neurologicdiseases.html). General information, not medical advice.*

@@ -4,7 +4,7 @@
 
 #### What is Chagas disease?
 
-Chagas disease, or American trypanosomiasis, is an illness that can cause serious heart and stomach problems. It is caused by a [parasite](https://medlineplus.gov/parasiticdiseases.html). Chagas disease is common in Latin America, especially in poor, rural areas. It can also be found in the United States, most often in people who were infected before they moved to the U.S.
+Chagas disease, or American trypanosomiasis, is an illness that can cause serious heart and stomach problems. It is caused by a [parasite](Parasitic%20Diseases.md). Chagas disease is common in Latin America, especially in poor, rural areas. It can also be found in the United States, most often in people who were infected before they moved to the U.S.
 
 #### What causes Chagas disease?
 
@@ -36,10 +36,10 @@ In the beginning, there may be no symptoms. Some people do get mild symptoms, su
 
 These early symptoms usually go away. However, if you don't treat the infection, it stays in your body. Later, it can cause serious intestinal and heart problems such as:
 
-- An serious [arrhythmia](https://medlineplus.gov/arrhythmia.html) (a problem with the rate or rhythm of your heartbeat) that can cause sudden death
+- An serious [arrhythmia](Arrhythmia.md) (a problem with the rate or rhythm of your heartbeat) that can cause sudden death
 - An enlarged heart that doesn't pump blood well
-- Problems with digestion and [bowel movements](https://medlineplus.gov/bowelmovement.html)
-- An increased chance of having a [stroke](https://medlineplus.gov/stroke.html)
+- Problems with digestion and [bowel movements](Bowel%20Movement.md)
+- An increased chance of having a [stroke](Stroke.md)
 
 #### How is Chagas disease diagnosed?
 
@@ -52,14 +52,14 @@ To find out if you have Chagas disease, your health care provider:
 
 #### What are the treatments for Chagas disease?
 
-Medicines can kill the parasite, especially early on. You can also treat related problems. For example, a [pacemaker](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html) can help with some heart complications.
+Medicines can kill the parasite, especially early on. You can also treat related problems. For example, a [pacemaker](Pacemakers%20and%20Implantable%20Defibrillators.md) can help with some heart complications.
 
 #### Can Chagas disease be prevented?
 
-There are no vaccines or medicines to prevent Chagas disease. If you [travel](https://medlineplus.gov/travelershealth.html) to areas where it occurs, you are at higher risk if you sleep outdoors or are staying in poor housing conditions. It is important to use insecticides to prevent bites and practice [food safety](https://medlineplus.gov/foodsafety.html).
+There are no vaccines or medicines to prevent Chagas disease. If you [travel](Traveler%27s%20Health.md) to areas where it occurs, you are at higher risk if you sleep outdoors or are staying in poor housing conditions. It is important to use insecticides to prevent bites and practice [food safety](Food%20Safety.md).
 
 Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/chagasdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/chagasdisease.html). General information, not medical advice.*

@@ -16,4 +16,4 @@ Holes from piercing usually close up if you no longer wear the jewelry. It is po
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/piercingandtattoos.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/piercingandtattoos.html). General information, not medical advice.*

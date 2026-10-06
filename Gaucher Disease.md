@@ -1,10 +1,10 @@
 # Gaucher Disease
 
-Gaucher disease is a rare, inherited disorder. It is a type of [lipid metabolism disorder](https://medlineplus.gov/lipidmetabolismdisorders.html). If you have it, you do not have enough of an enzyme called glucocerebrosidase. This causes too much of a fatty substance to build up in your spleen, liver, lungs, bones and, sometimes, your brain. This prevents these organs from working properly.
+Gaucher disease is a rare, inherited disorder. It is a type of [lipid metabolism disorder](Lipid%20Metabolism%20Disorders.md). If you have it, you do not have enough of an enzyme called glucocerebrosidase. This causes too much of a fatty substance to build up in your spleen, liver, lungs, bones and, sometimes, your brain. This prevents these organs from working properly.
 
 There are three types:
 
-- Type 1, the most common form, causes liver and spleen enlargement, bone pain and [fractures](https://medlineplus.gov/fractures.html) (broken bones), and, sometimes, [lung](https://medlineplus.gov/lungdiseases.html) and [kidney](https://medlineplus.gov/kidneydiseases.html) problems. It does not affect the brain. It can occur at any age.
+- Type 1, the most common form, causes liver and spleen enlargement, bone pain and [fractures](Fractures.md) (broken bones), and, sometimes, [lung](Lung%20Diseases.md) and [kidney](Kidney%20Diseases.md) problems. It does not affect the brain. It can occur at any age.
 - Type 2, which causes severe brain damage, appears in infants. Most children who have it die by age 2.
 - In type 3, there may be liver and spleen enlargement. The brain is gradually affected. It usually starts in childhood or adolescence.
 
@@ -14,4 +14,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/gaucherdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/gaucherdisease.html). General information, not medical advice.*

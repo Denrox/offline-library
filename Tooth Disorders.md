@@ -15,8 +15,8 @@ You need your teeth for many activities that you may take for granted. These inc
 
 There are many different problems that can affect your teeth, including:
 
-- **[Tooth decay](https://medlineplus.gov/toothdecay.html)** - damage to a tooth's surface, which can lead to cavities
-- **[Abscess](https://medlineplus.gov/abscess.html)** - a pocket of pus, caused by a tooth infection
+- **[Tooth decay](Tooth%20Decay.md)** - damage to a tooth's surface, which can lead to cavities
+- **[Abscess](Abscess.md)** - a pocket of pus, caused by a tooth infection
 - **Impacted tooth** - a tooth that did not erupt (break through the gum) when it should have. It is usually wisdom teeth that are impacted, but it can sometimes happen to other teeth.
 - **Misaligned teeth** (malocclusion)
 - **Tooth injuries** such as broken or chipped teeth
@@ -47,7 +47,7 @@ The treatment will depend on the problem. Some common treatments are:
 
 #### Can tooth disorders be prevented?
 
-The main thing that you can do to prevent tooth disorders is to [take good care of your teeth](https://medlineplus.gov/dentalhealth.html):
+The main thing that you can do to prevent tooth disorders is to [take good care of your teeth](Dental%20Health.md):
 
 - Brush your teeth twice a day with a fluoride toothpaste
 - Clean between your teeth every day with floss or another type of between-the-teeth cleaner
@@ -57,12 +57,12 @@ The main thing that you can do to prevent tooth disorders is to [take good care 
 
 ## Related topics
 
-- Child Dental Health
-- Dental Health
-- Gum Disease
-- Orthodontia
-- Tooth Decay
+- [Child Dental Health](Child%20Dental%20Health.md)
+- [Dental Health](Dental%20Health.md)
+- [Gum Disease](Gum%20Disease.md)
+- [Orthodontia](Orthodontia.md)
+- [Tooth Decay](Tooth%20Decay.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/toothdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/toothdisorders.html). General information, not medical advice.*

@@ -12,9 +12,9 @@ On this page you'll find information to help you choose a health care provider o
 
 ## Related topics
 
-- Health Facilities
-- Patient Safety
+- [Health Facilities](Health%20Facilities.md)
+- [Patient Safety](Patient%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/choosingadoctororhealthcareservice.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/choosingadoctororhealthcareservice.html). General information, not medical advice.*

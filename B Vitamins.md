@@ -9,17 +9,17 @@ The B vitamins are:
 - B6
 - B7 (biotin)
 - B12
-- [Folic acid](https://medlineplus.gov/folicacid.html)
+- [Folic acid](Folic%20Acid.md)
 
 These vitamins help the process your body uses to get or make energy from the food you eat. They also help form red blood cells. You can get B vitamins from proteins such as fish, poultry, meat, eggs, and dairy products. Leafy green vegetables, beans, and peas also have B vitamins. Many cereals and some breads have added B vitamins.
 
-Not getting enough of certain B vitamins can cause diseases. A lack of B12 or B6 can cause [anemia](https://medlineplus.gov/anemia.html).
+Not getting enough of certain B vitamins can cause diseases. A lack of B12 or B6 can cause [anemia](Anemia.md).
 
 ## Related topics
 
-- Folic Acid
-- Vitamins
+- [Folic Acid](Folic%20Acid.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bvitamins.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bvitamins.html). General information, not medical advice.*

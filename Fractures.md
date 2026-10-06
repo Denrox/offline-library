@@ -18,9 +18,9 @@ There are different ways to describe fractures. For example, there are different
 
 #### What causes fractures?
 
-Fractures commonly happen because of car accidents, [falls](https://medlineplus.gov/falls.html), or [sports injuries](https://medlineplus.gov/sportsinjuries.html). Overuse and repetitive motions can also cause fractures.
+Fractures commonly happen because of car accidents, [falls](Falls.md), or [sports injuries](Sports%20Injuries.md). Overuse and repetitive motions can also cause fractures.
 
-[Low bone density](https://medlineplus.gov/bonedensity.html) and [osteoporosis](https://medlineplus.gov/osteoporosis.html) are conditions which cause weakening of your bones. Having one of these conditions makes you much more likely to break a bone.
+[Low bone density](Bone%20Density.md) and [osteoporosis](Osteoporosis.md) are conditions which cause weakening of your bones. Having one of these conditions makes you much more likely to break a bone.
 
 #### What are the symptoms of a fracture?
 
@@ -35,7 +35,7 @@ If you think that you may have broken a bone, get medical care right away.
 
 #### How are fractures diagnosed?
 
-To find out if you have a fracture, your health provider will do a physical exam and ask about your injury. They will also likely order an [x-ray](https://medlineplus.gov/xrays.html) or other [imaging test](https://medlineplus.gov/diagnosticimaging.html) to see if your bone is broken.
+To find out if you have a fracture, your health provider will do a physical exam and ask about your injury. They will also likely order an [x-ray](X-Rays.md) or other [imaging test](Diagnostic%20Imaging.md) to see if your bone is broken.
 
 #### What are the treatments for fractures?
 
@@ -49,36 +49,36 @@ There are steps you can take to lower your risk of fractures:
 
 - Keeping your bones strong by:
 
- - Getting enough [calcium](https://medlineplus.gov/calcium.html) and [vitamin D](https://medlineplus.gov/vitamind.html) in your diet
- - Getting [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html), including weight bearing exercises such as walking, tennis, and dancing
+ - Getting enough [calcium](Calcium.md) and [vitamin D](Vitamin%20D.md) in your diet
+ - Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md), including weight bearing exercises such as walking, tennis, and dancing
  - Getting treatment for low bone density or osteoporosis (if needed)
-- Wearing [protective equipment](https://medlineplus.gov/sportssafety.html) when you do sports
+- Wearing [protective equipment](Sports%20Safety.md) when you do sports
 - Preventing falls by:
 
  - Getting rid of any tripping hazards in your home
  - Being careful when walking on wet or icy surfaces
- - Choosing the [right footwear](https://medlineplus.gov/foothealth.html)
+ - Choosing the [right footwear](Foot%20Health.md)
 
 ## Related topics
 
-- Ankle Injuries and Disorders
-- Arm Injuries and Disorders
-- Bone Diseases
-- Elbow Injuries and Disorders
-- Finger Injuries and Disorders
-- Foot Injuries and Disorders
-- Hand Injuries and Disorders
-- Heel Injuries and Disorders
-- Hip Injuries and Disorders
-- Jaw Injuries and Disorders
-- Knee Injuries and Disorders
-- Leg Injuries and Disorders
-- Neck Injuries and Disorders
-- Osteoporosis
-- Shoulder Injuries and Disorders
-- Toe Injuries and Disorders
-- Wrist Injuries and Disorders
+- [Ankle Injuries and Disorders](Ankle%20Injuries%20and%20Disorders.md)
+- [Arm Injuries and Disorders](Arm%20Injuries%20and%20Disorders.md)
+- [Bone Diseases](Bone%20Diseases.md)
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Finger Injuries and Disorders](Finger%20Injuries%20and%20Disorders.md)
+- [Foot Injuries and Disorders](Foot%20Injuries%20and%20Disorders.md)
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Heel Injuries and Disorders](Heel%20Injuries%20and%20Disorders.md)
+- [Hip Injuries and Disorders](Hip%20Injuries%20and%20Disorders.md)
+- [Jaw Injuries and Disorders](Jaw%20Injuries%20and%20Disorders.md)
+- [Knee Injuries and Disorders](Knee%20Injuries%20and%20Disorders.md)
+- [Leg Injuries and Disorders](Leg%20Injuries%20and%20Disorders.md)
+- [Neck Injuries and Disorders](Neck%20Injuries%20and%20Disorders.md)
+- [Osteoporosis](Osteoporosis.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
+- [Toe Injuries and Disorders](Toe%20Injuries%20and%20Disorders.md)
+- [Wrist Injuries and Disorders](Wrist%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/fractures.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/fractures.html). General information, not medical advice.*

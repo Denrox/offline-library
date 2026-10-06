@@ -8,7 +8,7 @@ Amyotrophic lateral sclerosis (ALS) is a nervous system disease that attacks ner
 - Trouble writing
 - Speech problems
 
-Eventually, you lose your strength and cannot move. When muscles in your chest fail, you cannot breathe. A breathing machine can help, but most people with ALS die from [respiratory failure](https://medlineplus.gov/respiratoryfailure.html).
+Eventually, you lose your strength and cannot move. When muscles in your chest fail, you cannot breathe. A breathing machine can help, but most people with ALS die from [respiratory failure](Respiratory%20Failure.md).
 
 The disease usually strikes between age 40 and 60. More men than women get it. No one knows what causes ALS. It can run in families, but usually it strikes at random. There is no cure. Medicines can relieve symptoms and, sometimes, prolong survival.
 
@@ -16,4 +16,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/amyotrophiclateralsclerosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/amyotrophiclateralsclerosis.html). General information, not medical advice.*

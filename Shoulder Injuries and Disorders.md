@@ -4,15 +4,15 @@ Your shoulder joint is composed of three bones: the clavicle (collarbone), the s
 
 Because your shoulder can be unstable, it can be easily injured. Common problems include:
 
-- [Sprains and strains](https://medlineplus.gov/sprainsandstrains.html)
-- [Dislocations](https://medlineplus.gov/dislocatedshoulder.html)
+- [Sprains and strains](Sprains%20and%20Strains.md)
+- [Dislocations](Dislocated%20Shoulder.md)
 - Separations
-- [Tendinitis](https://medlineplus.gov/tendinitis.html)
-- [Bursitis](https://medlineplus.gov/bursitis.html)
-- [Torn rotator cuffs](https://medlineplus.gov/rotatorcuffinjuries.html)
+- [Tendinitis](Tendinitis.md)
+- [Bursitis](Bursitis.md)
+- [Torn rotator cuffs](Rotator%20Cuff%20Injuries.md)
 - Frozen shoulder
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones)
-- [Arthritis](https://medlineplus.gov/arthritis.html)
+- [Fractures](Fractures.md) (broken bones)
+- [Arthritis](Arthritis.md)
 
 Health care providers diagnose shoulder problems by using your medical history, a physical exam, and imaging tests.
 
@@ -22,13 +22,13 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Arm Injuries and Disorders
-- Brachial Plexus Injuries
-- Dislocated Shoulder
-- Hand Injuries and Disorders
-- Rotator Cuff Injuries
-- Thoracic Outlet Syndrome
+- [Arm Injuries and Disorders](Arm%20Injuries%20and%20Disorders.md)
+- [Brachial Plexus Injuries](Brachial%20Plexus%20Injuries.md)
+- [Dislocated Shoulder](Dislocated%20Shoulder.md)
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Rotator Cuff Injuries](Rotator%20Cuff%20Injuries.md)
+- [Thoracic Outlet Syndrome](Thoracic%20Outlet%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/shoulderinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/shoulderinjuriesanddisorders.html). General information, not medical advice.*

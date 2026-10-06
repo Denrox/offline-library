@@ -2,13 +2,13 @@
 
 #### What is cholesterol?
 
-[Cholesterol](https://medlineplus.gov/cholesterol.html) is a waxy, fat-like substance that's found in all the cells in your body. Your liver makes cholesterol, and it is also in some foods, such as meat and dairy products. Your body needs some cholesterol to work properly. But having too much cholesterol in your blood raises your risk of [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html).
+[Cholesterol](Cholesterol.md) is a waxy, fat-like substance that's found in all the cells in your body. Your liver makes cholesterol, and it is also in some foods, such as meat and dairy products. Your body needs some cholesterol to work properly. But having too much cholesterol in your blood raises your risk of [coronary artery disease](Coronary%20Artery%20Disease.md).
 
 #### What is VLDL cholesterol?
 
-VLDL stands for very-low-density lipoprotein. Your liver makes VLDL and releases it into your bloodstream. The VLDL particles mainly carry [triglycerides](https://medlineplus.gov/triglycerides.html), another type of fat, to your tissues. VLDL is similar to [LDL cholesterol](https://medlineplus.gov/ldlthebadcholesterol.html), but LDL mainly carries cholesterol to your tissues instead of triglycerides.
+VLDL stands for very-low-density lipoprotein. Your liver makes VLDL and releases it into your bloodstream. The VLDL particles mainly carry [triglycerides](Triglycerides.md), another type of fat, to your tissues. VLDL is similar to [LDL cholesterol](LDL%20The%20Bad%20Cholesterol.md), but LDL mainly carries cholesterol to your tissues instead of triglycerides.
 
-VLDL and LDL are sometimes called "bad" cholesterols because they can contribute to the buildup of plaque in your arteries. This buildup is called [atherosclerosis](https://medlineplus.gov/atherosclerosis.html). The plaque that builds up is a sticky substance made up of fat, cholesterol, calcium, and other substances found in the blood. Over time, the plaque hardens and narrows your arteries. This limits the flow of oxygen-rich blood to your body. It can lead to coronary artery disease and other [heart diseases](https://medlineplus.gov/heartdiseases.html).
+VLDL and LDL are sometimes called "bad" cholesterols because they can contribute to the buildup of plaque in your arteries. This buildup is called [atherosclerosis](Atherosclerosis.md). The plaque that builds up is a sticky substance made up of fat, cholesterol, calcium, and other substances found in the blood. Over time, the plaque hardens and narrows your arteries. This limits the flow of oxygen-rich blood to your body. It can lead to coronary artery disease and other [heart diseases](Heart%20Diseases.md).
 
 #### How do I know what my VLDL level is?
 
@@ -16,7 +16,7 @@ There isn't a way to directly measure your VLDL level. Instead, you will most li
 
 #### What should my VLDL level be?
 
-Your VLDL level should be less than 30 mg/dL (milligrams per deciliter). Anything higher than that puts you at risk of heart disease and [stroke](https://medlineplus.gov/stroke.html).
+Your VLDL level should be less than 30 mg/dL (milligrams per deciliter). Anything higher than that puts you at risk of heart disease and [stroke](Stroke.md).
 
 #### How can I lower my VLDL level?
 
@@ -24,14 +24,14 @@ Because VLDL and triglycerides are linked, you can lower your VLDL level by lowe
 
 ## Related topics
 
-- Atherosclerosis
-- Cholesterol
-- Cholesterol Medicines
-- Dietary Fats
-- HDL: The "Good" Cholesterol
-- LDL: The "Bad" Cholesterol
-- Triglycerides
+- [Atherosclerosis](Atherosclerosis.md)
+- [Cholesterol](Cholesterol.md)
+- [Cholesterol Medicines](Cholesterol%20Medicines.md)
+- [Dietary Fats](Dietary%20Fats.md)
+- [HDL: The "Good" Cholesterol](HDL%20The%20Good%20Cholesterol.md)
+- [LDL: The "Bad" Cholesterol](LDL%20The%20Bad%20Cholesterol.md)
+- [Triglycerides](Triglycerides.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vldlcholesterol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vldlcholesterol.html). General information, not medical advice.*

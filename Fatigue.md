@@ -4,37 +4,37 @@
 
 #### What is fatigue?
 
-Fatigue is a feeling of weariness, tiredness, or lack of energy. It can interfere with your usual daily activities. Fatigue can be a normal response to physical activity, emotional [stress](https://medlineplus.gov/stress.html), boredom, or lack of sleep. But sometimes it can be a sign of a mental or physical condition. If you have been feeling tired for weeks, contact your health care provider. They can help you find out what's causing your fatigue and recommend ways to relieve it.
+Fatigue is a feeling of weariness, tiredness, or lack of energy. It can interfere with your usual daily activities. Fatigue can be a normal response to physical activity, emotional [stress](Stress.md), boredom, or lack of sleep. But sometimes it can be a sign of a mental or physical condition. If you have been feeling tired for weeks, contact your health care provider. They can help you find out what's causing your fatigue and recommend ways to relieve it.
 
 #### What causes fatigue?
 
-Fatigue itself is not a disease; it's a symptom. It can have many different causes, including [pregnancy](https://medlineplus.gov/pregnancy.html) and various medical problems, treatments, and lifestyle habits such as:
+Fatigue itself is not a disease; it's a symptom. It can have many different causes, including [pregnancy](Pregnancy.md) and various medical problems, treatments, and lifestyle habits such as:
 
 - **Medical problems:**
 
- - Chronic (long-lasting) diseases such as [diabetes](https://medlineplus.gov/diabetes.html), [COPD](https://medlineplus.gov/copd.html) (chronic obstructive pulmonary disease), and [heart](https://medlineplus.gov/heartdiseases.html), [liver](https://medlineplus.gov/liverdiseases.html), [kidney](https://medlineplus.gov/kidneydiseases.html) and [thyroid](https://medlineplus.gov/thyroiddiseases.html) diseases
- - Untreated [pain](https://medlineplus.gov/chronicpain.html) and diseases like [fibromyalgia](https://medlineplus.gov/fibromyalgia.html)
- - [Anemia](https://medlineplus.gov/anemia.html)
+ - Chronic (long-lasting) diseases such as [diabetes](Diabetes.md), [COPD](COPD.md) (chronic obstructive pulmonary disease), and [heart](Heart%20Diseases.md), [liver](Liver%20Diseases.md), [kidney](Kidney%20Diseases.md) and [thyroid](Thyroid%20Diseases.md) diseases
+ - Untreated [pain](Chronic%20Pain.md) and diseases like [fibromyalgia](Fibromyalgia.md)
+ - [Anemia](Anemia.md)
  - Infections
- - [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html)
- - [Sleep apnea](https://medlineplus.gov/sleepapnea.html) and other [sleep disorders](https://medlineplus.gov/sleepdisorders.html)
- - Recent [stroke](https://medlineplus.gov/stroke.html)
- - [Mental disorders](https://medlineplus.gov/mentaldisorders.html) such as [depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html)
+ - [Parkinson's disease](Parkinson%27s%20Disease.md)
+ - [Sleep apnea](Sleep%20Apnea.md) and other [sleep disorders](Sleep%20Disorders.md)
+ - Recent [stroke](Stroke.md)
+ - [Mental disorders](Mental%20Disorders.md) such as [depression](Depression.md) and [anxiety](Anxiety.md)
 - **Treatments:**
 
- - Cancer treatments such as [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html), [radiation](https://medlineplus.gov/radiationtherapy.html), and [bone marrow transplants](https://medlineplus.gov/bonemarrowtransplantation.html)
+ - Cancer treatments such as [chemotherapy](Cancer%20Chemotherapy.md), [radiation](Radiation%20Therapy.md), and [bone marrow transplants](Bone%20Marrow%20Transplantation.md)
  - Recovering from major surgery
- - Taking certain medicines, such as [antidepressants](https://medlineplus.gov/antidepressants.html), antihistamines, and medicines for nausea and [pain](https://medlineplus.gov/painrelievers.html)
+ - Taking certain medicines, such as [antidepressants](Antidepressants.md), antihistamines, and medicines for nausea and [pain](Pain%20Relievers.md)
 - **Lifestyle habits:**
 
  - Not getting enough sleep
  - Staying up too late
- - Drinking too much [alcohol](https://medlineplus.gov/alcohol.html)
- - [Substance use](https://medlineplus.gov/druguseandaddiction.html)
- - Having too much [caffeine](https://medlineplus.gov/caffeine.html) (which can keep you from getting a good night's sleep)
+ - Drinking too much [alcohol](Alcohol.md)
+ - [Substance use](Drug%20Use%20and%20Addiction.md)
+ - Having too much [caffeine](Caffeine.md) (which can keep you from getting a good night's sleep)
  - Getting too little or too much exercise
 
-Overwhelming fatigue is part of a disorder called [myalgic encephalomyelitis/chronic fatigue syndrome](https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html) (ME/CFS). The fatigue caused by this disorder is different from a tired feeling that goes away after you rest. Instead, the fatigue in ME/CFS lasts a long time, does not get better with rest, and limits your ability to do ordinary daily activities.
+Overwhelming fatigue is part of a disorder called [myalgic encephalomyelitis/chronic fatigue syndrome](Myalgic%20Encephalomyelitis%20Chronic%20Fatigue%20Syndrome.md) (ME/CFS). The fatigue caused by this disorder is different from a tired feeling that goes away after you rest. Instead, the fatigue in ME/CFS lasts a long time, does not get better with rest, and limits your ability to do ordinary daily activities.
 
 #### What can I do to manage fatigue?
 
@@ -42,9 +42,9 @@ If you've had fatigue that does not get better after several weeks, call your pr
 
 You can also make some lifestyle changes to feel less tired:
 
-- [Get regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
-- [Improve your sleep habits](https://medlineplus.gov/healthysleep.html)
-- [Stop smoking](https://medlineplus.gov/quittingsmoking.html) (if you smoke), since smoking is linked to many diseases that can cause fatigue
+- [Get regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
+- [Improve your sleep habits](Healthy%20Sleep.md)
+- [Stop smoking](Quitting%20Smoking.md) (if you smoke), since smoking is linked to many diseases that can cause fatigue
 - Manage stress
 - Eat a healthy diet and avoid alcohol
 
@@ -54,8 +54,8 @@ NIH: National Institute on Aging
 
 ## Related topics
 
-- Myalgic Encephalomyelitis/Chronic Fatigue Syndrome
+- [Myalgic Encephalomyelitis/Chronic Fatigue Syndrome](Myalgic%20Encephalomyelitis%20Chronic%20Fatigue%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/fatigue.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/fatigue.html). General information, not medical advice.*

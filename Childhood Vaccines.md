@@ -4,7 +4,7 @@
 
 #### What are vaccines?
 
-[Vaccines](https://medlineplus.gov/vaccines.html) are injections (shots), liquids, pills, or nasal sprays that you take to teach the [immune system](https://medlineplus.gov/immunesystemanddisorders.html) to recognize and defend against harmful germs. The germs could be [viruses](https://medlineplus.gov/viralinfections.html) or [bacteria](https://medlineplus.gov/bacterialinfections.html).
+[Vaccines](Vaccines.md) are injections (shots), liquids, pills, or nasal sprays that you take to teach the [immune system](Immune%20System%20and%20Disorders.md) to recognize and defend against harmful germs. The germs could be [viruses](Viral%20Infections.md) or [bacteria](Bacterial%20Infections.md).
 
 Some types of vaccines contain germs that cause disease. But the germs have been killed or weakened enough that they won't make your child sick. Some vaccines only contain a part of a germ. Other types of vaccines include instructions for your cells to make a protein of the germ.
 
@@ -22,9 +22,9 @@ Community immunity is especially important for the people who can't get certain 
 
 #### Are vaccines safe for children?
 
-Vaccines are [safe](https://medlineplus.gov/vaccinesafety.html). They must go through extensive safety testing and evaluation before they are approved in the United States.
+Vaccines are [safe](Vaccine%20Safety.md). They must go through extensive safety testing and evaluation before they are approved in the United States.
 
-Some people worry that childhood vaccines could cause [autism spectrum disorder](https://medlineplus.gov/autismspectrumdisorder.html) (ASD). But many scientific studies have looked at this and have found no link between vaccines and autism.
+Some people worry that childhood vaccines could cause [autism spectrum disorder](Autism%20Spectrum%20Disorder.md) (ASD). But many scientific studies have looked at this and have found no link between vaccines and autism.
 
 #### Can vaccines overload my child's immune system?
 
@@ -32,29 +32,29 @@ No, vaccines do not overload the immune system. Every day, a healthy child's imm
 
 #### When do I need to vaccinate my child?
 
-Your child will get vaccines during [well-child visits](https://medlineplus.gov/healthcheckup.html). They will be given according to the vaccine schedule. This schedule lists which vaccines are recommended for children. It includes who should get the vaccines, how many doses they need, and at what age they should get them. In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.
+Your child will get vaccines during [well-child visits](Health%20Checkup.md). They will be given according to the vaccine schedule. This schedule lists which vaccines are recommended for children. It includes who should get the vaccines, how many doses they need, and at what age they should get them. In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.
 
 Following the vaccine schedule allows your child to get protection from the diseases at exactly the right time. It gives their body the chance to build up immunity before being exposed to these very serious diseases.
 
 ## Related topics
 
-- Chickenpox
-- COVID-19 Vaccines
-- Diphtheria
-- Flu Shot
-- Haemophilus Infections
-- Hepatitis A
-- Hepatitis B
-- Measles
-- Mumps
-- Polio and Post-Polio Syndrome
-- Rotavirus Infections
-- Tetanus
-- Tetanus, Diphtheria, and Pertussis Vaccines
-- Vaccine Safety
-- Vaccines
-- Whooping Cough
+- [Chickenpox](Chickenpox.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
+- [Diphtheria](Diphtheria.md)
+- [Flu Shot](Flu%20Shot.md)
+- [Haemophilus Infections](Haemophilus%20Infections.md)
+- [Hepatitis A](Hepatitis%20A.md)
+- [Hepatitis B](Hepatitis%20B.md)
+- [Measles](Measles.md)
+- [Mumps](Mumps.md)
+- [Polio and Post-Polio Syndrome](Polio%20and%20Post-Polio%20Syndrome.md)
+- [Rotavirus Infections](Rotavirus%20Infections.md)
+- [Tetanus](Tetanus.md)
+- [Tetanus, Diphtheria, and Pertussis Vaccines](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md)
+- [Vaccine Safety](Vaccine%20Safety.md)
+- [Vaccines](Vaccines.md)
+- [Whooping Cough](Whooping%20Cough.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childhoodvaccines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childhoodvaccines.html). General information, not medical advice.*

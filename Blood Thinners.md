@@ -4,17 +4,17 @@
 
 #### What are blood thinners?
 
-Blood thinners are medicines that prevent [blood clots](https://medlineplus.gov/bloodclots.html) from forming. They do not break up clots that you already have. But they can stop those clots from getting bigger. It's important to treat blood clots, because clots in your blood vessels and heart can cause [heart attacks](https://medlineplus.gov/heartattack.html), [strokes](https://medlineplus.gov/stroke.html), and blockages.
+Blood thinners are medicines that prevent [blood clots](Blood%20Clots.md) from forming. They do not break up clots that you already have. But they can stop those clots from getting bigger. It's important to treat blood clots, because clots in your blood vessels and heart can cause [heart attacks](Heart%20Attack.md), [strokes](Stroke.md), and blockages.
 
 #### Who needs blood thinners?
 
 You may need a blood thinner if you have:
 
-- Certain [heart](https://medlineplus.gov/heartdiseases.html) or [blood vessel](https://medlineplus.gov/vasculardiseases.html) diseases
-- An abnormal heart rhythm called [atrial fibrillation](https://medlineplus.gov/atrialfibrillation.html)
-- A [heart valve](https://medlineplus.gov/heartvalvediseases.html) replacement
+- Certain [heart](Heart%20Diseases.md) or [blood vessel](Vascular%20Diseases.md) diseases
+- An abnormal heart rhythm called [atrial fibrillation](Atrial%20Fibrillation.md)
+- A [heart valve](Heart%20Valve%20Diseases.md) replacement
 - A risk of blood clots after surgery
-- [Congenital heart defects](https://medlineplus.gov/congenitalheartdefects.html)
+- [Congenital heart defects](Congenital%20Heart%20Defects.md)
 
 #### What are the different types of blood thinners?
 
@@ -31,7 +31,7 @@ You may need regular blood tests to check how well your blood is clotting. It is
 
 #### What are the side effects of blood thinners?
 
-[Bleeding](https://medlineplus.gov/bleeding.html) is the most common side effect of blood thinners. They can also cause an upset stomach, [nausea](https://medlineplus.gov/nauseaandvomiting.html), and [diarrhea](https://medlineplus.gov/diarrhea.html).
+[Bleeding](Bleeding.md) is the most common side effect of blood thinners. They can also cause an upset stomach, [nausea](Nausea%20and%20Vomiting.md), and [diarrhea](Diarrhea.md).
 
 Other possible side effects can depend on which type of blood thinner that you are taking.
 
@@ -51,8 +51,8 @@ Call your provider if you have any sign of serious bleeding, such as:
 
 ## Related topics
 
-- Blood Clots
+- [Blood Clots](Blood%20Clots.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bloodthinners.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bloodthinners.html). General information, not medical advice.*

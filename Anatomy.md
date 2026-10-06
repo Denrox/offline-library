@@ -4,4 +4,4 @@ Anatomy is the science that studies the structure of the body. On this page, you
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anatomy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anatomy.html). General information, not medical advice.*

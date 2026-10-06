@@ -17,14 +17,14 @@ If you have a chronic heart or lung problem, an inhalation injury can make it wo
 
 To make a diagnosis, your health care provider may use a scope to look at your airways and check for damage. Other possible tests include imaging tests of the lungs, blood tests, and lung function tests.
 
-If you have an inhalation injury, your health care provider will make sure that your airway is not blocked. Treatment is with [oxygen therapy](https://medlineplus.gov/oxygentherapy.html), and in some cases, medicines. Some patients need to use a ventilator to breathe. Most people get better, but some people have permanent lung or breathing problems. Smokers and people who had a severe injury are at a greater risk of having permanent problems.
+If you have an inhalation injury, your health care provider will make sure that your airway is not blocked. Treatment is with [oxygen therapy](Oxygen%20Therapy.md), and in some cases, medicines. Some patients need to use a ventilator to breathe. Most people get better, but some people have permanent lung or breathing problems. Smokers and people who had a severe injury are at a greater risk of having permanent problems.
 
 You can take steps to try to prevent inhalation injuries:
 
-- At home, practice [fire safety](https://medlineplus.gov/firesafety.html), which includes preventing fires and having a plan in case there is a fire
-- If there is smoke from a [wildfire](https://medlineplus.gov/wildfires.html) nearby or lots of particulate pollution in the air, try to limit your time outdoors. Keep your indoor air as clean as possible, by keeping windows closed and using an air filter. If you have asthma, another lung disease, or heart disease, follow your health care provider's advice about your medicines and respiratory management plan.
+- At home, practice [fire safety](Fire%20Safety.md), which includes preventing fires and having a plan in case there is a fire
+- If there is smoke from a [wildfire](Wildfires.md) nearby or lots of particulate pollution in the air, try to limit your time outdoors. Keep your indoor air as clean as possible, by keeping windows closed and using an air filter. If you have asthma, another lung disease, or heart disease, follow your health care provider's advice about your medicines and respiratory management plan.
 - If you are working with chemicals or gases, handle them safely and use protective equipment
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/inhalationinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/inhalationinjuries.html). General information, not medical advice.*

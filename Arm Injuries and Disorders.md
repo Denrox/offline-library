@@ -4,22 +4,22 @@ Of the 206 bones in your body, three of them are in your arm: the humerus, radiu
 
 Types of arm injuries include :
 
-- [Tendinitis](https://medlineplus.gov/tendinitis.html) and [bursitis](https://medlineplus.gov/bursitis.html)
-- [Sprains](https://medlineplus.gov/sprainsandstrains.html)
-- [Dislocations](https://medlineplus.gov/dislocations.html)
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones)
-- [Nerve problems](https://medlineplus.gov/peripheralnervedisorders.html)
-- [Osteoarthritis](https://medlineplus.gov/osteoarthritis.html)
+- [Tendinitis](Tendinitis.md) and [bursitis](Bursitis.md)
+- [Sprains](Sprains%20and%20Strains.md)
+- [Dislocations](Dislocations.md)
+- [Fractures](Fractures.md) (broken bones)
+- [Nerve problems](Peripheral%20Nerve%20Disorders.md)
+- [Osteoarthritis](Osteoarthritis.md)
 
-You may also have problems or injure specific parts of your arm, such as your [hand](https://medlineplus.gov/handinjuriesanddisorders.html), [wrist](https://medlineplus.gov/wristinjuriesanddisorders.html), [elbow](https://medlineplus.gov/elbowinjuriesanddisorders.html), or [shoulder](https://medlineplus.gov/shoulderinjuriesanddisorders.html).
+You may also have problems or injure specific parts of your arm, such as your [hand](Hand%20Injuries%20and%20Disorders.md), [wrist](Wrist%20Injuries%20and%20Disorders.md), [elbow](Elbow%20Injuries%20and%20Disorders.md), or [shoulder](Shoulder%20Injuries%20and%20Disorders.md).
 
 ## Related topics
 
-- Elbow Injuries and Disorders
-- Hand Injuries and Disorders
-- Shoulder Injuries and Disorders
-- Wrist Injuries and Disorders
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
+- [Wrist Injuries and Disorders](Wrist%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/arminjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/arminjuriesanddisorders.html). General information, not medical advice.*

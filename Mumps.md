@@ -18,8 +18,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Childhood Vaccines
+- [Childhood Vaccines](Childhood%20Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mumps.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mumps.html). General information, not medical advice.*

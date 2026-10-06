@@ -19,10 +19,10 @@ Poor posture can be bad for your health. Slouching or slumping over can:
 
 - Misalign your musculoskeletal system
 - Wear away at your spine, making it more fragile and prone to injury
-- Cause neck, shoulder, and [back pain](https://medlineplus.gov/backpain.html)
+- Cause neck, shoulder, and [back pain](Back%20Pain.md)
 - Decrease your flexibility
 - Affect how well your joints move
-- Affect your [balance](https://medlineplus.gov/balanceproblems.html) and increase your risk of [falling](https://medlineplus.gov/falls.html)
+- Affect your [balance](Balance%20Problems.md) and increase your risk of [falling](Falls.md)
 - Make it harder to digest your food
 - Make it harder to breathe
 
@@ -62,4 +62,4 @@ With practice, you can improve your posture; you will look and feel better.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/guidetogoodposture.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/guidetogoodposture.html). General information, not medical advice.*

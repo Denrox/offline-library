@@ -8,26 +8,26 @@ There's no way around it; smoking is bad for your health. It harms nearly every 
 
 Some of the many health problems that smoking can cause include:
 
-- **Cancers.** Smoking is the most common cause of [lung](https://medlineplus.gov/lungcancer.html) and [oral](https://medlineplus.gov/oralcancer.html) cancers. But it can also cause cancer in many other parts of your body, such as in your larynx (voice box), [esophagus](https://medlineplus.gov/esophagealcancer.html), [throat](https://medlineplus.gov/throatcancer.html), [bladder](https://medlineplus.gov/bladdercancer.html), [kidney](https://medlineplus.gov/kidneycancer.html), [liver](https://medlineplus.gov/livercancer.html), [stomach](https://medlineplus.gov/stomachcancer.html), [pancreas](https://medlineplus.gov/pancreaticcancer.html), [colon and rectum](https://medlineplus.gov/colorectalcancer.html), and [cervix](https://medlineplus.gov/cervicalcancer.html). It can also cause [acute myeloid leukemia](https://medlineplus.gov/acutemyeloidleukemia.html) (AML).
-- **[Lung diseases](https://medlineplus.gov/lungdiseases.html).** Smoking is the most common cause of [COPD](https://medlineplus.gov/copd.html). It can also worsen [asthma](https://medlineplus.gov/asthma.html) and raise your risk of [pneumonia](https://medlineplus.gov/pneumonia.html).
-- **Cardiovascular diseases.** Smoking can damage your blood vessels and make them thicken and grow narrower. This makes your heart beat faster and [raises your blood pressure](https://medlineplus.gov/highbloodpressure.html). Smoking also increases your risk of [blood clots](https://medlineplus.gov/bloodclots.html) and [stroke](https://medlineplus.gov/stroke.html).
-- **[Vision problems](https://medlineplus.gov/visionimpairmentandblindness.html)**. Smoking can raise your risk of [cataracts](https://medlineplus.gov/cataract.html) and cause [macular degeneration](https://medlineplus.gov/maculardegeneration.html) (AMD).
+- **Cancers.** Smoking is the most common cause of [lung](Lung%20Cancer.md) and [oral](Oral%20Cancer.md) cancers. But it can also cause cancer in many other parts of your body, such as in your larynx (voice box), [esophagus](Esophageal%20Cancer.md), [throat](Throat%20Cancer.md), [bladder](Bladder%20Cancer.md), [kidney](Kidney%20Cancer.md), [liver](Liver%20Cancer.md), [stomach](Stomach%20Cancer.md), [pancreas](Pancreatic%20Cancer.md), [colon and rectum](Colorectal%20Cancer.md), and [cervix](Cervical%20Cancer.md). It can also cause [acute myeloid leukemia](Acute%20Myeloid%20Leukemia.md) (AML).
+- **[Lung diseases](Lung%20Diseases.md).** Smoking is the most common cause of [COPD](COPD.md). It can also worsen [asthma](Asthma.md) and raise your risk of [pneumonia](Pneumonia.md).
+- **Cardiovascular diseases.** Smoking can damage your blood vessels and make them thicken and grow narrower. This makes your heart beat faster and [raises your blood pressure](High%20Blood%20Pressure.md). Smoking also increases your risk of [blood clots](Blood%20Clots.md) and [stroke](Stroke.md).
+- **[Vision problems](Vision%20Impairment%20and%20Blindness.md)**. Smoking can raise your risk of [cataracts](Cataract.md) and cause [macular degeneration](Macular%20Degeneration.md) (AMD).
 
-You have a greater chance of certain [pregnancy problems](https://medlineplus.gov/healthproblemsinpregnancy.html) if you [smoke while pregnant](https://medlineplus.gov/pregnancyandsubstanceuse.html). Your baby is also at higher risk of dying of [sudden infant death syndrome](https://medlineplus.gov/suddeninfantdeathsyndrome.html) (SIDS).
+You have a greater chance of certain [pregnancy problems](Health%20Problems%20in%20Pregnancy.md) if you [smoke while pregnant](Pregnancy%20and%20Substance%20Use.md). Your baby is also at higher risk of dying of [sudden infant death syndrome](Sudden%20Infant%20Death%20Syndrome.md) (SIDS).
 
-Smoking also causes addiction to nicotine, a stimulant drug that is in tobacco. Nicotine addiction makes it much harder for people to [quit smoking](https://medlineplus.gov/quittingsmoking.html).
+Smoking also causes addiction to nicotine, a stimulant drug that is in tobacco. Nicotine addiction makes it much harder for people to [quit smoking](Quitting%20Smoking.md).
 
 #### What are the health risks of secondhand smoke?
 
-Your smoke is also bad for other people. If they breathe in your [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html), they can get many of the same problems as smokers do. These problems can include [heart disease](https://medlineplus.gov/heartdiseases.html) and lung cancer. Children exposed to secondhand smoke have a higher risk of [ear infections](https://medlineplus.gov/earinfections.html), [colds](https://medlineplus.gov/commoncold.html), pneumonia, bronchitis, and more severe [asthma](https://medlineplus.gov/asthmainchildren.html). If you breathe secondhand smoke while pregnant, you're more likely to have [preterm labor](https://medlineplus.gov/pretermlabor.html) and a baby with [low birth weight](https://medlineplus.gov/birthweight.html).
+Your smoke is also bad for other people. If they breathe in your [secondhand smoke](Secondhand%20Smoke.md), they can get many of the same problems as smokers do. These problems can include [heart disease](Heart%20Diseases.md) and lung cancer. Children exposed to secondhand smoke have a higher risk of [ear infections](Ear%20Infections.md), [colds](Common%20Cold.md), pneumonia, bronchitis, and more severe [asthma](Asthma%20in%20Children.md). If you breathe secondhand smoke while pregnant, you're more likely to have [preterm labor](Preterm%20Labor.md) and a baby with [low birth weight](Birth%20Weight.md).
 
 #### Are other forms of tobacco also dangerous?
 
 Besides cigarettes, there are several other forms of tobacco. Some people smoke tobacco in cigars and water pipes (hookahs). These forms of tobacco also contain harmful chemicals and nicotine. Some cigars contain as much tobacco as an entire pack of cigarettes.
 
-[E-cigarettes](https://medlineplus.gov/ecigarettes.html) often look like cigarettes, but they work differently. They are battery-operated smoking devices. Using an e-cigarette is called vaping. Researchers still have a lot to learn about the health effects of using e-cigarettes. We do know that they contain nicotine, which is highly addictive and a health danger to you and your fetus if you are pregnant, children, and teens. And e-cigarettes also expose non-smokers to secondhand aerosols (rather than secondhand smoke), which contain harmful chemicals.
+[E-cigarettes](E-Cigarettes.md) often look like cigarettes, but they work differently. They are battery-operated smoking devices. Using an e-cigarette is called vaping. Researchers still have a lot to learn about the health effects of using e-cigarettes. We do know that they contain nicotine, which is highly addictive and a health danger to you and your fetus if you are pregnant, children, and teens. And e-cigarettes also expose non-smokers to secondhand aerosols (rather than secondhand smoke), which contain harmful chemicals.
 
-[Smokeless tobacco](https://medlineplus.gov/smokelesstobacco.html), such as chewing tobacco and snuff, is also bad for your health. Smokeless tobacco can cause certain cancers, including oral cancer. It also increases your risk of getting heart disease, [gum disease](https://medlineplus.gov/gumdisease.html), and oral lesions.
+[Smokeless tobacco](Smokeless%20Tobacco.md), such as chewing tobacco and snuff, is also bad for your health. Smokeless tobacco can cause certain cancers, including oral cancer. It also increases your risk of getting heart disease, [gum disease](Gum%20Disease.md), and oral lesions.
 
 #### Why should I quit?
 
@@ -42,12 +42,12 @@ Quitting smoking can be challenging, but it is so important for your health. Con
 
 ## Related topics
 
-- E-Cigarettes
-- Quitting Smoking
-- Secondhand Smoke
-- Smokeless Tobacco
-- Smoking and Youth
+- [E-Cigarettes](E-Cigarettes.md)
+- [Quitting Smoking](Quitting%20Smoking.md)
+- [Secondhand Smoke](Secondhand%20Smoke.md)
+- [Smokeless Tobacco](Smokeless%20Tobacco.md)
+- [Smoking and Youth](Smoking%20and%20Youth.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/smoking.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/smoking.html). General information, not medical advice.*

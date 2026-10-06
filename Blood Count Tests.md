@@ -2,7 +2,7 @@
 
 *Also called: CBC, Complete Blood Count, Hematologic Tests*
 
-Your [blood](https://medlineplus.gov/blood.html) contains red blood cells (RBC), white blood cells (WBC), and platelets. Blood count tests measure the number and types of cells in your blood. This helps doctors check on your overall health. The tests can also help to diagnose diseases and conditions such as [anemia](https://medlineplus.gov/anemia.html), infections, clotting problems, blood cancers, and [immune system disorders](https://medlineplus.gov/immunesystemanddisorders.html).
+Your [blood](Blood.md) contains red blood cells (RBC), white blood cells (WBC), and platelets. Blood count tests measure the number and types of cells in your blood. This helps doctors check on your overall health. The tests can also help to diagnose diseases and conditions such as [anemia](Anemia.md), infections, clotting problems, blood cancers, and [immune system disorders](Immune%20System%20and%20Disorders.md).
 
 Specific types include tests for:
 
@@ -20,10 +20,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Bleeding Disorders
-- Blood
-- Laboratory Tests
+- [Bleeding Disorders](Bleeding%20Disorders.md)
+- [Blood](Blood.md)
+- [Laboratory Tests](Laboratory%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bloodcounttests.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bloodcounttests.html). General information, not medical advice.*

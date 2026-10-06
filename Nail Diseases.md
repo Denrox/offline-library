@@ -13,4 +13,4 @@ Keeping your nails clean, dry, and trimmed can help you avoid some problems. Do 
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/naildiseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/naildiseases.html). General information, not medical advice.*

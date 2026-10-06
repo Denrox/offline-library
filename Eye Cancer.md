@@ -6,9 +6,9 @@ Treatment for eye cancer varies by the type and by how advanced it is. It may in
 
 ## Related topics
 
-- Eye Diseases
-- Eyelid Disorders
+- [Eye Diseases](Eye%20Diseases.md)
+- [Eyelid Disorders](Eyelid%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eyecancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eyecancer.html). General information, not medical advice.*

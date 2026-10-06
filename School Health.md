@@ -4,18 +4,18 @@ Your child spends more time at school than anywhere else except home. Schools ca
 
 Schools work to:
 
-- Prevent risky behaviors such as [alcohol](https://medlineplus.gov/underagedrinking.html) and [tobacco](https://medlineplus.gov/smokingandyouth.html) use or [bullying and cyberbullying](https://medlineplus.gov/bullyingandcyberbullying.html)
+- Prevent risky behaviors such as [alcohol](Underage%20Drinking.md) and [tobacco](Smoking%20and%20Youth.md) use or [bullying and cyberbullying](Bullying%20and%20Cyberbullying.md)
 - Encourage healthy habits like exercise and healthy eating
-- Deal with specific health problems in students, such as [asthma](https://medlineplus.gov/asthmainchildren.html), [obesity](https://medlineplus.gov/obesityinchildren.html) and infectious diseases
+- Deal with specific health problems in students, such as [asthma](Asthma%20in%20Children.md), [obesity](Obesity%20in%20Children.md) and infectious diseases
 
 The school building and environment should be a safe and healthy place for your child.
 
 ## Related topics
 
-- Bullying and Cyberbullying
-- Child Safety
-- College Health
+- [Bullying and Cyberbullying](Bullying%20and%20Cyberbullying.md)
+- [Child Safety](Child%20Safety.md)
+- [College Health](College%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/schoolhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/schoolhealth.html). General information, not medical advice.*

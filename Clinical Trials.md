@@ -16,8 +16,8 @@ NIH: National Institutes of Health
 
 ## Related topics
 
-- Understanding Medical Research
+- [Understanding Medical Research](Understanding%20Medical%20Research.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/clinicaltrials.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/clinicaltrials.html). General information, not medical advice.*

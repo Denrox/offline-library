@@ -1,6 +1,6 @@
 # Food Safety
 
-Safe steps in food handling, cooking, and storage can prevent [foodborne illness](https://medlineplus.gov/foodborneillness.html). There are four basic steps to food safety at home:
+Safe steps in food handling, cooking, and storage can prevent [foodborne illness](Foodborne%20Illness.md). There are four basic steps to food safety at home:
 
 - Clean - always wash your fruits and vegetables, hands, counters, and cooking utensils.
 - Separate - keep raw foods to themselves. Germs can spread from one food to another.
@@ -13,9 +13,9 @@ United States Department of Agriculture
 
 ## Related topics
 
-- Creutzfeldt-Jakob Disease
-- Foodborne Illness
+- [Creutzfeldt-Jakob Disease](Creutzfeldt-Jakob%20Disease.md)
+- [Foodborne Illness](Foodborne%20Illness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/foodsafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/foodsafety.html). General information, not medical advice.*

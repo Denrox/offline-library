@@ -1,6 +1,6 @@
 # Child Dental Health
 
-Healthy teeth are important to your child's overall health. From the time your child is born, there are things you can do to promote healthy teeth and prevent [cavities](https://medlineplus.gov/toothdecay.html). For babies, you should clean teeth with a soft, clean cloth or baby's toothbrush. Avoid putting the baby to bed with a bottle and check teeth regularly for spots or stains.
+Healthy teeth are important to your child's overall health. From the time your child is born, there are things you can do to promote healthy teeth and prevent [cavities](Tooth%20Decay.md). For babies, you should clean teeth with a soft, clean cloth or baby's toothbrush. Avoid putting the baby to bed with a bottle and check teeth regularly for spots or stains.
 
 For all children, you should:
 
@@ -14,11 +14,11 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ## Related topics
 
-- Dental Health
-- Gum Disease
-- Orthodontia
-- Tooth Decay
+- [Dental Health](Dental%20Health.md)
+- [Gum Disease](Gum%20Disease.md)
+- [Orthodontia](Orthodontia.md)
+- [Tooth Decay](Tooth%20Decay.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childdentalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childdentalhealth.html). General information, not medical advice.*

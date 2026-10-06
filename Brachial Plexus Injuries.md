@@ -6,7 +6,7 @@ The brachial plexus is a network of nerves that sends signals from the spine to 
 - Lack of muscle control in the arm, hand, or wrist
 - Lack of feeling or sensation in the arm or hand
 
-Brachial plexus injuries can happen because of shoulder trauma, tumors, or inflammation. Sometimes they happen [during childbirth](https://medlineplus.gov/childbirthproblems.html) when a baby's shoulders become stuck during delivery and the nerves stretch or tear.
+Brachial plexus injuries can happen because of shoulder trauma, tumors, or inflammation. Sometimes they happen [during childbirth](Childbirth%20Problems.md) when a baby's shoulders become stuck during delivery and the nerves stretch or tear.
 
 Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment includes physical therapy and, in some cases, surgery.
 
@@ -14,4 +14,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/brachialplexusinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/brachialplexusinjuries.html). General information, not medical advice.*

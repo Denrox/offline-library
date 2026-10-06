@@ -8,9 +8,9 @@ Endocarditis is usually caused by germs that get into your bloodstream and trave
 
 #### What causes endocarditis?
 
-[Bacterial infections](https://medlineplus.gov/bacterialinfections.html) cause most endocarditis. Normally, many bacteria live in your mouth, on your skin, or in other parts of the body. Sometimes the bacteria can get into your bloodstream from injuries such cuts or scrapes. Dental work and certain surgeries can also allow small amounts of bacteria to enter your bloodstream.
+[Bacterial infections](Bacterial%20Infections.md) cause most endocarditis. Normally, many bacteria live in your mouth, on your skin, or in other parts of the body. Sometimes the bacteria can get into your bloodstream from injuries such cuts or scrapes. Dental work and certain surgeries can also allow small amounts of bacteria to enter your bloodstream.
 
-In some cases, [fungal infections](https://medlineplus.gov/fungalinfections.html) cause endocarditis. The fungi, such as [yeast](https://medlineplus.gov/yeastinfections.html), can live in parts of your body. Fungal infections generally happen in people who have weakened immune systems that can't stop the fungus from growing. This includes people who have [HIV](https://medlineplus.gov/hiv.html).
+In some cases, [fungal infections](Fungal%20Infections.md) cause endocarditis. The fungi, such as [yeast](Yeast%20Infections.md), can live in parts of your body. Fungal infections generally happen in people who have weakened immune systems that can't stop the fungus from growing. This includes people who have [HIV](HIV.md).
 
 #### Who is more likely to develop endocarditis?
 
@@ -20,14 +20,14 @@ But your chance of developing endocarditis may be higher than most people if you
 
 - **Have certain heart conditions.** Damaged or abnormal heart tissue and devices in your heart can trap germs more easily than healthy heart tissue. That means your risk of endocarditis is higher if you have:
 
- - [Heart valve disease](https://medlineplus.gov/heartvalvediseases.html).
- - Certain [congenital heart defects](https://medlineplus.gov/congenitalheartdefects.html).
- - A [pacemaker or an implantable defibrillator.](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html)
+ - [Heart valve disease](Heart%20Valve%20Diseases.md).
+ - Certain [congenital heart defects](Congenital%20Heart%20Defects.md).
+ - A [pacemaker or an implantable defibrillator.](Pacemakers%20and%20Implantable%20Defibrillators.md)
  - A heart valve replacement.
-- **Are older.** Age-related changes to the heart valves, such as [mitral valve prolapse](https://medlineplus.gov/mitralvalveprolapse.html) or calcium deposits in the aortic valve, create places for germs to attach to the heart.
-- **Inject [illegal drugs](https://medlineplus.gov/druguseandaddiction.html).** Unclean needles may carry bacteria into the bloodstream.
-- **Have a condition that [weakens your immune system](https://medlineplus.gov/immunesystemanddisorders.html).**
-- **Don't take care of your teeth and gums.** Poor [dental health](https://medlineplus.gov/dentalhealth.html) makes it easier for germs to get into your bloodstream through your gums and mouth.
+- **Are older.** Age-related changes to the heart valves, such as [mitral valve prolapse](Mitral%20Valve%20Prolapse.md) or calcium deposits in the aortic valve, create places for germs to attach to the heart.
+- **Inject [illegal drugs](Drug%20Use%20and%20Addiction.md).** Unclean needles may carry bacteria into the bloodstream.
+- **Have a condition that [weakens your immune system](Immune%20System%20and%20Disorders.md).**
+- **Don't take care of your teeth and gums.** Poor [dental health](Dental%20Health.md) makes it easier for germs to get into your bloodstream through your gums and mouth.
 - **Have a long-term central venous line**, a tube that stays in a large vein for weeks or months for medical treatment.
 - **Have already had endocarditis.** Endocarditis can damage heart tissue, which increases your risk of getting it again.
 
@@ -35,13 +35,13 @@ But your chance of developing endocarditis may be higher than most people if you
 
 Endocarditis symptoms may be severe or very mild. They may start suddenly or slowly. And they can vary from person to person. The possible symptoms of endocarditis include:
 
-- [Fever](https://medlineplus.gov/fever.html) and chills
+- [Fever](Fever.md) and chills
 - New or worsening heart murmur (an unusual sound heard between heartbeats)
-- [Chest pain](https://medlineplus.gov/chestpain.html)
-- [Cough](https://medlineplus.gov/cough.html)
-- Muscle, joint, and [back pain](https://medlineplus.gov/backpain.html)
+- [Chest pain](Chest%20Pain.md)
+- [Cough](Cough.md)
+- Muscle, joint, and [back pain](Back%20Pain.md)
 - Night sweats (heavy sweating during sleep)
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html) (feeling like you can't get enough air)
+- [Shortness of breath](Breathing%20Problems.md) (feeling like you can't get enough air)
 - Skin changes, including:
 
  - Broken blood vessels
@@ -52,13 +52,13 @@ Endocarditis symptoms may be severe or very mild. They may start suddenly or slo
 
 When the germs are in your heart, they can clump together with blood cells. These clumps can break off and travel through your bloodstream. They may block blood flow, spread infection, or damage your organs, including your brain, lungs, kidneys, and spleen.
 
-Endocarditis may sometimes lead to [sepsis](https://medlineplus.gov/sepsis.html), a medical emergency that happens when your body has an extreme response to the infection.
+Endocarditis may sometimes lead to [sepsis](Sepsis.md), a medical emergency that happens when your body has an extreme response to the infection.
 
 Endocarditis can also cause serious heart problems including:
 
 - Heart valve damage
-- [Heart failure](https://medlineplus.gov/heartfailure.html)
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html) (a problem with the rate or rhythm of your heartbeat)
+- [Heart failure](Heart%20Failure.md)
+- [Arrhythmia](Arrhythmia.md) (a problem with the rate or rhythm of your heartbeat)
 
 #### How is endocarditis diagnosed?
 
@@ -68,9 +68,9 @@ To find out if you have endocarditis, your health care provider will:
 - Do a **physical exam**.
 - Likely order **tests**, such as:
 
- - Blood tests to check for [signs of infection](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/), [bacteria](https://medlineplus.gov/lab-tests/bacteria-culture-test/), or[fungi in your blood](https://medlineplus.gov/lab-tests/fungal-culture-test/).
- - Chest [x-rays](https://medlineplus.gov/xrays.html).
- - [Heart tests](https://medlineplus.gov/hearthealthtests.html).
+ - Blood tests to check for signs of infection, bacteria, orfungi in your blood.
+ - Chest [x-rays](X-Rays.md).
+ - [Heart tests](Heart%20Health%20Tests.md).
 
 #### What are the treatments for endocarditis?
 
@@ -78,9 +78,9 @@ If you have endocarditis, it's important to get treatment quickly. Treatments ma
 
 - **Medicines:**
 
- - **[Antibiotics](https://medlineplus.gov/antibiotics.html)** to treat bacterial infections. Antibiotics are usually started through an intravenous (IV) line in the hospital.
+ - **[Antibiotics](Antibiotics.md)** to treat bacterial infections. Antibiotics are usually started through an intravenous (IV) line in the hospital.
  - **Antifungal medicine** to treat fungal infections. Your provider may suggest taking antifungal medicine for the rest of your life to prevent the infection from coming back.
-- **[Heart surgery](https://medlineplus.gov/heartsurgery.html)** may be needed to repair or replace damaged valves and heart tissue. Surgery may also be done to remove infected tissue.
+- **[Heart surgery](Heart%20Surgery.md)** may be needed to repair or replace damaged valves and heart tissue. Surgery may also be done to remove infected tissue.
 - **Dental care**, especially cleanings, can help reduce the amount of bacteria that grows in your mouth.
 
 Treatment may last weeks, and you may need tests to make sure it's working. Your provider will also check you for problems that could develop from endocarditis, such as heart failure or an irregular heartbeat.
@@ -90,8 +90,8 @@ Treatment may last weeks, and you may need tests to make sure it's working. Your
 If you have a higher chance of developing endocarditis than most people, you can reduce your risk if you:
 
 - Take good care of your teeth and gums every day
-- Have [dental exams and cleaning](https://medlineplus.gov/lab-tests/dental-exam/) at your dentist's office every 6 months
-- Make heart-healthy habits part of your daily life to help [prevent heart disease](https://medlineplus.gov/howtopreventheartdisease.html)
+- Have dental exams and cleaning at your dentist's office every 6 months
+- Make heart-healthy habits part of your daily life to help [prevent heart disease](How%20to%20Prevent%20Heart%20Disease.md)
 - Call your health care provider right away if you have symptoms that could be endocarditis
 
 People with the highest risk for bacterial endocarditis need antibiotics before dental visits or certain medical or surgical procedures. Ask your provider if you're part of the highest risk group. If so, let all your providers know about your risk.
@@ -100,9 +100,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Heart Diseases
-- Heart Valve Diseases
+- [Heart Diseases](Heart%20Diseases.md)
+- [Heart Valve Diseases](Heart%20Valve%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/endocarditis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/endocarditis.html). General information, not medical advice.*

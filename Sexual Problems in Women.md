@@ -13,9 +13,9 @@ Occasional problems with sexual function are common. If problems last more than 
 
 ## Related topics
 
-- Vaginal Diseases
-- Vulvar Disorders
+- [Vaginal Diseases](Vaginal%20Diseases.md)
+- [Vulvar Disorders](Vulvar%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sexualproblemsinwomen.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sexualproblemsinwomen.html). General information, not medical advice.*

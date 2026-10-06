@@ -4,7 +4,7 @@
 
 #### What is spinal muscular atrophy (SMA)?
 
-Spinal muscular atrophy (SMA) is a group of [genetic diseases](https://medlineplus.gov/geneticdisorders.html) that damages and kills motor neurons. Motor neurons are a type of nerve cell in the spinal cord and lower part of the brain. They control movement in your arms, legs, face, chest, throat, and tongue.
+Spinal muscular atrophy (SMA) is a group of [genetic diseases](Genetic%20Disorders.md) that damages and kills motor neurons. Motor neurons are a type of nerve cell in the spinal cord and lower part of the brain. They control movement in your arms, legs, face, chest, throat, and tongue.
 
 As the motor neurons die off, your muscles start to weaken and atrophy (waste away). The muscle damage gets worse over time and can affect speaking, walking, swallowing, and breathing.
 
@@ -12,14 +12,14 @@ As the motor neurons die off, your muscles start to weaken and atrophy (waste aw
 
 There are different types of SMA. They are based on how serious the disease is and when the symptoms start:
 
-- **Type l** is also called Werdnig-Hoffman disease or infantile-onset SMA. It is the most severe type. It is also the most common. Babies with this type usually show signs of the disease before 6 months of age. In more severe cases, the signs show up even before or just after birth (Types 0 or 1A). The babies may have trouble [swallowing](https://medlineplus.gov/swallowingdisorders.html) and [breathing](https://medlineplus.gov/breathingproblems.html) and may not move around a lot. They have chronic shortening of muscles or tendons (called contractures). They usually cannot sit up without help. Without treatment, many children with this type will die before 2 years of age.
+- **Type l** is also called Werdnig-Hoffman disease or infantile-onset SMA. It is the most severe type. It is also the most common. Babies with this type usually show signs of the disease before 6 months of age. In more severe cases, the signs show up even before or just after birth (Types 0 or 1A). The babies may have trouble [swallowing](Swallowing%20Disorders.md) and [breathing](Breathing%20Problems.md) and may not move around a lot. They have chronic shortening of muscles or tendons (called contractures). They usually cannot sit up without help. Without treatment, many children with this type will die before 2 years of age.
 - **Type ll** is a moderate to severe type of SMA. It usually first noticed between 6 and 18 months of age. Most children with this type can sit without support but cannot stand or walk without help. They may also have trouble breathing. They can usually live into adolescence or young adulthood.
-- **Type lll** is also called Kugelberg-Welander disease. It is the mildest type that affects children. The signs of the disease usually show up after age 18 months. Children with this type can walk by themselves but may have trouble running, getting up from a chair, or climbing stairs. They may also have [scoliosis](https://medlineplus.gov/scoliosis.html) (curvature of the spine), contractures, and respiratory infections. With treatment, most children with this type will have a normal lifespan.
-- **Type IV** is rare and often mild. It usually causes symptoms after 21 years of age. The symptoms include mild to moderate leg muscle weakness, [tremors](https://medlineplus.gov/tremor.html), and mild breathing problems. The symptoms slowly get worse over time. People with this type of SMA have a normal lifespan.
+- **Type lll** is also called Kugelberg-Welander disease. It is the mildest type that affects children. The signs of the disease usually show up after age 18 months. Children with this type can walk by themselves but may have trouble running, getting up from a chair, or climbing stairs. They may also have [scoliosis](Scoliosis.md) (curvature of the spine), contractures, and respiratory infections. With treatment, most children with this type will have a normal lifespan.
+- **Type IV** is rare and often mild. It usually causes symptoms after 21 years of age. The symptoms include mild to moderate leg muscle weakness, [tremors](Tremor.md), and mild breathing problems. The symptoms slowly get worse over time. People with this type of SMA have a normal lifespan.
 
 #### What causes spinal muscular atrophy (SMA)?
 
-Most types of SMA are caused by a [change in the SMN1 gene](https://medlineplus.gov/genetics/condition/spinal-muscular-atrophy/#causes). This gene is responsible for making a protein that the motor neurons need to be healthy and to function. But when part of the SMN1 gene is missing or abnormal, there isn't enough protein for the motor neurons. This causes the motor neurons to die off.
+Most types of SMA are caused by a change in the SMN1 gene. This gene is responsible for making a protein that the motor neurons need to be healthy and to function. But when part of the SMN1 gene is missing or abnormal, there isn't enough protein for the motor neurons. This causes the motor neurons to die off.
 
 Most people have two copies of the SM1 gene - one from each parent. SMA normally only happens when both copies have the gene change. If only one copy has the change, there usually aren't any symptoms. But that gene could be passed down from parent to child.
 
@@ -31,12 +31,12 @@ Your health care provider may use many tools to diagnose SMA:
 
 - A physical exam
 - A medical history, including asking about family history
-- [Genetic testing](https://medlineplus.gov/genetictesting.html) to check for the gene changes that cause SMA
-- [Electromyography and nerve conduction studies](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/) and a muscle [biopsy](https://medlineplus.gov/biopsy.html) may be done, especially if no gene changes were found
+- [Genetic testing](Genetic%20Testing.md) to check for the gene changes that cause SMA
+- Electromyography and nerve conduction studies and a muscle [biopsy](Biopsy.md) may be done, especially if no gene changes were found
 
-Parents who have a family history of SMA may want to do a [prenatal test](https://medlineplus.gov/prenataltesting.html) to check to see whether their baby has an SMN1 gene change. An [amniocentesis](https://medlineplus.gov/lab-tests/amniocentesis-amniotic-fluid-test/) or in some cases a chorionic villi sampling (CVS) is used to get the sample for testing.
+Parents who have a family history of SMA may want to do a [prenatal test](Prenatal%20Testing.md) to check to see whether their baby has an SMN1 gene change. An amniocentesis or in some cases a chorionic villi sampling (CVS) is used to get the sample for testing.
 
-In some states, genetic testing for SMA is part of [newborn screening tests](https://medlineplus.gov/newbornscreening.html).
+In some states, genetic testing for SMA is part of [newborn screening tests](Newborn%20Screening.md).
 
 #### What are the treatments for spinal muscular atrophy (SMA)?
 
@@ -44,8 +44,8 @@ There is no cure for SMA. Treatments can help manage symptoms and prevent compli
 
 - Medicines to help the body make more of the proteins that the motor neurons need
 - Gene therapy for children under 2 years of age
-- Physical, occupational, and rehabilitation therapy to help to improve posture and the mobility of the joints. These therapies may also improve blood flow and slow muscle weakness and atrophy. Some people may also need therapy for [trouble speaking](https://medlineplus.gov/speechandcommunicationdisorders.html), chewing, and swallowing.
-- [Assistive devices](https://medlineplus.gov/assistivedevices.html) such as supports or braces, orthotics, speech synthesizers, and wheelchairs to help people stay more independent
+- Physical, occupational, and rehabilitation therapy to help to improve posture and the mobility of the joints. These therapies may also improve blood flow and slow muscle weakness and atrophy. Some people may also need therapy for [trouble speaking](Speech%20and%20Communication%20Disorders.md), chewing, and swallowing.
+- [Assistive devices](Assistive%20Devices.md) such as supports or braces, orthotics, speech synthesizers, and wheelchairs to help people stay more independent
 - Good nutrition and a balanced diet to help maintain weight and strength. Some people might need a feeding tube in order to get the nutrition they need.
 - Breathing support for people who have muscle weakness in the neck, throat, and chest. The support may include devices to help with breathing during the day and to prevent sleep apnea at night. Some people might need to be on a ventilator.
 
@@ -53,9 +53,9 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Muscular Dystrophy
-- Neuromuscular Disorders
+- [Muscular Dystrophy](Muscular%20Dystrophy.md)
+- [Neuromuscular Disorders](Neuromuscular%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/spinalmuscularatrophy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/spinalmuscularatrophy.html). General information, not medical advice.*

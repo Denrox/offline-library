@@ -2,7 +2,7 @@
 
 *Also called: Listeriosis*
 
-Listeriosis is a [foodborne illness](https://medlineplus.gov/foodborneillness.html) caused by Listeria monocytogenes, bacteria found in soil and water. It can be in a variety of raw foods as well as in processed foods and foods made from unpasteurized milk. Listeria is unlike many other germs because it can grow even in the cold temperature of the refrigerator.
+Listeriosis is a [foodborne illness](Foodborne%20Illness.md) caused by Listeria monocytogenes, bacteria found in soil and water. It can be in a variety of raw foods as well as in processed foods and foods made from unpasteurized milk. Listeria is unlike many other germs because it can grow even in the cold temperature of the refrigerator.
 
 Symptoms include fever and chills, headache, upset stomach and vomiting. Treatment is with antibiotics.
 
@@ -18,8 +18,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Foodborne Illness
+- [Foodborne Illness](Foodborne%20Illness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/listeriainfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/listeriainfections.html). General information, not medical advice.*

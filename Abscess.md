@@ -6,8 +6,8 @@ Bacteria, viruses, parasites and swallowed objects can all lead to abscesses. Sk
 
 ## Related topics
 
-- Infectious Diseases
+- [Infectious Diseases](Infectious%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/abscess.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/abscess.html). General information, not medical advice.*

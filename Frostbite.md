@@ -1,6 +1,6 @@
 # Frostbite
 
-Frostbite is an injury to the body that is caused by freezing. It most often affects the nose, ears, cheeks, chin, fingers, or toes. Frostbite can permanently damage the body, and severe cases can lead to [amputation](https://medlineplus.gov/limbloss.html).
+Frostbite is an injury to the body that is caused by freezing. It most often affects the nose, ears, cheeks, chin, fingers, or toes. Frostbite can permanently damage the body, and severe cases can lead to [amputation](Limb%20Loss.md).
 
 If you have frostbite, the skin in that area may turn white or grayish-yellow. It may feel firm or waxy when you touch it. The area will also feel numb.
 
@@ -17,9 +17,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Hypothermia
-- Winter Weather Emergencies
+- [Hypothermia](Hypothermia.md)
+- [Winter Weather Emergencies](Winter%20Weather%20Emergencies.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/frostbite.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/frostbite.html). General information, not medical advice.*

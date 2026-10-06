@@ -13,9 +13,9 @@ It is also important to be prepared in case there is a fire. Make sure that you 
 
 ## Related topics
 
-- Burns
-- Wildfires
+- [Burns](Burns.md)
+- [Wildfires](Wildfires.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/firesafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/firesafety.html). General information, not medical advice.*

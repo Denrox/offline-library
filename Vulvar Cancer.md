@@ -9,16 +9,16 @@ Often, vulvar cancer doesn't cause symptoms at first. However, see your doctor f
 - Bleeding that is not your period
 - Changes in the vulvar skin, such as color changes or growths that look like a wart or ulcer
 
-You are at greater risk if you've had a [human papillomavirus](https://medlineplus.gov/hpv.html) (HPV) infection or have a history of genital warts. Your health care provider diagnoses vulvar cancer with a physical exam and a biopsy. Treatment varies, depending on your overall health and how advanced the cancer is. It might include surgery, radiation therapy, chemotherapy, or biologic therapy. Biologic therapy boosts your body's own ability to fight cancer.
+You are at greater risk if you've had a [human papillomavirus](HPV.md) (HPV) infection or have a history of genital warts. Your health care provider diagnoses vulvar cancer with a physical exam and a biopsy. Treatment varies, depending on your overall health and how advanced the cancer is. It might include surgery, radiation therapy, chemotherapy, or biologic therapy. Biologic therapy boosts your body's own ability to fight cancer.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Vaginal Cancer
-- Vaginal Diseases
-- Vulvar Disorders
+- [Vaginal Cancer](Vaginal%20Cancer.md)
+- [Vaginal Diseases](Vaginal%20Diseases.md)
+- [Vulvar Disorders](Vulvar%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vulvarcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vulvarcancer.html). General information, not medical advice.*

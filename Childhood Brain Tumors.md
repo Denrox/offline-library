@@ -1,6 +1,6 @@
 # Childhood Brain Tumors
 
-[Brain tumors](https://medlineplus.gov/braintumors.html) are abnormal growths inside the skull. They are among the most common types of [childhood cancers](https://medlineplus.gov/cancerinchildren.html). Some are benign tumors, which aren't cancer. They can still be serious. Malignant tumors are cancerous.
+[Brain tumors](Brain%20Tumors.md) are abnormal growths inside the skull. They are among the most common types of [childhood cancers](Cancer%20in%20Children.md). Some are benign tumors, which aren't cancer. They can still be serious. Malignant tumors are cancerous.
 
 Childhood brain and spinal cord tumors can cause headaches and other symptoms. However, other conditions can also cause the same symptoms. Check with a doctor if your child has any of the following problems:
 
@@ -23,9 +23,9 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Brain Tumors
-- Cancer in Children
+- [Brain Tumors](Brain%20Tumors.md)
+- [Cancer in Children](Cancer%20in%20Children.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childhoodbraintumors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childhoodbraintumors.html). General information, not medical advice.*

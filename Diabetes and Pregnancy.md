@@ -4,28 +4,28 @@
 
 #### What is diabetes?
 
-If you have [diabetes](https://medlineplus.gov/diabetes.html), your [blood glucose](https://medlineplus.gov/bloodglucose.html), or blood sugar, levels are too high. Glucose comes from the foods you eat. A [hormone](https://medlineplus.gov/hormones.html) called insulin helps the glucose get into your cells to give them energy. With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body does not make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood.
+If you have [diabetes](Diabetes.md), your [blood glucose](Blood%20Glucose.md), or blood sugar, levels are too high. Glucose comes from the foods you eat. A [hormone](Hormones.md) called insulin helps the glucose get into your cells to give them energy. With [type 1 diabetes](Diabetes%20Type%201.md), your body does not make insulin. With [type 2 diabetes](Diabetes%20Type%202.md), your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood.
 
 #### What is gestational diabetes?
 
-Some people already have diabetes before they get pregnant. But others may develop diabetes during pregnancy. This type of diabetes is called gestational diabetes. It usually develops around the 24th week of pregnancy. It happens when your body can't make the extra insulin it needs during pregnancy. Researchers think gestational diabetes is caused by the hormonal changes of pregnancy, along with [genetic](https://medlineplus.gov/genetics/condition/gestational-diabetes) and lifestyle factors.
+Some people already have diabetes before they get pregnant. But others may develop diabetes during pregnancy. This type of diabetes is called gestational diabetes. It usually develops around the 24th week of pregnancy. It happens when your body can't make the extra insulin it needs during pregnancy. Researchers think gestational diabetes is caused by the hormonal changes of pregnancy, along with genetic and lifestyle factors.
 
 #### Who is more likely to develop gestational diabetes?
 
 Anyone who is pregnant could develop gestational diabetes. But you are more likely to develop it if you:
 
-- Are overweight or have [obesity](https://medlineplus.gov/obesity.html)
+- Are overweight or have [obesity](Obesity.md)
 - Have a family history of diabetes
 - Had gestational diabetes in a previous pregnancy
 - Have given birth to a baby weighing 9 pounds or more
-- Have [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS)
+- Have [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS)
 - Are African American, Hispanic/Latino, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander person
 
 #### How do I know if I have gestational diabetes?
 
 Gestational diabetes often has no symptoms. If you do have symptoms, they may be mild, such as being thirstier than normal or having to urinate (pee) more often.
 
-If you are pregnant, you will most likely be screened for gestational diabetes between 24 and 28 weeks of pregnancy. But if you have an increased chance of developing gestational diabetes, you may be tested during your first [prenatal visit](https://medlineplus.gov/prenatalcare.html). Your health care provider will use one or more [blood glucose tests](https://medlineplus.gov/lab-tests/blood-glucose-test/) to check for gestational diabetes. You may have the glucose challenge test, the oral glucose tolerance test (OGTT), or both.
+If you are pregnant, you will most likely be screened for gestational diabetes between 24 and 28 weeks of pregnancy. But if you have an increased chance of developing gestational diabetes, you may be tested during your first [prenatal visit](Prenatal%20Care.md). Your health care provider will use one or more blood glucose tests to check for gestational diabetes. You may have the glucose challenge test, the oral glucose tolerance test (OGTT), or both.
 
 For these two tests, you will drink a sugary liquid and wait for an hour before your blood sample is taken. If you have an oral glucose tolerance test, you will also get your blood drawn after 2 and 3 hours.
 
@@ -33,30 +33,30 @@ For these two tests, you will drink a sugary liquid and wait for an hour before 
 
 Having diabetes during pregnancy can affect your health. For example:
 
-- You are more likely to develop [preeclampsia](https://medlineplus.gov/highbloodpressureinpregnancy.html), a serious medical condition that causes a sudden increase in your blood pressure.
-- You are more likely to need a [cesarean delivery](https://medlineplus.gov/cesareandelivery.html), because your baby is more likely to be bigger than average.
-- Changes to your hormones and your body during pregnancy can affect your blood glucose levels. If you had diabetes before pregnancy, you may now need to adjust your [meal plan](https://medlineplus.gov/diabeticdiet.html), physical activity routine, and/or [medicines](https://medlineplus.gov/diabetesmedicines.html). If you have any [diabetes health problems](https://medlineplus.gov/diabetescomplications.html), they may get worse during pregnancy.
+- You are more likely to develop [preeclampsia](High%20Blood%20Pressure%20in%20Pregnancy.md), a serious medical condition that causes a sudden increase in your blood pressure.
+- You are more likely to need a [cesarean delivery](Cesarean%20Delivery.md), because your baby is more likely to be bigger than average.
+- Changes to your hormones and your body during pregnancy can affect your blood glucose levels. If you had diabetes before pregnancy, you may now need to adjust your [meal plan](Diabetic%20Diet.md), physical activity routine, and/or [medicines](Diabetes%20Medicines.md). If you have any [diabetes health problems](Diabetes%20Complications.md), they may get worse during pregnancy.
 - Gestational diabetes usually goes away after you have your baby. But you will be at higher risk of developing type 2 diabetes later.
 
 Having diabetes during pregnancy can also affect the health of your developing baby:
 
-- If you have high blood glucose levels at the beginning of your pregnancy, there is a higher risk of [birth defects](https://medlineplus.gov/birthdefects.html).
+- If you have high blood glucose levels at the beginning of your pregnancy, there is a higher risk of [birth defects](Birth%20Defects.md).
 - Your baby will be at risk for obesity and type 2 diabetes later in life.
-- Your baby is more likely to be [born early](https://medlineplus.gov/pretermlabor.html).
-- Your baby may have [breathing problems](https://medlineplus.gov/breathingproblems.html) or [hypoglycemia](https://medlineplus.gov/hypoglycemia.html) (low blood glucose levels) right after birth.
-- There is a higher risk of [miscarriage](https://medlineplus.gov/miscarriage.html) and [stillbirth](https://medlineplus.gov/stillbirth.html).
+- Your baby is more likely to be [born early](Preterm%20Labor.md).
+- Your baby may have [breathing problems](Breathing%20Problems.md) or [hypoglycemia](Hypoglycemia.md) (low blood glucose levels) right after birth.
+- There is a higher risk of [miscarriage](Miscarriage.md) and [stillbirth](Stillbirth.md).
 
 #### How can I manage diabetes during pregnancy?
 
 There are steps you can take to manage your diabetes before, during, and after pregnancy.
 
-If you already have diabetes, the best time to control your blood glucose is **before you get pregnant**. High blood glucose levels can be harmful to your developing baby during the first weeks of pregnancy, even before you know you are pregnant. See your provider to help you plan for pregnancy. You can talk about how to lower the risk of health problems for you and your developing baby. You can also discuss your diet, physical activity, and which diabetes medicines are [safe during pregnancy](https://medlineplus.gov/pregnancyandmedicines.html).
+If you already have diabetes, the best time to control your blood glucose is **before you get pregnant**. High blood glucose levels can be harmful to your developing baby during the first weeks of pregnancy, even before you know you are pregnant. See your provider to help you plan for pregnancy. You can talk about how to lower the risk of health problems for you and your developing baby. You can also discuss your diet, physical activity, and which diabetes medicines are [safe during pregnancy](Pregnancy%20and%20Medicines.md).
 
 **During your pregnancy,** you will work with your provider to manage your blood glucose levels. You may be able to manage them with a healthy diet and regular physical activity. If that's not enough, then you will need to take diabetes medicines. It's also important that you:
 
 - Get regular prenatal checkups
-- Take your prenatal [vitamins](https://medlineplus.gov/vitamins.html)
-- Don't use [harmful substances](https://medlineplus.gov/pregnancyandsubstanceuse.html) such as alcohol, tobacco, and illegal drugs
+- Take your prenatal [vitamins](Vitamins.md)
+- Don't use [harmful substances](Pregnancy%20and%20Substance%20Use.md) such as alcohol, tobacco, and illegal drugs
 
 **After pregnancy,** there are steps you need to take to stay healthy:
 
@@ -67,9 +67,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Diabetes
-- Health Problems in Pregnancy
+- [Diabetes](Diabetes.md)
+- [Health Problems in Pregnancy](Health%20Problems%20in%20Pregnancy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabetesandpregnancy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabetesandpregnancy.html). General information, not medical advice.*

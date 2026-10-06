@@ -4,7 +4,7 @@
 
 #### What is premenstrual syndrome (PMS)?
 
-Premenstrual syndrome, or PMS, is a group of physical and emotional symptoms that start one to two weeks before your [period](https://medlineplus.gov/menstruation.html). Most women have at least some symptoms of PMS, and the symptoms go away after their periods start. The symptoms may range from mild to severe.
+Premenstrual syndrome, or PMS, is a group of physical and emotional symptoms that start one to two weeks before your [period](Menstruation.md). Most women have at least some symptoms of PMS, and the symptoms go away after their periods start. The symptoms may range from mild to severe.
 
 #### What is premenstrual dysphoric disorder (PMDD)?
 
@@ -12,7 +12,7 @@ Premenstrual dysphoric disorder (PMDD) is a severe type of PMS. With PMDD, the s
 
 #### What causes premenstrual syndrome (PMS)?
 
-Researchers don't know exactly what causes PMS. Changes in [hormone](https://medlineplus.gov/hormones.html) levels during the menstrual cycle may play a role. These changing hormone levels may affect some women more than others.
+Researchers don't know exactly what causes PMS. Changes in [hormone](Hormones.md) levels during the menstrual cycle may play a role. These changing hormone levels may affect some women more than others.
 
 #### What are the symptoms of premenstrual syndrome (PMS)?
 
@@ -21,12 +21,12 @@ PMS symptoms are different for everyone. You may get physical symptoms, emotiona
 **Physical symptoms** may include:
 
 - Breast swelling and tenderness
-- [Acne](https://medlineplus.gov/acne.html)
+- [Acne](Acne.md)
 - Bloating and weight gain
-- [Headache](https://medlineplus.gov/headache.html)
+- [Headache](Headache.md)
 - Joint pain
-- [Backache](https://medlineplus.gov/backpain.html)
-- [Constipation](https://medlineplus.gov/constipation.html) or [diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Backache](Back%20Pain.md)
+- [Constipation](Constipation.md) or [diarrhea](Diarrhea.md)
 - Food cravings
 
 **Emotional symptoms** may include:
@@ -34,10 +34,10 @@ PMS symptoms are different for everyone. You may get physical symptoms, emotiona
 - Irritability
 - Mood swings
 - Crying spells
-- [Depression](https://medlineplus.gov/depression.html)
-- [Anxiety](https://medlineplus.gov/anxiety.html)
+- [Depression](Depression.md)
+- [Anxiety](Anxiety.md)
 - Sleeping too much or too little
-- Trouble with concentration and [memory](https://medlineplus.gov/memory.html)
+- Trouble with concentration and [memory](Memory.md)
 - Less interest in sex
 
 #### How is premenstrual syndrome (PMS) diagnosed?
@@ -56,20 +56,20 @@ Your provider may wish to do tests to rule out other conditions which may cause 
 
 No single PMS treatment works for everyone. If your symptoms are not severe, you may be able to manage them with:
 
-- Over-the-counter [pain relievers](https://medlineplus.gov/painrelievers.html) such as ibuprofen, aspirin, or naproxen, to help ease cramps, headaches, backaches, and breast tenderness
-- [Getting regular exercise](https://medlineplus.gov/howmuchexercisedoineed.html)
-- [Getting enough sleep](https://medlineplus.gov/healthysleep.html)
+- Over-the-counter [pain relievers](Pain%20Relievers.md) such as ibuprofen, aspirin, or naproxen, to help ease cramps, headaches, backaches, and breast tenderness
+- [Getting regular exercise](How%20Much%20Exercise%20Do%20I%20Need.md)
+- [Getting enough sleep](Healthy%20Sleep.md)
 - Eating healthy foods
-- Avoiding [salt](https://medlineplus.gov/sodium.html), [caffeine](https://medlineplus.gov/caffeine.html), sugar, and [alcohol](https://medlineplus.gov/alcohol.html) in the two weeks before your period
+- Avoiding [salt](Sodium.md), [caffeine](Caffeine.md), sugar, and [alcohol](Alcohol.md) in the two weeks before your period
 
-Some studies have shown that certain vitamins may help with some symptoms of PMS. They include [calcium](https://medlineplus.gov/calcium.html) and [vitamin B6](https://medlineplus.gov/bvitamins.html).
+Some studies have shown that certain vitamins may help with some symptoms of PMS. They include [calcium](Calcium.md) and [vitamin B6](B%20Vitamins.md).
 
-Some women take certain [herbal supplements](https://medlineplus.gov/herbalmedicine.html) for PMS symptoms. But there is not enough evidence to prove that supplements are effective for PMS. Check with your provider before taking any vitamins or supplements.
+Some women take certain [herbal supplements](Herbal%20Medicine.md) for PMS symptoms. But there is not enough evidence to prove that supplements are effective for PMS. Check with your provider before taking any vitamins or supplements.
 
 If you are not able to manage your PMS symptoms, your provider may suggest prescription medicines. These medicines may also be used to treat PMDD. They include:
 
-- Hormonal [birth control](https://medlineplus.gov/birthcontrol.html), which may help with the physical symptoms of PMS. But sometimes they may make the emotional symptoms worse. You may need to try several different types of birth control before you find the right one.
-- [Antidepressants](https://medlineplus.gov/antidepressants.html), such as selective serotonin reuptake inhibitors (SSRIs), which may help with emotional symptoms.
+- Hormonal [birth control](Birth%20Control.md), which may help with the physical symptoms of PMS. But sometimes they may make the emotional symptoms worse. You may need to try several different types of birth control before you find the right one.
+- [Antidepressants](Antidepressants.md), such as selective serotonin reuptake inhibitors (SSRIs), which may help with emotional symptoms.
 - Diuretics ("water pills") to reduce symptoms of bloating and breast tenderness.
 - Anti-anxiety medicine to ease symptoms of anxiety.
 
@@ -77,8 +77,8 @@ Dept. of Health and Human Services Office on Women's Health
 
 ## Related topics
 
-- Menstruation
+- [Menstruation](Menstruation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/premenstrualsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/premenstrualsyndrome.html). General information, not medical advice.*

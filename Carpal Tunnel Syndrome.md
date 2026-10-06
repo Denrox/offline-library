@@ -4,25 +4,25 @@
 
 #### What is carpal tunnel syndrome?
 
-Carpal tunnel syndrome is the name for a group of problems that includes numbness, tingling, weakness, or pain in your [wrist](https://medlineplus.gov/wristinjuriesanddisorders.html) or [hand](https://medlineplus.gov/handinjuriesanddisorders.html). It's a very common condition that happens when a nerve in your wrist becomes squeezed.
+Carpal tunnel syndrome is the name for a group of problems that includes numbness, tingling, weakness, or pain in your [wrist](Wrist%20Injuries%20and%20Disorders.md) or [hand](Hand%20Injuries%20and%20Disorders.md). It's a very common condition that happens when a nerve in your wrist becomes squeezed.
 
 The carpal tunnel is a narrow opening between the bones in your wrist and the ligament that holds them together. A nerve, called the median nerve, runs from your lower arm through the carpal tunnel and into your hand. This nerve provides feeling to your thumb and first three fingers. It also helps you move your thumb.
 
 Tendons also run from your lower arm, through the carpal tunnel, and into your hand. The tendons connect your finger bones to muscles in your arm, so you can bend your fingers.
 
-If the [tendons become swollen](https://medlineplus.gov/tendinitis.html) or irritated inside the carpal tunnel, they may press on the nerve. The squeezed nerve may not work well, which can lead to numbness, weakness, and other symptoms of carpal tunnel syndrome.
+If the [tendons become swollen](Tendinitis.md) or irritated inside the carpal tunnel, they may press on the nerve. The squeezed nerve may not work well, which can lead to numbness, weakness, and other symptoms of carpal tunnel syndrome.
 
 #### What causes carpal tunnel syndrome?
 
 In certain cases, the cause of carpal tunnel syndrome is unknown. But it usually happens from a combination of things that affect the structures in your wrist, such as:
 
-- **Injury to your wrist** that causes swelling, such as a [sprain](https://medlineplus.gov/sprainsandstrains.html) or [broken bone](https://medlineplus.gov/fractures.html)
-- **Health conditions** that can affect your [nerves](https://medlineplus.gov/peripheralnervedisorders.html), [joints](https://medlineplus.gov/jointdisorders.html), or other parts of your wrist, for example:
+- **Injury to your wrist** that causes swelling, such as a [sprain](Sprains%20and%20Strains.md) or [broken bone](Fractures.md)
+- **Health conditions** that can affect your [nerves](Peripheral%20Nerve%20Disorders.md), [joints](Joint%20Disorders.md), or other parts of your wrist, for example:
 
- - [Diabetes](https://medlineplus.gov/diabetes.html).
- - [Rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html).
- - A cyst or [tumor](https://medlineplus.gov/benigntumors.html) in your wrist.
- - Changes in certain [hormones](https://medlineplus.gov/hormones.html), which may cause swelling from extra fluid in your body. Examples include an [underactive thyroid gland](https://medlineplus.gov/hypothyroidism.html) (hypothyroidism), [pregnancy](https://medlineplus.gov/pregnancy.html) and [menopause.](https://medlineplus.gov/menopause.html)
+ - [Diabetes](Diabetes.md).
+ - [Rheumatoid arthritis](Rheumatoid%20Arthritis.md).
+ - A cyst or [tumor](Benign%20Tumors.md) in your wrist.
+ - Changes in certain [hormones](Hormones.md), which may cause swelling from extra fluid in your body. Examples include an [underactive thyroid gland](Hypothyroidism.md) (hypothyroidism), [pregnancy](Pregnancy.md) and [menopause.](Menopause.md)
  - Problems with the way your wrist is formed.
 - **Doing the same wrist and hand movements** over and over, such as:
 
@@ -40,7 +40,7 @@ Carpal tunnel syndrome usually happens only in adults. You're more likely to dev
 - **Have a health condition** that may affect structures in your wrist.
 - **Do activities with repeated hand motions.**
 - **Have had a wrist injury.**
-- **Have [a close relative](https://medlineplus.gov/genetics/condition/carpal-tunnel-syndrome/)** who has had carpal tunnel syndrome, such as a parent, brother or sister.
+- **Have a close relative** who has had carpal tunnel syndrome, such as a parent, brother or sister.
 
 #### What are the symptoms of carpal tunnel syndrome?
 
@@ -64,14 +64,14 @@ Without treatment, you could lose feeling in some fingers and have permanent wea
 To find out if you have carpal tunnel syndrome, your health care provider will:
 
 - **Ask about your medical history**
-- **Ask about your [family health history](https://medlineplus.gov/familyhistory.html)**
+- **Ask about your [family health history](Family%20History.md)**
 - **Do a physical exam**
 - **Order tests if needed**, such as:
 
- - [Lab tests](https://medlineplus.gov/laboratorytests.html) to look for diseases that may damage nerves
- - [X-rays](https://medlineplus.gov/xrays.html) to look for broken bones or [arthritis](https://medlineplus.gov/arthritis.html)
- - Tests to measure the [electrical activity in your nerves and muscles](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/)
- - [Ultrasound](https://medlineplus.gov/lab-tests/sonogram/) to check the nerve in the carpal tunnel
+ - [Lab tests](Laboratory%20Tests.md) to look for diseases that may damage nerves
+ - [X-rays](X-Rays.md) to look for broken bones or [arthritis](Arthritis.md)
+ - Tests to measure the electrical activity in your nerves and muscles
+ - Ultrasound to check the nerve in the carpal tunnel
 
 #### What are the treatments for carpal tunnel syndrome?
 
@@ -81,26 +81,26 @@ It's easier to treat carpal tunnel syndrome early on, so you should start treatm
 - **Rest.**
 - **Medicines to reduce swelling and pain:**
 
- - Over-the-counter **[pain relievers](https://medlineplus.gov/painrelievers.html)**, such as aspirin, ibuprofen, and naproxen sodium.
- - **Prescription** [steroids](https://medlineplus.gov/steroids.html), either pills or an injection (shot) into your wrist.
-- **[Other therapies (complementary and integrative medicine)](complementaryandintegrativemedicine.html).** Research shows that yoga may help with pain and weakness. Some people may find [acupuncture](https://medlineplus.gov/acupuncture.html) and [chiropractic](https://medlineplus.gov/chiropractic.html) care helpful, but research hasn't shown that these therapies can improve carpal tunnel syndrome. If you want to try other therapies, talk with your provider first.
-- **[Surgery](https://medlineplus.gov/surgery.html) to make more space in the carpal tunnel.** Surgery may be an option if your symptoms are severe and other treatments don't work. It involves cutting the wrist ligament to take pressure off the nerve. Recovery may take months. Carpal tunnel syndrome rarely comes back after surgery, but mild symptoms may last.
+ - Over-the-counter **[pain relievers](Pain%20Relievers.md)**, such as aspirin, ibuprofen, and naproxen sodium.
+ - **Prescription** [steroids](Steroids.md), either pills or an injection (shot) into your wrist.
+- **Other therapies (complementary and integrative medicine).** Research shows that yoga may help with pain and weakness. Some people may find [acupuncture](Acupuncture.md) and [chiropractic](Chiropractic.md) care helpful, but research hasn't shown that these therapies can improve carpal tunnel syndrome. If you want to try other therapies, talk with your provider first.
+- **[Surgery](Surgery.md) to make more space in the carpal tunnel.** Surgery may be an option if your symptoms are severe and other treatments don't work. It involves cutting the wrist ligament to take pressure off the nerve. Recovery may take months. Carpal tunnel syndrome rarely comes back after surgery, but mild symptoms may last.
 
 #### Can carpal tunnel syndrome be prevented?
 
 You may help prevent carpal tunnel syndrome if you protect your wrists:
 
-- Use [good posture](https://medlineplus.gov/guidetogoodposture.html) to keep your wrists in a natural position.
+- Use [good posture](Guide%20to%20Good%20Posture.md) to keep your wrists in a natural position.
 - Keep your hands warm to keep your muscles flexible. Fingerless gloves may help.
 - Take work breaks and vary your tasks.
 - Stretch and exercise your hands and wrists.
-- [Organize your workspace and tools to reduce strain](https://medlineplus.gov/ergonomics.html) on your hands and wrists.
+- [Organize your workspace and tools to reduce strain](Ergonomics.md) on your hands and wrists.
 
 ## Related topics
 
-- Hand Injuries and Disorders
-- Wrist Injuries and Disorders
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Wrist Injuries and Disorders](Wrist%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/carpaltunnelsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/carpaltunnelsyndrome.html). General information, not medical advice.*

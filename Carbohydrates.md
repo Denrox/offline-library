@@ -4,9 +4,9 @@
 
 #### What are carbohydrates?
 
-Carbohydrates, or carbs, are sugar molecules. Along with [proteins](https://medlineplus.gov/dietaryproteins.html) and [fats](https://medlineplus.gov/dietaryfats.html), carbohydrates are one of three main nutrients found in foods and drinks.
+Carbohydrates, or carbs, are sugar molecules. Along with [proteins](Dietary%20Proteins.md) and [fats](Dietary%20Fats.md), carbohydrates are one of three main nutrients found in foods and drinks.
 
-Your body breaks down carbohydrates into glucose. Glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), is the main source of energy for your body's cells, tissues, and organs. Glucose can be used immediately or stored in the liver and muscles for later use.
+Your body breaks down carbohydrates into glucose. Glucose, or [blood sugar](Blood%20Glucose.md), is the main source of energy for your body's cells, tissues, and organs. Glucose can be used immediately or stored in the liver and muscles for later use.
 
 #### What are the different types of carbohydrates?
 
@@ -14,7 +14,7 @@ There are three main types of carbohydrates:
 
 - **Sugars.** They are also called simple carbohydrates because they are in the most basic form. They can be added to foods, such as the sugar in candy, desserts, processed foods, and regular soda. They also include the kinds of sugar that are found naturally in fruits, vegetables, and milk.
 - **Starches.** They are complex carbohydrates, which are made of lots of simple sugars strung together. Your body needs to break starches down into sugars to use them for energy. Starches include bread, cereal, and pasta. They also include certain vegetables, like potatoes, peas, and corn.
-- **[Fiber](https://medlineplus.gov/dietaryfiber.html).** It is also a complex carbohydrate. Your body cannot break down most fibers, so eating foods with fiber can help you feel full and make you less likely to overeat. Diets high in fiber have other health benefits. They may help prevent stomach or intestinal problems, such as [constipation](https://medlineplus.gov/constipation.html). They may also help lower [cholesterol](https://medlineplus.gov/cholesterol.html) and blood sugar. Fiber is found in many foods that come from plants, including fruits, vegetables, nuts, seeds, beans, and whole grains.
+- **[Fiber](Dietary%20Fiber.md).** It is also a complex carbohydrate. Your body cannot break down most fibers, so eating foods with fiber can help you feel full and make you less likely to overeat. Diets high in fiber have other health benefits. They may help prevent stomach or intestinal problems, such as [constipation](Constipation.md). They may also help lower [cholesterol](Cholesterol.md) and blood sugar. Fiber is found in many foods that come from plants, including fruits, vegetables, nuts, seeds, beans, and whole grains.
 
 #### Which foods have carbohydrates?
 
@@ -36,9 +36,9 @@ You do need to eat some carbohydrates to give your body energy. But it's importa
 
 - When eating grains, choose mostly whole grains and not refined grains:
 
- - Whole grains are foods like whole-wheat bread, brown rice, whole cornmeal, and oatmeal. They offer lots of nutrients that your body needs, like [vitamins](https://medlineplus.gov/vitamins.html), [minerals](https://medlineplus.gov/minerals.html), and fiber. To figure out whether a product has a lot of whole grain, check the ingredients list on the package and see if a whole grain is one of the first few items listed.
+ - Whole grains are foods like whole-wheat bread, brown rice, whole cornmeal, and oatmeal. They offer lots of nutrients that your body needs, like [vitamins](Vitamins.md), [minerals](Minerals.md), and fiber. To figure out whether a product has a lot of whole grain, check the ingredients list on the package and see if a whole grain is one of the first few items listed.
  - Refined grains are foods that have had some parts of the grains removed. This also removes some of the nutrients that are good for your health.
-- Eat foods with lots of fiber. The [Nutrition Facts labels](https://medlineplus.gov/foodlabeling.html) on the back of food packages tells you how much fiber a product has.
+- Eat foods with lots of fiber. The [Nutrition Facts labels](Food%20Labeling.md) on the back of food packages tells you how much fiber a product has.
 - Try to avoid foods that have a lot of added sugar. These foods can have many calories but not much nutrition. Eating too much added sugar raises your blood sugar and can make you gain weight. You can tell if a food or drink has added sugars by looking at the Nutrition Facts label on the back of the food package. It tells you how much total sugar and added sugar is in that food or drink.
 
 #### How many carbohydrates should I eat?
@@ -51,12 +51,12 @@ Some people go on a low-carb diet to try to lose weight. This usually means eati
 
 ## Related topics
 
-- Carbohydrate Metabolism Disorders
-- Diabetic Diet
-- Dietary Fiber
-- Dietary Proteins
-- Nutrition
+- [Carbohydrate Metabolism Disorders](Carbohydrate%20Metabolism%20Disorders.md)
+- [Diabetic Diet](Diabetic%20Diet.md)
+- [Dietary Fiber](Dietary%20Fiber.md)
+- [Dietary Proteins](Dietary%20Proteins.md)
+- [Nutrition](Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/carbohydrates.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/carbohydrates.html). General information, not medical advice.*

@@ -8,14 +8,14 @@ There are three forms of plague:
 
 - Bubonic plague causes the tonsils, adenoids, spleen, and thymus to become inflamed. Symptoms include fever, aches, chills, and tender lymph glands.
 - In septicemic plague, bacteria multiply in the blood. It causes fever, chills, shock, and bleeding under the skin or other organs.
-- Pneumonic plague is the most serious form. Bacteria enter the lungs and cause pneumonia. People with the infection can spread this form to others. This type could be a [bioterror](https://medlineplus.gov/biodefenseandbioterrorism.html) agent.
+- Pneumonic plague is the most serious form. Bacteria enter the lungs and cause pneumonia. People with the infection can spread this form to others. This type could be a [bioterror](Biodefense%20and%20Bioterrorism.md) agent.
 
 Lab tests can diagnose plague. Treatment is a strong antibiotic. There is no vaccine.
 
 ## Related topics
 
-- Biodefense and Bioterrorism
+- [Biodefense and Bioterrorism](Biodefense%20and%20Bioterrorism.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/plague.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/plague.html). General information, not medical advice.*

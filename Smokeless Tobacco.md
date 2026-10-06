@@ -2,7 +2,7 @@
 
 *Also called: Chewing tobacco, Dip, Oral tobacco, Snuff, Spit tobacco*
 
-Many people who chew tobacco or dip snuff think it's safer than [smoking](https://medlineplus.gov/smoking.html). But you don't have to smoke tobacco for it to be dangerous. Chewing or dipping carries risks like:
+Many people who chew tobacco or dip snuff think it's safer than [smoking](Smoking.md). But you don't have to smoke tobacco for it to be dangerous. Chewing or dipping carries risks like:
 
 - Cancer of the mouth
 - Decay of exposed tooth roots
@@ -17,10 +17,10 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ## Related topics
 
-- Oral Cancer
-- Quitting Smoking
-- Smoking
+- [Oral Cancer](Oral%20Cancer.md)
+- [Quitting Smoking](Quitting%20Smoking.md)
+- [Smoking](Smoking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/smokelesstobacco.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/smokelesstobacco.html). General information, not medical advice.*

@@ -10,11 +10,11 @@ During these checkups, the provider will give your baby a complete physical exam
 - Testing their hearing and vision (for some visits)
 - Checking their reflexes
 
-The provider will ask you about your [baby's development](https://medlineplus.gov/infantandnewborndevelopment.html). For example, they may ask when the baby started smiling and rolling over. During certain visits, the provider will do [developmental and behavioral screening tests](https://medlineplus.gov/lab-tests/developmental-and-behavioral-screening-tests/).
+The provider will ask you about your [baby's development](Infant%20and%20Newborn%20Development.md). For example, they may ask when the baby started smiling and rolling over. During certain visits, the provider will do developmental and behavioral screening tests.
 
 The provider will use all of this information from the visit to check if your baby is meeting important developmental milestones.
 
-Your baby will also get any needed [vaccines](https://medlineplus.gov/childhoodvaccines.html) and [screenings](https://medlineplus.gov/healthscreening.html) during the exam. And you can ask the provider any questions you might have about how to [care for your baby](https://medlineplus.gov/infantandnewborncare.html).
+Your baby will also get any needed [vaccines](Childhood%20Vaccines.md) and [screenings](Health%20Screening.md) during the exam. And you can ask the provider any questions you might have about how to [care for your baby](Infant%20and%20Newborn%20Care.md).
 
 You can prepare for your baby's checkups by:
 
@@ -26,12 +26,12 @@ In addition to these checkups, you can contact the provider any time if your bab
 
 ## Related topics
 
-- Childhood Vaccines
-- Common Infant and Newborn Problems
-- Infant and Newborn Care
-- Newborn Screening
-- Uncommon Infant and Newborn Problems
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [Common Infant and Newborn Problems](Common%20Infant%20and%20Newborn%20Problems.md)
+- [Infant and Newborn Care](Infant%20and%20Newborn%20Care.md)
+- [Newborn Screening](Newborn%20Screening.md)
+- [Uncommon Infant and Newborn Problems](Uncommon%20Infant%20and%20Newborn%20Problems.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/babyhealthcheckup.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/babyhealthcheckup.html). General information, not medical advice.*

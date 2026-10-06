@@ -2,7 +2,7 @@
 
 *Also called: Seborrhea, Seborrheic Dermatitis*
 
-Your scalp is the skin on the top of your head. Unless you have [hair loss](https://medlineplus.gov/hairloss.html), hair grows on your scalp. Different [skin problems](https://medlineplus.gov/skinconditions.html) can affect your scalp.
+Your scalp is the skin on the top of your head. Unless you have [hair loss](Hair%20Loss.md), hair grows on your scalp. Different [skin problems](Skin%20Conditions.md) can affect your scalp.
 
 Dandruff is a flaking of the skin. The flakes are yellow or white. Dandruff may make your scalp feel itchy. It usually starts after puberty, and is more common in men. Dandruff is usually a symptom of seborrheic dermatitis, or seborrhea. It is a skin condition that can also cause redness and irritation of the skin.
 
@@ -12,17 +12,17 @@ There is a type of seborrheic dermatitis that babies can get. It is called cradl
 
 Other problems that can affect the scalp include:
 
-- Scalp [ringworm](https://medlineplus.gov/tineainfections.html), a fungal infection that causes itchy, red patches on your head. It can also leave bald spots. It usually affects children.
-- Scalp [psoriasis](https://medlineplus.gov/psoriasis.html), which causes itchy or sore patches of thick, red skin with silvery scales. About half of the people with psoriasis have it on their scalp.
+- Scalp [ringworm](Tinea%20Infections.md), a fungal infection that causes itchy, red patches on your head. It can also leave bald spots. It usually affects children.
+- Scalp [psoriasis](Psoriasis.md), which causes itchy or sore patches of thick, red skin with silvery scales. About half of the people with psoriasis have it on their scalp.
 
 ## Related topics
 
-- Common Infant and Newborn Problems
-- Head Lice
-- Psoriasis
-- Skin Conditions
-- Tinea Infections
+- [Common Infant and Newborn Problems](Common%20Infant%20and%20Newborn%20Problems.md)
+- [Head Lice](Head%20Lice.md)
+- [Psoriasis](Psoriasis.md)
+- [Skin Conditions](Skin%20Conditions.md)
+- [Tinea Infections](Tinea%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dandruffcradlecapandotherscalpconditions.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dandruffcradlecapandotherscalpconditions.html). General information, not medical advice.*

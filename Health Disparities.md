@@ -25,11 +25,11 @@ NIH: National Institute on Minority Health and Health Disparities
 
 ## Related topics
 
-- Men's Health
-- Older Adult Health
-- Rural Health Concerns
-- Women's Health
+- [Men's Health](Men%27s%20Health.md)
+- [Older Adult Health](Older%20Adult%20Health.md)
+- [Rural Health Concerns](Rural%20Health%20Concerns.md)
+- [Women's Health](Women%27s%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthdisparities.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthdisparities.html). General information, not medical advice.*

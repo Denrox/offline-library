@@ -1,14 +1,14 @@
 # Salmonella Infections
 
-Salmonella is the name of a group of bacteria. In the United States, it is a common cause of [foodborne illness](https://medlineplus.gov/foodborneillness.html). Salmonella occurs in raw poultry, eggs, beef, and sometimes on unwashed fruit and vegetables. You also can get infected after handling pets, especially reptiles like snakes, turtles, and lizards.
+Salmonella is the name of a group of bacteria. In the United States, it is a common cause of [foodborne illness](Foodborne%20Illness.md). Salmonella occurs in raw poultry, eggs, beef, and sometimes on unwashed fruit and vegetables. You also can get infected after handling pets, especially reptiles like snakes, turtles, and lizards.
 
 Symptoms include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Fever](Fever.md)
+- [Diarrhea](Diarrhea.md)
 - Abdominal cramps
-- [Headache](https://medlineplus.gov/headache.html)
-- Possible [nausea, vomiting](https://medlineplus.gov/nauseaandvomiting.html), and loss of appetite
+- [Headache](Headache.md)
+- Possible [nausea, vomiting](Nausea%20and%20Vomiting.md), and loss of appetite
 
 Symptoms usually last 4-7 days. Your health care provider diagnoses the infection with a stool test. Most people get better without treatment. Infection can be more serious in older adults, infants, and people with chronic health problems. If Salmonella gets into the bloodstream, it can be serious. The usual treatment is antibiotics.
 
@@ -18,8 +18,8 @@ NIH: National Institute of Allergy and Infectious Diseases
 
 ## Related topics
 
-- Foodborne Illness
+- [Foodborne Illness](Foodborne%20Illness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/salmonellainfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/salmonellainfections.html). General information, not medical advice.*

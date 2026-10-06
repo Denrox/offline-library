@@ -2,7 +2,7 @@
 
 *Also called: Arnold-Chiari Malformation*
 
-Chiari malformations (CMs) are structural defects in the cerebellum. The cerebellum is the part of the brain that controls balance. With CM, brain tissue extends into the spinal canal. It can happen when part of the skull is too small, which pushes the brain tissue down. There are several types of CM. One type often happens in children who have [neural tube defects](https://medlineplus.gov/neuraltubedefects.html). Some types cause no symptoms and don't need treatment. If you have symptoms, they may include:
+Chiari malformations (CMs) are structural defects in the cerebellum. The cerebellum is the part of the brain that controls balance. With CM, brain tissue extends into the spinal canal. It can happen when part of the skull is too small, which pushes the brain tissue down. There are several types of CM. One type often happens in children who have [neural tube defects](Neural%20Tube%20Defects.md). Some types cause no symptoms and don't need treatment. If you have symptoms, they may include:
 
 - Neck pain
 - Balance problems
@@ -18,4 +18,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/chiarimalformation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/chiarimalformation.html). General information, not medical advice.*

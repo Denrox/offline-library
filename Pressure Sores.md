@@ -14,4 +14,4 @@ Pressure sores have a variety of treatments. Advanced sores are slow to heal, so
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pressuresores.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pressuresores.html). General information, not medical advice.*

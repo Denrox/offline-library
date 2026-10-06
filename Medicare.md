@@ -11,9 +11,9 @@ Medicare helps with the cost of health care. It does not cover all medical expen
 
 ## Related topics
 
-- Financial Assistance
-- Health Insurance
+- [Financial Assistance](Financial%20Assistance.md)
+- [Health Insurance](Health%20Insurance.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/medicare.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/medicare.html). General information, not medical advice.*

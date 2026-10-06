@@ -8,28 +8,28 @@ Some genetic brain disorders are due to random gene mutations or mutations cause
 
 Some examples of genetic brain disorders include:
 
-- [Leukodystrophies](https://medlineplus.gov/leukodystrophies.html)
-- [Phenylketonuria](https://medlineplus.gov/phenylketonuria.html)
-- [Tay-Sachs disease](https://medlineplus.gov/taysachsdisease.html)
-- [Wilson disease](https://medlineplus.gov/wilsondisease.html)
+- [Leukodystrophies](Leukodystrophies.md)
+- [Phenylketonuria](Phenylketonuria.md)
+- [Tay-Sachs disease](Tay-Sachs%20Disease.md)
+- [Wilson disease](Wilson%20Disease.md)
 
 Many people with genetic brain disorders fail to produce enough of certain proteins that influence brain development and function. These brain disorders can cause serious problems that affect the nervous system. Some have treatments to control symptoms. Some are life-threatening.
 
 ## Related topics
 
-- Amino Acid Metabolism Disorders
-- Carbohydrate Metabolism Disorders
-- Cerebellar Disorders
-- Genetic Disorders
-- Genetic Testing
-- Leukodystrophies
-- Lipid Metabolism Disorders
-- Metabolic Disorders
-- Mitochondrial Diseases
-- Phenylketonuria
-- Tay-Sachs Disease
-- Wilson Disease
+- [Amino Acid Metabolism Disorders](Amino%20Acid%20Metabolism%20Disorders.md)
+- [Carbohydrate Metabolism Disorders](Carbohydrate%20Metabolism%20Disorders.md)
+- [Cerebellar Disorders](Cerebellar%20Disorders.md)
+- [Genetic Disorders](Genetic%20Disorders.md)
+- [Genetic Testing](Genetic%20Testing.md)
+- [Leukodystrophies](Leukodystrophies.md)
+- [Lipid Metabolism Disorders](Lipid%20Metabolism%20Disorders.md)
+- [Metabolic Disorders](Metabolic%20Disorders.md)
+- [Mitochondrial Diseases](Mitochondrial%20Diseases.md)
+- [Phenylketonuria](Phenylketonuria.md)
+- [Tay-Sachs Disease](Tay-Sachs%20Disease.md)
+- [Wilson Disease](Wilson%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/geneticbraindisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/geneticbraindisorders.html). General information, not medical advice.*

@@ -2,26 +2,26 @@
 
 #### What are colonoscopy and flexible sigmoidoscopy?
 
-Colonoscopy and flexible sigmoidoscopy are procedures that let your doctor look inside your rectum and colon (large intestine). They use instruments called scopes. Scopes have a light and a tiny camera attached to a long, thin tube. These procedures let your doctor see problems such as inflamed tissue, ulcers, [polyps](https://medlineplus.gov/colonicpolyps.html), and [cancer](https://medlineplus.gov/colorectalcancer.html).
+Colonoscopy and flexible sigmoidoscopy are procedures that let your doctor look inside your rectum and colon (large intestine). They use instruments called scopes. Scopes have a light and a tiny camera attached to a long, thin tube. These procedures let your doctor see problems such as inflamed tissue, ulcers, [polyps](Colonic%20Polyps.md), and [cancer](Colorectal%20Cancer.md).
 
 Colonoscopy checks your entire colon and rectum. Flexible sigmoidoscopy checks the rectum and the lower colon (sigmoid colon) only.
 
 #### What is a virtual colonoscopy?
 
-A virtual colonoscopy also looks inside your rectum and part of your colon. But it does not use a scope. Instead, it is an [x-ray](https://medlineplus.gov/xrays.html) test. Another name for this test is CT colonography.
+A virtual colonoscopy also looks inside your rectum and part of your colon. But it does not use a scope. Instead, it is an [x-ray](X-Rays.md) test. Another name for this test is CT colonography.
 
 #### Who needs a colonoscopy, virtual colonoscopy, or flexible sigmoidoscopy?
 
 You may need a colonoscopy, virtual colonoscopy, or flexible sigmoidoscopy to find the cause of unexplained symptoms such as:
 
-- [Bleeding](https://medlineplus.gov/gastrointestinalbleeding.html) from your anus (the opening of the rectum through which stool passes out of your body)
-- Changes in your bowel activity, such as [diarrhea](https://medlineplus.gov/diarrhea.html)
-- [Pain in your abdomen](https://medlineplus.gov/abdominalpain.html) (belly)
+- [Bleeding](Gastrointestinal%20Bleeding.md) from your anus (the opening of the rectum through which stool passes out of your body)
+- Changes in your bowel activity, such as [diarrhea](Diarrhea.md)
+- [Pain in your abdomen](Abdominal%20Pain.md) (belly)
 - Unexplained weight loss
 
-Doctors also use these procedures to screen for colon polyps and cancer. [Screening](https://medlineplus.gov/healthscreening.html) is testing for diseases when you have no symptoms. It may find diseases at an early stage, when they are easier to treat. If aren't at higher risk for colorectal cancer, your health care provider will likely recommend you start getting screenings at age 45. If you are at higher risk, you may need to start getting screened for colorectal cancer earlier.
+Doctors also use these procedures to screen for colon polyps and cancer. [Screening](Health%20Screening.md) is testing for diseases when you have no symptoms. It may find diseases at an early stage, when they are easier to treat. If aren't at higher risk for colorectal cancer, your health care provider will likely recommend you start getting screenings at age 45. If you are at higher risk, you may need to start getting screened for colorectal cancer earlier.
 
-There are also other[tests to screen for colorectal cancer](https://medlineplus.gov/lab-tests/colorectal-cancer-screening-tests/), including stool tests. Talk with your provider about which test is right for you and when and how often you should get it.
+There are also othertests to screen for colorectal cancer, including stool tests. Talk with your provider about which test is right for you and when and how often you should get it.
 
 #### How do you prepare for a colonoscopy, virtual colonoscopy, or flexible sigmoidoscopy?
 
@@ -44,7 +44,7 @@ For a virtual colonoscopy, you will also need to drink a contrast medium the nig
 - You'll lie on a table while the doctor inserts a colonoscope through your anus and into your rectum and colon. The scope inflates your large intestine with air for a better view. The camera sends a video image to a monitor so your doctor can see your colon.
 - Once the scope reaches the opening to your small intestine, the doctor will slowly remove the scope. While doing so, your doctor will examine your colon again.
 - If you have polyps, your doctor may remove them and send them to a lab for testing. Most polyps aren't cancer, but removing them can prevent them from becoming cancer later on.
-- If you have abnormal tissue, your doctor may do a [biopsy](https://medlineplus.gov/biopsy.html).
+- If you have abnormal tissue, your doctor may do a [biopsy](Biopsy.md).
 - The sedative or anesthesia takes time to wear off completely. You'll stay at the hospital or outpatient center for 1 to 2 hours after the procedure. Then you will need someone to drive you home.
 
 **For a virtual colonoscopy:**
@@ -75,10 +75,10 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Colonic Diseases
-- Colonic Polyps
-- Colorectal Cancer
+- [Colonic Diseases](Colonic%20Diseases.md)
+- [Colonic Polyps](Colonic%20Polyps.md)
+- [Colorectal Cancer](Colorectal%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/colonoscopy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/colonoscopy.html). General information, not medical advice.*

@@ -2,11 +2,11 @@
 
 #### What is cholesterol?
 
-[Cholesterol](https://medlineplus.gov/cholesterol.html) is a waxy, fat-like substance that's found in all the cells in your body. Your body needs some cholesterol to work properly. But if you have too much of it in your blood, it can stick to the walls of your arteries and narrow or even block them. This puts you at risk for [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html) and other [heart diseases](https://medlineplus.gov/heartdiseases.html).
+[Cholesterol](Cholesterol.md) is a waxy, fat-like substance that's found in all the cells in your body. Your body needs some cholesterol to work properly. But if you have too much of it in your blood, it can stick to the walls of your arteries and narrow or even block them. This puts you at risk for [coronary artery disease](Coronary%20Artery%20Disease.md) and other [heart diseases](Heart%20Diseases.md).
 
-Cholesterol is made by your liver. It travels through the blood on proteins called lipoproteins. One type of lipoprotein, [LDL](https://medlineplus.gov/ldlthebadcholesterol.html), is sometimes called the "bad" cholesterol. A high LDL level leads to a buildup of cholesterol in your arteries. Another type, [HDL](https://medlineplus.gov/hdlthegoodcholesterol.html), is sometimes called the "good" cholesterol. It carries cholesterol from other parts of your body back to your liver. Then your liver removes the cholesterol from your body.
+Cholesterol is made by your liver. It travels through the blood on proteins called lipoproteins. One type of lipoprotein, [LDL](LDL%20The%20Bad%20Cholesterol.md), is sometimes called the "bad" cholesterol. A high LDL level leads to a buildup of cholesterol in your arteries. Another type, [HDL](HDL%20The%20Good%20Cholesterol.md), is sometimes called the "good" cholesterol. It carries cholesterol from other parts of your body back to your liver. Then your liver removes the cholesterol from your body.
 
-There are steps that you can take to lower your LDL (bad) cholesterol and raise your HDL (good) cholesterol. By keeping your cholesterol levels [in range](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html), you can lower your [risk of heart diseases](https://medlineplus.gov/howtopreventheartdisease.html).
+There are steps that you can take to lower your LDL (bad) cholesterol and raise your HDL (good) cholesterol. By keeping your cholesterol levels [in range](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md), you can lower your [risk of heart diseases](How%20to%20Prevent%20Heart%20Disease.md).
 
 #### What are the main treatments for high cholesterol?
 
@@ -16,16 +16,16 @@ The main treatments for high cholesterol are lifestyle changes and medicines.
 
 Heart-healthy lifestyle changes that can help you lower or control your cholesterol include:
 
-- **Heart-healthy eating.** A heart-healthy eating plan limits the amount of saturated and trans [fats](https://medlineplus.gov/dietaryfats.html) that you eat. It recommends that you eat and drink only enough calories to stay at a healthy weight and avoid weight gain. It also encourages you to choose a variety of nutritious foods, including fruits, vegetables, whole grains, and lean meats. Examples of eating plans that can lower your cholesterol include the [Therapeutic Lifestyle Changes diet](https://medlineplus.gov/howtolowercholesterolwithdiet.html) and the [DASH eating plan](https://medlineplus.gov/dasheatingplan.html).
-- **[Aiming for a healthy weight](https://medlineplus.gov/weightcontrol.html).** If you are overweight or have [obesity](https://medlineplus.gov/obesity.html), losing weight can help lower your LDL cholesterol and raise your HDL cholesterol. This is especially important for people with [metabolic syndrome](https://medlineplus.gov/metabolicsyndrome.html). Metabolic syndrome is a group of conditions that together raise your risk of heart diseases and other health problems.
-- **[Getting regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html).** Studies have shown that physical activity can lower LDL cholesterol and triglycerides and raise your HDL cholesterol. Before you start an exercise program, ask your health care provider what level of physical activity is right for you.
-- **Managing [stress](https://medlineplus.gov/stress.html).** Research has shown that chronic stress can sometimes raise your LDL cholesterol and lower your HDL cholesterol.
-- **[Quitting smoking](https://medlineplus.gov/quittingsmoking.html).** Quitting smoking can raise your HDL cholesterol. Since HDL helps to remove LDL cholesterol from your arteries, having more HDL can help to lower your LDL cholesterol.
-- **[Getting enough good-quality sleep](https://medlineplus.gov/healthysleep.html).** Getting 7 to 9 hours of sleep every night lowers your risk of high LDL cholesterol and total cholesterol levels.
+- **Heart-healthy eating.** A heart-healthy eating plan limits the amount of saturated and trans [fats](Dietary%20Fats.md) that you eat. It recommends that you eat and drink only enough calories to stay at a healthy weight and avoid weight gain. It also encourages you to choose a variety of nutritious foods, including fruits, vegetables, whole grains, and lean meats. Examples of eating plans that can lower your cholesterol include the [Therapeutic Lifestyle Changes diet](How%20to%20Lower%20Cholesterol%20with%20Diet.md) and the [DASH eating plan](DASH%20Eating%20Plan.md).
+- **[Aiming for a healthy weight](Weight%20Control.md).** If you are overweight or have [obesity](Obesity.md), losing weight can help lower your LDL cholesterol and raise your HDL cholesterol. This is especially important for people with [metabolic syndrome](Metabolic%20Syndrome.md). Metabolic syndrome is a group of conditions that together raise your risk of heart diseases and other health problems.
+- **[Getting regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md).** Studies have shown that physical activity can lower LDL cholesterol and triglycerides and raise your HDL cholesterol. Before you start an exercise program, ask your health care provider what level of physical activity is right for you.
+- **Managing [stress](Stress.md).** Research has shown that chronic stress can sometimes raise your LDL cholesterol and lower your HDL cholesterol.
+- **[Quitting smoking](Quitting%20Smoking.md).** Quitting smoking can raise your HDL cholesterol. Since HDL helps to remove LDL cholesterol from your arteries, having more HDL can help to lower your LDL cholesterol.
+- **[Getting enough good-quality sleep](Healthy%20Sleep.md).** Getting 7 to 9 hours of sleep every night lowers your risk of high LDL cholesterol and total cholesterol levels.
 
 ##### Medicines to lower cholesterol
 
-For some people, making lifestyle changes alone does not their lower cholesterol enough. They may also need to take [cholesterol medicines](https://medlineplus.gov/cholesterolmedicines.html). There are several types. They work in different ways and can have different [side effects](https://medlineplus.gov/drugreactions.html). If your provider recommends that you take cholesterol medicines, ask them which medicine would be right for you.
+For some people, making lifestyle changes alone does not their lower cholesterol enough. They may also need to take [cholesterol medicines](Cholesterol%20Medicines.md). There are several types. They work in different ways and can have different [side effects](Drug%20Reactions.md). If your provider recommends that you take cholesterol medicines, ask them which medicine would be right for you.
 
 Even if you take medicines to lower your cholesterol, you still need to continue with lifestyle changes.
 
@@ -35,7 +35,7 @@ Some other possible treatments for high cholesterol may include:
 
 ##### Lipoprotein apheresis to lower cholesterol
 
-[Familial hypercholesterolemia](https://medlineplus.gov/genetics/condition/familial-hypercholesterolemia/) (FH) is an inherited condition that causes very high levels of cholesterol in the blood. Some people who have FH may get a treatment called lipoprotein apheresis. This treatment uses a filtering machine to remove LDL cholesterol from your blood. Then the machine returns the rest of your blood back to your body.
+Familial hypercholesterolemia (FH) is an inherited condition that causes very high levels of cholesterol in the blood. Some people who have FH may get a treatment called lipoprotein apheresis. This treatment uses a filtering machine to remove LDL cholesterol from your blood. Then the machine returns the rest of your blood back to your body.
 
 ##### Supplements to lower cholesterol
 
@@ -50,17 +50,17 @@ Supplements may cause side effects and interactions with medicines. Always check
 
 ## Related topics
 
-- Benefits of Exercise
-- Cholesterol
-- Cholesterol Levels: What You Need to Know
-- Cholesterol Medicines
-- Heart Diseases
-- High Cholesterol in Children and Teens
-- How to Lower Cholesterol with Diet
-- Quitting Smoking
-- Statins
-- Weight Control
+- [Benefits of Exercise](Benefits%20of%20Exercise.md)
+- [Cholesterol](Cholesterol.md)
+- [Cholesterol Levels: What You Need to Know](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md)
+- [Cholesterol Medicines](Cholesterol%20Medicines.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [High Cholesterol in Children and Teens](High%20Cholesterol%20in%20Children%20and%20Teens.md)
+- [How to Lower Cholesterol with Diet](How%20to%20Lower%20Cholesterol%20with%20Diet.md)
+- [Quitting Smoking](Quitting%20Smoking.md)
+- [Statins](Statins.md)
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/howtolowercholesterol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/howtolowercholesterol.html). General information, not medical advice.*

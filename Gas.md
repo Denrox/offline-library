@@ -10,7 +10,7 @@ You can reduce the amount of gas you have by:
 
 - Drinking lots of water and non-fizzy drinks
 - Eating more slowly so you swallow less air when you eat
-- Avoiding milk products if you have [lactose intolerance](https://medlineplus.gov/lactoseintolerance.html)
+- Avoiding milk products if you have [lactose intolerance](Lactose%20Intolerance.md)
 
 Medicines can help reduce gas or the pain and bloating caused by gas. If your symptoms still bother you, see your health care provider.
 
@@ -18,10 +18,10 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Abdominal Pain
-- Digestive Diseases
-- Stomach Disorders
+- [Abdominal Pain](Abdominal%20Pain.md)
+- [Digestive Diseases](Digestive%20Diseases.md)
+- [Stomach Disorders](Stomach%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/gas.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/gas.html). General information, not medical advice.*

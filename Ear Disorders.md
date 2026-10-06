@@ -8,24 +8,24 @@ Your ear has three main parts, and each one plays a different role in helping yo
 
 - **Outer ear.** The part you see and the ear canal. It catches sound and sends them to your eardrum.
 - **Middle ear.** When sound reaches your eardrum, it vibrates. These vibrations move through three small bones, called ossicles, that carry them further into your ear.
-- **Inner ear.** Changes vibrations into nerve signals your brain understands as sound. It also helps you keep your [balance](https://medlineplus.gov/balanceproblems.html).
+- **Inner ear.** Changes vibrations into nerve signals your brain understands as sound. It also helps you keep your [balance](Balance%20Problems.md).
 
 Many conditions may affect your hearing or balance:
 
-- [Ear infections](https://medlineplus.gov/earinfections.html), the most common illness in infants and young children
-- [Tinnitus](https://medlineplus.gov/tinnitus.html), a ringing or roaring in your ears
-- [Meniere's disease](https://medlineplus.gov/menieresdisease.html), which may be caused by fluid problems in your inner ear
-- Ear [barotrauma](https://medlineplus.gov/barotrauma.html), an ear injury from sudden air or water pressure changes
+- [Ear infections](Ear%20Infections.md), the most common illness in infants and young children
+- [Tinnitus](Tinnitus.md), a ringing or roaring in your ears
+- [Meniere's disease](Meniere%27s%20Disease.md), which may be caused by fluid problems in your inner ear
+- Ear [barotrauma](Barotrauma.md), an ear injury from sudden air or water pressure changes
 
-Some of these conditions can also lead to [hearing disorders and deafness](https://medlineplus.gov/hearingdisordersanddeafness.html).
+Some of these conditions can also lead to [hearing disorders and deafness](Hearing%20Disorders%20and%20Deafness.md).
 
 #### What causes ear disorders?
 
 Ear disorders may be caused by:
 
-- **Abnormal ear shapes you're born with,** like microtia and anotia, which usually have no known cause. Sometimes they're linked to genes or certain [medicines taken during pregnancy](https://medlineplus.gov/pregnancyandmedicines.html).
+- **Abnormal ear shapes you're born with,** like microtia and anotia, which usually have no known cause. Sometimes they're linked to genes or certain [medicines taken during pregnancy](Pregnancy%20and%20Medicines.md).
 - **Injury** from hits, cuts, or bites can damage the ear.
-- **Growths** that form after an injury, [piercing](https://medlineplus.gov/piercingandtattoos.html), repeated cold water exposure, or years in [the sun](https://medlineplus.gov/sunexposure.html).
+- **Growths** that form after an injury, [piercing](Piercing%20and%20Tattoos.md), repeated cold water exposure, or years in [the sun](Sun%20Exposure.md).
 - **Infections,** like perichondritis, which often start from a cut or piercing.
 - **Bone growth** in the middle ear, called otosclerosis, which can run in families.
 
@@ -47,32 +47,32 @@ To find out if you have an ear disorder, your health care provider may:
 - Do a physical exam
 - Look inside your ear with a lighted tool called an otoscope
 - Order [imaging tests] to see bones or tissue more clearly
-- Test your [hearing](https://medlineplus.gov/lab-tests/hearing-tests-for-adults/)
-- Order a [biopsy](https://medlineplus.gov/biopsy.html), to check if a growth is [cancer](https://medlineplus.gov/cancer.html)
+- Test your hearing
+- Order a [biopsy](Biopsy.md), to check if a growth is [cancer](Cancer.md)
 
 Sometimes, your provider may refer you to a doctor who specializes in care of the ear, nose, and throat.
 
 #### How are ear disorders treated?
 
-Treatment for an ear disorder depends on the cause. Some may be treated with medicine. Others may need surgery to change the shape of the ear or remove a growth. If the disorder affects your hearing, you may need a [hearing aid](https://medlineplus.gov/hearingaids.html).
+Treatment for an ear disorder depends on the cause. Some may be treated with medicine. Others may need surgery to change the shape of the ear or remove a growth. If the disorder affects your hearing, you may need a [hearing aid](Hearing%20Aids.md).
 
 #### Can ear disorders be prevented?
 
 Most ear disorders that you are born with can't be prevented. But you can help to prevent some ear disorders by:
 
 - Wearing head protection during sports
-- Treating [cuts and injuries](https://medlineplus.gov/firstaid.html)
+- Treating [cuts and injuries](First%20Aid.md)
 - Caring for new piercings
 - Protecting your ears from cold water and the sun
 
 ## Related topics
 
-- Acoustic Neuroma
-- Barotrauma
-- Ear Infections
-- Hearing Disorders and Deafness
-- Meniere's Disease
+- [Acoustic Neuroma](Acoustic%20Neuroma.md)
+- [Barotrauma](Barotrauma.md)
+- [Ear Infections](Ear%20Infections.md)
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
+- [Meniere's Disease](Meniere%27s%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eardisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eardisorders.html). General information, not medical advice.*

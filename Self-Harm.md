@@ -12,9 +12,9 @@ Self-harm, or self-injury, is when a person hurts his or her own body on purpose
 - Poking objects through body openings
 - Breaking your bones or bruising yourself
 
-Self-harm is not a mental disorder. It is a behavior - an unhealthy way to cope with strong feelings. However, some of the people who harm themselves do have a [mental disorder](https://medlineplus.gov/mentaldisorders.html).
+Self-harm is not a mental disorder. It is a behavior - an unhealthy way to cope with strong feelings. However, some of the people who harm themselves do have a [mental disorder](Mental%20Disorders.md).
 
-People who harm themselves are usually not trying to [attempt suicide](https://medlineplus.gov/suicide.html). But they are at higher risk of attempting suicide if they do not get help.
+People who harm themselves are usually not trying to [attempt suicide](Suicide.md). But they are at higher risk of attempting suicide if they do not get help.
 
 #### Why do people harm themselves?
 
@@ -31,14 +31,14 @@ There are different reasons why people harm themselves. Often, they have trouble
 
 There are people of all ages who harm themselves, but it usually starts in the teen or early adult years. Self-harm is more common in people who:
 
-- Were [abused](https://medlineplus.gov/childabuse.html) or went through a trauma as children
+- Were [abused](Child%20Abuse.md) or went through a trauma as children
 - Have mental disorders, such as
 
- - [Depression](https://medlineplus.gov/depression.html)
- - [Eating disorders](https://medlineplus.gov/eatingdisorders.html)
- - [Post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html)
- - Certain [personality disorders](https://medlineplus.gov/personalitydisorders.html)
-- Misuse [drugs](https://medlineplus.gov/druguseandaddiction.html) or [alcohol](https://medlineplus.gov/alcoholusedisorderaud.html)
+ - [Depression](Depression.md)
+ - [Eating disorders](Eating%20Disorders.md)
+ - [Post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md)
+ - Certain [personality disorders](Personality%20Disorders.md)
+- Misuse [drugs](Drug%20Use%20and%20Addiction.md) or [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md)
 - Have friends who self-harm
 - Have low self-esteem
 
@@ -57,7 +57,7 @@ If someone you know is self-harming, it is important not to be judgmental. Let t
 
 #### What are the treatments are for self-harm?
 
-There are no medicines to treat self-harming behaviors. But there are medicines to treat any mental disorders that the person may have, such as [anxiety](https://medlineplus.gov/anxiety.html) and depression. Treating the mental disorder may weaken the urge to self-harm.
+There are no medicines to treat self-harming behaviors. But there are medicines to treat any mental disorders that the person may have, such as [anxiety](Anxiety.md) and depression. Treating the mental disorder may weaken the urge to self-harm.
 
 Mental health counseling or therapy can also help by teaching the person:
 
@@ -70,12 +70,12 @@ If the problem is severe, the person may need more intensive treatment in a psyc
 
 ## Related topics
 
-- Child Behavior Disorders
-- Child Mental Health
-- Mental Disorders
-- Suicide
-- Teen Mental Health
+- [Child Behavior Disorders](Child%20Behavior%20Disorders.md)
+- [Child Mental Health](Child%20Mental%20Health.md)
+- [Mental Disorders](Mental%20Disorders.md)
+- [Suicide](Suicide.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/selfharm.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/selfharm.html). General information, not medical advice.*

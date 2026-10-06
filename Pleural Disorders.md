@@ -9,16 +9,16 @@ Disorders of the pleura include:
 - Pneumothorax - buildup of air or gas in the pleural space
 - Hemothorax - buildup of blood in the pleural space
 
-Many different conditions can cause pleural problems. Viral infection is the most common cause of pleurisy. The most common cause of pleural effusion is [congestive heart failure](https://medlineplus.gov/heartfailure.html). Lung diseases, like [COPD](https://medlineplus.gov/copd.html), tuberculosis, and acute lung injury, cause pneumothorax. Injury to the chest is the most common cause of hemothorax. Treatment focuses on removing fluid, air, or blood from the pleural space, relieving symptoms, and treating the underlying condition.
+Many different conditions can cause pleural problems. Viral infection is the most common cause of pleurisy. The most common cause of pleural effusion is [congestive heart failure](Heart%20Failure.md). Lung diseases, like [COPD](COPD.md), tuberculosis, and acute lung injury, cause pneumothorax. Injury to the chest is the most common cause of hemothorax. Treatment focuses on removing fluid, air, or blood from the pleural space, relieving symptoms, and treating the underlying condition.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Breathing Problems
-- Collapsed Lung
-- Lung Diseases
+- [Breathing Problems](Breathing%20Problems.md)
+- [Collapsed Lung](Collapsed%20Lung.md)
+- [Lung Diseases](Lung%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pleuraldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pleuraldisorders.html). General information, not medical advice.*

@@ -23,9 +23,9 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Urinary Incontinence
-- Uterine Diseases
+- [Urinary Incontinence](Urinary%20Incontinence.md)
+- [Uterine Diseases](Uterine%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pelvicfloordisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pelvicfloordisorders.html). General information, not medical advice.*

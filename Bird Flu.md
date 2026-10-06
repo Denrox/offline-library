@@ -37,26 +37,26 @@ Certain people may be more likely to get bird flu, including:
 
 #### What are the symptoms of bird flu in humans?
 
-Sometimes bird flu doesn't cause any symptoms. But if you do feel sick, your symptoms can range from mild to severe. Often, the symptoms are similar to the (seasonal) [flu](https://medlineplus.gov/flu.html), such as:
+Sometimes bird flu doesn't cause any symptoms. But if you do feel sick, your symptoms can range from mild to severe. Often, the symptoms are similar to the (seasonal) [flu](Flu.md), such as:
 
-- [Fever](https://medlineplus.gov/fever.html) (but not everyone has a fever)
-- [Cough](https://medlineplus.gov/cough.html)
-- [Sore throat](https://medlineplus.gov/sorethroat.html)
+- [Fever](Fever.md) (but not everyone has a fever)
+- [Cough](Cough.md)
+- [Sore throat](Sore%20Throat.md)
 - Runny or stuffy nose
 - Muscle or body aches
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Headaches](https://medlineplus.gov/headache.html)
-- Eye redness ([conjunctivitis](https://medlineplus.gov/pinkeye.html))
-- [Trouble breathing](https://medlineplus.gov/breathingproblems.html)
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Fatigue](Fatigue.md)
+- [Headaches](Headache.md)
+- Eye redness ([conjunctivitis](Pink%20Eye.md))
+- [Trouble breathing](Breathing%20Problems.md)
+- [Diarrhea](Diarrhea.md)
 
-People with severe illness from bird flu may have [pneumonia](https://medlineplus.gov/pneumonia.html) and might need to be hospitalized.
+People with severe illness from bird flu may have [pneumonia](Pneumonia.md) and might need to be hospitalized.
 
 #### How is bird flu diagnosed?
 
-Laboratory testing is used to diagnose bird flu. It's usually done with a [nasal or throat swab](https://medlineplus.gov/lab-tests/nasal-swab/). This testing is more accurate when the swab is collected during the first few days of illness.
+Laboratory testing is used to diagnose bird flu. It's usually done with a nasal or throat swab. This testing is more accurate when the swab is collected during the first few days of illness.
 
-For people who are severely ill, health care providers may do testing of a different sample, such as fluid taken during a [bronchoalveolar lavage](https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/) or other procedure.
+For people who are severely ill, health care providers may do testing of a different sample, such as fluid taken during a bronchoalveolar lavage or other procedure.
 
 #### What are the treatments for bird flu?
 
@@ -73,15 +73,15 @@ It's important to take precautions to prevent bird flu:
 - If you have a job or pastime that puts you in contact with birds or other animals, make sure to use proper protective equipment.
 - Otherwise try to avoid direct contact with wild birds and other animals.
 - Wash your hands with soap and water after touching birds or other animals.
-- Since it's possible to get bird flu through some foods, make sure to [handle and cook your food safely](https://medlineplus.gov/foodsafety.html) and avoid raw milk.
+- Since it's possible to get bird flu through some foods, make sure to [handle and cook your food safely](Food%20Safety.md) and avoid raw milk.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Animal Diseases and Your Health
-- Flu
+- [Animal Diseases and Your Health](Animal%20Diseases%20and%20Your%20Health.md)
+- [Flu](Flu.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/birdflu.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/birdflu.html). General information, not medical advice.*

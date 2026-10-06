@@ -2,7 +2,7 @@
 
 *Also called: Renal transplantation*
 
-A kidney transplant is an operation that places a healthy kidney in your body. The transplanted kidney takes over the work of the two kidneys that [failed](https://medlineplus.gov/kidneyfailure.html), so you no longer need [dialysis](https://medlineplus.gov/dialysis.html).
+A kidney transplant is an operation that places a healthy kidney in your body. The transplanted kidney takes over the work of the two kidneys that [failed](Kidney%20Failure.md), so you no longer need [dialysis](Dialysis.md).
 
 During a transplant, the surgeon places the new kidney in your lower abdomen and connects the artery and vein of the new kidney to your artery and vein. Often, the new kidney will start making urine as soon as your blood starts flowing through it. But sometimes it takes a few weeks to start working.
 
@@ -14,11 +14,11 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Kidney Cysts
-- Kidney Diseases
-- Kidney Failure
-- Organ Transplantation
+- [Kidney Cysts](Kidney%20Cysts.md)
+- [Kidney Diseases](Kidney%20Diseases.md)
+- [Kidney Failure](Kidney%20Failure.md)
+- [Organ Transplantation](Organ%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/kidneytransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/kidneytransplantation.html). General information, not medical advice.*

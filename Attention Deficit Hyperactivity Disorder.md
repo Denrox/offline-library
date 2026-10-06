@@ -58,7 +58,7 @@ The symptoms of ADHD depend on the type of ADHD a person has:
 
 #### How is attention deficit hyperactivity disorder (ADHD) diagnosed?
 
-There is no single test to diagnose ADHD. One step of [the process for diagnosing ADHD](https://medlineplus.gov/lab-tests/adhd-screening/) involves having a physical exam, including vision tests, hearing tests (for [children](https://medlineplus.gov/lab-tests/hearing-tests-for-children/) and [adults](https://medlineplus.gov/lab-tests/hearing-tests-for-adults/)), and other tests to rule out other problems with symptoms like ADHD. Other problems with similar symptoms include [anxiety](https://medlineplus.gov/anxiety.html), [depression](https://medlineplus.gov/depression.html), [sleep problems](https://medlineplus.gov/sleepdisorders.html), and certain types of [learning disabilities](https://medlineplus.gov/learningdisabilities.html).
+There is no single test to diagnose ADHD. One step of the process for diagnosing ADHD involves having a physical exam, including vision tests, hearing tests (for children and adults), and other tests to rule out other problems with symptoms like ADHD. Other problems with similar symptoms include [anxiety](Anxiety.md), [depression](Depression.md), [sleep problems](Sleep%20Disorders.md), and certain types of [learning disabilities](Learning%20Disabilities.md).
 
 The process also involves a thorough medical history and family history. And it usually includes using standardized ADHD symptom checklists, questionnaires, and/or interview questions. These tools have rating scales (scoring systems) that help the provider see if a person's symptoms and history fit a diagnosis of ADHD.
 
@@ -71,7 +71,7 @@ To make a diagnosis of ADHD, the provider needs to have found *all* of these thi
  - For people 17 and older, there must be at least 5 ongoing symptoms.
  - Symptoms that happen in 2 or more settings, for example, at home and at work or school.
  - Symptoms that clearly get in the way of functioning well at school, work, and/or in social situations.
- - Symptoms aren't caused by another [mental health disorder](https://medlineplus.gov/mentaldisorders.html).
+ - Symptoms aren't caused by another [mental health disorder](Mental%20Disorders.md).
 
 #### What are the treatments for attention deficit hyperactivity disorder (ADHD)?
 
@@ -84,7 +84,7 @@ Although there is no cure for ADHD, treatments may help reduce symptoms and impr
 
 Good treatment plans will include close monitoring, follow-ups, and making changes, if needed, along the way.
 
-Having a healthy lifestyle, such as [healthy eating](https://medlineplus.gov/nutrition.html) and [regular exercise](https://medlineplus.gov/howmuchexercisedoineed.html), may also help manage symptoms.
+Having a healthy lifestyle, such as [healthy eating](Nutrition.md) and [regular exercise](How%20Much%20Exercise%20Do%20I%20Need.md), may also help manage symptoms.
 
 For school-aged children, school support is important. This could include classroom-based behavioral interventions such as behavior management plans or teaching your child organizational and study skills. It may also include accommodations such as specific seating in the classroom, reduced classwork, or extended time on tests and exams.
 
@@ -92,9 +92,9 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Child Behavior Disorders
-- Learning Disabilities
+- [Child Behavior Disorders](Child%20Behavior%20Disorders.md)
+- [Learning Disabilities](Learning%20Disabilities.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/attentiondeficithyperactivitydisorder.html). General information, not medical advice.*

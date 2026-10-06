@@ -8,4 +8,4 @@ NIH: National Institute on Aging
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cornsandcalluses.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cornsandcalluses.html). General information, not medical advice.*

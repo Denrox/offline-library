@@ -15,15 +15,15 @@ You may have a UTI if you notice:
 
 People of any age or sex can get UTIs. But about four times as many women get UTIs as men. You're also at higher risk if you have diabetes, need a tube to drain your bladder, or have a spinal cord injury.
 
-If you think you have a UTI it is important to see your doctor. Your doctor can tell if you have a UTI with a [urine test](https://medlineplus.gov/urinalysis.html). Treatment is with antibiotics.
+If you think you have a UTI it is important to see your doctor. Your doctor can tell if you have a UTI with a [urine test](Urinalysis.md). Treatment is with antibiotics.
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Bladder Diseases
-- Urinalysis
+- [Bladder Diseases](Bladder%20Diseases.md)
+- [Urinalysis](Urinalysis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/urinarytractinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/urinarytractinfections.html). General information, not medical advice.*

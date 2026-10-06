@@ -2,7 +2,7 @@
 
 #### What are cold and cough medicines?
 
-Cold and cough medicines can help relieve symptoms of a [common cold](https://medlineplus.gov/commoncold.html). The symptoms of a cold can include a sore throat, stuffy or runny nose, sneezing, and [coughing](https://medlineplus.gov/cough.html).
+Cold and cough medicines can help relieve symptoms of a [common cold](Common%20Cold.md). The symptoms of a cold can include a sore throat, stuffy or runny nose, sneezing, and [coughing](Cough.md).
 
 You don't usually need to treat a cold or the cough that it causes. You can't cure a cold, and antibiotics won't help you get better. But sometimes the symptoms can keep you awake or cause a lot of discomfort. In that case, cold and cough medicines can sometimes be helpful.
 
@@ -14,7 +14,7 @@ There are lots of different cold and cough medicines, and they do different thin
 - Cough suppressants - quiet a cough
 - Expectorants - loosen mucus in your lungs so you can cough it up
 - Antihistamines - stop runny noses and sneezing
-- [Pain relievers](https://medlineplus.gov/painrelievers.html) - ease fever, headaches, and minor aches and pains
+- [Pain relievers](Pain%20Relievers.md) - ease fever, headaches, and minor aches and pains
 
 #### What do I need to know about taking cold and cough medicines?
 
@@ -36,9 +36,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Common Cold
-- Cough
+- [Common Cold](Common%20Cold.md)
+- [Cough](Cough.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/coldandcoughmedicines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/coldandcoughmedicines.html). General information, not medical advice.*

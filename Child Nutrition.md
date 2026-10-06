@@ -1,6 +1,6 @@
 # Child Nutrition
 
-A healthy diet helps children grow and learn. It also helps prevent [obesity](https://medlineplus.gov/obesityinchildren.html) and weight-related diseases, such as diabetes. To give your child a nutritious diet:
+A healthy diet helps children grow and learn. It also helps prevent [obesity](Obesity%20in%20Children.md) and weight-related diseases, such as diabetes. To give your child a nutritious diet:
 
 - Make half of what is on your child's plate fruits and vegetables
 - Choose healthy sources of protein, such as lean meat, nuts, and eggs
@@ -15,11 +15,11 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Children's Health
-- Food Allergy
-- Infant and Newborn Nutrition
-- Toddler Nutrition
+- [Children's Health](Children%27s%20Health.md)
+- [Food Allergy](Food%20Allergy.md)
+- [Infant and Newborn Nutrition](Infant%20and%20Newborn%20Nutrition.md)
+- [Toddler Nutrition](Toddler%20Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childnutrition.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childnutrition.html). General information, not medical advice.*

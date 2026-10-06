@@ -4,13 +4,13 @@
 
 #### What is coronary artery disease?
 
-Coronary artery disease (CAD) is the most common type of [heart disease](https://medlineplus.gov/heartdiseases.html) in the United States and a leading cause of death for both men and women.
+Coronary artery disease (CAD) is the most common type of [heart disease](Heart%20Diseases.md) in the United States and a leading cause of death for both men and women.
 
 CAD affects the coronary arteries, which are the blood vessels that carry blood and oxygen to your heart muscle. When these arteries are damaged or diseased, your heart does not get the blood it needs.
 
 #### What causes coronary artery disease?
 
-CAD develops slowly over time when plaque builds up inside your coronary arteries. Plaque is a waxy, sticky substance made of fat, [cholesterol](https://medlineplus.gov/cholesterol.html), [calcium](https://medlineplus.gov/calcium.html), and other materials found in your blood. This buildup is called [atherosclerosis](https://medlineplus.gov/atherosclerosis.html).
+CAD develops slowly over time when plaque builds up inside your coronary arteries. Plaque is a waxy, sticky substance made of fat, [cholesterol](Cholesterol.md), [calcium](Calcium.md), and other materials found in your blood. This buildup is called [atherosclerosis](Atherosclerosis.md).
 
 As plaque grows, it narrows the arteries and reduces blood flow to your heart muscle. Over time, this can partly or fully block the flow of blood and oxygen your heart needs to work properly.
 
@@ -24,25 +24,25 @@ As plaque grows, it narrows the arteries and reduces blood flow to your heart mu
 
 You may be more likely to develop CAD if you:
 
-- Eat a diet high in [saturated fat](https://medlineplus.gov/dietaryfats.html)
-- [Smoke](https://medlineplus.gov/smoking.html) or use [tobacco products](https://medlineplus.gov/smokelesstobacco.html)
-- Are [not physically active](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
-- Are [overweight](https://medlineplus.gov/bodyweight.html) or have [obesity](https://medlineplus.gov/obesity.html)
-- Have [high blood pressure](https://medlineplus.gov/highbloodpressure.html), [high cholesterol](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html), or high blood glucose ([diabetes](https://medlineplus.gov/diabetes.html))
+- Eat a diet high in [saturated fat](Dietary%20Fats.md)
+- [Smoke](Smoking.md) or use [tobacco products](Smokeless%20Tobacco.md)
+- Are [not physically active](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
+- Are [overweight](Body%20Weight.md) or have [obesity](Obesity.md)
+- Have [high blood pressure](High%20Blood%20Pressure.md), [high cholesterol](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md), or high blood glucose ([diabetes](Diabetes.md))
 - Have a family history of heart disease, especially in a parent or sibling who had it before age 50
 - Are getting older, especially men, who tend to develop CAD earlier in life than women
 
-Your health care provider may use a risk calculator to estimate your chance of having a [heart attack](https://medlineplus.gov/heartattack.html) or [stroke](https://medlineplus.gov/stroke.html) in the next 10 years. Talk with your provider about your personal risk.
+Your health care provider may use a risk calculator to estimate your chance of having a [heart attack](Heart%20Attack.md) or [stroke](Stroke.md) in the next 10 years. Talk with your provider about your personal risk.
 
 #### What are symptoms of coronary artery disease?
 
-Symptoms of CAD vary from person to person. Some people have no symptoms at all. Others do not know they have CAD until they have a heart attack or their heart suddenly stops beating ([cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html)).
+Symptoms of CAD vary from person to person. Some people have no symptoms at all. Others do not know they have CAD until they have a heart attack or their heart suddenly stops beating ([cardiac arrest](Sudden%20Cardiac%20Arrest.md)).
 
 When symptoms do occur, they may include:
 
-- [Chest pain](https://medlineplus.gov/chestpain.html), pressure, tightness, or discomfort that may spread to your neck, jaw, shoulder or arm
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
-- Feeling unusually [fatigued](https://medlineplus.gov/fatigue.html)
+- [Chest pain](Chest%20Pain.md), pressure, tightness, or discomfort that may spread to your neck, jaw, shoulder or arm
+- [Shortness of breath](Breathing%20Problems.md)
+- Feeling unusually [fatigued](Fatigue.md)
 
 These symptoms may start or get worse when you are active or under stress and may go away with rest. They can also get worse over time as plaque continues to build up.
 
@@ -52,10 +52,10 @@ Get emergency help right away if you have chest pain or discomfort that does not
 
 Over time, reduced blood flow from CAD can lead to serious heart problems, including:
 
-- [Angina](https://medlineplus.gov/angina.html), which is chest pain or discomfort caused by reduced blood flow to your heart
-- Heart attack, which occurs when a [blood clot](https://medlineplus.gov/bloodclots.html) suddenly blocks blood flow to part of your heart, causing permanent damage to your heart muscle
-- [Heart failure](https://medlineplus.gov/heartfailure.html), which occurs when your heart can't pump enough blood to meet your body's needs
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html), which is a problem with the rate or rhythm of your heartbeat
+- [Angina](Angina.md), which is chest pain or discomfort caused by reduced blood flow to your heart
+- Heart attack, which occurs when a [blood clot](Blood%20Clots.md) suddenly blocks blood flow to part of your heart, causing permanent damage to your heart muscle
+- [Heart failure](Heart%20Failure.md), which occurs when your heart can't pump enough blood to meet your body's needs
+- [Arrhythmia](Arrhythmia.md), which is a problem with the rate or rhythm of your heartbeat
 
 #### How is coronary artery disease diagnosed?
 
@@ -64,43 +64,43 @@ To find out if you have CAD, your provider may:
 - Ask about your symptoms
 - Ask about your personal and family health history
 - Review your risk factors and lifestyle habits
-- Do a physical exam, including [checking your blood pressure](https://medlineplus.gov/lab-tests/measuring-blood-pressure/)
-- Order blood tests, including checking your [cholesterol](https://medlineplus.gov/lab-tests/cholesterol-levels/) and [blood glucose](https://medlineplus.gov/lab-tests/diabetes-tests/)
-- Order [heart health tests](https://medlineplus.gov/hearthealthtests.html)
+- Do a physical exam, including checking your blood pressure
+- Order blood tests, including checking your cholesterol and blood glucose
+- Order [heart health tests](Heart%20Health%20Tests.md)
 
 #### What are the treatments for coronary artery disease?
 
 If you have CAD, your provider will work with you to create a treatment plan based on which arteries are affected, how much blood flow is blocked, and what other health conditions you have. Treatments may include:
 
-- **[Heart-healthy lifestyle changes](https://medlineplus.gov/howtopreventheartdisease.html)**, such as eating a heart-healthy diet, being more active, and quitting smoking
-- **Medicines** to [lower blood pressure](https://medlineplus.gov/bloodpressuremedicines.html), [reduce cholesterol](https://medlineplus.gov/cholesterolmedicines.html), [control blood glucose](https://medlineplus.gov/diabetesmedicines.html), or [prevent blood clots](https://medlineplus.gov/bloodthinners.html)
-- **Procedures or surgery**, such as [angioplasty](https://medlineplus.gov/angioplasty.html), or [coronary artery bypass grafting (CABG)](coronaryarterybypasssurgery.html), to open or bypass blocked arteries
-- **[Cardiac rehabilitation](https://medlineplus.gov/cardiacrehabilitation.html)**, to improve your quality of life and help prevent future heart problems
+- **[Heart-healthy lifestyle changes](How%20to%20Prevent%20Heart%20Disease.md)**, such as eating a heart-healthy diet, being more active, and quitting smoking
+- **Medicines** to [lower blood pressure](Blood%20Pressure%20Medicines.md), [reduce cholesterol](Cholesterol%20Medicines.md), [control blood glucose](Diabetes%20Medicines.md), or [prevent blood clots](Blood%20Thinners.md)
+- **Procedures or surgery**, such as [angioplasty](Angioplasty.md), or coronary artery bypass grafting (CABG), to open or bypass blocked arteries
+- **[Cardiac rehabilitation](Cardiac%20Rehabilitation.md)**, to improve your quality of life and help prevent future heart problems
 
 #### Can coronary artery disease be prevented?
 
 You may be able to lower your risk of CAD or slow its progress by managing risk factors and making healthy lifestyle choices. Steps that may help include:
 
 - Choosing heart-healthy foods
-- Being [physically active](https://medlineplus.gov/howmuchexercisedoineed.html) on a regular basis
-- Reaching or maintaining a [healthy weight](https://medlineplus.gov/weightcontrol.html)
-- [Not smoking](https://medlineplus.gov/quittingsmoking.html) and avoiding [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html)
-- Limiting [alcohol](https://medlineplus.gov/alcohol.html)
-- Managing [stress](https://medlineplus.gov/stress.html)
-- Getting [enough good-quality sleep](https://medlineplus.gov/healthysleep.html)
+- Being [physically active](How%20Much%20Exercise%20Do%20I%20Need.md) on a regular basis
+- Reaching or maintaining a [healthy weight](Weight%20Control.md)
+- [Not smoking](Quitting%20Smoking.md) and avoiding [secondhand smoke](Secondhand%20Smoke.md)
+- Limiting [alcohol](Alcohol.md)
+- Managing [stress](Stress.md)
+- Getting [enough good-quality sleep](Healthy%20Sleep.md)
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Angina
-- Atherosclerosis
-- Cardiac Rehabilitation
-- Coronary Artery Bypass Surgery
-- Heart Attack
-- Heart Diseases
-- Heart Health Tests
+- [Angina](Angina.md)
+- [Atherosclerosis](Atherosclerosis.md)
+- [Cardiac Rehabilitation](Cardiac%20Rehabilitation.md)
+- [Coronary Artery Bypass Surgery](Coronary%20Artery%20Bypass%20Surgery.md)
+- [Heart Attack](Heart%20Attack.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/coronaryarterydisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/coronaryarterydisease.html). General information, not medical advice.*

@@ -6,13 +6,13 @@ Your wrist connects your hand to your forearm. It is not one big joint; it has s
 
 Some of the more common types of wrist injuries and disorders are:
 
-- **[Carpal tunnel syndrome](https://medlineplus.gov/carpaltunnelsyndrome.html)**, which happens when a nerve that runs from your forearm into your palm becomes squeezed at the wrist
+- **[Carpal tunnel syndrome](Carpal%20Tunnel%20Syndrome.md)**, which happens when a nerve that runs from your forearm into your palm becomes squeezed at the wrist
 - **Ganglion cysts**, which are noncancerous lumps or masses
-- **[Gout](https://medlineplus.gov/gout.html)**, which is a form of arthritis caused by a buildup of uric acid in your joints
-- **[Fractures](https://medlineplus.gov/fractures.html)** (broken bones)
-- **[Osteoarthritis](https://medlineplus.gov/osteoarthritis.html)**, the most common type of arthritis. It is caused by wear and tear of the joints.
-- **[Sprains and strains](https://medlineplus.gov/sprainsandstrains.html)**, which are injuries to ligaments and injuries to muscles or tendons
-- **[Tendinitis](https://medlineplus.gov/tendinitis.html)**, inflammation of a tendon, usually due to overuse
+- **[Gout](Gout.md)**, which is a form of arthritis caused by a buildup of uric acid in your joints
+- **[Fractures](Fractures.md)** (broken bones)
+- **[Osteoarthritis](Osteoarthritis.md)**, the most common type of arthritis. It is caused by wear and tear of the joints.
+- **[Sprains and strains](Sprains%20and%20Strains.md)**, which are injuries to ligaments and injuries to muscles or tendons
+- **[Tendinitis](Tendinitis.md)**, inflammation of a tendon, usually due to overuse
 
 #### Who is at risk for wrist injuries and disorders?
 
@@ -20,7 +20,7 @@ Certain things can put you at higher risk of having a wrist problem, including:
 
 - Doing sports, which can put you at risk for injuries and puts stress on your wrist. For example, you may fall on your outstretched hand when you are skating or snowboarding. Your wrist could be injured while doing contact sports. And other sports such as gymnastics and basketball can strain your wrists.
 - Doing repetitive wrist motions, such as typing on a keyboard, working on an assembly line, or using power tools.
-- Having certain diseases. For example, [rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html) can cause wrist pain.
+- Having certain diseases. For example, [rheumatoid arthritis](Rheumatoid%20Arthritis.md) can cause wrist pain.
 
 #### What are the symptoms of wrist injuries and disorders?
 
@@ -32,7 +32,7 @@ Your health care provider may use many tools to make a diagnosis:
 
 - A medical history, which includes asking about your symptoms
 - A physical exam, including checking your wrist strength and range of motion
-- An [x-ray](https://medlineplus.gov/xrays.html) or other [imaging test](https://medlineplus.gov/diagnosticimaging.html)
+- An [x-ray](X-Rays.md) or other [imaging test](Diagnostic%20Imaging.md)
 - Blood tests
 
 #### What are the treatments for wrist injuries and disorders?
@@ -41,7 +41,7 @@ Treatments for wrist pain depends on the type of injury or disorder. They may in
 
 - Resting your wrist
 - Wearing a wrist brace or cast
-- [Pain relievers](https://medlineplus.gov/painrelievers.html)
+- [Pain relievers](Pain%20Relievers.md)
 - Cortisone shots
 - Physical therapy
 - Surgery
@@ -51,17 +51,17 @@ Treatments for wrist pain depends on the type of injury or disorder. They may in
 To try to prevent wrist problems, you can:
 
 - Use wrist guards, when doing sports that put you at risk for wrist injuries
-- In the workplace, perform stretching exercises and take frequent rest breaks. You should also pay attention to [ergonomics](https://medlineplus.gov/ergonomics.html) to make sure that you are using the proper wrist position while working.
-- Make sure that you get enough [calcium](https://medlineplus.gov/calcium.html) and [vitamin D](https://medlineplus.gov/vitamind.html) to keep your bones strong
+- In the workplace, perform stretching exercises and take frequent rest breaks. You should also pay attention to [ergonomics](Ergonomics.md) to make sure that you are using the proper wrist position while working.
+- Make sure that you get enough [calcium](Calcium.md) and [vitamin D](Vitamin%20D.md) to keep your bones strong
 
 ## Related topics
 
-- Arm Injuries and Disorders
-- Carpal Tunnel Syndrome
-- Elbow Injuries and Disorders
-- Hand Injuries and Disorders
-- Shoulder Injuries and Disorders
+- [Arm Injuries and Disorders](Arm%20Injuries%20and%20Disorders.md)
+- [Carpal Tunnel Syndrome](Carpal%20Tunnel%20Syndrome.md)
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Hand Injuries and Disorders](Hand%20Injuries%20and%20Disorders.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/wristinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/wristinjuriesanddisorders.html). General information, not medical advice.*

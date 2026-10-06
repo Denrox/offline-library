@@ -9,14 +9,14 @@ Taking home a new baby is one of the happiest times in a woman's life. But it al
 - Follow your doctor's instructions on how much activity, like climbing stairs or walking, you can do for the next few weeks.
 - Doctors usually recommend that you abstain from sexual intercourse for four to six weeks after birth.
 
-In addition to physical changes, you may feel sad or have the "baby blues." If you are extremely sad or are unable to care for yourself or your baby, you might have a serious condition called [postpartum depression](https://medlineplus.gov/postpartumdepression.html).
+In addition to physical changes, you may feel sad or have the "baby blues." If you are extremely sad or are unable to care for yourself or your baby, you might have a serious condition called [postpartum depression](Postpartum%20Depression.md).
 
 Dept. of Health and Human Services Office on Women's Health
 
 ## Related topics
 
-- Postpartum Depression
+- [Postpartum Depression](Postpartum%20Depression.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/postpartumcare.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/postpartumcare.html). General information, not medical advice.*

@@ -8,15 +8,15 @@ Human papillomavirus (HPV) is a group of more than 200 related viruses. Some of 
 
 There are two categories of sexually transmitted HPV. They are called low-risk HPV and high-risk HPV. Sometimes high-risk HPV infections can stay at the cervix (the lower part of a woman's uterus) for many years. This can lead to cell changes. If these changes are not screened for and treated, they may get worse over time and become cancer.
 
-**Low-risk HPVM** can cause [warts](https://medlineplus.gov/warts.html) on or around your [genitals](https://medlineplus.gov/genitalwarts.html), anus, mouth, or throat.
+**Low-risk HPVM** can cause [warts](Warts.md) on or around your [genitals](Genital%20Warts.md), anus, mouth, or throat.
 
 **High-risk HPV** can cause various cancers:
 
-- [Cervical cancer](https://medlineplus.gov/cervicalcancer.html)
-- [Anal cancer](https://medlineplus.gov/analcancer.html)
-- Oropharyngeal cancer, a type of [head](https://medlineplus.gov/oralcancer.html) and neck cancer, also called [throat](https://medlineplus.gov/throatcancer.html) cancer
-- [Vulvar cancer](https://medlineplus.gov/vulvarcancer.html)
-- [Vaginal cancer](https://medlineplus.gov/vaginalcancer.html)
+- [Cervical cancer](Cervical%20Cancer.md)
+- [Anal cancer](Anal%20Cancer.md)
+- Oropharyngeal cancer, a type of [head](Oral%20Cancer.md) and neck cancer, also called [throat](Throat%20Cancer.md) cancer
+- [Vulvar cancer](Vulvar%20Cancer.md)
+- [Vaginal cancer](Vaginal%20Cancer.md)
 - Penile cancer
 
 #### Who is at risk for HPV infections?
@@ -37,8 +37,8 @@ Nearly all cervical cancers are caused by a long-lasting infection with a high-r
 
 Screening tests for HPV can include:
 
-- For women, there are [cervical cancer screening](https://medlineplus.gov/cervicalcancerscreening.html) tests that can find changes in the cervix that might lead to cancer. As part of the screening, women may have [Pap tests](https://medlineplus.gov/lab-tests/pap-smear/) (sometimes called a Pap smear), [HPV tests](https://medlineplus.gov/lab-tests/human-papillomavirus-hpv-test/), or both. HPV tests use a sample of cervical cells.
-- Your provider may also suggest a [colposcopy](https://medlineplus.gov/lab-tests/colposcopy/) to check for abnormal cells.
+- For women, there are [cervical cancer screening](Cervical%20Cancer%20Screening.md) tests that can find changes in the cervix that might lead to cancer. As part of the screening, women may have Pap tests (sometimes called a Pap smear), HPV tests, or both. HPV tests use a sample of cervical cells.
+- Your provider may also suggest a colposcopy to check for abnormal cells.
 
 #### What are the treatments for HPV infections?
 
@@ -52,7 +52,7 @@ People who have HPV-related cancers usually get the same types of treatment as p
 
 #### Can HPV infections be prevented?
 
-Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. If you or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex.
+Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. If you or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex.
 
 Vaccines can protect against several types of HPV, including genital warts and some that can cause cancer. The vaccines provide the most protection when people get them before exposure to the virus. This means that it is best for people to get them before they become sexually active.
 
@@ -62,10 +62,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Cervical Cancer
-- Cervical Cancer Screening
-- Genital Warts
+- [Cervical Cancer](Cervical%20Cancer.md)
+- [Cervical Cancer Screening](Cervical%20Cancer%20Screening.md)
+- [Genital Warts](Genital%20Warts.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hpv.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hpv.html). General information, not medical advice.*

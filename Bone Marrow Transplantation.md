@@ -4,9 +4,9 @@ Bone marrow is the spongy tissue inside some of your bones, such as your hip and
 
 A bone marrow transplant is a procedure that replaces a person's faulty bone marrow stem cells. Doctors use these transplants to treat people with certain diseases, such as:
 
-- [Leukemia](https://medlineplus.gov/leukemia.html)
-- Severe blood diseases such as [thalassemias](https://medlineplus.gov/thalassemia.html), [aplastic anemia](https://medlineplus.gov/aplasticanemia.html), and [sickle cell anemia](https://medlineplus.gov/sicklecelldisease.html)
-- [Multiple myeloma](https://medlineplus.gov/multiplemyeloma.html)
+- [Leukemia](Leukemia.md)
+- Severe blood diseases such as [thalassemias](Thalassemia.md), [aplastic anemia](Aplastic%20Anemia.md), and [sickle cell anemia](Sickle%20Cell%20Disease.md)
+- [Multiple myeloma](Multiple%20Myeloma.md)
 - Certain immune deficiency diseases
 
 Before you have a transplant, you need to get high doses of chemotherapy and possibly radiation. This destroys the faulty stem cells in your bone marrow. It also suppresses your body's immune system so that it won't attack the new stem cells after the transplant.
@@ -19,9 +19,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Bone Marrow Diseases
-- Stem Cells
+- [Bone Marrow Diseases](Bone%20Marrow%20Diseases.md)
+- [Stem Cells](Stem%20Cells.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bonemarrowtransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bonemarrowtransplantation.html). General information, not medical advice.*

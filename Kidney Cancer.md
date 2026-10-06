@@ -14,7 +14,7 @@ You may have no symptoms at first. They may appear as the cancer grows. See your
 - Pain in your side that does not go away
 - Loss of appetite
 
-[Tests](https://medlineplus.gov/kidneytests.html) to diagnose kidney cancer include blood, urine, and imaging tests. You may also have a biopsy.
+[Tests](Kidney%20Tests.md) to diagnose kidney cancer include blood, urine, and imaging tests. You may also have a biopsy.
 
 Treatment depends on your age, your overall health and how advanced the cancer is. It might include surgery, chemotherapy, or radiation, biologic, or targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
 
@@ -22,10 +22,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Kidney Diseases
-- Kidney Tests
-- Wilms Tumor
+- [Kidney Diseases](Kidney%20Diseases.md)
+- [Kidney Tests](Kidney%20Tests.md)
+- [Wilms Tumor](Wilms%20Tumor.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/kidneycancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/kidneycancer.html). General information, not medical advice.*

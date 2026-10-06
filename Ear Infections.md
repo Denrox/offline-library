@@ -25,4 +25,4 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/earinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/earinfections.html). General information, not medical advice.*

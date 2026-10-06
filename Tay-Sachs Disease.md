@@ -1,6 +1,6 @@
 # Tay-Sachs Disease
 
-Tay-Sachs disease is a rare, inherited disease. It is a type of [lipid metabolism disorder](https://medlineplus.gov/lipidmetabolismdisorders.html). It causes too much of a fatty substance to build up in the brain. This buildup destroys nerve cells, causing mental and physical problems.
+Tay-Sachs disease is a rare, inherited disease. It is a type of [lipid metabolism disorder](Lipid%20Metabolism%20Disorders.md). It causes too much of a fatty substance to build up in the brain. This buildup destroys nerve cells, causing mental and physical problems.
 
 Infants with Tay-Sachs disease appear to develop normally for the first few months of life. Then mental and physical abilities decline. The child becomes blind, deaf, and unable to swallow. Muscles begin to waste away and paralysis sets in. Even with the best of care, children with Tay-Sachs disease usually die by age 4.
 
@@ -12,4 +12,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/taysachsdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/taysachsdisease.html). General information, not medical advice.*

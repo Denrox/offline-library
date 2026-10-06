@@ -4,9 +4,9 @@
 
 #### What are pubic lice?
 
-Pubic lice (also called crabs) are tiny insects which usually live in the pubic or genital area of humans. They are also sometimes found on other coarse body hair, such as hair on the legs, armpits, mustache, beard, eyebrows, or eyelashes. Pubic lice on the eyebrows or eyelashes of children or teens may be a sign of sexual exposure or [abuse](https://medlineplus.gov/childsexualabuse.html).
+Pubic lice (also called crabs) are tiny insects which usually live in the pubic or genital area of humans. They are also sometimes found on other coarse body hair, such as hair on the legs, armpits, mustache, beard, eyebrows, or eyelashes. Pubic lice on the eyebrows or eyelashes of children or teens may be a sign of sexual exposure or [abuse](Child%20Sexual%20Abuse.md).
 
-Pubic lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are [head lice](https://medlineplus.gov/headlice.html) and [body lice](https://medlineplus.gov/bodylice.html). Each type of lice is different, and getting one type does not mean that you will get another type.
+Pubic lice are parasites, and they need to feed on human blood to survive. They are one of the three types of lice that live on humans. The other two types are [head lice](Head%20Lice.md) and [body lice](Body%20Lice.md). Each type of lice is different, and getting one type does not mean that you will get another type.
 
 #### How do pubic lice spread?
 
@@ -24,7 +24,7 @@ The most common symptom of pubic lice is intense itching in the genital area. Yo
 
 A diagnosis of a pubic lice usually comes from seeing a louse or nit. But lice and nits can be difficult to find because there may be only a few present. Also, they often attach themselves to more than one hair, and they do not crawl as quickly as head and body lice. Sometimes it takes a magnifying lens to see the lice or nits.
 
-People who have pubic lice should also be checked for other [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs), and their sexual partners should also be checked for pubic lice.
+People who have pubic lice should also be checked for other [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs), and their sexual partners should also be checked for pubic lice.
 
 #### What are the treatments for pubic lice?
 
@@ -38,4 +38,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pubiclice.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pubiclice.html). General information, not medical advice.*

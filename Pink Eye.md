@@ -15,4 +15,4 @@ NIH: National Eye Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pinkeye.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pinkeye.html). General information, not medical advice.*

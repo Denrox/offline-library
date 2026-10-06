@@ -2,12 +2,12 @@
 
 *Also called: ART, IVF, In Vitro Fertilization*
 
-Assisted reproductive technology (ART) is used to treat [infertility](https://medlineplus.gov/infertility.html). It includes fertility treatments that handle both eggs and sperm. It works by removing eggs from the ovaries. The eggs are then mixed with sperm to make embryos. The embryos are then put back in the parent's body. In vitro fertilization (IVF) is the most common and effective type of ART.
+Assisted reproductive technology (ART) is used to treat [infertility](Infertility.md). It includes fertility treatments that handle both eggs and sperm. It works by removing eggs from the ovaries. The eggs are then mixed with sperm to make embryos. The embryos are then put back in the parent's body. In vitro fertilization (IVF) is the most common and effective type of ART.
 
 ART procedures sometimes use donor eggs, donor sperm, or previously frozen embryos. It may also involve a surrogate or gestational carrier. A surrogate becomes pregnant with sperm from one partner of the couple. A gestational carrier becomes pregnant with an egg from one partner and sperm from the other partner.
 
-The most common complication of ART is a [multiple pregnancy](https://medlineplus.gov/twinstripletsmultiplebirths.html). It can be prevented or minimized by limiting the number of embryos that are put into the parent's body.
+The most common complication of ART is a [multiple pregnancy](Twins%2C%20Triplets%2C%20Multiple%20Births.md). It can be prevented or minimized by limiting the number of embryos that are put into the parent's body.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/assistedreproductivetechnology.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/assistedreproductivetechnology.html). General information, not medical advice.*

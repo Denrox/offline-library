@@ -4,7 +4,7 @@
 
 Eyelid disorders include a variety of conditions that affect your eyelids. Your eyelids protect your eyes and help keep them healthy. When you blink, they spread tears across your eyes and help wash away dirt or dust. You also close your eyelids when something comes near your eyes to protect them from injury.
 
-Like other parts of your body, your eyelids can get [infected](https://medlineplus.gov/eyeinfections.html), become swollen, or develop growths or [eye cancer](https://medlineplus.gov/eyecancer.html).
+Like other parts of your body, your eyelids can get [infected](Eye%20Infections.md), become swollen, or develop growths or [eye cancer](Eye%20Cancer.md).
 
 #### What causes eyelid disorders?
 
@@ -16,8 +16,8 @@ There are many kinds of eyelid problems. They can cause swelling, infection, irr
 
 **Eyelid disorders that cause swelling, redness, or infection include:**
 
-- **Stye (hordeolum).** A small, red, painful bump caused by a [bacterial infection](https://medlineplus.gov/bacterialinfections.html) in an oil gland. A **chalazion** is a painless lump that may form after a stye.
-- **Blepharitis.** Makes your eyelids red, [itchy](https://medlineplus.gov/itching.html), or burning and can cause crusty eyelashes. It's often linked to bacteria or skin conditions like [rosacea](https://medlineplus.gov/rosacea.html).
+- **Stye (hordeolum).** A small, red, painful bump caused by a [bacterial infection](Bacterial%20Infections.md) in an oil gland. A **chalazion** is a painless lump that may form after a stye.
+- **Blepharitis.** Makes your eyelids red, [itchy](Itching.md), or burning and can cause crusty eyelashes. It's often linked to bacteria or skin conditions like [rosacea](Rosacea.md).
 - **Periorbital cellulitis.** A bacterial infection of the eyelid and nearby skin. If it spreads behind the eye (**orbital cellulitis**), it needs immediate medical care.
 
 **Eyelid disorders that affect eyelid position or movement include:**
@@ -51,11 +51,11 @@ Symptoms can vary depending on the condition but may include:
 
 #### How are eyelid disorders diagnosed?
 
-Your eye care specialist may diagnose eyelid disorders during an [eye exam](https://medlineplus.gov/lab-tests/vision-screening/). They may also ask about your medical and family history to help find the cause.
+Your eye care specialist may diagnose eyelid disorders during an eye exam. They may also ask about your medical and family history to help find the cause.
 
 #### How are eyelid disorders treated?
 
-Treatment depends on the cause of the disorder. Some eyelid conditions get better on their own or may be related to [another health condition](https://medlineplus.gov/eyediseases.html). Keeping your eyelids clean can help prevent irritation and infection.
+Treatment depends on the cause of the disorder. Some eyelid conditions get better on their own or may be related to [another health condition](Eye%20Diseases.md). Keeping your eyelids clean can help prevent irritation and infection.
 
 If you need treatment, it may include:
 
@@ -63,12 +63,12 @@ If you need treatment, it may include:
 - Medicines or ointments
 - Eye drops
 - Surgery (less common)
-- Lifestyle changes, such as getting more [sleep](https://medlineplus.gov/healthysleep.html) or cutting back on [caffeine](https://medlineplus.gov/caffeine.html)
+- Lifestyle changes, such as getting more [sleep](Healthy%20Sleep.md) or cutting back on [caffeine](Caffeine.md)
 
 ## Related topics
 
-- Eye Diseases
+- [Eye Diseases](Eye%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eyeliddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eyeliddisorders.html). General information, not medical advice.*

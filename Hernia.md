@@ -9,7 +9,7 @@ There are several types of hernias, including:
 - Inguinal, in the groin. This is the the most common type.
 - Umbilical, around the belly button
 - Incisional, through a scar
-- [Hiatal](https://medlineplus.gov/hiatalhernia.html), a small opening in the diaphragm that allows the upper part of the stomach to move up into the chest.
+- [Hiatal](Hiatal%20Hernia.md), a small opening in the diaphragm that allows the upper part of the stomach to move up into the chest.
 - Congenital diaphragmatic, a birth defect that needs surgery
 
 Hernias are common. They can affect men, women, and children. A combination of muscle weakness and straining, such as with heavy lifting, might contribute. Some people are born with weak abdominal muscles and may be more likely to get a hernia.
@@ -18,8 +18,8 @@ Treatment is usually surgery to repair the opening in the muscle wall. Untreated
 
 ## Related topics
 
-- GERD
+- [GERD](GERD.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hernia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hernia.html). General information, not medical advice.*

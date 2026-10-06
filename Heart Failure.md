@@ -22,18 +22,18 @@ Heart failure can start suddenly after a medical condition or injury damages you
 
 Conditions that can cause heart failure include:
 
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html) (a problem with the rate or rhythm of your heartbeat)
-- [Cardiomyopathy](https://medlineplus.gov/cardiomyopathy.html)
-- [Congenital heart defects](https://medlineplus.gov/congenitalheartdefects.html) or other types of heart diseases that you are born with
-- [Coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html)
-- [Endocarditis](https://medlineplus.gov/endocarditis.html)
-- [Heart attack](https://medlineplus.gov/heartattack.html)
-- [Heart valve diseases](https://medlineplus.gov/heartvalvediseases.html)
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- [A blood clot in your lung](https://medlineplus.gov/pulmonaryembolism.html)
-- [Diabetes](https://medlineplus.gov/diabetes.html)
-- Certain severe [lung diseases](https://medlineplus.gov/lungdiseases.html), such as [COPD](https://medlineplus.gov/copd.html) (chronic obstructive pulmonary disease)
-- [Obesity](https://medlineplus.gov/obesity.html)
+- [Arrhythmia](Arrhythmia.md) (a problem with the rate or rhythm of your heartbeat)
+- [Cardiomyopathy](Cardiomyopathy.md)
+- [Congenital heart defects](Congenital%20Heart%20Defects.md) or other types of heart diseases that you are born with
+- [Coronary artery disease](Coronary%20Artery%20Disease.md)
+- [Endocarditis](Endocarditis.md)
+- [Heart attack](Heart%20Attack.md)
+- [Heart valve diseases](Heart%20Valve%20Diseases.md)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- [A blood clot in your lung](Pulmonary%20Embolism.md)
+- [Diabetes](Diabetes.md)
+- Certain severe [lung diseases](Lung%20Diseases.md), such as [COPD](COPD.md) (chronic obstructive pulmonary disease)
+- [Obesity](Obesity.md)
 
 Over time, left-sided heart failure can lead to right-sided heart failure.
 
@@ -42,46 +42,46 @@ Over time, left-sided heart failure can lead to right-sided heart failure.
 Heart failure can happen at any age. It happens to both men and women, but men often develop it at a younger age than women. Your chance of developing heart failure increases if:
 
 - **You're 65 years old or older.** Aging can weaken and stiffen your heart muscle.
-- **Your [family health history](https://medlineplus.gov/familyhistory.html)** includes relatives who have or have had heart failure.
-- **You have [changes in your genes](https://medlineplus.gov/geneticdisorders.html)** that affect your heart tissue.
+- **Your [family health history](Family%20History.md)** includes relatives who have or have had heart failure.
+- **You have [changes in your genes](Genetic%20Disorders.md)** that affect your heart tissue.
 - **You have habits that can harm your heart**, including:
 
- - [Smoking](https://medlineplus.gov/smoking.html)
- - Eating foods high in [fat](https://medlineplus.gov/dietaryfats.html), [cholesterol](https://medlineplus.gov/cholesterol.html), and [sodium](https://medlineplus.gov/sodium.html) (salt)
- - [Having an inactive lifestyle](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
- - [Alcohol use disorder (AUD)](alcoholusedisorderaud.html)
- - [Illegal drug use](https://medlineplus.gov/druguseandaddiction.html)
+ - [Smoking](Smoking.md)
+ - Eating foods high in [fat](Dietary%20Fats.md), [cholesterol](Cholesterol.md), and [sodium](Sodium.md) (salt)
+ - [Having an inactive lifestyle](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
+ - Alcohol use disorder (AUD)
+ - [Illegal drug use](Drug%20Use%20and%20Addiction.md)
 - **You have other medical conditions that can affect your heart**, including:
 
  - Any heart or blood vessel conditions, including high blood pressure
  - Serious lung diseases
- - Infection, such as [HIV](https://medlineplus.gov/hiv.html) or [COVID-19](https://medlineplus.gov/covid19coronavirusdisease2019.html)
+ - Infection, such as [HIV](HIV.md) or [COVID-19](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
  - Obesity
  - Diabetes
- - [Sleep apnea](https://medlineplus.gov/sleepapnea.html)
- - [Chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html)
- - [Anemia](https://medlineplus.gov/anemia.html)
- - [Thyroid disease](https://medlineplus.gov/thyroiddiseases.html)
- - [Iron overload disease](https://medlineplus.gov/hemochromatosis.html)
- - Cancer treatments that can harm your heart, such as [radiation](https://medlineplus.gov/radiationtherapy.html) and [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
+ - [Sleep apnea](Sleep%20Apnea.md)
+ - [Chronic kidney disease](Chronic%20Kidney%20Disease.md)
+ - [Anemia](Anemia.md)
+ - [Thyroid disease](Thyroid%20Diseases.md)
+ - [Iron overload disease](Hemochromatosis.md)
+ - Cancer treatments that can harm your heart, such as [radiation](Radiation%20Therapy.md) and [chemotherapy](Cancer%20Chemotherapy.md)
 - **You are African American.** African Americans are more likely to develop heart failure and have more serious cases at younger ages than people of other races. Factors such as stigma, discrimination, income, education, and geographic region can also affect their risk of heart failure.
 
 #### What are the symptoms of heart failure?
 
 The symptoms of heart failure depend on which side of your heart is affected and how serious your condition has become. Most symptoms are caused by reduced blood flow to your organs and fluid buildup in your body.
 
-Fluid buildup happens because the flow of blood through your heart is too slow. As a result, blood backs up in the vessels that return the blood to your heart. Fluid may leak from the blood vessels and collect in the tissues of your body, causing swelling ([edema](https://medlineplus.gov/edema.html)) and other problems.
+Fluid buildup happens because the flow of blood through your heart is too slow. As a result, blood backs up in the vessels that return the blood to your heart. Fluid may leak from the blood vessels and collect in the tissues of your body, causing swelling ([edema](Edema.md)) and other problems.
 
 Symptoms of heart failure may include:
 
-- [Feeling short of breath](https://medlineplus.gov/breathingproblems.html) (like you can't get enough air) when you do things like climbing stairs. This may be one of the first symptoms you notice.
-- [Fatigue](https://medlineplus.gov/fatigue.html) or weakness even after rest.
-- [Coughing](https://medlineplus.gov/cough.html).
+- [Feeling short of breath](Breathing%20Problems.md) (like you can't get enough air) when you do things like climbing stairs. This may be one of the first symptoms you notice.
+- [Fatigue](Fatigue.md) or weakness even after rest.
+- [Coughing](Cough.md).
 - Swelling and weight gain from fluid in your ankles, lower legs, or abdomen (belly).
 - Difficulty sleeping when lying flat.
-- [Nausea](https://medlineplus.gov/nauseaandvomiting.html) and loss of appetite.
+- [Nausea](Nausea%20and%20Vomiting.md) and loss of appetite.
 - Swelling in the veins of your neck.
-- [Needing to urinate (pee) often](urineandurination.html).
+- Needing to urinate (pee) often.
 
 At first you may have no symptoms or mild symptoms. As the disease gets worse, your symptoms will usually bother you more.
 
@@ -90,10 +90,10 @@ At first you may have no symptoms or mild symptoms. As the disease gets worse, y
 Fluid buildup and reduced blood flow to your organs can lead to serious problems, including:
 
 - **Breathing problems** from fluid in and around your lungs (also called congestive heart failure)
-- **[Kidney](https://medlineplus.gov/kidneydiseases.html) or liver damage**, including [cirrhosis](https://medlineplus.gov/cirrhosis.html)
-- **[Malnutrition](https://medlineplus.gov/malnutrition.html)** if fluid buildup makes eating uncomfortable or if your stomach doesn't get enough blood flow to digest food properly
-- **Other heart conditions**, such as irregular heartbeat and [sudden cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html)
-- **[Pulmonary hypertension](https://medlineplus.gov/pulmonaryhypertension.html)**
+- **[Kidney](Kidney%20Diseases.md) or liver damage**, including [cirrhosis](Cirrhosis.md)
+- **[Malnutrition](Malnutrition.md)** if fluid buildup makes eating uncomfortable or if your stomach doesn't get enough blood flow to digest food properly
+- **Other heart conditions**, such as irregular heartbeat and [sudden cardiac arrest](Sudden%20Cardiac%20Arrest.md)
+- **[Pulmonary hypertension](Pulmonary%20Hypertension.md)**
 
 #### How is heart failure diagnosed?
 
@@ -102,7 +102,7 @@ To find out if you have heart failure, your health care provider will
 - **Ask about your medical history**, including your symptoms
 - **Ask about your family health history**, including relatives who have had heart failure
 - **Do a physical exam**
-- **Likely run [heart tests](https://medlineplus.gov/hearthealthtests.html) and [blood tests](https://medlineplus.gov/lab-tests/what-you-need-to-know-about-blood-testing/)**, including a [brain natriuretic peptide (BNP) test](https://medlineplus.gov/lab-tests/natriuretic-peptide-tests-bnp-nt-probnp/)
+- **Likely run [heart tests](Heart%20Health%20Tests.md) and blood tests**, including a brain natriuretic peptide (BNP) test
 
 In some cases, your provider may refer you to a cardiologist (a doctor who specializes in heart diseases) for tests, diagnosis, and care.
 
@@ -116,10 +116,10 @@ Most treatment plans include:
 
 - Taking medicine
 - Eating less sodium and drinking less liquid to control fluid buildup
-- Making other changes, such as [quitting smoking](https://medlineplus.gov/quittingsmoking.html), managing [stress](https://medlineplus.gov/stress.html), and getting as much physical activity as your provider recommends
+- Making other changes, such as [quitting smoking](Quitting%20Smoking.md), managing [stress](Stress.md), and getting as much physical activity as your provider recommends
 - Treating any conditions that may make heart failure worse
 
-You may need [heart surgery](https://medlineplus.gov/heartsurgery.html) if:
+You may need [heart surgery](Heart%20Surgery.md) if:
 
 - You have a congenital heart defect or damage to your heart that can be fixed.
 - The left side of your heart is getting weaker and putting a device in your chest could help. Devices include:
@@ -127,25 +127,25 @@ You may need [heart surgery](https://medlineplus.gov/heartsurgery.html) if:
  - **An implantable cardioverter defibrillator.**
  - **A biventricular pacemaker** (cardiac resynchronization therapy).
  - **A mechanical heart pump** (a ventricular assist device (VAD) or a total artificial heart).
-- Your heart doctor recommends a [heart transplant](https://medlineplus.gov/hearttransplantation.html) because your heart failure is life-threatening and nothing else is helping.
+- Your heart doctor recommends a [heart transplant](Heart%20Transplantation.md) because your heart failure is life-threatening and nothing else is helping.
 
-As part of your treatment, you'll need to pay close attention to your symptoms, because heart failure can worsen suddenly. Your provider may suggest a [cardiac rehabilitation program](https://medlineplus.gov/cardiacrehabilitation.html) to help you learn how to manage your condition.
+As part of your treatment, you'll need to pay close attention to your symptoms, because heart failure can worsen suddenly. Your provider may suggest a [cardiac rehabilitation program](Cardiac%20Rehabilitation.md) to help you learn how to manage your condition.
 
 #### Can heart failure be prevented?
 
 You may be able to prevent or delay heart failure if you:
 
 - Work with your provider to manage any health conditions that increase your risk of developing heart failure
-- Make healthy changes in your eating, exercise, and other daily habits to help [prevent heart disease](https://medlineplus.gov/howtopreventheartdisease.html)
+- Make healthy changes in your eating, exercise, and other daily habits to help [prevent heart disease](How%20to%20Prevent%20Heart%20Disease.md)
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Cardiac Rehabilitation
-- Heart Transplantation
-- Pacemakers and Implantable Defibrillators
+- [Cardiac Rehabilitation](Cardiac%20Rehabilitation.md)
+- [Heart Transplantation](Heart%20Transplantation.md)
+- [Pacemakers and Implantable Defibrillators](Pacemakers%20and%20Implantable%20Defibrillators.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/heartfailure.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/heartfailure.html). General information, not medical advice.*

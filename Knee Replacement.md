@@ -12,8 +12,8 @@ People of all ages may have knee replacement surgery. But it is more common in o
 
 Knee replacement surgery treats conditions that cause the cartilage of the knee joint to wear away. These include:
 
-- **Knee [osteoarthritis](https://medlineplus.gov/osteoarthritis.html).** This is the most common reason for knee replacement surgery. It usually develops over time after an injury or with aging.
-- **Knee damage from other types of [arthritis](https://medlineplus.gov/arthritis.html).**
+- **Knee [osteoarthritis](Osteoarthritis.md).** This is the most common reason for knee replacement surgery. It usually develops over time after an injury or with aging.
+- **Knee damage from other types of [arthritis](Arthritis.md).**
 - Problems from **knee joints that aren't formed correctly**.
 
 #### What happens during knee replacement surgery?
@@ -30,7 +30,7 @@ Knee replacement surgery may replace all the damaged parts of your knee (total k
 
 #### What happens after knee replacement surgery?
 
-Some people go home the same day they have surgery. Other people will stay in the hospital a few days. To help prevent [blood clots](https://medlineplus.gov/bloodclots.html), you'll most likely take [blood thinners](https://medlineplus.gov/bloodthinners.html) and wear special socks or coverings on your legs for a short time after surgery.
+Some people go home the same day they have surgery. Other people will stay in the hospital a few days. To help prevent [blood clots](Blood%20Clots.md), you'll most likely take [blood thinners](Blood%20Thinners.md) and wear special socks or coverings on your legs for a short time after surgery.
 
 The success of your surgery depends a lot on what you do at home to help yourself recover. A physical therapist will teach you exercises to make your knee stronger and help it bend. It is important to do these exercises regularly. You may need to use a cane or walker for several weeks after the surgery. It will probably also be several weeks before you can drive. Your doctor will tell you when you can start driving again.
 
@@ -42,8 +42,8 @@ After recovering from surgery, most people can move better with less pain than b
 
 You need to protect your new knee by:
 
-- Staying at a [healthy weight](https://medlineplus.gov/weightcontrol.html).
-- Getting [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html).
+- Staying at a [healthy weight](Weight%20Control.md).
+- Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md).
 - Not doing any high-impact activities, such as jogging, running, and jumping. Instead, you can try low-impact activities that are good for your knee, such as walking, biking, and swimming
 
 #### What are the risks of knee replacement surgery?
@@ -52,8 +52,8 @@ The chance of having problems after knee replacement surgery is low. But there a
 
 - Infection
 - Blood clots
-- [Heart attack](https://medlineplus.gov/heartattack.html)
-- [Stroke](https://medlineplus.gov/stroke.html)
+- [Heart attack](Heart%20Attack.md)
+- [Stroke](Stroke.md)
 - Nerve damage
 - Scarring that limits how far you can bend your knee
 
@@ -67,8 +67,8 @@ If you're thinking about having knee replacement surgery, talk to your doctor ab
 
 ## Related topics
 
-- Knee Injuries and Disorders
+- [Knee Injuries and Disorders](Knee%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/kneereplacement.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/kneereplacement.html). General information, not medical advice.*

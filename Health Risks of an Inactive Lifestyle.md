@@ -12,11 +12,11 @@ People are spending more time doing sedentary activities. During our leisure tim
 
 When you have an inactive lifestyle:
 
-- You burn fewer calories. This makes you more likely to [gain weight](https://medlineplus.gov/weightcontrol.html)
+- You burn fewer calories. This makes you more likely to [gain weight](Weight%20Control.md)
 - You may lose muscle strength and endurance, because you are not using your muscles as much
 - Your bones may get weaker and lose some mineral content
 - Your metabolism may be affected, and your body may have more trouble breaking down fats and sugars
-- Your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) may not work as well
+- Your [immune system](Immune%20System%20and%20Disorders.md) may not work as well
 - You may have poorer blood circulation
 - Your body may have more inflammation
 - You may develop a hormonal imbalance
@@ -25,24 +25,24 @@ When you have an inactive lifestyle:
 
 Having an inactive lifestyle can increase your risk of developing chronic (long-term) diseases. This is sometimes referred to as "sitting disease". By not getting regular exercise, you raise your risk of:
 
-- [Obesity](https://medlineplus.gov/obesity.html)
-- [Heart diseases](https://medlineplus.gov/heartdiseases.html), including [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html) and [heart attack](https://medlineplus.gov/heartattack.html)
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- [High cholesterol](https://medlineplus.gov/cholesterol.html)
-- [Stroke](https://medlineplus.gov/stroke.html)
-- [Metabolic syndrome](https://medlineplus.gov/metabolicsyndrome.html)
-- [Type 2 diabetes](https://medlineplus.gov/diabetestype2.html)
-- Certain cancers, including [colon](https://medlineplus.gov/colorectalcancer.html), [breast](https://medlineplus.gov/breastcancer.html), and [uterine](https://medlineplus.gov/uterinecancer.html) cancers
-- [Osteoporosis](https://medlineplus.gov/osteoporosis.html) and [falls](https://medlineplus.gov/falls.html)
-- Increased feelings of [depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html)
+- [Obesity](Obesity.md)
+- [Heart diseases](Heart%20Diseases.md), including [coronary artery disease](Coronary%20Artery%20Disease.md) and [heart attack](Heart%20Attack.md)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- [High cholesterol](Cholesterol.md)
+- [Stroke](Stroke.md)
+- [Metabolic syndrome](Metabolic%20Syndrome.md)
+- [Type 2 diabetes](Diabetes%20Type%202.md)
+- Certain cancers, including [colon](Colorectal%20Cancer.md), [breast](Breast%20Cancer.md), and [uterine](Uterine%20Cancer.md) cancers
+- [Osteoporosis](Osteoporosis.md) and [falls](Falls.md)
+- Increased feelings of [depression](Depression.md) and [anxiety](Anxiety.md)
 
 Having a sedentary lifestyle can also raise your risk of premature death. And the more sedentary you are, the higher your health risks are.
 
 #### How can I get started with exercise?
 
-If you have been inactive, you may need to start slowly. Your health care provider can help you choose the best type or amount of activity for you based on your fitness level and health. You can keep adding more exercise gradually. The more you can do, the better. But try not to feel overwhelmed and do what you can. Getting some exercise is always better than getting none. Eventually, your goal can be to get the [recommended amount of exercise](https://medlineplus.gov/howmuchexercisedoineed.html) for your age and health.
+If you have been inactive, you may need to start slowly. Your health care provider can help you choose the best type or amount of activity for you based on your fitness level and health. You can keep adding more exercise gradually. The more you can do, the better. But try not to feel overwhelmed and do what you can. Getting some exercise is always better than getting none. Eventually, your goal can be to get the [recommended amount of exercise](How%20Much%20Exercise%20Do%20I%20Need.md) for your age and health.
 
-There are many ways to get exercise; it is important to [find the types that are best for you](https://medlineplus.gov/exerciseandphysicalfitness.html). You can also try to add activity to your life in smaller ways, such as at home and at work.
+There are many ways to get exercise; it is important to [find the types that are best for you](Exercise%20and%20Physical%20Fitness.md). You can also try to add activity to your life in smaller ways, such as at home and at work.
 
 #### How can I be more active around the house?
 
@@ -68,8 +68,8 @@ Most of us sit when we are working, often in front of a computer. It can be chal
 - Stand up and walk to a colleague's office instead of sending an email
 - Have "walking" or standing meetings with co-workers instead of sitting in a conference room
 
-The good news is that it's never too late to change your exercise habits. You can start slowly and find ways to fit more physical activity into your life. Regular [exercise has many benefits](https://medlineplus.gov/benefitsofexercise.html) and may help prevent or control many diseases.
+The good news is that it's never too late to change your exercise habits. You can start slowly and find ways to fit more physical activity into your life. Regular [exercise has many benefits](Benefits%20of%20Exercise.md) and may help prevent or control many diseases.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthrisksofaninactivelifestyle.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthrisksofaninactivelifestyle.html). General information, not medical advice.*

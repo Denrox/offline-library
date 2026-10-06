@@ -12,8 +12,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Kidney Cancer
+- [Kidney Cancer](Kidney%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/wilmstumor.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/wilmstumor.html). General information, not medical advice.*

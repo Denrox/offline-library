@@ -18,17 +18,17 @@ Your child's adenoids can be enlarged, or swollen, for different reasons. It may
 
 Enlarged adenoids can make it hard to breathe through the nose. Your child might end up breathing only through the mouth. This may cause:
 
-- A [dry mouth](https://medlineplus.gov/drymouth.html), which can also lead to [bad breath](https://medlineplus.gov/badbreath.html)
+- A [dry mouth](Dry%20Mouth.md), which can also lead to [bad breath](Bad%20Breath.md)
 - Cracked lips
 - A runny nose
 
 Other problems that enlarged adenoids can cause include:
 
 - Loud breathing
-- [Snoring](https://medlineplus.gov/snoring.html)
+- [Snoring](Snoring.md)
 - Restless sleep
-- [Sleep apnea](https://medlineplus.gov/sleepapnea.html), a disorder that causes you to repeatedly stop breathing during sleep
-- [Ear infections](https://medlineplus.gov/earinfections.html)
+- [Sleep apnea](Sleep%20Apnea.md), a disorder that causes you to repeatedly stop breathing during sleep
+- [Ear infections](Ear%20Infections.md)
 
 #### How can enlarged adenoids be diagnosed?
 
@@ -42,7 +42,7 @@ Since the adenoids are higher up than the throat, the provider cannot see them j
 
 - A special mirror in the mouth
 - A long, flexible tube with a light (an endoscope)
-- An [x-ray](https://medlineplus.gov/xrays.html)
+- An [x-ray](X-Rays.md)
 
 #### What are the treatments for enlarged adenoids?
 
@@ -64,9 +64,9 @@ After having the surgery, your child usually goes home the same day. Your child 
 
 ## Related topics
 
-- Mouth Disorders
-- Tonsillitis
+- [Mouth Disorders](Mouth%20Disorders.md)
+- [Tonsillitis](Tonsillitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/adenoids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/adenoids.html). General information, not medical advice.*

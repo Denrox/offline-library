@@ -4,7 +4,7 @@
 
 #### What is ankylosing spondylitis?
 
-Ankylosing spondylitis (AS) is a type of [arthritis](https://medlineplus.gov/arthritis.html) of the spine. It causes inflammation (swelling) between your vertebrae (the bones that make up your spine) and the joints between your spine and pelvis. AS inflammation can cause stiffness and make it difficult to move and bend.
+Ankylosing spondylitis (AS) is a type of [arthritis](Arthritis.md) of the spine. It causes inflammation (swelling) between your vertebrae (the bones that make up your spine) and the joints between your spine and pelvis. AS inflammation can cause stiffness and make it difficult to move and bend.
 
 Symptoms of AS can range from mild to severe back pain. Over time, AS can fuse (grow together) your vertebrae, limiting movement and causing a hunched posture. In some people, AS can affect other joints or body parts.
 
@@ -16,7 +16,7 @@ Ankylosing spondylitis usually starts before age 45. Early symptoms may begin be
 
 - **You're a man.** AS is more common and severe in men.
 - **You have a family history.** If a member of your family has AS, you're more likely to get the disease.
-- **You have other medical conditions that may increase your risk of getting AS.** These include [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html), or [psoriasis](https://medlineplus.gov/psoriasis.html).
+- **You have other medical conditions that may increase your risk of getting AS.** These include [Crohn's disease](Crohn%27s%20Disease.md), [ulcerative colitis](Ulcerative%20Colitis.md), or [psoriasis](Psoriasis.md).
 
 #### What causes ankylosing spondylitis?
 
@@ -33,7 +33,7 @@ Other symptoms of ankylosing spondylitis may include:
 - Pain, stiffness, and inflammation of the joints.
 - Difficulty taking a deep breath. This could occur if the joints connecting the ribs are affected.
 - Changes in vision.
-- [Fatigue](https://medlineplus.gov/fatigue.html).
+- [Fatigue](Fatigue.md).
 - Loss of appetite.
 - Weight loss.
 - Skin rashes, such as psoriasis.
@@ -46,7 +46,7 @@ There is no single test for ankylosing spondylitis. To find out if you have AS y
 - **Ask about your medical history**, including your symptoms.
 - **Ask about your family health history**, including relatives who have had AS.
 - **Do a physical exam.**
-- **Order blood tests or [imaging studies](https://medlineplus.gov/diagnosticimaging.html).**
+- **Order blood tests or [imaging studies](Diagnostic%20Imaging.md).**
 
 #### What are the treatments for ankylosing spondylitis?
 
@@ -56,19 +56,19 @@ Treatment usually includes medicine to help relieve symptoms and keep the diseas
 
 You can help manage your AS symptoms if you:
 
-- [Exercise](https://medlineplus.gov/howmuchexercisedoineed.html)
+- [Exercise](How%20Much%20Exercise%20Do%20I%20Need.md)
 - Monitor your symptoms
 - Manage your stress
-- Use [assistive devices](https://medlineplus.gov/assistivedevices.html) as needed
+- Use [assistive devices](Assistive%20Devices.md) as needed
 - Follow a healthy diet
-- [Stop smoking](https://medlineplus.gov/quittingsmoking.html), or don't start
+- [Stop smoking](Quitting%20Smoking.md), or don't start
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Disease
 
 ## Related topics
 
-- Rheumatoid Arthritis
+- [Rheumatoid Arthritis](Rheumatoid%20Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ankylosingspondylitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ankylosingspondylitis.html). General information, not medical advice.*

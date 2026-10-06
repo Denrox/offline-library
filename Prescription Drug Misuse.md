@@ -11,16 +11,16 @@ If you take a medicine in a different way than your health care provider prescri
 - Taking the medicine in a different way than you are supposed to. For example, instead of swallowing your tablets, you might crush them and then snort or inject them.
 - Using the medicine for another purpose, such as getting high.
 
-Misusing some prescription drugs can lead to [addiction](https://medlineplus.gov/druguseandaddiction.html). These include [opioids](https://medlineplus.gov/opioidsandopioidusedisorderoud.html), sedatives, tranquilizers, and stimulants. Drug addiction is a chronic brain disease. It causes a person to take drugs repeatedly despite the harm they cause.
+Misusing some prescription drugs can lead to [addiction](Drug%20Use%20and%20Addiction.md). These include [opioids](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md), sedatives, tranquilizers, and stimulants. Drug addiction is a chronic brain disease. It causes a person to take drugs repeatedly despite the harm they cause.
 
 #### Who is at risk for prescription drug misuse?
 
-Prescription drug misuse can affect anyone at any age, including teenagers and older adults. It can happen if you need certain medicines to treat a medical condition, reduce pain after an injury or surgery, or for [chronic pain](https://medlineplus.gov/chronicpain.html).
+Prescription drug misuse can affect anyone at any age, including teenagers and older adults. It can happen if you need certain medicines to treat a medical condition, reduce pain after an injury or surgery, or for [chronic pain](Chronic%20Pain.md).
 
 Risk factors can include:
 
 - A lack of knowledge about the prescription drug and possible risks
-- A previous addiction to other substances, including [alcohol](https://medlineplus.gov/alcoholusedisorderaud.html) and [tobacco](https://medlineplus.gov/smoking.html)
+- A previous addiction to other substances, including [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md) and [tobacco](Smoking.md)
 - Certain mental health conditions
 
 #### What are the risks of prescription drug misuse?
@@ -46,7 +46,7 @@ Providers and pharmacists play a role in preventing or reducing prescription dru
 
 A few ways to help reduce your risk and make sure that you are using any prescription medicines correctly include:
 
-- Talk to your provider about any other prescription medicines, [over-the-counter-medicines](https://medlineplus.gov/overthecountermedicines.html), and supplements that you're taking to see if it is safe to take the prescription drug with them.
+- Talk to your provider about any other prescription medicines, [over-the-counter-medicines](Over-the-Counter%20Medicines.md), and supplements that you're taking to see if it is safe to take the prescription drug with them.
 - Follow the directions carefully and take medicine as prescribed. If you're taking prescription drugs for pain and it isn't working, don't stop or change the amount you're taking without talking to your provider.
 - If your provider prescribes opioids, ask about the risks and benefits of taking the medicine, and if another medicine with less risk of addiction could be used.
 
@@ -54,10 +54,10 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Anabolic Steroids
-- Medicines
-- Opioids and Opioid Use Disorder (OUD)
+- [Anabolic Steroids](Anabolic%20Steroids.md)
+- [Medicines](Medicines.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/prescriptiondrugmisuse.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/prescriptiondrugmisuse.html). General information, not medical advice.*

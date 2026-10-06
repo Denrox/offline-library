@@ -2,11 +2,11 @@
 
 #### What is mental health?
 
-Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act as we cope with life. It also helps determine how we handle [stress](https://medlineplus.gov/stress.html), relate to others, and make choices. Mental health is important at every stage of life, from [childhood](https://medlineplus.gov/childmentalhealth.html) and [adolescence](https://medlineplus.gov/teenmentalhealth.html) through adulthood and [aging](https://medlineplus.gov/olderadultmentalhealth.html).
+Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act as we cope with life. It also helps determine how we handle [stress](Stress.md), relate to others, and make choices. Mental health is important at every stage of life, from [childhood](Child%20Mental%20Health.md) and [adolescence](Teen%20Mental%20Health.md) through adulthood and [aging](Older%20Adult%20Mental%20Health.md).
 
 #### What are mental disorders?
 
-[Mental disorders](https://medlineplus.gov/mentaldisorders.html) are serious conditions that can affect your thinking, mood, and behavior. They may be occasional or long-lasting. They can affect your ability to relate to others and function each day. Mental disorders are common; many Americans will be diagnosed with one at some time in their life. But there are treatments. People with mental disorders can get better, and many of them recover completely.
+[Mental disorders](Mental%20Disorders.md) are serious conditions that can affect your thinking, mood, and behavior. They may be occasional or long-lasting. They can affect your ability to relate to others and function each day. Mental disorders are common; many Americans will be diagnosed with one at some time in their life. But there are treatments. People with mental disorders can get better, and many of them recover completely.
 
 #### Why is mental health important?
 
@@ -19,7 +19,7 @@ Mental health is important because it can help you to:
 - Work productively
 - Realize your full potential
 
-Your mental health is also important because it can affect your physical health. For example, mental disorders can raise your risk for physical health problems such as [stroke](https://medlineplus.gov/stroke.html), [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), and [heart disease](https://medlineplus.gov/heartdiseases.html).
+Your mental health is also important because it can affect your physical health. For example, mental disorders can raise your risk for physical health problems such as [stroke](Stroke.md), [type 2 diabetes](Diabetes%20Type%202.md), and [heart disease](Heart%20Diseases.md).
 
 #### What can affect my mental health?
 
@@ -30,7 +30,7 @@ There are many different factors that can affect your mental health, including:
 - Family history of mental health problems
 - Your lifestyle, such as diet, physical activity, and substance use
 
-You can also affect your mental health by [taking steps to improve it](https://medlineplus.gov/howtoimprovementalhealth.html), such as doing meditation, using relaxation techniques, and practicing gratitude.
+You can also affect your mental health by [taking steps to improve it](How%20to%20Improve%20Mental%20Health.md), such as doing meditation, using relaxation techniques, and practicing gratitude.
 
 #### Can my mental health change over time?
 
@@ -60,12 +60,12 @@ If you think that you may have a mental health problem, get help. Talk therapy a
 
 ## Related topics
 
-- Child Mental Health
-- How to Improve Mental Health
-- Mental Disorders
-- Older Adult Mental Health
-- Teen Mental Health
+- [Child Mental Health](Child%20Mental%20Health.md)
+- [How to Improve Mental Health](How%20to%20Improve%20Mental%20Health.md)
+- [Mental Disorders](Mental%20Disorders.md)
+- [Older Adult Mental Health](Older%20Adult%20Mental%20Health.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mentalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mentalhealth.html). General information, not medical advice.*

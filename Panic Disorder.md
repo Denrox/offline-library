@@ -2,13 +2,13 @@
 
 #### What is panic disorder?
 
-Panic disorder is a type of [anxiety disorder](https://medlineplus.gov/anxiety.html). It causes repeated panic attacks, which are sudden periods of intense fear, discomfort, or a sense of losing control. These attacks happen even though there is no real danger. They often cause physical symptoms. For example, you may have a rapid or pounding heartbeat and feel like you are having a [heart attack](https://medlineplus.gov/heartattack.html).
+Panic disorder is a type of [anxiety disorder](Anxiety.md). It causes repeated panic attacks, which are sudden periods of intense fear, discomfort, or a sense of losing control. These attacks happen even though there is no real danger. They often cause physical symptoms. For example, you may have a rapid or pounding heartbeat and feel like you are having a [heart attack](Heart%20Attack.md).
 
 If you have panic attacks, it doesn't mean you will develop a panic disorder. Many people only have one or two panic attacks in their lifetime and get better without treatment.
 
 But some of the people who have panic attacks do develop panic disorder. They have repeated panic attacks. The attacks can happen as often as several times a day or as rarely as a few times a year. People with panic disorder often worry about having another attack. It may cause them to avoid places and situations where they had panic attacks in the past.
 
-Panic disorder is not life-threatening, but it can be upsetting and affect your quality of life. And if it is not treated, it can sometimes lead to other health conditions, including [depression](https://medlineplus.gov/depression.html) and substance use disorders.
+Panic disorder is not life-threatening, but it can be upsetting and affect your quality of life. And if it is not treated, it can sometimes lead to other health conditions, including [depression](Depression.md) and substance use disorders.
 
 #### What causes panic disorder?
 
@@ -17,7 +17,7 @@ The cause of panic disorder is unknown. Researchers think that certain factors m
 - Genetics - panic disorder sometimes runs in families. But no one knows for sure why some family members have it while others don't.
 - Brain biology and chemistry.
 - Your environment.
-- Major [stress](https://medlineplus.gov/stress.html).
+- Major [stress](Stress.md).
 
 #### Who is more likely to develop panic disorder?
 
@@ -36,11 +36,11 @@ People with panic disorder may have:
  - Pounding or racing heart
  - Sweating or chills
  - Trembling or shaking
- - [Trouble breathing](https://medlineplus.gov/breathingproblems.html)
+ - [Trouble breathing](Breathing%20Problems.md)
  - The feeling that they are choking
- - Weakness or [dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
- - [Chest pain](https://medlineplus.gov/chestpain.html)
- - Stomach pain or [nausea](https://medlineplus.gov/nauseaandvomiting.html)
+ - Weakness or [dizziness](Dizziness%20and%20Vertigo.md)
+ - [Chest pain](Chest%20Pain.md)
+ - Stomach pain or [nausea](Nausea%20and%20Vomiting.md)
 
 Panic attacks can happen anytime, without warning. They can last anywhere from a few minutes to over an hour.
 
@@ -52,9 +52,9 @@ To find out if you have panic disorder, your health care provider:
 - May check if an unrelated physical problem is causing your symptoms, for example with:
 
  - A physical exam
- - Blood tests to check for [thyroid problems](https://medlineplus.gov/thyroiddiseases.html) and other possible conditions
- - [Heart health tests](https://medlineplus.gov/hearthealthtests.html)
-- May do a[panic disorder test](https://medlineplus.gov/lab-tests/panic-disorder-test/)
+ - Blood tests to check for [thyroid problems](Thyroid%20Diseases.md) and other possible conditions
+ - [Heart health tests](Heart%20Health%20Tests.md)
+- May do apanic disorder test
 - May refer you to a mental health provider for the panic disorder test or other types of psychological evaluations
 
 #### What are the treatments for panic disorder?
@@ -66,16 +66,16 @@ Treatment for panic disorder usually includes one or more of the following:
  - It may include **cognitive-behavioral therapy (CBT),** a type of talk therapy that helps you change your negative thoughts and how you react to things that cause you to feel anxiety.
 - **Medicines**, including:
 
- - [Antidepressants](https://medlineplus.gov/antidepressants.html), such as selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs)
+ - [Antidepressants](Antidepressants.md), such as selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs)
  - Anti-anxiety medicines
 
 Your provider may also suggest that you follow a healthy lifestyle, which may help with panic disorder. It may include:
 
 - Avoiding alcohol
-- Reducing [caffeine](https://medlineplus.gov/caffeine.html)
+- Reducing [caffeine](Caffeine.md)
 - Eating regular meals
-- [Getting enough sleep](https://medlineplus.gov/healthysleep.html)
-- [Getting regular exercise](https://medlineplus.gov/howmuchexercisedoineed.html)
+- [Getting enough sleep](Healthy%20Sleep.md)
+- [Getting regular exercise](How%20Much%20Exercise%20Do%20I%20Need.md)
 
 Joining a support group may also be helpful. Support groups can make you feel like you are not alone, and you may learn some new tips on how to cope.
 
@@ -83,8 +83,8 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Anxiety
+- [Anxiety](Anxiety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/panicdisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/panicdisorder.html). General information, not medical advice.*

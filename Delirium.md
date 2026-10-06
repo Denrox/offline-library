@@ -14,20 +14,20 @@ There are three types of delirium:
 
 There are many different problems that can cause delirium. Some of the more common causes include:
 
-- **Advanced [cancer](https://medlineplus.gov/cancer.html).**
-- **Alcohol or [drugs](https://medlineplus.gov/druguseandaddiction.html)**, either from intoxication or withdrawal. This includes a serious type of alcohol withdrawal syndrome called delirium tremens. It usually happens to people who stop drinking after years of [alcohol use disorder (AUD)](alcoholusedisorderaud.html).
-- **[Dehydration](https://medlineplus.gov/dehydration.html) and [electrolyte imbalances](https://medlineplus.gov/fluidandelectrolytebalance.html).**
-- **[Dementia](https://medlineplus.gov/dementia.html).**
+- **Advanced [cancer](Cancer.md).**
+- **Alcohol or [drugs](Drug%20Use%20and%20Addiction.md)**, either from intoxication or withdrawal. This includes a serious type of alcohol withdrawal syndrome called delirium tremens. It usually happens to people who stop drinking after years of alcohol use disorder (AUD).
+- **[Dehydration](Dehydration.md) and [electrolyte imbalances](Fluid%20and%20Electrolyte%20Balance.md).**
+- **[Dementia](Dementia.md).**
 - **Hospitalization**, especially in intensive care.
-- **Infections**, such as [urinary tract infections](https://medlineplus.gov/urinarytractinfections.html), [pneumonia](https://medlineplus.gov/pneumonia.html), and the [flu](https://medlineplus.gov/flu.html).
-- **Medicines.** This could be a [side effect](https://medlineplus.gov/drugreactions.html) of a medicine, such as sedatives or [opioids](https://medlineplus.gov/opioidsandopioidusedisorderoud.html). Or it could be from withdrawal after stopping a medicine.
-- **[Metabolic disorders](https://medlineplus.gov/metabolicdisorders.html)**.
-- **Organ failure**, such as [kidney](https://medlineplus.gov/kidneyfailure.html) or liver failure.
-- **[Poisoning](https://medlineplus.gov/poisoning.html)**.
+- **Infections**, such as [urinary tract infections](Urinary%20Tract%20Infections.md), [pneumonia](Pneumonia.md), and the [flu](Flu.md).
+- **Medicines.** This could be a [side effect](Drug%20Reactions.md) of a medicine, such as sedatives or [opioids](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md). Or it could be from withdrawal after stopping a medicine.
+- **[Metabolic disorders](Metabolic%20Disorders.md)**.
+- **Organ failure**, such as [kidney](Kidney%20Failure.md) or liver failure.
+- **[Poisoning](Poisoning.md)**.
 - **Serious illnesses**.
-- **Severe [pain](https://medlineplus.gov/pain.html)**.
+- **Severe [pain](Pain.md)**.
 - **Sleep deprivation**.
-- **Surgeries**, including reactions to [anesthesia](https://medlineplus.gov/anesthesia.html).
+- **Surgeries**, including reactions to [anesthesia](Anesthesia.md).
 
 #### Who is more likely to get delirium?
 
@@ -40,7 +40,7 @@ Certain factors put you at risk for delirium, including:
 - Older age
 - Having surgery
 - Taking medicines that affect the mind or behavior
-- Taking high doses of [pain medicines](https://medlineplus.gov/painrelievers.html), such as opioids
+- Taking high doses of [pain medicines](Pain%20Relievers.md), such as opioids
 
 #### What are the symptoms of delirium?
 
@@ -51,7 +51,7 @@ The symptoms of delirium usually start suddenly, over a few hours or a few days.
 - Confusion
 - Disorganized thinking, talking in a way that doesn't make sense
 - Disrupted sleep patterns, sleepiness
-- Emotional changes: anger, agitation, [depression](https://medlineplus.gov/depression.html), irritability, overexcitement
+- Emotional changes: anger, agitation, [depression](Depression.md), irritability, overexcitement
 - Hallucinations and delusions
 - Memory problems, especially with short-term memory
 - Trouble concentrating
@@ -63,7 +63,7 @@ Your health care provider may use many tools to make a diagnosis:
 - A medical history, which includes asking about your symptoms
 - Physical and neurological exams
 - Mental status testing, which checks for problems with your thinking and alertness
-- Lab and [diagnostic imaging](https://medlineplus.gov/diagnosticimaging.html) tests
+- Lab and [diagnostic imaging](Diagnostic%20Imaging.md) tests
 
 Delirium and dementia have similar symptoms, so it can be hard to tell them apart. You can also have both at the same time. The differences between them are that:
 
@@ -84,4 +84,4 @@ Treating the conditions that can cause delirium may reduce the risk of getting i
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/delirium.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/delirium.html). General information, not medical advice.*

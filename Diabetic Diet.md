@@ -4,19 +4,19 @@
 
 #### What is diabetes?
 
-If you have [diabetes](https://medlineplus.gov/diabetes.html), your [blood glucose](https://medlineplus.gov/bloodglucose.html), or blood sugar, levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps glucose get into your cells.
+If you have [diabetes](Diabetes.md), your [blood glucose](Blood%20Glucose.md), or blood sugar, levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps glucose get into your cells.
 
-With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body doesn't make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood glucose levels.
+With [type 1 diabetes](Diabetes%20Type%201.md), your body doesn't make insulin. With [type 2 diabetes](Diabetes%20Type%202.md), your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood glucose levels.
 
-[Prediabetes](https://medlineplus.gov/prediabetes.html) means that your blood glucose levels are higher than normal but not high enough to be called diabetes. If you have prediabetes, you are more likely to develop type 2 diabetes.
+[Prediabetes](Prediabetes.md) means that your blood glucose levels are higher than normal but not high enough to be called diabetes. If you have prediabetes, you are more likely to develop type 2 diabetes.
 
 #### How do the foods I eat affect my blood glucose levels?
 
-The glucose in your blood comes from certain foods called [carbohydrates](https://medlineplus.gov/carbohydrates.html), or "carbs." Foods that are high in carbs include candy and sweets, sodas, breads, tortillas, and white rice. The more carbs you eat, the higher your blood glucose level will be. Some, but not all people with diabetes, may need to count the amount of carbs eaten in drinks and meals.
+The glucose in your blood comes from certain foods called [carbohydrates](Carbohydrates.md), or "carbs." Foods that are high in carbs include candy and sweets, sodas, breads, tortillas, and white rice. The more carbs you eat, the higher your blood glucose level will be. Some, but not all people with diabetes, may need to count the amount of carbs eaten in drinks and meals.
 
-Whether you have type 1 or type 2 diabetes, making the right food choices is an important way to keep your blood glucose at a level that is healthy for you. When you control your blood glucose, you lower your chance of having [serious health problems from diabetes](https://medlineplus.gov/diabetescomplications.html), such as [vision loss](https://medlineplus.gov/diabeticeyeproblems.html) and [heart problems](https://medlineplus.gov/diabeticheartdisease.html).
+Whether you have type 1 or type 2 diabetes, making the right food choices is an important way to keep your blood glucose at a level that is healthy for you. When you control your blood glucose, you lower your chance of having [serious health problems from diabetes](Diabetes%20Complications.md), such as [vision loss](Diabetic%20Eye%20Problems.md) and [heart problems](Diabetic%20Heart%20Disease.md).
 
-And if you have prediabetes or are at risk for diabetes, eating foods that keep your blood glucose levels healthy may help [prevent type 2 diabetes](https://medlineplus.gov/howtopreventdiabetes.html) later on.
+And if you have prediabetes or are at risk for diabetes, eating foods that keep your blood glucose levels healthy may help [prevent type 2 diabetes](How%20to%20Prevent%20Diabetes.md) later on.
 
 #### What's the best diet for diabetes?
 
@@ -36,7 +36,7 @@ Eating the right foods for diabetes means eating a variety of healthy foods from
 
 - **Fruits and vegetables**
 - **Whole grains**, such as whole wheat, brown rice, barley, quinoa, and oats
-- **[Proteins](https://medlineplus.gov/dietaryproteins.html)**, such as lean meats, chicken, turkey, fish, eggs, nuts, beans, lentils, and tofu
+- **[Proteins](Dietary%20Proteins.md)**, such as lean meats, chicken, turkey, fish, eggs, nuts, beans, lentils, and tofu
 - **Nonfat or low-fat dairy**, such as milk, yogurt, and cheese
 
 #### What foods should I limit to control my blood glucose?
@@ -51,9 +51,9 @@ The foods and drinks you should limit include:
  - Drinks with added sugars, such as juice, regular soda, and regular sports or energy drinks
  - White rice, tortillas, breads, and pasta - especially those made with white flour
  - Starchy vegetables, such as white potatoes, corn, and peas
-- **Fried foods** and other foods high in saturated and trans [fats](https://medlineplus.gov/dietaryfats.html).
-- **Foods high in [sodium](https://medlineplus.gov/sodium.html)** (salt).
-- **[Alcohol](https://medlineplus.gov/alcohol.html).** If you do drink, you should drink moderately. This means no more than one standard drink a day if you're a woman or two standard drinks a day if you're a man.
+- **Fried foods** and other foods high in saturated and trans [fats](Dietary%20Fats.md).
+- **Foods high in [sodium](Sodium.md)** (salt).
+- **[Alcohol](Alcohol.md).** If you do drink, you should drink moderately. This means no more than one standard drink a day if you're a woman or two standard drinks a day if you're a man.
 
 #### What else do I need to know about diabetic diets?
 
@@ -69,12 +69,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Blood Glucose
-- Diabetes
-- Diabetes in Children and Teens
-- Diabetes Type 1
-- Diabetes Type 2
+- [Blood Glucose](Blood%20Glucose.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Type 1](Diabetes%20Type%201.md)
+- [Diabetes Type 2](Diabetes%20Type%202.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabeticdiet.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabeticdiet.html). General information, not medical advice.*

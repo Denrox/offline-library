@@ -8,8 +8,8 @@ There are different types of laser eye surgery. LASIK - laser-assisted in situ k
 
 ## Related topics
 
-- Refractive Errors
+- [Refractive Errors](Refractive%20Errors.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lasereyesurgery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lasereyesurgery.html). General information, not medical advice.*

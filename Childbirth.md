@@ -2,9 +2,9 @@
 
 #### What is childbirth?
 
-Childbirth is the process of giving birth to a baby. It includes labor and delivery of the fetus and the placenta. The placenta is the organ that supplies food and oxygen through the umbilical cord to your [fetus during pregnancy](https://medlineplus.gov/fetalhealthanddevelopment.html).
+Childbirth is the process of giving birth to a baby. It includes labor and delivery of the fetus and the placenta. The placenta is the organ that supplies food and oxygen through the umbilical cord to your [fetus during pregnancy](Fetal%20Health%20and%20Development.md).
 
-A full-term pregnancy is 40 weeks. Labor usually begins between 37 and 42 weeks of [pregnancy](https://medlineplus.gov/pregnancy.html). It is how your body prepares to give birth to your baby. [Preterm labor](https://medlineplus.gov/pretermlabor.html) can start before 37 completed weeks of pregnancy. It can lead to premature birth. [Premature babies](https://medlineplus.gov/prematurebabies.html) may face serious health risks.
+A full-term pregnancy is 40 weeks. Labor usually begins between 37 and 42 weeks of [pregnancy](Pregnancy.md). It is how your body prepares to give birth to your baby. [Preterm labor](Preterm%20Labor.md) can start before 37 completed weeks of pregnancy. It can lead to premature birth. [Premature babies](Premature%20Babies.md) may face serious health risks.
 
 #### How do I know if I'm going into labor?
 
@@ -27,7 +27,7 @@ Labor happens in three stages.
 
 Sometimes, mothers need to have labor induced. Medicines or other methods are used to start labor. This is usually only done when the due date has passed or if a problem with the pregnancy risks the health of the mother or the fetus.
 
-Mothers and their babies are closely monitored during labor and delivery. Delivery can occur either vaginally through the birth canal, or if there are [complications](https://medlineplus.gov/childbirthproblems.html), the delivery may be done surgically by a [Cesarean section](https://medlineplus.gov/cesareandelivery.html). This is when the baby is taken out through your abdomen (belly) and uterus.
+Mothers and their babies are closely monitored during labor and delivery. Delivery can occur either vaginally through the birth canal, or if there are [complications](Childbirth%20Problems.md), the delivery may be done surgically by a [Cesarean section](Cesarean%20Delivery.md). This is when the baby is taken out through your abdomen (belly) and uterus.
 
 #### What are the options for pain relief during childbirth?
 
@@ -45,13 +45,13 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Cesarean Delivery
-- Childbirth Problems
-- Health Problems in Pregnancy
-- Postpartum Care
-- Preterm Labor
-- Twins, Triplets, Multiple Births
+- [Cesarean Delivery](Cesarean%20Delivery.md)
+- [Childbirth Problems](Childbirth%20Problems.md)
+- [Health Problems in Pregnancy](Health%20Problems%20in%20Pregnancy.md)
+- [Postpartum Care](Postpartum%20Care.md)
+- [Preterm Labor](Preterm%20Labor.md)
+- [Twins, Triplets, Multiple Births](Twins%2C%20Triplets%2C%20Multiple%20Births.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childbirth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childbirth.html). General information, not medical advice.*

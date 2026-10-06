@@ -6,7 +6,7 @@ Your personality is your own way of thinking, feeling, behaving, and relating to
 
 #### What are personality disorders?
 
-Personality disorders are a group of [mental disorders](https://medlineplus.gov/mentaldisorders.html). They involve long-term patterns of thoughts and behaviors that are different from what is considered normal in your culture. The thoughts and behaviors are unhealthy and inflexible. They cause serious problems with relationships, work, and social activities. They can make it hard to deal with everyday stresses and problems.
+Personality disorders are a group of [mental disorders](Mental%20Disorders.md). They involve long-term patterns of thoughts and behaviors that are different from what is considered normal in your culture. The thoughts and behaviors are unhealthy and inflexible. They cause serious problems with relationships, work, and social activities. They can make it hard to deal with everyday stresses and problems.
 
 #### What are the types of personality disorders?
 
@@ -29,11 +29,11 @@ There are 10 types of personality disorders. They are grouped into three differe
 
 - **Avoidant personality disorder,** in which a person is very shy and feels that they are not as good as others. They often avoid people because they fear rejection.
 - **Dependent personality disorder,** in which a person depends too much on others and feels that they need to be taken care of. They may let others treat them badly because they are afraid of losing the relationship.
-- **Obsessive-compulsive personality disorder,** in which a person needs control and order. They are perfectionists and can be inflexible. Although some of the symptoms are similar, this is not the same thing as [obsessive-compulsive disorder](https://medlineplus.gov/obsessivecompulsivedisorder.html) (OCD).
+- **Obsessive-compulsive personality disorder,** in which a person needs control and order. They are perfectionists and can be inflexible. Although some of the symptoms are similar, this is not the same thing as [obsessive-compulsive disorder](Obsessive-Compulsive%20Disorder.md) (OCD).
 
 #### What causes personality disorders?
 
-Personality disorders usually begin when someone is in their teens or early adult years. The cause is unknown. However, genes and childhood experiences such as [abuse](https://medlineplus.gov/childabuse.html) and trauma likely play a role.
+Personality disorders usually begin when someone is in their teens or early adult years. The cause is unknown. However, genes and childhood experiences such as [abuse](Child%20Abuse.md) and trauma likely play a role.
 
 #### What are the symptoms of personality disorders?
 
@@ -47,13 +47,13 @@ A mental health care provider can diagnose personality disorders. A mental healt
 
 #### How are personality disorders treated?
 
-Talk therapy, also known as psychotherapy, is the main treatment for personality disorders. Medicines may help relieve certain symptoms, such as [anxiety](https://medlineplus.gov/anxiety.html) or mood swings.
+Talk therapy, also known as psychotherapy, is the main treatment for personality disorders. Medicines may help relieve certain symptoms, such as [anxiety](Anxiety.md) or mood swings.
 
 ## Related topics
 
-- Mental Disorders
-- Obsessive-Compulsive Disorder
+- [Mental Disorders](Mental%20Disorders.md)
+- [Obsessive-Compulsive Disorder](Obsessive-Compulsive%20Disorder.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/personalitydisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/personalitydisorders.html). General information, not medical advice.*

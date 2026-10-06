@@ -18,9 +18,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Foot Health
-- Tinea Infections
+- [Foot Health](Foot%20Health.md)
+- [Tinea Infections](Tinea%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/athletesfoot.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/athletesfoot.html). General information, not medical advice.*

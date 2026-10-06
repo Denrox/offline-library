@@ -4,7 +4,7 @@
 
 #### What is Lewy body dementia (LBD)?
 
-Lewy body dementia (LBD) is one of the most common types of [dementia](https://medlineplus.gov/dementia.html) in older adults. Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include:
+Lewy body dementia (LBD) is one of the most common types of [dementia](Dementia.md) in older adults. Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include:
 
 - Memory
 - Language skills
@@ -19,9 +19,9 @@ There are two types of LBD: dementia with Lewy bodies and Parkinson's disease de
 
 Both types cause the same changes in the brain. And, over time, they can cause similar symptoms. The main difference is in when the cognitive (thinking) and movement symptoms start.
 
-Dementia with Lewy bodies causes problems with thinking ability that seem similar to [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html). Later, it also causes other symptoms, such as movement symptoms, visual hallucinations, and certain [sleep disorders](https://medlineplus.gov/sleepdisorders.html). It also causes more trouble with mental activities than with memory.
+Dementia with Lewy bodies causes problems with thinking ability that seem similar to [Alzheimer's disease](Alzheimer%27s%20Disease.md). Later, it also causes other symptoms, such as movement symptoms, visual hallucinations, and certain [sleep disorders](Sleep%20Disorders.md). It also causes more trouble with mental activities than with memory.
 
-Parkinson's disease dementia starts as a movement disorder. It first causes the symptoms of [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html): slowed movement, muscle stiffness, tremor, and a shuffling walk. Later on, it causes dementia.
+Parkinson's disease dementia starts as a movement disorder. It first causes the symptoms of [Parkinson's disease](Parkinson%27s%20Disease.md): slowed movement, muscle stiffness, tremor, and a shuffling walk. Later on, it causes dementia.
 
 #### What causes Lewy body dementia (LBD)?
 
@@ -40,7 +40,7 @@ LBD is a progressive disease. This means that the symptoms start slowly and get 
 - **Visual hallucinations**, which means seeing things that are not there
 - **Problems with movement and posture**, including slowness of movement, difficulty walking, and muscle stiffness. These are called parkinsonian motor symptoms.
 - **REM sleep behavior disorder**, a condition in which a person seems to act out dreams. It may include vivid dreaming, talking in one's sleep, violent movements, or falling out of bed. This may be the earliest symptom of LBD in some people. It can appear several years before any other LBD symptoms.
-- **Changes in behavior and mood**, such as [depression](https://medlineplus.gov/depression.html), [anxiety](https://medlineplus.gov/anxiety.html), and apathy (a lack of interest in normal daily activities or events)
+- **Changes in behavior and mood**, such as [depression](Depression.md), [anxiety](Anxiety.md), and apathy (a lack of interest in normal daily activities or events)
 
 In the early stages of LBD, symptoms can be mild, and people can function fairly normally. As the disease gets worse, people with LBD need more help due to problems with thinking and movement. In the later stages of the disease, they often cannot care for themselves.
 
@@ -50,7 +50,7 @@ There isn't one test that can diagnose LBD. It is important to see an experience
 
 - Do a medical history, including taking a detailed account of the symptoms. The doctor will talk to both the patient and caregivers.
 - Do physical and neurological exams
-- Do tests to rule out other conditions that could cause similar symptoms. These could include blood tests and brain [imaging tests](https://medlineplus.gov/diagnosticimaging.html).
+- Do tests to rule out other conditions that could cause similar symptoms. These could include blood tests and brain [imaging tests](Diagnostic%20Imaging.md).
 - Do neuropsychological tests to evaluate memory and other cognitive functions
 
 LBD can be hard to diagnose, because Parkinson's disease and Alzheimer's disease cause similar symptoms. Scientists think that Lewy body disease might be related to these diseases, or that they sometimes happen together.
@@ -77,10 +77,10 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Alzheimer's Disease
-- Dementia
-- Parkinson's Disease
+- [Alzheimer's Disease](Alzheimer%27s%20Disease.md)
+- [Dementia](Dementia.md)
+- [Parkinson's Disease](Parkinson%27s%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lewybodydementia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lewybodydementia.html). General information, not medical advice.*

@@ -6,10 +6,10 @@ Drowning precautions should include:
 
 - Fences around pools
 - Supervising children near any body of water, including tubs
-- Not [swimming or boating](https://medlineplus.gov/watersafetyrecreational.html) when under the influence of alcohol or sedatives
+- Not [swimming or boating](Water%20Safety%20%28Recreational%29.md) when under the influence of alcohol or sedatives
 - Wearing life jackets when boating
-- Learning [CPR](https://medlineplus.gov/cpr.html)
+- Learning [CPR](CPR.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/drowning.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/drowning.html). General information, not medical advice.*

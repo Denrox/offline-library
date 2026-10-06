@@ -4,15 +4,15 @@
 
 #### What is acute flaccid myelitis (AFM)?
 
-Acute flaccid myelitis (AFM) is a [neurologic disease](https://medlineplus.gov/neurologicdiseases.html). It is rare, but serious. It affects an area of the spinal cord called gray matter. This can cause the muscles and reflexes in the body to become weak.
+Acute flaccid myelitis (AFM) is a [neurologic disease](Neurologic%20Diseases.md). It is rare, but serious. It affects an area of the spinal cord called gray matter. This can cause the muscles and reflexes in the body to become weak.
 
-Because of these symptoms, some people call AFM a "polio-like" illness. But it is different from [polio](https://medlineplus.gov/polioandpostpoliosyndrome.html). AFM is not caused by polioviruses.
+Because of these symptoms, some people call AFM a "polio-like" illness. But it is different from [polio](Polio%20and%20Post-Polio%20Syndrome.md). AFM is not caused by polioviruses.
 
 #### What causes acute flaccid myelitis (AFM)?
 
 AFM can be caused by several different viruses. Researchers think that enteroviruses have been causing the recent increases in the number of children with AFM. AFM can also be caused by other viruses, including flaviviruses, herpesviruses, and adenoviruses.
 
-Most people with AFM had a mild respiratory illness or [fever](https://medlineplus.gov/fever.html) (like you would get from a [viral infection](https://medlineplus.gov/viralinfections.html)) before they got AFM.
+Most people with AFM had a mild respiratory illness or [fever](Fever.md) (like you would get from a [viral infection](Viral%20Infections.md)) before they got AFM.
 
 #### Who is more likely to develop acute flaccid myelitis (AFM)?
 
@@ -30,21 +30,21 @@ Some people also have other symptoms, including:
 - Facial drooping/weakness
 - Trouble moving the eyes
 - Drooping eyelids
-- [Trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
+- [Trouble swallowing](Swallowing%20Disorders.md)
 - Slurred speech
 - Pain in the arms, legs, back, or neck
 
-Sometimes AFM can weaken the muscles that you need for breathing. This can lead to [respiratory failure](https://medlineplus.gov/respiratoryfailure.html), which is very serious. If you get respiratory failure, you may need to use a ventilator (breathing machine) to help you breathe.
+Sometimes AFM can weaken the muscles that you need for breathing. This can lead to [respiratory failure](Respiratory%20Failure.md), which is very serious. If you get respiratory failure, you may need to use a ventilator (breathing machine) to help you breathe.
 
 If you or your child develops any of these symptoms, get medical care right away.
 
 #### How is acute flaccid myelitis (AFM) diagnosed?
 
-AFM causes many of the same symptoms as other neurologic diseases, such as transverse myelitis and [Guillain-Barre syndrome](https://medlineplus.gov/guillainbarresyndrome.html). This can make it difficult to diagnose. To find out if you have AFM, your doctor may use:
+AFM causes many of the same symptoms as other neurologic diseases, such as transverse myelitis and [Guillain-Barre syndrome](Guillain-Barre%20Syndrome.md). This can make it difficult to diagnose. To find out if you have AFM, your doctor may use:
 
-- A [neurologic exam](https://medlineplus.gov/lab-tests/neurological-exam/), including looking at where there is weakness, poor muscle tone, and decreased reflexes
-- An [MRI](https://medlineplus.gov/mriscans.html) to look at the spinal cord and brain
-- Lab tests on the [cerebrospinal fluid](https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/) (the fluid around the brain and spinal cord)
+- A neurologic exam, including looking at where there is weakness, poor muscle tone, and decreased reflexes
+- An [MRI](MRI%20Scans.md) to look at the spinal cord and brain
+- Lab tests on the cerebrospinal fluid (the fluid around the brain and spinal cord)
 - [Nerve conduction and electromyography (EMG) studies](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/ ). These tests check nerve speed and the response of muscles to the messages from the nerves.
 
 It is important that the tests are done as soon as possible after the symptoms start.
@@ -57,10 +57,10 @@ There is no specific treatment for AFM. A doctor who specializes in treating bra
 
 There is no specific way to prevent AFM. But you can take steps to prevent getting sick from a virus by:
 
-- [Washing your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water
+- [Washing your hands](Germs%20and%20Hygiene.md) often with soap and water
 - Avoiding touching your face with unwashed hands
 - Avoiding close contact with people who are sick
-- [Cleaning and disinfecting](https://medlineplus.gov/cleaningdisinfectingandsanitizing.html) surfaces that you frequently touch, including toys
+- [Cleaning and disinfecting](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md) surfaces that you frequently touch, including toys
 - Covering coughs and sneezes with a tissue or upper shirt sleeve, not hands
 - Staying home when sick
 
@@ -68,4 +68,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acuteflaccidmyelitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acuteflaccidmyelitis.html). General information, not medical advice.*

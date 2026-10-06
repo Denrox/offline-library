@@ -4,34 +4,34 @@
 
 #### What is drug use?
 
-[Drug use](https://medlineplus.gov/druguseandaddiction.html), or misuse, includes:
+[Drug use](Drug%20Use%20and%20Addiction.md), or misuse, includes:
 
 - Using illegal substances, such as
 
- - [Anabolic steroids](https://medlineplus.gov/anabolicsteroids.html)
- - [Club drugs](https://medlineplus.gov/clubdrugs.html)
- - [Cocaine](https://medlineplus.gov/cocaine.html)
- - [Heroin](https://medlineplus.gov/heroin.html)
- - [Inhalants](https://medlineplus.gov/inhalants.html)
- - [Cannabis (also known as marijuana)](cannabis.html)
- - [Methamphetamines](https://medlineplus.gov/methamphetamine.html)
-- Misusing [prescription medicines](https://medlineplus.gov/prescriptiondrugmisuse.html), including [opioids](https://medlineplus.gov/opioidsandopioidusedisorderoud.html). This means taking the medicines in a different way than the health care provider prescribed. This includes:
+ - [Anabolic steroids](Anabolic%20Steroids.md)
+ - [Club drugs](Club%20Drugs.md)
+ - [Cocaine](Cocaine.md)
+ - [Heroin](Heroin.md)
+ - [Inhalants](Inhalants.md)
+ - Cannabis (also known as marijuana)
+ - [Methamphetamines](Methamphetamine.md)
+- Misusing [prescription medicines](Prescription%20Drug%20Misuse.md), including [opioids](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md). This means taking the medicines in a different way than the health care provider prescribed. This includes:
 
  - Taking a medicine that was prescribed for someone else.
  - Taking a larger dose than you are supposed to.
  - Using the medicine in a different way than you are supposed to. For example, instead of swallowing your tablets, you might crush and then snort or inject them.
  - Using the medicine for another purpose, such as getting high.
-- Misusing [over-the-counter medicines](https://medlineplus.gov/overthecountermedicines.html), including using them for another purpose and using them in a different way than you are supposed to.
+- Misusing [over-the-counter medicines](Over-the-Counter%20Medicines.md), including using them for another purpose and using them in a different way than you are supposed to.
 
 #### Why are drugs especially dangerous for young people?
 
 Young people's brains are growing and developing until they are their mid-20's. This is especially true of the prefrontal cortex, which is used to make decisions. Taking drugs when young can interfere with developmental processes occurring in the brain. It can also affect their decision-making. They may be more likely to do risky things, such as unsafe sex and dangerous driving.
 
-The earlier young people start using drugs, the greater their chances of continuing to use them and become addicted later in life.Taking drugs when you are young can contribute to the development of adult health problems, such as [heart disease](https://medlineplus.gov/heartdiseases.html), [high blood pressure](https://medlineplus.gov/highbloodpressure.html), and [sleep disorders](https://medlineplus.gov/sleepdisorders.html).
+The earlier young people start using drugs, the greater their chances of continuing to use them and become addicted later in life.Taking drugs when you are young can contribute to the development of adult health problems, such as [heart disease](Heart%20Diseases.md), [high blood pressure](High%20Blood%20Pressure.md), and [sleep disorders](Sleep%20Disorders.md).
 
 #### Which drugs most commonly used by young people?
 
-The drugs that are most commonly used by young people are [alcohol](https://medlineplus.gov/underagedrinking.html), [tobacco](https://medlineplus.gov/smoking.html), and cannabis. Recently, more young people have started [vaping](https://medlineplus.gov/ecigarettes.html) tobacco and cannabis. There is still a lot we don't know about the dangers of vaping. Some people have unexpectedly gotten very ill or have even died after vaping. Because of this, young people should stay away from vaping.
+The drugs that are most commonly used by young people are [alcohol](Underage%20Drinking.md), [tobacco](Smoking.md), and cannabis. Recently, more young people have started [vaping](E-Cigarettes.md) tobacco and cannabis. There is still a lot we don't know about the dangers of vaping. Some people have unexpectedly gotten very ill or have even died after vaping. Because of this, young people should stay away from vaping.
 
 #### Why do young people take drugs?
 
@@ -39,7 +39,7 @@ There are many different reasons why a young person may take drugs, including:
 
 - **To fit in.** Young people may do drugs because they want to be accepted by friends or peers who are doing drugs.
 - **To feel good.** Abused drugs can produce feelings of pleasure.
-- **To feel better.** Some young people suffer from [depression](https://medlineplus.gov/depression.html), [anxiety](https://medlineplus.gov/anxiety.html), [stress](https://medlineplus.gov/stress.html)-related disorders, and physical pain. They may do drugs to try to get some relief.
+- **To feel better.** Some young people suffer from [depression](Depression.md), [anxiety](Anxiety.md), [stress](Stress.md)-related disorders, and physical pain. They may do drugs to try to get some relief.
 - **To do better in academics or sports.** Some young people may take stimulants for studying or anabolic steroids to improve their athletic performance.
 - **To experiment.** Young people often want to try new experiences, especially ones that they think are thrilling or daring.
 
@@ -47,9 +47,9 @@ There are many different reasons why a young person may take drugs, including:
 
 Different factors may raise a young person's risk for drug use, including:
 
-- Stressful early life experiences, such [child abuse](https://medlineplus.gov/childabuse.html), [child sexual abuse](https://medlineplus.gov/childsexualabuse.html), and other forms of trauma
+- Stressful early life experiences, such [child abuse](Child%20Abuse.md), [child sexual abuse](Child%20Sexual%20Abuse.md), and other forms of trauma
 - Genetics
-- [Prenatal exposure](https://medlineplus.gov/pregnancyandsubstanceuse.html) to alcohol or other drugs
+- [Prenatal exposure](Pregnancy%20and%20Substance%20Use.md) to alcohol or other drugs
 - Lack of parental supervision or monitoring
 - Having peers and/or friends who use drugs
 
@@ -87,16 +87,16 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Cannabis
-- Club Drugs
-- Cocaine
-- Cold and Cough Medicines
-- Inhalants
-- Opioids and Opioid Use Disorder (OUD)
-- Prescription Drug Misuse
-- Smoking and Youth
-- Underage Drinking
+- [Cannabis](Cannabis.md)
+- [Club Drugs](Club%20Drugs.md)
+- [Cocaine](Cocaine.md)
+- [Cold and Cough Medicines](Cold%20and%20Cough%20Medicines.md)
+- [Inhalants](Inhalants.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
+- [Prescription Drug Misuse](Prescription%20Drug%20Misuse.md)
+- [Smoking and Youth](Smoking%20and%20Youth.md)
+- [Underage Drinking](Underage%20Drinking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/drugsandyoungpeople.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/drugsandyoungpeople.html). General information, not medical advice.*

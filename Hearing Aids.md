@@ -2,7 +2,7 @@
 
 A hearing aid is a small electronic device that you wear in or behind your ear. It makes some sounds louder. A hearing aid can help people hear more in both quiet and noisy situations.
 
-Hearing aids help people who have [hearing loss](https://medlineplus.gov/hearingdisordersanddeafness.html) from damage to the small sensory cells in the inner ear. The damage can occur as a result of disease, aging, or injury from noise or certain medicines.
+Hearing aids help people who have [hearing loss](Hearing%20Disorders%20and%20Deafness.md) from damage to the small sensory cells in the inner ear. The damage can occur as a result of disease, aging, or injury from noise or certain medicines.
 
 There are different types of hearing aids. They differ by size, their placement on or inside the ear, and how much they amplify sound. The hearing aid that will work best for you depends on what kind of hearing loss you have and how severe it is.
 
@@ -15,9 +15,9 @@ NIH: National Institute of Deafness and Communication Disorders
 
 ## Related topics
 
-- Cochlear Implants
-- Hearing Disorders and Deafness
+- [Cochlear Implants](Cochlear%20Implants.md)
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hearingaids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hearingaids.html). General information, not medical advice.*

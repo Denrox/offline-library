@@ -2,7 +2,7 @@
 
 *Also called: Oral health*
 
-It's important to take care of your mouth and teeth starting in [childhood](https://medlineplus.gov/childdentalhealth.html). If you don't, you could have problems with your [teeth](https://medlineplus.gov/toothdisorders.html) and [gums](https://medlineplus.gov/gumdisease.html) - like [cavities](https://medlineplus.gov/toothdecay.html) or even tooth loss.
+It's important to take care of your mouth and teeth starting in [childhood](Child%20Dental%20Health.md). If you don't, you could have problems with your [teeth](Tooth%20Disorders.md) and [gums](Gum%20Disease.md) - like [cavities](Tooth%20Decay.md) or even tooth loss.
 
 Here's how to keep your mouth and teeth healthy:
 
@@ -16,13 +16,13 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ## Related topics
 
-- Child Dental Health
-- Dentures
-- Gum Disease
-- Orthodontia
-- Tooth Decay
-- Tooth Disorders
+- [Child Dental Health](Child%20Dental%20Health.md)
+- [Dentures](Dentures.md)
+- [Gum Disease](Gum%20Disease.md)
+- [Orthodontia](Orthodontia.md)
+- [Tooth Decay](Tooth%20Decay.md)
+- [Tooth Disorders](Tooth%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dentalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dentalhealth.html). General information, not medical advice.*

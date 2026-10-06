@@ -6,31 +6,31 @@ Having HIV/AIDS weakens your body's immune system. It destroys the white blood c
 
 There are many types of OIs:
 
-- Bacterial infections, including [tuberculosis](https://medlineplus.gov/tuberculosis.html) and a serious related disease, [Mycobacterium avium complex](https://medlineplus.gov/mycobacterialinfections.html) (MAC)
-- Viral infections, such as [cytomegalovirus](https://medlineplus.gov/cytomegalovirusinfections.html) (CMV) and [hepatitis C](https://medlineplus.gov/hepatitisc.html)
-- Fungal infections, like [yeast infections](https://medlineplus.gov/yeastinfections.html), cryptococcal meningitis, [pneumocystis carinii pneumonia](https://medlineplus.gov/pneumocystisinfections.html) (PCP) and [histoplasmosis](https://medlineplus.gov/histoplasmosis.html)
-- Parasitic infections, such as crypto ([cryptosporidiosis](https://medlineplus.gov/cryptosporidiosis.html)) and toxo ([toxoplasmosis](https://medlineplus.gov/toxoplasmosis.html))
+- Bacterial infections, including [tuberculosis](Tuberculosis.md) and a serious related disease, [Mycobacterium avium complex](Mycobacterial%20Infections.md) (MAC)
+- Viral infections, such as [cytomegalovirus](Cytomegalovirus%20Infections.md) (CMV) and [hepatitis C](Hepatitis%20C.md)
+- Fungal infections, like [yeast infections](Yeast%20Infections.md), cryptococcal meningitis, [pneumocystis carinii pneumonia](Pneumocystis%20Infections.md) (PCP) and [histoplasmosis](Histoplasmosis.md)
+- Parasitic infections, such as crypto ([cryptosporidiosis](Cryptosporidiosis.md)) and toxo ([toxoplasmosis](Toxoplasmosis.md))
 
 Having HIV/AIDS can make infections harder to treat. People with HIV/AIDS are also more likely to have complications from common illnesses such as the flu.
 
-You can help prevent infections by taking your [HIV/AIDS medicines](https://medlineplus.gov/hivaidsmedicines.html). Other things that can help include practicing safe sex, washing your hands well and often, and cooking your food thoroughly.
+You can help prevent infections by taking your HIV/AIDS medicines. Other things that can help include practicing safe sex, washing your hands well and often, and cooking your food thoroughly.
 
 ## Related topics
 
-- Cryptosporidiosis
-- Fungal Infections
-- Genital Herpes
-- Hepatitis C
-- Herpes Simplex
-- Histoplasmosis
-- HIV
-- HIV Medicines
-- HIV: PrEP and PEP
-- Living with HIV
-- Pneumocystis Infections
-- Toxoplasmosis
-- Tuberculosis
+- [Cryptosporidiosis](Cryptosporidiosis.md)
+- [Fungal Infections](Fungal%20Infections.md)
+- [Genital Herpes](Genital%20Herpes.md)
+- [Hepatitis C](Hepatitis%20C.md)
+- [Herpes Simplex](Herpes%20Simplex.md)
+- [Histoplasmosis](Histoplasmosis.md)
+- [HIV](HIV.md)
+- [HIV Medicines](HIV%20Medicines.md)
+- [HIV: PrEP and PEP](HIV%20PrEP%20and%20PEP.md)
+- [Living with HIV](Living%20with%20HIV.md)
+- [Pneumocystis Infections](Pneumocystis%20Infections.md)
+- [Toxoplasmosis](Toxoplasmosis.md)
+- [Tuberculosis](Tuberculosis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hivandinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hivandinfections.html). General information, not medical advice.*

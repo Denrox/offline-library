@@ -16,8 +16,8 @@ NIH: National Institute on Aging
 
 ## Related topics
 
-- Intimate Partner Violence
+- [Intimate Partner Violence](Intimate%20Partner%20Violence.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/elderabuse.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/elderabuse.html). General information, not medical advice.*

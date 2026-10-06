@@ -8,9 +8,9 @@ Your doctor will do a physical exam and imaging tests to diagnose psoriatic arth
 
 ## Related topics
 
-- Arthritis
-- Psoriasis
+- [Arthritis](Arthritis.md)
+- [Psoriasis](Psoriasis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/psoriaticarthritis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/psoriaticarthritis.html). General information, not medical advice.*

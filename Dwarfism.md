@@ -10,8 +10,8 @@ The conditions that cause dwarfism can also cause other health problems. Most of
 
 ## Related topics
 
-- Growth Disorders
+- [Growth Disorders](Growth%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dwarfism.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dwarfism.html). General information, not medical advice.*

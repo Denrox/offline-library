@@ -6,24 +6,24 @@ Suicide is the taking of one's own life. It is a death that happens when someone
 
 Suicide is a major public health problem and a leading cause of death in the United States. Both suicide and suicide attempts can have lasting harmful effects:
 
-- People who survive a suicide attempt may have serious injuries that can affect their long-term health. They may also have [depression](https://medlineplus.gov/depression.html) or other mental health concerns.
-- When people die by suicide, it affects their family, friends, and community. They may feel grief, shock, anger, and guilt. Some may develop [post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html) (PTSD), depression, or [anxiety](https://medlineplus.gov/anxiety.html). They may also be at risk for suicidal thoughts.
+- People who survive a suicide attempt may have serious injuries that can affect their long-term health. They may also have [depression](Depression.md) or other mental health concerns.
+- When people die by suicide, it affects their family, friends, and community. They may feel grief, shock, anger, and guilt. Some may develop [post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md) (PTSD), depression, or [anxiety](Anxiety.md). They may also be at risk for suicidal thoughts.
 
 #### Who is at risk for suicide?
 
 Suicide does not discriminate. It can touch anyone, anywhere, at any time. But there are certain factors that can contribute to the risk of suicide, including:
 
 - Having attempted suicide before
-- Depression and other [mental health disorders](https://medlineplus.gov/mentaldisorders.html)
-- [Alcohol](https://medlineplus.gov/alcoholusedisorderaud.html) or [drug](https://medlineplus.gov/druguseandaddiction.html) use disorder
+- Depression and other [mental health disorders](Mental%20Disorders.md)
+- [Alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md) or [drug](Drug%20Use%20and%20Addiction.md) use disorder
 - Family history of a mental health disorder
 - Family history of an alcohol or drug use disorder
 - Family history of suicide
-- Family violence, including [intimate partner violence](https://medlineplus.gov/intimatepartnerviolence.html), [child abuse](https://medlineplus.gov/childabuse.html), or [sexual](https://medlineplus.gov/sexualassault.html) abuse
+- Family violence, including [intimate partner violence](Intimate%20Partner%20Violence.md), [child abuse](Child%20Abuse.md), or [sexual](Sexual%20Assault.md) abuse
 - Having guns in the home
 - Being in or having recently gotten out of prison or jail
 - Being exposed to others' suicidal behavior, such as a family member, peer, or celebrity
-- Medical illness, including [chronic pain](https://medlineplus.gov/chronicpain.html)
+- Medical illness, including [chronic pain](Chronic%20Pain.md)
 - Stressful life event, such as a job loss, financial problems, loss of a loved one, a breakup of a relationship, etc.
 - Being between the ages of 15 and 24 years or over age 60
 
@@ -57,20 +57,20 @@ If you or someone you know has the warning signs for suicide, **get help right a
 - **Help them connect** to resources that can help them, such as through:
 
  - Calling or texting the 988 Suicide & Crisis Lifeline at 988.
- - Chatting through [Lifeline Chat.](https://988lifeline.org/chat/)
+ - Chatting through Lifeline Chat.
  - For veterans, reaching the Veterans Crisis Line by:
 
  - Calling 988 and then pressing 1.
  - Texting to 838255.
- - [Chatting](https://www.veteranscrisisline.net/get-help-now/chat/) with them.
+ - Chatting with them.
 - **Stay connected.** Staying in touch after a crisis can make a difference.
 
 NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Depression
+- [Depression](Depression.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/suicide.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/suicide.html). General information, not medical advice.*

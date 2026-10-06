@@ -1,10 +1,10 @@
 # Constipation
 
-Constipation means having fewer than three [bowel movements](https://medlineplus.gov/bowelmovement.html) a week. The stool (poop) can be hard and dry. Sometimes it is painful to pass. At one time or another, almost everyone gets constipated. In most cases, it lasts a short time and is not serious.
+Constipation means having fewer than three [bowel movements](Bowel%20Movement.md) a week. The stool (poop) can be hard and dry. Sometimes it is painful to pass. At one time or another, almost everyone gets constipated. In most cases, it lasts a short time and is not serious.
 
 There are many things you can do to prevent constipation. They include:
 
-- Eating more fruits, vegetables and grains, which are high in [fiber](https://medlineplus.gov/dietaryfiber.html)
+- Eating more fruits, vegetables and grains, which are high in [fiber](Dietary%20Fiber.md)
 - Drinking plenty of water and other liquids
 - Getting enough exercise
 - Taking time to have a bowel movement when you need to
@@ -17,8 +17,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Dietary Fiber
+- [Dietary Fiber](Dietary%20Fiber.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/constipation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/constipation.html). General information, not medical advice.*

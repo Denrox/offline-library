@@ -2,9 +2,9 @@
 
 #### What is anesthesia?
 
-Anesthesia is the use of medicines, called anesthetics, to prevent pain during [surgery](https://medlineplus.gov/surgery.html) and other medical procedures. Medicine may be given by injection, inhalation, topical lotion, spray, eye drops, or a skin patch.
+Anesthesia is the use of medicines, called anesthetics, to prevent pain during [surgery](Surgery.md) and other medical procedures. Medicine may be given by injection, inhalation, topical lotion, spray, eye drops, or a skin patch.
 
-Anesthesia can cause a loss of feeling, awareness, or both. **Sedation** may be used with anesthesia. Unlike full anesthesia, sedation doesn't make you completely unconscious, and recovery is faster. It helps reduce pain, keep you calm, and make you less aware during procedures such as minor surgeries, [endoscopies](https://medlineplus.gov/endoscopy.html), [imaging](https://medlineplus.gov/diagnosticimaging.html), or dental work.
+Anesthesia can cause a loss of feeling, awareness, or both. **Sedation** may be used with anesthesia. Unlike full anesthesia, sedation doesn't make you completely unconscious, and recovery is faster. It helps reduce pain, keep you calm, and make you less aware during procedures such as minor surgeries, [endoscopies](Endoscopy.md), [imaging](Diagnostic%20Imaging.md), or dental work.
 
 Levels of sedation include:
 
@@ -17,7 +17,7 @@ Levels of sedation include:
 Anesthesia may be used for:
 
 - Minor procedures, such as filling a tooth.
-- [Childbirth](https://medlineplus.gov/childbirth.html) or procedures such as [colonoscopies](https://medlineplus.gov/colonoscopy.html).
+- [Childbirth](Childbirth.md) or procedures such as [colonoscopies](Colonoscopy.md).
 - Minor and major surgeries.
 
 In some cases, a dentist, nurse, or doctor may give you an anesthetic. In other cases, you may need an anesthesiologist. This is a doctor who specializes in giving anesthesia.
@@ -27,8 +27,8 @@ In some cases, a dentist, nurse, or doctor may give you an anesthetic. In other 
 There are several different types of anesthesia:
 
 - **Local anesthesia** numbs a small area like a tooth or a cut that needs stitches. You are awake during local anesthesia.
-- **Regional anesthesia** numbs a larger area, like an arm, a leg, or everything below the waist. You may be awake during the procedure, or you may be given sedation. It may be used during childbirth, a [Cesarean delivery](https://medlineplus.gov/cesareandelivery.html) (C-section), or minor surgeries.
-- **General anesthesia** affects your whole body. It feels like a deep sleep, but you do not feel anything. It is used during major surgeries, such as [heart surgery](https://medlineplus.gov/heartsurgery.html), brain surgery, back surgery, and [organ transplants](https://medlineplus.gov/organtransplantation.html).
+- **Regional anesthesia** numbs a larger area, like an arm, a leg, or everything below the waist. You may be awake during the procedure, or you may be given sedation. It may be used during childbirth, a [Cesarean delivery](Cesarean%20Delivery.md) (C-section), or minor surgeries.
+- **General anesthesia** affects your whole body. It feels like a deep sleep, but you do not feel anything. It is used during major surgeries, such as [heart surgery](Heart%20Surgery.md), brain surgery, back surgery, and [organ transplants](Organ%20Transplantation.md).
 - **Monitored sedation** makes you relaxed or sleepy. You may be able to talk, depending on the level of sedation, and you probably won't remember the procedure. It may be used for a colonoscopy or dental work.
 
 Your overall health, medical history, the procedure you're having, and other factors will help determine the type of anesthesia you receive.
@@ -37,19 +37,19 @@ Your overall health, medical history, the procedure you're having, and other fac
 
 Anesthesia is generally safe. But there can be risks, especially with general anesthesia, including:
 
-- [Heart rhythm](https://medlineplus.gov/arrhythmia.html) problem (arrhythmia).
-- [Breathing](https://medlineplus.gov/breathingproblems.html) problems.
-- An [allergic reaction](https://medlineplus.gov/drugreactions.html) to the anesthesia.
-- Temporary confusion ([delirium](https://medlineplus.gov/delirium.html)), which can last several days in some people over the age of 60, or briefly in children after waking up from anesthesia.
+- [Heart rhythm](Arrhythmia.md) problem (arrhythmia).
+- [Breathing](Breathing%20Problems.md) problems.
+- An [allergic reaction](Drug%20Reactions.md) to the anesthesia.
+- Temporary confusion ([delirium](Delirium.md)), which can last several days in some people over the age of 60, or briefly in children after waking up from anesthesia.
 - Awareness when someone is under general anesthesia. This usually means that the person hears sounds. But sometimes they can feel pain. This is rare.
 
 Talk to your health care provider about the benefits and risks of anesthesia.
 
 ## Related topics
 
-- Pain
-- Surgery
+- [Pain](Pain.md)
+- [Surgery](Surgery.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anesthesia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anesthesia.html). General information, not medical advice.*

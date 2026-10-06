@@ -12,10 +12,10 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Autoimmune Diseases
-- Paralysis
-- Peripheral Nerve Disorders
+- [Autoimmune Diseases](Autoimmune%20Diseases.md)
+- [Paralysis](Paralysis.md)
+- [Peripheral Nerve Disorders](Peripheral%20Nerve%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/guillainbarresyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/guillainbarresyndrome.html). General information, not medical advice.*

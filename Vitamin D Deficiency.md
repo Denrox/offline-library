@@ -8,9 +8,9 @@ Vitamin D deficiency means that your body is not getting enough vitamin D to sta
 
 #### Why do I need vitamin D and how do I get it?
 
-[Vitamin D](https://medlineplus.gov/vitamind.html) helps your body absorb [calcium](https://medlineplus.gov/calcium.html). Calcium is one of the main building blocks of bone. Vitamin D also has a role in your nervous, muscle, and immune systems.
+[Vitamin D](Vitamin%20D.md) helps your body absorb [calcium](Calcium.md). Calcium is one of the main building blocks of bone. Vitamin D also has a role in your nervous, muscle, and immune systems.
 
-You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after exposure to sunlight. But too much [sun exposure](https://medlineplus.gov/sunexposure.html) can lead to skin aging and skin cancer, so many people try to get their vitamin D from other sources.
+You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after exposure to sunlight. But too much [sun exposure](Sun%20Exposure.md) can lead to skin aging and skin cancer, so many people try to get their vitamin D from other sources.
 
 #### How much vitamin D do I need?
 
@@ -30,7 +30,7 @@ People at high risk of vitamin D deficiency may need more. Check with your healt
 You can become deficient in vitamin D for different reasons:
 
 - You don't get enough vitamin D in your diet
-- You don't absorb enough vitamin D from food (a [malabsorption problem](https://medlineplus.gov/malabsorptionsyndromes.html))
+- You don't absorb enough vitamin D from food (a [malabsorption problem](Malabsorption%20Syndromes.md))
 - You don't get enough exposure to sunlight
 - Your liver or kidneys cannot convert vitamin D to its active form in the body
 - You take medicines that interfere with your body's ability to convert or absorb vitamin D
@@ -39,24 +39,24 @@ You can become deficient in vitamin D for different reasons:
 
 Some people are at higher risk of vitamin D deficiency:
 
-- Breastfed infants, because human milk is a poor source of vitamin D. If you are [breastfeeding](https://medlineplus.gov/breastfeeding.html), give your infant a supplement of 400 IU of vitamin D every day.
+- Breastfed infants, because human milk is a poor source of vitamin D. If you are [breastfeeding](Breastfeeding.md), give your infant a supplement of 400 IU of vitamin D every day.
 - Older adults, because your skin doesn't make vitamin D when exposed to sunlight as efficiently as when you were young, and your kidneys are less able to convert vitamin D to its active form.
 - People with dark skin, which has less ability to produce vitamin D from the sun.
-- People with conditions that make it difficult to absorb nutrients from food, such as [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html), and [celiac disease](https://medlineplus.gov/celiacdisease.html).
-- People who have [obesity](https://medlineplus.gov/obesity.html), because their body fat binds to some vitamin D and prevents it from getting into the blood.
-- People who have had gastric bypass surgery, a type of [weight loss surgery](https://medlineplus.gov/weightlosssurgery.html) which creates a bypass of part of the small intestine. Since vitamin D is absorbed there, bypassing part of it makes it harder to absorb enough vitamin D.
-- People with [chronic kidney](https://medlineplus.gov/chronickidneydisease.html) or [liver disease](https://medlineplus.gov/liverdiseases.html), which can affect your ability to change vitamin D into a form your body can use.
-- People who take medicines that affect vitamin D levels, including certain [cholesterol](https://medlineplus.gov/cholesterolmedicines.html), anti-seizure, [steroid](https://medlineplus.gov/steroids.html), and weight-loss medicines.
+- People with conditions that make it difficult to absorb nutrients from food, such as [Crohn's disease](Crohn%27s%20Disease.md), [ulcerative colitis](Ulcerative%20Colitis.md), and [celiac disease](Celiac%20Disease.md).
+- People who have [obesity](Obesity.md), because their body fat binds to some vitamin D and prevents it from getting into the blood.
+- People who have had gastric bypass surgery, a type of [weight loss surgery](Weight%20Loss%20Surgery.md) which creates a bypass of part of the small intestine. Since vitamin D is absorbed there, bypassing part of it makes it harder to absorb enough vitamin D.
+- People with [chronic kidney](Chronic%20Kidney%20Disease.md) or [liver disease](Liver%20Diseases.md), which can affect your ability to change vitamin D into a form your body can use.
+- People who take medicines that affect vitamin D levels, including certain [cholesterol](Cholesterol%20Medicines.md), anti-seizure, [steroid](Steroids.md), and weight-loss medicines.
 
-Talk with your provider if you are at risk for vitamin D deficiency. There is a [blood test](https://medlineplus.gov/lab-tests/vitamin-d-test/) that can measure how much vitamin D is in your body.
+Talk with your provider if you are at risk for vitamin D deficiency. There is a blood test that can measure how much vitamin D is in your body.
 
 #### What problems does vitamin D deficiency cause?
 
-Vitamin D deficiency can lead to a loss of [bone density](https://medlineplus.gov/bonedensity.html), which can contribute to [osteoporosis](https://medlineplus.gov/osteoporosis.html) and [fractures](https://medlineplus.gov/fractures.html) (broken bones).
+Vitamin D deficiency can lead to a loss of [bone density](Bone%20Density.md), which can contribute to [osteoporosis](Osteoporosis.md) and [fractures](Fractures.md) (broken bones).
 
 Severe vitamin D deficiency can also lead to other diseases:
 
-- In children, it can cause [rickets](https://medlineplus.gov/rickets.html). Rickets is a rare disease that causes the bones to become soft and bend. African American infants and children are at higher risk of getting rickets.
+- In children, it can cause [rickets](Rickets.md). Rickets is a rare disease that causes the bones to become soft and bend. African American infants and children are at higher risk of getting rickets.
 - In adults, severe vitamin D deficiency leads to osteomalacia. Osteomalacia causes weak bones, bone pain, and muscle weakness.
 
 #### How can I get more vitamin D?
@@ -69,7 +69,7 @@ There are a few foods that naturally have some vitamin D:
 - Mushrooms
 - Egg yolks
 
-You can also get vitamin D from fortified foods. You can check the [food labels](https://medlineplus.gov/foodlabeling.html) to find out whether a food has vitamin D. Foods that often have added vitamin D include:
+You can also get vitamin D from fortified foods. You can check the [food labels](Food%20Labeling.md) to find out whether a food has vitamin D. Foods that often have added vitamin D include:
 
 - Milk
 - Breakfast cereals
@@ -83,12 +83,12 @@ If you have vitamin D deficiency, the treatment is with supplements. Check with 
 
 #### Can too much vitamin D be harmful?
 
-Getting too much vitamin D (known as vitamin D toxicity) can be harmful. Signs of toxicity include [nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html), poor appetite, [constipation](https://medlineplus.gov/constipation.html), weakness, and weight loss.
+Getting too much vitamin D (known as vitamin D toxicity) can be harmful. Signs of toxicity include [nausea and vomiting](Nausea%20and%20Vomiting.md), poor appetite, [constipation](Constipation.md), weakness, and weight loss.
 
-Very high levels of vitamin D can damage the kidneys. It also raises the level of calcium in your blood. High levels of blood calcium (hypercalcemia) can cause confusion, [kidney failure](https://medlineplus.gov/kidneyfailure.html), and [irregular heartbeat](https://medlineplus.gov/arrhythmia.html) (arrhythmia).
+Very high levels of vitamin D can damage the kidneys. It also raises the level of calcium in your blood. High levels of blood calcium (hypercalcemia) can cause confusion, [kidney failure](Kidney%20Failure.md), and [irregular heartbeat](Arrhythmia.md) (arrhythmia).
 
 Most cases of vitamin D toxicity happen when someone overuses vitamin D supplements. You cannot get too much vitamin D from sun exposure because the skin limits the amount of vitamin D it makes.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitaminddeficiency.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitaminddeficiency.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 #### What is cervical cancer screening?
 
-[Cervical cancer](https://medlineplus.gov/cervicalcancer.html) is [cancer](https://medlineplus.gov/cancer.html) that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). Cervical cancer screening is an important part of routine health care for people who have a cervix.
+[Cervical cancer](Cervical%20Cancer.md) is [cancer](Cancer.md) that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal). Cervical cancer screening is an important part of routine health care for people who have a cervix.
 
 Cervical cancer screening tests look for cancer before you have any symptoms. Cervical cancer usually develops slowly. Before cervical cells become cancer, they start to look abnormal. These cells are called "precancers". If they aren't destroyed or removed, they may become cancer cells that grow out of control and spread to other parts of your body.
 
@@ -10,13 +10,13 @@ Screening can help find abnormal cells so you can get treatment to prevent cervi
 
 #### What tests screen for cervical cancer?
 
-Cervical cancer screening is usually part of a [woman's health checkup](https://medlineplus.gov/womenshealthcheckup.html) during a pelvic exam. These tests use a sample of cervical cells that your health care provider collects with a swab:
+Cervical cancer screening is usually part of a [woman's health checkup](Women%27s%20Health%20Checkup.md) during a pelvic exam. These tests use a sample of cervical cells that your health care provider collects with a swab:
 
-- A **[Pap test](https://medlineplus.gov/lab-tests/pap-smear/)** (also called a Pap smear or cervical cytology) checks for abnormal cells so they can be treated before they become cancer.
-- An **[HPV (human papillomavirus) test](https://medlineplus.gov/lab-tests/human-papillomavirus-hpv-test/)** checks for certain [HPV](https://medlineplus.gov/hpv.html) infections that can cause cancer. HPV is a group of viruses that spread through sexual contact. The types that cause cancer are called "high-risk HPV."
+- A **Pap test** (also called a Pap smear or cervical cytology) checks for abnormal cells so they can be treated before they become cancer.
+- An **HPV (human papillomavirus) test** checks for certain [HPV](HPV.md) infections that can cause cancer. HPV is a group of viruses that spread through sexual contact. The types that cause cancer are called "high-risk HPV."
 - The **HPV/Pap cotest** uses an HPV and Pap test together to check for both high-risk HPV and cervical cell changes.
 
-If your screening tests are abnormal, your provider may do more tests, such as a **[biopsy](https://medlineplus.gov/biopsy.html)**. How often you should be screened for cervical cancer and which tests you should get will depend on your age and health history.
+If your screening tests are abnormal, your provider may do more tests, such as a **[biopsy](Biopsy.md)**. How often you should be screened for cervical cancer and which tests you should get will depend on your age and health history.
 
 #### What are the possible benefits and harms of cervical cancer screening?
 
@@ -40,21 +40,21 @@ Talk with your provider about how often you should be screened for cervical canc
 
 - Had an abnormal HPV test, Pap smear, or cervical biopsy in the recent past.
 - Have had a diagnosis of cervical cancer.
-- Have a [weakened immune system](https://medlineplus.gov/immunesystemanddisorders.html).
-- Were exposed to a drug called DES (Diethylstilbestrol) before you were born. Between the years 1940-1971, DES was sometimes prescribed to prevent [miscarriages](https://medlineplus.gov/miscarriage.html).
+- Have a [weakened immune system](Immune%20System%20and%20Disorders.md).
+- Were exposed to a drug called DES (Diethylstilbestrol) before you were born. Between the years 1940-1971, DES was sometimes prescribed to prevent [miscarriages](Miscarriage.md).
 
-If you are over age 65 and have had regular Pap smear screenings with normal results, your provider may tell you that you no longer need them. If you have [HIV](https://medlineplus.gov/hiv.html), you may need to continue screenings after age 65.
+If you are over age 65 and have had regular Pap smear screenings with normal results, your provider may tell you that you no longer need them. If you have [HIV](HIV.md), you may need to continue screenings after age 65.
 
-You don't need cervical cancer screening if you had a total [hysterectomy](https://medlineplus.gov/hysterectomy.html) (surgery to remove your uterus and cervix) because of a condition that was not cancer. But if your hysterectomy was related to cervical cancer or precancer, ask your provider whether you need screening.
+You don't need cervical cancer screening if you had a total [hysterectomy](Hysterectomy.md) (surgery to remove your uterus and cervix) because of a condition that was not cancer. But if your hysterectomy was related to cervical cancer or precancer, ask your provider whether you need screening.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Cervical Cancer
-- HPV
-- Women's Health Checkup
+- [Cervical Cancer](Cervical%20Cancer.md)
+- [HPV](HPV.md)
+- [Women's Health Checkup](Women%27s%20Health%20Checkup.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cervicalcancerscreening.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cervicalcancerscreening.html). General information, not medical advice.*

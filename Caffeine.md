@@ -24,7 +24,7 @@ Caffeine has many effects on your body's metabolism. It:
 
 - Stimulates your central nervous system, which can make you feel more awake and give you a boost of energy
 - Is a diuretic, meaning that it helps your body get rid of extra salt and water by urinating more
-- Increases the release of acid in your stomach, sometimes leading to an upset stomach or [heartburn](https://medlineplus.gov/heartburn.html)
+- Increases the release of acid in your stomach, sometimes leading to an upset stomach or [heartburn](Heartburn.md)
 - May interfere with the absorption of calcium in the body
 - Increases your blood pressure
 
@@ -35,12 +35,12 @@ Within one hour of eating or drinking caffeine, it reaches its peak level in you
 For most people, it is not harmful to consume up to 400mg of caffeine a day. If you do eat or drink too much caffeine, it can cause health problems, such as:
 
 - Restlessness and shakiness
-- [Insomnia](https://medlineplus.gov/insomnia.html)
-- [Headaches](https://medlineplus.gov/headache.html)
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Insomnia](Insomnia.md)
+- [Headaches](Headache.md)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Fast heart rate
-- [Dehydration](https://medlineplus.gov/dehydration.html)
-- [Anxiety](https://medlineplus.gov/anxiety.html)
+- [Dehydration](Dehydration.md)
+- [Anxiety](Anxiety.md)
 - Dependency, so you need to take more of it to get the same results
 
 Some people are more sensitive to the effects of caffeine than others.
@@ -57,15 +57,15 @@ Sometimes young people mix their energy drinks with alcohol. It is dangerous to 
 
 You should check with your health care provider about whether you should limit or avoid caffeine if you:
 
-- Are [pregnant](https://medlineplus.gov/pregnancyandnutrition.html), since caffeine passes through the placenta to your baby.
-- Are [breastfeeding](https://medlineplus.gov/breastfeeding.html), since a small amount of caffeine that you consume is passed along to your baby.
-- Have [sleep disorders](https://medlineplus.gov/sleepdisorders.html), including insomnia.
-- Have [migraines](https://medlineplus.gov/migraine.html) or other chronic headaches.
+- Are [pregnant](Pregnancy%20and%20Nutrition.md), since caffeine passes through the placenta to your baby.
+- Are [breastfeeding](Breastfeeding.md), since a small amount of caffeine that you consume is passed along to your baby.
+- Have [sleep disorders](Sleep%20Disorders.md), including insomnia.
+- Have [migraines](Migraine.md) or other chronic headaches.
 - Have anxiety.
-- Have [GERD](https://medlineplus.gov/gerd.html) or [ulcers](https://medlineplus.gov/pepticulcer.html).
-- Have [arrhythmia](https://medlineplus.gov/arrhythmia.html) (a problem with the rate or rhythm of your heartbeat).
-- Have [high blood pressure](https://medlineplus.gov/highbloodpressure.html).
-- Take certain medicines or supplements, including stimulants, certain [antibiotics](https://medlineplus.gov/antibiotics.html), asthma medicines, and heart medicines. Check with your health care provider about whether there might be interactions between caffeine and any medicines and supplements that you take.
+- Have [GERD](GERD.md) or [ulcers](Peptic%20Ulcer.md).
+- Have [arrhythmia](Arrhythmia.md) (a problem with the rate or rhythm of your heartbeat).
+- Have [high blood pressure](High%20Blood%20Pressure.md).
+- Take certain medicines or supplements, including stimulants, certain [antibiotics](Antibiotics.md), asthma medicines, and heart medicines. Check with your health care provider about whether there might be interactions between caffeine and any medicines and supplements that you take.
 - Are a child or teen. Neither should have as much caffeine as adults. Children can be especially sensitive to the effects of caffeine.
 
 #### What is caffeine withdrawal?
@@ -82,4 +82,4 @@ These symptoms usually go away after a couple of days.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/caffeine.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/caffeine.html). General information, not medical advice.*

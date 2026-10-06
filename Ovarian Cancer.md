@@ -2,7 +2,7 @@
 
 #### What is ovarian cancer?
 
-[Cancer](https://medlineplus.gov/cancer.html) is a disease in which abnormal cells in the body grow out of control and form a tumor. Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. The ovaries are a pair of female reproductive glands that make eggs and female [hormones](https://medlineplus.gov/hormones.html).
+[Cancer](Cancer.md) is a disease in which abnormal cells in the body grow out of control and form a tumor. Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. The ovaries are a pair of female reproductive glands that make eggs and female [hormones](Hormones.md).
 
 #### What are the types of ovarian cancer?
 
@@ -19,11 +19,11 @@ Some other rarer types of ovarian cancer are malignant germ cell tumors and stro
 
 #### What causes ovarian cancer?
 
-Ovarian cancer happens when there are [changes (mutations) in the genetic material](https://medlineplus.gov/genetics/condition/ovarian-cancer) (DNA). Often, the exact cause of these genetic changes is unknown.
+Ovarian cancer happens when there are changes (mutations) in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.
 
 Most ovarian cancers are caused by genetic changes that happen during your lifetime. But sometimes these genetic changes are inherited, meaning that you are born with them. Ovarian cancer that is caused by inherited genetic changes is called hereditary ovarian cancer.
 
-There are also certain genetic changes that can raise your risk of ovarian cancer, including changes called [BRCA1](https://medlineplus.gov/genetics/gene/brca1/) and [BRCA2](https://medlineplus.gov/genetics/gene/brca2/). These two changes also raise your risk of breast and other cancers.
+There are also certain genetic changes that can raise your risk of ovarian cancer, including changes called BRCA1 and BRCA2. These two changes also raise your risk of breast and other cancers.
 
 Besides genetics, your lifestyle and the environment can affect your risk of ovarian cancer.
 
@@ -34,11 +34,11 @@ Certain people are more likely to develop ovarian cancer. They include those who
 - Have a family history of ovarian cancer in a mother, aunt, grandmother, or sister
 - Have inherited changes in the BRCA1 or BRCA2 genes
 - Have certain other genetic conditions, such as Lynch syndrome
-- Have [endometriosis](https://medlineplus.gov/endometriosis.html)
-- Took [hormone therapy for menopause](https://medlineplus.gov/hormonetherapyformenopause.html)
-- Are overweight or have [obesity](https://medlineplus.gov/obesity.html)
+- Have [endometriosis](Endometriosis.md)
+- Took [hormone therapy for menopause](Hormone%20Therapy%20for%20Menopause.md)
+- Are overweight or have [obesity](Obesity.md)
 - Are tall
-- Are older, especially those who have gone through [menopause](https://medlineplus.gov/menopause.html)
+- Are older, especially those who have gone through [menopause](Menopause.md)
 - Have never been pregnant
 
 #### What are the symptoms of ovarian cancer?
@@ -51,7 +51,7 @@ The signs and symptoms may include:
 - Sudden or frequent urge to urinate (pee)
 - Trouble eating or feeling full
 - A lump in the pelvic area
-- Gastrointestinal problems, such as [gas](https://medlineplus.gov/gas.html), bloating, or [constipation](https://medlineplus.gov/constipation.html)
+- Gastrointestinal problems, such as [gas](Gas.md), bloating, or [constipation](Constipation.md)
 
 #### How is ovarian cancer diagnosed?
 
@@ -60,27 +60,27 @@ To find out if you have ovarian cancer, your health care provider:
 - Will ask about your **medical history**, including your symptoms
 - Will ask about your **family health history**, including relatives who have had ovarian cancer
 - Will do a **physical exam**, including a pelvic exam
-- Will likely do **[imaging tests](https://medlineplus.gov/diagnosticimaging.html)**
-- May do **blood tests** such as a [CA-125 blood test](https://medlineplus.gov/lab-tests/ca-125-blood-test-ovarian-cancer/)
+- Will likely do **[imaging tests](Diagnostic%20Imaging.md)**
+- May do **blood tests** such as a CA-125 blood test
 
-Often the only way to know for sure that you have ovarian cancer is by having a [biopsy](https://medlineplus.gov/biopsy.html) of the tissue. A biopsy is done during surgery to remove the tumor.
+Often the only way to know for sure that you have ovarian cancer is by having a [biopsy](Biopsy.md) of the tissue. A biopsy is done during surgery to remove the tumor.
 
 #### What are the treatments for ovarian cancer?
 
 Treatments for ovarian cancer may include:
 
 - **Surgery** to remove as much of the cancer as possible
-- **[Chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)**
+- **[Chemotherapy](Cancer%20Chemotherapy.md)**
 - **Targeted therapy**, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
 
-Your provider may suggest that you have [genetic testing](https://medlineplus.gov/genetictesting.html) to look for the gene changes that raise the risk for ovarian cancer. Knowing whether you have the gene change may help your provider decide on your treatment plan.
+Your provider may suggest that you have [genetic testing](Genetic%20Testing.md) to look for the gene changes that raise the risk for ovarian cancer. Knowing whether you have the gene change may help your provider decide on your treatment plan.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Ovarian Disorders
+- [Ovarian Disorders](Ovarian%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ovariancancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ovariancancer.html). General information, not medical advice.*

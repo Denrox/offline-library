@@ -6,10 +6,10 @@ It is important to get enough dietary protein. You need to eat protein every day
 
 ## Related topics
 
-- Carbohydrates
-- Nutrition
-- Weight Control
+- [Carbohydrates](Carbohydrates.md)
+- [Nutrition](Nutrition.md)
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dietaryproteins.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dietaryproteins.html). General information, not medical advice.*

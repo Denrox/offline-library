@@ -1,6 +1,6 @@
 # Syringomyelia
 
-Syringomyelia is a rare disorder that causes a cyst to form in your [spinal cord](https://medlineplus.gov/spinalcorddiseases.html). This cyst, called a syrinx, gets bigger and longer over time, destroying part of the spinal cord. Damage to the spinal cord from the syrinx can cause symptoms such as :
+Syringomyelia is a rare disorder that causes a cyst to form in your [spinal cord](Spinal%20Cord%20Diseases.md). This cyst, called a syrinx, gets bigger and longer over time, destroying part of the spinal cord. Damage to the spinal cord from the syrinx can cause symptoms such as :
 
 - Pain and weakness in the back, shoulders, arms or legs
 - Headaches
@@ -8,10 +8,10 @@ Syringomyelia is a rare disorder that causes a cyst to form in your [spinal cord
 
 Symptoms vary according to the size and location of the syrinx. They often begin in early adulthood.
 
-Syringomyelia usually results from a skull abnormality called a [Chiari I malformation](https://medlineplus.gov/chiarimalformation.html). A tumor, meningitis or physical trauma can also cause it. Surgery is the main treatment. Some people also need to have the syrinx drained. Medicines can help ease pain. In some cases, there are no symptoms, so you may not need treatment.
+Syringomyelia usually results from a skull abnormality called a [Chiari I malformation](Chiari%20Malformation.md). A tumor, meningitis or physical trauma can also cause it. Surgery is the main treatment. Some people also need to have the syrinx drained. Medicines can help ease pain. In some cases, there are no symptoms, so you may not need treatment.
 
 NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/syringomyelia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/syringomyelia.html). General information, not medical advice.*

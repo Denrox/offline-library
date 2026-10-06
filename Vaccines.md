@@ -4,10 +4,10 @@
 
 #### What are vaccines?
 
-Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's [immune system](https://medlineplus.gov/immunesystemanddisorders.html) to recognize and defend against harmful germs. For example, there are vaccines to protect against diseases caused by:
+Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's [immune system](Immune%20System%20and%20Disorders.md) to recognize and defend against harmful germs. For example, there are vaccines to protect against diseases caused by:
 
-- [Viruses](https://medlineplus.gov/viralinfections.html), like the ones that cause the [flu](https://medlineplus.gov/flushot.html) and [COVID-19](https://medlineplus.gov/covid19coronavirusdisease2019.html)
-- [Bacteria](https://medlineplus.gov/bacterialinfections.html), including [tetanus, diphtheria, and pertussis](https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html)
+- [Viruses](Viral%20Infections.md), like the ones that cause the [flu](Flu%20Shot.md) and [COVID-19](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- [Bacteria](Bacterial%20Infections.md), including [tetanus, diphtheria, and pertussis](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md)
 
 #### What are the types of vaccines?
 
@@ -52,22 +52,22 @@ Community immunity is especially important for people who can't get certain vacc
 
 #### Are vaccines safe?
 
-Vaccines are [safe](https://medlineplus.gov/vaccinesafety.html). They must go through extensive safety testing and evaluation before they are approved in the United States.
+Vaccines are [safe](Vaccine%20Safety.md). They must go through extensive safety testing and evaluation before they are approved in the United States.
 
 #### What is a vaccine schedule?
 
 A vaccine, or immunization, schedule lists which vaccines are recommended for different groups of people. It includes who should get the vaccines, how many doses they need, and when they should get them. In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.
 
-It's important for both [children](https://medlineplus.gov/childhoodvaccines.html) and adults to get their vaccines according to the schedule. Following the schedule allows them to get protection from the diseases at exactly the right time.
+It's important for both [children](Childhood%20Vaccines.md) and adults to get their vaccines according to the schedule. Following the schedule allows them to get protection from the diseases at exactly the right time.
 
 ## Related topics
 
-- Childhood Vaccines
-- COVID-19 Vaccines
-- Flu Shot
-- Tetanus, Diphtheria, and Pertussis Vaccines
-- Vaccine Safety
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
+- [Flu Shot](Flu%20Shot.md)
+- [Tetanus, Diphtheria, and Pertussis Vaccines](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md)
+- [Vaccine Safety](Vaccine%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vaccines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vaccines.html). General information, not medical advice.*

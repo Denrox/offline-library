@@ -6,7 +6,7 @@ In girls:
 
 - The first sign of puberty is usually breast development.
 - Then hair grows in the pubic area and armpits.
-- [Menstruation](https://medlineplus.gov/menstruation.html) (or a period) usually happens last.
+- [Menstruation](Menstruation.md) (or a period) usually happens last.
 
 In boys:
 
@@ -20,10 +20,10 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Child Development
-- Menstruation
-- Teen Development
+- [Child Development](Child%20Development.md)
+- [Menstruation](Menstruation.md)
+- [Teen Development](Teen%20Development.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/puberty.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/puberty.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 Many men have sexual problems. They become more common as men age. Problems can include:
 
-- [Erectile dysfunction](https://medlineplus.gov/erectiledysfunction.html)
+- [Erectile dysfunction](Erectile%20Dysfunction.md)
 - Reduced or lost interest in sex
 - Problems with ejaculation
 - Low testosterone
@@ -11,11 +11,11 @@ Stress, illness, medicines, or emotional problems may also be factors. Occasiona
 
 ## Related topics
 
-- Erectile Dysfunction
-- Penis Disorders
-- Prostate Diseases
-- Testicular Disorders
+- [Erectile Dysfunction](Erectile%20Dysfunction.md)
+- [Penis Disorders](Penis%20Disorders.md)
+- [Prostate Diseases](Prostate%20Diseases.md)
+- [Testicular Disorders](Testicular%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sexualproblemsinmen.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sexualproblemsinmen.html). General information, not medical advice.*

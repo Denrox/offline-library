@@ -2,7 +2,7 @@
 
 #### What is radon?
 
-Radon is a naturally occurring radioactive gas. It is invisible and has no odor or taste. It comes from the normal decay of uranium and thorium. These are two chemical elements that can be found in soil, rock, and groundwater. Radon breaks down quickly, giving off radioactive particles. Over time, breathing in high levels of these particles can cause [lung cancer](https://medlineplus.gov/lungcancer.html).
+Radon is a naturally occurring radioactive gas. It is invisible and has no odor or taste. It comes from the normal decay of uranium and thorium. These are two chemical elements that can be found in soil, rock, and groundwater. Radon breaks down quickly, giving off radioactive particles. Over time, breathing in high levels of these particles can cause [lung cancer](Lung%20Cancer.md).
 
 #### How would I be exposed to radon?
 
@@ -14,7 +14,7 @@ Radon levels can be higher in homes and buildings that are well insulated, tight
 
 When you breathe in radon, its radioactive decay products can get trapped in your lungs. They can damage the cells that line your lungs. Over time, it can lead to lung cancer. It may take years before this happens.
 
-Radon is the second leading cause of lung cancer deaths after [cigarette smoking](https://medlineplus.gov/smoking.html). If you smoke and are exposed to radon, your risk of lung cancer is much higher than if you did not smoke. Most radon-related cancer deaths happen in smokers.
+Radon is the second leading cause of lung cancer deaths after [cigarette smoking](Smoking.md). If you smoke and are exposed to radon, your risk of lung cancer is much higher than if you did not smoke. Most radon-related cancer deaths happen in smokers.
 
 #### How do I know if my home has high levels of radon?
 
@@ -46,4 +46,4 @@ You can also take some other steps to reduce radon levels in your home:
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/radon.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/radon.html). General information, not medical advice.*

@@ -6,13 +6,13 @@
 
 Eating disorders are serious mental health disorders. They involve severe problems with your thoughts about food and your eating behaviors. You may eat much less or much more than you need.
 
-Eating disorders are medical conditions; they are not a lifestyle choice. They affect your body's ability to get proper nutrition. This can lead to health issues, such as [heart](https://medlineplus.gov/heartdiseases.html) and [kidney](https://medlineplus.gov/kidneydiseases.html) problems, or sometimes even death. But there are treatments that can help.
+Eating disorders are medical conditions; they are not a lifestyle choice. They affect your body's ability to get proper nutrition. This can lead to health issues, such as [heart](Heart%20Diseases.md) and [kidney](Kidney%20Diseases.md) problems, or sometimes even death. But there are treatments that can help.
 
 #### What are the types of eating disorders?
 
 Common types of eating disorders include:
 
-- **Binge-eating**, which is out-of-control eating. People with binge-eating disorder keep eating even after they are full. They often eat until they feel very uncomfortable. Afterward, they usually have feelings of guilt, shame, and distress. Eating too much too often can lead to weight gain and [obesity](https://medlineplus.gov/obesity.html). Binge-eating disorder is the most common eating disorder in the U.S.
+- **Binge-eating**, which is out-of-control eating. People with binge-eating disorder keep eating even after they are full. They often eat until they feel very uncomfortable. Afterward, they usually have feelings of guilt, shame, and distress. Eating too much too often can lead to weight gain and [obesity](Obesity.md). Binge-eating disorder is the most common eating disorder in the U.S.
 - **Bulimia nervosa.** People with bulimia nervosa also have periods of binge-eating. But afterwards, they purge, by making themselves throw up or using laxatives. They may also over-exercise or fast. People with bulimia nervosa may be slightly underweight, normal weight, or overweight.
 - **Anorexia nervosa.** People with anorexia nervosa avoid food, severely restrict food, or eat very small quantities of only certain foods. They may see themselves as overweight, even when they are dangerously underweight. Anorexia nervosa is the least common of the three eating disorders, but it is often the most serious. It has the highest death rate of any mental disorder.
 
@@ -46,12 +46,12 @@ The symptoms of **bulimia nervosa** include the same symptoms as binge-eating, p
 
 Over time, bulimia nervosa can cause health problems such as:
 
-- Chronically inflamed and [sore throat](https://medlineplus.gov/sorethroat.html)
+- Chronically inflamed and [sore throat](Sore%20Throat.md)
 - Swollen salivary glands in the neck and jaw area
-- Worn tooth enamel and increasingly sensitive and [decaying teeth](https://medlineplus.gov/toothdecay.html). This is caused by the exposure to stomach acid every time you throw up.
-- [GERD](https://medlineplus.gov/gerd.html) (acid reflux) and other gastrointestinal problems
+- Worn tooth enamel and increasingly sensitive and [decaying teeth](Tooth%20Decay.md). This is caused by the exposure to stomach acid every time you throw up.
+- [GERD](GERD.md) (acid reflux) and other gastrointestinal problems
 - Severe dehydration from purging
-- [Electrolyte imbalance](https://medlineplus.gov/fluidandelectrolytebalance.html), which could be too low or too high levels of sodium, calcium, potassium and other minerals. This can lead to a [stroke](https://medlineplus.gov/stroke.html) or [heart attack](https://medlineplus.gov/heartattack.html).
+- [Electrolyte imbalance](Fluid%20and%20Electrolyte%20Balance.md), which could be too low or too high levels of sodium, calcium, potassium and other minerals. This can lead to a [stroke](Stroke.md) or [heart attack](Heart%20Attack.md).
 
 The symptoms of **anorexia nervosa** include:
 
@@ -63,26 +63,26 @@ The symptoms of **anorexia nervosa** include:
 
 Over time, anorexia nervosa can cause health problems such as:
 
-- Thinning of the bones (osteopenia or [osteoporosis](https://medlineplus.gov/osteoporosis.html))
-- Mild [anemia](https://medlineplus.gov/anemia.html)
+- Thinning of the bones (osteopenia or [osteoporosis](Osteoporosis.md))
+- Mild [anemia](Anemia.md)
 - Muscle wasting and weakness
 - Thin, brittle hair and nails
 - Dry, blotchy, or yellowish skin
 - Growth of fine hair all over the body
-- Severe [constipation](https://medlineplus.gov/constipation.html)
-- [Low blood pressure](https://medlineplus.gov/lowbloodpressure.html)
+- Severe [constipation](Constipation.md)
+- [Low blood pressure](Low%20Blood%20Pressure.md)
 - Slowed breathing and pulse
 - Feeling cold all the time because of a drop in internal body temperature
-- Feeling faint, [dizzy](https://medlineplus.gov/dizzinessandvertigo.html), or weak
+- Feeling faint, [dizzy](Dizziness%20and%20Vertigo.md), or weak
 - Feeling tired all the time
-- [Infertility](https://medlineplus.gov/infertility.html)
+- [Infertility](Infertility.md)
 - Damage to the structure and function of the heart
 - Brain damage
 - Multiorgan failure
 
-Anorexia nervosa can be fatal. Some people with this disorder die of complications from starvation, and others die of [suicide](https://medlineplus.gov/suicide.html).
+Anorexia nervosa can be fatal. Some people with this disorder die of complications from starvation, and others die of [suicide](Suicide.md).
 
-Some people with eating disorders may also have other [mental disorders](https://medlineplus.gov/mentaldisorders.html) (such as [depression](https://medlineplus.gov/depression.html) or [anxiety](https://medlineplus.gov/anxiety.html)) or problems with [substance use](https://medlineplus.gov/druguseandaddiction.html).
+Some people with eating disorders may also have other [mental disorders](Mental%20Disorders.md) (such as [depression](Depression.md) or [anxiety](Anxiety.md)) or problems with [substance use](Drug%20Use%20and%20Addiction.md).
 
 #### How is eating disorders diagnosed?
 
@@ -91,7 +91,7 @@ Because eating disorders can be so serious, it is important to seek help if you 
 - A medical history, which includes asking about your symptoms. It is important to be honest about your eating and exercise behaviors so your provider can help you.
 - A physical exam
 - Blood or urine tests to rule out other possible causes of your symptoms
-- Other tests to see whether you have any other health problems caused by the eating disorder. These can include [kidney function tests](https://medlineplus.gov/kidneytests.html) and an [electrocardiogram](https://medlineplus.gov/lab-tests/electrocardiogram/) (EKG or ECG).
+- Other tests to see whether you have any other health problems caused by the eating disorder. These can include [kidney function tests](Kidney%20Tests.md) and an electrocardiogram (EKG or ECG).
 
 #### What are the treatments for eating disorders?
 
@@ -100,7 +100,7 @@ Treatment plans for eating disorders are tailored to individual needs. You will 
 - **Individual, group, and/or family psychotherapy.** Individual therapy may include cognitive behavioral approaches, which help you to identify and change negative and unhelpful thoughts. It also helps you build coping skills and change behavioral patterns.
 - **Medical care and monitoring,** including care for the complications that eating disorders can cause
 - **Nutrition counseling.** Doctors, nurses, and counselors will help you eat healthy to reach and maintain a healthy weight.
-- **Medicines,** such as [antidepressants](https://medlineplus.gov/antidepressants.html), antipsychotics, or mood stabilizers, may help treat some eating disorders. The medicines can also help with the depression and anxiety symptoms that often go along with eating disorders.
+- **Medicines,** such as [antidepressants](Antidepressants.md), antipsychotics, or mood stabilizers, may help treat some eating disorders. The medicines can also help with the depression and anxiety symptoms that often go along with eating disorders.
 
 Some people with serious eating disorders may need to be in a hospital or in a residential treatment program. Residential treatment programs combine housing and treatment services.
 
@@ -108,8 +108,8 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Weight Control
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eatingdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eatingdisorders.html). General information, not medical advice.*

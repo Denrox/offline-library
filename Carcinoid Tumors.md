@@ -8,4 +8,4 @@ Surgery is the main treatment for carcinoid tumors. If they haven't spread to ot
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/carcinoidtumors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/carcinoidtumors.html). General information, not medical advice.*

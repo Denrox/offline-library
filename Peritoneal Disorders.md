@@ -6,15 +6,15 @@ Disorders of the peritoneum are not common. They include:
 
 - Peritonitis - an inflammation of the peritoneum
 - Cancer
-- Complications from peritoneal [dialysis](https://medlineplus.gov/dialysis.html)
+- Complications from peritoneal [dialysis](Dialysis.md)
 
 Your doctor may use imaging tests or lab tests to analyze the peritoneal fluid to diagnose the problem. Treatment of peritoneal disorders depends on the cause.
 
 ## Related topics
 
-- Abdominal Pain
-- Dialysis
+- [Abdominal Pain](Abdominal%20Pain.md)
+- [Dialysis](Dialysis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/peritonealdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/peritonealdisorders.html). General information, not medical advice.*

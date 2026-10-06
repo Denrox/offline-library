@@ -10,8 +10,8 @@ Doctors diagnose tendinitis with your medical history, a physical exam, and imag
 
 ## Related topics
 
-- Muscle Disorders
+- [Muscle Disorders](Muscle%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tendinitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tendinitis.html). General information, not medical advice.*

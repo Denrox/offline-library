@@ -2,9 +2,9 @@
 
 *Also called: Angina Pectoris*
 
-Angina is [chest pain](https://medlineplus.gov/chestpain.html) or discomfort you feel when there is not enough blood flow to your heart muscle. Your heart muscle needs the oxygen that the blood carries. Angina may feel like pressure or a squeezing pain in your chest. It may feel like indigestion. You may also feel pain in your shoulders, arms, neck, jaw, or back.
+Angina is [chest pain](Chest%20Pain.md) or discomfort you feel when there is not enough blood flow to your heart muscle. Your heart muscle needs the oxygen that the blood carries. Angina may feel like pressure or a squeezing pain in your chest. It may feel like indigestion. You may also feel pain in your shoulders, arms, neck, jaw, or back.
 
-Angina is a symptom of [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html) (CAD), the most common [heart disease](https://medlineplus.gov/heartdiseases.html). CAD happens when a sticky substance called plaque builds up in the arteries that supply blood to the heart, reducing blood flow.
+Angina is a symptom of [coronary artery disease](Coronary%20Artery%20Disease.md) (CAD), the most common [heart disease](Heart%20Diseases.md). CAD happens when a sticky substance called plaque builds up in the arteries that supply blood to the heart, reducing blood flow.
 
 There are three types of angina:
 
@@ -18,12 +18,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Cardiac Rehabilitation
-- Chest Pain
-- Coronary Artery Disease
-- Heart Attack
-- Heart Health Tests
+- [Cardiac Rehabilitation](Cardiac%20Rehabilitation.md)
+- [Chest Pain](Chest%20Pain.md)
+- [Coronary Artery Disease](Coronary%20Artery%20Disease.md)
+- [Heart Attack](Heart%20Attack.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/angina.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/angina.html). General information, not medical advice.*

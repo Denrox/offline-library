@@ -2,16 +2,16 @@
 
 #### What is pain?
 
-[Pain](https://medlineplus.gov/pain.html) is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Each person feels pain differently, even if the reason for the pain is the same. Pain may be sharp or dull. It may come and go, or it may be constant. You may feel pain in one area of your body, such as your [back](https://medlineplus.gov/backpain.html), [abdomen](https://medlineplus.gov/abdominalpain.html), [chest](https://medlineplus.gov/chestpain.html), [pelvis](https://medlineplus.gov/pelvicpain.html), or you may feel pain all over.
+[Pain](Pain.md) is a signal in your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Each person feels pain differently, even if the reason for the pain is the same. Pain may be sharp or dull. It may come and go, or it may be constant. You may feel pain in one area of your body, such as your [back](Back%20Pain.md), [abdomen](Abdominal%20Pain.md), [chest](Chest%20Pain.md), [pelvis](Pelvic%20Pain.md), or you may feel pain all over.
 
 There are two types of pain:
 
-- **Acute pain** usually comes on suddenly, because of a disease, injury, or inflammation (irritation, redness, and/or swelling). It usually goes away when the cause is treated or healed, though sometimes it can turn into [chronic pain](https://medlineplus.gov/chronicpain.html).
+- **Acute pain** usually comes on suddenly, because of a disease, injury, or inflammation (irritation, redness, and/or swelling). It usually goes away when the cause is treated or healed, though sometimes it can turn into [chronic pain](Chronic%20Pain.md).
 - **Chronic pain** lasts for longer than three months or the time in which you should have healed. It can cause severe problems.
 
 #### What are pain relievers?
 
-[Pain relievers](https://medlineplus.gov/painrelievers.html) are medicines that reduce or relieve pain. There are many pain medicines, each with advantages and risks. Some are [over-the-counter](https://medlineplus.gov/overthecountermedicines.html) (OTC) medicines. Others are stronger medicines, which are available by prescription. The most powerful prescription pain relievers are opioids. They are very effective, but people who take them are at risk of [addiction](https://medlineplus.gov/opioidsandopioidusedisorderoud.html) and [overdose](https://medlineplus.gov/opioidoverdose.html).
+[Pain relievers](Pain%20Relievers.md) are medicines that reduce or relieve pain. There are many pain medicines, each with advantages and risks. Some are [over-the-counter](Over-the-Counter%20Medicines.md) (OTC) medicines. Others are stronger medicines, which are available by prescription. The most powerful prescription pain relievers are opioids. They are very effective, but people who take them are at risk of [addiction](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md) and [overdose](Opioid%20Overdose.md).
 
 Because of the side effects and risks of pain relievers, you may want to try non-drug treatments first. If you need to take medicines, doing some non-drug treatments may allow you to take a lower dose.
 
@@ -19,7 +19,7 @@ Because of the side effects and risks of pain relievers, you may want to try non
 
 Many non-drug treatments can help with pain. It is important to check with your health care provider before trying any of them:
 
-- **Acupuncture** involves stimulating [acupuncture](https://medlineplus.gov/acupuncture.html) points. These are specific points on your body. There are different acupuncture methods. The most common one involves inserting thin needles through the skin. Others include using pressure, electrical stimulation, and heat. Acupuncture is based on the belief that qi (vital energy) flows through the body along paths, called meridians. Practitioners believe that triggering the acupuncture points can rebalance the qi. Research suggests that acupuncture can help manage certain pain conditions.
+- **Acupuncture** involves stimulating [acupuncture](Acupuncture.md) points. These are specific points on your body. There are different acupuncture methods. The most common one involves inserting thin needles through the skin. Others include using pressure, electrical stimulation, and heat. Acupuncture is based on the belief that qi (vital energy) flows through the body along paths, called meridians. Practitioners believe that triggering the acupuncture points can rebalance the qi. Research suggests that acupuncture can help manage certain pain conditions.
 - **Biofeedback techniques** use electronic devices to measure body functions such as breathing and heart rate. This teaches you to be more aware of your body functions so you can learn to control them. For example, a biofeedback device may show you measurements of your muscle tension. By watching how these measurements change, you can become more aware of when your muscles are tense and learn to relax them. Biofeedback may help to control pain, including chronic headaches and back pain.
 - **Electrical stimulation** involves using a device to send a gentle electric current to your nerves or muscles. This can help treat pain by changing or blocking pain signals. Types include:
 
@@ -39,13 +39,13 @@ Many non-drug treatments can help with pain. It is important to check with your 
 
 ## Related topics
 
-- Acupuncture
-- Chiropractic
-- Chronic Pain
-- Complementary and Integrative Medicine
-- Pain
-- Rehabilitation
+- [Acupuncture](Acupuncture.md)
+- [Chiropractic](Chiropractic.md)
+- [Chronic Pain](Chronic%20Pain.md)
+- [Complementary and Integrative Medicine](Complementary%20and%20Integrative%20Medicine.md)
+- [Pain](Pain.md)
+- [Rehabilitation](Rehabilitation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/nondrugpainmanagement.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/nondrugpainmanagement.html). General information, not medical advice.*

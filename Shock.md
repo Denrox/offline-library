@@ -2,7 +2,7 @@
 
 Shock happens when not enough blood and oxygen can get to your organs and tissues. It causes very low blood pressure and may be life-threatening. It often happens along with a serious injury.
 
-There are several kinds of shock. Hypovolemic shock happens when you lose a lot of blood or fluids. Causes include internal or external bleeding, dehydration, burns, and severe vomiting and/or diarrhea. Septic shock is caused by infections in the bloodstream. A severe allergic reaction can cause [anaphylactic shock](https://medlineplus.gov/anaphylaxis.html). An insect bite or sting might cause it. Cardiogenic shock happens when the heart cannot pump blood effectively. This may happen after a heart attack. Neurogenic shock is caused by damage to the nervous system.
+There are several kinds of shock. Hypovolemic shock happens when you lose a lot of blood or fluids. Causes include internal or external bleeding, dehydration, burns, and severe vomiting and/or diarrhea. Septic shock is caused by infections in the bloodstream. A severe allergic reaction can cause [anaphylactic shock](Anaphylaxis.md). An insect bite or sting might cause it. Cardiogenic shock happens when the heart cannot pump blood effectively. This may happen after a heart attack. Neurogenic shock is caused by damage to the nervous system.
 
 Symptoms of shock include:
 
@@ -22,9 +22,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Anaphylaxis
-- Low Blood Pressure
+- [Anaphylaxis](Anaphylaxis.md)
+- [Low Blood Pressure](Low%20Blood%20Pressure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/shock.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/shock.html). General information, not medical advice.*

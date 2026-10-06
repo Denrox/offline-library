@@ -10,13 +10,13 @@ Nausea is when you feel sick to your stomach, as if you are going to throw up. V
 
 Nausea and vomiting can be symptoms of many different conditions, including:
 
-- Morning sickness during [pregnancy](https://medlineplus.gov/pregnancy.html)
-- [Gastroenteritis](https://medlineplus.gov/gastroenteritis.html) (infection of your intestines) and other infections
-- [Migraines](https://medlineplus.gov/migraine.html)
-- [Motion sickness](https://medlineplus.gov/motionsickness.html)
-- [Food poisoning](https://medlineplus.gov/foodborneillness.html)
-- Medicines, including those for [cancer chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
-- [GERD](https://medlineplus.gov/gerd.html) (reflux) and [ulcers](https://medlineplus.gov/pepticulcer.html)
+- Morning sickness during [pregnancy](Pregnancy.md)
+- [Gastroenteritis](Gastroenteritis.md) (infection of your intestines) and other infections
+- [Migraines](Migraine.md)
+- [Motion sickness](Motion%20Sickness.md)
+- [Food poisoning](Foodborne%20Illness.md)
+- Medicines, including those for [cancer chemotherapy](Cancer%20Chemotherapy.md)
+- [GERD](GERD.md) (reflux) and [ulcers](Peptic%20Ulcer.md)
 - Intestinal obstruction
 
 #### When do I need to see a health care provider for nausea and vomiting?
@@ -26,9 +26,9 @@ Nausea and vomiting are common. They are usually not serious. However, you shoul
 - A reason to think that your vomiting is from poisoning
 - Vomited for longer than 24 hours
 - Blood in the vomit
-- Severe [abdominal pain](https://medlineplus.gov/abdominalpain.html)
+- Severe [abdominal pain](Abdominal%20Pain.md)
 - Severe headache and stiff neck
-- Signs of [dehydration](https://medlineplus.gov/dehydration.html), such as dry mouth, infrequent urination or dark urine
+- Signs of [dehydration](Dehydration.md), such as dry mouth, infrequent urination or dark urine
 
 #### How is the cause of nausea and vomiting diagnosed?
 
@@ -48,8 +48,8 @@ There are things that you can do to feel better:
 
 ## Related topics
 
-- Digestive Diseases
+- [Digestive Diseases](Digestive%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/nauseaandvomiting.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/nauseaandvomiting.html). General information, not medical advice.*

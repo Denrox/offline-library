@@ -2,9 +2,9 @@
 
 *Also called: Postoperative care, Recovery from surgery*
 
-After any [operation](https://medlineplus.gov/surgery.html), you'll have some side effects. There is usually some pain with surgery. There may also be swelling and soreness around the area that the surgeon cut. Your surgeon can tell you which side effects to expect.
+After any [operation](Surgery.md), you'll have some side effects. There is usually some pain with surgery. There may also be swelling and soreness around the area that the surgeon cut. Your surgeon can tell you which side effects to expect.
 
-There can also be complications. These are unplanned events linked to the operation. Some complications are infection, too much bleeding, reaction to [anesthesia](https://medlineplus.gov/anesthesia.html), or accidental injury. Some people have a greater risk of complications because of other medical conditions.
+There can also be complications. These are unplanned events linked to the operation. Some complications are infection, too much bleeding, reaction to [anesthesia](Anesthesia.md), or accidental injury. Some people have a greater risk of complications because of other medical conditions.
 
 Your surgeon can tell you how you might feel and what you will be able to do - or not do - the first few days, weeks, or months after surgery. Some other questions to ask are:
 
@@ -20,4 +20,4 @@ Agency for Healthcare Research and Quality
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/aftersurgery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/aftersurgery.html). General information, not medical advice.*

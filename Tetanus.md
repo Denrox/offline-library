@@ -4,13 +4,13 @@ Tetanus is a serious illness caused by Clostridium bacteria. The bacteria live i
 
 The infection causes painful tightening of the muscles, usually all over the body. It can lead to "locking" of the jaw. This makes it impossible to open your mouth or swallow. Tetanus is a medical emergency. You need to get treatment in a hospital.
 
-A [vaccine](https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html) can prevent tetanus. It is given as a part of routine childhood vaccination. Adults should get a tetanus shot, or booster, every 10 years. If you get a bad cut or burn, see your doctor - you may need a booster. Immediate and proper wound care can prevent tetanus infection.
+A [vaccine](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md) can prevent tetanus. It is given as a part of routine childhood vaccination. Adults should get a tetanus shot, or booster, every 10 years. If you get a bad cut or burn, see your doctor - you may need a booster. Immediate and proper wound care can prevent tetanus infection.
 
 ## Related topics
 
-- Tetanus, Diphtheria, and Pertussis Vaccines
-- Vaccines
+- [Tetanus, Diphtheria, and Pertussis Vaccines](Tetanus%2C%20Diphtheria%2C%20and%20Pertussis%20Vaccines.md)
+- [Vaccines](Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tetanus.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tetanus.html). General information, not medical advice.*

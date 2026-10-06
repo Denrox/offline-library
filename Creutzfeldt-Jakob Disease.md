@@ -2,7 +2,7 @@
 
 *Also called: CJD*
 
-Creutzfeldt-Jakob disease (CJD) is a rare, [degenerative brain disorder](https://medlineplus.gov/degenerativenervediseases.html). Symptoms usually start around age 60. Memory problems, behavior changes, vision problems, and poor muscle coordination progress quickly to [dementia](https://medlineplus.gov/dementia.html), coma, and death. Most patients die within a year.
+Creutzfeldt-Jakob disease (CJD) is a rare, [degenerative brain disorder](Degenerative%20Nerve%20Diseases.md). Symptoms usually start around age 60. Memory problems, behavior changes, vision problems, and poor muscle coordination progress quickly to [dementia](Dementia.md), coma, and death. Most patients die within a year.
 
 The three main categories of CJD are :
 
@@ -16,4 +16,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/creutzfeldtjakobdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/creutzfeldtjakobdisease.html). General information, not medical advice.*

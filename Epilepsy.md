@@ -1,6 +1,6 @@
 # Epilepsy
 
-Epilepsy is a brain disorder that causes people to have recurring [seizures](https://medlineplus.gov/seizures.html). The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness.
+Epilepsy is a brain disorder that causes people to have recurring [seizures](Seizures.md). The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness.
 
 Epilepsy has many possible causes, including illness, brain injury, and abnormal brain development. In many cases, the cause is unknown.
 
@@ -10,8 +10,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Seizures
+- [Seizures](Seizures.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/epilepsy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/epilepsy.html). General information, not medical advice.*

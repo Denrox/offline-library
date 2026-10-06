@@ -7,7 +7,7 @@ Millions of Americans have tinnitus. People with severe tinnitus may have troubl
 Causes of tinnitus include:
 
 - Hearing loss in older people
-- Exposure to loud [noises](https://medlineplus.gov/noise.html)
+- Exposure to loud [noises](Noise.md)
 - Ear and sinus infections
 - Heart or blood vessel problems
 - Meniere's disease
@@ -22,8 +22,8 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Hearing Disorders and Deafness
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tinnitus.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tinnitus.html). General information, not medical advice.*

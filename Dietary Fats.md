@@ -2,7 +2,7 @@
 
 *Also called: Lipids, Monounsaturated fat, Polyunsaturated fat, Saturated fat*
 
-Fat is a type of nutrient. You need some fat in your diet but not too much. Fats give you energy and help your body absorb vitamins. Dietary fat also plays a major role in your [cholesterol levels](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html).
+Fat is a type of nutrient. You need some fat in your diet but not too much. Fats give you energy and help your body absorb vitamins. Dietary fat also plays a major role in your [cholesterol levels](Cholesterol%20Levels%20What%20You%20Need%20to%20Know.md).
 
 But not all fats are the same. You should try to avoid:
 
@@ -15,12 +15,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Cholesterol
-- How to Prevent Heart Disease
-- Lipid Metabolism Disorders
-- Nutrition
-- Triglycerides
+- [Cholesterol](Cholesterol.md)
+- [How to Prevent Heart Disease](How%20to%20Prevent%20Heart%20Disease.md)
+- [Lipid Metabolism Disorders](Lipid%20Metabolism%20Disorders.md)
+- [Nutrition](Nutrition.md)
+- [Triglycerides](Triglycerides.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dietaryfats.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dietaryfats.html). General information, not medical advice.*

@@ -7,21 +7,21 @@
 Learning disabilities are conditions that affect the ability to learn. They can cause problems with:
 
 - Understanding what people are saying
-- [Speaking](https://medlineplus.gov/speechandlanguageproblemsinchildren.html)
+- [Speaking](Speech%20and%20Language%20Problems%20in%20Children.md)
 - Reading
 - Writing
 - Doing math
 - Paying attention
 
-Often, children have more than one kind of learning disability. They may also have another condition, such as [attention deficit hyperactivity disorder](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html) (ADHD). This can make learning even more of a challenge. The sooner a learning disability is identified and addressed, the better a child is likely to perform in school.
+Often, children have more than one kind of learning disability. They may also have another condition, such as [attention deficit hyperactivity disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md) (ADHD). This can make learning even more of a challenge. The sooner a learning disability is identified and addressed, the better a child is likely to perform in school.
 
 #### What causes learning disabilities?
 
 Learning disabilities don't have anything to do with how smart your child is. They are caused by differences in the brain, and they affect the way the brain takes in and uses information. These differences are usually present at birth. But there are certain factors that can play a role in the development of a learning disability, including:
 
 - Genetics
-- Environmental exposures, such as [lead](https://medlineplus.gov/leadpoisoning.html)
-- [Using substances while pregnant](https://medlineplus.gov/pregnancyandsubstanceuse.html)
+- Environmental exposures, such as [lead](Lead%20Poisoning.md)
+- [Using substances while pregnant](Pregnancy%20and%20Substance%20Use.md)
 
 #### How are learning disabilities diagnosed?
 
@@ -43,10 +43,10 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Attention Deficit Hyperactivity Disorder
-- Developmental Disabilities
-- Speech and Language Problems in Children
+- [Attention Deficit Hyperactivity Disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md)
+- [Developmental Disabilities](Developmental%20Disabilities.md)
+- [Speech and Language Problems in Children](Speech%20and%20Language%20Problems%20in%20Children.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/learningdisabilities.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/learningdisabilities.html). General information, not medical advice.*

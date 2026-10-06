@@ -10,11 +10,11 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Elbow Injuries and Disorders
-- Hip Injuries and Disorders
-- Knee Injuries and Disorders
-- Tendinitis
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Hip Injuries and Disorders](Hip%20Injuries%20and%20Disorders.md)
+- [Knee Injuries and Disorders](Knee%20Injuries%20and%20Disorders.md)
+- [Tendinitis](Tendinitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bursitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bursitis.html). General information, not medical advice.*

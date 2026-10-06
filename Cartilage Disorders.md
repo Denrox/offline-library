@@ -4,21 +4,21 @@ Cartilage is the tough but flexible tissue that covers the ends of your bones at
 
 Injured, inflamed, or damaged cartilage can cause symptoms such as pain and limited movement. It can also lead to joint damage and deformity. Causes of cartilage problems include :
 
-- Tears and injuries, such as [sports injuries](https://medlineplus.gov/sportsinjuries.html)
+- Tears and injuries, such as [sports injuries](Sports%20Injuries.md)
 - Genetic factors
 - Other disorders, such as some types of arthritis
 
-[Osteoarthritis](https://medlineplus.gov/osteoarthritis.html) results from breakdown of cartilage.
+[Osteoarthritis](Osteoarthritis.md) results from breakdown of cartilage.
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Connective Tissue Disorders
-- Elbow Injuries and Disorders
-- Joint Disorders
-- Knee Injuries and Disorders
+- [Connective Tissue Disorders](Connective%20Tissue%20Disorders.md)
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Joint Disorders](Joint%20Disorders.md)
+- [Knee Injuries and Disorders](Knee%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cartilagedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cartilagedisorders.html). General information, not medical advice.*

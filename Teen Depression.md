@@ -2,7 +2,7 @@
 
 #### What is depression in teens?
 
-[Depression](https://medlineplus.gov/depression.html) in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or "blue" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.
+[Depression](Depression.md) in teens (ages 13-17) is a serious medical illness. It's more than just a feeling of being sad or "blue" for a few days. It is an intense feeling of sadness, hopelessness, and anger or frustration that lasts much longer. These feelings make it hard for you to function normally and do your usual activities. You may also have trouble focusing and have no motivation or energy. Depression can make you feel like it is hard to enjoy life or even get through the day.
 
 #### What causes depression in teens?
 
@@ -11,18 +11,18 @@ Many factors may play a role in depression, including:
 - **Genetics.** Depression can run in families.
 - **Brain biology and chemistry.**
 - **Hormones.** Hormone changes can contribute to depression.
-- **Stressful childhood events** such as trauma, the death of a loved one, [bullying](https://medlineplus.gov/bullyingandcyberbullying.html), and [abuse](https://medlineplus.gov/childabuse.html).
+- **Stressful childhood events** such as trauma, the death of a loved one, [bullying](Bullying%20and%20Cyberbullying.md), and [abuse](Child%20Abuse.md).
 
 #### Which teens are at risk of depression?
 
 Depression can happen at any age, but often begins in the teens or early adulthood. Certain teens are at higher risk of depression, such as those who:
 
-- Have other mental health conditions, such as [anxiety](https://medlineplus.gov/anxiety.html), [eating disorders](https://medlineplus.gov/eatingdisorders.html), and [substance use](https://medlineplus.gov/drugsandyoungpeople.html)
-- Have other diseases, such as [diabetes](https://medlineplus.gov/diabetes.html), [cancer](https://medlineplus.gov/cancer.html), and [heart disease](https://medlineplus.gov/heartdiseases.html)
+- Have other mental health conditions, such as [anxiety](Anxiety.md), [eating disorders](Eating%20Disorders.md), and [substance use](Drugs%20and%20Young%20People.md)
+- Have other diseases, such as [diabetes](Diabetes.md), [cancer](Cancer.md), and [heart disease](Heart%20Diseases.md)
 - Have family members with mental illness
 - Have a dysfunctional family/family conflict
 - Have problems with friends or other kids at school
-- Have [learning disabilities](https://medlineplus.gov/learningdisabilities.html) or [attention deficit hyperactivity disorder (ADHD)](attentiondeficithyperactivitydisorder.html)
+- Have [learning disabilities](Learning%20Disabilities.md) or attention deficit hyperactivity disorder (ADHD)
 - Have had trauma in childhood
 - Have low self-esteem, a pessimistic outlook, or poor coping skills
 
@@ -44,7 +44,7 @@ You also may also have other symptoms, such as:
 - Feeling very tired or not having energy
 - Feeling worthless or very guilty
 - Having trouble concentrating, remembering information, or making decisions
-- Thinking about dying or [suicide](https://medlineplus.gov/suicide.html)
+- Thinking about dying or [suicide](Suicide.md)
 
 #### How is depression in teens diagnosed?
 
@@ -56,7 +56,7 @@ If you think you might be depressed, tell someone that you trust, such as your:
 
 The next step is to see your doctor for a checkup. Your doctor can first make sure that you do not have another health problem that is causing your depression. To do this, you may have a physical exam and lab tests.
 
-If you don't have another health problem, you will get a [psychological evaluation](https://medlineplus.gov/lab-tests/mental-health-screening/). Your doctor may do it, or you may be referred to a mental health professional to get one. You may be asked about things such as:
+If you don't have another health problem, you will get a psychological evaluation. Your doctor may do it, or you may be referred to a mental health professional to get one. You may be asked about things such as:
 
 - Your thoughts and feelings
 - How you are doing at school
@@ -79,7 +79,7 @@ There are many different types of talk therapy. Certain types have been shown to
 
 **Medicines**
 
-In some cases, your doctor will suggest medicines along with talk therapy. There are a few [antidepressants](https://medlineplus.gov/antidepressants.html) that have been widely studied and proven to help teens. If you are taking medicine for depression, it is important to see your doctor regularly.
+In some cases, your doctor will suggest medicines along with talk therapy. There are a few [antidepressants](Antidepressants.md) that have been widely studied and proven to help teens. If you are taking medicine for depression, it is important to see your doctor regularly.
 
 It is also important to know that it will take some time for you to get relief from antidepressants:
 
@@ -97,13 +97,13 @@ Some teens who have severe depression or are at risk of hurting themselves may n
 
 ## Related topics
 
-- Antidepressants
-- Depression
-- Seasonal Affective Disorder
-- Self-Harm
-- Suicide
-- Teen Mental Health
+- [Antidepressants](Antidepressants.md)
+- [Depression](Depression.md)
+- [Seasonal Affective Disorder](Seasonal%20Affective%20Disorder.md)
+- [Self-Harm](Self-Harm.md)
+- [Suicide](Suicide.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/teendepression.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/teendepression.html). General information, not medical advice.*

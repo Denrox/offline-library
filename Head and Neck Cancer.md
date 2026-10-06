@@ -2,9 +2,9 @@
 
 #### What is head and neck cancer?
 
-Head and neck cancer is the name for cancers that develop in the [mouth](https://medlineplus.gov/oralcancer.html), [nose and sinuses](https://medlineplus.gov/nasalcancer.html), [salivary glands](https://medlineplus.gov/salivaryglandcancer.html), and [throat and voice box](https://medlineplus.gov/throatcancer.html) (larynx). Most head and neck cancers are squamous cell cancers. They begin in the moist tissues that line the head and neck. The cancer cells may spread into deeper tissue as the cancer grows.
+Head and neck cancer is the name for cancers that develop in the [mouth](Oral%20Cancer.md), [nose and sinuses](Nasal%20Cancer.md), [salivary glands](Salivary%20Gland%20Cancer.md), and [throat and voice box](Throat%20Cancer.md) (larynx). Most head and neck cancers are squamous cell cancers. They begin in the moist tissues that line the head and neck. The cancer cells may spread into deeper tissue as the cancer grows.
 
-There are other cancers that develop in the head and neck, such as [brain cancer](https://medlineplus.gov/braintumors.html), [eye cancer](https://medlineplus.gov/eyecancer.html), and [esophageal cancer](https://medlineplus.gov/esophagealcancer.html). But they are usually not considered to be head and neck cancers, because those types of cancer and their treatments are different.
+There are other cancers that develop in the head and neck, such as [brain cancer](Brain%20Tumors.md), [eye cancer](Eye%20Cancer.md), and [esophageal cancer](Esophageal%20Cancer.md). But they are usually not considered to be head and neck cancers, because those types of cancer and their treatments are different.
 
 #### Who is more likely to develop head and neck cancer?
 
@@ -14,9 +14,9 @@ Anyone can get head and neck cancer, but you are more likely to develop it if yo
 - Are male.
 - Are over age 50.
 - Have a history of head or neck cancer.
-- Have [HPV](https://medlineplus.gov/hpv.html) (for cancers in the tonsils and base of the tongue).
-- Are exposed to wood dusts or certain other toxic substances [at work](https://medlineplus.gov/occupationalhealth.html) (for upper throat, nose, and sinus cancers).
-- Have had [radiation exposure](https://medlineplus.gov/radiationexposure.html) to the head and neck (for salivary gland cancer).
+- Have [HPV](HPV.md) (for cancers in the tonsils and base of the tongue).
+- Are exposed to wood dusts or certain other toxic substances [at work](Occupational%20Health.md) (for upper throat, nose, and sinus cancers).
+- Have had [radiation exposure](Radiation%20Exposure.md) to the head and neck (for salivary gland cancer).
 - Have Epstein-Barr virus (EBV) infection (for upper throat and salivary gland cancers).
 - Are Asian (for upper throat cancer).
 
@@ -26,8 +26,8 @@ The symptoms of head and neck cancer may include:
 
 - A lump in the neck
 - A sore in the mouth or the throat that does not heal and may be painful
-- A [sore throat](https://medlineplus.gov/sorethroat.html) that does not go away
-- [Trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
+- A [sore throat](Sore%20Throat.md) that does not go away
+- [Trouble swallowing](Swallowing%20Disorders.md)
 - A change or hoarseness in the voice
 
 Other possible symptoms can depend on the specific type of head and neck cancer.
@@ -38,18 +38,18 @@ Which exams and tests used to diagnose head and neck cancer can depend on the sp
 
 - A physical exam of the area that might have cancer.
 - Blood and/or urine tests.
-- An [endoscopy](https://medlineplus.gov/endoscopy.html).
-- A [biopsy](https://medlineplus.gov/biopsy.html) or other procedure to collect cells from the area that might have cancer. The cells are viewed under a microscope to find out if they are abnormal.
-- [Imaging tests](https://medlineplus.gov/diagnosticimaging.html).
+- An [endoscopy](Endoscopy.md).
+- A [biopsy](Biopsy.md) or other procedure to collect cells from the area that might have cancer. The cells are viewed under a microscope to find out if they are abnormal.
+- [Imaging tests](Diagnostic%20Imaging.md).
 
 #### What are the treatments for head and neck cancer?
 
 The treatment for head and neck cancer will depend on the specific type of cancer, the stage (how advanced the cancer is), your overall health, and other factors. The treatment options might include:
 
 - Surgery
-- [Radiation therapy](https://medlineplus.gov/radiationtherapy.html)
-- [Chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
-- [Cancer immunotherapy](https://medlineplus.gov/cancerimmunotherapy.html)
+- [Radiation therapy](Radiation%20Therapy.md)
+- [Chemotherapy](Cancer%20Chemotherapy.md)
+- [Cancer immunotherapy](Cancer%20Immunotherapy.md)
 - Targeted therapy, which uses drugs or other substances that mainly attack specific cancer cells and cause less harm to normal cells
 
 In some cases, you may need a combination of treatments. Sometimes surgery can affect how well you can chew, swallow, or talk. Rehabilitation, such as physical therapy, dietary counseling, and speech therapy, may help.
@@ -60,22 +60,22 @@ There are steps you can take to help prevent head and neck cancer:
 
 - Not smoking
 - Limiting alcohol use or not drinking at all
-- Getting regular [dental exams](https://medlineplus.gov/lab-tests/dental-exam/)
+- Getting regular dental exams
 - Talking to your provider about HPV vaccination
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Esophageal Cancer
-- Eye Cancer
-- Nasal Cancer
-- Oral Cancer
-- Parathyroid Disorders
-- Salivary Gland Cancer
-- Throat Cancer
-- Thyroid Cancer
+- [Esophageal Cancer](Esophageal%20Cancer.md)
+- [Eye Cancer](Eye%20Cancer.md)
+- [Nasal Cancer](Nasal%20Cancer.md)
+- [Oral Cancer](Oral%20Cancer.md)
+- [Parathyroid Disorders](Parathyroid%20Disorders.md)
+- [Salivary Gland Cancer](Salivary%20Gland%20Cancer.md)
+- [Throat Cancer](Throat%20Cancer.md)
+- [Thyroid Cancer](Thyroid%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/headandneckcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/headandneckcancer.html). General information, not medical advice.*

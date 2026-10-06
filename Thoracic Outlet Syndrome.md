@@ -2,7 +2,7 @@
 
 *Also called: TOS*
 
-Thoracic outlet syndrome (TOS) causes pain in the [shoulder](https://medlineplus.gov/shoulderinjuriesanddisorders.html), arm, and neck. It happens when the nerves or blood vessels just below your neck are compressed, or squeezed. The compression can happen between the muscles of your neck and shoulder or between the first rib and collarbone. You may feel burning, tingling, and numbness along your arm, hand, and fingers. If a nerve is compressed, you may also feel weakness in your hand. If a vein is compressed, your hand might be sensitive to cold, or turn pale or bluish. Your arm might swell and tire easily.
+Thoracic outlet syndrome (TOS) causes pain in the [shoulder](Shoulder%20Injuries%20and%20Disorders.md), arm, and neck. It happens when the nerves or blood vessels just below your neck are compressed, or squeezed. The compression can happen between the muscles of your neck and shoulder or between the first rib and collarbone. You may feel burning, tingling, and numbness along your arm, hand, and fingers. If a nerve is compressed, you may also feel weakness in your hand. If a vein is compressed, your hand might be sensitive to cold, or turn pale or bluish. Your arm might swell and tire easily.
 
 TOS is more common in women. It usually starts between 20 and 50 years of age. Doctors do nerve and imaging studies to diagnose it.
 
@@ -21,4 +21,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/thoracicoutletsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/thoracicoutletsyndrome.html). General information, not medical advice.*

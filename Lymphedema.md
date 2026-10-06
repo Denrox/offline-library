@@ -2,7 +2,7 @@
 
 *Also called: Lymphatic obstruction*
 
-Lymphedema is the name of a type of [swelling](https://medlineplus.gov/edema.html). It happens when lymph builds up in your body's soft tissues. Lymph is a fluid that contains white blood cells that defend against germs. It can build up when the [lymph system](https://medlineplus.gov/lymphaticdiseases.html) is damaged or blocked. It usually happens in the arms or legs.
+Lymphedema is the name of a type of [swelling](Edema.md). It happens when lymph builds up in your body's soft tissues. Lymph is a fluid that contains white blood cells that defend against germs. It can build up when the [lymph system](Lymphatic%20Diseases.md) is damaged or blocked. It usually happens in the arms or legs.
 
 Causes of lymphedema include:
 
@@ -17,9 +17,9 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Edema
-- Lymphatic Diseases
+- [Edema](Edema.md)
+- [Lymphatic Diseases](Lymphatic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lymphedema.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lymphedema.html). General information, not medical advice.*

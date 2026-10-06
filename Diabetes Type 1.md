@@ -4,19 +4,19 @@
 
 #### What is type 1 diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) means your [blood glucose](https://medlineplus.gov/bloodglucose.html), also called blood sugar, is too high. With type 1 diabetes, your body makes little or no insulin. Insulin is a hormone from your pancreas that helps glucose move from your body into your cells, where it is used for energy. Your body can make glucose, but it also comes from the food you eat. Without insulin, too much glucose stays in your blood.
+[Diabetes](Diabetes.md) means your [blood glucose](Blood%20Glucose.md), also called blood sugar, is too high. With type 1 diabetes, your body makes little or no insulin. Insulin is a hormone from your pancreas that helps glucose move from your body into your cells, where it is used for energy. Your body can make glucose, but it also comes from the food you eat. Without insulin, too much glucose stays in your blood.
 
-Over time, [high blood glucose](https://medlineplus.gov/hyperglycemia.html) can lead to [serious problems](https://medlineplus.gov/diabetescomplications.html) with your [heart](https://medlineplus.gov/diabeticheartdisease.html), [eyes](https://medlineplus.gov/diabeticeyeproblems.html), [kidneys](https://medlineplus.gov/diabetickidneyproblems.html), [nerves](https://medlineplus.gov/diabeticnerveproblems.html), gums, and teeth.
+Over time, [high blood glucose](Hyperglycemia.md) can lead to [serious problems](Diabetes%20Complications.md) with your [heart](Diabetic%20Heart%20Disease.md), [eyes](Diabetic%20Eye%20Problems.md), [kidneys](Diabetic%20Kidney%20Problems.md), [nerves](Diabetic%20Nerve%20Problems.md), gums, and teeth.
 
 If your blood glucose gets very high, you can develop diabetic ketoacidosis (DKA). It happens when your body doesn't have enough insulin to allow glucose into your cells. Instead, your liver breaks down fat for energy, which produces ketones. When ketones build up too quickly, they can reach dangerous levels. DKA is a life-threatening emergency.
 
 #### What causes type 1 diabetes?
 
-Type 1 diabetes is an [autoimmune disease](https://medlineplus.gov/autoimmunediseases.html). Your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) mistakenly attacks the cells in your pancreas that make insulin. Researchers don't yet know exactly why this happens. [Genes](https://medlineplus.gov/genetics/condition/type-1-diabetes/) and environmental factors may play a role in triggering the disease.
+Type 1 diabetes is an [autoimmune disease](Autoimmune%20Diseases.md). Your [immune system](Immune%20System%20and%20Disorders.md) mistakenly attacks the cells in your pancreas that make insulin. Researchers don't yet know exactly why this happens. Genes and environmental factors may play a role in triggering the disease.
 
 #### Who is more likely to develop type 1 diabetes?
 
-Type 1 diabetes often begins in [children](https://medlineplus.gov/diabetesinchildrenandteens.html) and young adults, but it can appear at any age. Having a parent or sibling with type 1 diabetes may increase your chance of developing it.
+Type 1 diabetes often begins in [children](Diabetes%20in%20Children%20and%20Teens.md) and young adults, but it can appear at any age. Having a parent or sibling with type 1 diabetes may increase your chance of developing it.
 
 #### What are the symptoms of type 1 diabetes?
 
@@ -25,7 +25,7 @@ Symptoms often start quickly, especially in children. In adults, they may develo
 - Feeling very thirsty
 - Feeling very hungry
 - Urinating (peeing) more often, including at night
-- Having [fatigue](https://medlineplus.gov/fatigue.html)
+- Having [fatigue](Fatigue.md)
 - Having blurry vision
 - Losing feeling in your feet, or having tingling in your feet or hands
 - Having sores that don't heal
@@ -33,11 +33,11 @@ Symptoms often start quickly, especially in children. In adults, they may develo
 
 #### How is type 1 diabetes diagnosed?
 
-[Blood tests](https://medlineplus.gov/lab-tests/diabetes-tests/) that measure your blood glucose level can show whether it is higher than normal for you.
+Blood tests that measure your blood glucose level can show whether it is higher than normal for you.
 
 #### What are the treatments for type 1 diabetes?
 
-Type 1 diabetes is a chronic (long-term) condition. You will need daily insulin, either through injections or an insulin pump. Some people also take another [diabetes medicine](https://medlineplus.gov/diabetesmedicines.html) that works with insulin.
+Type 1 diabetes is a chronic (long-term) condition. You will need daily insulin, either through injections or an insulin pump. Some people also take another [diabetes medicine](Diabetes%20Medicines.md) that works with insulin.
 
 Ask your health care provider about the best way to check your blood glucose level and how often you should check it.
 
@@ -46,24 +46,24 @@ Ask your health care provider about the best way to check your blood glucose lev
 Type 1 diabetes can't be prevented. But you may be able to prevent or delay health problems related to diabetes by:
 
 - Managing your blood glucose level with finger prick tests or a continuous glucose monitor (CGM)
-- Making [healthy food choices](https://medlineplus.gov/diabeticdiet.html)
-- Getting regular [exercise](https://medlineplus.gov/benefitsofexercise.html)
+- Making [healthy food choices](Diabetic%20Diet.md)
+- Getting regular [exercise](Benefits%20of%20Exercise.md)
 
-A blood test called the [A1C](https://medlineplus.gov/a1c.html) can show how well you are managing your diabetes over time.
+A blood test called the [A1C](A1C.md) can show how well you are managing your diabetes over time.
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- A1C
-- Blood Glucose
-- Diabetes
-- Diabetes Complications
-- Diabetes in Children and Teens
-- Diabetes Medicines
-- Diabetes Type 2
-- Diabetic Diet
+- [A1C](A1C.md)
+- [Blood Glucose](Blood%20Glucose.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Medicines](Diabetes%20Medicines.md)
+- [Diabetes Type 2](Diabetes%20Type%202.md)
+- [Diabetic Diet](Diabetic%20Diet.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabetestype1.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabetestype1.html). General information, not medical advice.*

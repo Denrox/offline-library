@@ -16,9 +16,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Parasitic Diseases
-- Traveler's Health
+- [Parasitic Diseases](Parasitic%20Diseases.md)
+- [Traveler's Health](Traveler%27s%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/leishmaniasis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/leishmaniasis.html). General information, not medical advice.*

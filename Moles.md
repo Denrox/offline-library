@@ -6,14 +6,14 @@ Moles are growths on the skin. They happen when pigment cells in the skin, calle
 
 Moles are usually pink, tan or brown. They can be flat or raised. They are usually round or oval and no larger than a pencil eraser.
 
-About one out of every ten people has at least one unusual (or atypical) mole that looks different from an ordinary mole. They are called dysplastic nevi. They may be more likely than ordinary moles to develop into [melanoma](https://medlineplus.gov/melanoma.html), a type of skin cancer. You should have a health care professional check your moles if they look unusual, grow larger, change in color or outline, or in any other way.
+About one out of every ten people has at least one unusual (or atypical) mole that looks different from an ordinary mole. They are called dysplastic nevi. They may be more likely than ordinary moles to develop into [melanoma](Melanoma.md), a type of skin cancer. You should have a health care professional check your moles if they look unusual, grow larger, change in color or outline, or in any other way.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Skin Pigmentation Disorders
+- [Skin Pigmentation Disorders](Skin%20Pigmentation%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/moles.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/moles.html). General information, not medical advice.*

@@ -12,16 +12,16 @@ Other names for blisters are vesicles (usually for smaller blisters) and bulla (
 
 Blisters often happen when there is friction - rubbing or pressure - on one spot. For example, if your shoes don't fit quite right and they keep rubbing part of your foot. Or if you don't wear gloves when you rake leaves and the handle keeps rubbing against your hand. Other causes of blisters include:
 
-- [Burns](https://medlineplus.gov/burns.html)
-- [Sunburn](https://medlineplus.gov/sunexposure.html)
-- [Frostbite](https://medlineplus.gov/frostbite.html)
-- [Eczema](https://medlineplus.gov/eczema.html)
-- [Allergic reactions](https://medlineplus.gov/allergy.html)
-- [Poison ivy, oak, and sumac](https://medlineplus.gov/poisonivyoakandsumac.html)
-- Autoimmune diseases such as [pemphigus](https://medlineplus.gov/pemphigus.html)
+- [Burns](Burns.md)
+- [Sunburn](Sun%20Exposure.md)
+- [Frostbite](Frostbite.md)
+- [Eczema](Eczema.md)
+- [Allergic reactions](Allergy.md)
+- [Poison ivy, oak, and sumac](Poison%20Ivy%2C%20Oak%2C%20and%20Sumac.md)
+- Autoimmune diseases such as [pemphigus](Pemphigus.md)
 - Epidermolysis bullosa, an illness that causes the skin to be fragile
-- Viral infections such as varicella zoster (which causes [chickenpox](https://medlineplus.gov/chickenpox.html) and [shingles](https://medlineplus.gov/shingles.html)) and [herpes simplex](https://medlineplus.gov/herpessimplex.html) (which causes [cold sores](https://medlineplus.gov/coldsores.html))
-- [Skin infections](https://medlineplus.gov/skininfections.html) including [impetigo](https://medlineplus.gov/impetigo.html)
+- Viral infections such as varicella zoster (which causes [chickenpox](Chickenpox.md) and [shingles](Shingles.md)) and [herpes simplex](Herpes%20Simplex.md) (which causes [cold sores](Cold%20Sores.md))
+- [Skin infections](Skin%20Infections.md) including [impetigo](Impetigo.md)
 
 #### What are the treatments for blisters?
 
@@ -46,4 +46,4 @@ There are some things you can do to prevent friction blisters:
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/blisters.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/blisters.html). General information, not medical advice.*

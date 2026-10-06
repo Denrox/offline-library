@@ -2,9 +2,9 @@
 
 *Also called: Botulinum toxin type A*
 
-Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. It's the same toxin that causes a life-threatening type of food poisoning called [botulism](https://medlineplus.gov/botulism.html). Doctors use it in small doses to treat health problems, including:
+Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. It's the same toxin that causes a life-threatening type of food poisoning called [botulism](Botulism.md). Doctors use it in small doses to treat health problems, including:
 
-- Temporary smoothing of facial [wrinkles](https://medlineplus.gov/skinaging.html) and improving your appearance
+- Temporary smoothing of facial [wrinkles](Skin%20Aging.md) and improving your appearance
 - Severe underarm sweating
 - Cervical dystonia - a neurological disorder that causes severe neck and shoulder muscle contractions
 - Blepharospasm - uncontrollable blinking
@@ -16,4 +16,4 @@ Botox injections work by weakening or paralyzing certain muscles or by blocking 
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/botox.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/botox.html). General information, not medical advice.*

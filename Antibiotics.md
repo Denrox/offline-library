@@ -2,7 +2,7 @@
 
 #### What are antibiotics?
 
-Antibiotics are medicines that fight [bacterial infections](https://medlineplus.gov/bacterialinfections.html) in people and animals. They work by killing the bacteria or by making it hard for the bacteria to grow and multiply.
+Antibiotics are medicines that fight [bacterial infections](Bacterial%20Infections.md) in people and animals. They work by killing the bacteria or by making it hard for the bacteria to grow and multiply.
 
 Antibiotics can be taken in different ways:
 
@@ -12,38 +12,38 @@ Antibiotics can be taken in different ways:
 
 #### What do antibiotics treat?
 
-Antibiotics only treat certain bacterial infections, such as strep throat, [urinary tract infections](https://medlineplus.gov/urinarytractinfections.html), and [E. coli](https://medlineplus.gov/ecoliinfections.html).
+Antibiotics only treat certain bacterial infections, such as strep throat, [urinary tract infections](Urinary%20Tract%20Infections.md), and [E. coli](E.%20coli%20Infections.md).
 
-You may not need to take antibiotics for some bacterial infections. For example, you might not need them for many sinus infections or some [ear infections](https://medlineplus.gov/earinfections.html). Taking antibiotics when they're not needed won't help you, and they can have side effects. Your health care provider can decide the best treatment for you when you're sick. Don't ask your provider to prescribe an antibiotic for you.
+You may not need to take antibiotics for some bacterial infections. For example, you might not need them for many sinus infections or some [ear infections](Ear%20Infections.md). Taking antibiotics when they're not needed won't help you, and they can have side effects. Your health care provider can decide the best treatment for you when you're sick. Don't ask your provider to prescribe an antibiotic for you.
 
 #### Do antibiotics treat viral infections?
 
 Antibiotics **do not** work on viral infections. For example, you shouldn't take antibiotics for:
 
-- [Colds](https://medlineplus.gov/commoncold.html) and runny noses, even if the mucus is thick, yellow, or green
-- Most [sore throats](https://medlineplus.gov/sorethroat.html) (except strep throat)
-- [Flu](https://medlineplus.gov/flu.html)
-- Most cases of [bronchitis](https://medlineplus.gov/acutebronchitis.html)
+- [Colds](Common%20Cold.md) and runny noses, even if the mucus is thick, yellow, or green
+- Most [sore throats](Sore%20Throat.md) (except strep throat)
+- [Flu](Flu.md)
+- Most cases of [bronchitis](Acute%20Bronchitis.md)
 
 #### What are the side effects of antibiotics?
 
 The side effects of antibiotics range from minor to very severe. Some of the common side effects include:
 
-- [Rash](https://medlineplus.gov/rashes.html)
-- [Nausea](https://medlineplus.gov/nauseaandvomiting.html)
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
-- [Yeast infections](https://medlineplus.gov/yeastinfections.html)
+- [Rash](Rashes.md)
+- [Nausea](Nausea%20and%20Vomiting.md)
+- [Diarrhea](Diarrhea.md)
+- [Yeast infections](Yeast%20Infections.md)
 
 More serious side effects can include:
 
-- [C. diff infections](https://medlineplus.gov/cdiffinfections.html), which cause diarrhea that can lead to severe colon damage and sometimes even death
-- Severe and life-threatening [allergic reactions](https://medlineplus.gov/drugreactions.html)
-- [Antibiotic resistance infections](https://medlineplus.gov/antibioticresistance.html)  
+- [C. diff infections](C.%20diff%20Infections.md), which cause diarrhea that can lead to severe colon damage and sometimes even death
+- Severe and life-threatening [allergic reactions](Drug%20Reactions.md)
+- [Antibiotic resistance infections](Antibiotic%20Resistance.md)  
 Call your health care provider if you develop any side effects while taking your antibiotic.
 
 #### Why is it important to take antibiotics only when they're needed?
 
-You should only take antibiotics when they are needed because they can cause side effects and can contribute to [Antibiotic resistance infections](https://medlineplus.gov/antibioticresistance.html). Antibiotic resistance happens when the bacteria change and become able to resist the effects of an antibiotic. This means that the bacteria continue to grow.
+You should only take antibiotics when they are needed because they can cause side effects and can contribute to [Antibiotic resistance infections](Antibiotic%20Resistance.md). Antibiotic resistance happens when the bacteria change and become able to resist the effects of an antibiotic. This means that the bacteria continue to grow.
 
 #### How do I use antibiotics correctly?
 
@@ -58,10 +58,10 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Antibiotic Resistance
-- Bacterial Infections
-- Medicines
+- [Antibiotic Resistance](Antibiotic%20Resistance.md)
+- [Bacterial Infections](Bacterial%20Infections.md)
+- [Medicines](Medicines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/antibiotics.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/antibiotics.html). General information, not medical advice.*

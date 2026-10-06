@@ -2,7 +2,7 @@
 
 #### What is osteoporosis?
 
-Osteoporosis is a disease in which your bones become weak and are likely to [fracture](https://medlineplus.gov/fractures.html) (break). The disease can develop when your [bone mineral density](https://medlineplus.gov/bonedensity.html) and bone mass decrease. It can also happen if the structure and strength of your bones change.
+Osteoporosis is a disease in which your bones become weak and are likely to [fracture](Fractures.md) (break). The disease can develop when your [bone mineral density](Bone%20Density.md) and bone mass decrease. It can also happen if the structure and strength of your bones change.
 
 Osteoporosis is called a "silent" disease because it doesn't usually cause symptoms. You may not even know you have the disease until you break a bone. This could happen with any bone, but it's most common in the bones of your hip, vertebrae in the spine, and wrist.
 
@@ -23,26 +23,26 @@ Anyone can develop osteoporosis, but you are more likely to develop it if you ha
  - African American and Mexican American women have a lower risk.
  - White men are at higher risk than African American and Mexican American men.
 - **Family history.** Your risk of osteoporosis may be higher if one of your parents has osteoporosis or broke their hip.
-- **Changes to [hormones](https://medlineplus.gov/hormones.html).** Low levels of certain hormones can increase your chance of developing osteoporosis.
-- **Diet.** A diet that is low in [calcium](https://medlineplus.gov/calcium.html) and/or [vitamin D](https://medlineplus.gov/vitamind.html) or does not include enough [protein](https://medlineplus.gov/dietaryproteins.html) can raise your risk.
+- **Changes to [hormones](Hormones.md).** Low levels of certain hormones can increase your chance of developing osteoporosis.
+- **Diet.** A diet that is low in [calcium](Calcium.md) and/or [vitamin D](Vitamin%20D.md) or does not include enough [protein](Dietary%20Proteins.md) can raise your risk.
 - **Long-term use of certain medicines,** such as:
 
- - [Corticosteroids](https://medlineplus.gov/steroids.html)
- - Proton pump inhibitors (which treat [GERD](https://medlineplus.gov/gerd.html))
- - Medicines to treat [epilepsy](https://medlineplus.gov/epilepsy.html)
+ - [Corticosteroids](Steroids.md)
+ - Proton pump inhibitors (which treat [GERD](GERD.md))
+ - Medicines to treat [epilepsy](Epilepsy.md)
 - **Having other medical conditions,** such as:
 
- - [Endocrine diseases](https://medlineplus.gov/endocrinediseases.html)
- - Certain [digestive diseases](https://medlineplus.gov/digestivediseases.html)
- - [Rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html)
+ - [Endocrine diseases](Endocrine%20Diseases.md)
+ - Certain [digestive diseases](Digestive%20Diseases.md)
+ - [Rheumatoid arthritis](Rheumatoid%20Arthritis.md)
  - Certain types of cancer
- - [HIV](https://medlineplus.gov/hiv.html)
- - Anorexia nervosa, a type of [eating disorder](https://medlineplus.gov/eatingdisorders.html)
+ - [HIV](HIV.md)
+ - Anorexia nervosa, a type of [eating disorder](Eating%20Disorders.md)
 - **Your lifestyle.** Certain lifestyle factors can contribute to bone loss, such as:
 
- - [Smoking tobacco](https://medlineplus.gov/smoking.html)
- - Long-term heavy [alcohol use](https://medlineplus.gov/alcohol.html)
- - [Physical inactivity](https://medlineplus.gov/healthrisksofaninactivelifestyle.html) or prolonged periods of bedrest
+ - [Smoking tobacco](Smoking.md)
+ - Long-term heavy [alcohol use](Alcohol.md)
+ - [Physical inactivity](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md) or prolonged periods of bedrest
 
 #### What are the symptoms of osteoporosis?
 
@@ -50,7 +50,7 @@ Osteoporosis usually doesn't cause symptoms. You may not know that you have it u
 
 #### How is osteoporosis diagnosed?
 
-Health care providers often diagnose osteoporosis during routine [screening](https://medlineplus.gov/healthscreening.html) for the disease. The U.S. Preventive Services Task Force recommends screening for:
+Health care providers often diagnose osteoporosis during routine [screening](Health%20Screening.md) for the disease. The U.S. Preventive Services Task Force recommends screening for:
 
 - Women age 65 and older
 - Postmenopausal women under age 65 who have factors that increase the chance of developing osteoporosis
@@ -68,7 +68,7 @@ To find out if you have osteoporosis, your provider:
  - Your muscle strength
 - Will likely order a bone density scan
 - May do a fracture risk assessment, which is a short questionnaire that helps estimate your risk of breaking a bone in the next 10 years
-- Will likely order a [bone density scan](https://medlineplus.gov/lab-tests/bone-density-scan/)
+- Will likely order a bone density scan
 - May do a fracture risk assessment, which is a short questionnaire that helps estimate your risk of breaking a bone in the next 10 years
 
 #### What are the treatments for osteoporosis?
@@ -76,9 +76,9 @@ To find out if you have osteoporosis, your provider:
 The goals for treating osteoporosis are to slow or stop bone loss and to prevent fractures. Your provider may recommend:
 
 - A healthy, balanced diet that includes enough calcium, vitamin D, and protein
-- Lifestyle changes such as [quitting smoking](https://medlineplus.gov/quittingsmoking.html) and limiting alcohol
-- [Regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html) including weight-bearing exercise (like walking), strength training, and balance exercises
-- [Fall](https://medlineplus.gov/falls.html) prevention to help prevent fractures
+- Lifestyle changes such as [quitting smoking](Quitting%20Smoking.md) and limiting alcohol
+- [Regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md) including weight-bearing exercise (like walking), strength training, and balance exercises
+- [Fall](Falls.md) prevention to help prevent fractures
 - Medicines, such as:
 
  - Medicines that slow down bone loss
@@ -99,11 +99,11 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Bone Density
-- Calcium
-- Fractures
-- Vitamin D
+- [Bone Density](Bone%20Density.md)
+- [Calcium](Calcium.md)
+- [Fractures](Fractures.md)
+- [Vitamin D](Vitamin%20D.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/osteoporosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/osteoporosis.html). General information, not medical advice.*

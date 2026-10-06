@@ -10,9 +10,9 @@ Sexual assault may happen with:
 
 - Physical force or threats of force
 - Sexual coercion (being pressured, tricked, threatened, or forced in a nonphysical way to make you think you owe sex to someone)
-- Alcohol or drugs, including [date rape drugs](https://medlineplus.gov/clubdrugs.html)
+- Alcohol or drugs, including [date rape drugs](Club%20Drugs.md)
 
-Sexual assault may also be called sexual violence or sexual abuse. It affects millions of people each year. Anyone can be a victim of sexual assault. Many victims first experience [sexual assault during childhood](https://medlineplus.gov/childsexualabuse.html). Most victims are girls and women. But many boys and men are also victims of sexual assault.
+Sexual assault may also be called sexual violence or sexual abuse. It affects millions of people each year. Anyone can be a victim of sexual assault. Many victims first experience [sexual assault during childhood](Child%20Sexual%20Abuse.md). Most victims are girls and women. But many boys and men are also victims of sexual assault.
 
 If you've been sexually assaulted, it's never your fault. It's something that happens *to* you.
 
@@ -75,22 +75,22 @@ Sexual assault may have many health effects. Many of them can affect your lifelo
 
 - **Physical effects** such as:
 
- - [Bruises](https://medlineplus.gov/bruises.html) or genital injuries
- - [Sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs)
+ - [Bruises](Bruises.md) or genital injuries
+ - [Sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs)
  - Pregnancy
  - Ongoing problems with:
 
  - Female reproductive health
- - [Digestive disorders](https://medlineplus.gov/digestivediseases.html)
- - Your [heart](https://medlineplus.gov/heartdiseases.html)
- - [Sexual health](https://medlineplus.gov/sexualhealth.html)
+ - [Digestive disorders](Digestive%20Diseases.md)
+ - Your [heart](Heart%20Diseases.md)
+ - [Sexual health](Sexual%20Health.md)
 - **Psychological effects** such as:
 
- - [Depression](https://medlineplus.gov/depression.html) or [anxiety](https://medlineplus.gov/anxiety.html)
- - Thoughts about [suicide](https://medlineplus.gov/suicide.html)
- - [Post-traumatic stress disorder (PTSD)](posttraumaticstressdisorder.html)
+ - [Depression](Depression.md) or [anxiety](Anxiety.md)
+ - Thoughts about [suicide](Suicide.md)
+ - Post-traumatic stress disorder (PTSD)
 
-Sexual assault victims are more likely to [smoke](https://medlineplus.gov/smoking.html), have an [alcohol use disorder](https://medlineplus.gov/alcoholusedisorderaud.html) (AUD), [use illegal drugs](https://medlineplus.gov/druguseandaddiction.html), and have risky sexual behavior. Girls who experience [sexual violence](https://medlineplus.gov/intimatepartnerviolence.html) are more likely to become victims of intimate partner violence in adulthood.
+Sexual assault victims are more likely to [smoke](Smoking.md), have an [alcohol use disorder](Alcohol%20Use%20Disorder%20%28AUD%29.md) (AUD), [use illegal drugs](Drug%20Use%20and%20Addiction.md), and have risky sexual behavior. Girls who experience [sexual violence](Intimate%20Partner%20Violence.md) are more likely to become victims of intimate partner violence in adulthood.
 
 #### What can I do if I'm a victim of sexual assault?
 
@@ -118,9 +118,9 @@ Centers for Disease and Control and Prevention
 
 ## Related topics
 
-- Child Sexual Abuse
-- Intimate Partner Violence
+- [Child Sexual Abuse](Child%20Sexual%20Abuse.md)
+- [Intimate Partner Violence](Intimate%20Partner%20Violence.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sexualassault.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sexualassault.html). General information, not medical advice.*

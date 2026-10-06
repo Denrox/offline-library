@@ -4,7 +4,7 @@
 
 #### What are streptococcal infections?
 
-Strep is short for *Streptococcus*, a type of [bacteria](https://medlineplus.gov/bacterialinfections.html) that often lives in your nose and throat. Most strep infections are mild, but some may become serious depending on your overall health.
+Strep is short for *Streptococcus*, a type of [bacteria](Bacterial%20Infections.md) that often lives in your nose and throat. Most strep infections are mild, but some may become serious depending on your overall health.
 
 There are several types of strep. Two of them cause most of the strep infections in people: **group A** and **group B**.
 
@@ -22,7 +22,7 @@ There are different ways that streptococcal infections may spread:
 
 #### Who is more likely to get a streptococcal infection?  
   
-- **Group A strep** infections are most common in children ages 5 to 15, but adults can get them too. You may be at higher risk if you have a [weakened immune system](https://medlineplus.gov/immunesystemanddisorders.html), open sores or wounds, or certain [viral infections](https://medlineplus.gov/viralinfections.html) such as a [cold](https://medlineplus.gov/commoncold.html) or [flu](https://medlineplus.gov/flu.html).
+- **Group A strep** infections are most common in children ages 5 to 15, but adults can get them too. You may be at higher risk if you have a [weakened immune system](Immune%20System%20and%20Disorders.md), open sores or wounds, or certain [viral infections](Viral%20Infections.md) such as a [cold](Common%20Cold.md) or [flu](Flu.md).
 - **Group B strep** is most often a concern for newborns. Adults can also get group B strep infections, especially those 65 or older or who already have other health problems.
 
 #### What are the symptoms of streptococcal infections?
@@ -31,34 +31,34 @@ Symptoms depend on the type of infection. Most group A strep infections are mild
 
 **Group A strep** may cause:
 
-- **Strep throat.** A [sore](https://medlineplus.gov/sorethroat.html), red throat. Your [tonsils](https://medlineplus.gov/tonsillitis.html) may be swollen and have white spots on them.
+- **Strep throat.** A [sore](Sore%20Throat.md), red throat. Your [tonsils](Tonsillitis.md) may be swollen and have white spots on them.
 - **Scarlet fever.** An illness that follows strep throat. It causes a red rash that spreads across the body.
-- **[Impetigo](https://medlineplus.gov/impetigo.html)**. A skin infection that causes sores or [blisters](https://medlineplus.gov/blisters.html), often around the mouth, nose, or on the arms and legs.
-- **[Cellulitis](https://medlineplus.gov/cellulitis.html)**. A skin infection that causes redness, swelling, and pain, usually on the legs.
+- **[Impetigo](Impetigo.md)**. A skin infection that causes sores or [blisters](Blisters.md), often around the mouth, nose, or on the arms and legs.
+- **[Cellulitis](Cellulitis.md)**. A skin infection that causes redness, swelling, and pain, usually on the legs.
 - **Necrotizing fasciitis** (flesh-eating disease). A rare but serious infection that spreads quickly through the skin and tissue.
 - **Streptococcal toxic shock syndrome.** A rare but life-threatening illness where the bacteria release toxins that can cause organ failure.
 
 **Group B strep** may cause:
 
-- Blood infections, [pneumonia](https://medlineplus.gov/pneumonia.html) and [meningitis](https://medlineplus.gov/meningitis.html) in newborns
-- [Urinary tract infections](https://medlineplus.gov/urinarytractinfections.html), blood infections, skin infections, and pneumonia in adults
+- Blood infections, [pneumonia](Pneumonia.md) and [meningitis](Meningitis.md) in newborns
+- [Urinary tract infections](Urinary%20Tract%20Infections.md), blood infections, skin infections, and pneumonia in adults
 
 #### How are streptococcal infections diagnosed?
 
-**Group A strep.** How strep is diagnosed depends on the type of infection. Your healthcare provider will usually diagnose strep throat with a [rapid test](https://medlineplus.gov/lab-tests/rapid-tests/) or a [throat culture](https://medlineplus.gov/lab-tests/strep-a-test/). Other strep infections may require a physical exam, lab tests, [imaging](https://medlineplus.gov/diagnosticimaging.html), or in some cases, surgery.
+**Group A strep.** How strep is diagnosed depends on the type of infection. Your healthcare provider will usually diagnose strep throat with a rapid test or a throat culture. Other strep infections may require a physical exam, lab tests, [imaging](Diagnostic%20Imaging.md), or in some cases, surgery.
 
-**Group B strep.** If you are pregnant, your provider will typically [screen you for group B strep](https://medlineplus.gov/lab-tests/strep-b-test/) around 36 to 37 weeks.
+**Group B strep.** If you are pregnant, your provider will typically screen you for group B strep around 36 to 37 weeks.
 
 #### What are the treatments for streptococcal infections?
 
 Your treatment will depend on the type of infection:
 
-- **Group A strep** infections often go away on their own after about a week. If you need treatment, your provider will likely prescribe [antibiotics](https://medlineplus.gov/antibiotics.html). More serious (invasive) group A strep infections may require you to receive antibiotics in a hospital. Without treatment, these infections can lead to serious health problems.
+- **Group A strep** infections often go away on their own after about a week. If you need treatment, your provider will likely prescribe [antibiotics](Antibiotics.md). More serious (invasive) group A strep infections may require you to receive antibiotics in a hospital. Without treatment, these infections can lead to serious health problems.
 - **Group B strep** infections in pregnant women are treated with intravenous (IV) antibiotics during labor to protect the newborn. Adults with group B strep infections are also treated with antibiotics.
 
 #### Can streptococcal infections be prevented?
 
-You can help prevent some group A strep infections by practicing [good hygiene habits](https://medlineplus.gov/germsandhygiene.html), including:
+You can help prevent some group A strep infections by practicing [good hygiene habits](Germs%20and%20Hygiene.md), including:
 
 - Avoiding close contact with someone who has an infection
 - Washing your hands often with soap and water
@@ -68,11 +68,11 @@ To help prevent group B strep infections in newborns, you should get screened du
 
 ## Related topics
 
-- Cellulitis
-- Impetigo
-- Pneumococcal Infections
-- Tonsillitis
+- [Cellulitis](Cellulitis.md)
+- [Impetigo](Impetigo.md)
+- [Pneumococcal Infections](Pneumococcal%20Infections.md)
+- [Tonsillitis](Tonsillitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/streptococcalinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/streptococcalinfections.html). General information, not medical advice.*

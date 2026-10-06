@@ -15,10 +15,10 @@ Quality is important. Some facilities do a better job than others. One way to le
 
 ## Related topics
 
-- Hospice Care
-- Nursing Homes
-- Patient Safety
+- [Hospice Care](Hospice%20Care.md)
+- [Nursing Homes](Nursing%20Homes.md)
+- [Patient Safety](Patient%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthfacilities.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthfacilities.html). General information, not medical advice.*

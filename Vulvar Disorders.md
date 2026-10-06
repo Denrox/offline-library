@@ -6,9 +6,9 @@ The vulva is the outer part of the female genitals. This includes the clitoris, 
 
 Common vulvar disorders include:
 
-- [Vaginitis](https://medlineplus.gov/vaginitis.html) or vulvovaginitis, which is swelling or infection of the vulva and vagina
-- Itching (pruritus vulvae) or skin [rashes](https://medlineplus.gov/rashes.html) due to [allergies](https://medlineplus.gov/allergy.html) or irritation
-- [Vulvar cancer](https://medlineplus.gov/vulvarcancer.html)
+- [Vaginitis](Vaginitis.md) or vulvovaginitis, which is swelling or infection of the vulva and vagina
+- Itching (pruritus vulvae) or skin [rashes](Rashes.md) due to [allergies](Allergy.md) or irritation
+- [Vulvar cancer](Vulvar%20Cancer.md)
 - Vulvodynia, which is long-lasting vulvar pain without a known medical cause
 - Lichen sclerosus, which is thin, itchy, white patches of skin on the vulva
 - Vulvitis, which is inflammation of the vulva
@@ -18,8 +18,8 @@ Common vulvar disorders include:
 
 Vulvar disorders can affect women and girls of any age, but certain factors may raise their risk. This includes those:
 
-- Going through or past [menopause](https://medlineplus.gov/menopause.html). Lower estrogen can lead to thinning skin and conditions like lichen sclerosus.
-- Having certain [skin conditions](https://medlineplus.gov/skinconditions.html) or allergies, which can raise your risk of vulvar skin problems.
+- Going through or past [menopause](Menopause.md). Lower estrogen can lead to thinning skin and conditions like lichen sclerosus.
+- Having certain [skin conditions](Skin%20Conditions.md) or allergies, which can raise your risk of vulvar skin problems.
 
 #### What are the symptoms of vulvar disorders?
 
@@ -31,7 +31,7 @@ Symptoms depend on the specific disorder. Common symptoms may include:
 - Cracks, sores, or thickened patches of skin
 - Changes in skin color, such as lighter, darker, or white patches
 - Lumps, growths, or sores that don't heal
-- [Vaginal bleeding](https://medlineplus.gov/vaginalbleeding.html) that isn't related to your [menstrual period](https://medlineplus.gov/menstruation.html)
+- [Vaginal bleeding](Vaginal%20Bleeding.md) that isn't related to your [menstrual period](Menstruation.md)
 
 Talk to your health care provider if symptoms last more than a few days, you notice a new lump or a sore that won't heal, or you have vaginal bleeding that's not normal for you.
 
@@ -40,16 +40,16 @@ Talk to your health care provider if symptoms last more than a few days, you not
 Early diagnosis may make most vulvar disorders easier to treat. To diagnose a vulvar disorder, your provider may:
 
 - Ask about your health history and symptoms
-- Do a [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html)
-- Test for [HPV](https://www.medlineplus.gov/lab-tests/human-papillomavirus-hpv-test/) or do a [Pap test](https://www.medlineplus.gov/lab-tests/pap-smear/)
-- Use a magnifying tool ([colposcope](https://www.medlineplus.gov/lab-tests/colposcopy/)) to look closely at the skin of your vulva
+- Do a [pelvic exam](Women%27s%20Health%20Checkup.md)
+- Test for HPV or do a Pap test
+- Use a magnifying tool (colposcope) to look closely at the skin of your vulva
 
 #### What are the treatments for vulvar disorders?
 
 Treatment depends on the cause. It may include:
 
-- Medicines, such as [antibiotics](https://medlineplus.gov/antibiotics.html), antifungals, or other medicines
-- Creams or [steroid](https://medlineplus.gov/steroids.html) ointments for irritation or allergic reactions
+- Medicines, such as [antibiotics](Antibiotics.md), antifungals, or other medicines
+- Creams or [steroid](Steroids.md) ointments for irritation or allergic reactions
 - Pelvic floor physical therapy (to stretch and ease vulvodynia pain), nerve blocks or medicines, counseling, or a combination of these treatments
 
 #### Can vulvar disorders be prevented?
@@ -57,18 +57,18 @@ Treatment depends on the cause. It may include:
 Not all vulvar disorders can be prevented, but you can lower your risk by:
 
 - Getting the HPV vaccine to help prevent infections linked to vulvar cancer
-- [Not smoking](https://medlineplus.gov/quittingsmoking.html)
+- [Not smoking](Quitting%20Smoking.md)
 - Practicing good hygiene, such as wearing cotton underwear and avoiding scented soaps or douches
 - Getting regular checkups, including pelvic exams, so problems can be found early
 
 ## Related topics
 
-- Sexually Transmitted Infections
-- Vaginal Diseases
-- Vaginitis
-- Vulvar Cancer
-- Yeast Infections
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
+- [Vaginal Diseases](Vaginal%20Diseases.md)
+- [Vaginitis](Vaginitis.md)
+- [Vulvar Cancer](Vulvar%20Cancer.md)
+- [Yeast Infections](Yeast%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vulvardisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vulvardisorders.html). General information, not medical advice.*

@@ -4,7 +4,7 @@ Almost everyone has had a headache. Headache is the most common form of pain. It
 
 The most common type of headache is a tension headache. Tension headaches are due to tight muscles in your shoulders, neck, scalp and jaw. They are often related to stress, depression or anxiety. You are more likely to get tension headaches if you work too much, don't get enough sleep, miss meals, or use alcohol.
 
-Other common types of headaches include [migraines](https://medlineplus.gov/migraine.html), cluster headaches, and sinus headaches. Most people can feel much better by making lifestyle changes, learning ways to relax and taking [pain relievers](https://medlineplus.gov/painrelievers.html).
+Other common types of headaches include [migraines](Migraine.md), cluster headaches, and sinus headaches. Most people can feel much better by making lifestyle changes, learning ways to relax and taking [pain relievers](Pain%20Relievers.md).
 
 Not all headaches require a doctor's attention. But sometimes headaches warn of a more serious disorder. Let your health care provider know if you have sudden, severe headaches. Get medical help right away if you have a headache after a blow to your head, or if you have a headache along with a stiff neck, fever, confusion, loss of consciousness, or pain in the eye or ear.
 
@@ -12,8 +12,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Migraine
+- [Migraine](Migraine.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/headache.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/headache.html). General information, not medical advice.*

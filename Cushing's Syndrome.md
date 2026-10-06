@@ -19,8 +19,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Adrenal Gland Disorders
+- [Adrenal Gland Disorders](Adrenal%20Gland%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cushingssyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cushingssyndrome.html). General information, not medical advice.*

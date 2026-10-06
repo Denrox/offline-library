@@ -1,10 +1,10 @@
 # Skin Cancer
 
-Skin cancer is the most common form of cancer in the United States. The two most common types are basal cell cancer and squamous cell cancer. They usually form on the head, face, neck, hands, and arms. Another type of skin cancer, [melanoma](https://medlineplus.gov/melanoma.html), is more dangerous but less common.
+Skin cancer is the most common form of cancer in the United States. The two most common types are basal cell cancer and squamous cell cancer. They usually form on the head, face, neck, hands, and arms. Another type of skin cancer, [melanoma](Melanoma.md), is more dangerous but less common.
 
 Anyone can get skin cancer, but it is more common in people who :
 
-- Spend a lot of time in the [sun](https://medlineplus.gov/sunexposure.html) or have been sunburned
+- Spend a lot of time in the [sun](Sun%20Exposure.md) or have been sunburned
 - Have light-colored skin, hair and eyes
 - Have a family member with skin cancer
 - Are over age 50
@@ -15,11 +15,11 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Melanoma
-- Skin Conditions
-- Sun Exposure
-- Tanning
+- [Melanoma](Melanoma.md)
+- [Skin Conditions](Skin%20Conditions.md)
+- [Sun Exposure](Sun%20Exposure.md)
+- [Tanning](Tanning.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/skincancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/skincancer.html). General information, not medical advice.*

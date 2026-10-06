@@ -16,4 +16,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/wilsondisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/wilsondisease.html). General information, not medical advice.*

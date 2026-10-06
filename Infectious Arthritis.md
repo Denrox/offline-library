@@ -2,7 +2,7 @@
 
 *Also called: Septic arthritis*
 
-Most kinds of [arthritis](https://medlineplus.gov/arthritis.html) cause pain and swelling in your joints. Joints are places where two bones meet, such as your elbow or knee. Infectious arthritis is an infection in the joint. The infection comes from a bacterial, viral, or fungal infection that spreads from another part of the body. Symptoms of infectious arthritis include:
+Most kinds of [arthritis](Arthritis.md) cause pain and swelling in your joints. Joints are places where two bones meet, such as your elbow or knee. Infectious arthritis is an infection in the joint. The infection comes from a bacterial, viral, or fungal infection that spreads from another part of the body. Symptoms of infectious arthritis include:
 
 - Intense pain in the joint
 - Joint redness and swelling
@@ -15,8 +15,8 @@ To diagnose infectious arthritis, your health care provider may do tests of your
 
 ## Related topics
 
-- Arthritis
+- [Arthritis](Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/infectiousarthritis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/infectiousarthritis.html). General information, not medical advice.*

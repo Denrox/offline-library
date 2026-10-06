@@ -4,14 +4,14 @@
 
 #### What is hepatitis C?
 
-[Hepatitis](https://medlineplus.gov/hepatitis.html) is inflammation of the liver. Inflammation is swelling that happens when tissues of the body are injured or infected. Inflammation can damage organs.
+[Hepatitis](Hepatitis.md) is inflammation of the liver. Inflammation is swelling that happens when tissues of the body are injured or infected. Inflammation can damage organs.
 
 There are different types of hepatitis. One type, hepatitis C, is caused by the hepatitis C virus (HCV). Hepatitis C can range from a mild illness lasting a few weeks to a serious, lifelong illness.
 
 Hepatitis C can be acute or chronic:
 
 - **Acute hepatitis C** is a short-term infection. The symptoms can last up to 6 months. Sometimes your body is able to fight off the infection and the virus goes away. But for most people, an acute infection leads to chronic infection.
-- **Chronic hepatitis C** is a long-lasting infection. If it is not treated, it can last for a lifetime and cause serious health problems, including liver damage, [cirrhosis](https://medlineplus.gov/cirrhosis.html) (scarring of the liver), [liver cancer](https://medlineplus.gov/livercancer.html), and even death.
+- **Chronic hepatitis C** is a long-lasting infection. If it is not treated, it can last for a lifetime and cause serious health problems, including liver damage, [cirrhosis](Cirrhosis.md) (scarring of the liver), [liver cancer](Liver%20Cancer.md), and even death.
 
 #### How is hepatitis C spread?
 
@@ -32,16 +32,16 @@ Before 1992, hepatitis C was also commonly spread through blood transfusions and
 You are more likely to get hepatitis C if you:
 
 - Have injected drugs
-- Had a [blood transfusion](https://medlineplus.gov/bloodtransfusionanddonation.html) or [organ transplant](https://medlineplus.gov/organtransplantation.html) before July 1992
-- Have [hemophilia](https://medlineplus.gov/hemophilia.html) and received clotting factor before 1987
-- Have been on kidney [dialysis](https://medlineplus.gov/dialysis.html)
+- Had a [blood transfusion](Blood%20Transfusion%20and%20Donation.md) or [organ transplant](Organ%20Transplantation.md) before July 1992
+- Have [hemophilia](Hemophilia.md) and received clotting factor before 1987
+- Have been on kidney [dialysis](Dialysis.md)
 - Have been in contact with blood or infected needles at work
-- Have had [tattoos or body piercings](https://medlineplus.gov/piercingandtattoos.html)
+- Have had [tattoos or body piercings](Piercing%20and%20Tattoos.md)
 - Have worked or lived in a prison
 - Were born to a mother with hepatitis C
-- Have [HIV](https://medlineplus.gov/hiv.html)
+- Have [HIV](HIV.md)
 - Have had more than one sex partner in the last 6 months
-- Have had a [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI)
+- Have had a [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI)
 - Are a man who has had sex with men (MSM)
 
 If you are at high risk for hepatitis C, your health care provider will likely recommend that you get tested for it.
@@ -51,14 +51,14 @@ If you are at high risk for hepatitis C, your health care provider will likely r
 Most people with hepatitis C have no symptoms. Some people with acute hepatitis C do have symptoms within 1 to 3 months after they are exposed to the virus. These symptoms may include:
 
 - Dark yellow urine
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fatigue](Fatigue.md)
+- [Fever](Fever.md)
 - Gray- or clay-colored stools
 - Joint pain
 - Loss of appetite
-- [Nausea and/or vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Pain in your abdomen](https://medlineplus.gov/abdominalpain.html) (belly)
-- [Jaundice](https://medlineplus.gov/jaundice.html) (yellowish eyes and skin)
+- [Nausea and/or vomiting](Nausea%20and%20Vomiting.md)
+- [Pain in your abdomen](Abdominal%20Pain.md) (belly)
+- [Jaundice](Jaundice.md) (yellowish eyes and skin)
 
 If you have chronic hepatitis C, you probably will not have symptoms until it causes complications. This can happen decades after you were infected. For this reason, hepatitis C screening is important, even if you have no symptoms.
 
@@ -68,9 +68,9 @@ Without treatment, hepatitis C may lead to cirrhosis, liver failure, and liver c
 
 #### How is hepatitis C diagnosed?
 
-Providers diagnose hepatitis C based on your medical history, a physical exam, and [blood tests](https://medlineplus.gov/lab-tests/hepatitis-panel/).
+Providers diagnose hepatitis C based on your medical history, a physical exam, and blood tests.
 
-If you do have hepatitis C, you may need additional tests to check for liver damage. These tests may include other blood tests, an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) of the liver, and a liver [biopsy](https://medlineplus.gov/biopsy.html).
+If you do have hepatitis C, you may need additional tests to check for liver damage. These tests may include other blood tests, an ultrasound of the liver, and a liver [biopsy](Biopsy.md).
 
 #### What are the treatments for hepatitis C?
 
@@ -78,7 +78,7 @@ Treatment for hepatitis C is with antiviral medicines. They can cure the disease
 
 If you have acute hepatitis C, your provider may wait to see if your infection becomes chronic before starting treatment.
 
-If your hepatitis C causes cirrhosis, you should see a doctor who specializes in liver diseases. Treatments for health problems related to cirrhosis include medicines, surgery, and other medical procedures. If your hepatitis C leads to liver failure or liver cancer, you may need a [liver transplant](https://medlineplus.gov/livertransplantation.html).
+If your hepatitis C causes cirrhosis, you should see a doctor who specializes in liver diseases. Treatments for health problems related to cirrhosis include medicines, surgery, and other medical procedures. If your hepatitis C leads to liver failure or liver cancer, you may need a [liver transplant](Liver%20Transplantation.md).
 
 #### Can hepatitis C be prevented?
 
@@ -88,18 +88,18 @@ There is no vaccine for hepatitis C. But you can help protect yourself from hepa
 - Wearing gloves if you have to touch another person's blood or open sores.
 - Making sure your tattoo artist or body piercer uses sterile tools and unopened ink.
 - Not sharing personal items such toothbrushes, razors, or nail clippers.
-- Using a latex condom during sex. If your or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+- Using a latex condom during sex. If your or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Hepatitis
-- Hepatitis A
-- Hepatitis B
-- Liver Diseases
-- Liver Transplantation
+- [Hepatitis](Hepatitis.md)
+- [Hepatitis A](Hepatitis%20A.md)
+- [Hepatitis B](Hepatitis%20B.md)
+- [Liver Diseases](Liver%20Diseases.md)
+- [Liver Transplantation](Liver%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hepatitisc.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hepatitisc.html). General information, not medical advice.*

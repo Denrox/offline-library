@@ -1,8 +1,8 @@
 # Childbirth Problems
 
-[Childbirth](https://medlineplus.gov/childbirth.html) is the process of giving birth to a baby. It includes labor and delivery. Usually everything goes well, but problems can happen. They may cause a risk to the mother, baby, or both. Some of the more common childbirth problems include:
+[Childbirth](Childbirth.md) is the process of giving birth to a baby. It includes labor and delivery. Usually everything goes well, but problems can happen. They may cause a risk to the mother, baby, or both. Some of the more common childbirth problems include:
 
-- **[Preterm (premature) labor](pretermlabor.html)**, when your labor starts before 37 completed weeks of pregnancy
+- **Preterm (premature) labor**, when your labor starts before 37 completed weeks of pregnancy
 - **Premature rupture of membranes** (PROM), when your water breaks too early. If labor does not start soon afterwards, this can raise the risk of infection.
 - **Problems with the placenta**, such as the placenta covering the cervix, separating from the uterus before birth, or being attached too firmly to the uterus
 - **Labor that does not progress**, meaning that labor is stalled. This can happen when
@@ -20,16 +20,16 @@
 - **Excessive bleeding**, which can happen when the delivery causes tears to the uterus or if you are not able to deliver the placenta after you give birth to the baby
 - **Post-term pregnancy**, when your pregnancy lasts more than 42 weeks
 
-If you have problems in childbirth, your health care provider may need to give you medicines to induce or speed up labor, use tools to help guide the baby out of the birth canal, or deliver the baby by [Cesarean section](https://medlineplus.gov/cesareandelivery.html).
+If you have problems in childbirth, your health care provider may need to give you medicines to induce or speed up labor, use tools to help guide the baby out of the birth canal, or deliver the baby by [Cesarean section](Cesarean%20Delivery.md).
 
 NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Cesarean Delivery
-- Childbirth
-- Preterm Labor
+- [Cesarean Delivery](Cesarean%20Delivery.md)
+- [Childbirth](Childbirth.md)
+- [Preterm Labor](Preterm%20Labor.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childbirthproblems.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childbirthproblems.html). General information, not medical advice.*

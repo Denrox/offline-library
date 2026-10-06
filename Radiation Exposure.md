@@ -5,11 +5,11 @@
 Radiation is energy. It travels in the form of energy waves or high-speed particles. Radiation can occur naturally or be man-made. There are two types:
 
 - **Non-ionizing radiation,** which includes radio waves, cell phones, microwaves, infrared radiation and visible light
-- **Ionizing radiation,** which includes ultraviolet radiation, [radon](https://medlineplus.gov/radon.html), [x-rays](https://medlineplus.gov/xrays.html), and gamma rays
+- **Ionizing radiation,** which includes ultraviolet radiation, [radon](Radon.md), [x-rays](X-Rays.md), and gamma rays
 
 #### What are the sources of radiation exposure?
 
-Background radiation is all around us all the time. Most of it forms naturally from minerals. These radioactive minerals are in the ground, soil, water, and even our bodies. Background radiation can also come from outer space and the sun. Other sources are man-made, such as x-rays, [radiation therapy](https://medlineplus.gov/radiationtherapy.html) to treat cancer, and electrical power lines.
+Background radiation is all around us all the time. Most of it forms naturally from minerals. These radioactive minerals are in the ground, soil, water, and even our bodies. Background radiation can also come from outer space and the sun. Other sources are man-made, such as x-rays, [radiation therapy](Radiation%20Therapy.md) to treat cancer, and electrical power lines.
 
 #### What are the health effects of radiation exposure?
 
@@ -23,7 +23,7 @@ The amount of damage that exposure to radiation can cause depends on several fac
 - Where the radiation concentrates in the body and how long it stays there
 - How sensitive your body is to radiation. A fetus is most vulnerable to the effects of radiation. Infants, children, older adults, pregnant women, and people with compromised immune systems are more vulnerable to health effects than healthy adults.
 
-Being exposed to a lot of radiation over a short period of time, such as from a [radiation emergency](https://medlineplus.gov/radiationemergencies.html), can cause skin [burns](https://medlineplus.gov/burns.html). It may also lead to acute radiation syndrome (ARS, or "radiation sickness"). The symptoms of ARS include headache and diarrhea. They usually start within hours. Those symptoms will go away and the person will seem healthy for a little while. But then they will get sick again. How soon they get sick again, which symptoms they have, and how sick they get depends on the amount of radiation they received. In some cases, ARS causes death in the following days or weeks.
+Being exposed to a lot of radiation over a short period of time, such as from a [radiation emergency](Radiation%20Emergencies.md), can cause skin [burns](Burns.md). It may also lead to acute radiation syndrome (ARS, or "radiation sickness"). The symptoms of ARS include headache and diarrhea. They usually start within hours. Those symptoms will go away and the person will seem healthy for a little while. But then they will get sick again. How soon they get sick again, which symptoms they have, and how sick they get depends on the amount of radiation they received. In some cases, ARS causes death in the following days or weeks.
 
 Exposure to low levels of radiation in the environment does not cause immediate health effects. But it can slightly increase your overall risk of cancer.
 
@@ -31,14 +31,14 @@ Exposure to low levels of radiation in the environment does not cause immediate 
 
 Before they start treatment, health care professionals need to figure out how much radiation your body absorbed. They will ask about your symptoms, do blood tests, and may use a device that measures radiation. They also try get more information about the exposure, such as what type of radiation it was, how far away you were from the source of the radiation, and how long you were exposed.
 
-Treatment focuses on reducing and treating infections, preventing [dehydration](https://medlineplus.gov/dehydration.html), and treating injuries and burns. Some people may need treatments that help the [bone marrow](https://medlineplus.gov/bonemarrowdiseases.html) recover its function. If you were exposed to certain types of radiation, your provider may give you a treatment that limits or removes the contamination that is inside your body. You may also get treatments for your symptoms.
+Treatment focuses on reducing and treating infections, preventing [dehydration](Dehydration.md), and treating injuries and burns. Some people may need treatments that help the [bone marrow](Bone%20Marrow%20Diseases.md) recover its function. If you were exposed to certain types of radiation, your provider may give you a treatment that limits or removes the contamination that is inside your body. You may also get treatments for your symptoms.
 
 #### How can radiation exposure be prevented?
 
 There are steps you can take to prevent or reduce radiation exposure:
 
 - If your health care provider recommends a test that uses radiation, ask about its risks and benefits. In some cases, you may be able to have a different test that does not use radiation. But if you do need a test that uses radiation, do some research into the local imaging facilities. Find one that monitors and uses techniques to reduce the doses they are giving patients.
-- Reduce [electromagnetic radiation](https://medlineplus.gov/electromagneticfields.html) exposure from your cell phone. At this time, scientific evidence has not found a link between cell phone use and health problems in humans. More research is needed to be sure. But if you still have concerns, you can reduce how much time you spend on your phone. You can also use speaker mode or a headset to place more distance between your head and the cell phone.
+- Reduce [electromagnetic radiation](Electromagnetic%20Fields.md) exposure from your cell phone. At this time, scientific evidence has not found a link between cell phone use and health problems in humans. More research is needed to be sure. But if you still have concerns, you can reduce how much time you spend on your phone. You can also use speaker mode or a headset to place more distance between your head and the cell phone.
 - If you live in a house, test the radon levels, and if you need to, get a radon reduction system.
 - During a radiation emergency, get inside a building to take shelter. Stay inside, with all of the windows and doors shut. Stay tuned to and follow the advice of emergency responders and officials.
 
@@ -46,12 +46,12 @@ Environmental Protection Agency
 
 ## Related topics
 
-- Electromagnetic Fields
-- Radiation Emergencies
-- Radiation Therapy
-- Radon
-- Sun Exposure
+- [Electromagnetic Fields](Electromagnetic%20Fields.md)
+- [Radiation Emergencies](Radiation%20Emergencies.md)
+- [Radiation Therapy](Radiation%20Therapy.md)
+- [Radon](Radon.md)
+- [Sun Exposure](Sun%20Exposure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/radiationexposure.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/radiationexposure.html). General information, not medical advice.*

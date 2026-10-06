@@ -20,11 +20,11 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Head and Neck Cancer
-- Mouth Disorders
-- Speech and Communication Disorders
-- Throat Disorders
+- [Head and Neck Cancer](Head%20and%20Neck%20Cancer.md)
+- [Mouth Disorders](Mouth%20Disorders.md)
+- [Speech and Communication Disorders](Speech%20and%20Communication%20Disorders.md)
+- [Throat Disorders](Throat%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/voicedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/voicedisorders.html). General information, not medical advice.*

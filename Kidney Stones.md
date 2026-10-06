@@ -13,7 +13,7 @@ The following may be signs of kidney stones that need a doctor's help:
 - Urine that smells bad or looks cloudy
 - A burning feeling when you urinate
 
-Your doctor will diagnose a kidney stone with urine, blood, and imaging [tests](https://medlineplus.gov/kidneytests.html).
+Your doctor will diagnose a kidney stone with urine, blood, and imaging [tests](Kidney%20Tests.md).
 
 If you have a stone that won't pass on its own, you may need treatment. It can be done with shock waves; with a scope inserted through the tube that carries urine out of the body, called the urethra; or with surgery.
 
@@ -21,9 +21,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Kidney Diseases
-- Kidney Tests
+- [Kidney Diseases](Kidney%20Diseases.md)
+- [Kidney Tests](Kidney%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/kidneystones.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/kidneystones.html). General information, not medical advice.*

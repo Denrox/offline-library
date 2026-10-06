@@ -4,7 +4,7 @@
 
 #### What is obsessive-compulsive disorder (OCD)?
 
-Obsessive-compulsive disorder (OCD) is a [mental disorder](https://medlineplus.gov/mentaldisorders.html) in which you have thoughts (obsessions) and behaviors (compulsions) that occur over and over. They interfere with your life, but you cannot control or stop them.
+Obsessive-compulsive disorder (OCD) is a [mental disorder](Mental%20Disorders.md) in which you have thoughts (obsessions) and behaviors (compulsions) that occur over and over. They interfere with your life, but you cannot control or stop them.
 
 It's a myth that OCD just means being neat. Cleaning can be one symptom, but OCD more often involves getting stuck on a particular action you feel compelled to repeat, rather than simply staying organized. These obsessions and compulsions can shift over time.
 
@@ -20,16 +20,16 @@ Risk factors for OCD include:
 
 - **Family history.** People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen.
 - **Brain structure and functioning.** Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD.
-- **Childhood trauma,** such as [child abuse](https://medlineplus.gov/childabuse.html). Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.
-- **Temperament.** Other studies found that people who are shy, often unhappy, or anxious and [depressed](https://medlineplus.gov/depression.html) as children may be more likely to develop OCD.
+- **Childhood trauma,** such as [child abuse](Child%20Abuse.md). Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.
+- **Temperament.** Other studies found that people who are shy, often unhappy, or anxious and [depressed](Depression.md) as children may be more likely to develop OCD.
 
-In some cases, children may develop OCD or OCD symptoms following a [streptococcal infection](https://medlineplus.gov/streptococcalinfections.html). This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).
+In some cases, children may develop OCD or OCD symptoms following a [streptococcal infection](Streptococcal%20Infections.md). This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).
 
 #### What are the symptoms of obsessive-compulsive disorder (OCD)?
 
 People with OCD may have symptoms of obsessions, compulsions, or both:
 
-- **Obsessions** are repeated thoughts, urges, or mental images that cause [anxiety](https://medlineplus.gov/anxiety.html). They may involve things such as
+- **Obsessions** are repeated thoughts, urges, or mental images that cause [anxiety](Anxiety.md). They may involve things such as
 
  - Fear of germs or contamination
  - Fear of forgetting, losing or misplacing something
@@ -45,11 +45,11 @@ People with OCD may have symptoms of obsessions, compulsions, or both:
  - Compulsive counting
  - Ordering and arranging things in a particular, precise way
 
-Some people with OCD also have [Tourette syndrome](https://medlineplus.gov/tourettesyndrome.html) or another tic disorder. Tics are sudden twitches, movements, or sounds that people do over and over. People who have tics cannot stop their body from doing these things.
+Some people with OCD also have [Tourette syndrome](Tourette%20Syndrome.md) or another tic disorder. Tics are sudden twitches, movements, or sounds that people do over and over. People who have tics cannot stop their body from doing these things.
 
 #### How is obsessive-compulsive disorder (OCD) diagnosed?
 
-The first step is to talk with your health care provider about your symptoms. Your provider will do a physical exam and ask about your medical history to rule out other health problems. If your symptoms do not seem to be caused by a physical problem, your provider may do an [OCD test](https://medlineplus.gov/lab-tests/obsessive-compulsive-disorder-ocd-test/) or may refer you to a mental health specialist for further evaluation or treatment.
+The first step is to talk with your health care provider about your symptoms. Your provider will do a physical exam and ask about your medical history to rule out other health problems. If your symptoms do not seem to be caused by a physical problem, your provider may do an OCD test or may refer you to a mental health specialist for further evaluation or treatment.
 
 OCD can sometimes be hard to diagnose. Its symptoms are like those of other mental disorders, such as anxiety disorders. It is also possible to have both OCD and another mental disorder.
 
@@ -67,7 +67,7 @@ The main treatments for OCD are cognitive behavioral therapy, medicines, or both
 - **Cognitive behavioral therapy** (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.
 
  - **Exposure and Response Prevention (ERP)** is a specific type of CBT. ERP involves gradually exposing you to your fears or obsessions. You learn healthy ways to deal with the anxiety they cause.
-- **Medicines** for OCD include certain types of [antidepressants](https://medlineplus.gov/antidepressants.html). If those don't work for you, your provider may suggest taking some other type of psychiatric medicine.
+- **Medicines** for OCD include certain types of [antidepressants](Antidepressants.md). If those don't work for you, your provider may suggest taking some other type of psychiatric medicine.
 
 If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic pulses. It can target specific brain areas associated with OCD.
 
@@ -75,4 +75,4 @@ NIH: National Institute of Mental Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/obsessivecompulsivedisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/obsessivecompulsivedisorder.html). General information, not medical advice.*

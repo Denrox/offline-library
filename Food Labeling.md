@@ -13,20 +13,20 @@ Before you read the food label, you should know a few things:
 The information on a food label can help you see how a certain food or drink fits into your overall diet. The label lists, per serving,:
 
 - The number of calories
-- [Fats](https://medlineplus.gov/dietaryfats.html), including total fat, saturated fat, and trans fat
-- [Cholesterol](https://medlineplus.gov/cholesterol.html)
-- [Sodium](https://medlineplus.gov/sodium.html)
-- [Carbohydrates](https://medlineplus.gov/carbohydrates.html), including [fiber](https://medlineplus.gov/dietaryfiber.html), total sugar, and added sugar
-- [Protein](https://medlineplus.gov/dietaryproteins.html)
-- [Vitamins](https://medlineplus.gov/vitamins.html) and [minerals](https://medlineplus.gov/minerals.html)
+- [Fats](Dietary%20Fats.md), including total fat, saturated fat, and trans fat
+- [Cholesterol](Cholesterol.md)
+- [Sodium](Sodium.md)
+- [Carbohydrates](Carbohydrates.md), including [fiber](Dietary%20Fiber.md), total sugar, and added sugar
+- [Protein](Dietary%20Proteins.md)
+- [Vitamins](Vitamins.md) and [minerals](Minerals.md)
 
 Food and Drug Administration
 
 ## Related topics
 
-- Food Safety
-- Nutrition
+- [Food Safety](Food%20Safety.md)
+- [Nutrition](Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/foodlabeling.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/foodlabeling.html). General information, not medical advice.*

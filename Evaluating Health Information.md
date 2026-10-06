@@ -31,7 +31,7 @@ A trustworthy website has one goal: To give you good information.
   
 - **If the site is funded by ads,** they should be clearly marked as advertisements. Watch out for ads designed to look like neutral health information.
  - **If a business pays for the site,** the health information may favor that business and its products.  
-- **Is the health information high quality?** Good health information doesn't promote one treatment over another. It gives you balanced facts based on research. So, beware of dramatic writing, promises of cures, and claims that sound too good to be true. Those could be signs of a [health fraud scam](https://medlineplus.gov/healthfraud.html). To evaluate the quality of a website's information, ask:  
+- **Is the health information high quality?** Good health information doesn't promote one treatment over another. It gives you balanced facts based on research. So, beware of dramatic writing, promises of cures, and claims that sound too good to be true. Those could be signs of a [health fraud scam](Health%20Fraud.md). To evaluate the quality of a website's information, ask:  
   
 - **How is the information selected and reviewed to make sure it's accurate?**  
 Check the "About Us" page to see if the site has:
@@ -62,7 +62,7 @@ Some news stories about medical research may not include all the facts you need 
 - What type of study was it?
 - Who paid for the research?
 
-If you learn a few tips for [understanding medical research](https://medlineplus.gov/understandingmedicalresearch.html), you'll be able to decide if a news story may apply to your health. Then you can discuss the information with your provider.
+If you learn a few tips for [understanding medical research](Understanding%20Medical%20Research.md), you'll be able to decide if a news story may apply to your health. Then you can discuss the information with your provider.
 
 #### How can I evaluate health information in books?
 
@@ -80,8 +80,8 @@ NIH: National Library of Medicine
 
 ## Related topics
 
-- Understanding Medical Research
+- [Understanding Medical Research](Understanding%20Medical%20Research.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/evaluatinghealthinformation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/evaluatinghealthinformation.html). General information, not medical advice.*

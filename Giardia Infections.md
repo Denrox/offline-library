@@ -19,9 +19,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Drinking Water
-- Parasitic Diseases
+- [Drinking Water](Drinking%20Water.md)
+- [Parasitic Diseases](Parasitic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/giardiainfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/giardiainfections.html). General information, not medical advice.*

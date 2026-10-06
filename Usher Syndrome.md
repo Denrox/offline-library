@@ -1,6 +1,6 @@
 # Usher Syndrome
 
-Usher syndrome is an inherited disease that causes serious [hearing loss](https://medlineplus.gov/hearingdisordersanddeafness.html) and [retinitis pigmentosa](https://medlineplus.gov/retinaldisorders.html), an eye disorder that causes your vision to get worse over time. It is the most common condition that affects both hearing and vision.
+Usher syndrome is an inherited disease that causes serious [hearing loss](Hearing%20Disorders%20and%20Deafness.md) and [retinitis pigmentosa](Retinal%20Disorders.md), an eye disorder that causes your vision to get worse over time. It is the most common condition that affects both hearing and vision.
 
 There are three types of Usher syndrome:
 
@@ -8,10 +8,10 @@ There are three types of Usher syndrome:
 - People with type II have moderate to severe hearing loss and normal balance. Vision problems start in the early teens and get worse more slowly than in type I.
 - People with type III are born with normal hearing and near-normal balance but develop vision problems and then hearing loss.
 
-There is no cure. Tools such as [hearing aids](https://medlineplus.gov/hearingaids.html) or [cochlear implants](https://medlineplus.gov/cochlearimplants.html) can help some people. Training such as Braille instruction, low-vision services, or auditory training can also help.
+There is no cure. Tools such as [hearing aids](Hearing%20Aids.md) or [cochlear implants](Cochlear%20Implants.md) can help some people. Training such as Braille instruction, low-vision services, or auditory training can also help.
 
 NIH: National Institute on Deafness and Other Communication Disorders
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ushersyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ushersyndrome.html). General information, not medical advice.*

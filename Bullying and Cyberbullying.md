@@ -43,10 +43,10 @@ Children are more likely to be bullied if they:
 
 - Are seen as different from their peers, such as being overweight or underweight, dressing differently, or being of a different race/ethnicity
 - Are seen as weak
-- Have [depression](https://medlineplus.gov/depression.html), [anxiety](https://medlineplus.gov/anxiety.html), or low self-esteem
+- Have [depression](Depression.md), [anxiety](Anxiety.md), or low self-esteem
 - Don't have many friends or are less popular
 - Don't socialize well with others
-- Have an intellectual or [developmental disability](https://medlineplus.gov/developmentaldisabilities.html)
+- Have an intellectual or [developmental disability](Developmental%20Disabilities.md)
 
 #### Which children are more likely to be bullies?
 
@@ -86,10 +86,10 @@ Often, kids who are being bullied don't report it. They may fear a backlash from
 - Low self-esteem
 - Headaches, stomachaches, or poor eating habits
 - Disliking school, not wanting to go to school, or getting worse grades than before
-- Self-destructive behaviors, such as running away from home, [harming themselves](https://medlineplus.gov/selfharm.html), or talking about [suicide](https://medlineplus.gov/suicide.html)
+- Self-destructive behaviors, such as running away from home, [harming themselves](Self-Harm.md), or talking about [suicide](Suicide.md)
 - Unexplained injuries
 - Lost or destroyed clothing, books, electronics, or jewelry
-- [Trouble sleeping](https://medlineplus.gov/sleepdisorders.html) or frequent nightmares
+- [Trouble sleeping](Sleep%20Disorders.md) or frequent nightmares
 - Sudden loss of friends or avoidance of social situations
 
 #### How do you help someone who is being bullied?
@@ -109,11 +109,11 @@ Department of Health and Human Services
 
 ## Related topics
 
-- Child Mental Health
-- School Health
-- Teen Mental Health
-- Teen Violence
+- [Child Mental Health](Child%20Mental%20Health.md)
+- [School Health](School%20Health.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
+- [Teen Violence](Teen%20Violence.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bullyingandcyberbullying.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bullyingandcyberbullying.html). General information, not medical advice.*

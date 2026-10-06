@@ -2,15 +2,15 @@
 
 #### What is prenatal testing?
 
-Prenatal testing provides information about the [health of your fetus](https://medlineplus.gov/fetalhealthanddevelopment.html) before the [baby is born](https://medlineplus.gov/childbirth.html). Some routine tests during [pregnancy](https://medlineplus.gov/pregnancy.html) also check [your health](https://medlineplus.gov/healthproblemsinpregnancy.html). The prenatal test may use a sample of your blood, urine or fluid from your vagina, cervix, or rectum.
+Prenatal testing provides information about the [health of your fetus](Fetal%20Health%20and%20Development.md) before the [baby is born](Childbirth.md). Some routine tests during [pregnancy](Pregnancy.md) also check [your health](Health%20Problems%20in%20Pregnancy.md). The prenatal test may use a sample of your blood, urine or fluid from your vagina, cervix, or rectum.
 
-Since some health conditions can be treated before your baby is born, it's important to find them early. But even if they cannot be treated, it can still be helpful to know about the problem early on. This gives you time to [learn about the condition](https://medlineplus.gov/birthdefects.html) and prepare for any challenges you may face after the baby is born.
+Since some health conditions can be treated before your baby is born, it's important to find them early. But even if they cannot be treated, it can still be helpful to know about the problem early on. This gives you time to [learn about the condition](Birth%20Defects.md) and prepare for any challenges you may face after the baby is born.
 
 #### What is prenatal testing used to diagnose?
 
-At your first [prenatal visit](https://medlineplus.gov/prenatalcare.html), your health care provider will test for various conditions, including problems with your blood, signs of [infections](https://medlineplus.gov/infectionsandpregnancy.html), and whether you are immune to [rubella](https://medlineplus.gov/rubella.html) (German measles) and [chickenpox](https://medlineplus.gov/chickenpox.html).
+At your first [prenatal visit](Prenatal%20Care.md), your health care provider will test for various conditions, including problems with your blood, signs of [infections](Infections%20and%20Pregnancy.md), and whether you are immune to [rubella](Rubella.md) (German measles) and [chickenpox](Chickenpox.md).
 
-Throughout your pregnancy, your provider may recommend additional tests as well. Some tests are suggested for all women, such as screenings for [gestational diabetes](https://medlineplus.gov/diabetesandpregnancy.html), [Down syndrome](https://medlineplus.gov/downsyndrome.html), and [HIV](https://medlineplus.gov/hivandpregnancy.html).
+Throughout your pregnancy, your provider may recommend additional tests as well. Some tests are suggested for all women, such as screenings for [gestational diabetes](Diabetes%20and%20Pregnancy.md), [Down syndrome](Down%20Syndrome.md), and [HIV](HIV%20and%20Pregnancy.md).
 
 Your provider might offer other tests based on your:
 
@@ -32,10 +32,10 @@ National Women's Health Information Center
 
 ## Related topics
 
-- Fetal Health and Development
-- Genetic Testing
-- Prenatal Care
+- [Fetal Health and Development](Fetal%20Health%20and%20Development.md)
+- [Genetic Testing](Genetic%20Testing.md)
+- [Prenatal Care](Prenatal%20Care.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/prenataltesting.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/prenataltesting.html). General information, not medical advice.*

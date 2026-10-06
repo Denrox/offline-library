@@ -4,13 +4,13 @@
 
 #### What is polycystic ovary syndrome (PCOS)?
 
-Polycystic ovary syndrome (PCOS), also known as polyendocrine metabolic ovary syndrome (PMOS), is the name of a [hormonal disorder](https://medlineplus.gov/hormones.html). PCOS affects the ovaries, as well as many other parts of the body.
+Polycystic ovary syndrome (PCOS), also known as polyendocrine metabolic ovary syndrome (PMOS), is the name of a [hormonal disorder](Hormones.md). PCOS affects the ovaries, as well as many other parts of the body.
 
 If you have PCOS, you usually have at least two of these problems:
 
-- **Not ovulating.** Normally, your ovaries make the egg that is released each month as part of a healthy [menstrual cycle](https://medlineplus.gov/menstruation.html). This is called ovulation. But with PCOS, the egg may not develop as it should, or it may not be released during ovulation. Your periods may be irregular, or you may not have them at all.
+- **Not ovulating.** Normally, your ovaries make the egg that is released each month as part of a healthy [menstrual cycle](Menstruation.md). This is called ovulation. But with PCOS, the egg may not develop as it should, or it may not be released during ovulation. Your periods may be irregular, or you may not have them at all.
 - **High levels of androgens.** Androgens are hormones that are important for normal male sexual development. Women normally make smaller amounts of androgens. Having higher levels of androgens can cause you to have extra body or facial hair (called hirsutism).
-- **Growths in one or both ovaries**. These growths are often clumps of ovarian follicles that have stopped developing. They may appear as [cysts](https://medlineplus.gov/ovariancysts.html), which are small fluid-filled sacs
+- **Growths in one or both ovaries**. These growths are often clumps of ovarian follicles that have stopped developing. They may appear as [cysts](Ovarian%20Cysts.md), which are small fluid-filled sacs
 
 Although it's less common, you may not have growths in your ovaries. You may only have symptoms of PCOS, not ovulate, and have high levels of androgens.
 
@@ -18,9 +18,9 @@ Although it's less common, you may not have growths in your ovaries. You may onl
 
 The exact cause of PCOS is unknown. Research has shown that different factors may play a role, including:
 
-- **[Genetics](https://medlineplus.gov/genetics/condition/polycystic-ovary-syndrome/).** PCOS tends to run in families.
+- **Genetics.** PCOS tends to run in families.
 - **Imbalances in androgen levels.**
-- **Insulin resistance.** This is a condition in which your body can't use insulin properly. Insulin is a hormone that helps move [blood glucose](https://medlineplus.gov/bloodglucose.html) (also called blood sugar) into your cells to give them energy. Insulin resistance can lead to high blood glucose levels.
+- **Insulin resistance.** This is a condition in which your body can't use insulin properly. Insulin is a hormone that helps move [blood glucose](Blood%20Glucose.md) (also called blood sugar) into your cells to give them energy. Insulin resistance can lead to high blood glucose levels.
 
 #### What are the symptoms of polycystic ovary syndrome (PCOS)?
 
@@ -32,23 +32,23 @@ The symptoms of PCOS may include:
 
 - Irregular or missed menstrual periods.
 - Too much hair on the face, chest, stomach, or thighs.
-- [Obesity](https://medlineplus.gov/obesity.html), weight gain, or trouble losing weight.
-- Severe [acne](https://medlineplus.gov/acne.html) which may be hard to treat.
+- [Obesity](Obesity.md), weight gain, or trouble losing weight.
+- Severe [acne](Acne.md) which may be hard to treat.
 - Oily skin.
 - Patches of thickened dark skin (called acanthosis nigricans).
-- [Infertility](https://medlineplus.gov/femaleinfertility.html). PCOS is one of the most common causes of infertility. But many women with PCOS can still get pregnant.
+- [Infertility](Female%20Infertility.md). PCOS is one of the most common causes of infertility. But many women with PCOS can still get pregnant.
 
 #### What other health problems are linked to polycystic ovary syndrome (PCOS)?
 
 PCOS is linked to many other health problems, including:
 
-- Insulin resistance, which can lead to [prediabetes](https://medlineplus.gov/prediabetes.html) and [type 2 diabetes](https://medlineplus.gov/diabetestype2.html).
-- [Heart disease](https://medlineplus.gov/heartdiseaseinwomen.html). Having PCOS increases your risk, and this risk goes up as you age.
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html).
-- High [LDL ("bad") cholesterol](ldlthebadcholesterol.html) and low [HDL ("good") cholesterol](hdlthegoodcholesterol.html). This increases your [risk of heart disease](https://medlineplus.gov/howtopreventheartdisease.html).
-- Endometrial hyperplasia, a condition in which the lining of your uterus, or womb, becomes too thick. This can increase your risk for endometrial cancer, also called [uterine cancer](https://medlineplus.gov/uterinecancer.html).
-- [Sleep apnea](https://medlineplus.gov/sleepapnea.html), a disorder that causes you to repeatedly stop breathing during sleep.
-- [Depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html).
+- Insulin resistance, which can lead to [prediabetes](Prediabetes.md) and [type 2 diabetes](Diabetes%20Type%202.md).
+- [Heart disease](Heart%20Disease%20in%20Women.md). Having PCOS increases your risk, and this risk goes up as you age.
+- [High blood pressure](High%20Blood%20Pressure.md).
+- High LDL ("bad") cholesterol and low HDL ("good") cholesterol. This increases your [risk of heart disease](How%20to%20Prevent%20Heart%20Disease.md).
+- Endometrial hyperplasia, a condition in which the lining of your uterus, or womb, becomes too thick. This can increase your risk for endometrial cancer, also called [uterine cancer](Uterine%20Cancer.md).
+- [Sleep apnea](Sleep%20Apnea.md), a disorder that causes you to repeatedly stop breathing during sleep.
+- [Depression](Depression.md) and [anxiety](Anxiety.md).
 
 Although there are links between PCOS and these conditions, researchers do not know whether:
 
@@ -64,8 +64,8 @@ There is no specific test for PCOS. To find out if you have PCOS, your provider:
 
 - Will do a physical exam, which will include looking for the physical signs of PCOS.
 - Will ask about your medical history and family health history.
-- May do a [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html) to check for signs of extra male hormones and to see if your ovaries are enlarged or swollen.
-- May order a pelvic [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) to look for growths on your ovaries and check the thickness of your endometrium (the lining of your uterus, or womb).
+- May do a [pelvic exam](Women%27s%20Health%20Checkup.md) to check for signs of extra male hormones and to see if your ovaries are enlarged or swollen.
+- May order a pelvic ultrasound to look for growths on your ovaries and check the thickness of your endometrium (the lining of your uterus, or womb).
 - May order blood tests, including tests to check your hormone levels.
 
 #### What are the treatments for polycystic ovary syndrome (PCOS)?
@@ -74,22 +74,22 @@ Treatments for PCOS can help you manage your symptoms. The treatments may includ
 
 - **Lifestyle changes,** which can help reduce many symptoms. They can also lower your risk for or help manage related health problems. These changes include:
 
- - [Maintaining a healthy weight](https://medlineplus.gov/weightcontrol.html)
- - [Getting regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
- - [Eating healthy foods](https://medlineplus.gov/nutrition.html)
+ - [Maintaining a healthy weight](Weight%20Control.md)
+ - [Getting regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
+ - [Eating healthy foods](Nutrition.md)
 - **Medicines:**
 
- - **Hormonal [birth control](https://medlineplus.gov/birthcontrol.html),** such as pills, shots, and IUDs, can make your period more regular. They may also help remove acne and extra facial and body hair. But it's only an option if you're not currently trying to get pregnant.
+ - **Hormonal [birth control](Birth%20Control.md),** such as pills, shots, and IUDs, can make your period more regular. They may also help remove acne and extra facial and body hair. But it's only an option if you're not currently trying to get pregnant.
  - **Anti-androgen medicines,** which block the effect of androgens. This can help reduce hair loss on your head, the growth of facial and body hair, and acne. Providers do use them to help with these symptoms, but anti-androgen medicines are not approved by the U.S. Food and Drug Administration (FDA) to treat PCOS. These medicines can cause problems during pregnancy. Your provider may have you take them with birth control (to prevent pregnancy).
  - **Insulin-sensitizing medicines,** which are medicines that are used to treat type 2 diabetes. They improve insulin resistance and keep your blood glucose levels steady. They may also lower your androgen levels. They are not approved by the FDA to treat PCOS. But they may help with your symptoms.
  - **Medicines for acne.** These medicines come in pills, creams, or gels.
 - **Treatments for hair removal,** such as facial hair removal creams, laser hair removal, and electrolysis.
-- **Fertility treatments** if you are having trouble getting pregnant. They include medicines and procedures such as [in vitro fertilization (IVF)](assistedreproductivetechnology.html).
+- **Fertility treatments** if you are having trouble getting pregnant. They include medicines and procedures such as in vitro fertilization (IVF).
 
 ## Related topics
 
-- Ovarian Cysts
+- [Ovarian Cysts](Ovarian%20Cysts.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/polycysticovarysyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/polycysticovarysyndrome.html). General information, not medical advice.*

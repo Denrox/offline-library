@@ -4,7 +4,7 @@
 
 #### What are refractive errors?
 
-The cornea and lens of your [eye](https://medlineplus.gov/eyecare.html) bend (refract) light rays to focus them on the retina. Refractive errors happen when the shape of your eye prevents light from focusing correctly on the retina. This causes blurry vision. Changes in the eye's shape affect how light rays bend and focus, leading to vision problems.
+The cornea and lens of your [eye](Eye%20Care.md) bend (refract) light rays to focus them on the retina. Refractive errors happen when the shape of your eye prevents light from focusing correctly on the retina. This causes blurry vision. Changes in the eye's shape affect how light rays bend and focus, leading to vision problems.
 
 #### What causes refractive errors?
 
@@ -27,13 +27,13 @@ Four common types of refractive errors include:
 
 #### Who is at risk for refractive errors?
 
-Anyone can have refractive errors. It's the most common type of vision problem. You may be more likely to have one if other family members wear [glasses or contact lenses](https://medlineplus.gov/eyewear.html).
+Anyone can have refractive errors. It's the most common type of vision problem. You may be more likely to have one if other family members wear [glasses or contact lenses](Eyewear.md).
 
 Most types of refractive errors start in childhood or are present at birth. Presbyopia is different. Nearly everyone develops it as they age, typically starting around age 45.
 
 #### What are the symptoms of refractive errors?
 
-Sometimes you may not notice vision changes right away, which is why regular [eye exams](https://medlineplus.gov/lab-tests/vision-screening/) are so important.
+Sometimes you may not notice vision changes right away, which is why regular eye exams are so important.
 
 The most common symptom is blurred vision. Other symptoms may include:
 
@@ -41,7 +41,7 @@ The most common symptom is blurred vision. Other symptoms may include:
 - Haziness
 - Glare or halos around bright lights
 - A need to squint to see clearly
-- [Headaches](https://medlineplus.gov/headache.html)
+- [Headaches](Headache.md)
 - Eye strain or tired eyes
 - Difficulty focusing when reading or using a computer
 
@@ -63,7 +63,7 @@ Refractive errors are usually easy to correct with:
 
 - Glasses
 - Contact lenses
-- [Laser eye surgery](https://medlineplus.gov/lasereyesurgery.html), in some cases
+- [Laser eye surgery](Laser%20Eye%20Surgery.md), in some cases
 
 Your eye care specialist can help choose the best treatment for your vision and lifestyle.
 
@@ -71,10 +71,10 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Eyewear
-- Laser Eye Surgery
-- Vision Impairment and Blindness
+- [Eyewear](Eyewear.md)
+- [Laser Eye Surgery](Laser%20Eye%20Surgery.md)
+- [Vision Impairment and Blindness](Vision%20Impairment%20and%20Blindness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/refractiveerrors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/refractiveerrors.html). General information, not medical advice.*

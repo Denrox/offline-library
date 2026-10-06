@@ -2,7 +2,7 @@
 
 #### What is HIV?
 
-[HIV](https://medlineplus.gov/hiv.html) stands for human immunodeficiency virus. It harms your immune system by destroying a type of white blood cell that helps your body fight infection. This puts you at risk for other infections and diseases.
+[HIV](HIV.md) stands for human immunodeficiency virus. It harms your immune system by destroying a type of white blood cell that helps your body fight infection. This puts you at risk for other infections and diseases.
 
 #### How does HIV spread?
 
@@ -15,7 +15,7 @@ HIV can spread in different ways:
 - Rarely, through oral sex with a person who has HIV.
 - By sharing drug needles.
 - Through contact with the blood of a person who has HIV.
-- From mother to fetus during [pregnancy](https://medlineplus.gov/hivandpregnancy.html).
+- From mother to fetus during [pregnancy](HIV%20and%20Pregnancy.md).
 - From mother to baby during childbirth, or breastfeeding.
 
 #### How does HIV affect women differently from men?
@@ -24,31 +24,31 @@ About one in four people in the United States who have HIV are women. Women who 
 
 - Complications such as
 
- - Repeated [vaginal yeast infections](https://medlineplus.gov/yeastinfections.html)
+ - Repeated [vaginal yeast infections](Yeast%20Infections.md)
  - Bacterial vaginosis
- - Severe [pelvic inflammatory disease](https://medlineplus.gov/pelvicinflammatorydisease.html) (PID)
- - A higher risk of [cervical cancer](https://medlineplus.gov/cervicalcancer.html)
- - [Menstrual cycle problems](https://medlineplus.gov/menstruation.html)
- - A higher risk of [osteoporosis](https://medlineplus.gov/osteoporosis.html)
- - A higher risk of [heart disease](https://medlineplus.gov/heartdiseaseinwomen.html), especially [heart attacks](https://medlineplus.gov/heartattack.html)
- - Entering [menopause](https://medlineplus.gov/menopause.html) younger or having more severe hot flashes
+ - Severe [pelvic inflammatory disease](Pelvic%20Inflammatory%20Disease.md) (PID)
+ - A higher risk of [cervical cancer](Cervical%20Cancer.md)
+ - [Menstrual cycle problems](Menstruation.md)
+ - A higher risk of [osteoporosis](Osteoporosis.md)
+ - A higher risk of [heart disease](Heart%20Disease%20in%20Women.md), especially [heart attacks](Heart%20Attack.md)
+ - Entering [menopause](Menopause.md) younger or having more severe hot flashes
 - Different, sometimes more severe, side effects from the medicines that treat HIV
-- Drug interactions between some [HIV medicines](https://medlineplus.gov/hivmedicines.html) and hormonal [birth control](https://medlineplus.gov/birthcontrol.html)
+- Drug interactions between some [HIV medicines](HIV%20Medicines.md) and hormonal [birth control](Birth%20Control.md)
 - The risk of giving HIV to their fetus while pregnant
 - The risk of giving HIV to their baby during childbirth or breastfeeding
 
 #### Are there treatments for HIV?
 
-There is no cure, but there are many medicines to treat both HIV infection and the infections and cancers that come with it. People who get early treatment can live [longer and healthier lives](https://medlineplus.gov/livingwithhiv.html).
+There is no cure, but there are many medicines to treat both HIV infection and the infections and cancers that come with it. People who get early treatment can live [longer and healthier lives](Living%20with%20HIV.md).
 
 ## Related topics
 
-- HIV
-- HIV and Pregnancy
-- HIV Medicines
-- HIV: PrEP and PEP
-- Living with HIV
+- [HIV](HIV.md)
+- [HIV and Pregnancy](HIV%20and%20Pregnancy.md)
+- [HIV Medicines](HIV%20Medicines.md)
+- [HIV: PrEP and PEP](HIV%20PrEP%20and%20PEP.md)
+- [Living with HIV](Living%20with%20HIV.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hivinwomen.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hivinwomen.html). General information, not medical advice.*

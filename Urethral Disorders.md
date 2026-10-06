@@ -1,6 +1,6 @@
 # Urethral Disorders
 
-The urethra is the tube that allows [urine](https://medlineplus.gov/urineandurination.html) to pass out of the body. In men, it's a long tube that runs through the penis. It also carries semen in men. In women, it's short and is just above the vagina. Urethral problems may happen due to aging, illness, or injury. They include:
+The urethra is the tube that allows [urine](Urine%20and%20Urination.md) to pass out of the body. In men, it's a long tube that runs through the penis. It also carries semen in men. In women, it's short and is just above the vagina. Urethral problems may happen due to aging, illness, or injury. They include:
 
 - Urethral cancer - a rare cancer that happens more often in men
 - Urethral stricture - a narrowing of the opening of the urethra
@@ -12,9 +12,9 @@ Doctors diagnose urethral problems using different tests. These include urine te
 
 ## Related topics
 
-- Bladder Diseases
-- Urine and Urination
+- [Bladder Diseases](Bladder%20Diseases.md)
+- [Urine and Urination](Urine%20and%20Urination.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/urethraldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/urethraldisorders.html). General information, not medical advice.*

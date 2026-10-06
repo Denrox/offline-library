@@ -4,7 +4,7 @@
 
 #### What is cryptosporidiosis?
 
-Cryptosporidiosis is a contagious disease that causes watery [diarrhea](https://medlineplus.gov/diarrhea.html). It is caused by parasites called *Cryptosporidium,* or Crypto . These parasites live in soil, food, and water. They are found in every region of the United States and throughout the world. Crypto can also be found on surfaces or dirty hands that have been contaminated with the stool (poop) of humans or animals that have the infection.
+Cryptosporidiosis is a contagious disease that causes watery [diarrhea](Diarrhea.md). It is caused by parasites called *Cryptosporidium,* or Crypto . These parasites live in soil, food, and water. They are found in every region of the United States and throughout the world. Crypto can also be found on surfaces or dirty hands that have been contaminated with the stool (poop) of humans or animals that have the infection.
 
 #### How is cryptosporidiosis spread?
 
@@ -26,20 +26,20 @@ Certain people are more likely to get Crypto; they include:
 
 The most common symptom of cryptosporidiosis is watery diarrhea. Other symptoms include:
 
-- [Dehydration](https://medlineplus.gov/dehydration.html)
+- [Dehydration](Dehydration.md)
 - Weight loss
 - Stomach cramps or pain
-- [Fever](https://medlineplus.gov/fever.html)
-- [Nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Fever](Fever.md)
+- [Nausea and vomiting](Nausea%20and%20Vomiting.md)
 
-The symptoms generally begin 2 to 10 days after becoming infected with the parasite. In people with healthy [immune systems](https://medlineplus.gov/immunesystemanddisorders.html), the symptoms can last about 1 to 2 weeks. Occasionally, the symptoms can last longer or come and go for up to 30 days.
+The symptoms generally begin 2 to 10 days after becoming infected with the parasite. In people with healthy [immune systems](Immune%20System%20and%20Disorders.md), the symptoms can last about 1 to 2 weeks. Occasionally, the symptoms can last longer or come and go for up to 30 days.
 
 People with weakened immune systems may develop a serious, chronic illness. Some reasons why you might have a weakened immune system could include:
 
-- Having [HIV](https://medlineplus.gov/hivandinfections.html)
-- Having [cancer](https://medlineplus.gov/cancer.html)
-- Having a [genetic condition](https://medlineplus.gov/geneticdisorders.html) that affects the immune system
-- Taking certain medicines, such as [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html) and medicines needed after an [organ transplant](https://medlineplus.gov/organtransplantation.html)
+- Having [HIV](HIV%20and%20Infections.md)
+- Having [cancer](Cancer.md)
+- Having a [genetic condition](Genetic%20Disorders.md) that affects the immune system
+- Taking certain medicines, such as [chemotherapy](Cancer%20Chemotherapy.md) and medicines needed after an [organ transplant](Organ%20Transplantation.md)
 
 Some people may not have any symptoms at all.
 
@@ -59,21 +59,21 @@ Over-the-counter anti-diarrheal medicine might help slow down diarrhea, but do n
 
 To lower your chance of getting or spreading Crypto:
 
-- [Wash your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water, especially after using the toilet, changing diapers, or touching animals. You also need to wash your hands before eating or preparing food. Alcohol-based hand sanitizers are not effective against Crypto.
+- [Wash your hands](Germs%20and%20Hygiene.md) often with soap and water, especially after using the toilet, changing diapers, or touching animals. You also need to wash your hands before eating or preparing food. Alcohol-based hand sanitizers are not effective against Crypto.
 - Only drink water that you know is safe.
 - Only drink milk and apple cider that have been pasteurized.
 - Don't eat uncooked foods when traveling in countries where the food supply might be unsafe.
 - Never go swimming when you have diarrhea.
 - Don't swallow water when you go swimming.
-- Use condoms or dental dams every time you have sex. This will also help prevent other [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html).
+- Use condoms or dental dams every time you have sex. This will also help prevent other [sexually transmitted infections](Sexually%20Transmitted%20Infections.md).
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Drinking Water
-- Parasitic Diseases
+- [Drinking Water](Drinking%20Water.md)
+- [Parasitic Diseases](Parasitic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cryptosporidiosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cryptosporidiosis.html). General information, not medical advice.*

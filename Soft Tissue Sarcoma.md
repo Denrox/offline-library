@@ -10,8 +10,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Kaposi Sarcoma
+- [Kaposi Sarcoma](Kaposi%20Sarcoma.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/softtissuesarcoma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/softtissuesarcoma.html). General information, not medical advice.*

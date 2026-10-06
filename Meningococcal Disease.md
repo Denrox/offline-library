@@ -4,7 +4,7 @@
 
 #### What is meningococcal disease?
 
-Meningococcal disease is the name for any illness that is caused by *Neisseria meningitidis* bacteria (also called meningococcal bacteria). These illnesses are often severe and can sometimes be deadly. They include infections of the lining of the brain and spinal cord ([meningitis](https://medlineplus.gov/meningitis.html)) and in the bloodstream ([sepsis](https://medlineplus.gov/sepsis.html)). Vaccines can help prevent the disease.
+Meningococcal disease is the name for any illness that is caused by *Neisseria meningitidis* bacteria (also called meningococcal bacteria). These illnesses are often severe and can sometimes be deadly. They include infections of the lining of the brain and spinal cord ([meningitis](Meningitis.md)) and in the bloodstream ([sepsis](Sepsis.md)). Vaccines can help prevent the disease.
 
 #### What causes meningococcal disease?
 
@@ -23,8 +23,8 @@ Also, certain groups of people are more likely to get the disease. They include:
 - Children younger than 1 year old.
 - Teens and young adults ages 16 through 23 years old.
 - Adults 65 years and older.
-- People with medical conditions that [weaken their immune system](https://medlineplus.gov/immunesystemanddisorders.html), including those with [HIV](https://medlineplus.gov/hiv.html) and certain rare immune system diseases.
-- People who either don't have a [spleen](https://medlineplus.gov/spleendiseases.html) or have a spleen that does not function well.
+- People with medical conditions that [weaken their immune system](Immune%20System%20and%20Disorders.md), including those with [HIV](HIV.md) and certain rare immune system diseases.
+- People who either don't have a [spleen](Spleen%20Diseases.md) or have a spleen that does not function well.
 - People who take complement inhibitor. These are immunotherapy medicines that are given to people with certain rare conditions.
 - People who live in crowded settings, such as college dorms or military barracks.
 - People who travel to areas where the disease is more common, such as certain parts of sub-Saharan Africa.
@@ -35,13 +35,13 @@ There are different types of meningococcal disease. The most common types are me
 
 **Meningococcal meningitis** is a meningococcal infection of the lining of the brain and spinal cord. The most common symptoms include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Fever](Fever.md)
+- [Headache](Headache.md)
 - Stiff neck
 
 It can also cause symptoms such as:
 
-- [Nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Nausea and vomiting](Nausea%20and%20Vomiting.md)
 - Photophobia (your eyes being more sensitive to light)
 - Confusion
 
@@ -56,12 +56,12 @@ It may be hard to notice these symptoms in newborns and babies. They can also ha
 **Meningococcal septicemia** is a meningococcal infection of the bloodstream. It's also called meningococcemia. When someone has this disease, the bacteria enter the bloodstream and multiply. This damages the walls of the blood vessels and causes bleeding into the skin and organs. The symptoms may include:
 
 - Fever and chills
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Fatigue](Fatigue.md)
 - Vomiting
 - Cold hands and feet
-- Severe aches or pain in the muscles, joints, [chest](https://medlineplus.gov/chestpain.html), or [abdomen](https://medlineplus.gov/abdominalpain.html) (belly)
+- Severe aches or pain in the muscles, joints, [chest](Chest%20Pain.md), or [abdomen](Abdominal%20Pain.md) (belly)
 - Rapid breathing
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Diarrhea](Diarrhea.md)
 - A dark purple rash (in the later stages of the disease)
 
 Because it is so serious, you need to seek immediate medical attention if you or your child develops the symptoms of meningococcal disease.
@@ -70,24 +70,24 @@ Because it is so serious, you need to seek immediate medical attention if you or
 
 The signs and symptoms of meningococcal disease are often similar to those of other illnesses. This can make it hard to diagnose.
 
-If your (or your child's) health care provider thinks that you or your child could have meningococcal disease, they will order tests that take samples of blood and/or [cerebrospinal fluid](https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/) (fluid near the spinal cord). They will send the samples to a lab for testing. The testing will include [bacteria culture testing](https://medlineplus.gov/lab-tests/bacteria-culture-test/), which can identify the specific type of bacteria that is causing the infection. Knowing this can help the provider decide on the best treatment.
+If your (or your child's) health care provider thinks that you or your child could have meningococcal disease, they will order tests that take samples of blood and/or cerebrospinal fluid (fluid near the spinal cord). They will send the samples to a lab for testing. The testing will include bacteria culture testing, which can identify the specific type of bacteria that is causing the infection. Knowing this can help the provider decide on the best treatment.
 
 #### What are the treatments for meningococcal disease?
 
-Certain [antibiotics](https://medlineplus.gov/antibiotics.html) can treat meningococcal disease. It is important that treatment is started as soon as possible. So if the provider thinks you have meningococcal disease, they will give you antibiotics right away (before the test results come back).
+Certain [antibiotics](Antibiotics.md) can treat meningococcal disease. It is important that treatment is started as soon as possible. So if the provider thinks you have meningococcal disease, they will give you antibiotics right away (before the test results come back).
 
 People with serious disease may need additional treatments, such as:
 
 - Breathing support
-- Medicines to treat [low blood pressure](https://medlineplus.gov/lowbloodpressure.html)
+- Medicines to treat [low blood pressure](Low%20Blood%20Pressure.md)
 - Surgery to remove dead tissue
 - Wound care for parts of the body with damaged skin
 
-Some people with meningococcal disease will have long-term health problems and [disabilities](https://medlineplus.gov/disabilities.html). These may include:
+Some people with meningococcal disease will have long-term health problems and [disabilities](Disabilities.md). These may include:
 
-- [Loss of limb(s)](limbloss.html)
-- [Deafness](https://medlineplus.gov/hearingdisordersanddeafness.html)
-- [Nervous system problems](https://medlineplus.gov/neurologicdiseases.html)
+- Loss of limb(s)
+- [Deafness](Hearing%20Disorders%20and%20Deafness.md)
+- [Nervous system problems](Neurologic%20Diseases.md)
 - Brain damage
 
 Even with treatment, 10 to 15 in 100 people will die from the disease.
@@ -108,8 +108,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Meningitis
+- [Meningitis](Meningitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/meningococcaldisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/meningococcaldisease.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Water Pollution
 
-We all need clean water. People need it to grow crops and to operate factories, and for [drinking](https://medlineplus.gov/drinkingwater.html) and recreation. Fish and wildlife depend on it to survive.
+We all need clean water. People need it to grow crops and to operate factories, and for [drinking](Drinking%20Water.md) and recreation. Fish and wildlife depend on it to survive.
 
 Many different pollutants can harm our rivers, streams, lakes, and oceans. The three most common are soil, nutrients, and bacteria. Rain washes soil into streams and rivers. The soil can kill tiny animals and fish eggs. It can clog the gills of fish and block light, causing plants to die. Nutrients, often from fertilizers, cause problems in lakes, ponds, and reservoirs. Nitrogen and phosphorus make algae grow and can turn water green. Bacteria, often from sewage spills, can pollute fresh or salt water.
 
@@ -14,13 +14,13 @@ Environmental Protection Agency
 
 ## Related topics
 
-- Cryptosporidiosis
-- Drinking Water
-- Environmental Health
-- Foodborne Illness
-- Oil Spills
-- Water Safety (Recreational)
+- [Cryptosporidiosis](Cryptosporidiosis.md)
+- [Drinking Water](Drinking%20Water.md)
+- [Environmental Health](Environmental%20Health.md)
+- [Foodborne Illness](Foodborne%20Illness.md)
+- [Oil Spills](Oil%20Spills.md)
+- [Water Safety (Recreational)](Water%20Safety%20%28Recreational%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/waterpollution.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/waterpollution.html). General information, not medical advice.*

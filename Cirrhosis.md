@@ -14,21 +14,21 @@ Cirrhosis is scarring of the liver. Scar tissue forms because of injury or long-
 - Severe itching
 - Gallstones
 
-A small number of people with cirrhosis get [liver cancer](https://medlineplus.gov/livercancer.html).
+A small number of people with cirrhosis get [liver cancer](Liver%20Cancer.md).
 
 Your doctor will diagnose cirrhosis with blood tests, imaging tests, or a biopsy.
 
-Cirrhosis has many causes. In the United States, the most common causes are chronic [alcoholism](https://medlineplus.gov/alcoholusedisorderaud.html) and [hepatitis](https://medlineplus.gov/hepatitis.html). Nothing will make the scar tissue disappear, but treating the cause can keep it from getting worse. If too much scar tissue forms, you may need to consider a [liver transplant](https://medlineplus.gov/livertransplantation.html).
+Cirrhosis has many causes. In the United States, the most common causes are chronic [alcoholism](Alcohol%20Use%20Disorder%20%28AUD%29.md) and [hepatitis](Hepatitis.md). Nothing will make the scar tissue disappear, but treating the cause can keep it from getting worse. If too much scar tissue forms, you may need to consider a [liver transplant](Liver%20Transplantation.md).
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Gallbladder Diseases
-- Liver Cancer
-- Liver Diseases
-- Liver Transplantation
+- [Gallbladder Diseases](Gallbladder%20Diseases.md)
+- [Liver Cancer](Liver%20Cancer.md)
+- [Liver Diseases](Liver%20Diseases.md)
+- [Liver Transplantation](Liver%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cirrhosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cirrhosis.html). General information, not medical advice.*

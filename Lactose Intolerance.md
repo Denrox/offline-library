@@ -16,8 +16,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Food Allergy
+- [Food Allergy](Food%20Allergy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lactoseintolerance.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lactoseintolerance.html). General information, not medical advice.*

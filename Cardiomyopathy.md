@@ -6,20 +6,20 @@ Cardiomyopathy is the name for diseases of the heart muscle. These diseases enla
 
 Some people live long, healthy lives with cardiomyopathy. Some people don't even realize they have it. In others, however, it can make the heart less able to pump blood through the body. This can cause serious complications, including:
 
-- [Heart failure](https://medlineplus.gov/heartfailure.html)
-- [Abnormal heart rhythms](https://medlineplus.gov/arrhythmia.html)
-- [Heart valve problems](https://medlineplus.gov/heartvalvediseases.html)
-- [Sudden cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html) (SCA)
+- [Heart failure](Heart%20Failure.md)
+- [Abnormal heart rhythms](Arrhythmia.md)
+- [Heart valve problems](Heart%20Valve%20Diseases.md)
+- [Sudden cardiac arrest](Sudden%20Cardiac%20Arrest.md) (SCA)
 
-[Heart attacks](https://medlineplus.gov/heartattack.html), [high blood pressure](https://medlineplus.gov/highbloodpressure.html), infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes.
+[Heart attacks](Heart%20Attack.md), [high blood pressure](High%20Blood%20Pressure.md), infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Congenital Heart Defects
-- Heart Health Tests
+- [Congenital Heart Defects](Congenital%20Heart%20Defects.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cardiomyopathy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cardiomyopathy.html). General information, not medical advice.*

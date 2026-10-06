@@ -4,7 +4,7 @@
 
 #### What are hemorrhoids?
 
-Hemorrhoids are swollen, inflamed veins around your [anus](https://medlineplus.gov/analdisorders.html) or the lower part of your [rectum](https://medlineplus.gov/rectaldisorders.html). There are two types:
+Hemorrhoids are swollen, inflamed veins around your [anus](Anal%20Disorders.md) or the lower part of your [rectum](Rectal%20Disorders.md). There are two types:
 
 - External hemorrhoids, which form under the skin around your anus
 - Internal hemorrhoids, which form in the lining of your anus and lower rectum
@@ -13,11 +13,11 @@ Hemorrhoids are swollen, inflamed veins around your [anus](https://medlineplus.g
 
 Hemorrhoids happen when there is too much pressure on the veins around the anus. This can be caused by:
 
-- Straining during [bowel movements](https://medlineplus.gov/bowelmovement.html).
+- Straining during [bowel movements](Bowel%20Movement.md).
 - Sitting on the toilet for long periods of time.
-- Chronic [constipation](https://medlineplus.gov/constipation.html) or [diarrhea](https://medlineplus.gov/diarrhea.html).
-- A low-[fiber](https://medlineplus.gov/dietaryfiber.html) diet.
-- Weakening of the supporting tissues in your anus and rectum. This can happen with aging and [pregnancy](https://medlineplus.gov/pregnancy.html).
+- Chronic [constipation](Constipation.md) or [diarrhea](Diarrhea.md).
+- A low-[fiber](Dietary%20Fiber.md) diet.
+- Weakening of the supporting tissues in your anus and rectum. This can happen with aging and [pregnancy](Pregnancy.md).
 - Frequently lifting heavy objects.
 
 #### What are the symptoms of hemorrhoids?
@@ -48,7 +48,7 @@ You can most often treat your hemorrhoids at home by:
 - Drinking enough fluids every day.
 - Not straining during bowel movements.
 - Not sitting on the toilet for long periods of time.
-- Taking over-the-counter [pain relievers](https://medlineplus.gov/painrelievers.html).
+- Taking over-the-counter [pain relievers](Pain%20Relievers.md).
 - Taking warm baths several times a day to help relieve pain. This could be a regular bath or a sitz bath. With a sitz bath, you use a special plastic tub that allows you to sit in a few inches of warm water.
 - Using over-the-counter hemorrhoid creams, ointments, or suppositories to relieve mild pain, swelling, and itching of external hemorrhoids.
 
@@ -57,7 +57,7 @@ You can most often treat your hemorrhoids at home by:
 You should see your health care provider if you:
 
 - Still have symptoms after 1 week of at-home treatment.
-- Have [bleeding](https://medlineplus.gov/gastrointestinalbleeding.html) from your rectum. Hemorrhoids are a common cause of bleeding, but other conditions can also cause bleeding. They include [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html), [colorectal cancer](https://medlineplus.gov/colorectalcancer.html), and [anal cancer](https://medlineplus.gov/analcancer.html). So it's important to see your provider to find the cause of the bleeding.
+- Have [bleeding](Gastrointestinal%20Bleeding.md) from your rectum. Hemorrhoids are a common cause of bleeding, but other conditions can also cause bleeding. They include [Crohn's disease](Crohn%27s%20Disease.md), [ulcerative colitis](Ulcerative%20Colitis.md), [colorectal cancer](Colorectal%20Cancer.md), and [anal cancer](Anal%20Cancer.md). So it's important to see your provider to find the cause of the bleeding.
 
 #### How are hemorrhoids diagnosed?
 
@@ -66,7 +66,7 @@ To find out if you have hemorrhoids, your health care provider:
 - Will ask about your medical history.
 - Will do a physical exam. Often providers can diagnose external hemorrhoids by looking at the area around your anus.
 - Will do a digital rectal exam to check for internal hemorrhoids. For this, the provider will insert a lubricated, gloved finger into the rectum to feel for anything that is abnormal.
-- May do procedures such as an [anoscopy](https://medlineplus.gov/lab-tests/anoscopy/) to check for internal hemorrhoids.
+- May do procedures such as an anoscopy to check for internal hemorrhoids.
 
 #### What are the treatments for hemorrhoids?
 
@@ -86,9 +86,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Anal Disorders
-- Rectal Disorders
+- [Anal Disorders](Anal%20Disorders.md)
+- [Rectal Disorders](Rectal%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hemorrhoids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hemorrhoids.html). General information, not medical advice.*

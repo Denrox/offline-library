@@ -11,9 +11,9 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Hearing Disorders and Deafness
-- Occupational Health
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
+- [Occupational Health](Occupational%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/noise.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/noise.html). General information, not medical advice.*

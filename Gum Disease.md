@@ -10,4 +10,4 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/gumdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/gumdisease.html). General information, not medical advice.*

@@ -4,7 +4,7 @@
 
 #### What is emphysema?
 
-Emphysema is a type of [COPD](https://medlineplus.gov/copd.html) (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is [chronic bronchitis](https://medlineplus.gov/chronicbronchitis.html). Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person.
+Emphysema is a type of [COPD](COPD.md) (chronic obstructive pulmonary disease). COPD is a group of lung diseases that make it hard to breathe and get worse over time. The other main type of COPD is [chronic bronchitis](Chronic%20Bronchitis.md). Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person.
 
 Emphysema affects the air sacs in your lungs. Normally, these sacs are elastic or stretchy. When you breathe in, each air sac fills up with air, like a small balloon. When you breathe out, the air sacs deflate, and the air goes out.
 
@@ -12,11 +12,11 @@ In emphysema, the walls between many of the air sacs in the lungs are damaged. T
 
 #### What causes emphysema?
 
-The cause of emphysema is usually long-term exposure to irritants that damage your lungs and the airways. In the United States, [cigarette smoke](https://medlineplus.gov/smoking.html) is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause emphysema, especially if you inhale them.
+The cause of emphysema is usually long-term exposure to irritants that damage your lungs and the airways. In the United States, [cigarette smoke](Smoking.md) is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause emphysema, especially if you inhale them.
 
-Exposure to other inhaled irritants can contribute to emphysema. These include [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html), [air pollution](https://medlineplus.gov/airpollution.html), and chemical fumes or dusts from the environment or workplace.
+Exposure to other inhaled irritants can contribute to emphysema. These include [secondhand smoke](Secondhand%20Smoke.md), [air pollution](Air%20Pollution.md), and chemical fumes or dusts from the environment or workplace.
 
-Rarely, a genetic condition called [alpha-1 antitrypsin deficiency](https://medlineplus.gov/alpha1antitrypsindeficiency.html) can play a role in causing emphysema.
+Rarely, a genetic condition called [alpha-1 antitrypsin deficiency](Alpha-1%20Antitrypsin%20Deficiency.md) can play a role in causing emphysema.
 
 #### Who is at risk for emphysema?
 
@@ -31,13 +31,13 @@ The risk factors for emphysema include:
 
 At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include:
 
-- Frequent [coughing](https://medlineplus.gov/cough.html) or wheezing
+- Frequent [coughing](Cough.md) or wheezing
 - A cough that produces a lot mucus
 - Shortness of breath, especially with physical activity
 - A whistling or squeaky sound when you breathe
 - Tightness in your chest
 
-Some people with emphysema get frequent respiratory infections such as [colds](https://medlineplus.gov/commoncold.html) and the [flu](https://medlineplus.gov/flu.html). In severe cases, emphysema can cause weight loss, weakness in your lower muscles, and [swelling](https://medlineplus.gov/edema.html) in your ankles, feet, or legs.
+Some people with emphysema get frequent respiratory infections such as [colds](Common%20Cold.md) and the [flu](Flu.md). In severe cases, emphysema can cause weight loss, weakness in your lower muscles, and [swelling](Edema.md) in your ankles, feet, or legs.
 
 #### How is emphysema diagnosed?
 
@@ -45,7 +45,7 @@ Your health care provider may use many tools to make a diagnosis:
 
 - A medical history, which includes asking about your symptoms
 - A family history
-- Other tests, such as [lung function tests](https://medlineplus.gov/lab-tests/lung-function-tests/), a chest [x-ray](https://medlineplus.gov/xrays.html) or [CT scan](https://medlineplus.gov/ctscans.html), and blood tests
+- Other tests, such as lung function tests, a chest [x-ray](X-Rays.md) or [CT scan](CT%20Scans.md), and blood tests
 
 #### What are the treatments for emphysema?
 
@@ -53,16 +53,16 @@ There is no cure for emphysema. However, treatments can help with symptoms, slow
 
 - **Lifestyle changes**, such as
 
- - [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) if you are a smoker. This is the most important step you can take to treat emphysema.
+ - [Quitting smoking](Quitting%20Smoking.md) if you are a smoker. This is the most important step you can take to treat emphysema.
  - Avoiding secondhand smoke and places where you might breathe in other lung irritants
  - Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.
 - **Medicines**, such as
 
- - Bronchodilators, which relax the muscles around your airways. This helps open your airways and makes breathing easier. Most bronchodilators are taken through an inhaler. In more severe cases, the inhaler may also contain [steroids](https://medlineplus.gov/steroids.html) to reduce inflammation.
- - Vaccines for the [flu](https://medlineplus.gov/flushot.html) and pneumococcal pneumonia, since people with emphysema are at higher risk for serious problems from these diseases
- - [Antibiotics](https://medlineplus.gov/antibiotics.html) if you get a bacterial or viral lung infection
-- **[Oxygen therapy](https://medlineplus.gov/oxygentherapy.html)**, if you have severe emphysema and low levels of oxygen in your blood. Oxygen therapy can help you breathe better. You may need extra oxygen all the time or only at certain times.
-- **[Pulmonary rehabilitation](https://medlineplus.gov/pulmonaryrehabilitation.html)**, which is a program that helps improve the well-being of people who have chronic breathing problems. It may include
+ - Bronchodilators, which relax the muscles around your airways. This helps open your airways and makes breathing easier. Most bronchodilators are taken through an inhaler. In more severe cases, the inhaler may also contain [steroids](Steroids.md) to reduce inflammation.
+ - Vaccines for the [flu](Flu%20Shot.md) and pneumococcal pneumonia, since people with emphysema are at higher risk for serious problems from these diseases
+ - [Antibiotics](Antibiotics.md) if you get a bacterial or viral lung infection
+- **[Oxygen therapy](Oxygen%20Therapy.md)**, if you have severe emphysema and low levels of oxygen in your blood. Oxygen therapy can help you breathe better. You may need extra oxygen all the time or only at certain times.
+- **[Pulmonary rehabilitation](Pulmonary%20Rehabilitation.md)**, which is a program that helps improve the well-being of people who have chronic breathing problems. It may include
 
  - An exercise program
  - Disease management training
@@ -72,9 +72,9 @@ There is no cure for emphysema. However, treatments can help with symptoms, slow
 
  - Remove damaged lung tissue
  - Remove large air spaces (bullae) that can form when air sacs are destroyed. The bullae can interfere with breathing.
- - Do a [lung transplant](https://medlineplus.gov/lungtransplantation.html). This is might be an option if you have very severe emphysema.
+ - Do a [lung transplant](Lung%20Transplantation.md). This is might be an option if you have very severe emphysema.
 
-If you have emphysema, it's important to know when and where to get help for your symptoms. You should get emergency care if you have severe symptoms, such as trouble catching your breath or talking. Call your health care provider if your symptoms are getting worse or if you have signs of an infection, such as a [fever](https://medlineplus.gov/fever.html).
+If you have emphysema, it's important to know when and where to get help for your symptoms. You should get emergency care if you have severe symptoms, such as trouble catching your breath or talking. Call your health care provider if your symptoms are getting worse or if you have signs of an infection, such as a [fever](Fever.md).
 
 #### Can emphysema be prevented?
 
@@ -84,12 +84,12 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Alpha-1 Antitrypsin Deficiency
-- Chronic Bronchitis
-- COPD
-- Oxygen Therapy
-- Pulmonary Rehabilitation
+- [Alpha-1 Antitrypsin Deficiency](Alpha-1%20Antitrypsin%20Deficiency.md)
+- [Chronic Bronchitis](Chronic%20Bronchitis.md)
+- [COPD](COPD.md)
+- [Oxygen Therapy](Oxygen%20Therapy.md)
+- [Pulmonary Rehabilitation](Pulmonary%20Rehabilitation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/emphysema.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/emphysema.html). General information, not medical advice.*

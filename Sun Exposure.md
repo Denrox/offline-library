@@ -2,7 +2,7 @@
 
 *Also called: Sunburn*
 
-Ultraviolet (UV) rays are an invisible form of radiation. They can pass through your skin and damage your skin cells. Sunburns are a sign of skin damage. [Suntans](https://medlineplus.gov/tanning.html) aren't healthy, either. They appear after the sun's rays have already killed some cells and damaged others. UV rays can cause skin damage during any season or at any temperature. They can also cause eye problems, [wrinkles](https://medlineplus.gov/skinaging.html), skin spots, and [skin cancer](https://medlineplus.gov/skincancer.html).
+Ultraviolet (UV) rays are an invisible form of radiation. They can pass through your skin and damage your skin cells. Sunburns are a sign of skin damage. [Suntans](Tanning.md) aren't healthy, either. They appear after the sun's rays have already killed some cells and damaged others. UV rays can cause skin damage during any season or at any temperature. They can also cause eye problems, [wrinkles](Skin%20Aging.md), skin spots, and [skin cancer](Skin%20Cancer.md).
 
 To protect yourself :
 
@@ -18,11 +18,11 @@ Food and Drug Administration
 
 ## Related topics
 
-- Heat Illness
-- Melanoma
-- Skin Cancer
-- Tanning
+- [Heat Illness](Heat%20Illness.md)
+- [Melanoma](Melanoma.md)
+- [Skin Cancer](Skin%20Cancer.md)
+- [Tanning](Tanning.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sunexposure.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sunexposure.html). General information, not medical advice.*

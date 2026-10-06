@@ -8,12 +8,12 @@
 
 Staph bacteria can cause many different types of infections, including:
 
-- [Skin infections](https://medlineplus.gov/skininfections.html), which are the most common types of staph infections.
-- Bacteremia, an infection of the bloodstream. This can lead to [sepsis](https://medlineplus.gov/sepsis.html), a very serious immune response to infection.
-- [Bone infections](https://medlineplus.gov/boneinfections.html).
-- [Endocarditis](https://medlineplus.gov/endocarditis.html), an infection of the inner lining of the heart chambers and valves.
-- [Food poisoning](https://medlineplus.gov/foodborneillness.html).
-- [Pneumonia](https://medlineplus.gov/pneumonia.html).
+- [Skin infections](Skin%20Infections.md), which are the most common types of staph infections.
+- Bacteremia, an infection of the bloodstream. This can lead to [sepsis](Sepsis.md), a very serious immune response to infection.
+- [Bone infections](Bone%20Infections.md).
+- [Endocarditis](Endocarditis.md), an infection of the inner lining of the heart chambers and valves.
+- [Food poisoning](Foodborne%20Illness.md).
+- [Pneumonia](Pneumonia.md).
 - Toxic shock syndrome (TSS), a life-threatening condition caused by toxins from certain types of bacteria.
 
 #### What causes staph infections?
@@ -26,14 +26,14 @@ Staph bacteria can spread from person to person. They can also spread on objects
 
 Anyone can develop a staph infection, but certain people are more likely to get one, including those who:
 
-- Have a chronic condition such as [diabetes](https://medlineplus.gov/diabetes.html), cancer, [vascular disease](https://medlineplus.gov/vasculardiseases.html), [eczema](https://medlineplus.gov/eczema.html), and [lung disease](https://medlineplus.gov/lungdiseases.html)
-- Have a weakened immune system, such as from [HIV](https://medlineplus.gov/hiv.html), medicines to prevent organ rejection, or [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
+- Have a chronic condition such as [diabetes](Diabetes.md), cancer, [vascular disease](Vascular%20Diseases.md), [eczema](Eczema.md), and [lung disease](Lung%20Diseases.md)
+- Have a weakened immune system, such as from [HIV](HIV.md), medicines to prevent organ rejection, or [chemotherapy](Cancer%20Chemotherapy.md)
 - Had surgery
 - Are in the hospital
 - Use a catheter, breathing tube, or feeding tube
-- Have an implanted device, such as a [pacemaker](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html) or artificial joint or heart valve
-- Have [burns](https://medlineplus.gov/burns.html), especially if they are deep or cover a large area of the body
-- Are on [dialysis](https://medlineplus.gov/dialysis.html)
+- Have an implanted device, such as a [pacemaker](Pacemakers%20and%20Implantable%20Defibrillators.md) or artificial joint or heart valve
+- Have [burns](Burns.md), especially if they are deep or cover a large area of the body
+- Are on [dialysis](Dialysis.md)
 - Inject illegal drugs
 - Do contact sports, since you may have skin-to-skin contact with others or share equipment
 
@@ -41,39 +41,39 @@ Anyone can develop a staph infection, but certain people are more likely to get 
 
 The symptoms of a staph infection depend on the type of infection:
 
-- Skin infections can look like pimples or boils. They may be red, swollen, and painful. Sometimes there is pus or other drainage. They can turn into [impetigo](https://medlineplus.gov/impetigo.html), which turns into a crust on the skin, or [cellulitis](https://medlineplus.gov/cellulitis.html), a swollen, red area of skin that feels hot.
-- Bone infections can cause pain, swelling, warmth, and redness in the infected area. You may also have chills and a [fever](https://medlineplus.gov/fever.html).
-- Endocarditis causes some flu-like symptoms: [fever](https://medlineplus.gov/fever.html), chills, and fatigue. It also causes symptoms such as rapid heartbeat, shortness of breath, and fluid buildup in your arms or legs.
-- Food poisoning typically causes [nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html), [diarrhea](https://medlineplus.gov/diarrhea.html), and fever. If you lose too many fluids, you may also become [dehydrated](https://medlineplus.gov/dehydration.html).
-- Pneumonia symptoms include a high fever, chills, and cough that doesn't get better. You may also have [chest pain](https://medlineplus.gov/chestpain.html) and [shortness of breath](https://medlineplus.gov/breathingproblems.html).
+- Skin infections can look like pimples or boils. They may be red, swollen, and painful. Sometimes there is pus or other drainage. They can turn into [impetigo](Impetigo.md), which turns into a crust on the skin, or [cellulitis](Cellulitis.md), a swollen, red area of skin that feels hot.
+- Bone infections can cause pain, swelling, warmth, and redness in the infected area. You may also have chills and a [fever](Fever.md).
+- Endocarditis causes some flu-like symptoms: [fever](Fever.md), chills, and fatigue. It also causes symptoms such as rapid heartbeat, shortness of breath, and fluid buildup in your arms or legs.
+- Food poisoning typically causes [nausea and vomiting](Nausea%20and%20Vomiting.md), [diarrhea](Diarrhea.md), and fever. If you lose too many fluids, you may also become [dehydrated](Dehydration.md).
+- Pneumonia symptoms include a high fever, chills, and cough that doesn't get better. You may also have [chest pain](Chest%20Pain.md) and [shortness of breath](Breathing%20Problems.md).
 - Toxic shock syndrome (TSS) causes high fever, sudden low blood pressure, vomiting, diarrhea, and confusion. You may have a sunburn-like rash somewhere on your body. TSS can lead to organ failure.
 
 #### How are staph infections diagnosed?
 
-Your health care provider will do a physical exam and ask about your symptoms. Often, providers can tell if you have a staph skin infection by looking at it. To check for other types of staph infections, providers may do a [culture](https://medlineplus.gov/lab-tests/bacteria-culture-test/), with a skin scraping, tissue sample, stool sample, or throat or nasal swabs. There may be other tests, such as [imaging tests](https://medlineplus.gov/diagnosticimaging.html), depending on the type of infection.
+Your health care provider will do a physical exam and ask about your symptoms. Often, providers can tell if you have a staph skin infection by looking at it. To check for other types of staph infections, providers may do a culture, with a skin scraping, tissue sample, stool sample, or throat or nasal swabs. There may be other tests, such as [imaging tests](Diagnostic%20Imaging.md), depending on the type of infection.
 
 #### What are the treatments for staph infections?
 
-Treatment for staph infections is [antibiotics](https://medlineplus.gov/antibiotics.html). Depending on the type of infection, the antibiotics might be a cream, ointment, medicines (to swallow), or intravenous (IV) medicine. If you have an infected wound, your provider might drain it. Sometimes you may need surgery for bone infections.
+Treatment for staph infections is [antibiotics](Antibiotics.md). Depending on the type of infection, the antibiotics might be a cream, ointment, medicines (to swallow), or intravenous (IV) medicine. If you have an infected wound, your provider might drain it. Sometimes you may need surgery for bone infections.
 
-Some staph infections, such as [MRSA](https://medlineplus.gov/mrsa.html) (methicillin-resistant Staphylococcus aureus), are [resistant to many antibiotics](https://medlineplus.gov/antibioticresistance.html). There are still certain antibiotics that can treat these infections.
+Some staph infections, such as [MRSA](MRSA.md) (methicillin-resistant Staphylococcus aureus), are [resistant to many antibiotics](Antibiotic%20Resistance.md). There are still certain antibiotics that can treat these infections.
 
 #### Can staph infections be prevented?
 
 Certain steps can help to prevent staph infections:
 
-- Use good [hygiene](https://medlineplus.gov/germsandhygiene.html), including washing your hands often.
+- Use good [hygiene](Germs%20and%20Hygiene.md), including washing your hands often.
 - Don't share towels, sheets, or clothing with someone who has a staph infection.
 - It's best not to share athletic equipment. If you do need to share, make sure that it is properly cleaned and dried before you use it.
-- Practice [food safety](https://medlineplus.gov/foodsafety.html), including not preparing food for others when you have a staph infection.
+- Practice [food safety](Food%20Safety.md), including not preparing food for others when you have a staph infection.
 - If you have a cut or wound, keep it covered.
 
 ## Related topics
 
-- Cellulitis
-- Impetigo
-- MRSA
+- [Cellulitis](Cellulitis.md)
+- [Impetigo](Impetigo.md)
+- [MRSA](MRSA.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/staphylococcalinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/staphylococcalinfections.html). General information, not medical advice.*

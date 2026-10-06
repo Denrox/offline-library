@@ -12,12 +12,12 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Acoustic Neuroma
-- Colonic Polyps
-- Neurofibromatosis
-- Tuberous Sclerosis
-- Uterine Fibroids
+- [Acoustic Neuroma](Acoustic%20Neuroma.md)
+- [Colonic Polyps](Colonic%20Polyps.md)
+- [Neurofibromatosis](Neurofibromatosis.md)
+- [Tuberous Sclerosis](Tuberous%20Sclerosis.md)
+- [Uterine Fibroids](Uterine%20Fibroids.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/benigntumors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/benigntumors.html). General information, not medical advice.*

@@ -8,7 +8,7 @@ Yeast infections affect different parts of the body in different ways:
 
 - Thrush is a yeast infection that causes white patches in your mouth
 - Candida esophagitis is thrush that spreads to your esophagus, the tube that takes food from your mouth to your stomach. It can make it hard or painful to swallow.
-- Women can get vaginal yeast infections, causing [vaginitis](https://medlineplus.gov/vaginitis.html)
+- Women can get vaginal yeast infections, causing [vaginitis](Vaginitis.md)
 - Yeast infections of the skin cause itching and rashes
 - Yeast infections in your bloodstream can be life-threatening
 
@@ -16,9 +16,9 @@ Antifungal medicines get rid of yeast infections in most people. If you have a w
 
 ## Related topics
 
-- Fungal Infections
-- Vaginitis
+- [Fungal Infections](Fungal%20Infections.md)
+- [Vaginitis](Vaginitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/yeastinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/yeastinfections.html). General information, not medical advice.*

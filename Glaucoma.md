@@ -2,9 +2,9 @@
 
 #### What is glaucoma?
 
-Glaucoma is a group of diseases that can damage the [optic nerve](https://medlineplus.gov/opticnervedisorders.html) of one, or both, of your eyes. This can result in [vision loss](https://medlineplus.gov/visionimpairmentandblindness.html). There are different types of glaucoma, but the most common type is open-angle glaucoma. Other less common types include angle-closure glaucoma, and congenital glaucoma.
+Glaucoma is a group of diseases that can damage the [optic nerve](Optic%20Nerve%20Disorders.md) of one, or both, of your eyes. This can result in [vision loss](Vision%20Impairment%20and%20Blindness.md). There are different types of glaucoma, but the most common type is open-angle glaucoma. Other less common types include angle-closure glaucoma, and congenital glaucoma.
 
-You may not have any symptoms of glaucoma. Regular [eye exams](https://medlineplus.gov/eyecare.html) by an eye care provider can check for glaucoma and other [eye problems](https://medlineplus.gov/eyediseases.html) to help protect your vision. Treatments that lower eye pressure help slow the disease. Without treatment, glaucoma can eventually lead to blindness.
+You may not have any symptoms of glaucoma. Regular [eye exams](Eye%20Care.md) by an eye care provider can check for glaucoma and other [eye problems](Eye%20Diseases.md) to help protect your vision. Treatments that lower eye pressure help slow the disease. Without treatment, glaucoma can eventually lead to blindness.
 
 #### What causes glaucoma?
 
@@ -32,7 +32,7 @@ If you're at higher risk for glaucoma, you should get comprehensive eye exams ev
 - Are over age 60, especially if you're Hispanic or Latino
 - Have a family history of glaucoma
 
-You're also at higher risk if you have [high blood pressure](https://medlineplus.gov/highbloodpressure.html) or [diabetes](https://medlineplus.gov/diabeticeyeproblems.html) and should get a dilated eye exam at least once a year. Talk with your provider about your risk and how often you should get your eyes checked.
+You're also at higher risk if you have [high blood pressure](High%20Blood%20Pressure.md) or [diabetes](Diabetic%20Eye%20Problems.md) and should get a dilated eye exam at least once a year. Talk with your provider about your risk and how often you should get your eyes checked.
 
 #### What are the treatments for glaucoma?
 
@@ -51,8 +51,8 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Eye Diseases
+- [Eye Diseases](Eye%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/glaucoma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/glaucoma.html). General information, not medical advice.*

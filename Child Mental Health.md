@@ -18,11 +18,11 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Bullying and Cyberbullying
-- Child Behavior Disorders
-- Mental Disorders
-- Mental Health
+- [Bullying and Cyberbullying](Bullying%20and%20Cyberbullying.md)
+- [Child Behavior Disorders](Child%20Behavior%20Disorders.md)
+- [Mental Disorders](Mental%20Disorders.md)
+- [Mental Health](Mental%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childmentalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childmentalhealth.html). General information, not medical advice.*

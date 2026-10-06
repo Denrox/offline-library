@@ -2,9 +2,9 @@
 
 #### What are autoimmune diseases?
 
-Your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) protects you from disease and infection by attacking germs that get into your body, such as viruses and bacteria. Your immune system can tell that the germs aren't part of you, so it destroys them. If you have an autoimmune disease, your immune system attacks the healthy cells of your organs and tissues by mistake.
+Your [immune system](Immune%20System%20and%20Disorders.md) protects you from disease and infection by attacking germs that get into your body, such as viruses and bacteria. Your immune system can tell that the germs aren't part of you, so it destroys them. If you have an autoimmune disease, your immune system attacks the healthy cells of your organs and tissues by mistake.
 
-There are more than 80 types of autoimmune diseases. They can affect almost any part of your body. For example, alopecia areata is an autoimmune disease of the skin that causes hair loss. Autoimmune hepatitis affects the liver. In [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), the immune system attacks the pancreas. And in [rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html), the immune system can attack many parts of the body, including the joints, lungs, and eyes.
+There are more than 80 types of autoimmune diseases. They can affect almost any part of your body. For example, alopecia areata is an autoimmune disease of the skin that causes hair loss. Autoimmune hepatitis affects the liver. In [type 1 diabetes](Diabetes%20Type%201.md), the immune system attacks the pancreas. And in [rheumatoid arthritis](Rheumatoid%20Arthritis.md), the immune system can attack many parts of the body, including the joints, lungs, and eyes.
 
 #### What causes autoimmune diseases?
 
@@ -28,24 +28,24 @@ Doctors often have a hard time diagnosing autoimmune diseases. There's usually n
 
 To help your doctor find out if an autoimmune disease is causing your symptoms,:
 
-- Learn about the health conditions in your [family history](https://medlineplus.gov/familyhistory.html). What health problems did your grandparents, aunts, uncles, and cousins have? Write down what you learn and share it with your doctor.
+- Learn about the health conditions in your [family history](Family%20History.md). What health problems did your grandparents, aunts, uncles, and cousins have? Write down what you learn and share it with your doctor.
 - Keep track of your symptoms, including how long they last and what makes them better or worse. Share your notes with your doctor.
 - See a specialist who deals with the symptoms that bother you most. For example, if you have rash, see a dermatologist (skin doctor).
 
 #### What are the treatments for autoimmune diseases?
 
-The treatment depends on the disease. In most cases, the goal of treatment is to suppress (slow down) your immune system, and ease swelling, redness, and pain from inflammation. Your doctor may give you [corticosteroids](https://medlineplus.gov/steroids.html) or other medicines to help you feel better. For some diseases, you may need treatment for the rest of your life.
+The treatment depends on the disease. In most cases, the goal of treatment is to suppress (slow down) your immune system, and ease swelling, redness, and pain from inflammation. Your doctor may give you [corticosteroids](Steroids.md) or other medicines to help you feel better. For some diseases, you may need treatment for the rest of your life.
 
 ## Related topics
 
-- Addison Disease
-- Diabetes Type 1
-- Guillain-Barre Syndrome
-- Lupus
-- Multiple Sclerosis
-- Myasthenia Gravis
-- Rheumatoid Arthritis
+- [Addison Disease](Addison%20Disease.md)
+- [Diabetes Type 1](Diabetes%20Type%201.md)
+- [Guillain-Barre Syndrome](Guillain-Barre%20Syndrome.md)
+- [Lupus](Lupus.md)
+- [Multiple Sclerosis](Multiple%20Sclerosis.md)
+- [Myasthenia Gravis](Myasthenia%20Gravis.md)
+- [Rheumatoid Arthritis](Rheumatoid%20Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/autoimmunediseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/autoimmunediseases.html). General information, not medical advice.*

@@ -39,25 +39,25 @@ You have a lower risk if:
 
 The main symptoms of endometriosis are:
 
-- [Pelvic pain](https://medlineplus.gov/pelvicpain.html), which often happens during your period
-- [Infertility](https://medlineplus.gov/femaleinfertility.html)
+- [Pelvic pain](Pelvic%20Pain.md), which often happens during your period
+- [Infertility](Female%20Infertility.md)
 
 Other possible symptoms include:
 
-- [Painful menstrual cramps](https://medlineplus.gov/periodpain.html), which may get worse over time
+- [Painful menstrual cramps](Period%20Pain.md), which may get worse over time
 - Pain during or after sex
-- Pain in the intestine or lower [abdomen](https://medlineplus.gov/abdominalpain.html)
+- Pain in the intestine or lower [abdomen](Abdominal%20Pain.md)
 - Pain with bowel movements (pooping) or urination (peeing), usually during your period
-- Heavy [periods](https://medlineplus.gov/menstruation.html)
-- [Spotting or bleeding](https://medlineplus.gov/vaginalbleeding.html) between periods
+- Heavy [periods](Menstruation.md)
+- [Spotting or bleeding](Vaginal%20Bleeding.md) between periods
 - Digestive or gastrointestinal symptoms
 - Fatigue or lack of energy
 
 #### How is endometriosis diagnosed?
 
-Surgery is the only way to know for sure that you have endometriosis. First, however, your health care provider will ask about your symptoms and medical history. You will have a pelvic exam and may have some [imaging tests](https://medlineplus.gov/diagnosticimaging.html).
+Surgery is the only way to know for sure that you have endometriosis. First, however, your health care provider will ask about your symptoms and medical history. You will have a pelvic exam and may have some [imaging tests](Diagnostic%20Imaging.md).
 
-The most common surgery to diagnose endometriosis is a [laparoscopy](https://medlineplus.gov/lab-tests/laparoscopy/). This is a type of surgery that uses a laparoscope, a thin tube with a camera and light. The surgeon inserts the laparoscope through a small cut in the skin near your belly button. Your provider can make a diagnosis based on how the patches of endometriosis look. They may also do a [biopsy](https://medlineplus.gov/biopsy.html) to get a tissue sample.
+The most common surgery to diagnose endometriosis is a laparoscopy. This is a type of surgery that uses a laparoscope, a thin tube with a camera and light. The surgeon inserts the laparoscope through a small cut in the skin near your belly button. Your provider can make a diagnosis based on how the patches of endometriosis look. They may also do a [biopsy](Biopsy.md) to get a tissue sample.
 
 #### What are the treatments for endometriosis?
 
@@ -65,27 +65,27 @@ There is no cure for endometriosis, but there are treatments for the symptoms. Y
 
 **Treatments for endometriosis pain** include:
 
-- **[Pain relievers](https://medlineplus.gov/painrelievers.html)**, including nonsteroidal anti-inflammatory drugs (NSAIDS) such as ibuprofen and a prescription medicine specifically for endometriosis. Providers may sometimes prescribe opioids for severe pain.
+- **[Pain relievers](Pain%20Relievers.md)**, including nonsteroidal anti-inflammatory drugs (NSAIDS) such as ibuprofen and a prescription medicine specifically for endometriosis. Providers may sometimes prescribe opioids for severe pain.
 - **Hormone therapy**, which stops the ovaries from making hormones. This may slow the growth of the endometrial tissue and may stop new areas from growing. Types of hormone therapy include:
 
- - [Birth control pills](https://medlineplus.gov/birthcontrol.html).
+ - [Birth control pills](Birth%20Control.md).
  - Progestin therapy.
- - Gonadotropin-releasing hormone (GnRH) medicines (GnRH agonists and antagonists). These medicines cause a temporary [menopause](https://medlineplus.gov/menopause.html). After your stop taking the medicines, your menstrual periods will start again, and pregnancy is possible.
+ - Gonadotropin-releasing hormone (GnRH) medicines (GnRH agonists and antagonists). These medicines cause a temporary [menopause](Menopause.md). After your stop taking the medicines, your menstrual periods will start again, and pregnancy is possible.
 - **Surgical treatments** for severe pain, including procedures to remove the endometriosis patches or cut some nerves in the pelvis. The surgery may be a laparoscopy or major surgery.
 
 **Treatments for infertility caused by endometriosis** include:
 
 - **Laparoscopy** to remove the endometriosis patches
-- **[In vitro fertilization](https://medlineplus.gov/assistedreproductivetechnology.html)**
+- **[In vitro fertilization](Assisted%20Reproductive%20Technology.md)**
 
 NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Female Infertility
-- Menstruation
-- Uterine Diseases
+- [Female Infertility](Female%20Infertility.md)
+- [Menstruation](Menstruation.md)
+- [Uterine Diseases](Uterine%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/endometriosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/endometriosis.html). General information, not medical advice.*

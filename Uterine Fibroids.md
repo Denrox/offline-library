@@ -6,7 +6,7 @@
 
 Uterine fibroids are the most common noncancerous (benign) tumors in women of childbearing age. You may have uterine fibroids and not even know it since they often don't cause any symptoms. Fibroids are made of muscle cells and other tissues that grow in and around the wall of the uterus, or womb. They can vary in number and size and grow as one tumor or in clusters.
 
-Many women with fibroids can get pregnant with no problems. However, some uterine fibroids could cause [infertility](https://medlineplus.gov/femaleinfertility.html) (not being able to get pregnant), [pregnancy loss](https://medlineplus.gov/miscarriage.html), or problems with [fetal development](https://medlineplus.gov/fetalhealthanddevelopment.html) or [delivery](https://medlineplus.gov/pretermlabor.html).
+Many women with fibroids can get pregnant with no problems. However, some uterine fibroids could cause [infertility](Female%20Infertility.md) (not being able to get pregnant), [pregnancy loss](Miscarriage.md), or problems with [fetal development](Fetal%20Health%20and%20Development.md) or [delivery](Preterm%20Labor.md).
 
 #### Who is more likely to get uterine fibroids?
 
@@ -15,8 +15,8 @@ If you're a female and the age when you're usually able to get pregnant and give
 - **Age.** Women who are older have a higher risk.
 - **Race/ethnicity.** Black/African American women often have fibroids at a younger age. They're also more likely to have larger fibroids with worse symptoms.
 - **Family history.** If your mother or sister had uterine fibroids.
-- **Other factors.** If you started your [period](https://medlineplus.gov/menstruation.html) before age 10 or have never been pregnant.
-- **Certain medical conditions.** These include [obesity](https://medlineplus.gov/obesity.html) or [vitamin D deficiency](https://medlineplus.gov/vitaminddeficiency.html).
+- **Other factors.** If you started your [period](Menstruation.md) before age 10 or have never been pregnant.
+- **Certain medical conditions.** These include [obesity](Obesity.md) or [vitamin D deficiency](Vitamin%20D%20Deficiency.md).
 
 Your risk of getting uterine fibroids lowers with each pregnancy and with long-term use of birth control pills or shots.
 
@@ -37,7 +37,7 @@ Many women with fibroids have no symptoms. If you do, the type of symptoms may b
 
 #### How are uterine fibroids diagnosed?
 
-You may not know that you have uterine fibroids unless you have symptoms. Or your health care provider may find the fibroids during a [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html), or with [imaging tests](https://medlineplus.gov/diagnosticimaging.html).
+You may not know that you have uterine fibroids unless you have symptoms. Or your health care provider may find the fibroids during a [pelvic exam](Women%27s%20Health%20Checkup.md), or with [imaging tests](Diagnostic%20Imaging.md).
 
 Uterine fibroids might be very small, or in extreme cases, they may grow large enough to make it appear like a pregnancy.
 
@@ -46,11 +46,11 @@ Uterine fibroids might be very small, or in extreme cases, they may grow large e
 If you have no symptoms, you may not even need treatment. If you have symptoms, the treatment for uterine fibroids depends on many factors. These can include:
 
 - **Your symptoms.**
-- **Your age.** Sometimes fibroids shrink during and after [menopause](https://medlineplus.gov/menopause.html) due to a drop in hormone levels.
+- **Your age.** Sometimes fibroids shrink during and after [menopause](Menopause.md) due to a drop in hormone levels.
 - **The location, type, and size** of fibroids.
 - If you are **pregnant or want to get pregnant** in the future.
 
-Treatment may include medicines that can slow or stop fibroid growth. Surgery, such as a [hysterectomy](https://medlineplus.gov/hysterectomy.html) (removal of the uterus), may be considered if you are near or past menopause, your fibroids are very large or cause heavy bleeding.
+Treatment may include medicines that can slow or stop fibroid growth. Surgery, such as a [hysterectomy](Hysterectomy.md) (removal of the uterus), may be considered if you are near or past menopause, your fibroids are very large or cause heavy bleeding.
 
 If you are having trouble getting pregnant, your provider may discuss infertility treatments. They may also recommend an emotional support group if you have chronic symptoms or difficulties getting pregnant or maintaining a pregnancy.
 
@@ -58,10 +58,10 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Hysterectomy
-- Uterine Cancer
-- Uterine Diseases
+- [Hysterectomy](Hysterectomy.md)
+- [Uterine Cancer](Uterine%20Cancer.md)
+- [Uterine Diseases](Uterine%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/uterinefibroids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/uterinefibroids.html). General information, not medical advice.*

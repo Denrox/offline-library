@@ -4,7 +4,7 @@
 
 #### What is alcohol use disorder (AUD)?
 
-For most adults, moderate [alcohol](https://medlineplus.gov/alcohol.html) use is probably not harmful. Your risk of developing an alcohol use disorder (AUD) depends on how much, how often, and how quickly you drink alcohol. Alcohol misuse means that drinking causes distress and harm. Over time alcohol misuse can increase your risk of AUD.
+For most adults, moderate [alcohol](Alcohol.md) use is probably not harmful. Your risk of developing an alcohol use disorder (AUD) depends on how much, how often, and how quickly you drink alcohol. Alcohol misuse means that drinking causes distress and harm. Over time alcohol misuse can increase your risk of AUD.
 
 AUD can range from mild to severe, depending on the symptoms. Severe AUD is sometimes called alcoholism or alcohol dependence.
 
@@ -20,7 +20,7 @@ Binge drinking is a type of alcohol misuse. It means drinking so much at once th
 
 #### What are the dangers of too much alcohol?
 
-Too much alcohol is dangerous. Heavy drinking can increase the risk of certain cancers. It may lead to [liver diseases](https://medlineplus.gov/liverdiseases.html), such as [alcohol-associated liver disease](https://medlineplus.gov/steatoticliverdisease.html) (ALD) and [cirrhosis](https://medlineplus.gov/cirrhosis.html). It can also cause damage to the brain and other organs. Drinking during pregnancy can [harm your fetus](https://medlineplus.gov/fetalalcoholspectrumdisorders.html). Alcohol also increases the risk of death from car crashes, injuries, homicide, and suicide.
+Too much alcohol is dangerous. Heavy drinking can increase the risk of certain cancers. It may lead to [liver diseases](Liver%20Diseases.md), such as [alcohol-associated liver disease](Steatotic%20Liver%20Disease.md) (ALD) and [cirrhosis](Cirrhosis.md). It can also cause damage to the brain and other organs. Drinking during pregnancy can [harm your fetus](Fetal%20Alcohol%20Spectrum%20Disorders.md). Alcohol also increases the risk of death from car crashes, injuries, homicide, and suicide.
 
 #### How do I know if I have an alcohol use disorder (AUD)?
 
@@ -38,26 +38,26 @@ In the past year, have you:
 - Gotten into dangerous situations while drinking or after drinking? Some examples are driving drunk and having unsafe sex.
 - Kept drinking even though it was making you feel depressed or anxious? Or when it was adding to another health problem?
 - Had to drink more and more to feel the effects of the alcohol?
-- Had withdrawal symptoms when the alcohol was wearing off? They include trouble sleeping, shakiness, irritability, [anxiety](https://medlineplus.gov/anxiety.html), [depression](https://medlineplus.gov/depression.html), restlessness, [nausea](https://medlineplus.gov/nauseaandvomiting.html), and [sweating](https://medlineplus.gov/sweat.html). In severe cases, you could have a [fever](https://medlineplus.gov/fever.html), [seizures](https://medlineplus.gov/seizures.html), or hallucinations.
+- Had withdrawal symptoms when the alcohol was wearing off? They include trouble sleeping, shakiness, irritability, [anxiety](Anxiety.md), [depression](Depression.md), restlessness, [nausea](Nausea%20and%20Vomiting.md), and [sweating](Sweat.md). In severe cases, you could have a [fever](Fever.md), [seizures](Seizures.md), or hallucinations.
 
 If you have any of these symptoms, your drinking may already be a cause for concern. The more symptoms you have, the more serious the problem is.
 
 #### What should I do if I think that I might have an alcohol use disorder (AUD)?
 
-If you think you might have an AUD, see your health care provider for an evaluation. Your provider can help make a [treatment plan](https://medlineplus.gov/alcoholusedisorderaudtreatment.html), prescribe medicines, and if needed, give you treatment referrals.
+If you think you might have an AUD, see your health care provider for an evaluation. Your provider can help make a [treatment plan](Alcohol%20Use%20Disorder%20%28AUD%29%20Treatment.md), prescribe medicines, and if needed, give you treatment referrals.
 
 NIH: National Institute on Alcohol Abuse and Alcoholism
 
 ## Related topics
 
-- Alcohol
-- Alcohol Use Disorder (AUD) Treatment
-- Cirrhosis
-- Fetal Alcohol Spectrum Disorders
-- Impaired Driving
-- Steatotic Liver Disease
-- Underage Drinking
+- [Alcohol](Alcohol.md)
+- [Alcohol Use Disorder (AUD) Treatment](Alcohol%20Use%20Disorder%20%28AUD%29%20Treatment.md)
+- [Cirrhosis](Cirrhosis.md)
+- [Fetal Alcohol Spectrum Disorders](Fetal%20Alcohol%20Spectrum%20Disorders.md)
+- [Impaired Driving](Impaired%20Driving.md)
+- [Steatotic Liver Disease](Steatotic%20Liver%20Disease.md)
+- [Underage Drinking](Underage%20Drinking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/alcoholusedisorderaud.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/alcoholusedisorderaud.html). General information, not medical advice.*

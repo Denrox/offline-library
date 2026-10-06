@@ -10,8 +10,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- End of Life Issues
+- [End of Life Issues](End%20of%20Life%20Issues.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bereavement.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bereavement.html). General information, not medical advice.*

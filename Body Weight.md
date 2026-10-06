@@ -4,8 +4,8 @@
 
 Body weight is the total mass of your body. Keeping track of your weight is one way to check for changes in your health, but it can't tell you the whole story. That's because your weight includes muscle, bone, fat, and water. Also, everyday factors can play a role in your weight, such as your:
 
-- [Diet](https://medlineplus.gov/nutrition.html)
-- [Activity level](https://medlineplus.gov/howmuchexercisedoineed.html)
+- [Diet](Nutrition.md)
+- [Activity level](How%20Much%20Exercise%20Do%20I%20Need.md)
 - Stress level
 - Sleep habits
 - Family history and genetics
@@ -16,8 +16,8 @@ Body weight is the total mass of your body. Keeping track of your weight is one 
 A healthy weight is more than just a number on the scale. It's about feeling good, having energy, and lowering your risk of disease. Your health care provider can help you determine a healthy body weight based on several factors. These include your:
 
 - **Body Mass Index (BMI).** BMI is a measure of how much you weigh compared to how tall you are. The higher your BMI, the higher your risk for certain diseases. BMI does not distinguish between fat, muscle, and bone mass. It also may overestimate body fat in athletes or those with a muscular build, or underestimate body fat in older persons or others who have lost muscle.
-- **Waist circumference.** If most of your body fat is around your abdomen (belly) rather than your hips, you may be at a higher risk for [heart disease](https://medlineplus.gov/heartdiseases.html) and [type 2 diabetes](https://medlineplus.gov/diabetestype2.html).
-- **Health history.** Your health care provider will likely consider your risk factors for diseases and health conditions, such as having [high cholesterol](https://medlineplus.gov/howtolowercholesterol.html), in determining your healthy body weight.
+- **Waist circumference.** If most of your body fat is around your abdomen (belly) rather than your hips, you may be at a higher risk for [heart disease](Heart%20Diseases.md) and [type 2 diabetes](Diabetes%20Type%202.md).
+- **Health history.** Your health care provider will likely consider your risk factors for diseases and health conditions, such as having [high cholesterol](How%20to%20Lower%20Cholesterol.md), in determining your healthy body weight.
 
 #### What are body weight ranges?
 
@@ -26,9 +26,9 @@ Having a healthy body weight may lower your chance of developing certain health 
 - **Underweight.** Your weight is lower than it should be for your health.
 - **Normal.** Your weight is within a healthy range.
 - **Overweight.** Your weight is greater than it should be for your health.
-- **[Obese](https://medlineplus.gov/obesity.html).** Your body fat is greater than it should be for your health.
+- **[Obese](Obesity.md).** Your body fat is greater than it should be for your health.
 
-Body weight needs can be different at different ages. For [children, weight and growth](https://medlineplus.gov/childdevelopment.html) are tracked over time based on their age. For [older adults](https://medlineplus.gov/healthyaging.html), keeping muscle and strength is key, and sudden weight loss should always be checked by your provider.
+Body weight needs can be different at different ages. For [children, weight and growth](Child%20Development.md) are tracked over time based on their age. For [older adults](Healthy%20Aging.md), keeping muscle and strength is key, and sudden weight loss should always be checked by your provider.
 
 #### What if I have a sudden gain or loss of weight?
 
@@ -52,7 +52,7 @@ Causes for sudden **weight gain** can include:
 
 #### How can I maintain a healthy body weight?
 
-Maintaining a healthy body weight can improve energy, sleep, and overall wellbeing. Talk to your provider about what a healthy weight would be for you. If they recommend that you gain or [lose weight](https://medlineplus.gov/weightcontrol.html), they might refer you to a dietician for support. A dietician is a professional who has special training to help you learn the best way to eat.
+Maintaining a healthy body weight can improve energy, sleep, and overall wellbeing. Talk to your provider about what a healthy weight would be for you. If they recommend that you gain or [lose weight](Weight%20Control.md), they might refer you to a dietician for support. A dietician is a professional who has special training to help you learn the best way to eat.
 
 - Good nutrition and exercise can help in **losing weight**. Even a small change in weight can lower your risk of developing certain diseases.
 - Eating extra calories within a well-balanced diet and treating any underlying medical problems can help you **gain weight**.
@@ -63,11 +63,11 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Malnutrition
-- Obesity
-- Obesity in Children
-- Weight Control
+- [Malnutrition](Malnutrition.md)
+- [Obesity](Obesity.md)
+- [Obesity in Children](Obesity%20in%20Children.md)
+- [Weight Control](Weight%20Control.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bodyweight.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bodyweight.html). General information, not medical advice.*

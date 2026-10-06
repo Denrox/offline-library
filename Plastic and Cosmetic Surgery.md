@@ -14,12 +14,12 @@ Surgeons can reshape the appearance of body parts through cosmetic surgery. Some
 
 ## Related topics
 
-- Botox
-- Breast Reconstruction
-- Scars
-- Skin Aging
-- Varicose Veins
+- [Botox](Botox.md)
+- [Breast Reconstruction](Breast%20Reconstruction.md)
+- [Scars](Scars.md)
+- [Skin Aging](Skin%20Aging.md)
+- [Varicose Veins](Varicose%20Veins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/plasticandcosmeticsurgery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/plasticandcosmeticsurgery.html). General information, not medical advice.*

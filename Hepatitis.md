@@ -2,7 +2,7 @@
 
 #### What is hepatitis?
 
-Hepatitis is inflammation of the [liver](https://medlineplus.gov/liverdiseases.html). Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
+Hepatitis is inflammation of the [liver](Liver%20Diseases.md). Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
 
 Hepatitis can be an acute (short-term) infection or a chronic (long-term) infection. Some types of hepatitis cause only acute infections. Other types can cause both acute and chronic infections.
 
@@ -10,14 +10,14 @@ Hepatitis can be an acute (short-term) infection or a chronic (long-term) infect
 
 There are different types of hepatitis, with different causes:
 
-- Viral hepatitis is the most common type. It is caused by one of several viruses -- hepatitis viruses [A](https://medlineplus.gov/hepatitisa.html), [B](https://medlineplus.gov/hepatitisb.html), [C](https://medlineplus.gov/hepatitisc.html), D, and E. In the United States, A, B, and C are the most common.
-- Alcoholic hepatitis is caused by [heavy alcohol use](https://medlineplus.gov/alcoholusedisorderaud.html)
+- Viral hepatitis is the most common type. It is caused by one of several viruses -- hepatitis viruses [A](Hepatitis%20A.md), [B](Hepatitis%20B.md), [C](Hepatitis%20C.md), D, and E. In the United States, A, B, and C are the most common.
+- Alcoholic hepatitis is caused by [heavy alcohol use](Alcohol%20Use%20Disorder%20%28AUD%29.md)
 - Toxic hepatitis can be caused by certain poisons, chemicals, medicines, or supplements
 - Autoimmune hepatitis is a chronic type in which your body's immune system attacks your liver. The cause is not known, but genetics and your environment may play a role.
 
 #### How is viral hepatitis spread?
 
-Hepatitis A and hepatitis E usually spread through contact with [food](https://medlineplus.gov/foodborneillness.html) or water that was contaminated with an infected person's stool. You can also get hepatitis E by eating undercooked pork, deer, or shellfish.
+Hepatitis A and hepatitis E usually spread through contact with [food](Foodborne%20Illness.md) or water that was contaminated with an infected person's stool. You can also get hepatitis E by eating undercooked pork, deer, or shellfish.
 
 Hepatitis B, hepatitis C, and hepatitis D spread through contact with the blood of someone who has the disease. Hepatitis B and D may also spread through contact with other body fluids. This can happen in many ways, such as sharing drug needles or having unprotected sex.
 
@@ -29,21 +29,21 @@ The risks are different for the different types of hepatitis. For example, with 
 
 Some people with hepatitis do not have symptoms and do not know they are infected. If you do have symptoms, they may include:
 
-- [Fever](https://medlineplus.gov/fever.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Fever](Fever.md)
+- [Fatigue](Fatigue.md)
 - Loss of appetite
-- [Nausea and/or vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Abdominal pain](https://medlineplus.gov/abdominalpain.html)
+- [Nausea and/or vomiting](Nausea%20and%20Vomiting.md)
+- [Abdominal pain](Abdominal%20Pain.md)
 - Dark urine
 - Clay-colored bowel movements
 - Joint pain
-- [Jaundice](https://medlineplus.gov/jaundice.html), yellowing of your skin and eyes
+- [Jaundice](Jaundice.md), yellowing of your skin and eyes
 
 If you have an acute infection, your symptoms can start anywhere between 2 weeks to 6 months after you got infected. If you have a chronic infection, you may not have symptoms until many years later.
 
 #### What other problems can hepatitis cause?
 
-Chronic hepatitis can lead to complications such as [cirrhosis](https://medlineplus.gov/cirrhosis.html) (scarring of the liver), liver failure, and [liver cancer](https://medlineplus.gov/livercancer.html). Early diagnosis and treatment of chronic hepatitis may prevent these complications.
+Chronic hepatitis can lead to complications such as [cirrhosis](Cirrhosis.md) (scarring of the liver), liver failure, and [liver cancer](Liver%20Cancer.md). Early diagnosis and treatment of chronic hepatitis may prevent these complications.
 
 #### How is hepatitis diagnosed?
 
@@ -51,15 +51,15 @@ To diagnose hepatitis, your health care provider:
 
 - Will ask about your symptoms and medical history
 - Will do a physical exam
-- Will likely do blood tests, including [tests for viral hepatitis](https://medlineplus.gov/lab-tests/hepatitis-panel/)
-- Might do [imaging tests](https://medlineplus.gov/diagnosticimaging.html), such as an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/), [CT scan](https://medlineplus.gov/ctscans.html), or [MRI](https://medlineplus.gov/mriscans.html)
-- May need to do a liver [biopsy](https://medlineplus.gov/biopsy.html) to get a clear diagnosis and check for liver damage
+- Will likely do blood tests, including tests for viral hepatitis
+- Might do [imaging tests](Diagnostic%20Imaging.md), such as an ultrasound, [CT scan](CT%20Scans.md), or [MRI](MRI%20Scans.md)
+- May need to do a liver [biopsy](Biopsy.md) to get a clear diagnosis and check for liver damage
 
 #### What are the treatments for hepatitis?
 
 Treatment for hepatitis depends on which type you have and whether it is acute or chronic. Acute viral hepatitis often goes away on its own. To feel better, you may just need to rest and get enough fluids. But in some cases, it may be more serious. You might even need treatment in a hospital.
 
-There are different medicines to treat the different chronic types of hepatitis. Possible other treatments may include surgery and other medical procedures. People who have alcoholic hepatitis need to stop drinking. If your chronic hepatitis leads to liver failure or liver cancer, you may need a [liver transplant](https://medlineplus.gov/livertransplantation.html).
+There are different medicines to treat the different chronic types of hepatitis. Possible other treatments may include surgery and other medical procedures. People who have alcoholic hepatitis need to stop drinking. If your chronic hepatitis leads to liver failure or liver cancer, you may need a [liver transplant](Liver%20Transplantation.md).
 
 #### Can hepatitis be prevented?
 
@@ -69,12 +69,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Hepatitis A
-- Hepatitis B
-- Hepatitis C
-- Liver Diseases
-- Liver Transplantation
+- [Hepatitis A](Hepatitis%20A.md)
+- [Hepatitis B](Hepatitis%20B.md)
+- [Hepatitis C](Hepatitis%20C.md)
+- [Liver Diseases](Liver%20Diseases.md)
+- [Liver Transplantation](Liver%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hepatitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hepatitis.html). General information, not medical advice.*

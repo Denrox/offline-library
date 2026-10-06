@@ -4,7 +4,7 @@
 
 #### What is hepatitis?
 
-[Hepatitis](https://medlineplus.gov/hepatitis.html) is inflammation of the [liver](https://medlineplus.gov/liverdiseases.html). Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
+[Hepatitis](Hepatitis.md) is inflammation of the [liver](Liver%20Diseases.md). Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
 
 #### What is hepatitis B?
 
@@ -26,9 +26,9 @@ Anyone can get hepatitis B, but the risk is higher in:
 - Men who have sex with men
 - People who live with someone who has hepatitis B, especially if they use the same razor, toothbrush, or nail clippers
 - Health care and public-safety workers who are exposed to blood on the job
-- [Hemodialysis](https://medlineplus.gov/dialysis.html) patients
+- [Hemodialysis](Dialysis.md) patients
 - People who have lived in or traveled often to parts of the world where hepatitis B is common
-- People who have [diabetes](https://medlineplus.gov/diabetes.html), [hepatitis C](https://medlineplus.gov/hepatitisc.html), or [HIV](https://medlineplus.gov/hiv.html)
+- People who have [diabetes](Diabetes.md), [hepatitis C](Hepatitis%20C.md), or [HIV](HIV.md)
 
 #### What are the symptoms of hepatitis B?
 
@@ -37,15 +37,15 @@ Often, people with hepatitis B don't have symptoms. Adults and children over 5 a
 Some people with acute hepatitis B have symptoms 2 to 5 months after infection. These symptoms can include:
 
 - Dark yellow urine
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Diarrhea](Diarrhea.md)
+- [Fatigue](Fatigue.md)
 - Fever
 - Gray- or clay-colored stools
 - Joint pain
 - Loss of appetite
-- [Nausea and/or vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Abdominal pain](https://medlineplus.gov/abdominalpain.html)
-- Yellowish eyes and skin, called [jaundice](https://medlineplus.gov/jaundice.html)
+- [Nausea and/or vomiting](Nausea%20and%20Vomiting.md)
+- [Abdominal pain](Abdominal%20Pain.md)
+- Yellowish eyes and skin, called [jaundice](Jaundice.md)
 
 If you have chronic hepatitis B, you may not have symptoms until complications develop. This could be decades after you were infected. For this reason, hepatitis B screening is important, even if you have no symptoms. Screening means that you are tested for a disease even though you don't have symptoms. If you are at high risk, your health care provider may suggest screening.
 
@@ -53,7 +53,7 @@ If you have chronic hepatitis B, you may not have symptoms until complications d
 
 In rare cases, acute hepatitis B can cause liver failure.
 
-Chronic hepatitis B can develop into a serious disease that causes long-term health problems such as [cirrhosis](https://medlineplus.gov/cirrhosis.html) (scarring of the liver), [liver cancer](https://medlineplus.gov/livercancer.html), and liver failure.
+Chronic hepatitis B can develop into a serious disease that causes long-term health problems such as [cirrhosis](Cirrhosis.md) (scarring of the liver), [liver cancer](Liver%20Cancer.md), and liver failure.
 
 If you have ever had hepatitis B, the virus may become active again, or reactivated, later in life. This could start to damage the liver and cause symptoms.
 
@@ -63,7 +63,7 @@ To diagnose hepatitis B, your health care provider may use many tools to make a 
 
 - A medical history, which includes asking about your symptoms
 - A physical exam
-- Blood tests, including [tests for viral hepatitis](https://medlineplus.gov/lab-tests/hepatitis-panel/)
+- Blood tests, including tests for viral hepatitis
 
 #### What are the treatments for hepatitis B?
 
@@ -77,9 +77,9 @@ You can also reduce your chance of hepatitis B infection by:
 
 - Not sharing drug needles or other drug materials
 - Wearing gloves if you have to touch another person's blood or open sores
-- Making sure your [tattoo artist or body piercer](https://medlineplus.gov/piercingandtattoos.html) uses sterile tools
+- Making sure your [tattoo artist or body piercer](Piercing%20and%20Tattoos.md) uses sterile tools
 - Not sharing personal items, such as toothbrushes, razors, or nail clippers
-- Using a latex condom during sex. If your or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+- Using a latex condom during sex. If your or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 
 If you think you have been in contact with the hepatitis B virus, see your health care provider right away. Your provider may give you a dose of the hepatitis B vaccine to prevent infection. In some cases, your provider may also give you a medicine called hepatitis B immune globulin (HBIG). You need to get the vaccine and the HBIG (if needed) as soon as possible after coming into contact with the virus. It is best if you can get them within 24 hours.
 
@@ -87,10 +87,10 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Hepatitis
-- Hepatitis A
-- Hepatitis C
+- [Hepatitis](Hepatitis.md)
+- [Hepatitis A](Hepatitis%20A.md)
+- [Hepatitis C](Hepatitis%20C.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hepatitisb.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hepatitisb.html). General information, not medical advice.*

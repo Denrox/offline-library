@@ -2,7 +2,7 @@
 
 #### What is iron?
 
-Iron is a [mineral](https://medlineplus.gov/minerals.html) that our bodies need for growth and development. Your body uses iron to make hemoglobin, a protein in red blood cells. Hemoglobin carries oxygen from the lungs to all parts of the body. Iron is also important for healthy muscles, bone marrow, and organ function. Your body also needs iron to make some [hormones](https://medlineplus.gov/hormones.html).
+Iron is a [mineral](Minerals.md) that our bodies need for growth and development. Your body uses iron to make hemoglobin, a protein in red blood cells. Hemoglobin carries oxygen from the lungs to all parts of the body. Iron is also important for healthy muscles, bone marrow, and organ function. Your body also needs iron to make some [hormones](Hormones.md).
 
 #### How do you get iron?
 
@@ -21,36 +21,36 @@ Most people in the United States get enough iron. The amount that you need each 
 
 Sometimes people can have trouble getting enough iron. There can be many causes, including blood loss, a poor diet, or a problem absorbing enough iron from foods. Those who are more likely to have low iron include people who:
 
-- Have heavy [periods](https://medlineplus.gov/menstruation.html)
-- Are [pregnant](https://medlineplus.gov/pregnancy.html) or [breastfeeding](https://medlineplus.gov/breastfeeding.html)
-- Are infants (especially if they were born [premature](https://medlineplus.gov/prematurebabies.html) or [low birth weight](https://medlineplus.gov/birthweight.html))
-- Are frequent [blood donors](https://medlineplus.gov/bloodtransfusionanddonation.html)
-- Have [cancer](https://medlineplus.gov/cancer.html), certain [digestive diseases](https://medlineplus.gov/digestivediseases.html), or [heart failure](https://medlineplus.gov/heartfailure.html)
-- Are on [kidney dialysis](https://medlineplus.gov/dialysis.html)
+- Have heavy [periods](Menstruation.md)
+- Are [pregnant](Pregnancy.md) or [breastfeeding](Breastfeeding.md)
+- Are infants (especially if they were born [premature](Premature%20Babies.md) or [low birth weight](Birth%20Weight.md))
+- Are frequent [blood donors](Blood%20Transfusion%20and%20Donation.md)
+- Have [cancer](Cancer.md), certain [digestive diseases](Digestive%20Diseases.md), or [heart failure](Heart%20Failure.md)
+- Are on [kidney dialysis](Dialysis.md)
 - Have trouble absorbing iron because they:
 
- - Have a digestive condition such as [celiac disease](https://medlineplus.gov/celiacdisease.html), [ulcerative colitis](https://medlineplus.gov/ulcerativecolitis.html), [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), or [Helicobacter pylori infection](https://medlineplus.gov/helicobacterpyloriinfections.html)
- - Had [weight loss surgery](https://medlineplus.gov/weightlosssurgery.html)
+ - Have a digestive condition such as [celiac disease](Celiac%20Disease.md), [ulcerative colitis](Ulcerative%20Colitis.md), [Crohn's disease](Crohn%27s%20Disease.md), or [Helicobacter pylori infection](Helicobacter%20pylori%20Infections.md)
+ - Had [weight loss surgery](Weight%20Loss%20Surgery.md)
 
 #### What happens if you don't get enough iron?
 
-If you have too little iron, you may develop iron-deficiency [anemia](https://medlineplus.gov/anemia.html). It may not cause symptoms at first, but over time, it can cause [fatigue](https://medlineplus.gov/fatigue.html), [shortness of breath](https://medlineplus.gov/breathingproblems.html), and trouble with [memory](https://medlineplus.gov/memory.html) and concentration. Treatment for low iron and iron-deficiency anemia is usually with iron supplements.
+If you have too little iron, you may develop iron-deficiency [anemia](Anemia.md). It may not cause symptoms at first, but over time, it can cause [fatigue](Fatigue.md), [shortness of breath](Breathing%20Problems.md), and trouble with [memory](Memory.md) and concentration. Treatment for low iron and iron-deficiency anemia is usually with iron supplements.
 
 #### What happens if you get too much iron?
 
-Too much iron can damage your body. For example, if you are healthy and take too many iron supplements, you may have symptoms such as [constipation](https://medlineplus.gov/constipation.html), [nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html), [abdominal (belly) pain](abdominalpain.html), and [diarrhea](https://medlineplus.gov/diarrhea.html). Higher iron levels can cause [ulcers](https://medlineplus.gov/pepticulcer.html). Extremely high levels can lead to organ damage, [coma](https://medlineplus.gov/coma.html), and death.
+Too much iron can damage your body. For example, if you are healthy and take too many iron supplements, you may have symptoms such as [constipation](Constipation.md), [nausea and vomiting](Nausea%20and%20Vomiting.md), abdominal (belly) pain, and [diarrhea](Diarrhea.md). Higher iron levels can cause [ulcers](Peptic%20Ulcer.md). Extremely high levels can lead to organ damage, [coma](Coma.md), and death.
 
-A disease called [hemochromatosis](https://medlineplus.gov/hemochromatosis.html) can cause too much iron to build up in the body. Hemochromatosis is inherited (passed down through families). It is usually treated by removing blood (and iron) from your body on a regular basis.
+A disease called [hemochromatosis](Hemochromatosis.md) can cause too much iron to build up in the body. Hemochromatosis is inherited (passed down through families). It is usually treated by removing blood (and iron) from your body on a regular basis.
 
 NIH: National Institutes of Health, Office of Dietary Supplements
 
 ## Related topics
 
-- Anemia
-- Hemochromatosis
-- Minerals
-- Thalassemia
+- [Anemia](Anemia.md)
+- [Hemochromatosis](Hemochromatosis.md)
+- [Minerals](Minerals.md)
+- [Thalassemia](Thalassemia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/iron.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/iron.html). General information, not medical advice.*

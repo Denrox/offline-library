@@ -1,6 +1,6 @@
 # Pancreatic Cancer
 
-The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control [blood sugar](https://medlineplus.gov/bloodglucose.html) levels. Pancreatic cancer usually begins in the cells that produce the juices. Some risk factors for developing pancreatic cancer include:
+The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control [blood sugar](Blood%20Glucose.md) levels. Pancreatic cancer usually begins in the cells that produce the juices. Some risk factors for developing pancreatic cancer include:
 
 - Smoking
 - Long-term diabetes
@@ -15,8 +15,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Pancreatic Diseases
+- [Pancreatic Diseases](Pancreatic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pancreaticcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pancreaticcancer.html). General information, not medical advice.*

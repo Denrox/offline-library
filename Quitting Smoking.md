@@ -4,9 +4,9 @@
 
 #### What are the health risks of smoking tobacco?
 
-Quitting [smoking](https://medlineplus.gov/smoking.html) is important for your health. Besides being the leading cause of [cancer](https://medlineplus.gov/cancer.html) in the United States, smoking tobacco harms most organs of your body and causes many other health problems.
+Quitting [smoking](Smoking.md) is important for your health. Besides being the leading cause of [cancer](Cancer.md) in the United States, smoking tobacco harms most organs of your body and causes many other health problems.
 
-Tobacco smoke contains many chemicals and can even be harmful even if you don't smoke. Exposure to [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html) can increase the risk of cancer and other diseases. If you're [pregnant](https://medlineplus.gov/pregnancyandsubstanceuse.html), it can harm your fetus.
+Tobacco smoke contains many chemicals and can even be harmful even if you don't smoke. Exposure to [secondhand smoke](Secondhand%20Smoke.md) can increase the risk of cancer and other diseases. If you're [pregnant](Pregnancy%20and%20Substance%20Use.md), it can harm your fetus.
 
 It can be difficult to quit smoking. That's because smoking also causes addiction to nicotine, a stimulant drug in tobacco. Nicotine addiction makes it harder to stop, but quitting smoking can improve the quality and length of your life.
 
@@ -34,7 +34,7 @@ There are many ways to quit smoking. Common methods used to help quit smoking in
 
 You may need to try different things, but a mixture of counseling and quit-smoking medicine has been shown to be the best method.
 
-Some people think that switching to [e-cigarettes](https://medlineplus.gov/ecigarettes.html) can help to quit smoking, but that has not been proven. These battery-operated smoking devices look like cigarettes but work differently. Using an e-cigarette is called vaping. Researchers still have a lot to learn about the health effects of using e-cigarettes.
+Some people think that switching to [e-cigarettes](E-Cigarettes.md) can help to quit smoking, but that has not been proven. These battery-operated smoking devices look like cigarettes but work differently. Using an e-cigarette is called vaping. Researchers still have a lot to learn about the health effects of using e-cigarettes.
 
 When you stop or cut back on smoking, you may have short-term effects such as irritability, anxiety, moodiness, weight gain, or trouble sleeping. These are called withdrawal symptoms. You can work with your provider to help reduce these symptoms and find the best way for you to quit.
 
@@ -42,8 +42,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Smoking
+- [Smoking](Smoking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/quittingsmoking.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/quittingsmoking.html). General information, not medical advice.*

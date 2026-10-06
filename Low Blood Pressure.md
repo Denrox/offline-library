@@ -6,15 +6,15 @@ You've probably heard that high blood pressure is a problem. Sometimes blood pre
 
 Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps out blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is the diastolic pressure. Your blood pressure reading uses these two numbers. Usually they're written one above or before the other, such as 120/80. If your blood pressure reading is 90/60 or lower, you have low blood pressure.
 
-Some people have low blood pressure all the time. They have no symptoms and their low readings are normal for them. In other people, blood pressure drops below normal because of a medical condition or certain medicines. Some people may have symptoms of low blood pressure when standing up too quickly. Low blood pressure is a problem only if it causes [dizziness](https://medlineplus.gov/dizzinessandvertigo.html), [fainting](https://medlineplus.gov/fainting.html) or in extreme cases, [shock](https://medlineplus.gov/shock.html).
+Some people have low blood pressure all the time. They have no symptoms and their low readings are normal for them. In other people, blood pressure drops below normal because of a medical condition or certain medicines. Some people may have symptoms of low blood pressure when standing up too quickly. Low blood pressure is a problem only if it causes [dizziness](Dizziness%20and%20Vertigo.md), [fainting](Fainting.md) or in extreme cases, [shock](Shock.md).
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Autonomic Nervous System Disorders
-- High Blood Pressure
+- [Autonomic Nervous System Disorders](Autonomic%20Nervous%20System%20Disorders.md)
+- [High Blood Pressure](High%20Blood%20Pressure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lowbloodpressure.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lowbloodpressure.html). General information, not medical advice.*

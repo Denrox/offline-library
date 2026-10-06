@@ -2,7 +2,7 @@
 
 #### What is malnutrition?
 
-Malnutrition means that your body isn't getting enough calories or the right balance of [nutrients](https://medlineplus.gov/nutrition.html) to stay healthy. This can happen if you don't get enough [protein](https://medlineplus.gov/dietaryproteins.html), [carbohydrates](https://medlineplus.gov/carbohydrates.html), and [fats](https://medlineplus.gov/dietaryfats.html), eat too much unhealthy food, or don't get the [vitamins](https://medlineplus.gov/vitamins.html) and [minerals](https://medlineplus.gov/minerals.html) your body needs.
+Malnutrition means that your body isn't getting enough calories or the right balance of [nutrients](Nutrition.md) to stay healthy. This can happen if you don't get enough [protein](Dietary%20Proteins.md), [carbohydrates](Carbohydrates.md), and [fats](Dietary%20Fats.md), eat too much unhealthy food, or don't get the [vitamins](Vitamins.md) and [minerals](Minerals.md) your body needs.
 
 Malnutrition can affect people of all ages, but children, older adults, and people with chronic (long-term) health problems have a higher risk.
 
@@ -14,16 +14,16 @@ Types of malnutrition include:
 
 - **Protein-energy undernutrition**, also called macronutrient undernutrition, happens when your body doesn't get enough protein or calories from food. Two serious forms of this are kwashiorkor and marasmus.
 - **An imbalanced nutritional status** occurs when you are not getting the right mix of nutrients. You may get enough calories, but not enough vitamins or minerals.
-- **Vitamin deficiency diseases** happen when your body doesn't get enough of certain vitamins. Without the right vitamins, your body cannot stay healthy and may develop specific diseases. For example, scurvy can develop from too little [vitamin C](https://medlineplus.gov/vitaminc.html), [rickets](https://medlineplus.gov/rickets.html) from too little [vitamin D](https://medlineplus.gov/vitamind.html), and [anemia](https://medlineplus.gov/anemia.html) from too little [iron](https://medlineplus.gov/iron.html) or vitamin [B12](https://medlineplus.gov/bvitamins.html).
-- **Failure to thrive** occurs when children don't gain weight or [grow as expected](https://medlineplus.gov/growthdisorders.html). This may be due to not getting enough food, trouble [absorbing nutrients](https://medlineplus.gov/malabsorptionsyndromes.html), or other health problems.
-- **Overnutrition** can occur when your body gets too many calories or nutrients. This may lead to [obesity](https://medlineplus.gov/obesity.html) or other health issues.
+- **Vitamin deficiency diseases** happen when your body doesn't get enough of certain vitamins. Without the right vitamins, your body cannot stay healthy and may develop specific diseases. For example, scurvy can develop from too little [vitamin C](Vitamin%20C.md), [rickets](Rickets.md) from too little [vitamin D](Vitamin%20D.md), and [anemia](Anemia.md) from too little [iron](Iron.md) or vitamin [B12](B%20Vitamins.md).
+- **Failure to thrive** occurs when children don't gain weight or [grow as expected](Growth%20Disorders.md). This may be due to not getting enough food, trouble [absorbing nutrients](Malabsorption%20Syndromes.md), or other health problems.
+- **Overnutrition** can occur when your body gets too many calories or nutrients. This may lead to [obesity](Obesity.md) or other health issues.
 
 #### What causes malnutrition?
 
 Malnutrition may occur for many reasons, including:
 
 - An unbalanced diet that lacks variety or specific nutrients.
-- Some medical issues, which could include malabsorption syndromes, [dementia](https://medlineplus.gov/dementia.html), [eating disorders](https://medlineplus.gov/eatingdisorders.html), [depression](https://medlineplus.gov/depression.html), [alcohol use disorder (AUD)](alcoholusedisorderaud.html), or [cancer](https://medlineplus.gov/cancer.html).
+- Some medical issues, which could include malabsorption syndromes, [dementia](Dementia.md), [eating disorders](Eating%20Disorders.md), [depression](Depression.md), alcohol use disorder (AUD), or [cancer](Cancer.md).
 - Problems with swallowing, digestion, or dental issues.
 - Certain medicines that affect how food tastes and smells.
 - Not being able to get food or cook due to things such as chronic illness, mobility issues, or low income.
@@ -34,7 +34,7 @@ Malnutrition can affect anyone, but some people have a higher risk than others. 
 
 - Don't have enough knowledge about nutrition
 - Don't have access to a variety of food
-- Are [older adults](https://medlineplus.gov/nutritionforolderadults.html) or children
+- Are [older adults](Nutrition%20for%20Older%20Adults.md) or children
 - Have a low income
 - Have a chronic (long-term) illness
 
@@ -42,10 +42,10 @@ Malnutrition can affect anyone, but some people have a higher risk than others. 
 
 The symptoms of malnutrition can vary. You may have no symptoms, but if you do, they may include:
 
-- [Fatigue](https://medlineplus.gov/fatigue.html) and weakness
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Fatigue](Fatigue.md) and weakness
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Losing weight without trying
-- Low [body weight](https://medlineplus.gov/bodyweight.html)
+- Low [body weight](Body%20Weight.md)
 - Slow growth or development in children
 - Frequent infections or slow healing
 - Dry skin or brittle hair and nails
@@ -69,16 +69,16 @@ To help prevent malnutrition, eat a healthy diet with many different foods. Talk
 
 ## Related topics
 
-- Body Weight
-- Child Nutrition
-- Infant and Newborn Nutrition
-- Malabsorption Syndromes
-- Minerals
-- Nutrition
-- Nutrition for Older Adults
-- Vitamin D Deficiency
-- Vitamins
+- [Body Weight](Body%20Weight.md)
+- [Child Nutrition](Child%20Nutrition.md)
+- [Infant and Newborn Nutrition](Infant%20and%20Newborn%20Nutrition.md)
+- [Malabsorption Syndromes](Malabsorption%20Syndromes.md)
+- [Minerals](Minerals.md)
+- [Nutrition](Nutrition.md)
+- [Nutrition for Older Adults](Nutrition%20for%20Older%20Adults.md)
+- [Vitamin D Deficiency](Vitamin%20D%20Deficiency.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/malnutrition.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/malnutrition.html). General information, not medical advice.*

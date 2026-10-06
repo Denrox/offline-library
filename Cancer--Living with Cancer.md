@@ -2,7 +2,7 @@
 
 #### Learning to live with cancer
 
-[Cancer](https://medlineplus.gov/cancer.html) is a common disease. Many Americans will be diagnosed with cancer during their lifetimes. Even though cancer may be life-threatening, many people have successful treatment. Others live with cancer for a very long time.
+[Cancer](Cancer.md) is a common disease. Many Americans will be diagnosed with cancer during their lifetimes. Even though cancer may be life-threatening, many people have successful treatment. Others live with cancer for a very long time.
 
 For most people with cancer, learning to live with the disease is one of the biggest challenges they've ever faced. That's because having cancer touches just about every part of your life and the lives of those around you.
 
@@ -20,18 +20,18 @@ Having cancer may cause a range of strong emotions, such as sadness, anger, fear
 
 - Talking openly with someone you trust
 - Writing about your feelings
-- Using relaxation methods, such as meditation and other [complementary and alternative medicine](https://medlineplus.gov/canceralternativetherapies.html) (CAM)
+- Using relaxation methods, such as meditation and other [complementary and alternative medicine](Cancer%20Alternative%20Therapies.md) (CAM)
 - Doing the things you enjoy, giving yourself a break from focusing on cancer
 
-If your emotions seem to take over your life, tell your provider. You may need extra support if you have symptoms of [depression](https://medlineplus.gov/depression.html), [stress](https://medlineplus.gov/stress.html), [anxiety](https://medlineplus.gov/anxiety.html), or [panic disorder](https://medlineplus.gov/panicdisorder.html).
+If your emotions seem to take over your life, tell your provider. You may need extra support if you have symptoms of [depression](Depression.md), [stress](Stress.md), [anxiety](Anxiety.md), or [panic disorder](Panic%20Disorder.md).
 
 #### Communicating with your health care team
 
 During cancer treatment, you usually have a team of providers. Along with doctors and nurses, you may be able to talk with social workers, pharmacists, dietitians, and other health professionals.
 
-These professionals are prepared to help you deal with the issues that cancer brings up, including concerns about [finances](https://medlineplus.gov/financialassistance.html). But it's up to you to let your team know what's on your mind.
+These professionals are prepared to help you deal with the issues that cancer brings up, including concerns about [finances](Financial%20Assistance.md). But it's up to you to let your team know what's on your mind.
 
-[Good communication with your providers](https://medlineplus.gov/talkingwithyourdoctor.html) may help you feel more in control and satisfied with your care. Your communications may be better if you:
+[Good communication with your providers](Talking%20With%20Your%20Doctor.md) may help you feel more in control and satisfied with your care. Your communications may be better if you:
 
 - **Tell your providers how much you want to know about your cancer and its treatment.** Do you want all the details or just the big picture?
 - **Write down your questions and concerns before your visits.**
@@ -41,19 +41,19 @@ These professionals are prepared to help you deal with the issues that cancer br
 
 Cancer changes the daily routines and roles of the people who love and support you. They may need to start doing the things you've always done for them. And you may need their help doing things you've always done for yourself. These changes can be difficult for everyone.
 
-It may help to have an honest talk about changing roles and needs. If that sounds too hard, ask a social worker or another member of your care team to help you talk with family and friends who are helping with your care. These [caregivers may need some support](https://medlineplus.gov/caregiverhealth.html), too.
+It may help to have an honest talk about changing roles and needs. If that sounds too hard, ask a social worker or another member of your care team to help you talk with family and friends who are helping with your care. These [caregivers may need some support](Caregiver%20Health.md), too.
 
 #### Dealing with changes in your self-image
 
 Cancer and its treatment may cause some big changes in how you look, feel, and think about yourself. For example, you may have:
 
 - Less energy
-- Temporary or permanent changes in your body, such as [scars](https://medlineplus.gov/scars.html), or [hair loss](https://medlineplus.gov/hairloss.html) from [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
-- [Problems being sexually close](https://medlineplus.gov/sexualhealth.html) or doubts about dating
+- Temporary or permanent changes in your body, such as [scars](Scars.md), or [hair loss](Hair%20Loss.md) from [chemotherapy](Cancer%20Chemotherapy.md)
+- [Problems being sexually close](Sexual%20Health.md) or doubts about dating
 
-Coping with these changes can be hard. But most people find [ways to feel more positive](https://medlineplus.gov/howtoimprovementalhealth.html) over time. If you feel well enough, you might try:
+Coping with these changes can be hard. But most people find [ways to feel more positive](How%20to%20Improve%20Mental%20Health.md) over time. If you feel well enough, you might try:
 
-- **[Exercise](https://medlineplus.gov/benefitsofexercise.html).** Walking, yoga, or other types of movement may help you feel stronger and more in control of your body. But check with your provider first.
+- **[Exercise](Benefits%20of%20Exercise.md).** Walking, yoga, or other types of movement may help you feel stronger and more in control of your body. But check with your provider first.
 - **Staying involved in life and helping others.** Think about volunteering, hobbies, or other activities that might make you feel good about yourself.
 - **Counseling for sexual problems.** Talking with a professional, either with a partner or on your own, may help.
 
@@ -65,10 +65,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Cancer
-- Cancer Chemotherapy
-- Palliative Care
+- [Cancer](Cancer.md)
+- [Cancer Chemotherapy](Cancer%20Chemotherapy.md)
+- [Palliative Care](Palliative%20Care.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cancerlivingwithcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cancerlivingwithcancer.html). General information, not medical advice.*

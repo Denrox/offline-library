@@ -12,4 +12,4 @@ NIH: National Institute of Child Health and Human Development
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/breastfeeding.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/breastfeeding.html). General information, not medical advice.*

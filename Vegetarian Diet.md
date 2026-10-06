@@ -6,14 +6,14 @@ A vegetarian diet focuses on plants for food. These include fruits, vegetables, 
 - The lacto vegetarian diet, which includes plant foods plus dairy products
 - The lacto-ovo vegetarian diet, which includes both dairy products and eggs
 
-People who follow vegetarian diets can get all the nutrients they need. However, they must be careful to eat a wide variety of foods to meet their nutritional needs. Nutrients vegetarians may need to focus on include [protein](https://medlineplus.gov/dietaryproteins.html), [iron](https://medlineplus.gov/iron.html), [calcium](https://medlineplus.gov/calcium.html), zinc and [vitamin B12](https://medlineplus.gov/bvitamins.html).
+People who follow vegetarian diets can get all the nutrients they need. However, they must be careful to eat a wide variety of foods to meet their nutritional needs. Nutrients vegetarians may need to focus on include [protein](Dietary%20Proteins.md), [iron](Iron.md), [calcium](Calcium.md), zinc and [vitamin B12](B%20Vitamins.md).
 
 United States Department of Agriculture
 
 ## Related topics
 
-- Nutrition
+- [Nutrition](Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vegetariandiet.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vegetariandiet.html). General information, not medical advice.*

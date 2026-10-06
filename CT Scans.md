@@ -4,7 +4,7 @@
 
 #### What is a CT scan?
 
-Computed tomography (CT) is a type of medical [imaging](https://medlineplus.gov/diagnosticimaging.html) test that uses special [x-ray](https://medlineplus.gov/xrays.html) equipment to make detailed pictures of the inside of your body.
+Computed tomography (CT) is a type of medical [imaging](Diagnostic%20Imaging.md) test that uses special [x-ray](X-Rays.md) equipment to make detailed pictures of the inside of your body.
 
 A CT scan produces cross-sectional pictures, which are like slices of the body. These images show the size and structure of organs, bones, and other tissues. CT images can also be combined to create 3-dimensional (3D) views.
 
@@ -14,15 +14,15 @@ Health care providers use CT scans to diagnose, treat, and monitor many health c
 
 Your provider may suggest a CT scan for many reasons, including:
 
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones)
+- [Fractures](Fractures.md) (broken bones)
 - Cancer
 - Tumors or masses
-- [Blood clots](https://medlineplus.gov/bloodclots.html)
-- Signs of [heart disease](https://medlineplus.gov/heartdiseases.html)
+- [Blood clots](Blood%20Clots.md)
+- Signs of [heart disease](Heart%20Diseases.md)
 - Spinal conditions
 - Lung disease
 
-CT scans may also be used to find the best place to perform a [biopsy](https://medlineplus.gov/biopsy.html) or help guide certain treatments. They may also be used to check for internal bleeding or injury after trauma or to evaluate the brain for certain conditions.
+CT scans may also be used to find the best place to perform a [biopsy](Biopsy.md) or help guide certain treatments. They may also be used to check for internal bleeding or injury after trauma or to evaluate the brain for certain conditions.
 
 #### How do you prepare for a CT scan?
 
@@ -34,7 +34,7 @@ For some CT scans, you may receive a contrast material. Contrast helps certain p
 - A shot (injection)
 - An enema (placed into the rectum)
 
-CT scans use ionizing [radiation](https://medlineplus.gov/radiationexposure.html) at levels higher than a standard x-ray, but the amount is kept as low as possible. Always tell your provider if you are pregnant or think you may be pregnant.
+CT scans use ionizing [radiation](Radiation%20Exposure.md) at levels higher than a standard x-ray, but the amount is kept as low as possible. Always tell your provider if you are pregnant or think you may be pregnant.
 
 #### How is a CT scan done?
 
@@ -56,9 +56,9 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Diagnostic Imaging
-- X-Rays
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
+- [X-Rays](X-Rays.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ctscans.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ctscans.html). General information, not medical advice.*

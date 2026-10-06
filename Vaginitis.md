@@ -16,14 +16,14 @@ Bacterial vaginosis (BV) is the most common vaginal infection in women ages 15-4
 - Having unprotected sex with a new partner
 - Having many sexual partners
 
-[Yeast infections](https://medlineplus.gov/yeastinfections.html) (candidiasis) happen when too much candida grows in the vagina. Candida is the scientific name for yeast. It is a fungus that lives almost everywhere, including in your body. You may have too much growing in the vagina because of:
+[Yeast infections](Yeast%20Infections.md) (candidiasis) happen when too much candida grows in the vagina. Candida is the scientific name for yeast. It is a fungus that lives almost everywhere, including in your body. You may have too much growing in the vagina because of:
 
 - Antibiotics
 - Pregnancy
 - Diabetes, especially if it is not well-controlled
 - Corticosteroid medicines
 
-[Trichomoniasis](https://medlineplus.gov/trichomoniasis.html) can also cause vaginitis. Trichomoniasis is a common [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI). It is caused by a parasite.
+[Trichomoniasis](Trichomoniasis.md) can also cause vaginitis. Trichomoniasis is a common [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI). It is caused by a parasite.
 
 You can also have vaginitis if you are allergic or sensitive to certain products that you use. Examples include vaginal sprays, douches, spermicides, soaps, detergents, or fabric softeners. They can cause burning, itching, and discharge.
 
@@ -56,7 +56,7 @@ In some cases, you may need more tests.
 
 The treatment depends on which type of vaginitis you have.
 
-BV is treatable with [antibiotics](https://medlineplus.gov/antibiotics.html). You may get pills to swallow, or cream or gel that you put in your vagina. During treatment, you should use a condom during sex or not have sex at all.
+BV is treatable with [antibiotics](Antibiotics.md). You may get pills to swallow, or cream or gel that you put in your vagina. During treatment, you should use a condom during sex or not have sex at all.
 
 Yeast infections are usually treated with a cream or with medicine that you put inside your vagina. You can buy over-the-counter treatments for yeast infections, but you need to be sure that you do have a yeast infection and not another type of vaginitis. See your health care provider if this is the first time you have had symptoms. Even if you have had yeast infections before, it is a good idea to call your health care provider before using an over-the-counter treatment.
 
@@ -68,23 +68,23 @@ If the cause of your vaginitis is a hormonal change, your health care provider m
 
 #### Can vaginitis cause other health problems?
 
-It is important to treat BV and trichomoniasis, because having either of them can increase your risk for getting [HIV](https://medlineplus.gov/hiv.html) or another STI. If you are pregnant, BV or trichomoniasis can increase your risk for [preterm labor](https://medlineplus.gov/pretermlabor.html) and preterm birth.
+It is important to treat BV and trichomoniasis, because having either of them can increase your risk for getting [HIV](HIV.md) or another STI. If you are pregnant, BV or trichomoniasis can increase your risk for [preterm labor](Preterm%20Labor.md) and preterm birth.
 
 #### Can vaginitis be prevented?
 
 To help prevent vaginitis:
 
 - Do not douche or use vaginal sprays.
-- Use a latex condom when having sex. If your or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms.
+- Use a latex condom when having sex. If your or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms.
 - Avoid clothes that hold in heat and moisture.
 - Wear cotton underwear.
 
 ## Related topics
 
-- Trichomoniasis
-- Vaginal Diseases
-- Yeast Infections
+- [Trichomoniasis](Trichomoniasis.md)
+- [Vaginal Diseases](Vaginal%20Diseases.md)
+- [Yeast Infections](Yeast%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vaginitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vaginitis.html). General information, not medical advice.*

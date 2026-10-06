@@ -12,9 +12,9 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Eye Diseases
-- Vision Impairment and Blindness
+- [Eye Diseases](Eye%20Diseases.md)
+- [Vision Impairment and Blindness](Vision%20Impairment%20and%20Blindness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/maculardegeneration.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/maculardegeneration.html). General information, not medical advice.*

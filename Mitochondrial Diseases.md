@@ -1,6 +1,6 @@
 # Mitochondrial Diseases
 
-Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a [metabolic disorder](https://medlineplus.gov/metabolicdisorders.html), something goes wrong with this process.
+Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a [metabolic disorder](Metabolic%20Disorders.md), something goes wrong with this process.
 
 Mitochondrial diseases are a group of metabolic disorders. Mitochondria are small structures that produce energy in almost all of your cells. They make it by combining oxygen with the fuel molecules (sugars and fats) that come from your food. When the mitochondria are defective, the cells do not have enough energy. The unused oxygen and fuel molecules build up in the cells and cause damage.
 
@@ -10,11 +10,11 @@ Genetic mutations cause these diseases. They usually happen before age 20, and s
 
 ## Related topics
 
-- Amino Acid Metabolism Disorders
-- Carbohydrate Metabolism Disorders
-- Lipid Metabolism Disorders
-- Metabolic Disorders
+- [Amino Acid Metabolism Disorders](Amino%20Acid%20Metabolism%20Disorders.md)
+- [Carbohydrate Metabolism Disorders](Carbohydrate%20Metabolism%20Disorders.md)
+- [Lipid Metabolism Disorders](Lipid%20Metabolism%20Disorders.md)
+- [Metabolic Disorders](Metabolic%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mitochondrialdiseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mitochondrialdiseases.html). General information, not medical advice.*

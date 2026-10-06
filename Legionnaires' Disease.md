@@ -4,7 +4,7 @@
 
 #### What is Legionnaires' Disease?
 
-Legionnaires' disease is a serious type of [pneumonia](https://medlineplus.gov/pneumonia.html) caused by *Legionella* [bacteria](https://medlineplus.gov/bacterialinfections.html). The disease got its name when a group of people at an American Legion convention became ill with this type of pneumonia.
+Legionnaires' disease is a serious type of [pneumonia](Pneumonia.md) caused by *Legionella* [bacteria](Bacterial%20Infections.md). The disease got its name when a group of people at an American Legion convention became ill with this type of pneumonia.
 
 *Legionella* is found naturally in freshwater, such as lakes and rivers. It can also be found in soil. But people usually only get sick from it when if it grows and spreads in man-made water systems. These systems can include hot tubs, fountains, and the plumbing systems of large buildings, such as hotels or nursing homes.
 
@@ -21,12 +21,12 @@ You usually can't get infected by drinking water that contains the bacteria unle
 Most healthy people who come in contact with the bacteria do not become sick. You are more likely to develop an infection if you:
 
 - Are over the age of 50
-- Are a current or former [smoker](https://medlineplus.gov/smoking.html)
-- Have a chronic (long-lasting) disease such as [diabetes](https://medlineplus.gov/diabetes.html) or [kidney failure](https://medlineplus.gov/kidneyfailure.html)
-- Have a chronic lung disease such as [COPD](https://medlineplus.gov/copd.html) or [emphysema](https://medlineplus.gov/emphysema.html)
-- Have a [weakened immune system](https://medlineplus.gov/immunesystemanddisorders.html) due to a disease such as [HIV](https://medlineplus.gov/hiv.html) or [cancer](https://medlineplus.gov/cancer.html) or are taking medicines that suppress your immune system
+- Are a current or former [smoker](Smoking.md)
+- Have a chronic (long-lasting) disease such as [diabetes](Diabetes.md) or [kidney failure](Kidney%20Failure.md)
+- Have a chronic lung disease such as [COPD](COPD.md) or [emphysema](Emphysema.md)
+- Have a [weakened immune system](Immune%20System%20and%20Disorders.md) due to a disease such as [HIV](HIV.md) or [cancer](Cancer.md) or are taking medicines that suppress your immune system
 - Live in a long-term care facility
-- Have recently stayed in a hospital or had surgery requiring [anesthesia](https://medlineplus.gov/anesthesia.html)
+- Have recently stayed in a hospital or had surgery requiring [anesthesia](Anesthesia.md)
 
 #### What are the symptoms of Legionnaires' disease?
 
@@ -34,30 +34,30 @@ The symptoms usually show up 2 to 14 days after you were exposed to *Legionella*
 
 The symptoms of Legionnaires' disease may include:
 
-- [Cough](https://medlineplus.gov/cough.html)
-- High [fever](https://medlineplus.gov/fever.html)
+- [Cough](Cough.md)
+- High [fever](Fever.md)
 - Chills
-- [Headache](https://medlineplus.gov/headache.html)
-- [Chest pain](https://medlineplus.gov/chestpain.html)
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Diarrhea](https://medlineplus.gov/diarrhea.html)
+- [Headache](Headache.md)
+- [Chest pain](Chest%20Pain.md)
+- [Shortness of breath](Breathing%20Problems.md)
+- [Fatigue](Fatigue.md)
+- [Nausea and vomiting](Nausea%20and%20Vomiting.md)
+- [Diarrhea](Diarrhea.md)
 - Confusion
 
 #### What other problems can Legionnaires' disease cause?
 
-Legionnaires' disease can cause life-threatening complications such as [respiratory failure](https://medlineplus.gov/respiratoryfailure.html), kidney failure, and [sepsis](https://medlineplus.gov/sepsis.html).
+Legionnaires' disease can cause life-threatening complications such as [respiratory failure](Respiratory%20Failure.md), kidney failure, and [sepsis](Sepsis.md).
 
 About 1 out of every 10 people who get sick with Legionnaires' disease will die from complications of the illness.
 
 #### How is Legionnaires' disease diagnosed?
 
-To find out if you have Legionnaires' disease, your health care provider will probably order a chest [x-ray](https://medlineplus.gov/xrays.html) to see if you have pneumonia. If you do have it, lab tests such as a urine or [sputum](https://medlineplus.gov/lab-tests/sputum-culture/) test can [check for the *Legionella* bacteria.](https://medlineplus.gov/lab-tests/legionella-tests/) Your provider may also order a blood test to see if you have been exposed to the bacteria.
+To find out if you have Legionnaires' disease, your health care provider will probably order a chest [x-ray](X-Rays.md) to see if you have pneumonia. If you do have it, lab tests such as a urine or sputum test can check for the *Legionella* bacteria. Your provider may also order a blood test to see if you have been exposed to the bacteria.
 
 #### What are the treatments for Legionnaires' disease?
 
-If you have Legionnaires' disease, you will likely need care in a hospital. The treatment is with [antibiotics](https://medlineplus.gov/antibiotics.html). Most people will recover, especially if they were healthy when they got the disease. Getting treatment early can increase the chances of getting better.
+If you have Legionnaires' disease, you will likely need care in a hospital. The treatment is with [antibiotics](Antibiotics.md). Most people will recover, especially if they were healthy when they got the disease. Getting treatment early can increase the chances of getting better.
 
 #### Can Legionnaires' disease be prevented?
 
@@ -73,4 +73,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/legionnairesdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/legionnairesdisease.html). General information, not medical advice.*

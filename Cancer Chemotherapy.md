@@ -4,7 +4,7 @@
 
 Cancer chemotherapy is a type of cancer treatment. It uses medicines to destroy cancer cells.
 
-Normally, your body forms new cells as needed, replacing old cells that die. [Cancer](https://medlineplus.gov/cancer.html) cells keep growing without control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. Chemotherapy works by killing the cancer cells, stopping them from spreading, or slowing their growth.
+Normally, your body forms new cells as needed, replacing old cells that die. [Cancer](Cancer.md) cells keep growing without control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. Chemotherapy works by killing the cancer cells, stopping them from spreading, or slowing their growth.
 
 Chemotherapy is used to:
 
@@ -20,10 +20,10 @@ You may have a lot of side effects, some side effects, or none at all. It depend
 Some common side effects are:
 
 - Mouth sores
-- [Fatigue](https://medlineplus.gov/fatigue.html)
-- [Nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Fatigue](Fatigue.md)
+- [Nausea and vomiting](Nausea%20and%20Vomiting.md)
 - Pain
-- [Hair loss](https://medlineplus.gov/hairloss.html)
+- [Hair loss](Hair%20Loss.md)
 
 There are ways to prevent or control some side effects. Talk with your health care provider about how to manage them. Healthy cells usually recover after chemotherapy is over, so most side effects go away over time.
 
@@ -39,9 +39,9 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Cancer
-- Cancer Alternative Therapies
+- [Cancer](Cancer.md)
+- [Cancer Alternative Therapies](Cancer%20Alternative%20Therapies.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cancerchemotherapy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cancerchemotherapy.html). General information, not medical advice.*

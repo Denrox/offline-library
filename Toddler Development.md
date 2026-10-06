@@ -12,11 +12,11 @@ Toddlers do not develop at the same rate. There is a wide range of what is consi
 
 ## Related topics
 
-- Child Development
-- Infant and Newborn Development
-- Speech and Language Problems in Children
-- Toddler Health
+- [Child Development](Child%20Development.md)
+- [Infant and Newborn Development](Infant%20and%20Newborn%20Development.md)
+- [Speech and Language Problems in Children](Speech%20and%20Language%20Problems%20in%20Children.md)
+- [Toddler Health](Toddler%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/toddlerdevelopment.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/toddlerdevelopment.html). General information, not medical advice.*

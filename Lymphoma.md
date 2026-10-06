@@ -2,7 +2,7 @@
 
 *Also called: Non-Hodgkin lymphoma*
 
-Lymphoma is a cancer of a part of the immune system called the lymph system. There are many types of lymphoma. One type is [Hodgkin disease](https://medlineplus.gov/hodgkinlymphoma.html). The rest are called non-Hodgkin lymphomas.
+Lymphoma is a cancer of a part of the immune system called the lymph system. There are many types of lymphoma. One type is [Hodgkin disease](Hodgkin%20Lymphoma.md). The rest are called non-Hodgkin lymphomas.
 
 Non-Hodgkin lymphomas begin when a type of white blood cell, called a T cell or B cell, becomes abnormal. The cell divides again and again, making more and more abnormal cells. These abnormal cells can spread to almost any other part of the body. Most of the time, doctors don't know why a person gets non-Hodgkin lymphoma. You are at increased risk if you have a weakened immune system or have certain types of infections.
 
@@ -22,8 +22,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Hodgkin Lymphoma
+- [Hodgkin Lymphoma](Hodgkin%20Lymphoma.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/lymphoma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/lymphoma.html). General information, not medical advice.*

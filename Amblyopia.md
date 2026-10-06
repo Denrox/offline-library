@@ -4,9 +4,9 @@
 
 Amblyopia, or "lazy eye," is the most common cause of visual impairment in children. It happens when an eye fails to work properly with the brain. The eye may look normal, but the brain favors the other eye. In some cases, it can affect both eyes. Causes include:
 
-- [Strabismus](https://medlineplus.gov/eyemovementdisorders.html) - a disorder in which the two eyes don't line up in the same direction
-- [Refractive error](https://medlineplus.gov/refractiveerrors.html) in an eye - when one eye cannot focus as well as the other, because of a problem with its shape. This includes nearsightedness, farsightedness, and astigmatism.
-- [Cataract](https://medlineplus.gov/cataract.html) - a clouding in the lens of the eye
+- [Strabismus](Eye%20Movement%20Disorders.md) - a disorder in which the two eyes don't line up in the same direction
+- [Refractive error](Refractive%20Errors.md) in an eye - when one eye cannot focus as well as the other, because of a problem with its shape. This includes nearsightedness, farsightedness, and astigmatism.
+- [Cataract](Cataract.md) - a clouding in the lens of the eye
 
 It can be hard to diagnose amblyopia. It is often found during a routine vision exam.
 
@@ -16,9 +16,9 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Eye Diseases
-- Vision Impairment and Blindness
+- [Eye Diseases](Eye%20Diseases.md)
+- [Vision Impairment and Blindness](Vision%20Impairment%20and%20Blindness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/amblyopia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/amblyopia.html). General information, not medical advice.*

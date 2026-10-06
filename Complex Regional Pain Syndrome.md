@@ -2,7 +2,7 @@
 
 *Also called: CRPS, Causalgia, Reflex sympathetic dystrophy*
 
-Complex regional pain syndrome (CRPS) is a [chronic pain](https://medlineplus.gov/chronicpain.html) condition. It causes intense pain, usually in the arms, hands, legs, or feet. It may happen after an injury, either to a nerve or to tissue in the affected area. Rest and time may only make it worse.
+Complex regional pain syndrome (CRPS) is a [chronic pain](Chronic%20Pain.md) condition. It causes intense pain, usually in the arms, hands, legs, or feet. It may happen after an injury, either to a nerve or to tissue in the affected area. Rest and time may only make it worse.
 
 Symptoms in the affected area are:
 
@@ -20,4 +20,4 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/complexregionalpainsyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/complexregionalpainsyndrome.html). General information, not medical advice.*

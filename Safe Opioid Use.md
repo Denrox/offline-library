@@ -2,19 +2,19 @@
 
 #### What are opioids?
 
-Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](https://medlineplus.gov/painrelievers.html) such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug [heroin](https://medlineplus.gov/heroin.html) is also an opioid.
+Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](Pain%20Relievers.md) such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug [heroin](Heroin.md) is also an opioid.
 
-A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some providers prescribe them for [chronic pain](https://medlineplus.gov/chronicpain.html).
+A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some providers prescribe them for [chronic pain](Chronic%20Pain.md).
 
-Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, people who take opioids are at risk for [opioid use disorder (OUD)](opioidmisuseandaddiction.html) and [overdose](https://medlineplus.gov/opioidoverdose.html). These risks increase when opioids are misused. [Misuse](https://medlineplus.gov/prescriptiondrugmisuse.html) can include taking more than your prescribed dose or taking it more often, using it to get high, or taking someone else's opioids.
+Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, people who take opioids are at risk for opioid use disorder (OUD) and [overdose](Opioid%20Overdose.md). These risks increase when opioids are misused. [Misuse](Prescription%20Drug%20Misuse.md) can include taking more than your prescribed dose or taking it more often, using it to get high, or taking someone else's opioids.
 
 #### How do I know if I need to take opioid medicines?
 
 First, you need to talk with your provider about whether you need to take opioids. You should discuss:
 
-- Whether there are other medicines or [therapies](https://medlineplus.gov/nondrugpainmanagement.html) that might treat your pain
+- Whether there are other medicines or [therapies](Non-Drug%20Pain%20Management.md) that might treat your pain
 - The risks and benefits of taking opioids
-- Your medical history and if you or anyone in your family has a history of substance misuse, a [drug addiction](https://medlineplus.gov/druguseandaddiction.html), or [alcohol use disorder (AUD)](alcoholusedisorderaud.html)
+- Your medical history and if you or anyone in your family has a history of substance misuse, a [drug addiction](Drug%20Use%20and%20Addiction.md), or alcohol use disorder (AUD)
 - Any other medicines and supplements you are taking
 - How much alcohol you drink
 - If you are pregnant or planning to become pregnant
@@ -66,4 +66,4 @@ It is important to store and dispose of opioid medicines properly:
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/safeopioiduse.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/safeopioiduse.html). General information, not medical advice.*

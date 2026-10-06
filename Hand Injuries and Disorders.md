@@ -4,21 +4,21 @@ No matter how old you are or what you do for a living, you are always using your
 
 Hand problems include :
 
-- [Carpal tunnel syndrome](https://medlineplus.gov/carpaltunnelsyndrome.html) - compression of a nerve as it goes through the wrist, often making your fingers feel numb
-- Injuries that result in [fractures](https://medlineplus.gov/fractures.html) (broken bones), ruptured ligaments and [dislocations](https://medlineplus.gov/dislocations.html)
-- [Osteoarthritis](https://medlineplus.gov/osteoarthritis.html) - wear-and-tear arthritis, which can also cause deformity
-- [Tendinitis](https://medlineplus.gov/tendinitis.html) - irritation of the tendons
-- Disorders and injuries of your [fingers](https://medlineplus.gov/fingerinjuriesanddisorders.html) and thumb
+- [Carpal tunnel syndrome](Carpal%20Tunnel%20Syndrome.md) - compression of a nerve as it goes through the wrist, often making your fingers feel numb
+- Injuries that result in [fractures](Fractures.md) (broken bones), ruptured ligaments and [dislocations](Dislocations.md)
+- [Osteoarthritis](Osteoarthritis.md) - wear-and-tear arthritis, which can also cause deformity
+- [Tendinitis](Tendinitis.md) - irritation of the tendons
+- Disorders and injuries of your [fingers](Finger%20Injuries%20and%20Disorders.md) and thumb
 
 ## Related topics
 
-- Carpal Tunnel Syndrome
-- Elbow Injuries and Disorders
-- Finger Injuries and Disorders
-- Raynaud Phenomenon
-- Shoulder Injuries and Disorders
-- Wrist Injuries and Disorders
+- [Carpal Tunnel Syndrome](Carpal%20Tunnel%20Syndrome.md)
+- [Elbow Injuries and Disorders](Elbow%20Injuries%20and%20Disorders.md)
+- [Finger Injuries and Disorders](Finger%20Injuries%20and%20Disorders.md)
+- [Raynaud Phenomenon](Raynaud%20Phenomenon.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
+- [Wrist Injuries and Disorders](Wrist%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/handinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/handinjuriesanddisorders.html). General information, not medical advice.*

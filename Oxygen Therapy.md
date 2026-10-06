@@ -4,7 +4,7 @@
 
 Oxygen is a gas that your body needs to work properly. Your cells need oxygen to make energy. Your lungs absorb oxygen from the air you breathe. The oxygen enters your blood from your lungs and travels to your organs and body tissues.
 
-Certain medical conditions can cause your blood oxygen levels to be too low. Low blood oxygen may make you feel [short of breath](https://medlineplus.gov/breathingproblems.html), tired, and confused. It can also damage your body. Oxygen therapy can help you get more oxygen.
+Certain medical conditions can cause your blood oxygen levels to be too low. Low blood oxygen may make you feel [short of breath](Breathing%20Problems.md), tired, and confused. It can also damage your body. Oxygen therapy can help you get more oxygen.
 
 #### What is oxygen therapy?
 
@@ -18,13 +18,13 @@ There are portable versions of the tanks and oxygen concentrators. They can make
 
 You may need oxygen therapy if you have a condition that causes low blood oxygen, such as:
 
-- [COPD](https://medlineplus.gov/copd.html) (chronic obstructive pulmonary disease)
-- [Pneumonia](https://medlineplus.gov/pneumonia.html)
-- [COVID-19](https://medlineplus.gov/covid19coronavirusdisease2019.html)
-- A severe [asthma](https://medlineplus.gov/asthma.html) attack
-- Late-stage [heart failure](https://medlineplus.gov/heartfailure.html)
-- [Cystic fibrosis](https://medlineplus.gov/cysticfibrosis.html)
-- [Sleep apnea](https://medlineplus.gov/sleepapnea.html)
+- [COPD](COPD.md) (chronic obstructive pulmonary disease)
+- [Pneumonia](Pneumonia.md)
+- [COVID-19](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- A severe [asthma](Asthma.md) attack
+- Late-stage [heart failure](Heart%20Failure.md)
+- [Cystic fibrosis](Cystic%20Fibrosis.md)
+- [Sleep apnea](Sleep%20Apnea.md)
 
 #### What are the risks of using oxygen therapy?
 
@@ -36,10 +36,10 @@ Oxygen poses a fire risk, so you should never smoke or use flammable materials w
 
 Hyperbaric oxygen therapy (HBOT) is a different type of oxygen therapy. It involves breathing oxygen in a pressurized chamber or tube. That allows your lungs to gather up to three times more oxygen than you would get by breathing oxygen at normal air pressure. The extra oxygen moves through your blood and to your organs and body tissues.
 
-HBOT is used to treat certain serious [wounds](https://medlineplus.gov/woundsandinjuries.html), [burns](https://medlineplus.gov/burns.html), injuries, and infections. It also treats air or gas embolisms (bubbles of air in your bloodstream), decompression sickness suffered by divers, and [carbon monoxide poisoning](https://medlineplus.gov/carbonmonoxidepoisoning.html).
+HBOT is used to treat certain serious [wounds](Wounds%20and%20Injuries.md), [burns](Burns.md), injuries, and infections. It also treats air or gas embolisms (bubbles of air in your bloodstream), decompression sickness suffered by divers, and [carbon monoxide poisoning](Carbon%20Monoxide%20Poisoning.md).
 
-But some treatment centers claim that HBOT can treat almost anything, including [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html), [autism](https://medlineplus.gov/autismspectrumdisorder.html), [cancer](https://medlineplus.gov/cancer.html), and [Lyme disease](https://medlineplus.gov/lymedisease.html). The U.S. Food and Drug Administration (FDA) has not cleared or approved the use of HBOT for these conditions. There are risks to using HBOT, so always check with your provider before you try it.
+But some treatment centers claim that HBOT can treat almost anything, including [Alzheimer's disease](Alzheimer%27s%20Disease.md), [autism](Autism%20Spectrum%20Disorder.md), [cancer](Cancer.md), and [Lyme disease](Lyme%20Disease.md). The U.S. Food and Drug Administration (FDA) has not cleared or approved the use of HBOT for these conditions. There are risks to using HBOT, so always check with your provider before you try it.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/oxygentherapy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/oxygentherapy.html). General information, not medical advice.*

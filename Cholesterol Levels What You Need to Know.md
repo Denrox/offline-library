@@ -2,17 +2,17 @@
 
 #### What is cholesterol?
 
-[Cholesterol](https://medlineplus.gov/cholesterol.html) is a waxy, fat-like substance that's found in all the cells in your body. Your body needs some cholesterol to work properly. But if you have too much of it in your blood, it can stick to the walls of your arteries and narrow or even block them. This puts you at risk of [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html) and other [heart diseases](https://medlineplus.gov/heartdiseases.html).
+[Cholesterol](Cholesterol.md) is a waxy, fat-like substance that's found in all the cells in your body. Your body needs some cholesterol to work properly. But if you have too much of it in your blood, it can stick to the walls of your arteries and narrow or even block them. This puts you at risk of [coronary artery disease](Coronary%20Artery%20Disease.md) and other [heart diseases](Heart%20Diseases.md).
 
 #### How do you measure cholesterol levels?
 
-A [blood test](https://medlineplus.gov/lab-tests/cholesterol-levels/) called a lipoprotein or lipid panel can measure your cholesterol levels. Before the test, you'll need to [fast](https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/) (not eat or drink anything but water) for 9 to 12 hours. The test gives information about your:
+A blood test called a lipoprotein or lipid panel can measure your cholesterol levels. Before the test, you'll need to fast (not eat or drink anything but water) for 9 to 12 hours. The test gives information about your:
 
-- **Total cholesterol**. This is a measure of the total amount of cholesterol in your blood. It includes both low-density lipoprotein ([LDL](https://medlineplus.gov/ldlthebadcholesterol.html)) cholesterol and high-density lipoprotein ([HDL](https://medlineplus.gov/hdlthegoodcholesterol.html)) cholesterol.
+- **Total cholesterol**. This is a measure of the total amount of cholesterol in your blood. It includes both low-density lipoprotein ([LDL](LDL%20The%20Bad%20Cholesterol.md)) cholesterol and high-density lipoprotein ([HDL](HDL%20The%20Good%20Cholesterol.md)) cholesterol.
 - **LDL cholesterol.** LDL is often called "bad" cholesterol because it is the main source of cholesterol buildup and blockage in the arteries.
 - **HDL cholesterol.** HDL is often called "good" cholesterol because it helps remove cholesterol from your arteries.
 - **Non-HDL.** This number is your total cholesterol minus your HDL. Your non-HDL includes LDL and other types of cholesterol such as VLDL (very-low-density lipoprotein).
-- **[Triglycerides](https://medlineplus.gov/triglycerides.html).** This is another type of fat in your blood that can raise the risk of heart disease, especially in [women](https://medlineplus.gov/heartdiseaseinwomen.html).
+- **[Triglycerides](Triglycerides.md).** This is another type of fat in your blood that can raise the risk of heart disease, especially in [women](Heart%20Disease%20in%20Women.md).
 
 #### What do my cholesterol numbers mean?
 
@@ -68,41 +68,41 @@ When and how often you should get a cholesterol test depends on your age, risk f
 
 Many factors can affect your cholesterol levels. Some of them are things you can change:
 
-- **Diet.** Saturated [fat](https://medlineplus.gov/dietaryfats.html) and cholesterol in the food you eat make your blood cholesterol level rise. Saturated fat is the main problem, but cholesterol in foods also matters. Reducing the amount of saturated fat in your diet helps lower your blood cholesterol level. Foods that have high levels of saturated fats include red meats, full-fat dairy products, chocolate, some baked goods, and deep-fried and processed foods.
-- **Weight.** Being overweight or having [obesity](https://medlineplus.gov/obesity.html) are risk factors for heart disease. They also tend to increase your cholesterol
-- **[Lack of physical activity](https://medlineplus.gov/healthrisksofaninactivelifestyle.html).** Not being physically active is a risk factor for heart disease.
-- **[Smoking](https://medlineplus.gov/smoking.html)**. Cigarette smoking lowers your HDL cholesterol. Since HDL helps to remove cholesterol from your arteries, having a lower HDL level can contribute to a higher cholesterol level.
+- **Diet.** Saturated [fat](Dietary%20Fats.md) and cholesterol in the food you eat make your blood cholesterol level rise. Saturated fat is the main problem, but cholesterol in foods also matters. Reducing the amount of saturated fat in your diet helps lower your blood cholesterol level. Foods that have high levels of saturated fats include red meats, full-fat dairy products, chocolate, some baked goods, and deep-fried and processed foods.
+- **Weight.** Being overweight or having [obesity](Obesity.md) are risk factors for heart disease. They also tend to increase your cholesterol
+- **[Lack of physical activity](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md).** Not being physically active is a risk factor for heart disease.
+- **[Smoking](Smoking.md)**. Cigarette smoking lowers your HDL cholesterol. Since HDL helps to remove cholesterol from your arteries, having a lower HDL level can contribute to a higher cholesterol level.
 
 Some factors that you cannot change can also affect cholesterol levels, such as:
 
-- **Age.** Your cholesterol levels tend to rise as you get older. Even though it is less common, younger people, including [children and teens](https://medlineplus.gov/highcholesterolinchildrenandteens.html), can also have high cholesterol.
-- **Sex.** Between ages 20 and 39, men have a greater risk of high total cholesterol than women. But after [menopause](https://medlineplus.gov/menopause.html), a woman's risk goes up. This happens because menopause lowers levels of female hormones that may protect against high blood cholesterol.
+- **Age.** Your cholesterol levels tend to rise as you get older. Even though it is less common, younger people, including [children and teens](High%20Cholesterol%20in%20Children%20and%20Teens.md), can also have high cholesterol.
+- **Sex.** Between ages 20 and 39, men have a greater risk of high total cholesterol than women. But after [menopause](Menopause.md), a woman's risk goes up. This happens because menopause lowers levels of female hormones that may protect against high blood cholesterol.
 - **Family history.** Your genes partly determine how much cholesterol your body makes. High cholesterol can run in families.
 - **Race or ethnicity.** People from certain racial or ethnic groups may have an increased risk of high cholesterol. For example, Asian Americans are more likely to have high levels of LDL cholesterol than other groups. And non-Hispanic White people are more likely than other groups to have high levels of total cholesterol.
 
 #### How can I lower my cholesterol?
 
-You can [lower your cholesterol](https://medlineplus.gov/howtolowercholesterol.html) through heart-healthy lifestyle changes. They include a [heart-healthy eating plan](https://medlineplus.gov/howtolowercholesterolwithdiet.html), [weight management](https://medlineplus.gov/weightcontrol.html), and [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html).
+You can [lower your cholesterol](How%20to%20Lower%20Cholesterol.md) through heart-healthy lifestyle changes. They include a [heart-healthy eating plan](How%20to%20Lower%20Cholesterol%20with%20Diet.md), [weight management](Weight%20Control.md), and [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md).
 
-If the lifestyle changes alone do not lower your cholesterol enough, you may also need to take medicines. There are several types of [cholesterol-lowering medicines](https://medlineplus.gov/cholesterolmedicines.html) available, including [statins](https://medlineplus.gov/statins.html). If you take medicines to lower your cholesterol, you still should continue with the lifestyle changes.
+If the lifestyle changes alone do not lower your cholesterol enough, you may also need to take medicines. There are several types of [cholesterol-lowering medicines](Cholesterol%20Medicines.md) available, including [statins](Statins.md). If you take medicines to lower your cholesterol, you still should continue with the lifestyle changes.
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Cholesterol
-- Cholesterol Medicines
-- Dietary Fats
-- HDL: The "Good" Cholesterol
-- Heart Diseases
-- High Cholesterol in Children and Teens
-- How to Lower Cholesterol
-- How to Lower Cholesterol with Diet
-- LDL: The "Bad" Cholesterol
-- Statins
-- Triglycerides
-- VLDL Cholesterol
+- [Cholesterol](Cholesterol.md)
+- [Cholesterol Medicines](Cholesterol%20Medicines.md)
+- [Dietary Fats](Dietary%20Fats.md)
+- [HDL: The "Good" Cholesterol](HDL%20The%20Good%20Cholesterol.md)
+- [Heart Diseases](Heart%20Diseases.md)
+- [High Cholesterol in Children and Teens](High%20Cholesterol%20in%20Children%20and%20Teens.md)
+- [How to Lower Cholesterol](How%20to%20Lower%20Cholesterol.md)
+- [How to Lower Cholesterol with Diet](How%20to%20Lower%20Cholesterol%20with%20Diet.md)
+- [LDL: The "Bad" Cholesterol](LDL%20The%20Bad%20Cholesterol.md)
+- [Statins](Statins.md)
+- [Triglycerides](Triglycerides.md)
+- [VLDL Cholesterol](VLDL%20Cholesterol.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html). General information, not medical advice.*

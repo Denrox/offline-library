@@ -2,7 +2,7 @@
 
 *Also called: Residential care*
 
-Assisted living is housing and services for people who need some help with daily care. They may need help with things like dressing, bathing, taking their medicines, and cleaning. But they do not need the medical care that a [nursing home](https://medlineplus.gov/nursinghomes.html) provides. Assisted living allows the residents to live more independently.
+Assisted living is housing and services for people who need some help with daily care. They may need help with things like dressing, bathing, taking their medicines, and cleaning. But they do not need the medical care that a [nursing home](Nursing%20Homes.md) provides. Assisted living allows the residents to live more independently.
 
 Assisted living facilities sometimes have other names, such as adult care facilities or residential care facilities. They vary in size, with as few as 25 residents up to 120 residents or more. The residents usually live in their own apartments or rooms and share common areas.
 
@@ -17,15 +17,15 @@ The facilities usually offer a few different levels of care. Residents pay more 
 - Social and recreational activities
 - Transportation
 
-The residents are usually older adults, including those with [Alzheimer's](https://medlineplus.gov/alzheimersdisease.html) or other types of [dementia](https://medlineplus.gov/dementia.html). But in some cases, residents may be younger and have [mental illnesses](https://medlineplus.gov/mentaldisorders.html), [developmental disabilities](https://medlineplus.gov/developmentaldisabilities.html), or certain medical conditions.
+The residents are usually older adults, including those with [Alzheimer's](Alzheimer%27s%20Disease.md) or other types of [dementia](Dementia.md). But in some cases, residents may be younger and have [mental illnesses](Mental%20Disorders.md), [developmental disabilities](Developmental%20Disabilities.md), or certain medical conditions.
 
 NIH: National Institute on Aging
 
 ## Related topics
 
-- Home Care Services
-- Nursing Homes
+- [Home Care Services](Home%20Care%20Services.md)
+- [Nursing Homes](Nursing%20Homes.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/assistedliving.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/assistedliving.html). General information, not medical advice.*

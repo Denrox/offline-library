@@ -2,11 +2,11 @@
 
 *Also called: Diabetic neuropathy*
 
-If you have [diabetes](https://medlineplus.gov/diabetes.html), your blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), levels are too high. Over time, this can damage the covering on your nerves or the blood vessels that bring oxygen to your nerves. Damaged nerves may stop sending messages, or may send messages slowly or at the wrong times.
+If you have [diabetes](Diabetes.md), your blood glucose, or [blood sugar](Blood%20Glucose.md), levels are too high. Over time, this can damage the covering on your nerves or the blood vessels that bring oxygen to your nerves. Damaged nerves may stop sending messages, or may send messages slowly or at the wrong times.
 
 This damage is called diabetic neuropathy. Over half of people with diabetes get it. Symptoms may include:
 
-- Numbness in your hands, legs, or [feet](https://medlineplus.gov/diabeticfoot.html)
+- Numbness in your hands, legs, or [feet](Diabetic%20Foot.md)
 - Shooting pains, burning, or tingling
 - Nausea, vomiting, constipation, or diarrhea
 - Problems with sexual function
@@ -19,11 +19,11 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Diabetes
-- Diabetes Complications
-- Diabetic Foot
-- Peripheral Nerve Disorders
+- [Diabetes](Diabetes.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Diabetic Foot](Diabetic%20Foot.md)
+- [Peripheral Nerve Disorders](Peripheral%20Nerve%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabeticnerveproblems.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabeticnerveproblems.html). General information, not medical advice.*

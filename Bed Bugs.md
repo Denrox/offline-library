@@ -21,8 +21,8 @@ Environmental Protection Agency
 
 ## Related topics
 
-- Insect Bites and Stings
+- [Insect Bites and Stings](Insect%20Bites%20and%20Stings.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bedbugs.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bedbugs.html). General information, not medical advice.*

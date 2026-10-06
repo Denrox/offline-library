@@ -4,7 +4,7 @@
 
 #### What is stress?
 
-Stress is how your brain and body respond to a challenge or demand. When you are stressed, your body releases certain [hormones](https://medlineplus.gov/hormones.html). Hormones are chemicals that travel in your bloodstream and control how different parts of your body work. The hormones that are released when you are stressed make you alert and ready to act. They can raise your blood pressure, heart rate, and [blood glucose](https://medlineplus.gov/bloodglucose.html) (blood sugar) levels. This response is sometimes called a "fight or flight" response.
+Stress is how your brain and body respond to a challenge or demand. When you are stressed, your body releases certain [hormones](Hormones.md). Hormones are chemicals that travel in your bloodstream and control how different parts of your body work. The hormones that are released when you are stressed make you alert and ready to act. They can raise your blood pressure, heart rate, and [blood glucose](Blood%20Glucose.md) (blood sugar) levels. This response is sometimes called a "fight or flight" response.
 
 Everyone gets stressed from time to time. There are different types of stress. It can be short-term or long-term. It can be caused by something that happens once or something that keeps happening.
 
@@ -20,36 +20,36 @@ Causes of long-term stress include:
 
 - **Routine stress** from the demands of work, school, family needs, money problems, and other daily pressures that don't stop.
 - **Stress from sudden, difficult changes in your life,** such as divorce, illness, losing your job, or other unhappy life events that often have a long impact.
-- **Traumatic stress,** which may happen when you're in danger of serious harm or death. Examples include being in a bad accident, a war, a flood, earthquake, or other frightening event. This type of stress can cause a long-lasting problem called [post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html) (PTSD).
+- **Traumatic stress,** which may happen when you're in danger of serious harm or death. Examples include being in a bad accident, a war, a flood, earthquake, or other frightening event. This type of stress can cause a long-lasting problem called [post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md) (PTSD).
 
 #### How can long term-stress harm my health?
 
 People respond to stress in different ways. If you're stressed for a long time you may notice that you are:
 
 - Getting sick more often than usual because stress weakens your body's ability to fight germs
-- Having stomach problems or [trouble digesting food](https://medlineplus.gov/indigestion.html)
-- [Having trouble sleeping](https://medlineplus.gov/insomnia.html)
-- [Having headaches](https://medlineplus.gov/headache.html)
+- Having stomach problems or [trouble digesting food](Indigestion.md)
+- [Having trouble sleeping](Insomnia.md)
+- [Having headaches](Headache.md)
 - Feeling sad, angry, or easily upset
 
 When stress keeps going, your body acts as if you're always in danger. That's a lot of strain that may play a part in developing serious health problems, including:
 
-- [Depression](https://medlineplus.gov/depression.html)
-- [Anxiety](https://medlineplus.gov/anxiety.html)
-- [Heart disease](https://medlineplus.gov/heartdiseases.html)
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- [Diabetes](https://medlineplus.gov/diabetes.html)
+- [Depression](Depression.md)
+- [Anxiety](Anxiety.md)
+- [Heart disease](Heart%20Diseases.md)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- [Diabetes](Diabetes.md)
 
 It's possible to get used to the symptoms of stress and not even realize there's a problem. So when there's a lot of stress in your life, it's important to pay attention to how it affects you so you can do something about it.
 
 #### How can I manage long-term stress?
 
-Simple things that [improve your mental health](https://medlineplus.gov/howtoimprovementalhealth.html) may be helpful in managing long-term stress, such as:
+Simple things that [improve your mental health](How%20to%20Improve%20Mental%20Health.md) may be helpful in managing long-term stress, such as:
 
-- **[Get regular exercise.](https://medlineplus.gov/exerciseandphysicalfitness.html)** A 30-minute daily walk can help you feel better and help keep your immune system strong, so you don't get sick.
+- **[Get regular exercise.](Exercise%20and%20Physical%20Fitness.md)** A 30-minute daily walk can help you feel better and help keep your immune system strong, so you don't get sick.
 - **Try relaxing activities.** You could look for an app or wellness program that uses breathing, meditation, or muscle relaxation exercises.
-- **Get [enough sleep](https://medlineplus.gov/healthysleep.html) every night.**
-- **Avoid too much [caffeine](https://medlineplus.gov/caffeine.html).**
+- **Get [enough sleep](Healthy%20Sleep.md) every night.**
+- **Avoid too much [caffeine](Caffeine.md).**
 - **Decide what you need to do now and what can wait.** And focus on what you got done each day, not on what you weren't able to do.
 - **Ask your family or friends for support.**
 
@@ -66,7 +66,7 @@ Get help if you're having severe symptoms for 2 weeks or more, including:
 
 Always get help right away if stress is causing you to:
 
-- Have thoughts of [suicide](https://medlineplus.gov/suicide.html)
+- Have thoughts of [suicide](Suicide.md)
 - Feel you can't cope
 - Use drugs or alcohol more often than usual
 
@@ -76,10 +76,10 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Anxiety
-- Mental Health
-- Post-Traumatic Stress Disorder
+- [Anxiety](Anxiety.md)
+- [Mental Health](Mental%20Health.md)
+- [Post-Traumatic Stress Disorder](Post-Traumatic%20Stress%20Disorder.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/stress.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/stress.html). General information, not medical advice.*

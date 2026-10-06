@@ -6,20 +6,20 @@
 
 Coronary artery bypass surgery creates a new path for blood to flow to your heart. This surgery is sometimes called a coronary artery bypass graft (CABG) or heart bypass. It's the most common heart surgery in adults. You may need this surgery if you have a blocked or partially blocked artery in your heart.
 
-This surgery is often used to treat [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html) (CAD). Your coronary arteries supply blood to your heart. If you have coronary artery disease, a sticky material called plaque builds up in your coronary arteries. This can cause them to harden and narrow. When this happens, some parts of your heart don't get enough blood.
+This surgery is often used to treat [coronary artery disease](Coronary%20Artery%20Disease.md) (CAD). Your coronary arteries supply blood to your heart. If you have coronary artery disease, a sticky material called plaque builds up in your coronary arteries. This can cause them to harden and narrow. When this happens, some parts of your heart don't get enough blood.
 
-Before recommending surgery, your health care provider may try other treatments. These could include [lifestyle changes](https://medlineplus.gov/howtopreventheartdisease.html), medicines, or [angioplasty](https://medlineplus.gov/angioplasty.html), a procedure to open your arteries. If these treatments don't help, you may need coronary artery bypass surgery.
+Before recommending surgery, your health care provider may try other treatments. These could include [lifestyle changes](How%20to%20Prevent%20Heart%20Disease.md), medicines, or [angioplasty](Angioplasty.md), a procedure to open your arteries. If these treatments don't help, you may need coronary artery bypass surgery.
 
 #### Who might benefit from coronary artery bypass surgery?
 
-Your provider may recommend surgery if you have obstructive coronary artery disease to help lower your risk of a [heart attack](https://medlineplus.gov/heartattack.html). They will consider your overall health before deciding if surgery is your best option.
+Your provider may recommend surgery if you have obstructive coronary artery disease to help lower your risk of a [heart attack](Heart%20Attack.md). They will consider your overall health before deciding if surgery is your best option.
 
 You may benefit from surgery if you have:
 
-- Coronary heart disease with [angina](https://medlineplus.gov/angina.html) (chest pain)
-- [Diabetes](https://medlineplus.gov/diabetes.html)
+- Coronary heart disease with [angina](Angina.md) (chest pain)
+- [Diabetes](Diabetes.md)
 - Multiple blocked coronary arteries
-- Serious [heart failure](https://medlineplus.gov/heartfailure.html)
+- Serious [heart failure](Heart%20Failure.md)
 
 You might need emergency coronary artery bypass surgery to treat a severe heart attack.
 
@@ -38,12 +38,12 @@ Methods to perform coronary artery bypass surgery include:
 
 Like all surgery, CABG has risks even though the results are often excellent. The risks can include:
 
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html)
+- [Arrhythmia](Arrhythmia.md)
 - Bleeding
 - Heart attack
 - Infection
-- [Kidney failure](https://medlineplus.gov/kidneyfailure.html)
-- [Stroke](https://medlineplus.gov/stroke.html)
+- [Kidney failure](Kidney%20Failure.md)
+- [Stroke](Stroke.md)
 
 After coronary artery bypass surgery, many people remain symptom-free for years. You may need surgery again if blockages form in the grafted arteries or veins. Or if blockages happen in arteries that weren't blocked before. Lifestyle changes and medicines may help stop your arteries from becoming clogged again.
 
@@ -51,10 +51,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Angioplasty
-- Cardiac Rehabilitation
-- Heart Surgery
+- [Angioplasty](Angioplasty.md)
+- [Cardiac Rehabilitation](Cardiac%20Rehabilitation.md)
+- [Heart Surgery](Heart%20Surgery.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/coronaryarterybypasssurgery.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/coronaryarterybypasssurgery.html). General information, not medical advice.*

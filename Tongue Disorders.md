@@ -8,17 +8,17 @@ Problems with the tongue include:
 - Swelling
 - Changes in color or texture
 - Abnormal movement or difficulty moving the tongue
-- [Taste](https://medlineplus.gov/tasteandsmelldisorders.html) problems
+- [Taste](Taste%20and%20Smell%20Disorders.md) problems
 
 These problems can have many different causes. Treatment depends on the underlying problem.
 
 ## Related topics
 
-- Mouth Disorders
-- Oral Cancer
-- Speech and Communication Disorders
-- Taste and Smell Disorders
+- [Mouth Disorders](Mouth%20Disorders.md)
+- [Oral Cancer](Oral%20Cancer.md)
+- [Speech and Communication Disorders](Speech%20and%20Communication%20Disorders.md)
+- [Taste and Smell Disorders](Taste%20and%20Smell%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tonguedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tonguedisorders.html). General information, not medical advice.*

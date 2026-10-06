@@ -2,17 +2,17 @@
 
 #### What are islets?
 
-Islets are groups of cells in your [pancreas](https://medlineplus.gov/pancreaticdiseases.html). The pancreas is a gland behind your stomach. It makes [hormones](https://medlineplus.gov/hormones.html) that control your [blood glucose](https://medlineplus.gov/bloodglucose.html), also called blood sugar.
+Islets are groups of cells in your [pancreas](Pancreatic%20Diseases.md). The pancreas is a gland behind your stomach. It makes [hormones](Hormones.md) that control your [blood glucose](Blood%20Glucose.md), also called blood sugar.
 
 Islets are made up of several types of cells. One type is beta cells. Beta cells make a hormone called insulin. Insulin helps your cells take in glucose and keeps your blood glucose at a healthy level.
 
-In [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) attacks and destroys beta cells. This means your pancreas can no longer make insulin. Without insulin, blood glucose rises to dangerous levels. You must take insulin every day to stay alive.
+In [type 1 diabetes](Diabetes%20Type%201.md), your [immune system](Immune%20System%20and%20Disorders.md) attacks and destroys beta cells. This means your pancreas can no longer make insulin. Without insulin, blood glucose rises to dangerous levels. You must take insulin every day to stay alive.
 
 #### What is islet cell transplantation?
 
-Islet cell transplantation uses healthy islets from a [donor](https://medlineplus.gov/organdonation.html) to replace the destroyed cells in a person with type 1 diabetes. The transplanted beta cells may begin making insulin. This could reduce or eliminate the need for daily insulin shots.
+Islet cell transplantation uses healthy islets from a [donor](Organ%20Donation.md) to replace the destroyed cells in a person with type 1 diabetes. The transplanted beta cells may begin making insulin. This could reduce or eliminate the need for daily insulin shots.
 
-The U.S. Food and Drug Administration (FDA) approved islet cell transplantation in 2023. Before that, it was only available in research studies. Islet cell transplantation is not the same as a full [pancreas transplant](https://medlineplus.gov/pancreastransplantation.html).
+The U.S. Food and Drug Administration (FDA) approved islet cell transplantation in 2023. Before that, it was only available in research studies. Islet cell transplantation is not the same as a full [pancreas transplant](Pancreas%20Transplantation.md).
 
 #### How is islet cell transplantation done?
 
@@ -26,7 +26,7 @@ If you qualify, it may help with:
 
 - Better blood glucose control
 - Less need for daily insulin shots or no longer needing them
-- Better ability to feel warning signs of [low blood glucose](https://medlineplus.gov/hypoglycemia.html)
+- Better ability to feel warning signs of [low blood glucose](Hypoglycemia.md)
 - Better quality of life
 
 Talk with your health care provider about whether this treatment is right for you. They will review the benefits and risks.
@@ -39,4 +39,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/isletcelltransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/isletcelltransplantation.html). General information, not medical advice.*

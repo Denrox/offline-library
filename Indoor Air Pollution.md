@@ -2,11 +2,11 @@
 
 We usually think of air pollution as being outdoors, but the air in your house or office could also be polluted. Sources of indoor pollution include:
 
-- [Mold](https://medlineplus.gov/molds.html) and pollen
+- [Mold](Molds.md) and pollen
 - Tobacco smoke
-- [Household products](https://medlineplus.gov/householdproducts.html) and [pesticides](https://medlineplus.gov/pesticides.html)
-- Gases such as [radon](https://medlineplus.gov/radon.html) and [carbon monoxide](https://medlineplus.gov/carbonmonoxidepoisoning.html)
-- Materials used in the building such as [asbestos](https://medlineplus.gov/asbestos.html), formaldehyde and [lead](https://medlineplus.gov/leadpoisoning.html)
+- [Household products](Household%20Products.md) and [pesticides](Pesticides.md)
+- Gases such as [radon](Radon.md) and [carbon monoxide](Carbon%20Monoxide%20Poisoning.md)
+- Materials used in the building such as [asbestos](Asbestos.md), formaldehyde and [lead](Lead%20Poisoning.md)
 
 Sometimes a group of people have symptoms that seem to be linked to time spent in a certain building. There may be a specific cause, such as Legionnaire's disease. Sometimes the cause of the illness cannot be found. This is known as sick building syndrome.
 
@@ -18,16 +18,16 @@ Environmental Protection Agency
 
 ## Related topics
 
-- Air Pollution
-- Asbestos
-- Asthma
-- Carbon Monoxide Poisoning
-- Lead Poisoning
-- Molds
-- Pesticides
-- Radon
-- Secondhand Smoke
+- [Air Pollution](Air%20Pollution.md)
+- [Asbestos](Asbestos.md)
+- [Asthma](Asthma.md)
+- [Carbon Monoxide Poisoning](Carbon%20Monoxide%20Poisoning.md)
+- [Lead Poisoning](Lead%20Poisoning.md)
+- [Molds](Molds.md)
+- [Pesticides](Pesticides.md)
+- [Radon](Radon.md)
+- [Secondhand Smoke](Secondhand%20Smoke.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/indoorairpollution.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/indoorairpollution.html). General information, not medical advice.*

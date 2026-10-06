@@ -4,17 +4,17 @@
 
 Winter storms can bring extreme cold, freezing rain, snow, ice, and high winds. Staying safe and warm can be a challenge. You may have to cope with problems such as:
 
-- Cold-related health problems, including [frostbite](https://medlineplus.gov/frostbite.html) and [hypothermia](https://medlineplus.gov/hypothermia.html)
+- Cold-related health problems, including [frostbite](Frostbite.md) and [hypothermia](Hypothermia.md)
 - Household fires and carbon monoxide poisoning from space heaters and fireplaces
 - Unsafe driving conditions on icy roads
 - Power failures and loss of communication
-- [Floods](https://medlineplus.gov/floods.html) after the snow and ice melt
+- [Floods](Floods.md) after the snow and ice melt
 
 #### How can I prepare for a winter weather emergency?
 
 If there is a winter storm coming, there are things you can do to try to keep yourself and your loved ones safe:
 
-- Have a [disaster plan](https://medlineplus.gov/disasterpreparationandrecovery.html) that includes
+- Have a [disaster plan](Disaster%20Preparation%20and%20Recovery.md) that includes
 
  - Making sure that you have important phone numbers, including numbers for your health care providers, pharmacy, and veterinarian
  - Having a communication plan for your family
@@ -36,10 +36,10 @@ If there is a winter storm coming, there are things you can do to try to keep yo
  - Emergency flares or distress flags
  - Waterproof matches and a can to melt snow for water
 
-If you do experience a disaster, it is normal to feel stressed. You may need help in finding [ways to cope](https://medlineplus.gov/copingwithdisasters.html).
+If you do experience a disaster, it is normal to feel stressed. You may need help in finding [ways to cope](Coping%20with%20Disasters.md).
 
 Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/winterweatheremergencies.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/winterweatheremergencies.html). General information, not medical advice.*

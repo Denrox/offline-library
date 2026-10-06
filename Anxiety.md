@@ -13,12 +13,12 @@ Anxiety disorders are conditions in which you have anxiety that does not go away
 There are several types of anxiety disorders, including:
 
 - **Generalized anxiety disorder (GAD).** People with GAD worry about ordinary issues such as health, money, work, and family. But their worries are excessive, and they have them almost every day for at least 6 months.
-- **[Panic disorder](https://medlineplus.gov/panicdisorder.html).** People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more.
-- **[Phobias](https://medlineplus.gov/phobias.html).** People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).
+- **[Panic disorder](Panic%20Disorder.md).** People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more.
+- **[Phobias](Phobias.md).** People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).
 
 #### What causes anxiety disorders?
 
-The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry, [stress](https://medlineplus.gov/stress.html), and your environment may play a role.
+The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry, [stress](Stress.md), and your environment may play a role.
 
 #### Who is at risk for anxiety disorders?
 
@@ -26,24 +26,24 @@ The risk factors for the different types of anxiety disorders can vary. For exam
 
 - Certain personality traits, such as being shy or withdrawn when you are in new situations or meeting new people
 - Traumatic events in early childhood or adulthood
-- Family history of anxiety or other [mental disorders](https://medlineplus.gov/mentaldisorders.html)
-- Some physical health conditions, such as [thyroid problems](https://medlineplus.gov/thyroiddiseases.html) or [arrhythmia](https://medlineplus.gov/arrhythmia.html)
+- Family history of anxiety or other [mental disorders](Mental%20Disorders.md)
+- Some physical health conditions, such as [thyroid problems](Thyroid%20Diseases.md) or [arrhythmia](Arrhythmia.md)
 
 #### What are the symptoms of anxiety disorders?
 
 The different types of anxiety disorders can have different symptoms. But they all have a combination of:
 
 - Anxious thoughts or beliefs that are hard to control. They make you feel restless and tense and interfere with your daily life. They do not go away and can get worse over time.
-- Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains, [dizziness](https://medlineplus.gov/dizzinessandvertigo.html), and [shortness of breath](https://medlineplus.gov/breathingproblems.html)
+- Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains, [dizziness](Dizziness%20and%20Vertigo.md), and [shortness of breath](Breathing%20Problems.md)
 - Changes in behavior, such as avoiding everyday activities you used to do
 
-Using [caffeine](https://medlineplus.gov/caffeine.html), other substances, and certain medicines can make your symptoms worse.
+Using [caffeine](Caffeine.md), other substances, and certain medicines can make your symptoms worse.
 
 #### How are anxiety disorders diagnosed?
 
 To diagnose anxiety disorders, your health care provider will ask about your symptoms and medical history. You may also have a physical exam and lab tests to make sure that a different health problem is not the cause of your symptoms.
 
-If you don't have another health problem, you will get a [psychological evaluation](https://medlineplus.gov/lab-tests/mental-health-screening/). Your provider may do it, or you may be referred to a mental health professional to get one.
+If you don't have another health problem, you will get a psychological evaluation. Your provider may do it, or you may be referred to a mental health professional to get one.
 
 #### What are the treatments for anxiety disorders?
 
@@ -53,7 +53,7 @@ The main treatments for anxiety disorders are psychotherapy (talk therapy), medi
 
  - **Cognitive behavioral therapy (CBT),** which teaches you different ways of thinking and behaving. It can help you change how you react to the things that cause you to feel fear and anxiety. It may include exposure therapy. This therapy focuses on having you confront your fears so that you will be able to do the things that you had been avoiding.
  - **Acceptance and commitment therapy** may help with some anxiety disorders. It uses strategies such as mindfulness and goal setting to reduce discomfort and anxiety.
-- **Medicines** to treat anxiety disorders include anti-anxiety medicines and certain [antidepressants](https://medlineplus.gov/antidepressants.html). Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.
+- **Medicines** to treat anxiety disorders include anti-anxiety medicines and certain [antidepressants](Antidepressants.md). Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.
 
 Support groups and stress management techniques may also be helpful.
 
@@ -61,10 +61,10 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Panic Disorder
-- Phobias
-- Stress
+- [Panic Disorder](Panic%20Disorder.md)
+- [Phobias](Phobias.md)
+- [Stress](Stress.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anxiety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anxiety.html). General information, not medical advice.*

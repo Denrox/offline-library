@@ -20,13 +20,13 @@ You can have a cramp in any muscle, but they happen most often in the:
 Causes of muscle cramps include:
 
 - Straining or overusing a muscle. This is the most common cause.
-- Compression of your nerves, from problems such as a [spinal cord injury](https://medlineplus.gov/spinalcordinjuries.html) or a pinched nerve in the neck or back
-- [Dehydration](https://medlineplus.gov/dehydration.html)
-- Low levels of [electrolytes](https://medlineplus.gov/fluidandelectrolytebalance.html) such as magnesium, [potassium](https://medlineplus.gov/potassium.html), or [calcium](https://medlineplus.gov/calcium.html)
+- Compression of your nerves, from problems such as a [spinal cord injury](Spinal%20Cord%20Injuries.md) or a pinched nerve in the neck or back
+- [Dehydration](Dehydration.md)
+- Low levels of [electrolytes](Fluid%20and%20Electrolyte%20Balance.md) such as magnesium, [potassium](Potassium.md), or [calcium](Calcium.md)
 - Not enough blood getting to your muscles
 - Pregnancy
 - Certain medicines
-- Getting [dialysis](https://medlineplus.gov/dialysis.html)
+- Getting [dialysis](Dialysis.md)
 
 Sometimes the cause of muscle cramps is unknown.
 
@@ -38,7 +38,7 @@ Anyone can get muscle cramps, but they are more common in some people:
 - People who are overweight
 - Athletes
 - Pregnant women
-- People with certain medical conditions, such as [thyroid](https://medlineplus.gov/thyroiddiseases.html) and [nerve](https://medlineplus.gov/neurologicdiseases.html) disorders
+- People with certain medical conditions, such as [thyroid](Thyroid%20Diseases.md) and [nerve](Neurologic%20Diseases.md) disorders
 
 #### When do I need to see a health care provider for muscle cramps?
 
@@ -70,10 +70,10 @@ To prevent muscle cramps, you can:
 
 ## Related topics
 
-- Dystonia
-- Muscle Disorders
-- Sports Injuries
+- [Dystonia](Dystonia.md)
+- [Muscle Disorders](Muscle%20Disorders.md)
+- [Sports Injuries](Sports%20Injuries.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/musclecramps.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/musclecramps.html). General information, not medical advice.*

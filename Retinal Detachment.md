@@ -17,8 +17,8 @@ NIH: National Eye Institute
 
 ## Related topics
 
-- Retinal Disorders
+- [Retinal Disorders](Retinal%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/retinaldetachment.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/retinaldetachment.html). General information, not medical advice.*

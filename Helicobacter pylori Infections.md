@@ -2,13 +2,13 @@
 
 *Also called: H. pylori infections*
 
-Helicobacter pylori (H. pylori) is a type of bacteria that causes infection in the stomach. It is the main cause of [peptic ulcers](https://medlineplus.gov/pepticulcer.html), and it can also cause gastritis and [stomach cancer](https://medlineplus.gov/stomachcancer.html).
+Helicobacter pylori (H. pylori) is a type of bacteria that causes infection in the stomach. It is the main cause of [peptic ulcers](Peptic%20Ulcer.md), and it can also cause gastritis and [stomach cancer](Stomach%20Cancer.md).
 
 About 30 to 40% of people in the United States get an H. pylori infection. Most people get it as a child. H. pylori usually does not cause symptoms. But it can break down the inner protective coating in some people's stomachs and cause inflammation. This can lead to gastritis or a peptic ulcer.
 
 Researchers aren't sure how H. pylori spreads. They think that it may spread by unclean food and water, or through contact with an infected person's saliva and other body fluids.
 
-A peptic ulcer causes a dull or burning pain in your stomach, especially when you have an empty stomach. It lasts for minutes to hours, and it may come and go for several days or weeks. It may also cause other symptoms, such as bloating, nausea, and weight loss. If you have the symptoms of a peptic ulcer, your health care provider will check to see whether you have H. pylori. There are blood, breath, and stool tests to check for H. pylori. In some cases, you may need an upper [endoscopy](https://medlineplus.gov/endoscopy.html), often with a [biopsy](https://medlineplus.gov/biopsy.html).
+A peptic ulcer causes a dull or burning pain in your stomach, especially when you have an empty stomach. It lasts for minutes to hours, and it may come and go for several days or weeks. It may also cause other symptoms, such as bloating, nausea, and weight loss. If you have the symptoms of a peptic ulcer, your health care provider will check to see whether you have H. pylori. There are blood, breath, and stool tests to check for H. pylori. In some cases, you may need an upper [endoscopy](Endoscopy.md), often with a [biopsy](Biopsy.md).
 
 If you do have a peptic ulcer, the treatment is with a combination of antibiotics and acid-reducing medicines. You will need to be tested again after treatment to make sure the infection is gone.
 
@@ -22,9 +22,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Peptic Ulcer
-- Stomach Cancer
+- [Peptic Ulcer](Peptic%20Ulcer.md)
+- [Stomach Cancer](Stomach%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/helicobacterpyloriinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/helicobacterpyloriinfections.html). General information, not medical advice.*

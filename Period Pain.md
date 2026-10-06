@@ -4,7 +4,7 @@
 
 #### What are painful periods?
 
-[Menstruation](https://medlineplus.gov/menstruation.html), or period, is normal vaginal bleeding that happens as part of a woman's monthly cycle. Many women have painful periods, also called dysmenorrhea. The pain is most often menstrual cramps, which are a throbbing, cramping pain in your lower abdomen. You may also have other symptoms, such as lower back pain, nausea, diarrhea, and headaches. Period pain is not the same as [premenstrual syndrome](https://medlineplus.gov/premenstrualsyndrome.html) (PMS). PMS causes many different symptoms, including weight gain, bloating, irritability, and fatigue. PMS often starts one to two weeks before your period starts.
+[Menstruation](Menstruation.md), or period, is normal vaginal bleeding that happens as part of a woman's monthly cycle. Many women have painful periods, also called dysmenorrhea. The pain is most often menstrual cramps, which are a throbbing, cramping pain in your lower abdomen. You may also have other symptoms, such as lower back pain, nausea, diarrhea, and headaches. Period pain is not the same as [premenstrual syndrome](Premenstrual%20Syndrome.md) (PMS). PMS causes many different symptoms, including weight gain, bloating, irritability, and fatigue. PMS often starts one to two weeks before your period starts.
 
 #### What causes painful periods?
 
@@ -16,7 +16,7 @@ The pain can start a day or two before your period. It normally lasts for a few 
 
 You usually first start having period pain when you are younger, just after you begin getting periods. Often, as you get older, you have less pain. The pain may also get better after you have given birth.
 
-Secondary dysmenorrhea often starts later in life. It is caused by conditions that affect your uterus or other reproductive organs, such as [endometriosis](https://medlineplus.gov/endometriosis.html) and [uterine fibroids](https://medlineplus.gov/uterinefibroids.html). This kind of pain often gets worse over time. It may begin before your period starts and continue after your period ends.
+Secondary dysmenorrhea often starts later in life. It is caused by conditions that affect your uterus or other reproductive organs, such as [endometriosis](Endometriosis.md) and [uterine fibroids](Uterine%20Fibroids.md). This kind of pain often gets worse over time. It may begin before your period starts and continue after your period ends.
 
 #### What can I do about period pain?
 
@@ -43,7 +43,7 @@ For many women, some pain during your period is normal. However, you should cont
 
 #### How is the cause of severe period pain diagnosed?
 
-To diagnose severe period pain, your health care provider will ask you about your medical history and do a pelvic exam. You may also have an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/) or other [imaging test](https://medlineplus.gov/diagnosticimaging.html). If your health care provider thinks you have secondary dysmenorrhea, you might have [laparoscopy](https://medlineplus.gov/lab-tests/laparoscopy/). It is a surgery that lets your health care provider look inside your body.
+To diagnose severe period pain, your health care provider will ask you about your medical history and do a pelvic exam. You may also have an ultrasound or other [imaging test](Diagnostic%20Imaging.md). If your health care provider thinks you have secondary dysmenorrhea, you might have laparoscopy. It is a surgery that lets your health care provider look inside your body.
 
 #### What are treatments for severe period pain?
 
@@ -53,4 +53,4 @@ If you have secondary dysmenorrhea, your treatment depends upon the condition th
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/periodpain.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/periodpain.html). General information, not medical advice.*

@@ -4,7 +4,7 @@
 
 #### What is steatotic liver disease?
 
-Your [liver](https://medlineplus.gov/liverdiseases.html) is the largest organ inside your body. It helps you digest food, store energy, and remove harmful substances (toxins). Steatotic liver disease, formerly called fatty liver disease, happens when too much fat builds up in your liver. It's typical to have some fat in your liver cells, but too much can be a problem.
+Your [liver](Liver%20Diseases.md) is the largest organ inside your body. It helps you digest food, store energy, and remove harmful substances (toxins). Steatotic liver disease, formerly called fatty liver disease, happens when too much fat builds up in your liver. It's typical to have some fat in your liver cells, but too much can be a problem.
 
 There are two main types of steatotic liver disease:  
 - Metabolic dysfunction-associated steatotic liver disease (MASLD)
@@ -15,7 +15,7 @@ There are two main types of steatotic liver disease:
 MASLD is a type of steatotic liver disease that is not caused by heavy alcohol use. It used to be called nonalcoholic fatty liver disease. There are two main forms:
 
 - **Simple fatty liver,** in which you have fat in your liver but little or no inflammation or liver damage. This form usually does not get bad enough to cause liver damage or complications.
-- **Metabolic dysfunction-associated steatohepatitis, or MASH** (previously called nonalcoholic steatohepatitis or NASH), is when MASLD gets worse. In addition to fat in your liver, MASH may cause inflammation and liver damage. This can lead to fibrosis, or scarring, of the liver. This scarring sometimes leads to [cirrhosis](https://medlineplus.gov/cirrhosis.html) or [liver cancer](https://medlineplus.gov/livercancer.html).
+- **Metabolic dysfunction-associated steatohepatitis, or MASH** (previously called nonalcoholic steatohepatitis or NASH), is when MASLD gets worse. In addition to fat in your liver, MASH may cause inflammation and liver damage. This can lead to fibrosis, or scarring, of the liver. This scarring sometimes leads to [cirrhosis](Cirrhosis.md) or [liver cancer](Liver%20Cancer.md).
 
 #### What is alcohol-associated liver disease (ALD)?
 
@@ -27,20 +27,20 @@ Your liver breaks down most of the alcohol you drink, so it can be removed from 
 
 The cause of **MASLD **is unknown, but it is more common in people who:
 
-- Have [type 2 diabetes](https://medlineplus.gov/diabetestype2.html) and [prediabetes](https://medlineplus.gov/prediabetes.html)
-- Have [obesity](https://medlineplus.gov/obesity.html)
+- Have [type 2 diabetes](Diabetes%20Type%202.md) and [prediabetes](Prediabetes.md)
+- Have [obesity](Obesity.md)
 - Are middle aged or older (although children can also get it)
-- Have high [cholesterol](https://medlineplus.gov/cholesterol.html) or [triglycerides](https://medlineplus.gov/triglycerides.html)
-- Have [high blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- Take certain medicines, such as [corticosteroids](https://medlineplus.gov/steroids.html) and some cancer medicines
-- Have certain [metabolic disorders](https://medlineplus.gov/metabolicdisorders.html), including [metabolic syndrome](https://medlineplus.gov/metabolicsyndrome.html)
+- Have high [cholesterol](Cholesterol.md) or [triglycerides](Triglycerides.md)
+- Have [high blood pressure](High%20Blood%20Pressure.md)
+- Take certain medicines, such as [corticosteroids](Steroids.md) and some cancer medicines
+- Have certain [metabolic disorders](Metabolic%20Disorders.md), including [metabolic syndrome](Metabolic%20Syndrome.md)
 - Have rapid weight loss
-- Have certain infections, such as [hepatitis C](https://medlineplus.gov/hepatitisc.html)
+- Have certain infections, such as [hepatitis C](Hepatitis%20C.md)
 - Have been exposed to certain harmful substances
 
 **MASLD **is the most common chronic (long-term) liver disease due to increasing rates of obesity, type 2 diabetes, and high cholesterol.
 
-**ALD** only happens in people who are heavy drinkers, especially those who have been drinking for a long period of time. The risk is higher for people who [drink heavily](https://medlineplus.gov/alcoholusedisorderaud.html) and are women, have obesity, or have certain gene changes (known as variants or mutations).
+**ALD** only happens in people who are heavy drinkers, especially those who have been drinking for a long period of time. The risk is higher for people who [drink heavily](Alcohol%20Use%20Disorder%20%28AUD%29.md) and are women, have obesity, or have certain gene changes (known as variants or mutations).
 
 #### What are the symptoms of steatotic liver disease?
 
@@ -51,10 +51,10 @@ Both **MASLD** and **ALD** usually have few or no symptoms. If you do have sympt
 Because there are often no symptoms, it's not easy to find steatotic liver disease. Your health care provider may suspect you have it if you have abnormal results on liver tests. To make a diagnosis, your provider may use:
 
 - **Your medical history.** This may include asking about your alcohol use and any medicines you take.
-- **A physical exam.** This may include checking your height and weight. Your provider may also check your body for signs of liver disease such as an enlarged liver or [jaundice](https://medlineplus.gov/jaundice.html), a condition that causes your skin and whites of your eyes to turn yellow.
-- **Blood tests.** These may include [liver function tests](https://medlineplus.gov/lab-tests/liver-function-tests/) and [blood count tests](https://medlineplus.gov/bloodcounttests.html).
-- **[Imaging tests](https://medlineplus.gov/diagnosticimaging.html).** These tests may be used to check for fat in the liver and for fibrosis.
-- **A [biopsy](https://medlineplus.gov/biopsy.html).** In some cases, a biopsy may be done to confirm the diagnosis and check for liver damage.
+- **A physical exam.** This may include checking your height and weight. Your provider may also check your body for signs of liver disease such as an enlarged liver or [jaundice](Jaundice.md), a condition that causes your skin and whites of your eyes to turn yellow.
+- **Blood tests.** These may include liver function tests and [blood count tests](Blood%20Count%20Tests.md).
+- **[Imaging tests](Diagnostic%20Imaging.md).** These tests may be used to check for fat in the liver and for fibrosis.
+- **A [biopsy](Biopsy.md).** In some cases, a biopsy may be done to confirm the diagnosis and check for liver damage.
 
 #### What are the treatments for steatotic liver disease?
 
@@ -62,20 +62,20 @@ The first step in treating **MASLD** is usually weight loss. Losing weight can r
 
 More studies are needed to see whether certain medicines are safe and effective to treat MASLD. Currently, no medicines are approved for treatment.
 
-The most important part of treating **ALD** is to stop drinking [alcohol](https://medlineplus.gov/alcohol.html). If you need help, you may benefit from counseling, a recovery program, or medicines that reduce cravings or make you feel sick if you drink alcohol.
+The most important part of treating **ALD** is to stop drinking [alcohol](Alcohol.md). If you need help, you may benefit from counseling, a recovery program, or medicines that reduce cravings or make you feel sick if you drink alcohol.
 
-Both **ALD** and one type of **MASLD** can lead to cirrhosis. Health problems caused by cirrhosis may be treated with medicines, surgery, and other medical procedures. If cirrhosis leads to liver failure, you may need a [liver transplant](https://medlineplus.gov/livertransplantation.html).
+Both **ALD** and one type of **MASLD** can lead to cirrhosis. Health problems caused by cirrhosis may be treated with medicines, surgery, and other medical procedures. If cirrhosis leads to liver failure, you may need a [liver transplant](Liver%20Transplantation.md).
 
 #### What are some lifestyle changes that can help with steatotic liver disease?
 
 If you have any type of steatotic liver disease, there are some lifestyle changes that can help:
 
 - Eat a healthy diet, limiting salt and sugar, plus eating lots of fruits, vegetables, and whole grains.
-- Talk with your provider about vaccinations. If you have chronic liver disease you are more likely to get infections. Your provider may recommend vaccinations for hepatitis [A](https://medlineplus.gov/hepatitisa.html) and [B](https://medlineplus.gov/hepatitisb.html), the [flu](https://medlineplus.gov/flushot.html) and [pneumococcal disease](https://medlineplus.gov/pneumococcalinfections.html).
-- Get regular [exercise](https://medlineplus.gov/exerciseandphysicalfitness.html), which can help you lose weight and reduce fat in the liver.
+- Talk with your provider about vaccinations. If you have chronic liver disease you are more likely to get infections. Your provider may recommend vaccinations for hepatitis [A](Hepatitis%20A.md) and [B](Hepatitis%20B.md), the [flu](Flu%20Shot.md) and [pneumococcal disease](Pneumococcal%20Infections.md).
+- Get regular [exercise](Exercise%20and%20Physical%20Fitness.md), which can help you lose weight and reduce fat in the liver.
 
-Check with your provider before using [dietary supplements](https://medlineplus.gov/dietarysupplements.html), such as [vitamins](https://medlineplus.gov/vitamins.html), or any [complementary or alternative medicines or medical practices](https://medlineplus.gov/complementaryandintegrativemedicine.html). Some supplements or [herbal remedies](https://medlineplus.gov/herbalmedicine.html) can damage the liver.
+Check with your provider before using [dietary supplements](Dietary%20Supplements.md), such as [vitamins](Vitamins.md), or any [complementary or alternative medicines or medical practices](Complementary%20and%20Integrative%20Medicine.md). Some supplements or [herbal remedies](Herbal%20Medicine.md) can damage the liver.
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/steatoticliverdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/steatoticliverdisease.html). General information, not medical advice.*

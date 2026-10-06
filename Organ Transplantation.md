@@ -4,24 +4,24 @@ You may need an organ transplant if one of your organs has failed. This can happ
 
 The organs that can be transplanted include:
 
-- [Heart](https://medlineplus.gov/hearttransplantation.html)
+- [Heart](Heart%20Transplantation.md)
 - Intestine
-- [Kidney](https://medlineplus.gov/kidneytransplantation.html)
-- [Liver](https://medlineplus.gov/livertransplantation.html)
-- [Lung](https://medlineplus.gov/lungtransplantation.html)
-- [Pancreas](https://medlineplus.gov/pancreastransplantation.html)
+- [Kidney](Kidney%20Transplantation.md)
+- [Liver](Liver%20Transplantation.md)
+- [Lung](Lung%20Transplantation.md)
+- [Pancreas](Pancreas%20Transplantation.md)
 
 You often have to wait a long time for an organ transplant. Doctors must match donors to recipients to reduce the risk of transplant rejection. Rejection happens when your immune system attacks the new organ. If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new organ.
 
 ## Related topics
 
-- Heart Transplantation
-- Kidney Transplantation
-- Liver Transplantation
-- Lung Transplantation
-- Organ Donation
-- Pancreas Transplantation
+- [Heart Transplantation](Heart%20Transplantation.md)
+- [Kidney Transplantation](Kidney%20Transplantation.md)
+- [Liver Transplantation](Liver%20Transplantation.md)
+- [Lung Transplantation](Lung%20Transplantation.md)
+- [Organ Donation](Organ%20Donation.md)
+- [Pancreas Transplantation](Pancreas%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/organtransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/organtransplantation.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 #### What is asthma?
 
-Asthma is a chronic (long-term) lung disease. It affects your airways, the tubes that carry air in and out of your lungs. When you have asthma, your airways can become inflamed and narrowed. This can cause wheezing, [coughing](https://medlineplus.gov/cough.html), and tightness in your chest. When these symptoms get worse than usual, it is called an asthma attack or flare-up.
+Asthma is a chronic (long-term) lung disease. It affects your airways, the tubes that carry air in and out of your lungs. When you have asthma, your airways can become inflamed and narrowed. This can cause wheezing, [coughing](Cough.md), and tightness in your chest. When these symptoms get worse than usual, it is called an asthma attack or flare-up.
 
 #### What causes asthma?
 
@@ -13,7 +13,7 @@ An asthma attack can happen when you are exposed to an asthma trigger. An asthma
 - Allergic asthma is caused by allergens. Allergens are substances that cause an allergic reaction. They can include
 
  - Dust mites
- - [Mold](https://medlineplus.gov/molds.html)
+ - [Mold](Molds.md)
  - Pets
  - Pollen from grass, trees, and weeds
  - Waste from pests such as cockroaches and mice
@@ -21,10 +21,10 @@ An asthma attack can happen when you are exposed to an asthma trigger. An asthma
 
  - Breathing in cold air
  - Certain medicines
- - [Household chemicals](https://medlineplus.gov/householdproducts.html)
- - Infections such as [colds](https://medlineplus.gov/commoncold.html) and the [flu](https://medlineplus.gov/flu.html)
- - [Outdoor air pollution](https://medlineplus.gov/airpollution.html)
- - [Tobacco smoke](https://medlineplus.gov/secondhandsmoke.html)
+ - [Household chemicals](Household%20Products.md)
+ - Infections such as [colds](Common%20Cold.md) and the [flu](Flu.md)
+ - [Outdoor air pollution](Air%20Pollution.md)
+ - [Tobacco smoke](Secondhand%20Smoke.md)
 - Occupational asthma is caused by breathing in chemicals or industrial dusts at work
 - Exercise-induced asthma happens during physical exercise, especially when the air is dry
 
@@ -38,7 +38,7 @@ Asthma affects people of all ages, but it often starts during childhood. Certain
 - **Being exposed to certain substances at work**, such as chemical irritants or industrial dusts
 - **Genetics and family history.** You are more likely to have asthma if one of your parents has it, especially if it's your mother.
 - **Race or ethnicity.** Black and African Americans and Puerto Ricans are at higher risk of asthma than people of other races or ethnicities.
-- **Having other diseases or conditions** such as [obesity](https://medlineplus.gov/obesity.html) and [allergies](https://medlineplus.gov/allergy.html)
+- **Having other diseases or conditions** such as [obesity](Obesity.md) and [allergies](Allergy.md)
 - **Often having viral respiratory infections** as a young child
 - **Sex.** In children, asthma is more common in boys. In teens and adults, it is more common in women.
 
@@ -48,7 +48,7 @@ The symptoms of asthma include:
 
 - Chest tightness
 - Coughing, especially at night or early morning
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
+- [Shortness of breath](Breathing%20Problems.md)
 - Wheezing, which causes a whistling sound when you breathe out
 
 These symptoms can range from mild to severe. You may have them every day or only once in a while.
@@ -61,11 +61,11 @@ Your health care provider may use many tools to diagnose asthma:
 
 - Physical exam
 - Medical history
-- [Lung function tests](https://medlineplus.gov/lab-tests/lung-function-tests/), including spirometry, to test how well your lungs work
+- Lung function tests, including spirometry, to test how well your lungs work
 - Tests to measure how your airways react to specific exposures. During this test, you inhale different concentrations of allergens or medicines that may tighten the muscles in your airways. Spirometry is done before and after the test.
 - Peak expiratory flow (PEF) tests to measure how fast you can blow air out using maximum effort
 - Fractional exhaled nitric oxide (FeNO) tests to measure levels of nitric oxide in your breath when you breathe out. High levels of nitric oxide may mean that your lungs are inflamed.
-- Allergy [skin](https://medlineplus.gov/lab-tests/allergy-skin-test/) or [blood](https://medlineplus.gov/lab-tests/allergy-blood-test/) tests, if you have a history of allergies. These tests check which allergens cause a reaction from your immune system.
+- Allergy skin or blood tests, if you have a history of allergies. These tests check which allergens cause a reaction from your immune system.
 
 #### What are the treatments for asthma?
 
@@ -83,12 +83,12 @@ Sometimes asthma is severe and cannot be controlled with other treatments. If yo
 
 ## Related topics
 
-- Air Pollution
-- Allergy
-- Asthma in Children
-- Breathing Problems
-- Indoor Air Pollution
+- [Air Pollution](Air%20Pollution.md)
+- [Allergy](Allergy.md)
+- [Asthma in Children](Asthma%20in%20Children.md)
+- [Breathing Problems](Breathing%20Problems.md)
+- [Indoor Air Pollution](Indoor%20Air%20Pollution.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/asthma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/asthma.html). General information, not medical advice.*

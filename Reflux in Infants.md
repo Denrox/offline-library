@@ -4,9 +4,9 @@
 
 #### What is reflux (GER) and GERD?
 
-Gastroesophageal reflux (GER), often called reflux or spitting up, happens when food or milk comes back up from your baby's stomach into the esophagus. The [esophagus](https://medlineplus.gov/esophagusdisorders.html) is the tube that carries food from your mouth to your stomach. Reflux is very common in healthy babies. It usually starts to get better by 6 months of age and goes away by 12 months. Reflux that continues after 18 months is unusual.
+Gastroesophageal reflux (GER), often called reflux or spitting up, happens when food or milk comes back up from your baby's stomach into the esophagus. The [esophagus](Esophagus%20Disorders.md) is the tube that carries food from your mouth to your stomach. Reflux is very common in healthy babies. It usually starts to get better by 6 months of age and goes away by 12 months. Reflux that continues after 18 months is unusual.
 
-Gastroesophageal reflux disease ([GERD](https://medlineplus.gov/gerd.html)) is a more serious and long-lasting type of reflux. It can cause feeding problems, discomfort, or other symptoms that affect your baby's growth or sleep. Babies may have GERD if symptoms prevent them from feeding well or last longer than 12 to 14 months.
+Gastroesophageal reflux disease ([GERD](GERD.md)) is a more serious and long-lasting type of reflux. It can cause feeding problems, discomfort, or other symptoms that affect your baby's growth or sleep. Babies may have GERD if symptoms prevent them from feeding well or last longer than 12 to 14 months.
 
 #### What causes reflux and GERD in infants?
 
@@ -24,10 +24,10 @@ GERD is less common. Babies may show symptoms, but they decrease with growth, wi
 
 Babies are more likely to have reflux or GERD if they:
 
-- Were born too early ([premature](https://medlineplus.gov/prematurebabies.html))
-- Have lung problems, such as [cystic fibrosis](https://medlineplus.gov/cysticfibrosis.html)
-- Have conditions that affect the nervous system, such as [cerebral palsy](https://medlineplus.gov/cerebralpalsy.html)
-- Have a [hiatal hernia](https://medlineplus.gov/hiatalhernia.html) (when part of the stomach pushes up into the chest)
+- Were born too early ([premature](Premature%20Babies.md))
+- Have lung problems, such as [cystic fibrosis](Cystic%20Fibrosis.md)
+- Have conditions that affect the nervous system, such as [cerebral palsy](Cerebral%20Palsy.md)
+- Have a [hiatal hernia](Hiatal%20Hernia.md) (when part of the stomach pushes up into the chest)
 - Have had surgery on the esophagus
 
 #### What are the symptoms of reflux and GERD in infants?
@@ -35,13 +35,13 @@ Babies are more likely to have reflux or GERD if they:
 In babies, the main symptom of reflux and GERD is spitting up. GERD may also cause symptoms such as:
 
 - Arching of the back, often during or right after eating
-- [Coughing](https://medlineplus.gov/cough.html)
-- Gagging or [trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
+- [Coughing](Cough.md)
+- Gagging or [trouble swallowing](Swallowing%20Disorders.md)
 - Irritability or crying, especially after eating
 - Poor eating or refusing to eat
 - Not gaining enough weight or losing weight
-- Wheezing or [trouble breathing](https://medlineplus.gov/breathingproblems.html)
-- Forceful or frequent [vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- Wheezing or [trouble breathing](Breathing%20Problems.md)
+- Forceful or frequent [vomiting](Nausea%20and%20Vomiting.md)
 
 Other conditions can cause similar symptoms. Contact your baby's health care provider if your baby has symptoms, especially if your baby isn't gaining weight.
 
@@ -51,9 +51,9 @@ In most cases, your provider diagnoses reflux by reviewing your baby's symptoms 
 
 Several tests can help your provider diagnose GERD. Sometimes more than one test may be ordered to get a diagnosis. Common tests include:
 
-- **Upper GI series**, which looks at the shape of your baby's upper GI (gastrointestinal) tract. Your baby will drink or eat a chalky-tasting liquid called barium. The barium is mixed in with a bottle or other food. Several [x-rays](https://medlineplus.gov/xrays.html) are taken to track the barium as it goes through your baby's esophagus and stomach.
-- **[Esophageal pH](https://medlineplus.gov/lab-tests/esophageal-ph-test/) or impedance monitoring**, which measures the amount of acid or liquid in your baby's esophagus. A thin flexible tube is placed through your baby's nose into the stomach. The end of the tube in the esophagus measures when and how much acid comes up into the esophagus. The other end of the tube attaches to a monitor that records the measurements. Your baby will wear this for 24 hours, most likely in the hospital.
-- **Upper gastrointestinal (GI) [endoscopy](https://medlineplus.gov/endoscopy.html) and biopsy**, which uses an endoscope, a long, flexible tube with a light and camera at the end of it. An endoscope is inserted down your baby's esophagus, stomach, and first part of the small intestine. While looking at the pictures from the endoscope, tissue samples ([biopsy](https://medlineplus.gov/biopsy.html)) may be taken.
+- **Upper GI series**, which looks at the shape of your baby's upper GI (gastrointestinal) tract. Your baby will drink or eat a chalky-tasting liquid called barium. The barium is mixed in with a bottle or other food. Several [x-rays](X-Rays.md) are taken to track the barium as it goes through your baby's esophagus and stomach.
+- **Esophageal pH or impedance monitoring**, which measures the amount of acid or liquid in your baby's esophagus. A thin flexible tube is placed through your baby's nose into the stomach. The end of the tube in the esophagus measures when and how much acid comes up into the esophagus. The other end of the tube attaches to a monitor that records the measurements. Your baby will wear this for 24 hours, most likely in the hospital.
+- **Upper gastrointestinal (GI) [endoscopy](Endoscopy.md) and biopsy**, which uses an endoscope, a long, flexible tube with a light and camera at the end of it. An endoscope is inserted down your baby's esophagus, stomach, and first part of the small intestine. While looking at the pictures from the endoscope, tissue samples ([biopsy](Biopsy.md)) may be taken.
 
 #### What feeding changes can help treat my infant's reflux or GERD?
 
@@ -81,4 +81,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/refluxininfants.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/refluxininfants.html). General information, not medical advice.*

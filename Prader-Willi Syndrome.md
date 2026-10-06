@@ -2,7 +2,7 @@
 
 *Also called: PWS*
 
-Prader-Willi Syndrome (PWS) is a rare genetic disorder. It causes poor muscle tone, low levels of sex hormones and a constant feeling of hunger. The part of the brain that controls feelings of fullness or hunger does not work properly in people with PWS. They overeat, leading to [obesity](https://medlineplus.gov/obesityinchildren.html).
+Prader-Willi Syndrome (PWS) is a rare genetic disorder. It causes poor muscle tone, low levels of sex hormones and a constant feeling of hunger. The part of the brain that controls feelings of fullness or hunger does not work properly in people with PWS. They overeat, leading to [obesity](Obesity%20in%20Children.md).
 
 Babies with PWS are usually floppy, with poor muscle tone, and have trouble sucking. Boys may have undescended testicles. Later, other signs appear. These include:
 
@@ -18,4 +18,4 @@ NIH: National Institute of Child Health and Human Development
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/praderwillisyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/praderwillisyndrome.html). General information, not medical advice.*

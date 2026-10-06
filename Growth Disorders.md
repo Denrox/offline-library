@@ -4,7 +4,7 @@ Does your child seem much shorter - or much taller - than other kids his or her 
 
 But some children have growth disorders. Growth disorders are problems that prevent children from developing normal height, weight, sexual maturity or other features.
 
-Very slow or very fast growth can sometimes signal a [gland problem](https://medlineplus.gov/pituitarydisorders.html) or disease.
+Very slow or very fast growth can sometimes signal a [gland problem](Pituitary%20Disorders.md) or disease.
 
 The pituitary gland makes growth hormone, which stimulates the growth of bone and other tissues. Children who have too little of it may be very short. Treatment with growth hormone can stimulate growth.
 
@@ -12,12 +12,12 @@ People can also have too much growth hormone. Usually the cause is a pituitary g
 
 ## Related topics
 
-- Dwarfism
-- Endocrine Diseases
-- Hormones
-- Pituitary Disorders
-- Turner Syndrome
+- [Dwarfism](Dwarfism.md)
+- [Endocrine Diseases](Endocrine%20Diseases.md)
+- [Hormones](Hormones.md)
+- [Pituitary Disorders](Pituitary%20Disorders.md)
+- [Turner Syndrome](Turner%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/growthdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/growthdisorders.html). General information, not medical advice.*

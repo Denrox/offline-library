@@ -4,7 +4,7 @@
 
 #### What is mental health?
 
-Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act as we cope with life. It also helps determine how we handle [stress](https://medlineplus.gov/stress.html), relate to others, and make choices. Mental health is important at every stage of life, from [childhood](https://medlineplus.gov/childmentalhealth.html) and [the teen years](https://medlineplus.gov/teenmentalhealth.html) through adulthood and [older age](https://medlineplus.gov/olderadultmentalhealth.html).
+Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act as we cope with life. It also helps determine how we handle [stress](Stress.md), relate to others, and make choices. Mental health is important at every stage of life, from [childhood](Child%20Mental%20Health.md) and [the teen years](Teen%20Mental%20Health.md) through adulthood and [older age](Older%20Adult%20Mental%20Health.md).
 
 #### Why is mental health important?
 
@@ -29,9 +29,9 @@ There are many ways to take care of your mental health, including:
 - **Practicing gratitude**, which means being thankful for the good things in your life. It's helpful to do this every day, either by thinking about what you are grateful for or writing it down in a journal. These can be big things, such as the support you have from loved ones, or little things, such as enjoying a nice meal. Practicing gratitude can help you notice moments when you have positive emotions, even during stressful times.
 - **Taking care of your physical health**, since your physical and mental health are connected. Some ways to take care of your physical health include:
 
- - [Being physically active](https://medlineplus.gov/exerciseandphysicalfitness.html). Exercise reduces feelings of stress and [depression](https://medlineplus.gov/depression.html) and improves your mood.
- - [Getting enough sleep](https://medlineplus.gov/healthysleep.html). Sleep affects your mood. If you don't sleep well, you may become more easily annoyed and angry. Over the long term, a lack of quality sleep can make you more likely to become depressed. So, it's important to make sure that you have a regular sleep schedule and get enough quality sleep every night.
- - [Healthy eating](https://medlineplus.gov/nutrition.html). Good nutrition may help you feel better physically, improve your mood and decrease [anxiety](https://medlineplus.gov/anxiety.html) and stress. Also, not having enough of certain nutrients may contribute to some mental illnesses. For example, there may be a link between low levels of [vitamin B12](https://medlineplus.gov/bvitamins.html) and depression. Eating a well-balanced diet can help you get enough of the nutrients you need.
+ - [Being physically active](Exercise%20and%20Physical%20Fitness.md). Exercise reduces feelings of stress and [depression](Depression.md) and improves your mood.
+ - [Getting enough sleep](Healthy%20Sleep.md). Sleep affects your mood. If you don't sleep well, you may become more easily annoyed and angry. Over the long term, a lack of quality sleep can make you more likely to become depressed. So, it's important to make sure that you have a regular sleep schedule and get enough quality sleep every night.
+ - [Healthy eating](Nutrition.md). Good nutrition may help you feel better physically, improve your mood and decrease [anxiety](Anxiety.md) and stress. Also, not having enough of certain nutrients may contribute to some mental illnesses. For example, there may be a link between low levels of [vitamin B12](B%20Vitamins.md) and depression. Eating a well-balanced diet can help you get enough of the nutrients you need.
 - **Connecting with others**, since strong, healthy relationships may help protect you against stress. It is also good to have different types of connections. Besides connecting with family and friends, you could find ways to get involved with your community or neighborhood. For example, you could volunteer for a local organization or join a group that is focused on a hobby you enjoy.
 - **Developing a sense of meaning and purpose in life**, which could be through your job, volunteering, learning new skills, or exploring your spirituality. Having a sense of purpose supports long-term emotional health.
 - **Developing coping skills**, which are methods you use to deal with stressful situations. They may help you be flexible, face a difficult problem, and not easily give up until you solve it.
@@ -49,13 +49,13 @@ There are many ways to take care of your mental health, including:
  - **Self-hypnosis**, where the practice of using a specific word, image, or cue can help you enter a relaxed, focused state that shapes your thoughts and behaviors in positive ways.
  - **Deep breathing exercises**, which involve focusing on taking slow, deep, even breaths to calm your body and mind.
 
-It's also important to recognize when you need to get help. Talk therapy and/or medicines can treat many [mental disorders](https://medlineplus.gov/mentaldisorders.html). Start by talking with your health care provider for advice on where to get care.
+It's also important to recognize when you need to get help. Talk therapy and/or medicines can treat many [mental disorders](Mental%20Disorders.md). Start by talking with your health care provider for advice on where to get care.
 
 ## Related topics
 
-- Mental Health
-- Stress
+- [Mental Health](Mental%20Health.md)
+- [Stress](Stress.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/howtoimprovementalhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/howtoimprovementalhealth.html). General information, not medical advice.*

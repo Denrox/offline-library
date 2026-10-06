@@ -4,9 +4,9 @@
 
 #### What is reflux (GER) and GERD?
 
-Gastroesophageal reflux (GER), often called reflux, occurs when food or stomach acid flows back from your child's stomach into the esophagus. The [esophagus](https://medlineplus.gov/esophagusdisorders.html) is the tube that carries food from your mouth to your stomach. This can sometimes cause irritation or a burning sensation. Occasional reflux is common and usually not a problem.
+Gastroesophageal reflux (GER), often called reflux, occurs when food or stomach acid flows back from your child's stomach into the esophagus. The [esophagus](Esophagus%20Disorders.md) is the tube that carries food from your mouth to your stomach. This can sometimes cause irritation or a burning sensation. Occasional reflux is common and usually not a problem.
 
-Gastroesophageal reflux disease ([GERD](https://medlineplus.gov/gerd.html)) is a more serious and long-lasting type of reflux. GERD can cause repeated symptoms or damage to the lining of the esophagus. Having reflux two or more times a week may be a sign of GERD. Your child's health care provider may diagnose GERD if the reflux causes pain, feeding problems, or irritation of the esophagus.
+Gastroesophageal reflux disease ([GERD](GERD.md)) is a more serious and long-lasting type of reflux. GERD can cause repeated symptoms or damage to the lining of the esophagus. Having reflux two or more times a week may be a sign of GERD. Your child's health care provider may diagnose GERD if the reflux causes pain, feeding problems, or irritation of the esophagus.
 
 #### What causes reflux and GERD in children?
 
@@ -14,13 +14,13 @@ A small muscle called the lower esophageal sphincter acts as a valve between the
 
 In children who have GERD, the lower esophageal sphincter may be weak or relax when it shouldn't. That allows stomach contents into the esophagus. This can happen because of:
 
-- A [hiatal hernia](https://medlineplus.gov/hiatalhernia.html), a condition in which the upper part of the stomach pushes up into the chest
-- Increased pressure on the abdomen (belly) from being overweight or having [obesity](https://medlineplus.gov/obesityinchildren.html)
-- Certain medicines, such as some used to treat [asthma](https://medlineplus.gov/asthmainchildren.html), [allergies](https://medlineplus.gov/allergy.html), [depression](https://medlineplus.gov/antidepressants.html), or pain
-- [Smoking](https://medlineplus.gov/smokingandyouth.html) or exposure to [secondhand smoke](https://medlineplus.gov/secondhandsmoke.html)
+- A [hiatal hernia](Hiatal%20Hernia.md), a condition in which the upper part of the stomach pushes up into the chest
+- Increased pressure on the abdomen (belly) from being overweight or having [obesity](Obesity%20in%20Children.md)
+- Certain medicines, such as some used to treat [asthma](Asthma%20in%20Children.md), [allergies](Allergy.md), [depression](Antidepressants.md), or pain
+- [Smoking](Smoking%20and%20Youth.md) or exposure to [secondhand smoke](Secondhand%20Smoke.md)
 - Previous surgery on the esophagus or upper abdomen
-- [Developmental delays](https://medlineplus.gov/developmentaldisabilities.html) or certain [neurological conditions](https://medlineplus.gov/neurologicdiseases.html), such as [cerebral palsy](https://medlineplus.gov/cerebralpalsy.html)
-- Lung conditions, such as [cystic fibrosis](https://medlineplus.gov/cysticfibrosis.html)
+- [Developmental delays](Developmental%20Disabilities.md) or certain [neurological conditions](Neurologic%20Diseases.md), such as [cerebral palsy](Cerebral%20Palsy.md)
+- Lung conditions, such as [cystic fibrosis](Cystic%20Fibrosis.md)
 
 #### How common are reflux and GERD in children?
 
@@ -32,11 +32,11 @@ Symptoms may vary by age. Some children might not even notice reflux, while othe
 
 In children, GERD can cause:
 
-- [Heartburn](https://medlineplus.gov/heartburn.html), a burning feeling in the chest or throat (more common in older children and teens)
-- [Bad breath](https://medlineplus.gov/badbreath.html)
-- [Nausea or vomiting](https://medlineplus.gov/nauseaandvomiting.html)
-- [Trouble or pain when swallowing](https://medlineplus.gov/swallowingdisorders.html)
-- [Cough](https://medlineplus.gov/cough.html), hoarseness, or [breathing problems](https://medlineplus.gov/breathingproblems.html)
+- [Heartburn](Heartburn.md), a burning feeling in the chest or throat (more common in older children and teens)
+- [Bad breath](Bad%20Breath.md)
+- [Nausea or vomiting](Nausea%20and%20Vomiting.md)
+- [Trouble or pain when swallowing](Swallowing%20Disorders.md)
+- [Cough](Cough.md), hoarseness, or [breathing problems](Breathing%20Problems.md)
 - Wearing away of tooth enamel from stomach acid
 
 Other conditions can cause similar symptoms. Talk to your child's provider if symptoms happen often or make eating, sleeping, or daily activities difficult.
@@ -47,9 +47,9 @@ In most cases, your child's provider can tell if it's reflux by learning about y
 
 Common tests include:
 
-- **Upper GI series**, which looks at the shape of your child's upper GI (gastrointestinal) tract. Your child will drink or eat a chalky-tasting liquid called barium. For young children, the barium is mixed in with a bottle or other food. Several [x-rays](https://medlineplus.gov/xrays.html) are taken to track the barium as it goes through your child's esophagus and stomach.
-- **[Esophageal pH](https://medlineplus.gov/lab-tests/esophageal-ph-test/) and impedance monitoring**, which measures the amount of acid or liquid in your child's esophagus. A thin flexible tube is placed through their nose into the stomach. The end of the tube in the esophagus measures when and how much acid comes up into the esophagus. The other end of the tube attaches to a monitor that records the measurements. Your child will wear the tube for 24 hours. They may need to stay in the hospital during the test.
-- **Upper gastrointestinal (GI) [endoscopy](https://medlineplus.gov/endoscopy.html) and [biopsy](https://medlineplus.gov/biopsy.html)**, which uses an endoscope, a long, flexible tube with a light and camera at the end of it. An endoscope is inserted down your child's esophagus, stomach, and first part of the small intestine. While looking at the pictures from the endoscope, tissue samples (biopsy) may be taken.
+- **Upper GI series**, which looks at the shape of your child's upper GI (gastrointestinal) tract. Your child will drink or eat a chalky-tasting liquid called barium. For young children, the barium is mixed in with a bottle or other food. Several [x-rays](X-Rays.md) are taken to track the barium as it goes through your child's esophagus and stomach.
+- **Esophageal pH and impedance monitoring**, which measures the amount of acid or liquid in your child's esophagus. A thin flexible tube is placed through their nose into the stomach. The end of the tube in the esophagus measures when and how much acid comes up into the esophagus. The other end of the tube attaches to a monitor that records the measurements. Your child will wear the tube for 24 hours. They may need to stay in the hospital during the test.
+- **Upper gastrointestinal (GI) [endoscopy](Endoscopy.md) and [biopsy](Biopsy.md)**, which uses an endoscope, a long, flexible tube with a light and camera at the end of it. An endoscope is inserted down your child's esophagus, stomach, and first part of the small intestine. While looking at the pictures from the endoscope, tissue samples (biopsy) may be taken.
 
 #### What lifestyle changes can help treat my child's reflux or GERD?
 
@@ -64,7 +64,7 @@ Simple lifestyle changes can often improve symptoms. Examples include:
 
 #### What are the treatments for my child's GERD?
 
-If lifestyle changes aren't enough, your provider may recommend medicine to reduce stomach acid. The medicines work by lowering the amount of acid your child's stomach makes. Some are available [over-the-counter](https://medlineplus.gov/overthecountermedicines.html), while others need a prescription. Do not give your child any medicine unless your provider recommends it.
+If lifestyle changes aren't enough, your provider may recommend medicine to reduce stomach acid. The medicines work by lowering the amount of acid your child's stomach makes. Some are available [over-the-counter](Over-the-Counter%20Medicines.md), while others need a prescription. Do not give your child any medicine unless your provider recommends it.
 
 If symptoms don't get better or are severe, your provider may refer you to a doctor who treats stomach and digestion problems in children. In rare cases, surgery may be considered.
 
@@ -74,4 +74,4 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/refluxinchildren.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/refluxinchildren.html). General information, not medical advice.*

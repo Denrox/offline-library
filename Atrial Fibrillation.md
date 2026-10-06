@@ -4,15 +4,15 @@
 
 #### What is atrial fibrillation (AFib)?
 
-Atrial fibrillation, also known as AFib or AF, is one of the most common types of [arrhythmias](https://medlineplus.gov/arrhythmia.html). Arrhythmias are problems with the rate or rhythm of your heartbeat. They can cause your heart to beat too slowly, too fast, or in an irregular way.
+Atrial fibrillation, also known as AFib or AF, is one of the most common types of [arrhythmias](Arrhythmia.md). Arrhythmias are problems with the rate or rhythm of your heartbeat. They can cause your heart to beat too slowly, too fast, or in an irregular way.
 
-If you have AFib, your heart beats irregularly and sometimes much faster than normal. Also, your heart's upper and lower chambers do not work together as they should. When this happens, the lower chambers do not fill completely or pump enough blood to your lungs and body. This can cause symptoms such as [dizziness](https://medlineplus.gov/dizzinessandvertigo.html), [fatigue](https://medlineplus.gov/fatigue.html), and a pounding heartbeat.
+If you have AFib, your heart beats irregularly and sometimes much faster than normal. Also, your heart's upper and lower chambers do not work together as they should. When this happens, the lower chambers do not fill completely or pump enough blood to your lungs and body. This can cause symptoms such as [dizziness](Dizziness%20and%20Vertigo.md), [fatigue](Fatigue.md), and a pounding heartbeat.
 
-AFib may happen in brief episodes, or it may be a permanent condition. It's very important to treat it, since AFib can put you at risk for [stroke](https://medlineplus.gov/stroke.html) and other [heart conditions](https://medlineplus.gov/heartdiseases.html).
+AFib may happen in brief episodes, or it may be a permanent condition. It's very important to treat it, since AFib can put you at risk for [stroke](Stroke.md) and other [heart conditions](Heart%20Diseases.md).
 
 #### What causes atrial fibrillation (AFib)?
 
-AFib is most often caused by changes to the heart's tissue or the electrical signaling that helps the heartbeat. These changes can happen due to different conditions and factors, such as [high blood pressure](https://medlineplus.gov/highbloodpressure.html), [coronary artery disease](https://medlineplus.gov/coronaryarterydisease.html), [congenital heart defects](https://medlineplus.gov/congenitalheartdefects.html), infections, and aging. Sometimes the cause is unknown.
+AFib is most often caused by changes to the heart's tissue or the electrical signaling that helps the heartbeat. These changes can happen due to different conditions and factors, such as [high blood pressure](High%20Blood%20Pressure.md), [coronary artery disease](Coronary%20Artery%20Disease.md), [congenital heart defects](Congenital%20Heart%20Defects.md), infections, and aging. Sometimes the cause is unknown.
 
 #### Who is more likely to develop atrial fibrillation (AFib)?
 
@@ -24,16 +24,16 @@ Anyone can develop AFib, but there are certain things that raise your risk for i
 - **Having certain health conditions,** such as:
 
  - High blood pressure
- - [Diabetes](https://medlineplus.gov/diabetes.html)
- - [Heart failure](https://medlineplus.gov/heartfailure.html)
- - [Heart valve diseases](https://medlineplus.gov/heartvalvediseases.html)
- - [Obesity](https://medlineplus.gov/obesity.html)
- - [Hyperthyroidism](https://medlineplus.gov/hyperthyroidism.html)
- - [Chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html)
- - [COPD](https://medlineplus.gov/copd.html) and other [lung diseases](https://medlineplus.gov/lungdiseases.html)
- - [Sleep apnea](https://medlineplus.gov/sleepapnea.html)
+ - [Diabetes](Diabetes.md)
+ - [Heart failure](Heart%20Failure.md)
+ - [Heart valve diseases](Heart%20Valve%20Diseases.md)
+ - [Obesity](Obesity.md)
+ - [Hyperthyroidism](Hyperthyroidism.md)
+ - [Chronic kidney disease](Chronic%20Kidney%20Disease.md)
+ - [COPD](COPD.md) and other [lung diseases](Lung%20Diseases.md)
+ - [Sleep apnea](Sleep%20Apnea.md)
 - **Race.** AFib is more common in people with European ancestry.
-- **Recent surgery.** You may be at risk of atrial fibrillation in the early days and weeks after surgery on your [heart](https://medlineplus.gov/heartsurgery.html), lungs, or esophagus.
+- **Recent surgery.** You may be at risk of atrial fibrillation in the early days and weeks after surgery on your [heart](Heart%20Surgery.md), lungs, or esophagus.
 
 #### What are the symptoms of atrial fibrillation (AFib)?
 
@@ -43,10 +43,10 @@ The symptoms of AFib can include:
 
 - Extreme fatigue, which is the most common symptom
 - Heart palpitations (the feeling that your heart is skipping a beat, fluttering, pounding, or beating too hard or too fast)
-- [Trouble breathing](https://medlineplus.gov/breathingproblems.html), especially when lying down or when exercising
-- [Chest pain](https://medlineplus.gov/chestpain.html)
-- Dizziness or [fainting](https://medlineplus.gov/fainting.html)
-- [Low blood pressure](https://medlineplus.gov/lowbloodpressure.html)
+- [Trouble breathing](Breathing%20Problems.md), especially when lying down or when exercising
+- [Chest pain](Chest%20Pain.md)
+- Dizziness or [fainting](Fainting.md)
+- [Low blood pressure](Low%20Blood%20Pressure.md)
 
 #### What other problems can AFib cause?
 
@@ -54,9 +54,9 @@ If AFib is not treated, it can lead to serious health problems (complications) s
 
 - Stroke
 - Heart failure
-- [Blood clots](https://medlineplus.gov/bloodclots.html)
-- [Sudden cardiac arrest](https://medlineplus.gov/suddencardiacarrest.html) (SCA)
-- Cognitive impairment and [dementia](https://medlineplus.gov/dementia.html)
+- [Blood clots](Blood%20Clots.md)
+- [Sudden cardiac arrest](Sudden%20Cardiac%20Arrest.md) (SCA)
+- Cognitive impairment and [dementia](Dementia.md)
 
 To help prevent these problems, it's important to contact your health care provider if you are having symptoms. If you do have AFib, the sooner you are diagnosed and treated, the better.
 
@@ -68,30 +68,30 @@ To find out if you have AFib, your provider:
 - Will ask about your family history, to find out if you have relatives who have or had AFib
 - Will do a physical exam
 - May order blood tests
-- Will likely order [heart tests](https://medlineplus.gov/hearthealthtests.html), such as an [electrocardiogram](https://medlineplus.gov/lab-tests/electrocardiogram/) (also called an EKG or ECG) and echocardiogram
+- Will likely order [heart tests](Heart%20Health%20Tests.md), such as an electrocardiogram (also called an EKG or ECG) and echocardiogram
 - May ask you to wear a heart monitor device that records your heart's electrical activity
 
 #### What are the treatments for atrial fibrillation (AFib)?
 
 The treatments for AFib may include:
 
-- [Blood thinner medicines](https://medlineplus.gov/bloodthinners.html) that help prevent blood clots from forming.
+- [Blood thinner medicines](Blood%20Thinners.md) that help prevent blood clots from forming.
 - Medicines to control your heart's rhythm and rate.
-- Following [heart-healthy lifestyle changes](https://medlineplus.gov/howtopreventheartdisease.html), such as:
+- Following [heart-healthy lifestyle changes](How%20to%20Prevent%20Heart%20Disease.md), such as:
 
- - Following a heart-healthy eating plan that limits saturated [fats](https://medlineplus.gov/dietaryfats.html), [salt](https://medlineplus.gov/sodium.html), and [cholesterol](https://medlineplus.gov/cholesterol.html). An example is the[DASH eating plan](https://medlineplus.gov/dasheatingplan.html).
- - Limiting or avoiding [alcohol](https://medlineplus.gov/alcohol.html), because it can increase your heart rate.
- - [Aiming for a healthy weight](https://medlineplus.gov/weightcontrol.html).
- - [Getting regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html).
- - Managing [stress](https://medlineplus.gov/stress.html).
- - [Quitting smoking](https://medlineplus.gov/quittingsmoking.html).
+ - Following a heart-healthy eating plan that limits saturated [fats](Dietary%20Fats.md), [salt](Sodium.md), and [cholesterol](Cholesterol.md). An example is the[DASH eating plan](DASH%20Eating%20Plan.md).
+ - Limiting or avoiding [alcohol](Alcohol.md), because it can increase your heart rate.
+ - [Aiming for a healthy weight](Weight%20Control.md).
+ - [Getting regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md).
+ - Managing [stress](Stress.md).
+ - [Quitting smoking](Quitting%20Smoking.md).
 - Procedures such as:
 
  - Electrical cardioversion, which restores your heart rhythm using low-energy shocks to your heart.
  - Catheter ablation, which scars the tissue that is causing the arrhythmia. The scar tissue blocks the abnormal heart signals.
 - Surgeries such as:
 
- - Surgery to put in a [pacemaker](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html) to help control the arrhythmia.
+ - Surgery to put in a [pacemaker](Pacemakers%20and%20Implantable%20Defibrillators.md) to help control the arrhythmia.
  - A Maze procedure, which creates scar tissue in a maze-like pattern in certain parts of the heart.
  - Left atrial appendage closure, a surgery on a small sac in the muscle wall of your left atrium (the upper left chamber of your heart). It helps prevent blood clots and can reduce your risk of stroke. This surgery is for people who are not able to take blood thinners.
 
@@ -115,9 +115,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Arrhythmia
-- Heart Health Tests
+- [Arrhythmia](Arrhythmia.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/atrialfibrillation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/atrialfibrillation.html). General information, not medical advice.*

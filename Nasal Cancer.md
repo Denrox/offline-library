@@ -17,8 +17,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Nose Injuries and Disorders
+- [Nose Injuries and Disorders](Nose%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/nasalcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/nasalcancer.html). General information, not medical advice.*

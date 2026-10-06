@@ -6,4 +6,4 @@ The tailbone is the small bone at the bottom of your backbone, or spine. Tailbon
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tailbonedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tailbonedisorders.html). General information, not medical advice.*

@@ -12,7 +12,7 @@ There are three main types of TMDs:
 
 - Disorders of your jaw joints
 - Disorders of the muscles you use for chewing
-- [Headaches](https://medlineplus.gov/headache.html) from a TMD
+- [Headaches](Headache.md) from a TMD
 
 Many TMDs last only a short time and go away on their own. However, in some cases they can become chronic (long lasting)
 
@@ -39,7 +39,7 @@ The symptoms of TMDs may include:
 - Jaw stiffness.
 - Limited movement or locking of the jaw.
 - Painful clicking or popping in your jaw joint when you open or close your mouth. However, clicking or popping **without** pain is common and is not a sign of a TMD.
-- [Tinnitus](https://medlineplus.gov/tinnitus.html) (ringing in the ears), [hearing loss](https://medlineplus.gov/hearingdisordersanddeafness.html), or [dizziness](https://medlineplus.gov/dizzinessandvertigo.html).
+- [Tinnitus](Tinnitus.md) (ringing in the ears), [hearing loss](Hearing%20Disorders%20and%20Deafness.md), or [dizziness](Dizziness%20and%20Vertigo.md).
 - A change in the way the upper and lower teeth fit together.
 
 #### How are temporomandibular disorders (TMDs) diagnosed?
@@ -54,13 +54,13 @@ To find out if you have a TMD, your health care provider or dentist:
  - When you have it
  - What makes it better or worse
  - If it stays in one area or spreads to other parts of your body
- - If you have any other pain conditions such as headache or [back pain](https://medlineplus.gov/backpain.html)
+ - If you have any other pain conditions such as headache or [back pain](Back%20Pain.md)
 - Will examine your head, neck, face, and jaw for:
 
  - Tenderness
  - Jaw clicking or popping
  - Problems moving your jaw
-- May order [imaging studies](https://medlineplus.gov/diagnosticimaging.html) such as an [x-ray](https://medlineplus.gov/xrays.html), [MRI](https://medlineplus.gov/mriscans.html), or [CT](https://medlineplus.gov/ctscans.html)
+- May order [imaging studies](Diagnostic%20Imaging.md) such as an [x-ray](X-Rays.md), [MRI](MRI%20Scans.md), or [CT](CT%20Scans.md)
 
 #### What are the treatments for temporomandibular disorders (TMDs)?
 
@@ -68,7 +68,7 @@ For many people, the symptoms of TMD are temporary. To help you feel better, you
 
 - Eat soft foods.
 - Apply heat or cold to the face and do some exercises to gently stretch and strengthen your jaw muscles.
-- Take over-the-counter [pain relievers](https://medlineplus.gov/painrelievers.html), such as nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen.
+- Take over-the-counter [pain relievers](Pain%20Relievers.md), such as nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen.
 - Stop clenching your jaw, chewing gum, and biting your nails.
 
 If those do not help, your provider or dentist may suggest other treatments such as:
@@ -81,7 +81,7 @@ If those do not help, your provider or dentist may suggest other treatments such
 - **Medicines** such as:
 
  - Anti-anxiety medicines
- - [Antidepressants](https://medlineplus.gov/antidepressants.html)
+ - [Antidepressants](Antidepressants.md)
  - Anti-seizure medicines
  - Prescription pain relievers
 - **An intraoral appliance**, which is a device that fits over your teeth. Types of intraoral appliances include oral splints and mouth guards. If you are going to use one, it's important to:
@@ -89,7 +89,7 @@ If those do not help, your provider or dentist may suggest other treatments such
  - Know that there is not a lot of evidence that they improve TMD pain.
  - Make sure that the appliance you have is not designed to permanently change your bite.
  - Let your provider or dentist know if it makes your pain worse.
-- **[Complementary treatments](https://medlineplus.gov/complementaryandintegrativemedicine.html)**, which are treatments that are used along with mainstream medical care. There is limited evidence showing that they help with TMD symptoms. But some providers and dentists may recommend [acupuncture](https://medlineplus.gov/acupuncture.html) and transcutaneous electrical stimulation (TENS). TENS involves using a device to send a gentle electric current to your nerves or muscles. It may help treat pain by interrupting or blocking the pain signals.
+- **[Complementary treatments](Complementary%20and%20Integrative%20Medicine.md)**, which are treatments that are used along with mainstream medical care. There is limited evidence showing that they help with TMD symptoms. But some providers and dentists may recommend [acupuncture](Acupuncture.md) and transcutaneous electrical stimulation (TENS). TENS involves using a device to send a gentle electric current to your nerves or muscles. It may help treat pain by interrupting or blocking the pain signals.
 
 If you are still having severe symptoms from a TMD, your provider or dentist may suggest surgery, including implant surgery, or another procedure.
 
@@ -99,4 +99,4 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/temporomandibulardisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/temporomandibulardisorders.html). General information, not medical advice.*

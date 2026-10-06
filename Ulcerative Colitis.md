@@ -23,8 +23,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Crohn's Disease
+- [Crohn's Disease](Crohn%27s%20Disease.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ulcerativecolitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ulcerativecolitis.html). General information, not medical advice.*

@@ -6,21 +6,21 @@ COVID-19 (coronavirus disease 2019) is an illness caused by a virus. This virus 
 
 We also have pages on:
 
-- [COVID-19 testing](https://medlineplus.gov/covid19testing.html)
-- [COVID-19 vaccines](https://medlineplus.gov/covid19vaccines.html)
-- [Post-COVID conditions (long COVID)](postcovidconditionslongcovid.html)
+- [COVID-19 testing](COVID-19%20Testing.md)
+- [COVID-19 vaccines](COVID-19%20Vaccines.md)
+- Post-COVID conditions (long COVID)
 
 ## Related topics
 
-- Cleaning, Disinfecting, and Sanitizing
-- COVID-19 Testing
-- COVID-19 Vaccines
-- Germs and Hygiene
-- Pneumonia
-- Post-COVID Conditions (Long COVID)
-- Traveler's Health
-- Viral Infections
+- [Cleaning, Disinfecting, and Sanitizing](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md)
+- [COVID-19 Testing](COVID-19%20Testing.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
+- [Germs and Hygiene](Germs%20and%20Hygiene.md)
+- [Pneumonia](Pneumonia.md)
+- [Post-COVID Conditions (Long COVID)](Post-COVID%20Conditions%20%28Long%20COVID%29.md)
+- [Traveler's Health](Traveler%27s%20Health.md)
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/covid19coronavirusdisease2019.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/covid19coronavirusdisease2019.html). General information, not medical advice.*

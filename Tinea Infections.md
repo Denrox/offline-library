@@ -8,16 +8,16 @@ Symptoms depend on the affected area of the body:
 
 - Ringworm is a red skin rash that forms a ring around normal-looking skin. A worm doesn't cause it.
 - Scalp ringworm causes itchy, red patches on your head. It can leave bald spots. It usually affects children.
-- [Athlete's foot](https://medlineplus.gov/athletesfoot.html) causes itching, burning and cracked skin between your toes.
+- [Athlete's foot](Athlete%27s%20Foot.md) causes itching, burning and cracked skin between your toes.
 - Jock itch causes an itchy, burning rash in your groin area.
 
 Over-the-counter creams and powders will get rid of many tinea infections, particularly athlete's foot and jock itch. Other cases require prescription medicine.
 
 ## Related topics
 
-- Athlete's Foot
-- Fungal Infections
+- [Athlete's Foot](Athlete%27s%20Foot.md)
+- [Fungal Infections](Fungal%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tineainfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tineainfections.html). General information, not medical advice.*

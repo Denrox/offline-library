@@ -15,9 +15,9 @@ The symptoms of a common cold usually include:
 - Sneezing
 - Stuffy nose (congestion)
 - Runny nose
-- [Sore throat](https://medlineplus.gov/sorethroat.html)
-- [Coughing](https://medlineplus.gov/cough.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Sore throat](Sore%20Throat.md)
+- [Coughing](Cough.md)
+- [Headache](Headache.md)
 
 The symptoms usually start a few days after you become infected with the virus. Some symptoms can last for 10-14 days.
 
@@ -30,19 +30,19 @@ There is no cure for the common cold. But there are treatments that can make you
 - Using a clean humidifier or cool mist vaporizer.
 - Gargling with warm salt water.
 - Using saline nose drops or sprays.
-- Taking over-the-counter [pain](https://medlineplus.gov/painrelievers.html) or [cold and cough medicines](https://medlineplus.gov/coldandcoughmedicines.html). But you need to be careful with certain medicines:
+- Taking over-the-counter [pain](Pain%20Relievers.md) or [cold and cough medicines](Cold%20and%20Cough%20Medicines.md). But you need to be careful with certain medicines:
 
  - Children and teens should not take aspirin.
  - Some cold and cough medicines contain ingredients that are not recommended for children. Talk with your child's health care provider before giving your child any cold and cough medicines.
  - Some cold and cough medicines contain pain relievers. If you also take a separate pain reliever with these medicines, you could be getting a dangerous amount of the pain reliever. Read the labels on the medicines and follow the instructions carefully. If you have questions, ask your provider or a pharmacist.
 
-[Antibiotics](https://medlineplus.gov/antibiotics.html) will not help with a cold. Antibiotics help with bacterial infections, not with viral infections such as colds.
+[Antibiotics](Antibiotics.md) will not help with a cold. Antibiotics help with bacterial infections, not with viral infections such as colds.
 
-Most people who have a cold will feel better after a week or two. However, some people who get a cold may develop other illnesses, such as [bronchitis](https://medlineplus.gov/acutebronchitis.html) or [pneumonia](https://medlineplus.gov/pneumonia.html). This is more common in people with weakened immune systems, [asthma](https://medlineplus.gov/asthma.html), or other respiratory conditions. Contact your provider if you or your child have symptoms that concern you, such as:
+Most people who have a cold will feel better after a week or two. However, some people who get a cold may develop other illnesses, such as [bronchitis](Acute%20Bronchitis.md) or [pneumonia](Pneumonia.md). This is more common in people with weakened immune systems, [asthma](Asthma.md), or other respiratory conditions. Contact your provider if you or your child have symptoms that concern you, such as:
 
 - Trouble breathing or fast breathing
-- [Dehydration](https://medlineplus.gov/dehydration.html)
-- [Fever](https://medlineplus.gov/fever.html) that lasts longer than 4 days
+- [Dehydration](Dehydration.md)
+- [Fever](Fever.md) that lasts longer than 4 days
 - Symptoms that last more than 10 days without improvement
 - Symptoms, such as fever or cough, that improve but then return or worsen
 - Worsening of chronic medical conditions
@@ -51,7 +51,7 @@ Most people who have a cold will feel better after a week or two. However, some 
 
 There is no vaccine to protect against the common cold. But you may be able to reduce your risk of getting or spreading a cold by:
 
-- [Washing your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water for at least 20 seconds.
+- [Washing your hands](Germs%20and%20Hygiene.md) often with soap and water for at least 20 seconds.
 - Avoiding touching your face, nose, or mouth with unwashed hands.
 - Avoiding close contact, such as kissing, shaking hands, and sharing cups and eating utensils, with others if you are sick or they are sick.
 - Cleaning and disinfecting surfaces that you frequently touch.
@@ -62,11 +62,11 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Cold and Cough Medicines
-- Flu
-- Sinusitis
-- Viral Infections
+- [Cold and Cough Medicines](Cold%20and%20Cough%20Medicines.md)
+- [Flu](Flu.md)
+- [Sinusitis](Sinusitis.md)
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/commoncold.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/commoncold.html). General information, not medical advice.*

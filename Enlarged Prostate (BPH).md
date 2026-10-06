@@ -8,15 +8,15 @@ The prostate is a gland in the male reproductive system. It lies just below the 
 
 #### What is an enlarged prostate (BPH)?
 
-An enlarged prostate is when your prostate gland becomes larger than normal. It's also called **benign prostatic hyperplasia** or **BPH** for short. Benign means not cancer. And hyperplasia means too much cell growth. BPH isn't cancer and it doesn't increase your risk of getting [prostate cancer](https://medlineplus.gov/prostatecancer.html).
+An enlarged prostate is when your prostate gland becomes larger than normal. It's also called **benign prostatic hyperplasia** or **BPH** for short. Benign means not cancer. And hyperplasia means too much cell growth. BPH isn't cancer and it doesn't increase your risk of getting [prostate cancer](Prostate%20Cancer.md).
 
 Usually, the prostate gland continues to grow during adult life. That's why BPH is the most common prostate condition in people over age 50. As the prostate gets bigger, it may press against the bladder and pinch the urethra. This can slow or block the flow of urine out of your bladder.
 
-Over time, the bladder muscle may become weak from trying to pass urine through a narrow urethra. When this happens, your bladder may not empty completely when you urinate. A narrowed urethra and weak bladder cause many of the [urinary problems](https://medlineplus.gov/urineandurination.html) you may have with BPH.
+Over time, the bladder muscle may become weak from trying to pass urine through a narrow urethra. When this happens, your bladder may not empty completely when you urinate. A narrowed urethra and weak bladder cause many of the [urinary problems](Urine%20and%20Urination.md) you may have with BPH.
 
 #### What causes an enlarged prostate (BPH)?
 
-Researchers aren't sure why the prostate keeps growing. Some researchers think changes in [hormones](https://medlineplus.gov/hormones.html) with aging may cause the prostate to get bigger.
+Researchers aren't sure why the prostate keeps growing. Some researchers think changes in [hormones](Hormones.md) with aging may cause the prostate to get bigger.
 
 #### Who is more likely to develop BPH?
 
@@ -26,24 +26,24 @@ You're more likely to develop BPH if you:
 - Have family members who have had BPH.
 - Have certain health conditions such as:
 
- - [Obesity](https://medlineplus.gov/obesity.html).
- - [Heart disease](https://medlineplus.gov/heartdiseases.html) and [problems with blood circulation](https://medlineplus.gov/vasculardiseases.html).
- - [Type 2 diabetes](https://medlineplus.gov/diabetestype2.html).
- - [Erectile dysfunction](https://medlineplus.gov/erectiledysfunction.html).
-- [Don't get enough physical activity](https://medlineplus.gov/healthrisksofaninactivelifestyle.html).
+ - [Obesity](Obesity.md).
+ - [Heart disease](Heart%20Diseases.md) and [problems with blood circulation](Vascular%20Diseases.md).
+ - [Type 2 diabetes](Diabetes%20Type%202.md).
+ - [Erectile dysfunction](Erectile%20Dysfunction.md).
+- [Don't get enough physical activity](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md).
 
 #### What are the symptoms of BPH?
 
 Symptoms of BPH include:
 
-- [Having a frequent or urgent need to urinate](https://medlineplus.gov/overactivebladder.html)
+- [Having a frequent or urgent need to urinate](Overactive%20Bladder.md)
 - Waking up many times to urinate
 - Having problems with urine flow, such as:
 
  - Trouble starting to urinate
  - A stream that's weak, slow, or stops and starts
  - Dribbling after urination
- - [Urinary incontinence](https://medlineplus.gov/urinaryincontinence.html)
+ - [Urinary incontinence](Urinary%20Incontinence.md)
  - Feeling that you can't completely empty your bladder
 - Pain after ejaculation or during urination
 - Urine with an unusual color or smell
@@ -53,8 +53,8 @@ It's important to see your health care provider if you have any of these symptom
 You should **get medical help right away** if you:
 
 - Can't urinate at all
-- Have [fever](https://medlineplus.gov/fever.html) and chills with urination that's painful, frequent, and urgent
-- Have [blood in your urine](https://medlineplus.gov/lab-tests/blood-in-urine/)
+- Have [fever](Fever.md) and chills with urination that's painful, frequent, and urgent
+- Have blood in your urine
 - Have pain in your lower abdomen (belly) and urinary tract
 
 #### What other problems can BPH cause?
@@ -63,13 +63,13 @@ For most people, BPH doesn't cause other problems. But BPH increases your chance
 
 - **Acute urinary retention.** With this condition, you suddenly can't urinate at all. This a **medical emergency**. Acute urinary retention is common in older males and the chance of having it increases with age. It may be triggered by:
 
- - Taking certain over-the-counter [cold or allergy medicines](https://medlineplus.gov/coldandcoughmedicines.html)
- - [Drinking alcohol](https://medlineplus.gov/alcohol.html)
+ - Taking certain over-the-counter [cold or allergy medicines](Cold%20and%20Cough%20Medicines.md)
+ - [Drinking alcohol](Alcohol.md)
  - Cold temperatures
  - Not moving enough over a long period of time
-- **[Urinary tract infections (UTIs)](urinarytractinfections.html)**
+- **Urinary tract infections (UTIs)**
 - **Bladder damage and bladder stones**
-- **[Kidney damage](https://medlineplus.gov/kidneydiseases.html)**
+- **[Kidney damage](Kidney%20Diseases.md)**
 
 #### How is BPH diagnosed?
 
@@ -81,11 +81,11 @@ To find out if you have BPH, your provider will:
 - **Order medical tests, if needed**, such as:
 
  - Urine tests.
- - A [PSA blood test](https://medlineplus.gov/lab-tests/prostate-specific-antigen-psa-test/) (prostate-specific antigen test).
+ - A PSA blood test (prostate-specific antigen test).
  - Urodynamic testing to see how well you can hold and release urine.
- - Cystoscopy to look inside your [urethra](https://medlineplus.gov/urethraldisorders.html) and [bladder](https://medlineplus.gov/bladderdiseases.html).
- - [Ultrasound](https://medlineplus.gov/lab-tests/sonogram/) pictures of your prostate and urinary tract.
- - A prostate [biopsy](https://medlineplus.gov/biopsy.html) to diagnose or rule out prostate cancer.
+ - Cystoscopy to look inside your [urethra](Urethral%20Disorders.md) and [bladder](Bladder%20Diseases.md).
+ - Ultrasound pictures of your prostate and urinary tract.
+ - A prostate [biopsy](Biopsy.md) to diagnose or rule out prostate cancer.
 
 #### What are the treatments for BPH?
 
@@ -95,9 +95,9 @@ Not everyone needs treatment for BPH. Treatment options depend on how much your 
 **Lifestyle changes** may improve mild symptoms. They include:
 
  - Drinking less before bedtime or going out
- - Avoiding or cutting back on beverages with [caffeine](https://medlineplus.gov/caffeine.html) and alcohol
+ - Avoiding or cutting back on beverages with [caffeine](Caffeine.md) and alcohol
  - Bladder training and exercising the muscles that control urine flow
- - Preventing or treating [constipation](https://medlineplus.gov/constipation.html)  
+ - Preventing or treating [constipation](Constipation.md)  
 
 **Medicines** can help mild to moderate symptoms by:
 
@@ -124,19 +124,19 @@ Your provider can explain the possible benefits and side effects of your treatme
 
 Researchers haven't found ways to prevent BPH. You can take care of your prostate health by:
 
-- [Talking with your provider](https://medlineplus.gov/talkingwithyourdoctor.html) about your risk for developing an enlarged prostate
-- Getting [regular checkups](https://medlineplus.gov/healthcheckup.html)
+- [Talking with your provider](Talking%20With%20Your%20Doctor.md) about your risk for developing an enlarged prostate
+- Getting [regular checkups](Health%20Checkup.md)
 - Paying attention to your symptoms so you can get treatment early if you see signs of BPH
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Men's Health
-- Older Adult Health
-- Prostate Cancer
-- Prostate Diseases
+- [Men's Health](Men%27s%20Health.md)
+- [Older Adult Health](Older%20Adult%20Health.md)
+- [Prostate Cancer](Prostate%20Cancer.md)
+- [Prostate Diseases](Prostate%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/enlargedprostatebph.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/enlargedprostatebph.html). General information, not medical advice.*

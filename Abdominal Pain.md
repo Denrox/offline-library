@@ -14,10 +14,10 @@ Call your health care provider if mild pain lasts a week or more or if you have 
 
 ## Related topics
 
-- Indigestion
-- Pain
-- Pelvic Pain
+- [Indigestion](Indigestion.md)
+- [Pain](Pain.md)
+- [Pelvic Pain](Pelvic%20Pain.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/abdominalpain.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/abdominalpain.html). General information, not medical advice.*

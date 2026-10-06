@@ -2,7 +2,7 @@
 
 #### What is stroke rehabilitation?
 
-Stroke rehabilitation is a program for people who have had a stroke. A [stroke](https://medlineplus.gov/stroke.html) happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
+Stroke rehabilitation is a program for people who have had a stroke. A [stroke](Stroke.md) happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
 
 Stroke rehabilitation can help you relearn skills you lost because of the damage. It can help with movement, speech, strength, and daily living skills. The goal is to help you become as independent as possible.
 
@@ -14,9 +14,9 @@ The effects of a stroke depend on the parts of your brain that were affected. Yo
 
 The types of disabilities a stroke can cause include:
 
-- [Paralysis](https://medlineplus.gov/paralysis.html) or problems controlling movement
+- [Paralysis](Paralysis.md) or problems controlling movement
 - Pain or other problems with your senses
-- Problems using or understanding [language](https://medlineplus.gov/aphasia.html)
+- Problems using or understanding [language](Aphasia.md)
 - Problems with thinking and memory
 - Difficulty with controlling or expressing emotions
 
@@ -26,7 +26,7 @@ The sooner you begin rehabilitation, the more likely you are to regain lost skil
 
 #### What does stroke rehabilitation include?
 
-The goal of rehabilitation is to help you get your abilities back and regain independence. But the specific goals vary for each person. Your treatment plan will depend on what part of your body or type of ability was affected by the stroke. It may include teaching you new ways to work with disabilities, such as using [assistive devices](https://medlineplus.gov/assistivedevices.html) to make it easier to do your usual activities.
+The goal of rehabilitation is to help you get your abilities back and regain independence. But the specific goals vary for each person. Your treatment plan will depend on what part of your body or type of ability was affected by the stroke. It may include teaching you new ways to work with disabilities, such as using [assistive devices](Assistive%20Devices.md) to make it easier to do your usual activities.
 
 A plan for stroke rehabilitation can involve many kinds of health professionals. They will work with you to figure out your needs, goals, and make a treatment plan. The types of treatments can include:
 
@@ -35,7 +35,7 @@ A plan for stroke rehabilitation can involve many kinds of health professionals.
 - **Occupational therapy.** To help improve your ability to perform daily living skills such as eating, drinking, bathing, and dressing.
 - **Cognitive therapy.** To help you relearn or improve skills such as thinking, learning, memory, planning, and decision making.
 - **Mental health counseling.** Therapy, medicine, or joining a patient support group may be recommended to help you cope with emotional or behavioral issues.
-- **Medicine.** To treat pain, other health issues, or to help with [depression](https://medlineplus.gov/depression.html) or other mental health conditions following a stroke.
+- **Medicine.** To treat pain, other health issues, or to help with [depression](Depression.md) or other mental health conditions following a stroke.
 - **Vocational rehabilitation.** To help you build skills for going to school or working at a job.
 
 #### Where does stroke rehabilitation take place?
@@ -57,11 +57,11 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Aphasia
-- Hemorrhagic Stroke
-- Ischemic Stroke
-- Stroke
+- [Aphasia](Aphasia.md)
+- [Hemorrhagic Stroke](Hemorrhagic%20Stroke.md)
+- [Ischemic Stroke](Ischemic%20Stroke.md)
+- [Stroke](Stroke.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/strokerehabilitation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/strokerehabilitation.html). General information, not medical advice.*

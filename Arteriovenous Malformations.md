@@ -4,7 +4,7 @@
 
 #### What are arteriovenous malformations (AVMs)?
 
-Arteriovenous malformations (AVMs) are defects in your [vascular system](https://medlineplus.gov/vasculardiseases.html). Your vascular system is your body's network of blood vessels. It includes your:
+Arteriovenous malformations (AVMs) are defects in your [vascular system](Vascular%20Diseases.md). Your vascular system is your body's network of blood vessels. It includes your:
 
 - **Arteries,** which carry oxygen-rich blood from your heart to your tissues and organs.
 - **Veins,** which carry the blood and waste products back to your heart.
@@ -18,18 +18,18 @@ AVMs are rare. The cause of AVMs is unknown. Most of the time, people are born w
 
 #### What are the symptoms of arteriovenous malformations (AVMs)?
 
-The symptoms of AVM will depend on where the AVM is located. They can happen anywhere in the body, but they are more common in the brain or spinal cord. Most people with brain or spinal cord AVMs have few, if any, major symptoms. But if a weakened blood vessel bursts, it can spill blood into the brain (called a hemorrhage). Severe hemorrhages can cause a [stroke](https://medlineplus.gov/hemorrhagicstroke.html) and brain damage.
+The symptoms of AVM will depend on where the AVM is located. They can happen anywhere in the body, but they are more common in the brain or spinal cord. Most people with brain or spinal cord AVMs have few, if any, major symptoms. But if a weakened blood vessel bursts, it can spill blood into the brain (called a hemorrhage). Severe hemorrhages can cause a [stroke](Hemorrhagic%20Stroke.md) and brain damage.
 
 If an AVM is causing symptoms, they can include:
 
-- [Seizures](https://medlineplus.gov/seizures.html)
-- [Headache](https://medlineplus.gov/headache.html)
+- [Seizures](Seizures.md)
+- [Headache](Headache.md)
 - Pain in the area where the AVM is located
 - Vision problems
 - Muscle weakness
-- Problems with [movement](https://medlineplus.gov/movementdisorders.html) and [speech](https://medlineplus.gov/speechandcommunicationdisorders.html)
+- Problems with [movement](Movement%20Disorders.md) and [speech](Speech%20and%20Communication%20Disorders.md)
 - Confusion
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Loss of consciousness
 
 #### How are arteriovenous malformations (AVMs) diagnosed?
@@ -38,7 +38,7 @@ To find out if you have an AVM, your health care provider:
 
 - Will ask about your symptoms and medical history.
 - Will do a physical exam. This may include listening for a bruit. A bruit is whooshing sound caused by the rapid blood flow through the arteries and veins of an AVM.
-- May order [imaging tests](https://medlineplus.gov/diagnosticimaging.html), such as a [CT scan](https://medlineplus.gov/ctscans.html), [MRI](https://medlineplus.gov/mriscans.html), [ultrasound](https://medlineplus.gov/lab-tests/sonogram/), or cerebral angiography. For a cerebral angiography, you are injected with a special dye that helps the blood vessels in your brain show up on [x-rays](https://medlineplus.gov/xrays.html).
+- May order [imaging tests](Diagnostic%20Imaging.md), such as a [CT scan](CT%20Scans.md), [MRI](MRI%20Scans.md), ultrasound, or cerebral angiography. For a cerebral angiography, you are injected with a special dye that helps the blood vessels in your brain show up on [x-rays](X-Rays.md).
 
 #### What are the treatments for arteriovenous malformations (AVMs)?
 
@@ -60,8 +60,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Hemorrhagic Stroke
+- [Hemorrhagic Stroke](Hemorrhagic%20Stroke.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/arteriovenousmalformations.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/arteriovenousmalformations.html). General information, not medical advice.*

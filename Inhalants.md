@@ -47,7 +47,7 @@ Signs that someone is using inhalants include:
 - Drunk or disoriented appearance
 - Slurred speech
 - Nausea or loss of appetite
-- Inattentiveness, lack of coordination, irritability, and [depression](https://medlineplus.gov/depression.html)
+- Inattentiveness, lack of coordination, irritability, and [depression](Depression.md)
 
 #### What are the health effects of using inhalants?
 
@@ -58,21 +58,21 @@ Most inhalants affect your central nervous system and slow down brain activity. 
  - Slurred or distorted speech
  - Lack of body control
  - Euphoria (feeling "high")
- - [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+ - [Dizziness](Dizziness%20and%20Vertigo.md)
  - Hallucinations (seeing or hearing things that aren't real)
 - **Long-term health effects** may include:
 
- - [Liver](https://medlineplus.gov/liverdiseases.html) and [kidney](https://medlineplus.gov/kidneydiseases.html) damage
+ - [Liver](Liver%20Diseases.md) and [kidney](Kidney%20Diseases.md) damage
  - Loss of coordination
  - Spasms in your arms and legs
  - Delayed behavioral development
  - Brain damage
 
-Using inhalants, even once, could lead to an overdose. This can cause you to have [seizures](https://medlineplus.gov/seizures.html) or your heart to stop. It can also be deadly.
+Using inhalants, even once, could lead to an overdose. This can cause you to have [seizures](Seizures.md) or your heart to stop. It can also be deadly.
 
 #### Are inhalants addictive?
 
-Addiction to inhalants is rare, but it can happen if you use them repeatedly. Stopping them can cause withdrawal symptoms, such as [nausea](https://medlineplus.gov/nauseaandvomiting.html), [sweating](https://medlineplus.gov/sweat.html), [trouble sleeping](https://medlineplus.gov/insomnia.html), and mood changes.
+Addiction to inhalants is rare, but it can happen if you use them repeatedly. Stopping them can cause withdrawal symptoms, such as [nausea](Nausea%20and%20Vomiting.md), [sweating](Sweat.md), [trouble sleeping](Insomnia.md), and mood changes.
 
 Behavioral therapy may help people who are addicted to inhalants.
 
@@ -84,4 +84,4 @@ NIH: National Institute on Drug Abuse
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/inhalants.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/inhalants.html). General information, not medical advice.*

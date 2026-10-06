@@ -4,31 +4,31 @@
 
 #### What is heroin?
 
-Heroin is an illegal, very addictive [opioid drug](https://medlineplus.gov/opioidsandopioidusedisorderoud.html). It's made from morphine, which comes from the seedpod of opium poppy plants. These plants grow in Southeast and Southwest Asia, Mexico, and Colombia. Heroin can be a white or brown powder, or a black sticky substance known as black tar heroin.
+Heroin is an illegal, very addictive [opioid drug](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md). It's made from morphine, which comes from the seedpod of opium poppy plants. These plants grow in Southeast and Southwest Asia, Mexico, and Colombia. Heroin can be a white or brown powder, or a black sticky substance known as black tar heroin.
 
 #### How do people use heroin?
 
-People inject, sniff, snort, or smoke heroin. Some people mix heroin with crack [cocaine](https://medlineplus.gov/cocaine.html), which is called "speedballing." All these ways of taking heroin send it to the brain very quickly, which makes it highly addictive.
+People inject, sniff, snort, or smoke heroin. Some people mix heroin with crack [cocaine](Cocaine.md), which is called "speedballing." All these ways of taking heroin send it to the brain very quickly, which makes it highly addictive.
 
 #### What are the short-term effects of heroin?
 
-People who use heroin report feeling a "rush" (a surge of pleasure). And then they may feel other effects, such as a warm flushing of the skin, [dry mouth](https://medlineplus.gov/drymouth.html), and a heavy feeling in the arms and legs. They may also have severe [itching](https://medlineplus.gov/itching.html), [nausea, and vomiting](https://medlineplus.gov/nauseaandvomiting.html). After these first effects, they will usually be drowsy for several hours, and their breathing will slow down.
+People who use heroin report feeling a "rush" (a surge of pleasure). And then they may feel other effects, such as a warm flushing of the skin, [dry mouth](Dry%20Mouth.md), and a heavy feeling in the arms and legs. They may also have severe [itching](Itching.md), [nausea, and vomiting](Nausea%20and%20Vomiting.md). After these first effects, they will usually be drowsy for several hours, and their breathing will slow down.
 
 #### What are the long-term effects of heroin?
 
-People who use heroin over the long term may develop many different health problems. These problems could include [liver](https://medlineplus.gov/liverdiseases.html), [kidney](https://medlineplus.gov/kidneydiseases.html), and [lung](https://medlineplus.gov/lungdiseases.html) disease, [mental disorders](https://medlineplus.gov/mentaldisorders.html), and [abscesses](https://medlineplus.gov/abscess.html).
+People who use heroin over the long term may develop many different health problems. These problems could include [liver](Liver%20Diseases.md), [kidney](Kidney%20Diseases.md), and [lung](Lung%20Diseases.md) disease, [mental disorders](Mental%20Disorders.md), and [abscesses](Abscess.md).
 
-People who inject the drug also risk getting infectious diseases such as [HIV](https://medlineplus.gov/hiv.html), [hepatitis](https://medlineplus.gov/hepatitis.html), and [bacterial infections](https://medlineplus.gov/bacterialinfections.html) of the skin, bloodstream, and heart ([endocarditis](https://medlineplus.gov/endocarditis.html)). They can also get collapsed veins. When a vein collapses, the blood cannot flow through it.
+People who inject the drug also risk getting infectious diseases such as [HIV](HIV.md), [hepatitis](Hepatitis.md), and [bacterial infections](Bacterial%20Infections.md) of the skin, bloodstream, and heart ([endocarditis](Endocarditis.md)). They can also get collapsed veins. When a vein collapses, the blood cannot flow through it.
 
-Repeated use of heroin can lead to tolerance. This means users need more and more of the drug to have the same effect. At higher doses over time, the body becomes dependent on heroin. If someone who is dependent on heroin stops using it, they have withdrawal symptoms. These symptoms can include restlessness, muscle and bone pain, [diarrhea](https://medlineplus.gov/diarrhea.html), vomiting, and cold flashes with goose bumps.
+Repeated use of heroin can lead to tolerance. This means users need more and more of the drug to have the same effect. At higher doses over time, the body becomes dependent on heroin. If someone who is dependent on heroin stops using it, they have withdrawal symptoms. These symptoms can include restlessness, muscle and bone pain, [diarrhea](Diarrhea.md), vomiting, and cold flashes with goose bumps.
 
 Repeated use of heroin often leads to heroin use disorder, sometimes called addiction. This is more than physical dependence. It's a chronic (long-lasting) brain disorder. When someone has it, they continue to use heroin even though it causes problems in their life. Some examples include health problems and not being able to meet responsibilities at work, school, or home. Getting and using heroin becomes their main purpose in life.
 
 #### Can a person overdose on heroin?
 
-It's possible to [overdose](https://medlineplus.gov/opioidoverdose.html) on heroin. This happens when a person uses so much heroin that it causes a life-threatening reaction or death. All heroin users are at risk of an overdose because they never know the actual strength of the drug they are taking or what may have been added to it. Most heroin available in the United States is combined with illegally made fentanyl (IMF). Using heroin combined with IMF, or along with other drugs or alcohol can increase the risk of an overdose.
+It's possible to [overdose](Opioid%20Overdose.md) on heroin. This happens when a person uses so much heroin that it causes a life-threatening reaction or death. All heroin users are at risk of an overdose because they never know the actual strength of the drug they are taking or what may have been added to it. Most heroin available in the United States is combined with illegally made fentanyl (IMF). Using heroin combined with IMF, or along with other drugs or alcohol can increase the risk of an overdose.
 
-When people overdose on heroin, their heart rate and breathing slow down. Their breathing may slow do so much that not enough oxygen reaches the brain. This condition is called hypoxia. Hypoxia can lead to a [coma](https://medlineplus.gov/coma.html), permanent brain damage, or death.
+When people overdose on heroin, their heart rate and breathing slow down. Their breathing may slow do so much that not enough oxygen reaches the brain. This condition is called hypoxia. Hypoxia can lead to a [coma](Coma.md), permanent brain damage, or death.
 
 #### How can a heroin overdose be treated?
 
@@ -44,10 +44,10 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Drug Use and Addiction
-- Opioid Use Disorder (OUD) Treatment
-- Opioids and Opioid Use Disorder (OUD)
+- [Drug Use and Addiction](Drug%20Use%20and%20Addiction.md)
+- [Opioid Use Disorder (OUD) Treatment](Opioid%20Use%20Disorder%20%28OUD%29%20Treatment.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/heroin.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/heroin.html). General information, not medical advice.*

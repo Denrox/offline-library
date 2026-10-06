@@ -10,8 +10,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Skin Pigmentation Disorders
+- [Skin Pigmentation Disorders](Skin%20Pigmentation%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitiligo.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitiligo.html). General information, not medical advice.*

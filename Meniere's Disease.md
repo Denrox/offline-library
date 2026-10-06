@@ -1,6 +1,6 @@
 # Meniere's Disease
 
-Meniere's disease is a disorder of the inner ear. It can cause severe [dizziness](https://medlineplus.gov/dizzinessandvertigo.html), a roaring sound in your ears called [tinnitus](https://medlineplus.gov/tinnitus.html), hearing loss that comes and goes and the feeling of ear pressure or pain. It usually affects just one ear. It is a common cause of hearing loss.
+Meniere's disease is a disorder of the inner ear. It can cause severe [dizziness](Dizziness%20and%20Vertigo.md), a roaring sound in your ears called [tinnitus](Tinnitus.md), hearing loss that comes and goes and the feeling of ear pressure or pain. It usually affects just one ear. It is a common cause of hearing loss.
 
 Attacks of dizziness may come on suddenly or after a short period of tinnitus or muffled hearing. Some people have single attacks of dizziness once in a while. Others may have many attacks close together over several days. Some people with Meniere's disease have "drop attacks" during which the dizziness is so bad they lose their balance and fall.
 
@@ -12,10 +12,10 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Dizziness and Vertigo
-- Ear Disorders
-- Hearing Disorders and Deafness
+- [Dizziness and Vertigo](Dizziness%20and%20Vertigo.md)
+- [Ear Disorders](Ear%20Disorders.md)
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/menieresdisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/menieresdisease.html). General information, not medical advice.*

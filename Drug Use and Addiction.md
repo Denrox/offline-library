@@ -4,7 +4,7 @@
 
 #### What are drugs?
 
-Drugs are chemical substances that can change how your body and mind work. They include prescription medicines, [over-the-counter medicines](https://medlineplus.gov/overthecountermedicines.html), [alcohol](https://medlineplus.gov/alcohol.html), [tobacco](https://medlineplus.gov/smoking.html), and illegal drugs.
+Drugs are chemical substances that can change how your body and mind work. They include prescription medicines, [over-the-counter medicines](Over-the-Counter%20Medicines.md), [alcohol](Alcohol.md), [tobacco](Smoking.md), and illegal drugs.
 
 #### What is drug use?
 
@@ -12,14 +12,14 @@ Drug use, or misuse, includes:
 
 - Using illegal substances, such as:
 
- - [Anabolic steroids](https://medlineplus.gov/anabolicsteroids.html)
- - [Club drugs](https://medlineplus.gov/clubdrugs.html)
- - [Cocaine](https://medlineplus.gov/cocaine.html)
- - [Heroin](https://medlineplus.gov/heroin.html)
- - [Inhalants](https://medlineplus.gov/inhalants.html)
- - [Cannabis](https://medlineplus.gov/cannabis.html) (also known as marijuana)
- - [Methamphetamines](https://medlineplus.gov/methamphetamine.html)
-- Misusing [prescription medicines](https://medlineplus.gov/prescriptiondrugmisuse.html), including [opioids](https://medlineplus.gov/opioidsandopioidusedisorderoud.html). This means taking the medicines in a different way than your health care provider prescribed. This includes
+ - [Anabolic steroids](Anabolic%20Steroids.md)
+ - [Club drugs](Club%20Drugs.md)
+ - [Cocaine](Cocaine.md)
+ - [Heroin](Heroin.md)
+ - [Inhalants](Inhalants.md)
+ - [Cannabis](Cannabis.md) (also known as marijuana)
+ - [Methamphetamines](Methamphetamine.md)
+- Misusing [prescription medicines](Prescription%20Drug%20Misuse.md), including [opioids](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md). This means taking the medicines in a different way than your health care provider prescribed. This includes
 
  - Taking a medicine that was prescribed for someone else.
  - Taking a larger dose than you are supposed to.
@@ -27,7 +27,7 @@ Drug use, or misuse, includes:
  - Using the medicine for another purpose, such as getting high.
 - Misusing over-the-counter medicines, including using them for another purpose or in a different way than you are supposed to.
 
-Drug use is dangerous. It can harm your brain and body, sometimes permanently. It can hurt the people around you, including friends, families, and kids. If you are pregnant, it can harm your [fetus](https://medlineplus.gov/pregnancyandsubstanceuse.html). Drug use can also lead to mild, moderate, or severe substance use disorders. Substance use disorders are sometimes called addiction.
+Drug use is dangerous. It can harm your brain and body, sometimes permanently. It can hurt the people around you, including friends, families, and kids. If you are pregnant, it can harm your [fetus](Pregnancy%20and%20Substance%20Use.md). Drug use can also lead to mild, moderate, or severe substance use disorders. Substance use disorders are sometimes called addiction.
 
 #### What is drug addiction?
 
@@ -44,7 +44,7 @@ Not everyone who uses drugs becomes addicted. Everyone's bodies and brains are d
 Various risk factors can make you more likely to become addicted to drugs, including:
 
 - **Your biology.** People can react to drugs differently. Some people like the feeling the first time they try a drug and want more. Others hate how it feels and never try it again.
-- **Mental health problems.** People who have untreated [mental health problems](https://medlineplus.gov/mentaldisorders.html), such as [depression](https://medlineplus.gov/depression.html), [anxiety](https://medlineplus.gov/anxiety.html), or [attention deficit/hyperactivity disorder](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html) (ADHD) are more likely to become addicted. This can happen because drug use and mental health problems affect the same parts of the brain. Also, people with these problems may use drugs to try to feel better.
+- **Mental health problems.** People who have untreated [mental health problems](Mental%20Disorders.md), such as [depression](Depression.md), [anxiety](Anxiety.md), or [attention deficit/hyperactivity disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md) (ADHD) are more likely to become addicted. This can happen because drug use and mental health problems affect the same parts of the brain. Also, people with these problems may use drugs to try to feel better.
 - **Trouble at home.** If your home is an unhappy place or was when you were growing up, you might be more likely to have a drug problem.
 - **Trouble in school, at work, or with making friends.** You might use drugs to get your mind off these problems.
 - **Hanging around other people who use drugs.** They might encourage you to try drugs.
@@ -78,7 +78,7 @@ The counseling may be individual, family, and/or group therapy. It can help you:
 
 If you stop or cut back on drugs you've used for a while, you may display different symptoms for different drugs. This is called withdrawal. Medicines can help with the symptoms of withdrawal. For addiction to certain drugs, there are also medicines that can help you re-establish normal brain function and decrease your cravings.
 
-If you have a mental disorder along with an addiction, it is known as a [dual diagnosis](https://medlineplus.gov/dualdiagnosis.html). It is important to treat both problems. This will increase your chance of success.
+If you have a mental disorder along with an addiction, it is known as a [dual diagnosis](Dual%20Diagnosis.md). It is important to treat both problems. This will increase your chance of success.
 
 If you have a severe addiction, you may need hospital-based or residential treatment. Residential treatment programs combine housing and treatment services.
 
@@ -90,19 +90,19 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Alcohol Use Disorder (AUD)
-- Anabolic Steroids
-- Cannabis
-- Club Drugs
-- Cocaine
-- Drugs and Young People
-- Heroin
-- Inhalants
-- Methamphetamine
-- Opioids and Opioid Use Disorder (OUD)
-- Prescription Drug Misuse
-- Smoking
+- [Alcohol Use Disorder (AUD)](Alcohol%20Use%20Disorder%20%28AUD%29.md)
+- [Anabolic Steroids](Anabolic%20Steroids.md)
+- [Cannabis](Cannabis.md)
+- [Club Drugs](Club%20Drugs.md)
+- [Cocaine](Cocaine.md)
+- [Drugs and Young People](Drugs%20and%20Young%20People.md)
+- [Heroin](Heroin.md)
+- [Inhalants](Inhalants.md)
+- [Methamphetamine](Methamphetamine.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
+- [Prescription Drug Misuse](Prescription%20Drug%20Misuse.md)
+- [Smoking](Smoking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/druguseandaddiction.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/druguseandaddiction.html). General information, not medical advice.*

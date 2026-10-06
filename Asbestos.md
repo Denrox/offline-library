@@ -5,8 +5,8 @@ Asbestos is the name of a group of minerals with long, thin fibers. It was once 
 If you breathe in high levels of asbestos over a long period of time, the fibers can build up in the lungs. This causes scarring and inflammation, and can affect breathing. Eventually it can lead to diseases such as:
 
 - Asbestosis, or scarring of the lungs that makes it hard to breathe
-- [Mesothelioma](https://medlineplus.gov/mesothelioma.html), a rare cancer that affects the lining of the lungs or abdomen
-- [Lung cancer](https://medlineplus.gov/lungcancer.html)
+- [Mesothelioma](Mesothelioma.md), a rare cancer that affects the lining of the lungs or abdomen
+- [Lung cancer](Lung%20Cancer.md)
 
 Lung diseases associated with asbestos usually develop over many years. People who become ill from asbestos are usually exposed on the job over long periods of time. Smoking cigarettes increases the risk.
 
@@ -14,8 +14,8 @@ Agency for Toxic Substances and Disease Registry
 
 ## Related topics
 
-- Mesothelioma
+- [Mesothelioma](Mesothelioma.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/asbestos.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/asbestos.html). General information, not medical advice.*

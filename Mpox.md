@@ -4,7 +4,7 @@
 
 #### What is mpox?
 
-Mpox, which used to be called monkeypox, is a disease caused by the monkeypox virus. This virus is in the same family of viruses as the [smallpox](https://medlineplus.gov/smallpox.html) virus.
+Mpox, which used to be called monkeypox, is a disease caused by the monkeypox virus. This virus is in the same family of viruses as the [smallpox](Smallpox.md) virus.
 
 Mpox can be spread between animals and people, but it's mainly spread through close contact with someone who has it. It is found regularly in parts of Central, Eastern and West Africa. The virus that causes it has been found in small rodents, monkeys, and other mammals that live in these areas.
 
@@ -42,13 +42,13 @@ Researchers have found that some people can spread mpox to others from 1 to 4 da
 The symptoms of mpox usually start within 3 weeks from the time you were exposed to the virus. The symptoms may include:
 
 - A rash with sores that can look like pimples or blisters. It could be on the face, inside the mouth, and on other parts of the body, like the hands, feet, chest, genitals, or anus. It goes through different stages, including scabs, before healing. This can take 2-4 weeks.
-- [Fever](https://medlineplus.gov/fever.html).
+- [Fever](Fever.md).
 - Chills.
 - Swollen lymph nodes ("swollen glands").
 - Exhaustion.
-- [Headache](https://medlineplus.gov/headache.html).
+- [Headache](Headache.md).
 - Muscle aches and backache.
-- Respiratory symptoms, such as a sore throat, nasal congestion, or [cough](https://medlineplus.gov/cough.html).
+- Respiratory symptoms, such as a sore throat, nasal congestion, or [cough](Cough.md).
 
 You may have all or only a few symptoms:
 
@@ -63,7 +63,7 @@ To find out if you have mpox, your health care provider:
 - Will ask about your symptoms and medical history.
 - Will look at your rash.
 - Will take a sample of tissue from one of the sores so it can be tested for the monkeypox virus.
-- May do blood tests to check for monkeypox virus or for antibodies to the virus. Antibodies are proteins that your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) makes to fight foreign substances such as [viruses](https://medlineplus.gov/viralinfections.html) and [bacteria](https://medlineplus.gov/bacterialinfections.html).
+- May do blood tests to check for monkeypox virus or for antibodies to the virus. Antibodies are proteins that your [immune system](Immune%20System%20and%20Disorders.md) makes to fight foreign substances such as [viruses](Viral%20Infections.md) and [bacteria](Bacterial%20Infections.md).
 
 #### What are the treatments for mpox?
 
@@ -71,10 +71,10 @@ There are no treatments specifically for mpox, but many people get better on the
 
 Since mpox and smallpox are similar, antiviral medicines that treat smallpox may also help treat mpox. Antiviral medicines may be recommended for people have severe mpox or are at risk of severe mpox, for example because they:
 
-- Have [immune system](https://medlineplus.gov/immunesystemanddisorders.html), for example from [HIV](https://medlineplus.gov/hiv.html) or other conditions
+- Have [immune system](Immune%20System%20and%20Disorders.md), for example from [HIV](HIV.md) or other conditions
 - Are pregnant
 - Are children, especially those under age 1
-- Have certain active skin conditions that can cause widespread infection, such as [eczema](https://medlineplus.gov/eczema.html), [impetigo](https://medlineplus.gov/impetigo.html), or [psoriasis](https://medlineplus.gov/psoriasis.html)
+- Have certain active skin conditions that can cause widespread infection, such as [eczema](Eczema.md), [impetigo](Impetigo.md), or [psoriasis](Psoriasis.md)
 
 If you have mpox, it is recommended that you stay home from the time you have symptoms until your mpox rash has healed and a new layer of skin has formed. It would be best to stay in a separate room from your family members and pets if you can.
 
@@ -87,7 +87,7 @@ The vaccine is recommended for people who are at risk of mpox, for example becau
 - Had or think they could've had exposure to someone with mpox
 - Are a man who has sex with men, who in the last 6 months had:
 
- - One or more [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs)
+ - One or more [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs)
  - More than one sexual partner
  - Sex at a commercial sex venue (like a sex club or bathhouse)
  - Sex at a large public event where people had spread mpox
@@ -112,19 +112,19 @@ There are also other steps you can take to help prevent mpox:
 
  - Do not touch the bedding, towels, or clothing of a person who has mpox
  - Do not share eating utensils or cups with them
- - If you or someone you live with has mpox, [clean and disinfect](https://medlineplus.gov/cleaningdisinfectingandsanitizing.html) your home
-- [Wash your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water or use an alcohol-based hand sanitizer, especially after contact with sick people.
+ - If you or someone you live with has mpox, [clean and disinfect](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md) your home
+- [Wash your hands](Germs%20and%20Hygiene.md) often with soap and water or use an alcohol-based hand sanitizer, especially after contact with sick people.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Cleaning, Disinfecting, and Sanitizing
-- Germs and Hygiene
-- Smallpox
-- Traveler's Health
-- Viral Infections
+- [Cleaning, Disinfecting, and Sanitizing](Cleaning%2C%20Disinfecting%2C%20and%20Sanitizing.md)
+- [Germs and Hygiene](Germs%20and%20Hygiene.md)
+- [Smallpox](Smallpox.md)
+- [Traveler's Health](Traveler%27s%20Health.md)
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mpox.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mpox.html). General information, not medical advice.*

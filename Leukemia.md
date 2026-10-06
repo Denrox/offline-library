@@ -2,11 +2,11 @@
 
 #### What is leukemia?
 
-[Leukemia](https://medlineplus.gov/leukemia.html) is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
 
 - White blood cells help your body fight infection
 - Red blood cells deliver oxygen from your lungs to your tissues and organs
-- [Platelets](https://medlineplus.gov/plateletdisorders.html) help form clots to stop bleeding
+- [Platelets](Platelet%20Disorders.md) help form clots to stop bleeding
 
 When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
 
@@ -26,10 +26,10 @@ The different types can grow quickly or slowly:
 
 The main types of leukemia are:
 
-- **[Acute lymphocytic leukemia (ALL)](acutelymphocyticleukemia.html),** which is the most common type of cancer in children. It can also affect adults.
-- **[Acute myeloid leukemia (AML)](acutemyeloidleukemia.html),** which is more common in older adults but can also affect children
-- **[Chronic lymphocytic leukemia (CLL)](chroniclymphocyticleukemia.html),** which is one of the most common types of leukemia in adults. It often occurs during or after middle age.
-- **[Chronic myeloid leukemia (CML)](chronicmyeloidleukemia.html),** which usually occurs in adults during or after middle age
+- **Acute lymphocytic leukemia (ALL),** which is the most common type of cancer in children. It can also affect adults.
+- **Acute myeloid leukemia (AML),** which is more common in older adults but can also affect children
+- **Chronic lymphocytic leukemia (CLL),** which is one of the most common types of leukemia in adults. It often occurs during or after middle age.
+- **Chronic myeloid leukemia (CML),** which usually occurs in adults during or after middle age
 
 #### What causes leukemia?
 
@@ -43,9 +43,9 @@ For the specific types, there are different factors which can raise your risk of
 
 Some of the symptoms of leukemia may include:
 
-- [Feeling tired](https://medlineplus.gov/fatigue.html)
-- [Fever](https://medlineplus.gov/fever.html) or night sweats
-- Easy [bruising](https://medlineplus.gov/bruises.html) or [bleeding](https://medlineplus.gov/bleeding.html)
+- [Feeling tired](Fatigue.md)
+- [Fever](Fever.md) or night sweats
+- Easy [bruising](Bruises.md) or [bleeding](Bleeding.md)
 - Weight loss or loss of appetite
 - Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
 
@@ -57,9 +57,9 @@ Your health care provider may use many tools to diagnose leukemia:
 
 - A physical exam
 - A medical history
-- Blood tests, such as a [complete blood count (CBC)](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)
-- [Bone marrow tests](https://medlineplus.gov/lab-tests/bone-marrow-tests/). There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
-- [Genetic tests](https://medlineplus.gov/genetictesting.html) to look for gene and chromosome changes
+- Blood tests, such as a complete blood count (CBC)
+- Bone marrow tests. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+- [Genetic tests](Genetic%20Testing.md) to look for gene and chromosome changes
 
 Once the provider makes a diagnosis, there may be additional tests to see whether the cancer has spread. These include imaging tests and a lumbar puncture, which is a procedure to collect and test cerebrospinal fluid (CSF).
 
@@ -67,21 +67,21 @@ Once the provider makes a diagnosis, there may be additional tests to see whethe
 
 The treatments for leukemia depend on which type you have, how severe the leukemia is, your age, your overall health, and other factors. Some possible treatments might include:
 
-- [Chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
-- [Radiation therapy](https://medlineplus.gov/radiationtherapy.html)
-- Chemotherapy with [stem cell transplant](https://medlineplus.gov/stemcells.html)
+- [Chemotherapy](Cancer%20Chemotherapy.md)
+- [Radiation therapy](Radiation%20Therapy.md)
+- Chemotherapy with [stem cell transplant](Stem%20Cells.md)
 - Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Acute Lymphocytic Leukemia
-- Acute Myeloid Leukemia
-- Childhood Leukemia
-- Chronic Lymphocytic Leukemia
-- Chronic Myeloid Leukemia
+- [Acute Lymphocytic Leukemia](Acute%20Lymphocytic%20Leukemia.md)
+- [Acute Myeloid Leukemia](Acute%20Myeloid%20Leukemia.md)
+- [Childhood Leukemia](Childhood%20Leukemia.md)
+- [Chronic Lymphocytic Leukemia](Chronic%20Lymphocytic%20Leukemia.md)
+- [Chronic Myeloid Leukemia](Chronic%20Myeloid%20Leukemia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/leukemia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/leukemia.html). General information, not medical advice.*

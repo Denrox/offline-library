@@ -7,14 +7,14 @@ People can lose all or part of an arm or leg for many reasons. Common ones inclu
 - Cancer.
 - Birth defects.
 
-Some amputees have phantom pain, which is the feeling of pain in the missing limb. Other physical problems include surgical complications and skin problems if you wear an [artificial limb](https://medlineplus.gov/artificiallimbs.html). Many amputees use an artificial limb. Learning how to use it takes time. Physical therapy can help you adapt.
+Some amputees have phantom pain, which is the feeling of pain in the missing limb. Other physical problems include surgical complications and skin problems if you wear an [artificial limb](Artificial%20Limbs.md). Many amputees use an artificial limb. Learning how to use it takes time. Physical therapy can help you adapt.
 
 Recovery from the loss of a limb can be hard. Sadness, anger, and frustration are common. If you are having a tough time, talk to your health care provider. Treatment with medicine or counseling can help.
 
 ## Related topics
 
-- Artificial Limbs
+- [Artificial Limbs](Artificial%20Limbs.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/limbloss.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/limbloss.html). General information, not medical advice.*

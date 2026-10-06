@@ -7,7 +7,7 @@ Dizziness and vertigo are not the same thing, but they are often mixed up.
 - **Dizziness** can make you feel lightheaded, woozy or unsteady on your feet.
 - **Vertigo** is the feeling that you or the room is spinning even when nothing is moving.
 
-These feelings may get worse when you walk, stand up, or move your head, and they can make you lose your [balance](https://medlineplus.gov/balanceproblems.html). You may also have [nausea, vomiting](https://medlineplus.gov/nauseaandvomiting.html), [sweating](https://medlineplus.gov/sweat.html), trouble walking, or [ringing in your ears](https://medlineplus.gov/tinnitus.html).
+These feelings may get worse when you walk, stand up, or move your head, and they can make you lose your [balance](Balance%20Problems.md). You may also have [nausea, vomiting](Nausea%20and%20Vomiting.md), [sweating](Sweat.md), trouble walking, or [ringing in your ears](Tinnitus.md).
 
 #### What causes dizziness and vertigo?
 
@@ -15,14 +15,14 @@ Dizziness and vertigo can happen to anyone, but they are more common as you get 
 
 Common causes of dizziness and vertigo may include:
 
-- A sudden drop in [blood pressure](https://medlineplus.gov/lowbloodpressure.html)
-- [Dehydration](https://medlineplus.gov/dehydration.html)
+- A sudden drop in [blood pressure](Low%20Blood%20Pressure.md)
+- [Dehydration](Dehydration.md)
 - Getting up too quickly
 - Certain medicines
-- [Inner ear problems](https://medlineplus.gov/eardisorders.html), such as [Meniere's disease](https://medlineplus.gov/menieresdisease.html), or benign paroxysmal positional vertigo (BPPV), the most common cause of vertigo
-- [Motion sickness](https://medlineplus.gov/motionsickness.html)
-- [Migraines](https://medlineplus.gov/migraine.html)
-- A [head injury](https://medlineplus.gov/headinjuries.html) or ear surgery
+- [Inner ear problems](Ear%20Disorders.md), such as [Meniere's disease](Meniere%27s%20Disease.md), or benign paroxysmal positional vertigo (BPPV), the most common cause of vertigo
+- [Motion sickness](Motion%20Sickness.md)
+- [Migraines](Migraine.md)
+- A [head injury](Head%20Injuries.md) or ear surgery
 
 Sometimes dizziness or vertigo is a symptom of another condition.
 
@@ -30,22 +30,22 @@ Sometimes dizziness or vertigo is a symptom of another condition.
 
 Your provider will ask about your medicines and symptoms and may do a physical exam. They may check your hearing, balance, and how you walk.
 
-You may need an [imaging test](https://medlineplus.gov/diagnosticimaging.html) if your provider thinks you may have had a [stroke](https://medlineplus.gov/stroke.html) or if you've had a head injury.
+You may need an [imaging test](Diagnostic%20Imaging.md) if your provider thinks you may have had a [stroke](Stroke.md) or if you've had a head injury.
 
 #### What are the treatments for dizziness and vertigo?
 
 Dizziness often gets better on its own, but if it keeps happening, your provider can help you find the cause and the right treatment. Treatment depends on the cause and may include balance exercises and medicines.
 
-Get [emergency help](https://medlineplus.gov/emergencymedicalservices.html) right away if you have sudden or severe dizziness or vertigo along with vision problems, slurred speech or weakness. These may be signs of a more serious condition.
+Get [emergency help](Emergency%20Medical%20Services.md) right away if you have sudden or severe dizziness or vertigo along with vision problems, slurred speech or weakness. These may be signs of a more serious condition.
 
 NIH: National Institutes of Health
 
 ## Related topics
 
-- Balance Problems
-- Meniere's Disease
-- Motion Sickness
+- [Balance Problems](Balance%20Problems.md)
+- [Meniere's Disease](Meniere%27s%20Disease.md)
+- [Motion Sickness](Motion%20Sickness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dizzinessandvertigo.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dizzinessandvertigo.html). General information, not medical advice.*

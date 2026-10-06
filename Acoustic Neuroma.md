@@ -2,7 +2,7 @@
 
 *Also called: Acoustic neurilemmoma, Acoustic neurinoma, Auditory tumor, Vestibular schwannoma*
 
-An acoustic neuroma is a [benign tumor](https://medlineplus.gov/benigntumors.html) that develops on the nerve that connects the ear to the brain. The tumor usually grows slowly. As it grows, it presses against the hearing and balance nerves. At first, you may have no symptoms or mild symptoms. They can include:
+An acoustic neuroma is a [benign tumor](Benign%20Tumors.md) that develops on the nerve that connects the ear to the brain. The tumor usually grows slowly. As it grows, it presses against the hearing and balance nerves. At first, you may have no symptoms or mild symptoms. They can include:
 
 - Loss of hearing on one side
 - Ringing in ears
@@ -14,14 +14,14 @@ Acoustic neuroma can be difficult to diagnose, because the symptoms are similar 
 
 If the tumor stays small, you may only need to have it checked regularly. If you do need treatment, surgery and radiation are options.
 
-If the tumors affect both hearing nerves, it is often because of a genetic disorder called [neurofibromatosis](https://medlineplus.gov/neurofibromatosis.html).
+If the tumors affect both hearing nerves, it is often because of a genetic disorder called [neurofibromatosis](Neurofibromatosis.md).
 
 NIH: National Institute on Deafness and Communication Disorders
 
 ## Related topics
 
-- Neurofibromatosis
+- [Neurofibromatosis](Neurofibromatosis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/acousticneuroma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/acousticneuroma.html). General information, not medical advice.*

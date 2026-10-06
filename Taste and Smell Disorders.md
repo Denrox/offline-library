@@ -10,9 +10,9 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Mouth Disorders
-- Nose Injuries and Disorders
+- [Mouth Disorders](Mouth%20Disorders.md)
+- [Nose Injuries and Disorders](Nose%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tasteandsmelldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tasteandsmelldisorders.html). General information, not medical advice.*

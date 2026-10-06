@@ -8,4 +8,4 @@ There are different types of biopsies. A needle biopsy removes tissue with a nee
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/biopsy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/biopsy.html). General information, not medical advice.*

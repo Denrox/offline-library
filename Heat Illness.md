@@ -13,15 +13,15 @@ Heat-related illnesses include:
 - Heat cramps - muscle pains or spasms that happen during heavy exercise. You usually get them in your abdomen, arms, or legs.
 - Heat rash - skin irritation from excessive sweating. It is more common in young children.
 
-You can lower your risk of heat illness by drinking fluids to prevent [dehydration](https://medlineplus.gov/dehydration.html), replacing lost salt and minerals, and limiting your time in the heat.
+You can lower your risk of heat illness by drinking fluids to prevent [dehydration](Dehydration.md), replacing lost salt and minerals, and limiting your time in the heat.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Dehydration
-- Sun Exposure
+- [Dehydration](Dehydration.md)
+- [Sun Exposure](Sun%20Exposure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/heatillness.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/heatillness.html). General information, not medical advice.*

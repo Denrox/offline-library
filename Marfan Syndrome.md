@@ -1,6 +1,6 @@
 # Marfan Syndrome
 
-Marfan syndrome is a disorder that affects connective tissue. [Connective tissues](https://medlineplus.gov/connectivetissuedisorders.html) are proteins that support skin, bones, blood vessels, and other organs. One of these proteins is fibrillin. A problem with the fibrillin gene causes Marfan syndrome.
+Marfan syndrome is a disorder that affects connective tissue. [Connective tissues](Connective%20Tissue%20Disorders.md) are proteins that support skin, bones, blood vessels, and other organs. One of these proteins is fibrillin. A problem with the fibrillin gene causes Marfan syndrome.
 
 Marfan syndrome can be mild to severe, and the symptoms can vary. People with Marfan syndrome are often very tall, thin, and loose jointed. Most people with Marfan syndrome have heart and blood vessel problems, such as a weakness in the aorta or heart valves that leak. They may also have problems with their bones, eyes, skin, nervous system, and lungs.
 
@@ -10,4 +10,4 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/marfansyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/marfansyndrome.html). General information, not medical advice.*

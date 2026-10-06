@@ -2,7 +2,7 @@
 
 *Also called: Enterobiasis, Oxyuriasis, Seatworm infection, Threadworm infection*
 
-Pinworms are small [parasites](https://medlineplus.gov/parasiticdiseases.html) that can live in the colon and rectum. You get them when you swallow their eggs. The eggs hatch inside your intestines. While you sleep, the female pinworms leave the intestines through the anus and lay eggs on nearby skin.
+Pinworms are small [parasites](Parasitic%20Diseases.md) that can live in the colon and rectum. You get them when you swallow their eggs. The eggs hatch inside your intestines. While you sleep, the female pinworms leave the intestines through the anus and lay eggs on nearby skin.
 
 Pinworms spread easily. When people who are infected touch their anus, the eggs attach to their fingertips. They can spread the eggs to others directly through their hands, or through contaminated clothing, bedding, food, or other articles. The eggs can live on household surfaces for up to 2 weeks.
 
@@ -23,4 +23,4 @@ NIH: National Institute of Allergy and Infectious Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pinworms.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pinworms.html). General information, not medical advice.*

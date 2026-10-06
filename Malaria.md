@@ -1,6 +1,6 @@
 # Malaria
 
-Malaria is a serious disease caused by a parasite. You get it when an infected [mosquito](https://medlineplus.gov/mosquitobites.html) bites you. Malaria is a major cause of death worldwide, but it is almost wiped out in the United States. The disease is mostly a problem in developing countries with warm climates. If you [travel](https://medlineplus.gov/travelershealth.html) to these countries, you are at risk. There are four different types of malaria caused by four related parasites. The most deadly type occurs in Africa south of the Sahara Desert.
+Malaria is a serious disease caused by a parasite. You get it when an infected [mosquito](Mosquito%20Bites.md) bites you. Malaria is a major cause of death worldwide, but it is almost wiped out in the United States. The disease is mostly a problem in developing countries with warm climates. If you [travel](Traveler%27s%20Health.md) to these countries, you are at risk. There are four different types of malaria caused by four related parasites. The most deadly type occurs in Africa south of the Sahara Desert.
 
 Malaria symptoms include chills, flu-like symptoms, fever, vomiting, diarrhea, and jaundice. A blood test can diagnose it. It can be life-threatening. However, you can treat malaria with drugs. The type of drug depends on which kind of malaria you have and where you were infected.
 
@@ -15,10 +15,10 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Mosquito Bites
-- Parasitic Diseases
-- Traveler's Health
+- [Mosquito Bites](Mosquito%20Bites.md)
+- [Parasitic Diseases](Parasitic%20Diseases.md)
+- [Traveler's Health](Traveler%27s%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/malaria.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/malaria.html). General information, not medical advice.*

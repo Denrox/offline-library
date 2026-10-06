@@ -4,9 +4,9 @@
 
 Sleep apnea is a common disorder that causes your breathing to stop or get very shallow. Breathing pauses can last from a few seconds to minutes. They may occur 30 times or more an hour.
 
-The most common type is obstructive sleep apnea. It causes your airway to collapse or become blocked during sleep. Normal breathing starts again with a snort or choking sound. People with sleep apnea often snore loudly. However, not everyone who [snores](https://medlineplus.gov/snoring.html) has sleep apnea.
+The most common type is obstructive sleep apnea. It causes your airway to collapse or become blocked during sleep. Normal breathing starts again with a snort or choking sound. People with sleep apnea often snore loudly. However, not everyone who [snores](Snoring.md) has sleep apnea.
 
-You are more at risk for sleep apnea if you are overweight, male, or have a family history or small airways. Children with enlarged [tonsils](https://medlineplus.gov/tonsillitis.html) or [adenoids](https://medlineplus.gov/adenoids.html) may also get it.
+You are more at risk for sleep apnea if you are overweight, male, or have a family history or small airways. Children with enlarged [tonsils](Tonsillitis.md) or [adenoids](Adenoids.md) may also get it.
 
 Doctors diagnose sleep apnea based on medical and family histories, a physical exam, and sleep study results.
 
@@ -16,10 +16,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Breathing Problems
-- Sleep Disorders
-- Snoring
+- [Breathing Problems](Breathing%20Problems.md)
+- [Sleep Disorders](Sleep%20Disorders.md)
+- [Snoring](Snoring.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sleepapnea.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sleepapnea.html). General information, not medical advice.*

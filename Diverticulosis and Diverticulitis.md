@@ -25,11 +25,11 @@ Researchers aren't sure what causes diverticulosis and diverticulitis. They thin
 - **Your genetics.** Certain genes may make some people more likely to develop the conditions.
 - **Lifestyle factors** such as:
 
- - Diets low in [fiber](https://medlineplus.gov/dietaryfiber.html) and high in red meat
- - [Lack of physical activity](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
- - Taking certain medicines, such as [nonsteroidal anti-inflammatory drugs](https://medlineplus.gov/painrelievers.html) (NSAIDs) and [steroids](https://medlineplus.gov/steroids.html)
- - Having [obesity](https://medlineplus.gov/obesity.html)
- - [Smoking](https://medlineplus.gov/smoking.html)
+ - Diets low in [fiber](Dietary%20Fiber.md) and high in red meat
+ - [Lack of physical activity](Health%20Risks%20of%20an%20Inactive%20Lifestyle.md)
+ - Taking certain medicines, such as [nonsteroidal anti-inflammatory drugs](Pain%20Relievers.md) (NSAIDs) and [steroids](Steroids.md)
+ - Having [obesity](Obesity.md)
+ - [Smoking](Smoking.md)
 
 Researchers are also looking at other possible factors that may play a role in these conditions. Those factors include bacteria or stool (poop) getting caught in a pouch in your colon and changes in the microbiome in the intestines. Your microbiome is made up of the bacteria and other organisms in your intestines.
 
@@ -42,15 +42,15 @@ Diverticulosis is common, especially as people age. More than one-third of U.S. 
 Diverticulosis usually doesn't cause symptoms. But some people can have chronic symptoms such as:
 
 - Bloating
-- [Constipation](https://medlineplus.gov/constipation.html) or [diarrhea](https://medlineplus.gov/diarrhea.html)
-- Cramping or [pain](https://medlineplus.gov/abdominalpain.html) in the lower abdomen (belly)
+- [Constipation](Constipation.md) or [diarrhea](Diarrhea.md)
+- Cramping or [pain](Abdominal%20Pain.md) in the lower abdomen (belly)
 
 Diverticulitis may cause acute symptoms such as:
 
 - Abdominal pain, most often in the lower left side of your abdomen
 - Constipation or diarrhea
-- [Fevers](https://medlineplus.gov/fever.html) and chills
-- [Nausea or vomiting](https://medlineplus.gov/nauseaandvomiting.html)
+- [Fevers](Fever.md) and chills
+- [Nausea or vomiting](Nausea%20and%20Vomiting.md)
 
 The pain caused by diverticulitis is usually severe and comes on suddenly. Less often, the pain may be mild and worsen over several days.
 
@@ -60,11 +60,11 @@ Some people with diverticulosis and diverticulitis may develop serious health pr
 
 People with diverticulitis can also develop serious problems such as:
 
-- [Abscess](https://medlineplus.gov/abscess.html), a painful, swollen, pus-filled area caused by infection
-- [Fistula](https://medlineplus.gov/fistulas.html), an abnormal opening or passage between the colon and another part of the body, such as the bladder or vagina
-- [Intestinal obstruction](https://medlineplus.gov/intestinalobstruction.html), a partial or total blockage that keeps food, fluids, air, or stool from moving through your intestines
+- [Abscess](Abscess.md), a painful, swollen, pus-filled area caused by infection
+- [Fistula](Fistulas.md), an abnormal opening or passage between the colon and another part of the body, such as the bladder or vagina
+- [Intestinal obstruction](Intestinal%20Obstruction.md), a partial or total blockage that keeps food, fluids, air, or stool from moving through your intestines
 - Perforation, or a hole, in your colon
-- [Peritonitis](https://medlineplus.gov/peritonealdisorders.html), an infection of the lining of the abdominal cavity
+- [Peritonitis](Peritoneal%20Disorders.md), an infection of the lining of the abdominal cavity
 
 #### How are diverticulosis and diverticulitis diagnosed?
 
@@ -74,15 +74,15 @@ To make a diagnosis, your provider will review your medical history, do a physic
 
 - Blood tests
 - Stool tests
-- [Imaging tests](https://medlineplus.gov/diagnosticimaging.html) such as [CT scan](https://medlineplus.gov/ctscans.html), [ultrasound](https://medlineplus.gov/lab-tests/sonogram/), or [MRI](https://medlineplus.gov/mriscans.html)
-- [Colonoscopy](https://medlineplus.gov/colonoscopy.html)
+- [Imaging tests](Diagnostic%20Imaging.md) such as [CT scan](CT%20Scans.md), ultrasound, or [MRI](MRI%20Scans.md)
+- [Colonoscopy](Colonoscopy.md)
 
 #### What are the treatments for diverticulosis and diverticulitis?
 
 If your diverticulosis is causing chronic symptoms, your provider may recommend:
 
 - High-fiber foods or fiber supplements
-- [Antibiotics](https://medlineplus.gov/antibiotics.html)
+- [Antibiotics](Antibiotics.md)
 - Medicines to reduce inflammation
 - Probiotics
 
@@ -102,12 +102,12 @@ If your diverticulitis doesn't improve with treatment or if it causes complicati
 Your provider may recommend lifestyle changes to prevent diverticulitis:
 
 - Eating a diet high in fiber and low in red meat
-- [Being physically active on a regular basis](https://medlineplus.gov/howmuchexercisedoineed.html)
-- Not smoking (and [quitting smoking](https://medlineplus.gov/quittingsmoking.html) if you are a smoker)
-- Reaching and maintaining a [healthy weigh](https://medlineplus.gov/weightcontrol.html)t
+- [Being physically active on a regular basis](How%20Much%20Exercise%20Do%20I%20Need.md)
+- Not smoking (and [quitting smoking](Quitting%20Smoking.md) if you are a smoker)
+- Reaching and maintaining a [healthy weigh](Weight%20Control.md)t
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diverticulosisanddiverticulitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diverticulosisanddiverticulitis.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 *Also called: End-of-life care*
 
-Hospice care is [end-of-life](https://medlineplus.gov/endoflifeissues.html) care. A team of health care professionals and volunteers provides it. They give medical, psychological, and spiritual support. The goal of the care is to help people who are dying have peace, comfort, and dignity. The caregivers try to control pain and other symptoms so a person can remain as alert and comfortable as possible. Hospice programs also provide services to support a patient's family.
+Hospice care is [end-of-life](End%20of%20Life%20Issues.md) care. A team of health care professionals and volunteers provides it. They give medical, psychological, and spiritual support. The goal of the care is to help people who are dying have peace, comfort, and dignity. The caregivers try to control pain and other symptoms so a person can remain as alert and comfortable as possible. Hospice programs also provide services to support a patient's family.
 
 Usually, a hospice patient is expected to live 6 months or less. Hospice care can take place:
 
@@ -15,10 +15,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- End of Life Issues
-- Home Care Services
-- Palliative Care
+- [End of Life Issues](End%20of%20Life%20Issues.md)
+- [Home Care Services](Home%20Care%20Services.md)
+- [Palliative Care](Palliative%20Care.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hospicecare.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hospicecare.html). General information, not medical advice.*

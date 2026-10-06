@@ -4,7 +4,7 @@
 
 A rash is an area of irritated or swollen skin. Many rashes are itchy, red, painful, and irritated. Some rashes can also lead to blisters or patches of raw skin. Rashes are a symptom of many different medical problems. Other causes include irritating substances and allergies. Certain genes can make people more likely to get rashes.
 
-Contact dermatitis is a common type of rash. It causes redness, itching, and sometimes small bumps. You get the rash where you have touched an irritant, such as a chemical, or something you are allergic to, like [poison ivy](https://medlineplus.gov/poisonivyoakandsumac.html).
+Contact dermatitis is a common type of rash. It causes redness, itching, and sometimes small bumps. You get the rash where you have touched an irritant, such as a chemical, or something you are allergic to, like [poison ivy](Poison%20Ivy%2C%20Oak%2C%20and%20Sumac.md).
 
 Some rashes develop right away. Others form over several days. Although most rashes clear up fairly quickly, others are long-lasting and need long-term treatment.
 
@@ -12,12 +12,12 @@ Because rashes can be caused by many different things, it's important to figure 
 
 ## Related topics
 
-- Allergy
-- Eczema
-- Latex Allergy
-- Poison Ivy, Oak, and Sumac
-- Skin Conditions
+- [Allergy](Allergy.md)
+- [Eczema](Eczema.md)
+- [Latex Allergy](Latex%20Allergy.md)
+- [Poison Ivy, Oak, and Sumac](Poison%20Ivy%2C%20Oak%2C%20and%20Sumac.md)
+- [Skin Conditions](Skin%20Conditions.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rashes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rashes.html). General information, not medical advice.*

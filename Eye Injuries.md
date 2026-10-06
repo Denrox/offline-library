@@ -8,8 +8,8 @@ Chemicals or heat can burn your eyes. With chemicals, the pain may cause you to 
 
 ## Related topics
 
-- Retinal Detachment
+- [Retinal Detachment](Retinal%20Detachment.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eyeinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eyeinjuries.html). General information, not medical advice.*

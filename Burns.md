@@ -1,6 +1,6 @@
 # Burns
 
-A burn is damage to your body's tissues caused by heat, chemicals, [electricity](https://medlineplus.gov/electricalinjuries.html), [sunlight](https://medlineplus.gov/sunexposure.html), or [radiation](https://medlineplus.gov/radiationexposure.html). Scalds from hot liquids and steam, building fires and flammable liquids and gases are the most common causes of burns. Another kind is an [inhalation injury](https://medlineplus.gov/inhalationinjuries.html), caused by breathing smoke.
+A burn is damage to your body's tissues caused by heat, chemicals, [electricity](Electrical%20Injuries.md), [sunlight](Sun%20Exposure.md), or [radiation](Radiation%20Exposure.md). Scalds from hot liquids and steam, building fires and flammable liquids and gases are the most common causes of burns. Another kind is an [inhalation injury](Inhalation%20Injuries.md), caused by breathing smoke.
 
 There are three types of burns:
 
@@ -8,17 +8,17 @@ There are three types of burns:
 - Second-degree burns damage the outer layer and the layer underneath
 - Third-degree burns damage or destroy the deepest layer of skin and tissues underneath
 
-Burns can cause swelling, blistering, scarring and, in serious cases, [shock](https://medlineplus.gov/shock.html), and even death. They also can lead to infections because they damage your skin's protective barrier. Treatment for burns depends on the cause of the burn, how deep it is, and how much of the body it covers. Antibiotic creams can prevent or treat infections. For more serious burns, treatment may be needed to clean the wound, replace the skin, and make sure the patient has enough fluids and nutrition.
+Burns can cause swelling, blistering, scarring and, in serious cases, [shock](Shock.md), and even death. They also can lead to infections because they damage your skin's protective barrier. Treatment for burns depends on the cause of the burn, how deep it is, and how much of the body it covers. Antibiotic creams can prevent or treat infections. For more serious burns, treatment may be needed to clean the wound, replace the skin, and make sure the patient has enough fluids and nutrition.
 
 NIH: National Institute of General Medical Sciences
 
 ## Related topics
 
-- Electrical Injuries
-- Fire Safety
-- Inhalation Injuries
-- Wildfires
+- [Electrical Injuries](Electrical%20Injuries.md)
+- [Fire Safety](Fire%20Safety.md)
+- [Inhalation Injuries](Inhalation%20Injuries.md)
+- [Wildfires](Wildfires.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/burns.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/burns.html). General information, not medical advice.*

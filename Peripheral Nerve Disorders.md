@@ -8,7 +8,7 @@ Nerves are like wires that carry messages back and forth between your brain and 
 
 #### What are peripheral nerve disorders?
 
-Peripheral nerve disorders happen when one or more peripheral nerves are damaged. Damaged nerves may not carry messages correctly, or they may not work at all. As a result, you may have [pain](https://medlineplus.gov/pain.html), [trouble walking](https://medlineplus.gov/walkingproblems.html), or a variety of other problems, depending on which nerves are involved.
+Peripheral nerve disorders happen when one or more peripheral nerves are damaged. Damaged nerves may not carry messages correctly, or they may not work at all. As a result, you may have [pain](Pain.md), [trouble walking](Walking%20Problems.md), or a variety of other problems, depending on which nerves are involved.
 
 Peripheral nerve disorders are very common. There are more than 100 different types.
 
@@ -16,20 +16,20 @@ Peripheral nerve disorders are very common. There are more than 100 different ty
 
 Many things can damage nerves and lead to peripheral nerve disorders:
 
-- **[Diabetes](https://medlineplus.gov/diabetes.html)** is the most common cause of peripheral nerve disorders. Most people with diabetes will develop [diabetic nerve problems](https://medlineplus.gov/diabeticnerveproblems.html).
-- **Physical injury** ([trauma](https://medlineplus.gov/woundsandinjuries.html)) that stretches, crushes, squeezes, cuts, or puts pressure on one or more nerves. Some examples of peripheral nerve disorders from physical injury include [complex regional pain syndrome](https://medlineplus.gov/complexregionalpainsyndrome.html) and [brachial plexus injuries](https://medlineplus.gov/brachialplexusinjuries.html).
+- **[Diabetes](Diabetes.md)** is the most common cause of peripheral nerve disorders. Most people with diabetes will develop [diabetic nerve problems](Diabetic%20Nerve%20Problems.md).
+- **Physical injury** ([trauma](Wounds%20and%20Injuries.md)) that stretches, crushes, squeezes, cuts, or puts pressure on one or more nerves. Some examples of peripheral nerve disorders from physical injury include [complex regional pain syndrome](Complex%20Regional%20Pain%20Syndrome.md) and [brachial plexus injuries](Brachial%20Plexus%20Injuries.md).
 - **Health conditions**, including:
 
- - **Certain [cancers](https://medlineplus.gov/cancer.html) and their treatment** ([chemotherapy](https://medlineplus.gov/cancerchemotherapy.html) and [radiation therapy](https://medlineplus.gov/radiationtherapy.html)).
- - **Infections**, such as [HIV](https://medlineplus.gov/hiv.html) and [Lyme disease](https://medlineplus.gov/lymedisease.html).
- - **Problems with [blood](https://medlineplus.gov/blooddisorders.html) or [blood vessels](https://medlineplus.gov/vasculardiseases.html).**
- - **[Autoimmune diseases](https://medlineplus.gov/autoimmunediseases.html)**, such as [rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html) and [lupus](https://medlineplus.gov/lupus.html).
- - **[Kidney](https://medlineplus.gov/kidneydiseases.html)** or **[liver disease](https://medlineplus.gov/liverdiseases.html)**.
+ - **Certain [cancers](Cancer.md) and their treatment** ([chemotherapy](Cancer%20Chemotherapy.md) and [radiation therapy](Radiation%20Therapy.md)).
+ - **Infections**, such as [HIV](HIV.md) and [Lyme disease](Lyme%20Disease.md).
+ - **Problems with [blood](Blood%20Disorders.md) or [blood vessels](Vascular%20Diseases.md).**
+ - **[Autoimmune diseases](Autoimmune%20Diseases.md)**, such as [rheumatoid arthritis](Rheumatoid%20Arthritis.md) and [lupus](Lupus.md).
+ - **[Kidney](Kidney%20Diseases.md)** or **[liver disease](Liver%20Diseases.md)**.
 - **Certain medicines.**
-- **Contact with certain toxic substances**, such as [lead](https://medlineplus.gov/leadpoisoning.html) or [mercury](https://medlineplus.gov/mercury.html).
-- **[Alcohol use disorder (AUD)](alcoholusedisorderaud.html) and [smoking](https://medlineplus.gov/smoking.html).**
-- **[Vitamin imbalances](https://medlineplus.gov/vitamins.html)**, especially a lack of [vitamin B12](https://medlineplus.gov/lab-tests/vitamin-b-test/).
-- **Your [genes](https://medlineplus.gov/genetics/understanding/basics/gene/)**, including changes in your genes or conditions that you inherit from your parents, such as [Charcot-Marie-Tooth disease](https://medlineplus.gov/charcotmarietoothdisease.html).
+- **Contact with certain toxic substances**, such as [lead](Lead%20Poisoning.md) or [mercury](Mercury.md).
+- **Alcohol use disorder (AUD) and [smoking](Smoking.md).**
+- **[Vitamin imbalances](Vitamins.md)**, especially a lack of vitamin B12.
+- **Your genes**, including changes in your genes or conditions that you inherit from your parents, such as [Charcot-Marie-Tooth disease](Charcot-Marie-Tooth%20Disease.md).
 
 In certain cases, the cause of peripheral nerve disorder is not known.
 
@@ -42,7 +42,7 @@ The symptoms of peripheral nerve disorders depend on which nerves are affected, 
 
 - Weak or aching muscles
 - Problems with balance, walking, or using your arms and hands
-- [Cramps](https://medlineplus.gov/musclecramps.html) or twitching muscles
+- [Cramps](Muscle%20Cramps.md) or twitching muscles
 - Muscle shrinking
 
 - **Sensory nerves** carry messages to your brain from your senses, including touch, hot and cold, and pain.
@@ -51,13 +51,13 @@ The symptoms of peripheral nerve disorders depend on which nerves are affected, 
 - Not being able to feel heat, cold, or pain, such as a cut on your foot
 - Pain from even light touch
 
-- **[Autonomic nerves](https://medlineplus.gov/autonomicnervoussystemdisorders.html)** send messages to your organs to control breathing, digestion, and other body functions that happen without thinking about them.
+- **[Autonomic nerves](Autonomic%20Nervous%20System%20Disorders.md)** send messages to your organs to control breathing, digestion, and other body functions that happen without thinking about them.
 
-- [A heartbeat that's too fast or too slow](https://medlineplus.gov/arrhythmia.html)
-- [Trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
-- [Sweating](https://medlineplus.gov/sweat.html) too much or too little
-- [Vomiting](https://medlineplus.gov/nauseaandvomiting.html), [diarrhea](https://medlineplus.gov/diarrhea.html), or [constipation](https://medlineplus.gov/constipation.html)
-- Problems with [urination](https://medlineplus.gov/urineandurination.html) or sexual function  
+- [A heartbeat that's too fast or too slow](Arrhythmia.md)
+- [Trouble swallowing](Swallowing%20Disorders.md)
+- [Sweating](Sweat.md) too much or too little
+- [Vomiting](Nausea%20and%20Vomiting.md), [diarrhea](Diarrhea.md), or [constipation](Constipation.md)
+- Problems with [urination](Urine%20and%20Urination.md) or sexual function  
   
 Symptoms may range from mild to very strong. They may develop quickly over days or slowly over months and years. But they are rarely life-threatening.
 
@@ -66,18 +66,18 @@ Symptoms may range from mild to very strong. They may develop quickly over days 
 To find out if you have a peripheral nerve disorder, your provider will:
 
 - Ask about your medical history
-- Ask about your [family health history](https://medlineplus.gov/familyhistory.html)
+- Ask about your [family health history](Family%20History.md)
 - Do a physical exam
 - Order tests, which may include:
 
  - Blood tests
- - [Genetic tests](https://medlineplus.gov/genetictesting.html)
+ - [Genetic tests](Genetic%20Testing.md)
  - Nerve tests that measure:
 
- - [Electrical activity in your nerves and muscles](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/)
- - [How well your autonomic nerves are working](https://medlineplus.gov/lab-tests/autonomic-testing/)
- - A [biopsy](https://medlineplus.gov/biopsy.html) of nerve or skin tissue
- - [CT](https://medlineplus.gov/ctscans.html) or [MRI](https://medlineplus.gov/mriscans.html) scan to see what may be pressing on your nerves
+ - Electrical activity in your nerves and muscles
+ - How well your autonomic nerves are working
+ - A [biopsy](Biopsy.md) of nerve or skin tissue
+ - [CT](CT%20Scans.md) or [MRI](MRI%20Scans.md) scan to see what may be pressing on your nerves
 
 #### What are the treatments for peripheral nerve disorders?
 
@@ -88,7 +88,7 @@ Treatment for symptoms depends on the type of peripheral nerve disorder you have
 - **Braces or splints**
 - Over-the-counter **patches and skin creams**
 - **Prescription medicines**
-- **[Non-drug pain management](https://medlineplus.gov/nondrugpainmanagement.html)**, such as electrical stimulation or relaxation therapy
+- **[Non-drug pain management](Non-Drug%20Pain%20Management.md)**, such as electrical stimulation or relaxation therapy
 - **Surgery** to relieve pressure on a nerve
 
 #### Can peripheral nerve disorders be prevented?
@@ -96,26 +96,26 @@ Treatment for symptoms depends on the type of peripheral nerve disorder you have
 You can help prevent peripheral nerve disorders by:
 
 - Managing health conditions that may cause nerve damage, especially diabetes
-- Preventing [falls](https://medlineplus.gov/falls.html) and accidents
+- Preventing [falls](Falls.md) and accidents
 - Avoiding toxic substances
-- [Being careful to avoid repeated motions and body positions](https://medlineplus.gov/ergonomics.html) that press on your nerves
-- Eating a [balanced diet](https://medlineplus.gov/nutrition.html), [exercising](https://medlineplus.gov/howmuchexercisedoineed.html), limiting [alcohol](https://medlineplus.gov/alcohol.html), and [not smoking](https://medlineplus.gov/quittingsmoking.html)
+- [Being careful to avoid repeated motions and body positions](Ergonomics.md) that press on your nerves
+- Eating a [balanced diet](Nutrition.md), [exercising](How%20Much%20Exercise%20Do%20I%20Need.md), limiting [alcohol](Alcohol.md), and [not smoking](Quitting%20Smoking.md)
 
 NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Brachial Plexus Injuries
-- Carpal Tunnel Syndrome
-- Complex Regional Pain Syndrome
-- Degenerative Nerve Diseases
-- Diabetic Nerve Problems
-- Guillain-Barre Syndrome
-- Pain
-- Sciatica
-- Thoracic Outlet Syndrome
-- Trigeminal Neuralgia
+- [Brachial Plexus Injuries](Brachial%20Plexus%20Injuries.md)
+- [Carpal Tunnel Syndrome](Carpal%20Tunnel%20Syndrome.md)
+- [Complex Regional Pain Syndrome](Complex%20Regional%20Pain%20Syndrome.md)
+- [Degenerative Nerve Diseases](Degenerative%20Nerve%20Diseases.md)
+- [Diabetic Nerve Problems](Diabetic%20Nerve%20Problems.md)
+- [Guillain-Barre Syndrome](Guillain-Barre%20Syndrome.md)
+- [Pain](Pain.md)
+- [Sciatica](Sciatica.md)
+- [Thoracic Outlet Syndrome](Thoracic%20Outlet%20Syndrome.md)
+- [Trigeminal Neuralgia](Trigeminal%20Neuralgia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/peripheralnervedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/peripheralnervedisorders.html). General information, not medical advice.*

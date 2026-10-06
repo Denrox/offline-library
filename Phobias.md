@@ -1,6 +1,6 @@
 # Phobias
 
-A phobia is a type of [anxiety disorder](https://medlineplus.gov/anxiety.html). It is a strong, irrational fear of something that poses little or no real danger.
+A phobia is a type of [anxiety disorder](Anxiety.md). It is a strong, irrational fear of something that poses little or no real danger.
 
 There are many specific phobias. Acrophobia is a fear of heights. Agoraphobia is a fear of public places, and claustrophobia is a fear of closed-in places. If you become anxious and extremely self-conscious in everyday social situations, you could have a social phobia. Other common phobias involve tunnels, highway driving, water, flying, animals and blood.
 
@@ -20,9 +20,9 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Anxiety
-- Panic Disorder
+- [Anxiety](Anxiety.md)
+- [Panic Disorder](Panic%20Disorder.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/phobias.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/phobias.html). General information, not medical advice.*

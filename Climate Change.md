@@ -4,11 +4,11 @@ Climate is the average weather in a place over a period of time. Climate change 
 
 Climate change can affect our health. It can lead to:
 
-- More [heat-related illness](https://medlineplus.gov/heatillness.html) and deaths
-- More pollen, mold, and [air pollution](https://medlineplus.gov/airpollution.html). This can cause an increase in allergies, asthma, and breathing problems.
+- More [heat-related illness](Heat%20Illness.md) and deaths
+- More pollen, mold, and [air pollution](Air%20Pollution.md). This can cause an increase in allergies, asthma, and breathing problems.
 - Mosquitoes and other insects that carry diseases spreading to areas that used to be too cold for them.
-- More [floods](https://medlineplus.gov/floods.html) and rising sea levels. This can cause an increase in contamination of food and water.
-- More extreme weather events, such as [hurricanes](https://medlineplus.gov/hurricanes.html) and [wildfires](https://medlineplus.gov/wildfires.html). These can cause death, injuries, stress, and mental health problems.
+- More [floods](Floods.md) and rising sea levels. This can cause an increase in contamination of food and water.
+- More extreme weather events, such as [hurricanes](Hurricanes.md) and [wildfires](Wildfires.md). These can cause death, injuries, stress, and mental health problems.
 
 Researchers are studying the best ways to lessen climate change and reduce its impact on our health.
 
@@ -16,4 +16,4 @@ NIH: National Institute of Environmental Health Sciences
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/climatechange.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/climatechange.html). General information, not medical advice.*

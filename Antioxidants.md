@@ -6,9 +6,9 @@ Antioxidants are man-made or natural substances that may prevent or delay some t
 - Lutein
 - Lycopene
 - Selenium
-- [Vitamin A](https://medlineplus.gov/vitamina.html)
-- [Vitamin C](https://medlineplus.gov/vitaminc.html)
-- [Vitamin E](https://medlineplus.gov/vitamine.html)
+- [Vitamin A](Vitamin%20A.md)
+- [Vitamin C](Vitamin%20C.md)
+- [Vitamin E](Vitamin%20E.md)
 
 Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases. But it isn't clear whether this is because of the antioxidants, something else in the foods, or other factors.
 
@@ -18,11 +18,11 @@ NIH: National Center for Complementary and Integrative Health
 
 ## Related topics
 
-- Vitamin A
-- Vitamin C
-- Vitamin E
-- Vitamins
+- [Vitamin A](Vitamin%20A.md)
+- [Vitamin C](Vitamin%20C.md)
+- [Vitamin E](Vitamin%20E.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/antioxidants.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/antioxidants.html). General information, not medical advice.*

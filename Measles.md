@@ -13,14 +13,14 @@ Measles is an infectious disease caused by a virus. It spreads easily from perso
 
 Sometimes measles can lead to serious problems. There is no treatment for measles, but the measles-mumps-rubella (MMR) vaccine can prevent it.
 
-"German measles", also known as [rubella](https://medlineplus.gov/rubella.html), is a completely different illness.
+"German measles", also known as [rubella](Rubella.md), is a completely different illness.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Childhood Vaccines
+- [Childhood Vaccines](Childhood%20Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/measles.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/measles.html). General information, not medical advice.*

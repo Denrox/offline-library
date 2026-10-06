@@ -2,12 +2,12 @@
 
 *Also called: COVID-19 Antibody Test, COVID-19 Viral Test, SARS-CoV-2 Testing*
 
-[COVID-19](https://medlineplus.gov/covid19coronavirusdisease2019.html) (coronavirus disease 2019) is a disease caused by a virus called SARS-CoV-2. There are two types of tests for this virus:
+[COVID-19](COVID-19%20%28Coronavirus%20Disease%202019%29.md) (coronavirus disease 2019) is a disease caused by a virus called SARS-CoV-2. There are two types of tests for this virus:
 
 - A **viral test** tells you if you have a current infection. Viral tests can either be rapid tests or laboratory tests:
 
- - [Rapid tests](https://medlineplus.gov/lab-tests/rapid-tests/) can be done in minutes. They are often antigen tests, which look for specific proteins from the virus. Some rapid tests are self-tests which you can do at home.
- - Laboratory tests can take days to complete and include [PCR tests](https://medlineplus.gov/lab-tests/pcr-tests/).
+ - Rapid tests can be done in minutes. They are often antigen tests, which look for specific proteins from the virus. Some rapid tests are self-tests which you can do at home.
+ - Laboratory tests can take days to complete and include PCR tests.
 - An **antibody (serology) test** might tell you if you had a past infection.
 
 If you need a COVID-19 test, you can:
@@ -16,16 +16,16 @@ If you need a COVID-19 test, you can:
 - Check your state or local health department's website for information on testing in your area.
 - Contact your health care provider.
 
-Even if your COVID-19 viral test is negative (the test did not detect the virus), you should still take steps to [protect yourself and others](https://www.cdc.gov/respiratory-viruses/prevention/index.html).
+Even if your COVID-19 viral test is negative (the test did not detect the virus), you should still take steps to protect yourself and others.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- COVID-19 (Coronavirus Disease 2019)
-- COVID-19 Vaccines
-- Post-COVID Conditions (Long COVID)
+- [COVID-19 (Coronavirus Disease 2019)](COVID-19%20%28Coronavirus%20Disease%202019%29.md)
+- [COVID-19 Vaccines](COVID-19%20Vaccines.md)
+- [Post-COVID Conditions (Long COVID)](Post-COVID%20Conditions%20%28Long%20COVID%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/covid19testing.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/covid19testing.html). General information, not medical advice.*

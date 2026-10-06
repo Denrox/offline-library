@@ -9,18 +9,18 @@ Infertility is a term doctors use if a man hasn't been able to get a woman pregn
 - Genetic disorders
 - Lifestyle or environmental factors
 
-About a third of the time, infertility is because of a problem with the man. One third of the time, it is a problem with the [woman](https://medlineplus.gov/femaleinfertility.html). Sometimes no cause can be found.
+About a third of the time, infertility is because of a problem with the man. One third of the time, it is a problem with the [woman](Female%20Infertility.md). Sometimes no cause can be found.
 
-If you suspect you are infertile, see your doctor. There are tests that may tell if you have fertility problems. When it is possible to find the cause, treatments may include medicines, surgery, or [assisted reproductive technology](https://medlineplus.gov/assistedreproductivetechnology.html). Happily, many couples treated for infertility are able to have babies.
+If you suspect you are infertile, see your doctor. There are tests that may tell if you have fertility problems. When it is possible to find the cause, treatments may include medicines, surgery, or [assisted reproductive technology](Assisted%20Reproductive%20Technology.md). Happily, many couples treated for infertility are able to have babies.
 
 NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Assisted Reproductive Technology
-- Female Infertility
-- Infertility
+- [Assisted Reproductive Technology](Assisted%20Reproductive%20Technology.md)
+- [Female Infertility](Female%20Infertility.md)
+- [Infertility](Infertility.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/maleinfertility.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/maleinfertility.html). General information, not medical advice.*

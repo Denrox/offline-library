@@ -1,6 +1,6 @@
 # Heart Transplantation
 
-A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. The healthy heart comes from a donor who has died. It is the last resort for people with [heart failure](https://medlineplus.gov/heartfailure.html) when all other treatments have failed. The heart failure might have been caused by coronary heart disease, damaged heart valves or heart muscles, congenital heart defects, or viral infections of the heart.
+A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. The healthy heart comes from a donor who has died. It is the last resort for people with [heart failure](Heart%20Failure.md) when all other treatments have failed. The heart failure might have been caused by coronary heart disease, damaged heart valves or heart muscles, congenital heart defects, or viral infections of the heart.
 
 Although heart transplant surgery is a life-saving measure, it has many risks. Careful monitoring, treatment, and regular medical care can prevent or help manage some of these risks.
 
@@ -10,10 +10,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Cardiac Rehabilitation
-- Heart Failure
-- Organ Transplantation
+- [Cardiac Rehabilitation](Cardiac%20Rehabilitation.md)
+- [Heart Failure](Heart%20Failure.md)
+- [Organ Transplantation](Organ%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hearttransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hearttransplantation.html). General information, not medical advice.*

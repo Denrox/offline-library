@@ -4,17 +4,17 @@ Your family history includes health information about you and your close relativ
 
 Having a family member with a disease raises your risk, but it does not mean that you will definitely get it. Knowing that you are at risk gives you a chance to reduce that risk by following a healthier lifestyle and getting tested as needed.
 
-You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical [records](https://medlineplus.gov/personalhealthrecords.html) and death certificates is also helpful.
+You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical [records](Personal%20Health%20Records.md) and death certificates is also helpful.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Genetic Counseling
-- Genetic Testing
-- Healthy Living
-- Personal Health Records
+- [Genetic Counseling](Genetic%20Counseling.md)
+- [Genetic Testing](Genetic%20Testing.md)
+- [Healthy Living](Healthy%20Living.md)
+- [Personal Health Records](Personal%20Health%20Records.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/familyhistory.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/familyhistory.html). General information, not medical advice.*

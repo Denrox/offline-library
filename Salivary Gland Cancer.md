@@ -2,7 +2,7 @@
 
 Your salivary glands make saliva - sometimes called spit - and empty it into your mouth through openings called ducts. Saliva makes your food moist, which helps you chew and swallow. It helps you digest your food. It also cleans your mouth and contains antibodies that can kill germs.
 
-Salivary gland cancer is a type of [head and neck cancer](https://medlineplus.gov/headandneckcancer.html). It is rare. It may not cause any symptoms, or you could notice:
+Salivary gland cancer is a type of [head and neck cancer](Head%20and%20Neck%20Cancer.md). It is rare. It may not cause any symptoms, or you could notice:
 
 - A lump in your ear, cheek, jaw, lip, or inside the mouth
 - Fluid draining from your ear
@@ -15,8 +15,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Salivary Gland Disorders
+- [Salivary Gland Disorders](Salivary%20Gland%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/salivaryglandcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/salivaryglandcancer.html). General information, not medical advice.*

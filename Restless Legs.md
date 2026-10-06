@@ -14,10 +14,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Leg Injuries and Disorders
-- Movement Disorders
-- Sleep Disorders
+- [Leg Injuries and Disorders](Leg%20Injuries%20and%20Disorders.md)
+- [Movement Disorders](Movement%20Disorders.md)
+- [Sleep Disorders](Sleep%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/restlesslegs.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/restlesslegs.html). General information, not medical advice.*

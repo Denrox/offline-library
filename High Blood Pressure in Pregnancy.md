@@ -2,7 +2,7 @@
 
 #### What is high blood pressure in pregnancy?
 
-Blood pressure is the force of your blood pushing against the walls of your arteries. Your arteries are blood vessels that carry blood from your heart to other parts of your body. [High blood pressure](https://medlineplus.gov/highbloodpressure.html), or hypertension, is blood pressure that is higher than normal. Having high blood pressure can put you at risk for other health problems, such as [heart disease](https://medlineplus.gov/heartdiseaseinwomen.html), [heart attack](https://medlineplus.gov/heartattack.html), and [stroke](https://medlineplus.gov/stroke.html).
+Blood pressure is the force of your blood pushing against the walls of your arteries. Your arteries are blood vessels that carry blood from your heart to other parts of your body. [High blood pressure](High%20Blood%20Pressure.md), or hypertension, is blood pressure that is higher than normal. Having high blood pressure can put you at risk for other health problems, such as [heart disease](Heart%20Disease%20in%20Women.md), [heart attack](Heart%20Attack.md), and [stroke](Stroke.md).
 
 During pregnancy, high blood pressure can cause problems for you and your baby. To keep you and your baby healthy, it's important to get treatment for high blood pressure before, during, and after pregnancy.
 
@@ -10,11 +10,11 @@ During pregnancy, high blood pressure can cause problems for you and your baby. 
 
 There are different types of high blood pressure in pregnancy:
 
-- **Gestational hypertension** is high blood pressure that you develop while you are pregnant. It starts after you are 20 weeks pregnant. You usually don't have any other symptoms. In many cases, it does not harm you or your baby, and it goes away within 12 weeks after childbirth. But it does raise your risk of high blood pressure in the future. If it becomes severe, it can lead to a [preterm birth](https://medlineplus.gov/pretermlabor.html) or your baby having a [low birth weight](https://medlineplus.gov/birthweight.html). Some women with gestational hypertension do go on to develop preeclampsia, a more serious type of high blood pressure in pregnancy.
-- **Chronic hypertension** is high blood pressure that starts before the 20th week of pregnancy or before you became pregnant. Some people may have had it long before becoming pregnant but didn't know it until they got their blood pressure checked at their [prenatal visit](https://medlineplus.gov/prenatalcare.html). Sometimes chronic hypertension can also lead to preeclampsia.
+- **Gestational hypertension** is high blood pressure that you develop while you are pregnant. It starts after you are 20 weeks pregnant. You usually don't have any other symptoms. In many cases, it does not harm you or your baby, and it goes away within 12 weeks after childbirth. But it does raise your risk of high blood pressure in the future. If it becomes severe, it can lead to a [preterm birth](Preterm%20Labor.md) or your baby having a [low birth weight](Birth%20Weight.md). Some women with gestational hypertension do go on to develop preeclampsia, a more serious type of high blood pressure in pregnancy.
+- **Chronic hypertension** is high blood pressure that starts before the 20th week of pregnancy or before you became pregnant. Some people may have had it long before becoming pregnant but didn't know it until they got their blood pressure checked at their [prenatal visit](Prenatal%20Care.md). Sometimes chronic hypertension can also lead to preeclampsia.
 - **Preeclampsia** is a sudden increase in blood pressure after the 20th week of pregnancy. It usually happens in the last trimester. Preeclampsia also often includes signs of damage to some of your organs, such as your liver or kidneys. The signs may include protein in the urine (pee) and very high blood pressure. Preeclampsia can be serious or even life-threatening for both you and your baby.
 
- - If preeclampsia becomes severe enough to affect your brain function and causes [seizures](https://medlineplus.gov/seizures.html) or a [coma](https://medlineplus.gov/coma.html), it is called **eclampsia**.
+ - If preeclampsia becomes severe enough to affect your brain function and causes [seizures](Seizures.md) or a [coma](Coma.md), it is called **eclampsia**.
  - In rare cases, preeclampsia symptoms may not start until after delivery. This is called **postpartum preeclampsia**. If this type of preeclampsia becomes more severe and causes a seizure, it is known as **postpartum eclampsia**.
  - When a person with preeclampsia or eclampsia has damage to the liver and blood cells, it's called **HELLP syndrome**. It is rare, but very serious.
 
@@ -22,31 +22,31 @@ There are different types of high blood pressure in pregnancy:
 
 You are more likely to develop high blood pressure in pregnancy if you:
 
-- Had chronic high blood pressure or [chronic kidney disease](https://medlineplus.gov/chronickidneydisease.html) before pregnancy
+- Had chronic high blood pressure or [chronic kidney disease](Chronic%20Kidney%20Disease.md) before pregnancy
 - Had high blood pressure or preeclampsia in a previous pregnancy
-- Have [obesity](https://medlineplus.gov/obesity.html)
+- Have [obesity](Obesity.md)
 - Are under age 20 or over age 40
-- Are pregnant with [more than one baby](https://medlineplus.gov/twinstripletsmultiplebirths.html)
+- Are pregnant with [more than one baby](Twins%2C%20Triplets%2C%20Multiple%20Births.md)
 - Are African American
 - Have a family history of high blood pressure in pregnancy
-- Have certain health conditions, such as [diabetes](https://medlineplus.gov/diabetesandpregnancy.html) or [lupus](https://medlineplus.gov/lupus.html)
+- Have certain health conditions, such as [diabetes](Diabetes%20and%20Pregnancy.md) or [lupus](Lupus.md)
 
 #### What are the symptoms of high blood pressure in pregnancy?
 
-High blood pressure usually has no symptoms. People usually find out they have high blood pressure when their health care provider [measures their blood pressure](https://medlineplus.gov/lab-tests/measuring-blood-pressure/).
+High blood pressure usually has no symptoms. People usually find out they have high blood pressure when their health care provider measures their blood pressure.
 
 **Preeclampsia** can cause other symptoms, including:
 
 - Too much protein in your urine (called proteinuria).
-- Swelling ([edema](https://medlineplus.gov/edema.html)) in your face and hands. Your feet may also swell, but many women have swollen feet during pregnancy. So swollen feet by themselves may not be a sign of a problem.
-- A [headache](https://medlineplus.gov/headache.html) that does not go away.
+- Swelling ([edema](Edema.md)) in your face and hands. Your feet may also swell, but many women have swollen feet during pregnancy. So swollen feet by themselves may not be a sign of a problem.
+- A [headache](Headache.md) that does not go away.
 - Vision problems, including blurred vision or seeing spots.
-- Pain in your upper right [abdomen](https://medlineplus.gov/abdominalpain.html) (belly).
-- [Trouble breathing](https://medlineplus.gov/breathingproblems.html).
+- Pain in your upper right [abdomen](Abdominal%20Pain.md) (belly).
+- [Trouble breathing](Breathing%20Problems.md).
 
-**Eclampsia** can also cause seizures, [nausea and/or vomiting](https://medlineplus.gov/nauseaandvomiting.html), and low urine output.
+**Eclampsia** can also cause seizures, [nausea and/or vomiting](Nausea%20and%20Vomiting.md), and low urine output.
 
-If you go on to develop **HELLP syndrome**, you may also have [bleeding](https://medlineplus.gov/bleeding.html) or [bruising](https://medlineplus.gov/bruises.html) easily, extreme [fatigue](https://medlineplus.gov/fatigue.html), and liver failure.
+If you go on to develop **HELLP syndrome**, you may also have [bleeding](Bleeding.md) or [bruising](Bruises.md) easily, extreme [fatigue](Fatigue.md), and liver failure.
 
 #### What problems can high blood pressure in pregnancy cause?
 
@@ -61,7 +61,7 @@ High blood pressure in pregnancy can lead to complications such as:
 
 #### How is high blood pressure in pregnancy diagnosed?
 
-Your provider will check your blood pressure and urine at each prenatal visit. If your blood pressure reading is high (140/90 or higher), especially after the 20th week of pregnancy, your provider will likely want to order some tests. These may include blood tests and other lab tests, such as a test to look for extra [protein in your urine](https://medlineplus.gov/lab-tests/protein-in-urine/).
+Your provider will check your blood pressure and urine at each prenatal visit. If your blood pressure reading is high (140/90 or higher), especially after the 20th week of pregnancy, your provider will likely want to order some tests. These may include blood tests and other lab tests, such as a test to look for extra protein in your urine.
 
 #### What are the treatments for high blood pressure in pregnancy?
 
@@ -86,9 +86,9 @@ The symptoms of **preeclampsia** can last after delivery, but they usually go aw
 
 ## Related topics
 
-- Health Problems in Pregnancy
-- How to Prevent High Blood Pressure
+- [Health Problems in Pregnancy](Health%20Problems%20in%20Pregnancy.md)
+- [How to Prevent High Blood Pressure](How%20to%20Prevent%20High%20Blood%20Pressure.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/highbloodpressureinpregnancy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/highbloodpressureinpregnancy.html). General information, not medical advice.*

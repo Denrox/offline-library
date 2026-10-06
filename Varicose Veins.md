@@ -1,6 +1,6 @@
 # Varicose Veins
 
-Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body. [Hemorrhoids](https://medlineplus.gov/hemorrhoids.html) are a type of varicose vein.
+Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body. [Hemorrhoids](Hemorrhoids.md) are a type of varicose vein.
 
 Your veins have one-way valves that help keep blood flowing toward your heart. If the valves are weak or damaged, blood can back up and pool in your veins. This causes the veins to swell, which can lead to varicose veins.
 
@@ -14,4 +14,4 @@ NIH: National Heart, Lung, and Blood Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/varicoseveins.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/varicoseveins.html). General information, not medical advice.*

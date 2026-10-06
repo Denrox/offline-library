@@ -12,8 +12,8 @@ Symptoms can vary, depending upon which organs are affected. Treatment depends o
 
 ## Related topics
 
-- Metabolic Disorders
+- [Metabolic Disorders](Metabolic%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/amyloidosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/amyloidosis.html). General information, not medical advice.*

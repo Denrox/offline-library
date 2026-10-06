@@ -15,8 +15,8 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Degenerative Nerve Diseases
+- [Degenerative Nerve Diseases](Degenerative%20Nerve%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/friedreichataxia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/friedreichataxia.html). General information, not medical advice.*

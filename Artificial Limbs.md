@@ -2,7 +2,7 @@
 
 People can lose all or part of an arm or leg for a number of reasons. Common ones include:
 
-- Circulation problems from atherosclerosis or diabetes. They may cause you to need an [amputation](https://medlineplus.gov/limbloss.html).
+- Circulation problems from atherosclerosis or diabetes. They may cause you to need an [amputation](Limb%20Loss.md).
 - Traumatic injuries, including from traffic accidents and military combat
 - Cancer
 - Birth defects
@@ -11,9 +11,9 @@ If you are missing an arm or leg, an artificial limb can sometimes replace it. T
 
 ## Related topics
 
-- Assistive Devices
-- Limb Loss
+- [Assistive Devices](Assistive%20Devices.md)
+- [Limb Loss](Limb%20Loss.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/artificiallimbs.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/artificiallimbs.html). General information, not medical advice.*

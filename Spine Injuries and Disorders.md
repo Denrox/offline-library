@@ -5,21 +5,21 @@ Your backbone, or spine, is made up of 26 bone discs called vertebrae. The verte
 - Infections
 - Injuries
 - Tumors
-- Conditions, such as [ankylosing spondylitis](https://medlineplus.gov/ankylosingspondylitis.html) and [scoliosis](https://medlineplus.gov/scoliosis.html)
-- Bone changes that come with age, such as [spinal stenosis](https://medlineplus.gov/spinalstenosis.html) and [herniated disks](https://medlineplus.gov/herniateddisk.html)
+- Conditions, such as [ankylosing spondylitis](Ankylosing%20Spondylitis.md) and [scoliosis](Scoliosis.md)
+- Bone changes that come with age, such as [spinal stenosis](Spinal%20Stenosis.md) and [herniated disks](Herniated%20Disk.md)
 
 Spinal diseases often cause pain when bone changes put pressure on the spinal cord or nerves. They can also limit movement. Treatments differ by disease, but sometimes they include back braces and surgery.
 
 ## Related topics
 
-- Ankylosing Spondylitis
-- Back Pain
-- Herniated Disk
-- Neck Injuries and Disorders
-- Scoliosis
-- Spinal Stenosis
-- Tailbone Disorders
+- [Ankylosing Spondylitis](Ankylosing%20Spondylitis.md)
+- [Back Pain](Back%20Pain.md)
+- [Herniated Disk](Herniated%20Disk.md)
+- [Neck Injuries and Disorders](Neck%20Injuries%20and%20Disorders.md)
+- [Scoliosis](Scoliosis.md)
+- [Spinal Stenosis](Spinal%20Stenosis.md)
+- [Tailbone Disorders](Tailbone%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/spineinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/spineinjuriesanddisorders.html). General information, not medical advice.*

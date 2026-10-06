@@ -6,7 +6,7 @@ Overactive bladder is a condition in which the bladder squeezes urine out at the
 - You have the sudden, strong need to urinate immediately
 - You leak urine after a sudden, strong urge to urinate
 
-You also may have [incontinence](https://medlineplus.gov/urinaryincontinence.html), a loss of bladder control. Nerve problems, too much fluid, or too much caffeine can cause it. Often the cause is unknown.
+You also may have [incontinence](Urinary%20Incontinence.md), a loss of bladder control. Nerve problems, too much fluid, or too much caffeine can cause it. Often the cause is unknown.
 
 Your doctor may prescribe a medicine that can calm muscles and nerves. The medicine may come as a pill, a liquid, or a patch. The medicines can cause your eyes to become dry. They can also cause dry mouth and constipation. To deal with these effects, use eye drops to keep your eyes moist, chew sugarless gum or suck on sugarless hard candy if dry mouth bothers you, and take small sips of water throughout the day.
 
@@ -14,9 +14,9 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Bladder Diseases
-- Urinary Incontinence
+- [Bladder Diseases](Bladder%20Diseases.md)
+- [Urinary Incontinence](Urinary%20Incontinence.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/overactivebladder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/overactivebladder.html). General information, not medical advice.*

@@ -16,10 +16,10 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- School Health
-- Teen Health
-- Underage Drinking
+- [School Health](School%20Health.md)
+- [Teen Health](Teen%20Health.md)
+- [Underage Drinking](Underage%20Drinking.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/collegehealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/collegehealth.html). General information, not medical advice.*

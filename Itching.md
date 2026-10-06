@@ -4,20 +4,20 @@
 
 #### What is itching?
 
-Itching is an irritating sensation that makes you want to scratch your skin. Sometimes it can feel like pain, but it is different. Often, you feel itchy in one area in your body, but sometimes you may feel itching all over. Along with the itching, you may also have a [rash](https://medlineplus.gov/rashes.html) or [hives](https://medlineplus.gov/hives.html).
+Itching is an irritating sensation that makes you want to scratch your skin. Sometimes it can feel like pain, but it is different. Often, you feel itchy in one area in your body, but sometimes you may feel itching all over. Along with the itching, you may also have a [rash](Rashes.md) or [hives](Hives.md).
 
 #### What causes itching?
 
 Itching is a symptom of many health conditions. Some common causes are:
 
-- [Allergic reactions](https://medlineplus.gov/allergy.html) to [food](https://medlineplus.gov/foodallergy.html), [insect bites](https://medlineplus.gov/insectbitesandstings.html), [pollen](https://medlineplus.gov/hayfever.html), and [medicines](https://medlineplus.gov/drugreactions.html)
-- [Skin conditions](https://medlineplus.gov/skinconditions.html) such as [eczema](https://medlineplus.gov/eczema.html), [psoriasis](https://medlineplus.gov/psoriasis.html), and dry skin
-- Irritating chemicals, [cosmetics](https://medlineplus.gov/cosmetics.html), and other substances
-- Parasites such as [pinworms](https://medlineplus.gov/pinworms.html), [scabies](https://medlineplus.gov/scabies.html), [head](https://medlineplus.gov/headlice.html) and [body lice](https://medlineplus.gov/bodylice.html)
+- [Allergic reactions](Allergy.md) to [food](Food%20Allergy.md), [insect bites](Insect%20Bites%20and%20Stings.md), [pollen](Hay%20Fever.md), and [medicines](Drug%20Reactions.md)
+- [Skin conditions](Skin%20Conditions.md) such as [eczema](Eczema.md), [psoriasis](Psoriasis.md), and dry skin
+- Irritating chemicals, [cosmetics](Cosmetics.md), and other substances
+- Parasites such as [pinworms](Pinworms.md), [scabies](Scabies.md), [head](Head%20Lice.md) and [body lice](Body%20Lice.md)
 - Pregnancy
-- [Liver](https://medlineplus.gov/liverdiseases.html), [kidney](https://medlineplus.gov/kidneydiseases.html), or [thyroid](https://medlineplus.gov/thyroiddiseases.html) diseases
-- Certain [cancers](https://medlineplus.gov/cancer.html) or cancer treatments
-- Diseases that can affect the nervous system, such as [diabetes](https://medlineplus.gov/diabetes.html) and [shingles](https://medlineplus.gov/shingles.html)
+- [Liver](Liver%20Diseases.md), [kidney](Kidney%20Diseases.md), or [thyroid](Thyroid%20Diseases.md) diseases
+- Certain [cancers](Cancer.md) or cancer treatments
+- Diseases that can affect the nervous system, such as [diabetes](Diabetes.md) and [shingles](Shingles.md)
 
 #### What are the treatments for itching?
 
@@ -33,4 +33,4 @@ Contact your health care provider if your itching is severe, does not go away af
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/itching.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/itching.html). General information, not medical advice.*

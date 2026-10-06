@@ -2,7 +2,7 @@
 
 *Also called: Duodenal cancer, Ileal cancer, Jejunal cancer, Small intestine cancer*
 
-Your small intestine is part of your digestive system. It is a long tube that connects your stomach to your large intestine. Intestinal cancer is rare, but eating a high-fat diet or having [Crohn's disease](https://medlineplus.gov/crohnsdisease.html), [celiac disease,](https://medlineplus.gov/celiacdisease.html) or a history of [colonic polyps](https://medlineplus.gov/colonicpolyps.html) can increase your risk.
+Your small intestine is part of your digestive system. It is a long tube that connects your stomach to your large intestine. Intestinal cancer is rare, but eating a high-fat diet or having [Crohn's disease](Crohn%27s%20Disease.md), [celiac disease,](Celiac%20Disease.md) or a history of [colonic polyps](Colonic%20Polyps.md) can increase your risk.
 
 Possible signs of small intestine cancer include:
 
@@ -19,11 +19,11 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Carcinoid Tumors
-- Colorectal Cancer
-- Soft Tissue Sarcoma
-- Stomach Cancer
+- [Carcinoid Tumors](Carcinoid%20Tumors.md)
+- [Colorectal Cancer](Colorectal%20Cancer.md)
+- [Soft Tissue Sarcoma](Soft%20Tissue%20Sarcoma.md)
+- [Stomach Cancer](Stomach%20Cancer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/intestinalcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/intestinalcancer.html). General information, not medical advice.*

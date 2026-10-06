@@ -19,10 +19,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Brain Diseases
-- Childhood Brain Tumors
-- Pituitary Tumors
+- [Brain Diseases](Brain%20Diseases.md)
+- [Childhood Brain Tumors](Childhood%20Brain%20Tumors.md)
+- [Pituitary Tumors](Pituitary%20Tumors.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/braintumors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/braintumors.html). General information, not medical advice.*

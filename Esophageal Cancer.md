@@ -6,16 +6,16 @@ The esophagus is a hollow tube that carries food and liquids from your throat to
 - Weight loss
 - A hoarse voice or cough that doesn't go away
 
-You're at greater risk for getting esophageal cancer if you smoke, drink heavily, or have [acid reflux](https://medlineplus.gov/gerd.html). Your risk also goes up as you age
+You're at greater risk for getting esophageal cancer if you smoke, drink heavily, or have [acid reflux](GERD.md). Your risk also goes up as you age
 
-Your doctor uses imaging tests and a biopsy to diagnose esophageal cancer. Treatments include surgery, radiation, and chemotherapy. You might also need [nutritional support](https://medlineplus.gov/nutritionalsupport.html), since the cancer or treatment may make it hard to swallow.
+Your doctor uses imaging tests and a biopsy to diagnose esophageal cancer. Treatments include surgery, radiation, and chemotherapy. You might also need [nutritional support](Nutritional%20Support.md), since the cancer or treatment may make it hard to swallow.
 
 NIH: National Cancer Institute
 
 ## Related topics
 
-- Esophagus Disorders
+- [Esophagus Disorders](Esophagus%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/esophagealcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/esophagealcancer.html). General information, not medical advice.*

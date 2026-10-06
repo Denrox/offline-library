@@ -15,9 +15,9 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Back Pain
-- Spine Injuries and Disorders
+- [Back Pain](Back%20Pain.md)
+- [Spine Injuries and Disorders](Spine%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/spinalstenosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/spinalstenosis.html). General information, not medical advice.*

@@ -15,13 +15,13 @@ NIH: National Institute on Aging
 
 ## Related topics
 
-- Athlete's Foot
-- Diabetic Foot
-- Foot Injuries and Disorders
-- Heel Injuries and Disorders
-- Nail Diseases
-- Toe Injuries and Disorders
+- [Athlete's Foot](Athlete%27s%20Foot.md)
+- [Diabetic Foot](Diabetic%20Foot.md)
+- [Foot Injuries and Disorders](Foot%20Injuries%20and%20Disorders.md)
+- [Heel Injuries and Disorders](Heel%20Injuries%20and%20Disorders.md)
+- [Nail Diseases](Nail%20Diseases.md)
+- [Toe Injuries and Disorders](Toe%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/foothealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/foothealth.html). General information, not medical advice.*

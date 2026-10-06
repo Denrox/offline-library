@@ -4,9 +4,9 @@
 
 #### What is rheumatoid arthritis?
 
-Rheumatoid arthritis (RA) is a form of [arthritis](https://medlineplus.gov/arthritis.html) that causes pain, swelling, and stiffness in your joints. RA is an [autoimmune disease](https://medlineplus.gov/autoimmunediseases.html). Although it is most common in the wrist and fingers, this disease can cause your immune system to attack any joint tissue. The inflammation (swelling) that comes with RA can also affect other body parts. Inflammation could cause medical issues in your eyes, skin, heart, nerves, blood, or lungs.
+Rheumatoid arthritis (RA) is a form of [arthritis](Arthritis.md) that causes pain, swelling, and stiffness in your joints. RA is an [autoimmune disease](Autoimmune%20Diseases.md). Although it is most common in the wrist and fingers, this disease can cause your immune system to attack any joint tissue. The inflammation (swelling) that comes with RA can also affect other body parts. Inflammation could cause medical issues in your eyes, skin, heart, nerves, blood, or lungs.
 
-RA differs from [osteoarthritis](https://medlineplus.gov/osteoarthritis.html), a common arthritis that often comes with age. RA affects the lining of your joints and damages the tissue that covers the ends of the bones in a joint. Eventually, this might cause your joints to not work as well.
+RA differs from [osteoarthritis](Osteoarthritis.md), a common arthritis that often comes with age. RA affects the lining of your joints and damages the tissue that covers the ends of the bones in a joint. Eventually, this might cause your joints to not work as well.
 
 There is no cure for RA, but early treatment can help you manage symptoms, reduce joint damage, and lead a productive life.
 
@@ -16,8 +16,8 @@ Rheumatoid arthritis can happen at any age, but your risk increases as you becom
 
 - **You're a woman.** Women are more likely to get RA than men.
 - **You have a family history.** If a member of your family has RA, you're more likely to get the disease.
-- **You're a smoker.** [Smoking](https://medlineplus.gov/smoking.html) over a long period of time increases your risk of getting RA and how serious the disease can be.
-- **You have other medical conditions that may increase your risk of getting RA.** These include [obesity](https://medlineplus.gov/obesity.html), [gum disease](https://medlineplus.gov/gumdisease.html), and [lung disease](https://medlineplus.gov/lungdiseases.html).
+- **You're a smoker.** [Smoking](Smoking.md) over a long period of time increases your risk of getting RA and how serious the disease can be.
+- **You have other medical conditions that may increase your risk of getting RA.** These include [obesity](Obesity.md), [gum disease](Gum%20Disease.md), and [lung disease](Lung%20Diseases.md).
 
 #### What causes rheumatoid arthritis?
 
@@ -38,7 +38,7 @@ Symptoms of rheumatoid arthritis may include:
 - Joint pain or stiffness when moving. This is usually worse in the morning or after inactivity. RA usually affects both joints. If one of your hands or knees is affected, so is the other.
 - Joint tenderness, redness, and warmth.
 - Joint swelling may make daily activities hard. These could include things such as combing your hair, buttoning your clothes, or bending your knees.
-- [Fatigue](https://medlineplus.gov/fatigue.html), [fever](https://medlineplus.gov/fever.html), and a loss of appetite.
+- [Fatigue](Fatigue.md), [fever](Fever.md), and a loss of appetite.
 - Hard bumps (rheumatoid nodules) under your skin near the joints.
 
 #### How is rheumatoid arthritis diagnosed?
@@ -48,7 +48,7 @@ There's no single test for rheumatoid arthritis. The disease develops over time.
 - **Ask about your medical history**, including your symptoms.
 - **Ask about your family health history**, including relatives who have had RA.
 - **Do a physical exam**, which includes checking your joints, looking for rashes or nodules, and listening to your chest for signs of inflammation in your lungs.
-- **Order blood tests or [imaging studies](https://medlineplus.gov/diagnosticimaging.html)** (x-ray or ultrasound) to make sure other health conditions aren't causing your symptoms since they may be like other types of arthritis and joint conditions.
+- **Order blood tests or [imaging studies](Diagnostic%20Imaging.md)** (x-ray or ultrasound) to make sure other health conditions aren't causing your symptoms since they may be like other types of arthritis and joint conditions.
 
 Your provider may refer you to a rheumatologist (a doctor who specializes in arthritis care) for tests, diagnosis, and care.
 
@@ -60,20 +60,20 @@ Your provider may use a combination of treatments. Your treatment may change bas
 
 You can help manage your RA symptoms if you:
 
-- Are [physically active](https://medlineplus.gov/howmuchexercisedoineed.html)
-- Keep a [healthy weight](https://medlineplus.gov/weightcontrol.html)
+- Are [physically active](How%20Much%20Exercise%20Do%20I%20Need.md)
+- Keep a [healthy weight](Weight%20Control.md)
 - Avoid injuries to your joints
 - Avoid activities that have repetitive motions, like bending your knee over and over
-- [Stop smoking](https://medlineplus.gov/quittingsmoking.html), or don't start
+- [Stop smoking](Quitting%20Smoking.md), or don't start
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Ankylosing Spondylitis
-- Arthritis
-- Juvenile Arthritis
+- [Ankylosing Spondylitis](Ankylosing%20Spondylitis.md)
+- [Arthritis](Arthritis.md)
+- [Juvenile Arthritis](Juvenile%20Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rheumatoidarthritis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rheumatoidarthritis.html). General information, not medical advice.*

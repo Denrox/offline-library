@@ -2,7 +2,7 @@
 
 *Also called: Pollen allergy*
 
-Each spring, summer, and fall, trees, weeds, and grasses release tiny pollen grains into the air. Some of the pollen ends up in your nose and throat. This can trigger a type of [allergy](https://medlineplus.gov/allergy.html) called hay fever.
+Each spring, summer, and fall, trees, weeds, and grasses release tiny pollen grains into the air. Some of the pollen ends up in your nose and throat. This can trigger a type of [allergy](Allergy.md) called hay fever.
 
 Symptoms can include:
 
@@ -16,8 +16,8 @@ Your health care provider may diagnose hay fever based on a physical exam and yo
 
 ## Related topics
 
-- Allergy
+- [Allergy](Allergy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hayfever.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hayfever.html). General information, not medical advice.*

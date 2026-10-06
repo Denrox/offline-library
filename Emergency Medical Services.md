@@ -8,4 +8,4 @@ If you or someone you know needs emergency care, go to your hospital's emergency
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/emergencymedicalservices.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/emergencymedicalservices.html). General information, not medical advice.*

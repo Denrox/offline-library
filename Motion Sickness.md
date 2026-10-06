@@ -2,7 +2,7 @@
 
 *Also called: Airsickness, Carsickness, Seasickness*
 
-Motion sickness is a common problem in people [traveling](https://medlineplus.gov/travelershealth.html) by car, train, airplanes, and especially boats. Anyone can get it, but it is more common in children, pregnant women, and people taking certain medicines. Motion sickness can start suddenly, with a queasy feeling and cold sweats. It can then lead to [dizziness](https://medlineplus.gov/dizzinessandvertigo.html) and [nausea and vomiting](https://medlineplus.gov/nauseaandvomiting.html).
+Motion sickness is a common problem in people [traveling](Traveler%27s%20Health.md) by car, train, airplanes, and especially boats. Anyone can get it, but it is more common in children, pregnant women, and people taking certain medicines. Motion sickness can start suddenly, with a queasy feeling and cold sweats. It can then lead to [dizziness](Dizziness%20and%20Vertigo.md) and [nausea and vomiting](Nausea%20and%20Vomiting.md).
 
 Your brain senses movement by getting signals from your inner ears, eyes, muscles, and joints. When it gets signals that do not match, you can get motion sickness. For example, if you are reading on your phone while riding a bus, your eyes are focused on something that is not moving, but your inner ear senses motion.
 
@@ -12,4 +12,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/motionsickness.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/motionsickness.html). General information, not medical advice.*

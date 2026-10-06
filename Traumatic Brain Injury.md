@@ -6,19 +6,19 @@
 
 Traumatic brain injury (TBI) is a sudden injury that causes damage to the brain. It may happen when there is a blow, bump, or jolt to the head. This is a closed head injury. A TBI can also happen when an object penetrates the skull. This is a penetrating injury.
 
-Symptoms of a TBI can be mild, moderate, or severe. [Concussions](https://medlineplus.gov/concussion.html) are a type of mild TBI. The effects of a concussion can sometimes be serious, but most people completely recover in time. More severe TBI can lead to serious physical and psychological symptoms, [coma](https://medlineplus.gov/coma.html), and even death.
+Symptoms of a TBI can be mild, moderate, or severe. [Concussions](Concussion.md) are a type of mild TBI. The effects of a concussion can sometimes be serious, but most people completely recover in time. More severe TBI can lead to serious physical and psychological symptoms, [coma](Coma.md), and even death.
 
 #### What causes traumatic brain injury (TBI)?
 
-The main causes of TBI depend on the type of [head injury](https://medlineplus.gov/headinjuries.html):
+The main causes of TBI depend on the type of [head injury](Head%20Injuries.md):
 
 - Some of the common causes of a closed head injury include
 
- - [Falls](https://medlineplus.gov/falls.html). This is the most common cause in adults age 65 and older.
+ - [Falls](Falls.md). This is the most common cause in adults age 65 and older.
  - Motor vehicle crashes. This is the most common cause in young adults.
- - [Sports injuries](https://medlineplus.gov/sportsinjuries.html)
+ - [Sports injuries](Sports%20Injuries.md)
  - Being struck by an object
- - [Child abuse](https://medlineplus.gov/childabuse.html). This is the most common cause in children under age 4.
+ - [Child abuse](Child%20Abuse.md). This is the most common cause in children under age 4.
  - Blast injuries due to explosions
 - Some of the common causes of a penetrating injury include
 
@@ -42,14 +42,14 @@ The symptoms of TBI depend on the type of injury and how serious the brain damag
 The symptoms of **mild TBI** can include:
 
 - A brief loss of consciousness in some cases. However, many people with mild TBI remain conscious after the injury.
-- [Headache](https://medlineplus.gov/headache.html)
+- [Headache](Headache.md)
 - Confusion
 - Lightheadedness
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Blurred vision or tired eyes
 - Ringing in the ears
 - Bad taste in the mouth
-- [Fatigue](https://medlineplus.gov/fatigue.html) or lethargy
+- [Fatigue](Fatigue.md) or lethargy
 - A change in sleep patterns
 - Behavioral or mood changes
 - Trouble with memory, concentration, attention, or thinking
@@ -57,8 +57,8 @@ The symptoms of **mild TBI** can include:
 If you have a moderate or severe TBI, you may have those same symptoms. You may also have other symptoms such as:
 
 - A headache that gets worse or does not go away
-- Repeated [vomiting or nausea](https://medlineplus.gov/nauseaandvomiting.html)
-- Convulsions or [seizures](https://medlineplus.gov/seizures.html)
+- Repeated [vomiting or nausea](Nausea%20and%20Vomiting.md)
+- Convulsions or [seizures](Seizures.md)
 - Not being able to wake up from sleep
 - Larger than normal pupil (dark center) of one or both eyes. This is called dilation of the pupil.
 - Slurred speech
@@ -71,8 +71,8 @@ If you have a moderate or severe TBI, you may have those same symptoms. You may 
 If you have a head injury or other trauma that may have caused a TBI, you need to get medical care as soon as possible. To make a diagnosis, your health care provider:
 
 - Will ask about your symptoms and the details of your injury
-- Will do a [neurologic exam](https://medlineplus.gov/lab-tests/neurological-exam/)
-- May do [imaging tests](https://medlineplus.gov/diagnosticimaging.html), such as a [CT scan](https://medlineplus.gov/ctscans.html) or [MRI](https://medlineplus.gov/mriscans.html)
+- Will do a neurologic exam
+- May do [imaging tests](Diagnostic%20Imaging.md), such as a [CT scan](CT%20Scans.md) or [MRI](MRI%20Scans.md)
 - May use a tool such as the Glasgow coma scale to determine how severe the TBI is. This scale measures your ability to open your eyes, speak, and move.
 - May do neuropsychological tests to check how your brain is functioning
 
@@ -80,7 +80,7 @@ If you have a head injury or other trauma that may have caused a TBI, you need t
 
 The treatments for TBI depend on many factors, including the size, severity, and location of the brain injury.
 
-**For mild TBI**, the main treatment is rest. If you have a headache, you can try taking over-the-counter [pain relievers](https://medlineplus.gov/painrelievers.html). It is important to follow your health care provider's instructions for complete rest and a gradual return to your normal activities. If you start doing too much too soon, it may take longer to recover. Contact your provider if your symptoms are not getting better or if you have new symptoms.
+**For mild TBI**, the main treatment is rest. If you have a headache, you can try taking over-the-counter [pain relievers](Pain%20Relievers.md). It is important to follow your health care provider's instructions for complete rest and a gradual return to your normal activities. If you start doing too much too soon, it may take longer to recover. Contact your provider if your symptoms are not getting better or if you have new symptoms.
 
 **For moderate to severe TBI**, the first thing health care providers will do is stabilize you to prevent further injury. They will manage your blood pressure, check the pressure inside your skull, and make sure that there is enough blood and oxygen getting to your brain.
 
@@ -95,28 +95,28 @@ Once you are stable, the treatments may include:
 - **Medicines** to treat the symptoms of TBI and to lower some of the risks associated with it, such as
 
  - Anti-anxiety medication to lessen feelings of nervousness and fear
- - [Anticoagulants](https://medlineplus.gov/bloodthinners.html) to prevent [blood clots](https://medlineplus.gov/bloodclots.html)
+ - [Anticoagulants](Blood%20Thinners.md) to prevent [blood clots](Blood%20Clots.md)
  - Anticonvulsants to prevent seizures
- - [Antidepressants](https://medlineplus.gov/antidepressants.html) to treat symptoms of [depression](https://medlineplus.gov/depression.html) and mood instability
+ - [Antidepressants](Antidepressants.md) to treat symptoms of [depression](Depression.md) and mood instability
  - Muscle relaxants to reduce muscle spasms
  - Stimulants to increase alertness and attention
-- **[Rehabilitation therapies](https://medlineplus.gov/rehabilitation.html)**, which can include therapies for physical, emotional, and cognitive difficulties:
+- **[Rehabilitation therapies](Rehabilitation.md)**, which can include therapies for physical, emotional, and cognitive difficulties:
 
  - Physical therapy, to build physical strength, coordination, and flexibility
  - Occupational therapy, to help you learn or relearn how to perform daily tasks, such as getting dressed, cooking, and bathing
- - Speech therapy, to help you to with [speech and other communication](https://medlineplus.gov/speechandcommunicationdisorders.html) skills and treat [swallowing disorders](https://medlineplus.gov/swallowingdisorders.html)
+ - Speech therapy, to help you to with [speech and other communication](Speech%20and%20Communication%20Disorders.md) skills and treat [swallowing disorders](Swallowing%20Disorders.md)
  - Psychological counseling, to help you learn coping skills, work on relationships, and improve your emotional well-being
  - Vocational counseling, which focuses on your ability to return to work and deal with workplace challenges
  - Cognitive therapy, to improve your memory, attention, perception, learning, planning, and judgment
 
-Some people with TBI may have permanent [disabilities](https://medlineplus.gov/disabilities.html). A TBI can also put you at risk for other health problems such as [anxiety](https://medlineplus.gov/anxiety.html), depression, and [post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html). Treating these problems can improve your quality of life.
+Some people with TBI may have permanent [disabilities](Disabilities.md). A TBI can also put you at risk for other health problems such as [anxiety](Anxiety.md), depression, and [post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md). Treating these problems can improve your quality of life.
 
 #### Can traumatic brain injury (TBI) be prevented?
 
 There are steps you can take to prevent head injuries and TBIs:
 
 - Always wear your seatbelt and use car seats and booster seats for children
-- Never drive [under the influence of drugs or alcohol](https://medlineplus.gov/impaireddriving.html)
+- Never drive [under the influence of drugs or alcohol](Impaired%20Driving.md)
 - Wear a properly fitting helmet when riding a bicycle, skateboarding, and playing sports like hockey and football
 - Prevent falls by
 
@@ -125,10 +125,10 @@ There are steps you can take to prevent head injuries and TBIs:
 
 ## Related topics
 
-- Coma
-- Concussion
-- Head Injuries
+- [Coma](Coma.md)
+- [Concussion](Concussion.md)
+- [Head Injuries](Head%20Injuries.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/traumaticbraininjury.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/traumaticbraininjury.html). General information, not medical advice.*

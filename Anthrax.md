@@ -1,6 +1,6 @@
 # Anthrax
 
-Anthrax is a disease caused by Bacillus anthracis, a germ that lives in soil. Many people know about it from the 2001 [bioterror](https://medlineplus.gov/biodefenseandbioterrorism.html) attacks. In the attacks, someone purposely spread anthrax through the U.S. mail. This killed five people and made 22 sick.
+Anthrax is a disease caused by Bacillus anthracis, a germ that lives in soil. Many people know about it from the 2001 [bioterror](Biodefense%20and%20Bioterrorism.md) attacks. In the attacks, someone purposely spread anthrax through the U.S. mail. This killed five people and made 22 sick.
 
 Anthrax is rare. It affects animals such as cattle, sheep, and goats more often than people. People can get anthrax from contact with infected animals, wool, meat, or hides. It can cause three forms of disease in people. They are:
 
@@ -12,8 +12,8 @@ Antibiotics often cure anthrax if it is diagnosed early. But many people don't k
 
 ## Related topics
 
-- Biodefense and Bioterrorism
+- [Biodefense and Bioterrorism](Biodefense%20and%20Bioterrorism.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anthrax.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anthrax.html). General information, not medical advice.*

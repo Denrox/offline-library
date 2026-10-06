@@ -2,17 +2,17 @@
 
 #### What is a mammogram?
 
-A mammogram is an x-ray picture of the breast. Health care providers use mammograms to look for early signs of [breast cancer](https://medlineplus.gov/breastcancer.html) that can't be felt during a breast exam. There are two types of mammograms: screening mammograms and diagnostic mammograms.
+A mammogram is an x-ray picture of the breast. Health care providers use mammograms to look for early signs of [breast cancer](Breast%20Cancer.md) that can't be felt during a breast exam. There are two types of mammograms: screening mammograms and diagnostic mammograms.
 
 #### What is a screening mammogram?
 
 A screening mammogram is a mammogram usually done for women who have no signs or symptoms of breast cancer. Regular screening mammograms can help reduce the number of deaths from breast cancer among women ages 40 to 74. This is because they can find breast cancer early and treatment can start earlier, maybe before it has spread.
 
-But screening mammograms can also have risks. They can sometimes find something that looks abnormal but isn't cancer. This leads to further testing and can cause you anxiety. Sometimes mammograms can miss cancer when it is there. It also [exposes you to radiation](https://medlineplus.gov/radiationexposure.html). You should talk to your provider about the benefits and drawbacks of mammograms. Together, you can decide when to start and how often to have a mammogram.
+But screening mammograms can also have risks. They can sometimes find something that looks abnormal but isn't cancer. This leads to further testing and can cause you anxiety. Sometimes mammograms can miss cancer when it is there. It also [exposes you to radiation](Radiation%20Exposure.md). You should talk to your provider about the benefits and drawbacks of mammograms. Together, you can decide when to start and how often to have a mammogram.
 
 #### What is a diagnostic mammogram?
 
-A diagnostic mammogram takes a little longer to do than a screening mammogram. It's done for people who have a lump or other signs or symptoms of breast cancer. The signs can include breast pain, thickening of the skin of the breast, nipple discharge, or a change in breast size or shape. But these signs can also be caused by a [breast condition](https://medlineplus.gov/breastdiseases.html) that is benign (not cancer). A diagnostic mammogram may also be used if you have breast implants or if there are other reasons it's difficult to view your breast tissue.
+A diagnostic mammogram takes a little longer to do than a screening mammogram. It's done for people who have a lump or other signs or symptoms of breast cancer. The signs can include breast pain, thickening of the skin of the breast, nipple discharge, or a change in breast size or shape. But these signs can also be caused by a [breast condition](Breast%20Diseases.md) that is benign (not cancer). A diagnostic mammogram may also be used if you have breast implants or if there are other reasons it's difficult to view your breast tissue.
 
 #### How is a mammogram done?
 
@@ -26,9 +26,9 @@ An abnormal (not normal) mammogram does not always mean that there is cancer. Yo
 
 ## Related topics
 
-- Breast Cancer
-- Breast Diseases
+- [Breast Cancer](Breast%20Cancer.md)
+- [Breast Diseases](Breast%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mammography.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mammography.html). General information, not medical advice.*

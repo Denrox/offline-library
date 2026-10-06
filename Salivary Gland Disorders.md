@@ -6,19 +6,19 @@ Problems with salivary glands can cause them to become irritated and swollen. Yo
 
 - A bad taste in your mouth
 - Difficulty opening your mouth
-- [Dry mouth](https://medlineplus.gov/drymouth.html)
+- [Dry mouth](Dry%20Mouth.md)
 - Pain in your face or mouth
 - Swelling of your face or neck
 
-Causes of salivary gland problems include infections, obstruction, or [cancer](https://medlineplus.gov/salivaryglandcancer.html). Problems can also be due to other disorders, such as [mumps](https://medlineplus.gov/mumps.html) or [Sjogren's syndrome](https://medlineplus.gov/sjogrenssyndrome.html).
+Causes of salivary gland problems include infections, obstruction, or [cancer](Salivary%20Gland%20Cancer.md). Problems can also be due to other disorders, such as [mumps](Mumps.md) or [Sjogren's syndrome](Sjogren%27s%20Syndrome.md).
 
 ## Related topics
 
-- Dry Mouth
-- Mumps
-- Salivary Gland Cancer
-- Sjogren's Syndrome
+- [Dry Mouth](Dry%20Mouth.md)
+- [Mumps](Mumps.md)
+- [Salivary Gland Cancer](Salivary%20Gland%20Cancer.md)
+- [Sjogren's Syndrome](Sjogren%27s%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/salivaryglanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/salivaryglanddisorders.html). General information, not medical advice.*

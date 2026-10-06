@@ -2,7 +2,7 @@
 
 *Also called: Cicatrix, Keloid scar*
 
-A scar is a permanent patch of skin that grows over a [wound](https://medlineplus.gov/woundsandinjuries.html). It forms when your body heals itself after a cut, scrape, burn, or sore. You can also get scars from surgery that cuts through the skin, infections like chickenpox, or skin conditions like [acne](https://medlineplus.gov/acne.html). Scars are often thicker, as well as pinker, redder, or shinier, than the rest of your skin.
+A scar is a permanent patch of skin that grows over a [wound](Wounds%20and%20Injuries.md). It forms when your body heals itself after a cut, scrape, burn, or sore. You can also get scars from surgery that cuts through the skin, infections like chickenpox, or skin conditions like [acne](Acne.md). Scars are often thicker, as well as pinker, redder, or shinier, than the rest of your skin.
 
 How your scar looks depends on:
 
@@ -16,8 +16,8 @@ Scars usually fade over time but never go away completely. If the way a scar loo
 
 ## Related topics
 
-- Plastic and Cosmetic Surgery
+- [Plastic and Cosmetic Surgery](Plastic%20and%20Cosmetic%20Surgery.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/scars.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/scars.html). General information, not medical advice.*

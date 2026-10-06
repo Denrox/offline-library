@@ -12,9 +12,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Fungal Infections
-- Molds
+- [Fungal Infections](Fungal%20Infections.md)
+- [Molds](Molds.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/aspergillosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/aspergillosis.html). General information, not medical advice.*

@@ -16,4 +16,4 @@ NIH: National Cancer Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/thymuscancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/thymuscancer.html). General information, not medical advice.*

@@ -12,13 +12,13 @@ Diarrhea lasting more than a few days may be a sign of a more serious problem. C
 
 The most common causes of diarrhea include:
 
-- Bacteria from [contaminated food](https://medlineplus.gov/foodborneillness.html) or water
-- Viruses such as the [flu](https://medlineplus.gov/flu.html), [norovirus](https://medlineplus.gov/norovirusinfections.html), or [rotavirus](https://medlineplus.gov/rotavirusinfections.html). Rotavirus is the most common cause of acute diarrhea in children.
+- Bacteria from [contaminated food](Foodborne%20Illness.md) or water
+- Viruses such as the [flu](Flu.md), [norovirus](Norovirus%20Infections.md), or [rotavirus](Rotavirus%20Infections.md). Rotavirus is the most common cause of acute diarrhea in children.
 - Parasites, which are tiny organisms found in contaminated food or water
 - Medicines such as antibiotics, cancer drugs, and antacids that contain magnesium
-- Food intolerances and sensitivities, which are problems digesting certain ingredients or foods. An example is [lactose intolerance](https://medlineplus.gov/lactoseintolerance.html).
-- Diseases that affect the stomach, small intestine, or colon, such as [Crohn's disease](https://medlineplus.gov/crohnsdisease.html)
-- Problems with how the colon functions, such as [irritable bowel syndrome](https://medlineplus.gov/irritablebowelsyndrome.html)
+- Food intolerances and sensitivities, which are problems digesting certain ingredients or foods. An example is [lactose intolerance](Lactose%20Intolerance.md).
+- Diseases that affect the stomach, small intestine, or colon, such as [Crohn's disease](Crohn%27s%20Disease.md)
+- Problems with how the colon functions, such as [irritable bowel syndrome](Irritable%20Bowel%20Syndrome.md)
 
 Some people also get diarrhea after stomach surgery, because sometimes the surgeries can cause food to move through your digestive system more quickly.
 
@@ -28,7 +28,7 @@ Sometimes no cause can be found. If your diarrhea goes away within a few days, f
 
 People of all ages can get diarrhea. On average, adults In the United States have acute diarrhea once a year. Young children have it an average of twice a year.
 
-People who visit developing countries are at risk for [traveler's diarrhea](https://medlineplus.gov/travelershealth.html). It is caused by consuming contaminated food or water.
+People who visit developing countries are at risk for [traveler's diarrhea](Traveler%27s%20Health.md). It is caused by consuming contaminated food or water.
 
 #### What other symptoms might I have with diarrhea?
 
@@ -40,7 +40,7 @@ Other possible symptoms of diarrhea include:
 
 If a virus or bacteria is the cause of your diarrhea, you may also have a fever, chills, and bloody stools.
 
-Diarrhea can cause [dehydration](https://medlineplus.gov/dehydration.html), which means that your body does not have enough fluid to work properly. Dehydration can be serious, especially for children, older adults, and people with weakened immune systems.
+Diarrhea can cause [dehydration](Dehydration.md), which means that your body does not have enough fluid to work properly. Dehydration can be serious, especially for children, older adults, and people with weakened immune systems.
 
 #### When do I need to see a health care provider for diarrhea?
 
@@ -89,12 +89,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- C. diff Infections
-- Foodborne Illness
-- Gastroenteritis
-- Rotavirus Infections
-- Traveler's Health
+- [C. diff Infections](C.%20diff%20Infections.md)
+- [Foodborne Illness](Foodborne%20Illness.md)
+- [Gastroenteritis](Gastroenteritis.md)
+- [Rotavirus Infections](Rotavirus%20Infections.md)
+- [Traveler's Health](Traveler%27s%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diarrhea.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diarrhea.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Ovarian Cysts
 
-The ovaries are part of the female reproductive system. They produce a woman's eggs and make female [hormones](https://medlineplus.gov/hormones.html). Ovarian cysts are fluid-filled sacs in or on an ovary. They usually form during ovulation, when the ovary releases an egg. They are usually harmless and go away by themselves. Most women have them sometime during their lives.
+The ovaries are part of the female reproductive system. They produce a woman's eggs and make female [hormones](Hormones.md). Ovarian cysts are fluid-filled sacs in or on an ovary. They usually form during ovulation, when the ovary releases an egg. They are usually harmless and go away by themselves. Most women have them sometime during their lives.
 
 Most ovarian cysts are small and don't cause symptoms. Women may not find out that they have them until they have a pelvic exam. If there are symptoms, they may include:
 
@@ -13,10 +13,10 @@ If your health care provider finds a cyst, you may be able to wait to see if it 
 
 Rarely, ovarian cysts can become cancerous. This risk increases as you get older.
 
-A health problem that involves ovarian cysts is [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS). Women with PCOS can have high levels of male hormones, irregular or no periods, and small ovarian cysts.
+A health problem that involves ovarian cysts is [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS). Women with PCOS can have high levels of male hormones, irregular or no periods, and small ovarian cysts.
 
 Dept. of Health and Human Services Office on Women's Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ovariancysts.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ovariancysts.html). General information, not medical advice.*

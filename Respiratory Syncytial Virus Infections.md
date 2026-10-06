@@ -24,7 +24,7 @@ Certain people are at higher risk of having a severe RSV infection:
 
 - Infants
 - Older adults, especially those ages 65 and older
-- People with chronic medical conditions such as [heart](https://medlineplus.gov/heartdiseases.html) or [lung](https://medlineplus.gov/lungdiseases.html) disease
+- People with chronic medical conditions such as [heart](Heart%20Diseases.md) or [lung](Lung%20Diseases.md) disease
 - People with weakened immune systems
 
 #### What are the symptoms of respiratory syncytial virus (RSV) infections?
@@ -33,14 +33,14 @@ The symptoms of RSV infection usually start about 4 to 6 days after infection. T
 
 - Runny nose
 - Decrease in appetite
-- [Cough](https://medlineplus.gov/cough.html)
+- [Cough](Cough.md)
 - Sneezing
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fever](Fever.md)
 - Wheezing
 
 These symptoms usually appear in stages instead of all at once. In very young infants, the only symptoms may be irritability, decreased activity, and trouble breathing.
 
-RSV can also cause more severe infections, especially in people at high risk. These infections include bronchiolitis, an inflammation of the small airways in the lung, and [pneumonia](https://medlineplus.gov/pneumonia.html), an infection of the lungs.
+RSV can also cause more severe infections, especially in people at high risk. These infections include bronchiolitis, an inflammation of the small airways in the lung, and [pneumonia](Pneumonia.md), an infection of the lungs.
 
 #### How are respiratory syncytial virus (RSV) infections diagnosed?
 
@@ -48,14 +48,14 @@ Your health care provider may use many tools to make a diagnosis:
 
 - A medical history, including asking about symptoms.
 - A physical exam.
-- A [lab test](https://medlineplus.gov/lab-tests/respiratory-syncytial-virus-rsv-tests/) of nasal fluid or another respiratory specimen to check for RSV. This is usually done for people with severe infection.
+- A lab test of nasal fluid or another respiratory specimen to check for RSV. This is usually done for people with severe infection.
 - Tests to check for complications in people with severe infection. The tests may include a chest x-ray and blood and urine tests.
 
 #### What are the treatments for respiratory syncytial virus (RSV) infections?
 
-There is no specific treatment for RSV infection. Most infections go away on their own in a week or two. Over-the-counter [pain relievers](https://medlineplus.gov/painrelievers.html) can help with the fever and pain. However, do not give aspirin to children. And do not give [cough medicine](https://medlineplus.gov/coldandcoughmedicines.html) to children under four. It is also important to get enough fluids to prevent [dehydration](https://medlineplus.gov/dehydration.html).
+There is no specific treatment for RSV infection. Most infections go away on their own in a week or two. Over-the-counter [pain relievers](Pain%20Relievers.md) can help with the fever and pain. However, do not give aspirin to children. And do not give [cough medicine](Cold%20and%20Cough%20Medicines.md) to children under four. It is also important to get enough fluids to prevent [dehydration](Dehydration.md).
 
-Some people with severe infection may need to be hospitalized. There, they might get [oxygen](https://medlineplus.gov/oxygentherapy.html), a breathing tube, or a ventilator.
+Some people with severe infection may need to be hospitalized. There, they might get [oxygen](Oxygen%20Therapy.md), a breathing tube, or a ventilator.
 
 #### Can respiratory syncytial virus (RSV) infections be prevented?
 
@@ -67,8 +67,8 @@ There are two medicines to help prevent severe RSV illness in babies and young c
 
 One medicine is given to infants who are younger than 8 months during their first RSV season. This includes infants who are born during RSV season. This medicine may also be given to some children between the ages of 8 and 19 months who are at high risk for severe RSV illness. For example, they might be at high risk because they:
 
-- Were [born prematurely](https://medlineplus.gov/prematurebabies.html)
-- Have [congenital heart disease](https://medlineplus.gov/congenitalheartdefects.html)
+- Were [born prematurely](Premature%20Babies.md)
+- Have [congenital heart disease](Congenital%20Heart%20Defects.md)
 - Have chronic lung disease
 - Have a weakened immune system
 
@@ -76,7 +76,7 @@ The other medicine is given monthly during RSV season. It is for children under 
 
 There are also some steps you can take to lower your risk of getting or spreading an RSV infection, including:
 
-- [Washing your hands](https://medlineplus.gov/germsandhygiene.html) often with soap and water for at least 20 seconds
+- [Washing your hands](Germs%20and%20Hygiene.md) often with soap and water for at least 20 seconds
 - Avoiding touching your face, nose, or mouth with unwashed hands
 - Avoiding close contact, such as kissing, shaking hands, and sharing cups and eating utensils, with others if you are sick or they are sick
 - Cleaning and disinfecting surfaces that you frequently touch
@@ -87,8 +87,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Viral Infections
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/respiratorysyncytialvirusinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/respiratorysyncytialvirusinfections.html). General information, not medical advice.*

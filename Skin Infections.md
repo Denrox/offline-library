@@ -10,31 +10,31 @@ Some skin infections cover a small area on the top of your skin. Other infection
 
 Skin infections are caused by different kinds of germs. For example,:
 
-- Bacteria cause [cellulitis](https://medlineplus.gov/cellulitis.html), [impetigo](https://medlineplus.gov/impetigo.html), and [staphylococcal (staph) infections](staphylococcalinfections.html)
-- Viruses cause [shingles](https://medlineplus.gov/shingles.html), [warts](https://medlineplus.gov/warts.html), and [herpes simplex](https://medlineplus.gov/herpessimplex.html)
-- Fungi cause [athlete's foot](https://medlineplus.gov/athletesfoot.html) and [yeast infections](https://medlineplus.gov/yeastinfections.html)
-- Parasites cause [body lice](https://medlineplus.gov/bodylice.html), [head lice](https://medlineplus.gov/headlice.html), and [scabies](https://medlineplus.gov/scabies.html)
+- Bacteria cause [cellulitis](Cellulitis.md), [impetigo](Impetigo.md), and staphylococcal (staph) infections
+- Viruses cause [shingles](Shingles.md), [warts](Warts.md), and [herpes simplex](Herpes%20Simplex.md)
+- Fungi cause [athlete's foot](Athlete%27s%20Foot.md) and [yeast infections](Yeast%20Infections.md)
+- Parasites cause [body lice](Body%20Lice.md), [head lice](Head%20Lice.md), and [scabies](Scabies.md)
 
 #### Who is more likely to get a skin infection?
 
 You are more likely to get a skin infection if you:
 
 - Have poor circulation
-- Have [diabetes](https://medlineplus.gov/diabetes.html)
+- Have [diabetes](Diabetes.md)
 - Are older
-- Have an [immune system disease](https://medlineplus.gov/immunesystemanddisorders.html), such as [HIV](https://medlineplus.gov/hiv.html)
-- Have a weakened immune system because of [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html) or other medicines that suppress your immune system
-- Have to stay in one position for a long time, such as if you are sick and have to stay in bed for a long time or you are [paralyzed](https://medlineplus.gov/paralysis.html)
-- Are [malnourished](https://medlineplus.gov/malnutrition.html)
-- Have excessive skinfolds, which can happen if you have [obesity](https://medlineplus.gov/obesity.html)
+- Have an [immune system disease](Immune%20System%20and%20Disorders.md), such as [HIV](HIV.md)
+- Have a weakened immune system because of [chemotherapy](Cancer%20Chemotherapy.md) or other medicines that suppress your immune system
+- Have to stay in one position for a long time, such as if you are sick and have to stay in bed for a long time or you are [paralyzed](Paralysis.md)
+- Are [malnourished](Malnutrition.md)
+- Have excessive skinfolds, which can happen if you have [obesity](Obesity.md)
 
 #### What are the symptoms of skin infections?
 
-The symptoms depend on the type of infection. Some symptoms that are common to many skin infections include [rashes](https://medlineplus.gov/rashes.html), swelling, redness, pain, pus, and [itching](https://medlineplus.gov/itching.html).
+The symptoms depend on the type of infection. Some symptoms that are common to many skin infections include [rashes](Rashes.md), swelling, redness, pain, pus, and [itching](Itching.md).
 
 #### How are skin infections diagnosed?
 
-To diagnose a skin infection, your health care provider will do a physical exam and ask about your symptoms. You may have lab tests, such as a skin culture. This is a test to identify what type of infection you have, using a sample from your skin. Your provider may take the sample by swabbing or scraping your skin or removing a small piece of skin ([biopsy](https://medlineplus.gov/biopsy.html)). Sometimes providers use other tests, such as blood tests.
+To diagnose a skin infection, your health care provider will do a physical exam and ask about your symptoms. You may have lab tests, such as a skin culture. This is a test to identify what type of infection you have, using a sample from your skin. Your provider may take the sample by swabbing or scraping your skin or removing a small piece of skin ([biopsy](Biopsy.md)). Sometimes providers use other tests, such as blood tests.
 
 #### How are skin infections treated?
 
@@ -42,12 +42,12 @@ The treatment depends on the type of infection and how serious it is. Some infec
 
 ## Related topics
 
-- Bacterial Infections
-- Fungal Infections
-- Gangrene
-- Skin Conditions
-- Viral Infections
+- [Bacterial Infections](Bacterial%20Infections.md)
+- [Fungal Infections](Fungal%20Infections.md)
+- [Gangrene](Gangrene.md)
+- [Skin Conditions](Skin%20Conditions.md)
+- [Viral Infections](Viral%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/skininfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/skininfections.html). General information, not medical advice.*

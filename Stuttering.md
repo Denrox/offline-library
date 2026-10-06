@@ -4,7 +4,7 @@
 
 #### What is stuttering?
 
-Stuttering is a [speech disorder](https://medlineplus.gov/speechandcommunicationdisorders.html). It involves interruptions in the flow of speech. These interruptions are called disfluencies. They may involve:
+Stuttering is a [speech disorder](Speech%20and%20Communication%20Disorders.md). It involves interruptions in the flow of speech. These interruptions are called disfluencies. They may involve:
 
 - Repeating sounds, syllables, or words
 - Stretching out a sound
@@ -19,7 +19,7 @@ Stuttering can be frustrating, because you know exactly what you want to say, bu
 There are two main types of stuttering, and they have different causes:
 
 - **Developmental stuttering** is the more common type. It starts in young children while they are still learning speech and language skills. Many children stutter when they first start talking. Most of them will outgrow it. But some continue to stutter, and the exact cause is unknown. There are differences in the brains of people who continue to stutter. Genetics may also play a role, since this type of stuttering can run in families.
-- **Neurogenic stuttering** can happen after someone has a [stroke](https://medlineplus.gov/stroke.html), [head trauma](https://medlineplus.gov/headinjuries.html), or other type of [brain injury](https://medlineplus.gov/traumaticbraininjury.html). Because of the injury, the brain has trouble coordinating the different parts of the brain involved in speech.
+- **Neurogenic stuttering** can happen after someone has a [stroke](Stroke.md), [head trauma](Head%20Injuries.md), or other type of [brain injury](Traumatic%20Brain%20Injury.md). Because of the injury, the brain has trouble coordinating the different parts of the brain involved in speech.
 
 #### Who is at risk for stuttering?
 
@@ -60,4 +60,4 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/stuttering.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/stuttering.html). General information, not medical advice.*

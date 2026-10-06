@@ -1,6 +1,6 @@
 # Mycobacterial Infections
 
-Mycobacteria are a type of germ. There are many different kinds. The most common one causes [tuberculosis](https://medlineplus.gov/tuberculosis.html). Another one causes leprosy. Still others cause infections that are called atypical mycobacterial infections. They aren't "typical" because they don't cause tuberculosis. But they can still harm people, especially people with other problems that affect their immunity, such as AIDS.
+Mycobacteria are a type of germ. There are many different kinds. The most common one causes [tuberculosis](Tuberculosis.md). Another one causes leprosy. Still others cause infections that are called atypical mycobacterial infections. They aren't "typical" because they don't cause tuberculosis. But they can still harm people, especially people with other problems that affect their immunity, such as AIDS.
 
 Sometimes you can have these infections with no symptoms at all. At other times, they can cause lung symptoms similar to tuberculosis:
 
@@ -16,8 +16,8 @@ Medicines can treat these infections, but often more than one is needed to cure 
 
 ## Related topics
 
-- Tuberculosis
+- [Tuberculosis](Tuberculosis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mycobacterialinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mycobacterialinfections.html). General information, not medical advice.*

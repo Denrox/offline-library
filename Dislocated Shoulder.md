@@ -2,7 +2,7 @@
 
 #### What is a dislocated shoulder?
 
-Your [shoulder](https://medlineplus.gov/shoulderinjuriesanddisorders.html) joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder [dislocation](https://medlineplus.gov/dislocations.html) is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.
+Your [shoulder](Shoulder%20Injuries%20and%20Disorders.md) joint is made up of three bones: your collarbone, your shoulder blade, and your upper arm bone. The top of your upper arm bone is shaped like a ball. This ball fits into a cuplike socket in your shoulder blade. A shoulder [dislocation](Dislocations.md) is an injury that happens when the ball pops out of your socket. A dislocation may be partial, where the ball is only partially out of the socket. It can also be a full dislocation, where the ball is completely out of the socket.
 
 #### What causes a dislocated shoulder?
 
@@ -10,10 +10,10 @@ Your shoulders are the most movable joints in your body. They are also the most 
 
 The most common causes of shoulder dislocations are:
 
-- [Sports injuries](https://medlineplus.gov/sportsinjuries.html)
+- [Sports injuries](Sports%20Injuries.md)
 - Accidents, including traffic accidents
-- [Falling](https://medlineplus.gov/falls.html) on your shoulder or outstretched arm
-- [Seizures](https://medlineplus.gov/seizures.html) and electric shocks, which can cause muscle contractions that pull the arm out of place
+- [Falling](Falls.md) on your shoulder or outstretched arm
+- [Seizures](Seizures.md) and electric shocks, which can cause muscle contractions that pull the arm out of place
 
 #### Who is at risk for a dislocated shoulder?
 
@@ -50,10 +50,10 @@ A dislocation can make your shoulder unstable. When that happens, it takes less 
 
 ## Related topics
 
-- Dislocations
-- Shoulder Injuries and Disorders
-- Sports Injuries
+- [Dislocations](Dislocations.md)
+- [Shoulder Injuries and Disorders](Shoulder%20Injuries%20and%20Disorders.md)
+- [Sports Injuries](Sports%20Injuries.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dislocatedshoulder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dislocatedshoulder.html). General information, not medical advice.*

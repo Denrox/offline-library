@@ -4,9 +4,9 @@
 
 #### What are genital warts?
 
-Genital warts are a sexually transmitted infection ([STI](https://medlineplus.gov/sexuallytransmittedinfections.html)) caused by the human papillomavirus ([HPV](https://medlineplus.gov/hpv.html)). There are many types of HPV. Some types of HPV can cause genital warts. Other types of HPV can cause [cancer](https://medlineplus.gov/cervicalcancer.html).
+Genital warts are a sexually transmitted infection ([STI](Sexually%20Transmitted%20Infections.md)) caused by the human papillomavirus ([HPV](HPV.md)). There are many types of HPV. Some types of HPV can cause genital warts. Other types of HPV can cause [cancer](Cervical%20Cancer.md).
 
-There is no treatment for HPV, but your health care provider can treat genital warts. HPV [vaccines](https://medlineplus.gov/vaccines.html) may help prevent some of the HPV infections that cause genital warts.
+There is no treatment for HPV, but your health care provider can treat genital warts. HPV [vaccines](Vaccines.md) may help prevent some of the HPV infections that cause genital warts.
 
 #### Who is at risk for genital warts?
 
@@ -22,7 +22,7 @@ The warts usually appear as a small bump or group of bumps in the genital area. 
 
 #### How are genital warts diagnosed?
 
-Your provider can usually find out if you have genital warts by seeing them during a [physical exam](https://medlineplus.gov/healthcheckup.html) or [pelvic exam](https://medlineplus.gov/womenshealthcheckup.html). In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. Men may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin.
+Your provider can usually find out if you have genital warts by seeing them during a [physical exam](Health%20Checkup.md) or [pelvic exam](Women%27s%20Health%20Checkup.md). In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. Men may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin.
 
 #### What are the treatments for genital warts?
 
@@ -37,15 +37,15 @@ HPV stays in your body even after treatment. This means that warts can come back
 
 Getting an HPV vaccine may help prevent genital warts. HPV vaccines provide the most protection if you get them before exposure to the virus. This means that it's best to get vaccinated before becoming sexually active. If you're over age 26 and haven't been vaccinated, talk with your provider about the possible benefits of vaccination.
 
-Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading HPV. If you or your partner is [allergic to latex](https://medlineplus.gov/latexallergy.html), you can use polyurethane condoms. The best way to avoid infection is not to have anal, vaginal, or oral sex.
+Correct usage of latex condoms greatly reduces, but does not eliminate, the risk of catching or spreading HPV. If you or your partner is [allergic to latex](Latex%20Allergy.md), you can use polyurethane condoms. The best way to avoid infection is not to have anal, vaginal, or oral sex.
 
 Dept. of Health and Human Services Office on Women's Health
 
 ## Related topics
 
-- HPV
-- Sexually Transmitted Infections
+- [HPV](HPV.md)
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/genitalwarts.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/genitalwarts.html). General information, not medical advice.*

@@ -4,7 +4,7 @@
 
 #### What is the flu?
 
-The [flu](https://medlineplus.gov/flu.html) (influenza) is a respiratory infection. It is caused by influenza viruses that infect your nose, throat, and lungs. These viruses can spread from person to person.
+The [flu](Flu.md) (influenza) is a respiratory infection. It is caused by influenza viruses that infect your nose, throat, and lungs. These viruses can spread from person to person.
 
 Most people with the flu get better on their own, without medical care. But for some people, the flu is serious. It can cause complications and sometimes even death. People who are 65 and older, under age 5, pregnant, or have certain health conditions are at higher risk of flu complications.
 
@@ -16,14 +16,14 @@ There are many reasons to get a flu shot each year:
 
 - It may keep you from getting sick with the flu.
 - If you do get the flu, it may be less severe. You may also be less likely to have complications or need to be hospitalized with the flu.
-- If you have certain chronic health conditions, getting a flu shot may help prevent the flu from making your condition worse. For example, if you have [COPD](https://medlineplus.gov/copd.html) or [diabetes](https://medlineplus.gov/diabetes.html), the flu can worsen your condition so much that you might need to be hospitalized. Getting a flu shot can lower this risk.
+- If you have certain chronic health conditions, getting a flu shot may help prevent the flu from making your condition worse. For example, if you have [COPD](COPD.md) or [diabetes](Diabetes.md), the flu can worsen your condition so much that you might need to be hospitalized. Getting a flu shot can lower this risk.
 - Getting the vaccine during pregnancy not only helps protect you from the flu during and after pregnancy. It also helps protect your baby from flu during their first few months of life.
 - It has been shown to lower the risk of severe life-threatening flu in children.
 - It may also protect the people around you, including those who are at higher risk of complications.
 
 #### How do flu shots work?
 
-The flu vaccine causes your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) to make antibodies about two weeks after you get the shot. These antibodies provide protection against infection with the flu viruses that are in the vaccine.
+The flu vaccine causes your [immune system](Immune%20System%20and%20Disorders.md) to make antibodies about two weeks after you get the shot. These antibodies provide protection against infection with the flu viruses that are in the vaccine.
 
 #### Who needs a flu shot?
 
@@ -43,7 +43,7 @@ There are some people who should not get a flu shot:
 Some people need to talk to their provider before they get a flu shot. They include people who:
 
 - Have an allergy to any of the ingredients in the vaccine.
-- Have ever had [Guillain-Barre syndrome](https://medlineplus.gov/guillainbarresyndrome.html) (GBS). Some people with a history of GBS should not get a flu vaccine.
+- Have ever had [Guillain-Barre syndrome](Guillain-Barre%20Syndrome.md) (GBS). Some people with a history of GBS should not get a flu vaccine.
 
 If you are moderately or severely ill, you usually need to wait until you recover before getting a flu shot.
 
@@ -67,20 +67,20 @@ If you are pregnant, talk to your provider about when to get the vaccine. When y
 Flu vaccines have been shown to be safe. But like any medical product, they can cause side effects. If you have any side effects, they are usually mild and go away on their own within a few days. Common side effects include:
 
 - Soreness, redness, and/or swelling from the shot
-- [Headache](https://medlineplus.gov/headache.html)
-- [Fever](https://medlineplus.gov/fever.html)
-- [Nausea](https://medlineplus.gov/nauseaandvomiting.html)
+- [Headache](Headache.md)
+- [Fever](Fever.md)
+- [Nausea](Nausea%20and%20Vomiting.md)
 - Muscle aches
 
-The flu shot, like other injections, can occasionally cause [fainting](https://medlineplus.gov/fainting.html). In rare cases, some people have a serious [allergic reaction](https://medlineplus.gov/drugreactions.html).
+The flu shot, like other injections, can occasionally cause [fainting](Fainting.md). In rare cases, some people have a serious [allergic reaction](Drug%20Reactions.md).
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Flu
-- Vaccines
+- [Flu](Flu.md)
+- [Vaccines](Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/flushot.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/flushot.html). General information, not medical advice.*

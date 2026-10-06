@@ -8,13 +8,13 @@ Healthy habits, including eating a healthy diet and being physically active, can
 
 ## Related topics
 
-- College Health
-- Puberty
-- Teen Development
-- Teen Mental Health
-- Teen Sexual Health
-- Teenage Pregnancy
+- [College Health](College%20Health.md)
+- [Puberty](Puberty.md)
+- [Teen Development](Teen%20Development.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
+- [Teen Sexual Health](Teen%20Sexual%20Health.md)
+- [Teenage Pregnancy](Teenage%20Pregnancy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/teenhealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/teenhealth.html). General information, not medical advice.*

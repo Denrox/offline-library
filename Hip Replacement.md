@@ -2,7 +2,7 @@
 
 *Also called: Hip arthroplasty, Hip prosthesis*
 
-Hip replacement is surgery for people with severe hip damage. The most common cause of damage is [osteoarthritis](https://medlineplus.gov/osteoarthritis.html). Osteoarthritis causes pain, swelling, and reduced motion in your joints. It can interfere with your daily activities. If other treatments such as physical therapy, pain medicines, and exercise haven't helped, hip replacement surgery might be an option for you.
+Hip replacement is surgery for people with severe hip damage. The most common cause of damage is [osteoarthritis](Osteoarthritis.md). Osteoarthritis causes pain, swelling, and reduced motion in your joints. It can interfere with your daily activities. If other treatments such as physical therapy, pain medicines, and exercise haven't helped, hip replacement surgery might be an option for you.
 
 During a hip replacement operation, the surgeon removes damaged cartilage and bone from your hip joint and replaces them with new, man-made parts.
 
@@ -18,8 +18,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Hip Injuries and Disorders
+- [Hip Injuries and Disorders](Hip%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hipreplacement.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hipreplacement.html). General information, not medical advice.*

@@ -2,11 +2,11 @@
 
 #### What is breast cancer?
 
-Breast cancer is a [cancer](https://medlineplus.gov/cancer.html) that starts in breast tissue. It happens when cells in the breast change and grow out of control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
+Breast cancer is a [cancer](Cancer.md) that starts in breast tissue. It happens when cells in the breast change and grow out of control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
 
 Sometimes the cancer does not spread any further. This is called "in situ." If the cancer spreads outside the breast, the cancer is called "invasive." It may just spread to nearby tissues and lymph nodes. Or the cancer may metastasize (spread to other parts of the body) through the lymph system or the blood.
 
-Breast cancer is the second most common type of cancer in women in the United States. Rarely, it can also affect [men](https://medlineplus.gov/malebreastcancer.html).
+Breast cancer is the second most common type of cancer in women in the United States. Rarely, it can also affect [men](Male%20Breast%20Cancer.md).
 
 #### What are the types of breast cancer?
 
@@ -19,11 +19,11 @@ There are different types of breast cancer. The types are based on which breast 
 
 #### What causes breast cancer?
 
-Breast cancer happens when there are [changes in the genetic material](https://medlineplus.gov/genetics/condition/breast-cancer/#causes) (DNA). Often, the exact cause of these genetic changes is unknown.
+Breast cancer happens when there are changes in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.
 
 But sometimes these genetic changes are inherited, meaning that you are born with them. Breast cancer that is caused by inherited genetic changes is called hereditary breast cancer.
 
-There are also certain genetic changes that can raise your risk of breast cancer, including changes in the [*BRCA1*](https://medlineplus.gov/genetics/gene/brca1/) and [*BRCA2*](https://medlineplus.gov/genetics/gene/brca2/) genes. These two changes also raise your risk of [ovarian](https://medlineplus.gov/ovariancancer.html) and other cancers.
+There are also certain genetic changes that can raise your risk of breast cancer, including changes in the *BRCA1* and *BRCA2* genes. These two changes also raise your risk of [ovarian](Ovarian%20Cancer.md) and other cancers.
 
 Besides genetics, your lifestyle and the environment can affect your risk of breast cancer.
 
@@ -37,13 +37,13 @@ The factors that raise your risk of breast cancer include:
 - Dense breast tissue
 - A reproductive history that leads to more exposure to the estrogen hormone, including:
 
- - [Menstruating](https://medlineplus.gov/menstruation.html) at an early age
+ - [Menstruating](Menstruation.md) at an early age
  - Being at an older age when you first gave birth or never having given birth
- - Starting [menopause](https://medlineplus.gov/menopause.html) at a later age
-- Taking [hormone therapy for meopause](https://medlineplus.gov/hormonetherapyformenopause.html)
-- [Radiation therapy](https://medlineplus.gov/radiationtherapy.html) to the breast or chest
-- [Obesity](https://medlineplus.gov/obesity.html)
-- Drinking [alcohol](https://medlineplus.gov/alcohol.html)
+ - Starting [menopause](Menopause.md) at a later age
+- Taking [hormone therapy for meopause](Hormone%20Therapy%20for%20Menopause.md)
+- [Radiation therapy](Radiation%20Therapy.md) to the breast or chest
+- [Obesity](Obesity.md)
+- Drinking [alcohol](Alcohol.md)
 
 #### What are the signs and symptoms of breast cancer?
 
@@ -63,17 +63,17 @@ Your health care provider may use many tools to diagnose breast cancer and figur
 
 - A physical exam, including a clinical breast exam (CBE). This involves checking for any lumps or anything else that seems unusual with the breasts and armpits.
 - A medical history.
-- Imaging tests, such as a [mammogram](https://medlineplus.gov/mammography.html), an [ultrasound](https://medlineplus.gov/lab-tests/sonogram/), or an [MRI](https://medlineplus.gov/mriscans.html).
-- [Breast biopsy](https://medlineplus.gov/lab-tests/breast-biopsy/).
-- Blood chemistry tests, which measure different substances in the blood, including electrolytes, fats, proteins, glucose (sugar), and enzymes. Some of the specific blood chemistry tests include a [basic metabolic panel (BMP)](https://medlineplus.gov/lab-tests/basic-metabolic-panel-bmp/), a [comprehensive metabolic panel (CMP)](https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/), and an [electrolyte panel](https://medlineplus.gov/lab-tests/electrolyte-panel/).
+- Imaging tests, such as a [mammogram](Mammography.md), an ultrasound, or an [MRI](MRI%20Scans.md).
+- Breast biopsy.
+- Blood chemistry tests, which measure different substances in the blood, including electrolytes, fats, proteins, glucose (sugar), and enzymes. Some of the specific blood chemistry tests include a basic metabolic panel (BMP), a comprehensive metabolic panel (CMP), and an electrolyte panel.
 
 If these tests show that you have breast cancer, you will have tests that study the cancer cells. These tests help your provider decide which treatment would be best for you. The tests may include:
 
-- [Genetic tests](https://medlineplus.gov/genetictesting.html) for genetic changes such in the [*BRCA*](https://medlineplus.gov/lab-tests/brca-test/) and [*TP53*](https://medlineplus.gov/lab-tests/tp53-genetic-test/) genes.
-- [HER2 test](https://medlineplus.gov/lab-tests/her2-tumor-marker-test/). HER2 is a protein involved with cell growth. It is on the outside of all breast cells. If your breast cancer cells have more HER2 than normal, they can grow more quickly and spread to other parts of the body.
-- An estrogen and progesterone receptor test. This test measures the amount of estrogen and progesterone ([hormones](https://medlineplus.gov/hormones.html)) receptors in cancer tissue. If there are more receptors than normal, the cancer is called estrogen and/or progesterone receptor positive. This type of breast cancer may grow more quickly.
+- [Genetic tests](Genetic%20Testing.md) for genetic changes such in the *BRCA* and *TP53* genes.
+- HER2 test. HER2 is a protein involved with cell growth. It is on the outside of all breast cells. If your breast cancer cells have more HER2 than normal, they can grow more quickly and spread to other parts of the body.
+- An estrogen and progesterone receptor test. This test measures the amount of estrogen and progesterone ([hormones](Hormones.md)) receptors in cancer tissue. If there are more receptors than normal, the cancer is called estrogen and/or progesterone receptor positive. This type of breast cancer may grow more quickly.
 
-Another step is staging the cancer. Staging involves doing tests to find out whether the cancer has spread within the breast or to other parts of the body. The tests may include other [diagnostic imaging](https://medlineplus.gov/diagnosticimaging.html) tests and a sentinel lymph node biopsy. This biopsy is done to see whether the cancer has spread to the lymph nodes.
+Another step is staging the cancer. Staging involves doing tests to find out whether the cancer has spread within the breast or to other parts of the body. The tests may include other [diagnostic imaging](Diagnostic%20Imaging.md) tests and a sentinel lymph node biopsy. This biopsy is done to see whether the cancer has spread to the lymph nodes.
 
 #### What are the treatments for breast cancer?
 
@@ -81,13 +81,13 @@ Treatments for breast cancer include:
 
 - Surgery such as
 
- - A [mastectomy](https://medlineplus.gov/mastectomy.html), which removes the whole breast
+ - A [mastectomy](Mastectomy.md), which removes the whole breast
  - A lumpectomy to remove the cancer and some normal tissue around it, but not the breast itself
 - Radiation therapy
-- [Chemotherapy](https://medlineplus.gov/cancerchemotherapy.html)
+- [Chemotherapy](Cancer%20Chemotherapy.md)
 - Hormone therapy, which blocks cancer cells from getting the hormones they need to grow
 - Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
-- [Immunotherapy](https://medlineplus.gov/cancerimmunotherapy.html)
+- [Immunotherapy](Cancer%20Immunotherapy.md)
 
 #### Can breast cancer be prevented?
 
@@ -95,10 +95,10 @@ You may be able to help prevent breast cancer by making healthy lifestyle change
 
 - Staying at a healthy weight
 - Limiting alcohol use
-- Getting [enough exercise](https://medlineplus.gov/howmuchexercisedoineed.html)
+- Getting [enough exercise](How%20Much%20Exercise%20Do%20I%20Need.md)
 - Limiting your exposure to estrogen by
 
- - [Breastfeeding](https://medlineplus.gov/breastfeeding.html) your babies if you can
+ - [Breastfeeding](Breastfeeding.md) your babies if you can
  - Limiting hormone therapy
 
 If you are at high risk, your provider may suggest that you take certain medicines to lower the risk. Some women at very high risk may decide to get a mastectomy (of their healthy breasts) to prevent breast cancer.
@@ -109,12 +109,12 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Breast Diseases
-- Breast Reconstruction
-- Male Breast Cancer
-- Mammography
-- Mastectomy
+- [Breast Diseases](Breast%20Diseases.md)
+- [Breast Reconstruction](Breast%20Reconstruction.md)
+- [Male Breast Cancer](Male%20Breast%20Cancer.md)
+- [Mammography](Mammography.md)
+- [Mastectomy](Mastectomy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/breastcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/breastcancer.html). General information, not medical advice.*

@@ -14,14 +14,14 @@ The most commonly used types of club drugs include:
 - GHB (Gamma-hydroxybutyrate), also known as G and Liquid Ecstasy
 - Ketamine, also known as Special K and K
 - Rohypnol, also known as Roofies
-- [Methamphetamine](https://medlineplus.gov/methamphetamine.html), also known as Speed, Ice, and, Meth
+- [Methamphetamine](Methamphetamine.md), also known as Speed, Ice, and, Meth
 - LSD (Lysergic Acid Diethylamide), also known as Acid
 
 Some of these drugs are approved for certain medical uses. Other uses of these drugs are misuse.
 
 #### What are date rape drugs?
 
-Date rape drugs are any type of drug or alcohol used to make [sexual assault](https://medlineplus.gov/sexualassault.html) easier. Someone could put one in your drink when you are not looking. Or you may be drinking alcohol or taking a drug, and a person may make it stronger without you knowing.
+Date rape drugs are any type of drug or alcohol used to make [sexual assault](Sexual%20Assault.md) easier. Someone could put one in your drink when you are not looking. Or you may be drinking alcohol or taking a drug, and a person may make it stronger without you knowing.
 
 Club drugs are also sometimes used as "date rape" drugs. These drugs are very powerful. They can affect you very quickly, and you might not know that something is wrong. The length of time that the effects last varies. It depends on how much of the drug is in your body and if the drug is mixed with other drugs or alcohol. Alcohol can make the effects of drugs even stronger and can cause serious health problems - even death.
 
@@ -36,9 +36,9 @@ To try to avoid date rape drugs,:
 
 ## Related topics
 
-- Drug Use and Addiction
-- Methamphetamine
+- [Drug Use and Addiction](Drug%20Use%20and%20Addiction.md)
+- [Methamphetamine](Methamphetamine.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/clubdrugs.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/clubdrugs.html). General information, not medical advice.*

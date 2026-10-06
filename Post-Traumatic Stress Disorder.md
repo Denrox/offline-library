@@ -4,7 +4,7 @@
 
 #### What is post-traumatic stress disorder (PTSD)?
 
-Post-traumatic stress disorder (PTSD) is a mental health disorder that some people develop after they experience or see a traumatic event. The traumatic event may be life-threatening, such as combat, a [natural disaster](https://medlineplus.gov/copingwithdisasters.html), a car accident, or [sexual assault](https://medlineplus.gov/sexualassault.html). But sometimes the event is not necessarily a dangerous one. For example, the sudden, unexpected death of a loved one can also cause PTSD.
+Post-traumatic stress disorder (PTSD) is a mental health disorder that some people develop after they experience or see a traumatic event. The traumatic event may be life-threatening, such as combat, a [natural disaster](Coping%20with%20Disasters.md), a car accident, or [sexual assault](Sexual%20Assault.md). But sometimes the event is not necessarily a dangerous one. For example, the sudden, unexpected death of a loved one can also cause PTSD.
 
 It's normal to feel afraid during and after a traumatic situation. The fear triggers a "fight-or-flight" response. This is your body's way of helping to protect itself from possible harm. It causes changes in your body such as the release of certain hormones and increases in alertness, blood pressure, heart rate, and breathing.
 
@@ -24,7 +24,7 @@ You can develop PTSD at any age. Many risk factors play a part in whether you wi
 - Going through a traumatic event that lasts a long time
 - Having little or no social support after the event
 - Dealing with extra stress after the event, such as loss of a loved one, pain and injury, or loss of a job or home
-- Having a history of [mental illness](https://medlineplus.gov/mentaldisorders.html) or [substance use](https://medlineplus.gov/druguseandaddiction.html)
+- Having a history of [mental illness](Mental%20Disorders.md) or [substance use](Drug%20Use%20and%20Addiction.md)
 
 #### What are the symptoms of post-traumatic stress disorder (PTSD)?
 
@@ -43,7 +43,7 @@ There are four types of PTSD symptoms, but they may not be the same for everyone
 
  - Being easily startled
  - Feeling tense or "on edge"
- - Having [difficulty sleeping](https://medlineplus.gov/insomnia.html)
+ - Having [difficulty sleeping](Insomnia.md)
  - Having angry outbursts
 - **Cognition and mood symptoms**, which are negative changes in beliefs and feelings. They include
 
@@ -59,7 +59,7 @@ If your symptoms last longer than four weeks, cause you great distress, or inter
 
 #### How is post-traumatic stress disorder (PTSD) diagnosed?
 
-A health care provider who has experience helping people with mental illnesses can diagnose PTSD. The provider will do a [mental health screening](https://medlineplus.gov/lab-tests/mental-health-screening/) and may also do a physical exam. To get a diagnosis of PTSD, you must have all of these symptoms for at least one month:
+A health care provider who has experience helping people with mental illnesses can diagnose PTSD. The provider will do a mental health screening and may also do a physical exam. To get a diagnosis of PTSD, you must have all of these symptoms for at least one month:
 
 - At least one re-experiencing symptom
 - At least one avoidance symptom
@@ -71,7 +71,7 @@ A health care provider who has experience helping people with mental illnesses c
 The main treatments for PTSD are talk therapy, medicines, or both. PTSD affects people differently, so a treatment that works for one person may not work for another. If you have PTSD, you need to work with a mental health professional to find the best treatment for your symptoms.:
 
 - **Talk therapy**, or psychotherapy, can teach you about your symptoms. You will learn how to identify what triggers them and how to manage them. There are different types of talk therapy for PTSD.
-- **Medicines** can help with the symptoms of PTSD. [Antidepressants](https://medlineplus.gov/antidepressants.html) may help control symptoms such as sadness, worry, anger, and feeling numb inside. Other medicines can help with sleep problems and nightmares.
+- **Medicines** can help with the symptoms of PTSD. [Antidepressants](Antidepressants.md) may help control symptoms such as sadness, worry, anger, and feeling numb inside. Other medicines can help with sleep problems and nightmares.
 
 #### Can post-traumatic stress disorder (PTSD) be prevented?
 
@@ -86,9 +86,9 @@ NIH: National Institute of Mental Health
 
 ## Related topics
 
-- Stress
-- Veterans and Military Health
+- [Stress](Stress.md)
+- [Veterans and Military Health](Veterans%20and%20Military%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/posttraumaticstressdisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/posttraumaticstressdisorder.html). General information, not medical advice.*

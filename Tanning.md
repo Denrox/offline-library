@@ -2,11 +2,11 @@
 
 #### Can a tan be healthy?
 
-Some people think that tanning gives them a healthy glow. But tanning, either outdoors or indoors with a tanning bed, is not healthy at all. It exposes you to harmful rays and puts you at risk for health problems such as [melanoma](https://medlineplus.gov/melanoma.html) and other [skin cancers](https://medlineplus.gov/skincancer.html).
+Some people think that tanning gives them a healthy glow. But tanning, either outdoors or indoors with a tanning bed, is not healthy at all. It exposes you to harmful rays and puts you at risk for health problems such as [melanoma](Melanoma.md) and other [skin cancers](Skin%20Cancer.md).
 
 #### What are UV rays, and how do they affect the skin?
 
-Sunlight travels to earth as a mixture of both visible and invisible rays. Some of the rays are harmless to people. But one kind, ultraviolet (UV) rays, can cause problems. They are a form of radiation. UV rays do help your body make [vitamin D](https://medlineplus.gov/vitamind.html), but too much [exposure](https://medlineplus.gov/sunexposure.html) damages your skin. Most people can get the vitamin D that they need with only about 5 to 15 minutes of sun exposure two to three times a week.
+Sunlight travels to earth as a mixture of both visible and invisible rays. Some of the rays are harmless to people. But one kind, ultraviolet (UV) rays, can cause problems. They are a form of radiation. UV rays do help your body make [vitamin D](Vitamin%20D.md), but too much [exposure](Sun%20Exposure.md) damages your skin. Most people can get the vitamin D that they need with only about 5 to 15 minutes of sun exposure two to three times a week.
 
 There are three types of UV rays. Two of them, UVA and UVB, can reach the earth's surface and affect your skin. Using a tanning bed also exposes you to UVA and UVB.
 
@@ -16,11 +16,11 @@ UVB rays can cause sunburn. UVA rays can travel more deeply into the skin than U
 
 Since tanning means overexposure to UV rays, it can damage your skin and cause health problems such as:
 
-- **Premature skin aging**, which can cause your skin to become thickened, leathery, and wrinkled. You may also have dark spots on your skin. These happen because long-term exposure to UV rays makes your skin less elastic. The more sun exposure you have, the earlier your [skin ages](https://medlineplus.gov/skinaging.html).
+- **Premature skin aging**, which can cause your skin to become thickened, leathery, and wrinkled. You may also have dark spots on your skin. These happen because long-term exposure to UV rays makes your skin less elastic. The more sun exposure you have, the earlier your [skin ages](Skin%20Aging.md).
 - **Skin cancers**, including melanoma. This can happen because the UV light damages the DNA of your skin cells and interferes with your body's ability to fight the cancer.
 - **Actinic keratosis**, a thick, scaly patch of skin that usually forms on areas exposed to the sun, such as the face, scalp, back of the hands, or chest. It can eventually become cancerous.
-- **Eye damage**, including [cataracts](https://medlineplus.gov/cataract.html) and photokeratitis (snow blindness)
-- **A weakened immune system**, which can increase your sensitivity to sunlight, decrease the effects of [vaccines](https://medlineplus.gov/vaccines.html), and cause you to have reactions to certain medicines.
+- **Eye damage**, including [cataracts](Cataract.md) and photokeratitis (snow blindness)
+- **A weakened immune system**, which can increase your sensitivity to sunlight, decrease the effects of [vaccines](Vaccines.md), and cause you to have reactions to certain medicines.
 
 #### What should I do to protect my skin from UV rays?
 
@@ -51,4 +51,4 @@ There are other ways to look tan, but they are not all safe:
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tanning.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tanning.html). General information, not medical advice.*

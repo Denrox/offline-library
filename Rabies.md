@@ -2,7 +2,7 @@
 
 *Also called: Hydrophobia*
 
-Rabies is a deadly animal disease caused by a virus. It can happen in wild animals, including raccoons, skunks, bats and foxes, or in dogs, cats or farm animals. People get it from the [bite](https://medlineplus.gov/animalbites.html) of an infected animal.
+Rabies is a deadly animal disease caused by a virus. It can happen in wild animals, including raccoons, skunks, bats and foxes, or in dogs, cats or farm animals. People get it from the [bite](Animal%20Bites.md) of an infected animal.
 
 In people, symptoms of rabies include fever, headache and fatigue, then confusion, hallucinations and paralysis. Once the symptoms begin, the disease is usually fatal. A series of shots can prevent rabies in people exposed to the virus. You need to get them right away. If an animal bites you, wash the wound well; then get medical care.
 
@@ -16,8 +16,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Animal Bites
+- [Animal Bites](Animal%20Bites.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rabies.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rabies.html). General information, not medical advice.*

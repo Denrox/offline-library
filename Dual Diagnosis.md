@@ -2,7 +2,7 @@
 
 #### What is dual diagnosis?
 
-If you have a dual diagnosis, that means that you have both a [mental disorder](https://medlineplus.gov/mentaldisorders.html) and a substance use disorder (SUD), either with [alcohol](https://medlineplus.gov/alcoholusedisorderaud.html) or [drugs](https://medlineplus.gov/druguseandaddiction.html). A dual diagnosis is a type of comorbidity, which is when someone has two disorders at the same time. Another name for this is co-occurring disorders.
+If you have a dual diagnosis, that means that you have both a [mental disorder](Mental%20Disorders.md) and a substance use disorder (SUD), either with [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29.md) or [drugs](Drug%20Use%20and%20Addiction.md). A dual diagnosis is a type of comorbidity, which is when someone has two disorders at the same time. Another name for this is co-occurring disorders.
 
 Mental and substance use disorders often occur together. Many people who develop SUDs are also diagnosed with mental disorders. And the reverse is true; many people with mental disorders will develop an SUD. Having both types of disorders is even more common in teenagers, people with serious mental illness, and people with certain mental disorders.
 
@@ -13,8 +13,8 @@ Although these problems often occur together, this does not mean that one caused
 - **Common risk factors can contribute to both mental disorders and SUDs.** These factors include:
 
  - Genetics.
- - [Stress](https://medlineplus.gov/stress.html).
- - Trauma, especially in childhood. Veterans with [post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html) (PTSD) are also at risk for SUDs
+ - [Stress](Stress.md).
+ - Trauma, especially in childhood. Veterans with [post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md) (PTSD) are also at risk for SUDs
 - **Mental disorders can contribute to drug use and SUDs.** For example, people with mental disorders may use drugs or alcohol to try to feel better temporarily. This is known as self-medication. Also, mental disorders may change the brain to make it more likely that you will become addicted.
 - **Substance use and addiction can contribute to the development of a mental disorder.** Substance use may change the brain in ways that make you more likely to develop a mental disorder.
 
@@ -23,11 +23,11 @@ Although these problems often occur together, this does not mean that one caused
 If you have a dual diagnosis, it is usually better to treat both conditions at the same time rather than separately. You and your health care provider can work on a treatment plan that fits your needs.The plan should take into account your age, which substance(s) you are misusing, and which specific mental disorder(s) you have. The plan may include:
 
 - **Behavioral therapy,** such as talk therapy (psychotherapy), long-term residential treatment (which combines housing and treatment services), and therapies to help you stay motivated to stick with your treatment plan.
-- **Medicines.** There are effective medicines that treat [opioid](https://medlineplus.gov/opioidusedisorderoudtreatment.html), [alcohol](https://medlineplus.gov/alcoholusedisorderaudtreatment.html), and nicotine addiction. There are also medicines that can lessen the symptoms of many mental disorders. Some medicines may treat more than one disorder.
+- **Medicines.** There are effective medicines that treat [opioid](Opioid%20Use%20Disorder%20%28OUD%29%20Treatment.md), [alcohol](Alcohol%20Use%20Disorder%20%28AUD%29%20Treatment.md), and nicotine addiction. There are also medicines that can lessen the symptoms of many mental disorders. Some medicines may treat more than one disorder.
 - **A referral to a support group.** Support groups can give you emotional and social support. They are also a place where people can share tips about how to deal with day-to-day challenges.
 
 NIH: National Institute on Drug Abuse
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dualdiagnosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dualdiagnosis.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Advance Directives
 
-What kind of medical care would you want if you were too ill or hurt to express your wishes? Advance directives are legal documents that allow you to spell out your decisions about [end-of-life](https://medlineplus.gov/endoflifeissues.html) care ahead of time. They give you a way to tell your wishes to family, friends, and health care professionals and to avoid confusion later on.
+What kind of medical care would you want if you were too ill or hurt to express your wishes? Advance directives are legal documents that allow you to spell out your decisions about [end-of-life](End%20of%20Life%20Issues.md) care ahead of time. They give you a way to tell your wishes to family, friends, and health care professionals and to avoid confusion later on.
 
 A living will tells which treatments you want if you are dying or permanently unconscious. You can accept or refuse medical care. You might want to include instructions on:
 
@@ -15,10 +15,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- End of Life Issues
-- Family Issues
-- Hospice Care
+- [End of Life Issues](End%20of%20Life%20Issues.md)
+- [Family Issues](Family%20Issues.md)
+- [Hospice Care](Hospice%20Care.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/advancedirectives.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/advancedirectives.html). General information, not medical advice.*

@@ -15,4 +15,4 @@ Most people who receive orthodontic care are kids, but adults get braces, too. I
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/orthodontia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/orthodontia.html). General information, not medical advice.*

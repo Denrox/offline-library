@@ -4,25 +4,25 @@ When you're short of breath, it's hard or uncomfortable for you to take in the o
 
 Many conditions can make you feel short of breath:
 
-- Lung conditions such as [asthma](https://medlineplus.gov/asthma.html), [emphysema](https://medlineplus.gov/emphysema.html), or [pneumonia](https://medlineplus.gov/pneumonia.html)
-- Problems with your [trachea](https://medlineplus.gov/trachealdisorders.html) or [bronchi](https://medlineplus.gov/bronchialdisorders.html), which are part of your airway system
-- [Heart disease](https://medlineplus.gov/heartdiseases.html) can make you feel breathless if your heart cannot pump enough blood to supply oxygen to your body
-- [Anxiety](https://medlineplus.gov/anxiety.html) and [panic attacks](https://medlineplus.gov/panicdisorder.html)
-- [Allergies](https://medlineplus.gov/allergy.html)
+- Lung conditions such as [asthma](Asthma.md), [emphysema](Emphysema.md), or [pneumonia](Pneumonia.md)
+- Problems with your [trachea](Tracheal%20Disorders.md) or [bronchi](Bronchial%20Disorders.md), which are part of your airway system
+- [Heart disease](Heart%20Diseases.md) can make you feel breathless if your heart cannot pump enough blood to supply oxygen to your body
+- [Anxiety](Anxiety.md) and [panic attacks](Panic%20Disorder.md)
+- [Allergies](Allergy.md)
 
 If you often have trouble breathing, it is important to find out the cause.
 
 ## Related topics
 
-- Acute Bronchitis
-- Asthma
-- Bronchial Disorders
-- Chronic Bronchitis
-- COPD
-- Heart Failure
-- Lung Diseases
-- Sleep Apnea
+- [Acute Bronchitis](Acute%20Bronchitis.md)
+- [Asthma](Asthma.md)
+- [Bronchial Disorders](Bronchial%20Disorders.md)
+- [Chronic Bronchitis](Chronic%20Bronchitis.md)
+- [COPD](COPD.md)
+- [Heart Failure](Heart%20Failure.md)
+- [Lung Diseases](Lung%20Diseases.md)
+- [Sleep Apnea](Sleep%20Apnea.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/breathingproblems.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/breathingproblems.html). General information, not medical advice.*

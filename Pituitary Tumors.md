@@ -2,7 +2,7 @@
 
 Your pituitary gland is a pea-sized gland at the base of your brain. The pituitary is the "master control gland" - it makes hormones that affect growth and the functions of other glands in the body.
 
-Pituitary tumors are common, but often they don't cause health problems. Most people with pituitary tumors never even know they have them. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body. This can cause [endocrine diseases](https://medlineplus.gov/endocrinediseases.html) such as [Cushing's syndrome](https://medlineplus.gov/cushingssyndrome.html) and [hyperthyroidism](https://medlineplus.gov/hyperthyroidism.html).
+Pituitary tumors are common, but often they don't cause health problems. Most people with pituitary tumors never even know they have them. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body. This can cause [endocrine diseases](Endocrine%20Diseases.md) such as [Cushing's syndrome](Cushing%27s%20Syndrome.md) and [hyperthyroidism](Hyperthyroidism.md).
 
 Symptoms of pituitary tumors include:
 
@@ -15,8 +15,8 @@ Pituitary tumors are usually curable. Treatment is often surgery to remove the t
 
 ## Related topics
 
-- Pituitary Disorders
+- [Pituitary Disorders](Pituitary%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pituitarytumors.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pituitarytumors.html). General information, not medical advice.*

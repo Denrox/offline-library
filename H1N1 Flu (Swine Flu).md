@@ -4,9 +4,9 @@
 
 Swine flu is an infection caused by a virus. It's named for a virus that pigs can get. People do not normally get swine flu, but human infections can and do happen. In 2009 a strain of swine flu called H1N1 infected many people around the world.
 
-The virus is contagious and can spread from human to human. Symptoms of swine flu in people are similar to the symptoms of regular human [flu](https://medlineplus.gov/flu.html) and include fever, cough, sore throat, body aches, headache, chills and fatigue.
+The virus is contagious and can spread from human to human. Symptoms of swine flu in people are similar to the symptoms of regular human [flu](Flu.md) and include fever, cough, sore throat, body aches, headache, chills and fatigue.
 
-There are antiviral medicines you can take to prevent or treat swine flu. There is a [vaccine](https://medlineplus.gov/flushot.html) available to protect against swine flu. You can help prevent the spread of germs that cause respiratory illnesses like influenza by:
+There are antiviral medicines you can take to prevent or treat swine flu. There is a [vaccine](Flu%20Shot.md) available to protect against swine flu. You can help prevent the spread of germs that cause respiratory illnesses like influenza by:
 
 - Covering your nose and mouth with a tissue when you cough or sneeze. Throw the tissue in the trash after you use it.
 - Washing your hands often with soap and water, especially after you cough or sneeze. You can also use alcohol-based hand cleaners.
@@ -18,11 +18,11 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Animal Diseases and Your Health
-- Bird Flu
-- Flu
-- Flu Shot
+- [Animal Diseases and Your Health](Animal%20Diseases%20and%20Your%20Health.md)
+- [Bird Flu](Bird%20Flu.md)
+- [Flu](Flu.md)
+- [Flu Shot](Flu%20Shot.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/h1n1fluswineflu.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/h1n1fluswineflu.html). General information, not medical advice.*

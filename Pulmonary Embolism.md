@@ -4,7 +4,7 @@
 
 #### What is a pulmonary embolism (PE)?
 
-A pulmonary embolism (PE) is a sudden blockage in a lung artery. It usually happens when a [blood clot](https://medlineplus.gov/bloodclots.html) breaks loose and travels through the bloodstream to the lungs. PE is a serious condition that can cause:
+A pulmonary embolism (PE) is a sudden blockage in a lung artery. It usually happens when a [blood clot](Blood%20Clots.md) breaks loose and travels through the bloodstream to the lungs. PE is a serious condition that can cause:
 
 - Permanent damage to the lungs
 - Low oxygen levels in your blood
@@ -14,7 +14,7 @@ PE can be life-threatening, especially if a clot is large, or if there are many 
 
 #### What causes a pulmonary embolism (PE)?
 
-The cause is usually a blood clot that breaks loose and travels through the bloodstream to the lungs. The clot is usually a [deep vein thrombosis](https://medlineplus.gov/deepveinthrombosis.html) (DVT), a clot in the leg. In rare cases, material such as air bubbles, clumps of fat, or parts of a tumor can block the lung artery and cause PE.
+The cause is usually a blood clot that breaks loose and travels through the bloodstream to the lungs. The clot is usually a [deep vein thrombosis](Deep%20Vein%20Thrombosis.md) (DVT), a clot in the leg. In rare cases, material such as air bubbles, clumps of fat, or parts of a tumor can block the lung artery and cause PE.
 
 #### Who is more likely to develop a pulmonary embolism (PE)?
 
@@ -27,7 +27,7 @@ Anyone can get a pulmonary embolism (PE), but certain things can raise your risk
  - Heart diseases
  - Lung diseases
  - A broken hip or leg bone or other trauma
-- **Hormone-based medicines,** such as [birth control pills](https://medlineplus.gov/birthcontrol.html) or [hormone therapy for menopause](https://medlineplus.gov/hormonetherapyformenopause.html).
+- **Hormone-based medicines,** such as [birth control pills](Birth%20Control.md) or [hormone therapy for menopause](Hormone%20Therapy%20for%20Menopause.md).
 - **Pregnancy and childbirth.** The risk is highest for about six weeks after childbirth.
 - **Not moving for long periods,** such as being on bed rest, having a cast, or taking a long plane flight.
 - **Age.** Your risk increases as you get older, especially after age 40.
@@ -45,7 +45,7 @@ Symptoms of PE include:
 - Coughing up blood
 - Very low blood pressure, lightheadedness, or fainting
 
-Sometimes people with PE don't have any symptoms until they have serious complications, such as [pulmonary hypertension](https://medlineplus.gov/pulmonaryhypertension.html) (high blood pressure in the arteries to your lungs).
+Sometimes people with PE don't have any symptoms until they have serious complications, such as [pulmonary hypertension](Pulmonary%20Hypertension.md) (high blood pressure in the arteries to your lungs).
 
 #### How is a pulmonary embolism (PE) diagnosed?
 
@@ -53,7 +53,7 @@ It can be difficult to diagnose PE. To find out if you have a PE, your health ca
 
 - Take your medical history, including asking about your symptoms and risk factors for PE
 - Do a physical exam
-- Likely order some tests, including various[imaging](https://medlineplus.gov/diagnosticimaging.html) and blood tests
+- Likely order some tests, including various[imaging](Diagnostic%20Imaging.md) and blood tests
 
 #### What are the treatments for a pulmonary embolism (PE)?
 
@@ -61,7 +61,7 @@ If you have PE, you need medical treatment right away. The goal of treatment is 
 
 **Medicines**:
 
-- **Anticoagulants,** or [blood thinners](https://medlineplus.gov/bloodthinners.html), keep blood clots from getting larger and stop new clots from forming. You might get them as an injection, a pill, or through an I.V. (intravenous). They can cause bleeding, especially if you are taking other medicines that also thin your blood, such as aspirin.
+- **Anticoagulants,** or [blood thinners](Blood%20Thinners.md), keep blood clots from getting larger and stop new clots from forming. You might get them as an injection, a pill, or through an I.V. (intravenous). They can cause bleeding, especially if you are taking other medicines that also thin your blood, such as aspirin.
 - **Thrombolytics** are medicines to dissolve blood clots. You may get them if you have large clots that cause severe symptoms or other serious complications. Thrombolytics can cause sudden bleeding, so they are used if your PE is serious and may be life-threatening.
 
 **Procedures**:
@@ -74,7 +74,7 @@ If you have PE, you need medical treatment right away. The goal of treatment is 
 Preventing new blood clots can prevent PE. Prevention may include:
 
 - Continuing to take blood thinners. It's also important to get regular checkups with your provider, to make sure that the dosage of your medicines is working to prevent blood clots but not causing bleeding.
-- Heart-healthy lifestyle changes, such as heart-healthy eating, exercise, and, if you smoke, [quitting smoking](https://medlineplus.gov/quittingsmoking.html). Using compression stockings to prevent deep vein thrombosis (DVT).
+- Heart-healthy lifestyle changes, such as heart-healthy eating, exercise, and, if you smoke, [quitting smoking](Quitting%20Smoking.md). Using compression stockings to prevent deep vein thrombosis (DVT).
 - Moving your legs when sitting for long periods of time (such as on long trips).
 - Moving around as soon as possible after surgery or being confined to a bed.
 
@@ -82,10 +82,10 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Blood Clots
-- Deep Vein Thrombosis
-- Vascular Diseases
+- [Blood Clots](Blood%20Clots.md)
+- [Deep Vein Thrombosis](Deep%20Vein%20Thrombosis.md)
+- [Vascular Diseases](Vascular%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pulmonaryembolism.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pulmonaryembolism.html). General information, not medical advice.*

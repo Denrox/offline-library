@@ -1,6 +1,6 @@
 # Cochlear Implants
 
-A cochlear implant is a small, complex electronic device that can help to provide a sense of sound. People who are profoundly [deaf](https://medlineplus.gov/hearingdisordersanddeafness.html) or severely hard-of-hearing can get help from them. The implant consists of two parts. One part sits on the outside of the body, behind the ear. A second part is surgically placed under the skin.
+A cochlear implant is a small, complex electronic device that can help to provide a sense of sound. People who are profoundly [deaf](Hearing%20Disorders%20and%20Deafness.md) or severely hard-of-hearing can get help from them. The implant consists of two parts. One part sits on the outside of the body, behind the ear. A second part is surgically placed under the skin.
 
 An implant does not restore normal hearing. It can help a person understand speech. Children and adults can benefit from them.
 
@@ -8,10 +8,10 @@ NIH: National Institute on Deafness and Other Communication Disorders
 
 ## Related topics
 
-- Hearing Aids
-- Hearing Disorders and Deafness
-- Hearing Problems in Children
+- [Hearing Aids](Hearing%20Aids.md)
+- [Hearing Disorders and Deafness](Hearing%20Disorders%20and%20Deafness.md)
+- [Hearing Problems in Children](Hearing%20Problems%20in%20Children.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cochlearimplants.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cochlearimplants.html). General information, not medical advice.*

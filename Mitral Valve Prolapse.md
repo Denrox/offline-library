@@ -21,38 +21,38 @@ Anyone can have MVP. Most people who have it were born with it. MVP tends to run
 You may be more likely to develop MVP if you:
 
 - **Are older.** The risk of MVP increases as aging affects the valve.
-- **Had rheumatic fever,** a disease that can develop after a [strep throat infection](https://medlineplus.gov/streptococcalinfections.html) and cause damage to the heart valves.
-- **Were born with a [connective tissue disorder](https://medlineplus.gov/connectivetissuedisorders.html)**, such as [Marfan syndrome](https://medlineplus.gov/marfansyndrome.html) or [Ehlers-Danlos syndrome](https://medlineplus.gov/ehlersdanlossyndrome.html).
-- **Have [Graves' disease](https://medlineplus.gov/genetics/condition/graves-disease/)**, a type of thyroid condition.
-- **Have [scoliosis](https://medlineplus.gov/scoliosis.html)** (a side-to-side curve of the spine) or other problems with the bones of your body.
-- **Have some types of [muscular dystrophy](https://medlineplus.gov/musculardystrophy.html).**
+- **Had rheumatic fever,** a disease that can develop after a [strep throat infection](Streptococcal%20Infections.md) and cause damage to the heart valves.
+- **Were born with a [connective tissue disorder](Connective%20Tissue%20Disorders.md)**, such as [Marfan syndrome](Marfan%20Syndrome.md) or [Ehlers-Danlos syndrome](Ehlers-Danlos%20Syndrome.md).
+- **Have Graves' disease**, a type of thyroid condition.
+- **Have [scoliosis](Scoliosis.md)** (a side-to-side curve of the spine) or other problems with the bones of your body.
+- **Have some types of [muscular dystrophy](Muscular%20Dystrophy.md).**
 
-Mitral valve prolapse with backflow is most common in men and people who have [high blood pressure](https://medlineplus.gov/highbloodpressure.html).
+Mitral valve prolapse with backflow is most common in men and people who have [high blood pressure](High%20Blood%20Pressure.md).
 
 #### What are the symptoms of mitral valve prolapse (MVP)?
 
 Most people who have MVP don't have any symptoms. But if it does cause symptoms, they may include:
 
 - Heart palpitations (feeling that your heart is fluttering, skipping beats, or beating too hard or too fast)
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html) (feeling like you can't get enough air)
-- A [cough](https://medlineplus.gov/cough.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html), [dizziness](https://medlineplus.gov/dizzinessandvertigo.html), or [anxiety](https://medlineplus.gov/anxiety.html)
-- [Migraines](https://medlineplus.gov/migraine.html)
-- [Chest pain](https://medlineplus.gov/chestpain.html)
+- [Shortness of breath](Breathing%20Problems.md) (feeling like you can't get enough air)
+- A [cough](Cough.md)
+- [Fatigue](Fatigue.md), [dizziness](Dizziness%20and%20Vertigo.md), or [anxiety](Anxiety.md)
+- [Migraines](Migraine.md)
+- [Chest pain](Chest%20Pain.md)
 
 #### What other problems can mitral valve prolapse (MVP) cause?
 
 In rare cases, MVP can cause other problems. They're most often caused by backflow. They can include:
 
-- [Arrhythmia](https://medlineplus.gov/arrhythmia.html), a problem with the rate or rhythm of your heartbeat
-- [Endocarditis](https://medlineplus.gov/endocarditis.html), an infection in the lining of the heart and heart valves
-- [Heart failure](https://medlineplus.gov/heartfailure.html)
+- [Arrhythmia](Arrhythmia.md), a problem with the rate or rhythm of your heartbeat
+- [Endocarditis](Endocarditis.md), an infection in the lining of the heart and heart valves
+- [Heart failure](Heart%20Failure.md)
 
 #### How is mitral valve prolapse (MVP) diagnosed?
 
 Health care providers often find MVP during routine health check-ups. If you have MVP, your provider may hear a clicking sound when listening to your heart with a stethoscope. If blood flows backwards through the valve, your heart may also make a whooshing sound called a heart murmur.
 
-You may also need certain [heart tests](https://medlineplus.gov/hearthealthtests.html). The most useful test is an echocardiogram, or echo. This is a type of[ultrasound](https://medlineplus.gov/lab-tests/sonogram/) that uses sound waves to make a moving picture of your heart.
+You may also need certain [heart tests](Heart%20Health%20Tests.md). The most useful test is an echocardiogram, or echo. This is a type ofultrasound that uses sound waves to make a moving picture of your heart.
 
 #### What are the treatments for mitral valve prolapse (MVP)?
 
@@ -61,7 +61,7 @@ Most people don't need any treatment for MVP. If you have symptoms with little o
 If the amount of backflow is significant, you may need treatment to prevent other heart problems from developing. Treatments may include:
 
 - **Medicines** to help your heart work better.
-- **[Heart surgery](https://medlineplus.gov/heartsurgery.html)** to repair or replace a very abnormal mitral valve with backflow. The goal of surgery is to improve your symptoms and reduce your risk of developing heart failure.
+- **[Heart surgery](Heart%20Surgery.md)** to repair or replace a very abnormal mitral valve with backflow. The goal of surgery is to improve your symptoms and reduce your risk of developing heart failure.
 
 When possible, valve repair is generally preferred over replacement. That's because repairs are less likely to weaken the heart muscle, and they're less likely to cause heart infection.
 
@@ -69,18 +69,18 @@ When possible, valve repair is generally preferred over replacement. That's beca
 
 You can't prevent mitral valve prolapse. But if you have mitral valve prolapse, you can help prevent the rare but serious problems it can cause by:
 
-- [Brushing and flossing your teeth regularly](https://medlineplus.gov/dentalhealth.html). That helps keep bacteria out of your bloodstream, which further reduces the rare risk of a heart infection.
-- Asking your provider if you need to take [antibiotics](https://medlineplus.gov/antibiotics.html) before dental work or surgery to lower your risk of heart infection. This mostly applies to people who have had valve repair or replacement surgery.
+- [Brushing and flossing your teeth regularly](Dental%20Health.md). That helps keep bacteria out of your bloodstream, which further reduces the rare risk of a heart infection.
+- Asking your provider if you need to take [antibiotics](Antibiotics.md) before dental work or surgery to lower your risk of heart infection. This mostly applies to people who have had valve repair or replacement surgery.
 - Getting regular check-ups and taking any medicines that your provider may have prescribed.
-- Making heart-healthy habits part of your life to [prevent heart disease](https://medlineplus.gov/howtopreventheartdisease.html).
+- Making heart-healthy habits part of your life to [prevent heart disease](How%20to%20Prevent%20Heart%20Disease.md).
 
 NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Heart Health Tests
-- Heart Valve Diseases
+- [Heart Health Tests](Heart%20Health%20Tests.md)
+- [Heart Valve Diseases](Heart%20Valve%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mitralvalveprolapse.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mitralvalveprolapse.html). General information, not medical advice.*

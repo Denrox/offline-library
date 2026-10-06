@@ -19,7 +19,7 @@ Many different factors can affect a person's health literacy, including their:
 - Personal factors, such as age, income, education, language abilities, and culture
 - Physical or mental limitations
 
-Many of the same people who are at risk for limited health literacy also have [health disparities](https://medlineplus.gov/healthdisparities.html). Health disparities are health differences between different groups of people. These groups may be based on age, race, sex, or other factors.
+Many of the same people who are at risk for limited health literacy also have [health disparities](Health%20Disparities.md). Health disparities are health differences between different groups of people. These groups may be based on age, race, sex, or other factors.
 
 #### Why is health literacy important?
 
@@ -27,19 +27,19 @@ Health literacy is important because it can affect your ability to:
 
 - Make good decisions about your health.
 - Get the medical care you need. This includes preventative care, which is care that focuses on preventing disease and keeping you healthy.
-- [Take your medicines correctly](https://medlineplus.gov/medicationerrors.html).
-- Manage a disease, especially a [chronic (long-term) disease](copingwithchronicillness.html).
+- [Take your medicines correctly](Medication%20Errors.md).
+- Manage a disease, especially a chronic (long-term) disease.
 - Lead a healthy lifestyle.
 
-One thing that you can do is to make sure that you [communicate well with your health care providers](https://medlineplus.gov/talkingwithyourdoctor.html). If you don't understand something a provider tells you, ask them to explain it to you so that you understand. You can also ask the provider to write down their instructions.
+One thing that you can do is to make sure that you [communicate well with your health care providers](Talking%20With%20Your%20Doctor.md). If you don't understand something a provider tells you, ask them to explain it to you so that you understand. You can also ask the provider to write down their instructions.
 
 ## Related topics
 
-- Evaluating Health Information
-- Patient Rights
-- Talking With Your Doctor
-- Understanding Medical Research
+- [Evaluating Health Information](Evaluating%20Health%20Information.md)
+- [Patient Rights](Patient%20Rights.md)
+- [Talking With Your Doctor](Talking%20With%20Your%20Doctor.md)
+- [Understanding Medical Research](Understanding%20Medical%20Research.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/healthliteracy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/healthliteracy.html). General information, not medical advice.*

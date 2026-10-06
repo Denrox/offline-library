@@ -8,12 +8,12 @@ Breast lumps usually aren't cancer. However, most men with breast cancer have lu
 - A red, scaly nipple or skin
 - Fluid discharge
 
-Risk factors for male breast cancer include exposure to radiation, a family history of breast cancer, and having high estrogen levels, which can happen with diseases like cirrhosis or [Klinefelter syndrome](https://medlineplus.gov/klinefeltersyndrome.html).
+Risk factors for male breast cancer include exposure to radiation, a family history of breast cancer, and having high estrogen levels, which can happen with diseases like cirrhosis or [Klinefelter syndrome](Klinefelter%20Syndrome.md).
 
-Treatment for male breast cancer is usually a [mastectomy](https://medlineplus.gov/mastectomy.html), which is surgery to remove the breast. Other treatments include radiation, chemotherapy and/or hormone therapy.
+Treatment for male breast cancer is usually a [mastectomy](Mastectomy.md), which is surgery to remove the breast. Other treatments include radiation, chemotherapy and/or hormone therapy.
 
 NIH: National Cancer Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/malebreastcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/malebreastcancer.html). General information, not medical advice.*

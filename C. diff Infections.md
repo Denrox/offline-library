@@ -4,11 +4,11 @@
 
 #### What is *C. diff*?
 
-*C. diff* is a bacterium that can cause [diarrhea](https://medlineplus.gov/diarrhea.html) and more serious intestinal conditions such as colitis. You may see it called other names, such as *Clostridioides difficile* (the new name), *Clostridium difficile* (an older name), and *C. diff*icile. It causes close to half a million illnesses each year.
+*C. diff* is a bacterium that can cause [diarrhea](Diarrhea.md) and more serious intestinal conditions such as colitis. You may see it called other names, such as *Clostridioides difficile* (the new name), *Clostridium difficile* (an older name), and *C. diff*icile. It causes close to half a million illnesses each year.
 
 #### What causes *C. diff* infections?
 
-*C. diff* bacteria are commonly found in the environment, but people usually only get *C. diff* infections when they are taking [antibiotics](https://medlineplus.gov/antibiotics.html). That's because antibiotics not only wipe out bad germs, but they also kill the good germs that protect your body against infections. The effect of antibiotics can last as long as several months. If you come in contact with *C. diff* germs during this time, you can get sick. You are more likely to get a *C. diff* infection if you take antibiotics for more than a week.
+*C. diff* bacteria are commonly found in the environment, but people usually only get *C. diff* infections when they are taking [antibiotics](Antibiotics.md). That's because antibiotics not only wipe out bad germs, but they also kill the good germs that protect your body against infections. The effect of antibiotics can last as long as several months. If you come in contact with *C. diff* germs during this time, you can get sick. You are more likely to get a *C. diff* infection if you take antibiotics for more than a week.
 
 *C. diff* spreads when people touch food, surfaces, or objects that are contaminated with feces (poop) from a person who has *C. diff*.
 
@@ -27,16 +27,16 @@ You are at more likely to get a *C. diff* infection if you:
 The symptoms of *C. diff* infections include:
 
 - Diarrhea (loose, watery stools) or frequent bowel movements for several days
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fever](Fever.md)
 - Stomach tenderness or pain
 - Loss of appetite
-- [Nausea](https://medlineplus.gov/nauseaandvomiting.html)
+- [Nausea](Nausea%20and%20Vomiting.md)
 
-Severe diarrhea causes you to lose a lot of fluids. This can put you at risk for [dehydration](https://medlineplus.gov/dehydration.html).
+Severe diarrhea causes you to lose a lot of fluids. This can put you at risk for [dehydration](Dehydration.md).
 
 #### How are *C. diff* infections diagnosed?
 
-If you have been taking antibiotics recently and have symptoms of a *C. diff* infection, you should see your health care provider. Your provider will ask about your symptoms and do a [lab test of your stool](https://medlineplus.gov/lab-tests/bacteria-culture-test/). In some cases, you might also need an [imaging test](https://medlineplus.gov/diagnosticimaging.html) such as an [x-ray](https://medlineplus.gov/xrays.html) or [CT scan](https://medlineplus.gov/ctscans.html) to check for complications.
+If you have been taking antibiotics recently and have symptoms of a *C. diff* infection, you should see your health care provider. Your provider will ask about your symptoms and do a lab test of your stool. In some cases, you might also need an [imaging test](Diagnostic%20Imaging.md) such as an [x-ray](X-Rays.md) or [CT scan](CT%20Scans.md) to check for complications.
 
 #### What are the treatments for *C. diff* infections?
 
@@ -55,10 +55,10 @@ There are steps you can take to try to prevent getting or spreading *C. diff*:
 - Wash your hands with soap and water after you use the bathroom and before you eat.
 - If you have diarrhea, clean the bathroom that you used before anyone else uses it. Use bleach mixed with water or another disinfectant to clean the toilet seat, handle, and lid.
 
-Health care providers can also help prevent *C. diff* infections by taking [infection control](https://medlineplus.gov/infectioncontrol.html) precautions and improving how they prescribe antibiotics.
+Health care providers can also help prevent *C. diff* infections by taking [infection control](Infection%20Control.md) precautions and improving how they prescribe antibiotics.
 
 Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cdiffinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cdiffinfections.html). General information, not medical advice.*

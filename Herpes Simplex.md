@@ -2,7 +2,7 @@
 
 *Also called: HSV*
 
-Herpes is an infection that is caused by a herpes simplex virus (HSV). Oral herpes causes [cold sores](https://medlineplus.gov/coldsores.html) around the mouth or face. [Genital herpes](https://medlineplus.gov/genitalherpes.html) affects the genitals, buttocks or anal area. Genital herpes is a [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI). It affects the genitals, buttocks or anal area. Other herpes infections can affect the eyes, skin, or other parts of the body. The virus can be dangerous in newborn babies or in people with weak immune systems.
+Herpes is an infection that is caused by a herpes simplex virus (HSV). Oral herpes causes [cold sores](Cold%20Sores.md) around the mouth or face. [Genital herpes](Genital%20Herpes.md) affects the genitals, buttocks or anal area. Genital herpes is a [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI). It affects the genitals, buttocks or anal area. Other herpes infections can affect the eyes, skin, or other parts of the body. The virus can be dangerous in newborn babies or in people with weak immune systems.
 
 There are two types of HSV:
 
@@ -15,11 +15,11 @@ Most people have outbreaks several times a year. Over time, you get them less of
 
 ## Related topics
 
-- Cold Sores
-- Genital Herpes
-- Sexually Transmitted Infections
-- Shingles
+- [Cold Sores](Cold%20Sores.md)
+- [Genital Herpes](Genital%20Herpes.md)
+- [Sexually Transmitted Infections](Sexually%20Transmitted%20Infections.md)
+- [Shingles](Shingles.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/herpessimplex.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/herpessimplex.html). General information, not medical advice.*

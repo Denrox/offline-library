@@ -10,10 +10,10 @@ Each day, toddlers need enough nutrients, including:
 
 ## Related topics
 
-- Child Nutrition
-- Food Allergy
-- Infant and Newborn Nutrition
+- [Child Nutrition](Child%20Nutrition.md)
+- [Food Allergy](Food%20Allergy.md)
+- [Infant and Newborn Nutrition](Infant%20and%20Newborn%20Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/toddlernutrition.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/toddlernutrition.html). General information, not medical advice.*

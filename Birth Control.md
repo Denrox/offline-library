@@ -4,7 +4,7 @@
 
 #### What is birth control?
 
-Birth control, also known as contraception, is the use of medicines, devices, or surgery to prevent pregnancy. There are many different types. Some are reversible, while others are permanent. Some types can also help prevent [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs).
+Birth control, also known as contraception, is the use of medicines, devices, or surgery to prevent pregnancy. There are many different types. Some are reversible, while others are permanent. Some types can also help prevent [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs).
 
 #### What are the different types of birth control?
 
@@ -25,8 +25,8 @@ There are several different types of birth control, and they work in different w
 - Long-acting reversible contraceptives (LARCs)
 - Intrauterine device (IUD)  A small, T-shaped device that a provider inserts into the uterus. This is done in the provider's office. IUDs can last from 3 to 10 years. There are two types: hormonal IUDs and copper IUDs.
 - Sterilization
-- [Tubal ligation](https://medlineplus.gov/tuballigation.html)  A surgery that prevents a woman from getting pregnant. It is permanent.
-- [Vasectomy](https://medlineplus.gov/vasectomy.html)  A surgery that prevents a man from getting someone pregnant. It is permanent.  
+- [Tubal ligation](Tubal%20Ligation.md)  A surgery that prevents a woman from getting pregnant. It is permanent.
+- [Vasectomy](Vasectomy.md)  A surgery that prevents a man from getting someone pregnant. It is permanent.  
 #### What are some other forms of pregnancy prevention?
 
 There are some types of pregnancy prevention that do not involve medicines, devices, or surgery:
@@ -62,10 +62,10 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Teen Sexual Health
-- Tubal Ligation
-- Vasectomy
+- [Teen Sexual Health](Teen%20Sexual%20Health.md)
+- [Tubal Ligation](Tubal%20Ligation.md)
+- [Vasectomy](Vasectomy.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/birthcontrol.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/birthcontrol.html). General information, not medical advice.*

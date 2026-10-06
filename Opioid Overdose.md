@@ -2,11 +2,11 @@
 
 #### What are opioids?
 
-Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](https://medlineplus.gov/painrelievers.html) such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug [heroin](https://medlineplus.gov/heroin.html) is also an opioid.
+Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](Pain%20Relievers.md) such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug [heroin](Heroin.md) is also an opioid.
 
-A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some providers prescribe them for [chronic pain](https://medlineplus.gov/chronicpain.html).
+A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some providers prescribe them for [chronic pain](Chronic%20Pain.md).
 
-Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, people who take opioids are at risk for [opioid use disorder (OUD)](opioidmisuseandaddiction.html) and [overdose](https://medlineplus.gov/opioidoverdose.html). These risks increase when these medicines are misused. [Misuse](https://medlineplus.gov/prescriptiondrugmisuse.html) can include taking more than your prescribed dose or taking it more often, using it to get high, or taking someone else's opioids.
+Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, people who take opioids are at risk for opioid use disorder (OUD) and overdose. These risks increase when these medicines are misused. [Misuse](Prescription%20Drug%20Misuse.md) can include taking more than your prescribed dose or taking it more often, using it to get high, or taking someone else's opioids.
 
 #### What is an opioid overdose?
 
@@ -21,7 +21,7 @@ An opioid overdose can happen for a variety of reasons, including if you:
 - Mix an opioid with other medicines, illegal drugs, or alcohol. An overdose can be fatal when mixing an opioid and certain anxiety treatment medicines, such as Xanax or Valium.
 - Take an opioid medicine that was prescribed for someone else. Children are especially at risk of an accidental overdose if they take medicine not intended for them.
 
-There is also a risk of overdose if you are getting medications for opioid use disorder (MOUD). MOUD is a [treatment for OUD](https://medlineplus.gov/opioidusedisorderoudtreatment.html). Many of the medicines used for MOUD are also controlled substances that can be misused.
+There is also a risk of overdose if you are getting medications for opioid use disorder (MOUD). MOUD is a [treatment for OUD](Opioid%20Use%20Disorder%20%28OUD%29%20Treatment.md). Many of the medicines used for MOUD are also controlled substances that can be misused.
 
 #### Who is at risk of an opioid overdose?
 
@@ -30,7 +30,7 @@ Anyone who takes an opioid can be at risk of an overdose, but you are at higher 
 - Take illegal opioids
 - Take more opioid medicine than you are prescribed
 - Combine opioids with other medicines and/or alcohol
-- Have certain medical conditions, such as [sleep apnea](https://medlineplus.gov/sleepapnea.html), or reduced [kidney](https://medlineplus.gov/kidneydiseases.html) or [liver](https://medlineplus.gov/liverdiseases.html) function
+- Have certain medical conditions, such as [sleep apnea](Sleep%20Apnea.md), or reduced [kidney](Kidney%20Diseases.md) or [liver](Liver%20Diseases.md) function
 - Are over 65 years old
 
 #### What are the signs of an opioid overdose?
@@ -61,7 +61,7 @@ Naloxone won't harm someone if they're overdosing on drugs other than opioids, s
 
 #### Can an opioid overdose be prevented?
 
-If you are taking opioid pain medicine, there are [steps you can take](https://medlineplus.gov/safeopioiduse.html) to help prevent an opioid overdose:
+If you are taking opioid pain medicine, there are [steps you can take](Safe%20Opioid%20Use.md) to help prevent an opioid overdose:
 
 - Take your medicine exactly as prescribed by your provider. Do not take more medicine at once or take medicine more often than you are supposed to.
 - Never mix the pain medicines with alcohol, sleeping pills, or illegal substances.
@@ -72,11 +72,11 @@ It is also important to teach your family and friends how to respond to an overd
 
 ## Related topics
 
-- Opioid Use Disorder (OUD) Treatment
-- Opioids and Opioid Use Disorder (OUD)
-- Prescription Drug Misuse
-- Safe Opioid Use
+- [Opioid Use Disorder (OUD) Treatment](Opioid%20Use%20Disorder%20%28OUD%29%20Treatment.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
+- [Prescription Drug Misuse](Prescription%20Drug%20Misuse.md)
+- [Safe Opioid Use](Safe%20Opioid%20Use.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/opioidoverdose.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/opioidoverdose.html). General information, not medical advice.*

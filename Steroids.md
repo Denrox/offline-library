@@ -2,7 +2,7 @@
 
 *Also called: Corticosteroids, Glucocorticoids*
 
-You may have heard of [anabolic steroids](https://medlineplus.gov/anabolicsteroids.html), which can have harmful effects. But there's another type of steroid - sometimes called a corticosteroid - that treats a variety of problems. These steroids are similar to hormones that your adrenal glands make to fight stress associated with illnesses and injuries. They reduce inflammation and affect the immune system.
+You may have heard of [anabolic steroids](Anabolic%20Steroids.md), which can have harmful effects. But there's another type of steroid - sometimes called a corticosteroid - that treats a variety of problems. These steroids are similar to hormones that your adrenal glands make to fight stress associated with illnesses and injuries. They reduce inflammation and affect the immune system.
 
 You may need to take corticosteroids to treat:
 
@@ -16,9 +16,9 @@ Steroids are strong medicines, and they can have side effects, including weakene
 
 ## Related topics
 
-- Addison Disease
-- Cushing's Syndrome
+- [Addison Disease](Addison%20Disease.md)
+- [Cushing's Syndrome](Cushing%27s%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/steroids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/steroids.html). General information, not medical advice.*

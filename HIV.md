@@ -17,14 +17,14 @@ HIV is spread through certain body fluids from a person who has HIV. This can ha
 - By having unprotected vaginal or anal sex with a person who has HIV. "Unprotected" means not using condoms or medicine to treat or prevent HIV. This is the most common way that it spreads.
 - By sharing drug needles.
 - Through contact with the blood of a person with HIV.
-- From mother to fetus during [pregnancy](https://medlineplus.gov/hivandpregnancy.html).
+- From mother to fetus during [pregnancy](HIV%20and%20Pregnancy.md).
 - From mother to baby during, childbirth, or breastfeeding.
 
 #### Who is at risk for HIV infection?
 
 Anyone can get HIV, but certain groups have a higher risk of getting it:
 
-- People who have another [sexually transmitted infection](https://medlineplus.gov/sexuallytransmittedinfections.html) (STI). Having an STI can increase your risk of getting or spreading HIV.
+- People who have another [sexually transmitted infection](Sexually%20Transmitted%20Infections.md) (STI). Having an STI can increase your risk of getting or spreading HIV.
 - People who inject drugs with shared needles.
 - Gay and bisexual men.
 - Black/African Americans and Hispanic/Latino Americans. They make up a higher proportion of new HIV diagnoses and people with HIV, compared to other races and ethnicities.
@@ -36,13 +36,13 @@ Factors such as stigma, discrimination, income, education, and geographic region
 
 The first signs of HIV infection may be flu-like symptoms:
 
-- [Fever](https://medlineplus.gov/fever.html)
+- [Fever](Fever.md)
 - Chills
-- [Rash](https://medlineplus.gov/rashes.html)
+- [Rash](Rashes.md)
 - Night sweats (heavy sweating during sleep)
 - Muscle aches
-- [Sore throat](https://medlineplus.gov/sorethroat.html)
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Sore throat](Sore%20Throat.md)
+- [Fatigue](Fatigue.md)
 - Swollen lymph nodes
 - Mouth ulcers
 
@@ -54,13 +54,13 @@ Some people may not feel sick during the earlier stages of HIV infection. So the
 
 #### How do I know if I have HIV?
 
-A [blood test](https://medlineplus.gov/lab-tests/hiv-screening-test) can tell if you have HIV infection. Your health care provider can do the test, or you can use a home testing kit. You can also use the [CDC Testing Locator](https://gettested.cdc.gov/) to find free testing sites.
+A blood test can tell if you have HIV infection. Your health care provider can do the test, or you can use a home testing kit. You can also use the CDC Testing Locator to find free testing sites.
 
 #### What are the treatments for HIV?
 
 There is no cure for HIV infection, but it can be treated with medicines. This is called antiretroviral therapy (ART). ART can make HIV infection a manageable chronic condition. It also reduces the risk of spreading the virus to others.
 
-Most people with HIV live long and healthy lives if they get ART as soon as possible and stay on it. It's also important to take care of yourself. Making sure that you have the support you need, living a healthy lifestyle, and getting regular medical care can help you [enjoy a better quality of life](https://medlineplus.gov/livingwithhiv.html).
+Most people with HIV live long and healthy lives if they get ART as soon as possible and stay on it. It's also important to take care of yourself. Making sure that you have the support you need, living a healthy lifestyle, and getting regular medical care can help you [enjoy a better quality of life](Living%20with%20HIV.md).
 
 #### Can HIV infection be prevented?
 
@@ -70,7 +70,7 @@ You can reduce the risk of getting or spreading HIV by:
 - Choosing less risky sexual behaviors. This includes limiting the number of sexual partners you have and using latex condoms every time you have sex. If your or your partner is allergic to latex, you can use polyurethane condoms.
 - Getting tested and treated for sexually transmitted infections (STIs).
 - Not injecting drugs.
-- Talking to your provider about [medicines to prevent HIV](https://medlineplus.gov/hivmedicines.html):
+- Talking to your provider about [medicines to prevent HIV](HIV%20Medicines.md):
 
  - PrEP (pre-exposure prophylaxis) is for people who don't already have HIV but are at very high risk of getting it. PrEP is daily medicine that can reduce this risk.
  - PEP (post-exposure prophylaxis) is for people who have possibly been exposed to HIV. It is only for emergency situations. PEP must be started within 72 hours after a possible exposure to HIV.
@@ -79,14 +79,14 @@ NIH: National Institutes of Health
 
 ## Related topics
 
-- HIV and Infections
-- HIV and Pregnancy
-- HIV in Women
-- HIV Medicines
-- HIV: PrEP and PEP
-- Kaposi Sarcoma
-- Living with HIV
+- [HIV and Infections](HIV%20and%20Infections.md)
+- [HIV and Pregnancy](HIV%20and%20Pregnancy.md)
+- [HIV in Women](HIV%20in%20Women.md)
+- [HIV Medicines](HIV%20Medicines.md)
+- [HIV: PrEP and PEP](HIV%20PrEP%20and%20PEP.md)
+- [Kaposi Sarcoma](Kaposi%20Sarcoma.md)
+- [Living with HIV](Living%20with%20HIV.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hiv.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hiv.html). General information, not medical advice.*

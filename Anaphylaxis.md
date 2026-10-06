@@ -2,7 +2,7 @@
 
 *Also called: Anaphylactic shock*
 
-Anaphylaxis is a serious [allergic reaction](https://medlineplus.gov/allergy.html). It can begin very quickly, and symptoms may be life-threatening. The most common causes are reactions to [foods](https://medlineplus.gov/foodallergy.html) (especially peanuts), [medications](https://medlineplus.gov/drugreactions.html), and [stinging insects](https://medlineplus.gov/insectbitesandstings.html). Other causes include exercise and [exposure to latex](https://medlineplus.gov/latexallergy.html). Sometimes no cause can be found.
+Anaphylaxis is a serious [allergic reaction](Allergy.md). It can begin very quickly, and symptoms may be life-threatening. The most common causes are reactions to [foods](Food%20Allergy.md) (especially peanuts), [medications](Drug%20Reactions.md), and [stinging insects](Insect%20Bites%20and%20Stings.md). Other causes include exercise and [exposure to latex](Latex%20Allergy.md). Sometimes no cause can be found.
 
 It can affect many organs:
 
@@ -19,4 +19,4 @@ If someone is having a serious allergic reaction, call 911. If an auto-injector 
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anaphylaxis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anaphylaxis.html). General information, not medical advice.*

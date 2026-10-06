@@ -6,7 +6,7 @@ Teen violence refers to harmful behaviors that can start early and continue into
 
 Violent acts can include:
 
-- [Bullying](https://medlineplus.gov/bullyingandcyberbullying.html)
+- [Bullying](Bullying%20and%20Cyberbullying.md)
 - Fighting, including punching, kicking, slapping, or hitting
 - Use of weapons such as guns or knives
 
@@ -18,11 +18,11 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Bullying and Cyberbullying
-- Child Behavior Disorders
-- Intimate Partner Violence
-- Teen Health
+- [Bullying and Cyberbullying](Bullying%20and%20Cyberbullying.md)
+- [Child Behavior Disorders](Child%20Behavior%20Disorders.md)
+- [Intimate Partner Violence](Intimate%20Partner%20Violence.md)
+- [Teen Health](Teen%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/teenviolence.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/teenviolence.html). General information, not medical advice.*

@@ -4,16 +4,16 @@
 
 #### Why does eye care matter?
 
-Eye care is about keeping your eyes healthy through good daily habits, regular checkups, and treatment when needed. Your eyes are an important part of your health. You rely on them every day to see and understand the world around you. Some [eye diseases](https://medlineplus.gov/eyediseases.html) can lead to [vision loss](https://medlineplus.gov/visionimpairmentandblindness.html) without early warning signs, so it's important to catch them as soon as possible. Get your eyes checked as often as your health care provider recommends, or if you notice new vision problems. Just like caring for the rest of your body, it's important to keep your eyes healthy.
+Eye care is about keeping your eyes healthy through good daily habits, regular checkups, and treatment when needed. Your eyes are an important part of your health. You rely on them every day to see and understand the world around you. Some [eye diseases](Eye%20Diseases.md) can lead to [vision loss](Vision%20Impairment%20and%20Blindness.md) without early warning signs, so it's important to catch them as soon as possible. Get your eyes checked as often as your health care provider recommends, or if you notice new vision problems. Just like caring for the rest of your body, it's important to keep your eyes healthy.
 
 #### How can I keep my eyes healthy?
 
 There are many things you can do to protect your eyes and see your best:
 
 - **Give your eyes a rest.** Spending long hours on a computer or other digital screens can make you blink less, causing dryness and tired eyes. To reduce eyestrain, try the 20-20-20 rule: Every 20 minutes, look away about 20 feet in front of you for 20 seconds.
-- **Wear sunglasses.** [Sun exposure](https://medlineplus.gov/sunexposure.html) can damage your eyes and raise your risk of [cataracts](https://medlineplus.gov/cataract.html) and age-related [macular degeneration](https://medlineplus.gov/maculardegeneration.html). Protect your eyes by using sunglasses that block out 99 to 100% of both UV-A and UV-B radiation.
-- **Wear protective [eyewear](https://medlineplus.gov/eyewear.html).** To prevent [eye injuries](https://medlineplus.gov/eyeinjuries.html), you need eye protection when playing certain sports, working in jobs such as factory work and construction, and doing repairs or projects in your home.
-- **Avoid rubbing your eyes.** Rubbing your eyes can transfer dirt and bacteria that may cause irritation or lead to an [infection](https://medlineplus.gov/eyeinfections.html).
+- **Wear sunglasses.** [Sun exposure](Sun%20Exposure.md) can damage your eyes and raise your risk of [cataracts](Cataract.md) and age-related [macular degeneration](Macular%20Degeneration.md). Protect your eyes by using sunglasses that block out 99 to 100% of both UV-A and UV-B radiation.
+- **Wear protective [eyewear](Eyewear.md).** To prevent [eye injuries](Eye%20Injuries.md), you need eye protection when playing certain sports, working in jobs such as factory work and construction, and doing repairs or projects in your home.
+- **Avoid rubbing your eyes.** Rubbing your eyes can transfer dirt and bacteria that may cause irritation or lead to an [infection](Eye%20Infections.md).
 - **Use good lighting.** Brighten your space to reduce strain and help you see comfortably.
 - **If you wear contacts, take steps to prevent eye infections.** Wash your hands before you put in or take out your contact lenses. Also follow the instructions on how to properly clean them and replace them when needed.
 
@@ -22,15 +22,15 @@ There are many things you can do to protect your eyes and see your best:
 What you eat and how you take care of your body can have a big impact on your eyes and vision:
 
 - **Eat a healthy, balanced diet.** Your diet should include plenty of fruits and vegetables, especially dark leafy green vegetables like spinach, kale, or collard greens. Eating fish high in omega-3 fatty acids, such as salmon, tuna, and halibut can also help your eyes.
-- **Maintain a healthy weight.** Being overweight or having obesity increases your risk of developing diabetes. Having diabetes puts you at higher risk of getting [diabetic retinopathy](https://medlineplus.gov/diabeticeyeproblems.html) or [glaucoma](https://medlineplus.gov/glaucoma.html).
+- **Maintain a healthy weight.** Being overweight or having obesity increases your risk of developing diabetes. Having diabetes puts you at higher risk of getting [diabetic retinopathy](Diabetic%20Eye%20Problems.md) or [glaucoma](Glaucoma.md).
 - **Get regular exercise.** Exercise may help to prevent or control diabetes, high blood pressure, and high cholesterol. These diseases can lead to some eye or vision problems. Regular exercise helps lower your risk.
-- **Avoid smoking.** Smoking increases the risk of developing age-related eye diseases such as macular degeneration and cataracts and can damage the [optic nerve](https://medlineplus.gov/opticnervedisorders.html).
+- **Avoid smoking.** Smoking increases the risk of developing age-related eye diseases such as macular degeneration and cataracts and can damage the [optic nerve](Optic%20Nerve%20Disorders.md).
 - **Know your family medical history.** Some eye diseases are inherited (passed down through families), so it is important to find out whether anyone in your family has had them. This can help you determine if you are at higher risk of developing an eye disease.
 - **Know your other risk factors.** As you get older, you are at higher risk of developing age-related eye diseases and conditions. It is important to know your risk factors because you may be able to lower your risk by changing some behaviors.
 
 #### What's the difference between an eye test and an eye exam?
 
-Everyone needs their eyesight tested to check for vision and eye problems. Children usually have [vision screening](https://medlineplus.gov/lab-tests/vision-screening/), also called an eye test, in school or at their provider's office during a checkup. This is a brief test that mainly checks how well you can see things up close and far away. Adults may also get vision screenings during their checkups. But many adults need more than a vision screening. They need a comprehensive dilated eye exam.
+Everyone needs their eyesight tested to check for vision and eye problems. Children usually have vision screening, also called an eye test, in school or at their provider's office during a checkup. This is a brief test that mainly checks how well you can see things up close and far away. Adults may also get vision screenings during their checkups. But many adults need more than a vision screening. They need a comprehensive dilated eye exam.
 
 Getting comprehensive dilated eye exams is especially important because some eye diseases may not have warning signs. The exams are the only way to detect these diseases in their early stages, when they are easier to treat.
 
@@ -41,9 +41,9 @@ The eye exam includes several tests:
 - Follow an object with your eyes during an eye muscle function test to check for problems with the muscles that control your eyes.
 - Shine a light into your eyes with a pupil response test to see how your pupils react to light.
 - Measure the pressure inside your eyes with tonometry. This test helps to detect glaucoma.
-- Dilate (widen) your pupils with special eye drops allows more light to enter the eye. Your eye care provider then uses a special magnifying lens to clearly see important tissues at the back of your eye, including the [retina](https://medlineplus.gov/retinaldisorders.html), macula, and optic nerve.
+- Dilate (widen) your pupils with special eye drops allows more light to enter the eye. Your eye care provider then uses a special magnifying lens to clearly see important tissues at the back of your eye, including the [retina](Retinal%20Disorders.md), macula, and optic nerve.
 
-If you have a [refractive error](https://medlineplus.gov/refractiveerrors.html) and are going to need glasses or contacts, then you will also have a refraction test. When you have this test, you look through a device that has lenses of different strengths to help your eye care professional figure out which lenses will give you the clearest vision.
+If you have a [refractive error](Refractive%20Errors.md) and are going to need glasses or contacts, then you will also have a refraction test. When you have this test, you look through a device that has lenses of different strengths to help your eye care professional figure out which lenses will give you the clearest vision.
 
 #### When should I start getting eye exams?
 
@@ -53,11 +53,11 @@ See an eye care specialist right away if you have symptoms like sudden loss of v
 
 ## Related topics
 
-- Eye Diseases
-- Eye Infections
-- Eye Injuries
-- Eyewear
+- [Eye Diseases](Eye%20Diseases.md)
+- [Eye Infections](Eye%20Infections.md)
+- [Eye Injuries](Eye%20Injuries.md)
+- [Eyewear](Eyewear.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eyecare.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eyecare.html). General information, not medical advice.*

@@ -51,31 +51,31 @@ While you are high, you may notice:
 - Increased appetite
 - Slower reaction time
 
-Secondhand smoke from cannabis products has many of the same risks as [secondhand tobacco smoke](https://medlineplus.gov/secondhandsmoke.html).
+Secondhand smoke from cannabis products has many of the same risks as [secondhand tobacco smoke](Secondhand%20Smoke.md).
 
 **Long-term effects:**
 
 In the long term, cannabis can cause health problems, which can include:
 
 - Problems with brain development. People who started using cannabis as teenagers may have trouble with thinking, memory, and learning.
-- [Coughing](https://medlineplus.gov/cough.html) and breathing problems, if you smoke cannabis frequently.
-- Repeated episodes of [nausea, vomiting](https://medlineplus.gov/nauseaandvomiting.html), and [stomach pain](https://medlineplus.gov/abdominalpain.html) due to long-term, heavy cannabis use. This is called cannabinoid hyperemesis syndrome (CHS).
-- Problems with fetal and child development [during](https://medlineplus.gov/fetalhealthanddevelopment.html) and [after](https://medlineplus.gov/childdevelopment.html) pregnancy, if you smoke cannabis [while pregnant](https://medlineplus.gov/pregnancyandsubstanceuse.html).
+- [Coughing](Cough.md) and breathing problems, if you smoke cannabis frequently.
+- Repeated episodes of [nausea, vomiting](Nausea%20and%20Vomiting.md), and [stomach pain](Abdominal%20Pain.md) due to long-term, heavy cannabis use. This is called cannabinoid hyperemesis syndrome (CHS).
+- Problems with fetal and child development [during](Fetal%20Health%20and%20Development.md) and [after](Child%20Development.md) pregnancy, if you smoke cannabis [while pregnant](Pregnancy%20and%20Substance%20Use.md).
 
-Heavy long-term use of cannabis has been linked to increased risk of [cancer](https://medlineplus.gov/cancer.html), [digestive issues](https://medlineplus.gov/digestivediseases.html), [heart problems](https://medlineplus.gov/heartdiseases.html), and [mental health problems](https://medlineplus.gov/mentaldisorders.html).
+Heavy long-term use of cannabis has been linked to increased risk of [cancer](Cancer.md), [digestive issues](Digestive%20Diseases.md), [heart problems](Heart%20Diseases.md), and [mental health problems](Mental%20Disorders.md).
 
 #### Can you overdose on cannabis?
 
-It is possible to overdose on cannabis, if you take a very high dose. You may feel [anxious](https://medlineplus.gov/anxiety.html) or panicked or have a [rapid heartbeat](https://medlineplus.gov/arrhythmia.html). In rare cases, an overdose can cause paranoia and hallucinations. There are no reports of people dying from just using cannabis.
+It is possible to overdose on cannabis, if you take a very high dose. You may feel [anxious](Anxiety.md) or panicked or have a [rapid heartbeat](Arrhythmia.md). In rare cases, an overdose can cause paranoia and hallucinations. There are no reports of people dying from just using cannabis.
 
 #### Is cannabis addictive?
 
-Cannabis can be [addictive](https://medlineplus.gov/druguseandaddiction.html). THC levels in products have increased over time. Stronger products raise the risk of addiction, known as cannabis use disorder. You are more likely to become addicted if you use cannabis every day or started using it when you were a teenager.
+Cannabis can be [addictive](Drug%20Use%20and%20Addiction.md). THC levels in products have increased over time. Stronger products raise the risk of addiction, known as cannabis use disorder. You are more likely to become addicted if you use cannabis every day or started using it when you were a teenager.
 
 When you try to quit, you may have mild withdrawal symptoms such as:
 
 - Irritability
-- [Trouble sleeping](https://medlineplus.gov/insomnia.html)
+- [Trouble sleeping](Insomnia.md)
 - Decreased appetite
 - Anxiety
 - Cravings
@@ -86,7 +86,7 @@ The cannabis plant contains chemicals that may help with some health problems, b
 
 Recreational cannabis is still illegal under federal law. Federal rules have eased somewhat for medical cannabis and FDA-approved cannabis drugs.
 
-The Food and Drug Administration (FDA) has approved man-made forms of THC. These drugs treat nausea caused by [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html) and increase appetite in people with [certain health conditions](https://medlineplus.gov/hiv.html) who have lost a lot of weight. There is also a liquid drug that contains CBD. It treats three forms of severe childhood [epilepsy](https://medlineplus.gov/epilepsy.html).
+The Food and Drug Administration (FDA) has approved man-made forms of THC. These drugs treat nausea caused by [chemotherapy](Cancer%20Chemotherapy.md) and increase appetite in people with [certain health conditions](HIV.md) who have lost a lot of weight. There is also a liquid drug that contains CBD. It treats three forms of severe childhood [epilepsy](Epilepsy.md).
 
 Researchers are studying whether cannabis and its ingredients may treat more conditions. Most U.S. states allow medical cannabis, and about half also allow recreational use for adults 21 and older.
 
@@ -94,8 +94,8 @@ NIH: National Institute on Drug Abuse
 
 ## Related topics
 
-- Drug Use and Addiction
+- [Drug Use and Addiction](Drug%20Use%20and%20Addiction.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cannabis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cannabis.html). General information, not medical advice.*

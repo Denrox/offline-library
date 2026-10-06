@@ -11,19 +11,19 @@ The classic symptom of chickenpox is an uncomfortable, itchy rash. The rash turn
 - Tiredness
 - Loss of appetite
 
-Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause [Reye syndrome](https://medlineplus.gov/reyesyndrome.html).
+Chickenpox is usually mild and lasts 5 to 10 days. Calamine lotions and oatmeal baths can help with itching. Acetaminophen can treat the fever. Do not use aspirin for chickenpox; that combination can cause [Reye syndrome](Reye%20Syndrome.md).
 
 Chickenpox can sometimes cause serious problems. Adults, babies, teenagers, pregnant women, and those with weak immune systems tend to get sicker from it. They may need to take antiviral medicines.
 
-Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause [shingles](https://medlineplus.gov/shingles.html) in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.
+Once you catch chickenpox, the virus usually stays in your body. You probably will not get chickenpox again, but the virus can cause [shingles](Shingles.md) in adults. A chickenpox vaccine can help prevent most cases of chickenpox, or make it less severe if you do get it.
 
 Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Childhood Vaccines
-- Shingles
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [Shingles](Shingles.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/chickenpox.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/chickenpox.html). General information, not medical advice.*

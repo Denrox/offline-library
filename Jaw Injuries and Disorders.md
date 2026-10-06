@@ -8,22 +8,22 @@ Your jaw is a set of bones that holds your teeth. It includes:
 
 Jaw problems can include:
 
-- [Fractures](https://medlineplus.gov/fractures.html) (broken bones).
-- [Dislocations](https://medlineplus.gov/dislocations.html), which are joint injuries that force the ends of your bones out of position.
-- [Temporomandibular disorders](https://medlineplus.gov/temporomandibulardisorders.html) (TMDs), which are conditions that affect your TMJs.
-- [Osteonecrosis](https://medlineplus.gov/osteonecrosis.html), which happens when the blood flow to part of your bone is disrupted. It can cause the bone to break down.
+- [Fractures](Fractures.md) (broken bones).
+- [Dislocations](Dislocations.md), which are joint injuries that force the ends of your bones out of position.
+- [Temporomandibular disorders](Temporomandibular%20Disorders.md) (TMDs), which are conditions that affect your TMJs.
+- [Osteonecrosis](Osteonecrosis.md), which happens when the blood flow to part of your bone is disrupted. It can cause the bone to break down.
 - Jaw tumors, which can be benign (not cancer) or cancer.
-- Jaw defects, which are [birth defects](https://medlineplus.gov/birthdefects.html) in which your jaw could be missing or deformed.
+- Jaw defects, which are [birth defects](Birth%20Defects.md) in which your jaw could be missing or deformed.
 
-[Diagnostic imaging tests](https://medlineplus.gov/diagnosticimaging.html) are often used to diagnose jaw injuries and disorders. Your treatment will depend on which jaw problem you have.
+[Diagnostic imaging tests](Diagnostic%20Imaging.md) are often used to diagnose jaw injuries and disorders. Your treatment will depend on which jaw problem you have.
 
 ## Related topics
 
-- Facial Injuries and Disorders
-- Mouth Disorders
-- Temporomandibular Disorders
-- Trigeminal Neuralgia
+- [Facial Injuries and Disorders](Facial%20Injuries%20and%20Disorders.md)
+- [Mouth Disorders](Mouth%20Disorders.md)
+- [Temporomandibular Disorders](Temporomandibular%20Disorders.md)
+- [Trigeminal Neuralgia](Trigeminal%20Neuralgia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/jawinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/jawinjuriesanddisorders.html). General information, not medical advice.*

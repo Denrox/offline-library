@@ -1,17 +1,17 @@
 # Spinal Cord Injuries
 
-Your spinal cord is a bundle of nerves that runs down the middle of your back. It carries signals back and forth between your body and your brain. A spinal cord injury disrupts the signals. Spinal cord injuries usually begin with a blow that [fractures](https://medlineplus.gov/fractures.html) (breaks) or [dislocates](https://medlineplus.gov/dislocations.html) your vertebrae, the bone disks that make up your spine. Most injuries don't cut through your spinal cord. Instead, they cause damage when pieces of vertebrae tear into cord tissue or press down on the nerve parts that carry signals.
+Your spinal cord is a bundle of nerves that runs down the middle of your back. It carries signals back and forth between your body and your brain. A spinal cord injury disrupts the signals. Spinal cord injuries usually begin with a blow that [fractures](Fractures.md) (breaks) or [dislocates](Dislocations.md) your vertebrae, the bone disks that make up your spine. Most injuries don't cut through your spinal cord. Instead, they cause damage when pieces of vertebrae tear into cord tissue or press down on the nerve parts that carry signals.
 
-Spinal cord injuries can be complete or incomplete. With a complete spinal cord injury, the cord can't send signals below the level of the injury. As a result, you are [paralyzed](https://medlineplus.gov/paralysis.html) below the injury. With an incomplete injury, you have some movement and sensation below the injury.
+Spinal cord injuries can be complete or incomplete. With a complete spinal cord injury, the cord can't send signals below the level of the injury. As a result, you are [paralyzed](Paralysis.md) below the injury. With an incomplete injury, you have some movement and sensation below the injury.
 
-A spinal cord injury is a medical emergency. Immediate treatment can reduce long-term effects. Treatments may include medicines, braces or traction to stabilize the spine, and surgery. Later treatment usually includes medicines and rehabilitation therapy. [Mobility aids](https://medlineplus.gov/mobilityaids.html) and [assistive devices](https://medlineplus.gov/assistivedevices.html) may help you to get around and do some daily tasks.
+A spinal cord injury is a medical emergency. Immediate treatment can reduce long-term effects. Treatments may include medicines, braces or traction to stabilize the spine, and surgery. Later treatment usually includes medicines and rehabilitation therapy. [Mobility aids](Mobility%20Aids.md) and [assistive devices](Assistive%20Devices.md) may help you to get around and do some daily tasks.
 
 NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Paralysis
+- [Paralysis](Paralysis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/spinalcordinjuries.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/spinalcordinjuries.html). General information, not medical advice.*

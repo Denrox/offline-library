@@ -6,31 +6,31 @@ Degenerative nerve diseases affect many of your body's activities, such as balan
 
 Degenerative nerve diseases include:
 
-- [Alzheimer's disease](https://medlineplus.gov/alzheimersdisease.html)
-- [Amyotrophic lateral sclerosis](https://medlineplus.gov/amyotrophiclateralsclerosis.html)
-- [Friedreich ataxia](https://medlineplus.gov/friedreichataxia.html)
-- [Huntington's disease](https://medlineplus.gov/huntingtonsdisease.html)
-- [Lewy body disease](https://medlineplus.gov/lewybodydementia.html)
-- [Parkinson's disease](https://medlineplus.gov/parkinsonsdisease.html)
-- [Spinal muscular atrophy](https://medlineplus.gov/spinalmuscularatrophy.html)
+- [Alzheimer's disease](Alzheimer%27s%20Disease.md)
+- [Amyotrophic lateral sclerosis](Amyotrophic%20Lateral%20Sclerosis.md)
+- [Friedreich ataxia](Friedreich%20Ataxia.md)
+- [Huntington's disease](Huntington%27s%20Disease.md)
+- [Lewy body disease](Lewy%20Body%20Dementia.md)
+- [Parkinson's disease](Parkinson%27s%20Disease.md)
+- [Spinal muscular atrophy](Spinal%20Muscular%20Atrophy.md)
 
 Degenerative nerve diseases can be serious or life-threatening. It depends on the type. Most of them have no cure. Treatments may help improve symptoms, relieve pain, and increase mobility.
 
 ## Related topics
 
-- Alzheimer's Disease
-- Amyotrophic Lateral Sclerosis
-- Brain Diseases
-- Cerebellar Disorders
-- Creutzfeldt-Jakob Disease
-- Friedreich Ataxia
-- Genetic Brain Disorders
-- Multiple Sclerosis
-- Parkinson's Disease
-- Peripheral Nerve Disorders
-- Polio and Post-Polio Syndrome
-- Rett Syndrome
+- [Alzheimer's Disease](Alzheimer%27s%20Disease.md)
+- [Amyotrophic Lateral Sclerosis](Amyotrophic%20Lateral%20Sclerosis.md)
+- [Brain Diseases](Brain%20Diseases.md)
+- [Cerebellar Disorders](Cerebellar%20Disorders.md)
+- [Creutzfeldt-Jakob Disease](Creutzfeldt-Jakob%20Disease.md)
+- [Friedreich Ataxia](Friedreich%20Ataxia.md)
+- [Genetic Brain Disorders](Genetic%20Brain%20Disorders.md)
+- [Multiple Sclerosis](Multiple%20Sclerosis.md)
+- [Parkinson's Disease](Parkinson%27s%20Disease.md)
+- [Peripheral Nerve Disorders](Peripheral%20Nerve%20Disorders.md)
+- [Polio and Post-Polio Syndrome](Polio%20and%20Post-Polio%20Syndrome.md)
+- [Rett Syndrome](Rett%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/degenerativenervediseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/degenerativenervediseases.html). General information, not medical advice.*

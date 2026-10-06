@@ -5,31 +5,31 @@ Your small intestine is the longest part of your digestive system - about twenty
 Problems with the small intestine can include:
 
 - Bleeding
-- [Celiac disease](https://medlineplus.gov/celiacdisease.html)
-- [Crohn's disease](https://medlineplus.gov/crohnsdisease.html)
+- [Celiac disease](Celiac%20Disease.md)
+- [Crohn's disease](Crohn%27s%20Disease.md)
 - Infections
-- [Intestinal cancer](https://medlineplus.gov/intestinalcancer.html)
-- [Intestinal obstruction](https://medlineplus.gov/intestinalobstruction.html)
-- [Irritable bowel syndrome](https://medlineplus.gov/irritablebowelsyndrome.html)
-- Ulcers, such as [peptic ulcer](https://medlineplus.gov/pepticulcer.html)
+- [Intestinal cancer](Intestinal%20Cancer.md)
+- [Intestinal obstruction](Intestinal%20Obstruction.md)
+- [Irritable bowel syndrome](Irritable%20Bowel%20Syndrome.md)
+- Ulcers, such as [peptic ulcer](Peptic%20Ulcer.md)
 
 Treatment of disorders of the small intestine depends on the cause.
 
 ## Related topics
 
-- Celiac Disease
-- Crohn's Disease
-- Diarrhea
-- Digestive Diseases
-- Gastroenteritis
-- Gastrointestinal Bleeding
-- Intestinal Cancer
-- Intestinal Obstruction
-- Irritable Bowel Syndrome
-- Malabsorption Syndromes
-- Ostomy
-- Peptic Ulcer
+- [Celiac Disease](Celiac%20Disease.md)
+- [Crohn's Disease](Crohn%27s%20Disease.md)
+- [Diarrhea](Diarrhea.md)
+- [Digestive Diseases](Digestive%20Diseases.md)
+- [Gastroenteritis](Gastroenteritis.md)
+- [Gastrointestinal Bleeding](Gastrointestinal%20Bleeding.md)
+- [Intestinal Cancer](Intestinal%20Cancer.md)
+- [Intestinal Obstruction](Intestinal%20Obstruction.md)
+- [Irritable Bowel Syndrome](Irritable%20Bowel%20Syndrome.md)
+- [Malabsorption Syndromes](Malabsorption%20Syndromes.md)
+- [Ostomy](Ostomy.md)
+- [Peptic Ulcer](Peptic%20Ulcer.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/smallintestinedisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/smallintestinedisorders.html). General information, not medical advice.*

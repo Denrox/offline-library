@@ -17,8 +17,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Bladder Diseases
+- [Bladder Diseases](Bladder%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bladdercancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bladdercancer.html). General information, not medical advice.*

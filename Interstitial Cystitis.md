@@ -19,8 +19,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Bladder Diseases
+- [Bladder Diseases](Bladder%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/interstitialcystitis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/interstitialcystitis.html). General information, not medical advice.*

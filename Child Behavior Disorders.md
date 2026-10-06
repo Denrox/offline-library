@@ -15,16 +15,16 @@ Warning signs can include:
 - Frequent tantrums and arguments
 - Consistent hostility toward authority figures
 
-If you see signs of a problem, ask for help. Poor choices can become habits. Kids who have behavior problems are at higher risk for school failure, [mental health problems](https://medlineplus.gov/childmentalhealth.html), and even [suicide](https://medlineplus.gov/suicide.html). Classes or family therapy may help parents learn to set and enforce limits. Talk therapy and behavior therapy for your child can also help.
+If you see signs of a problem, ask for help. Poor choices can become habits. Kids who have behavior problems are at higher risk for school failure, [mental health problems](Child%20Mental%20Health.md), and even [suicide](Suicide.md). Classes or family therapy may help parents learn to set and enforce limits. Talk therapy and behavior therapy for your child can also help.
 
 ## Related topics
 
-- Attention Deficit Hyperactivity Disorder
-- Child Development
-- Child Mental Health
-- Self-Harm
-- Teen Development
+- [Attention Deficit Hyperactivity Disorder](Attention%20Deficit%20Hyperactivity%20Disorder.md)
+- [Child Development](Child%20Development.md)
+- [Child Mental Health](Child%20Mental%20Health.md)
+- [Self-Harm](Self-Harm.md)
+- [Teen Development](Teen%20Development.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/childbehaviordisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/childbehaviordisorders.html). General information, not medical advice.*

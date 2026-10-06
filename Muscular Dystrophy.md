@@ -4,7 +4,7 @@
 
 #### What is muscular dystrophy (MD)?
 
-Muscular dystrophy (MD) is a group of more than 30 [genetic diseases](https://medlineplus.gov/geneticdisorders.html). They cause weakness of the muscles. Over time, the weakness gets worse and can cause trouble [walking](https://medlineplus.gov/walkingproblems.html) and doing daily activities. Some types of MD can also affect other organs.
+Muscular dystrophy (MD) is a group of more than 30 [genetic diseases](Genetic%20Disorders.md). They cause weakness of the muscles. Over time, the weakness gets worse and can cause trouble [walking](Walking%20Problems.md) and doing daily activities. Some types of MD can also affect other organs.
 
 #### What are the types of muscular dystrophy (MD)?
 
@@ -42,12 +42,12 @@ To find out if you or your child has MD, your health care provider may use:
 
 - A medical and family history
 - A physical exam
-- Blood and urine tests, including [genetic tests](https://medlineplus.gov/genetictesting.html) and tests for certain enzymes that may be released by damaged muscles
-- Muscle [biopsies](https://medlineplus.gov/biopsy.html)
-- [Electromyography and nerve conduction studies](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/) to find out if muscles are responding the right way to nerve signals
-- [Heart testing](https://medlineplus.gov/hearthealthtests.html), such as an [electrocardiogram](https://medlineplus.gov/lab-tests/electrocardiogram/) (EKG), since some types of MD can cause [heart problems](https://medlineplus.gov/heartdiseases.html)
+- Blood and urine tests, including [genetic tests](Genetic%20Testing.md) and tests for certain enzymes that may be released by damaged muscles
+- Muscle [biopsies](Biopsy.md)
+- Electromyography and nerve conduction studies to find out if muscles are responding the right way to nerve signals
+- [Heart testing](Heart%20Health%20Tests.md), such as an electrocardiogram (EKG), since some types of MD can cause [heart problems](Heart%20Diseases.md)
 - Exercise tests to measure muscle strength and breathing and detect any increased rates of certain chemicals following exercise
-- [Imaging tests](https://medlineplus.gov/diagnosticimaging.html) such as an [MRI](https://medlineplus.gov/mriscans.html) to look at muscle quality and bulk and measure fatty replacement of muscle tissue
+- [Imaging tests](Diagnostic%20Imaging.md) such as an [MRI](MRI%20Scans.md) to look at muscle quality and bulk and measure fatty replacement of muscle tissue
 
 #### What are the treatments for muscular dystrophy (MD)?
 
@@ -55,14 +55,14 @@ There is no cure for muscular dystrophy. Treatment can help with the symptoms an
 
 - Physical therapy to help keep muscles flexible and strong
 - Occupational therapy to relearn lost motor skills and learn ways to work around weakened muscles
-- Respiratory care, such as breathing exercises, [oxygen therapy](https://medlineplus.gov/oxygentherapy.html), and ventilators
-- Speech therapy to help with [speech](https://medlineplus.gov/speechandcommunicationdisorders.html) and [swallowing](https://medlineplus.gov/swallowingdisorders.html) problems
-- [Assistive devices](https://medlineplus.gov/assistivedevices.html), such as wheelchairs, splints and braces, and walkers
+- Respiratory care, such as breathing exercises, [oxygen therapy](Oxygen%20Therapy.md), and ventilators
+- Speech therapy to help with [speech](Speech%20and%20Communication%20Disorders.md) and [swallowing](Swallowing%20Disorders.md) problems
+- [Assistive devices](Assistive%20Devices.md), such as wheelchairs, splints and braces, and walkers
 - Medicines to help delay damage to muscles or minimize the symptoms of MD
-- Surgery to treat some of the conditions associated with MD, such as heart problems, [scoliosis](https://medlineplus.gov/scoliosis.html), and [cataracts](https://medlineplus.gov/cataract.html)
+- Surgery to treat some of the conditions associated with MD, such as heart problems, [scoliosis](Scoliosis.md), and [cataracts](Cataract.md)
 
 NIH: National Institute of Neurological Disorders and Stroke
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/musculardystrophy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/musculardystrophy.html). General information, not medical advice.*

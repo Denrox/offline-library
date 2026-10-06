@@ -17,9 +17,9 @@ What kind of information would you put in a personal health record? You could st
 
 ## Related topics
 
-- Family History
-- Patient Safety
+- [Family History](Family%20History.md)
+- [Patient Safety](Patient%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/personalhealthrecords.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/personalhealthrecords.html). General information, not medical advice.*

@@ -4,11 +4,11 @@
 
 #### What are opioids?
 
-Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](https://medlineplus.gov/painrelievers.html), such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug heroin is also an opioid.
+Opioids, sometimes called narcotics, are a type of drug. They include strong prescription [pain relievers](Pain%20Relievers.md), such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug heroin is also an opioid.
 
-A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some health care providers prescribe them for [chronic pain](https://medlineplus.gov/chronicpain.html).
+A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some health care providers prescribe them for [chronic pain](Chronic%20Pain.md).
 
-Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, [opioid use disorder (OUD)](opioidmisuseandaddiction.html) is still a possible risk.
+Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However, opioid use disorder (OUD) is still a possible risk.
 
 #### What is opioid use disorder (OUD)?
 
@@ -59,7 +59,7 @@ Counselors can also refer you to other resources that you might need, such as:
 
 - Peer support groups, including 12-step programs like Narcotics Anonymous
 - Spiritual and faith-based groups
-- [HIV testing](https://medlineplus.gov/lab-tests/hiv-screening-test/) and [hepatitis screening](https://medlineplus.gov/lab-tests/hepatitis-panel/)
+- HIV testing and hepatitis screening
 - Case or care management
 - Employment or educational supports
 - Organizations that help you find housing or transportation
@@ -70,10 +70,10 @@ Residential programs combine housing and treatment services. You are living with
 
 ## Related topics
 
-- Opioid Overdose
-- Opioids and Opioid Use Disorder (OUD)
-- Prescription Drug Misuse
+- [Opioid Overdose](Opioid%20Overdose.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
+- [Prescription Drug Misuse](Prescription%20Drug%20Misuse.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/opioidusedisorderoudtreatment.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/opioidusedisorderoudtreatment.html). General information, not medical advice.*

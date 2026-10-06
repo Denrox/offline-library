@@ -1,6 +1,6 @@
 # Breast Reconstruction
 
-If you need a [mastectomy](https://medlineplus.gov/mastectomy.html), you have a choice about whether or not to have surgery to rebuild the shape of the breast. Instead of breast reconstruction, you could choose to wear a breast form that replaces the breast, wear padding inside your bra, or do nothing. All of these options have pros and cons. What is right for one woman may not be right for another.
+If you need a [mastectomy](Mastectomy.md), you have a choice about whether or not to have surgery to rebuild the shape of the breast. Instead of breast reconstruction, you could choose to wear a breast form that replaces the breast, wear padding inside your bra, or do nothing. All of these options have pros and cons. What is right for one woman may not be right for another.
 
 Breast reconstruction may be done at the same time as the mastectomy, or it may be done later on. If radiation therapy is part of the treatment plan, your doctor may suggest waiting until after radiation therapy.
 
@@ -14,10 +14,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Breast Cancer
-- Breast Diseases
-- Plastic and Cosmetic Surgery
+- [Breast Cancer](Breast%20Cancer.md)
+- [Breast Diseases](Breast%20Diseases.md)
+- [Plastic and Cosmetic Surgery](Plastic%20and%20Cosmetic%20Surgery.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/breastreconstruction.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/breastreconstruction.html). General information, not medical advice.*

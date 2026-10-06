@@ -2,9 +2,9 @@
 
 #### What is prediabetes?
 
-Prediabetes means that your blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), levels are higher than normal but not high enough to be called [diabetes](https://medlineplus.gov/diabetes.html). Glucose comes from the foods you eat. Too much glucose in your blood can damage your body over time.
+Prediabetes means that your blood glucose, or [blood sugar](Blood%20Glucose.md), levels are higher than normal but not high enough to be called [diabetes](Diabetes.md). Glucose comes from the foods you eat. Too much glucose in your blood can damage your body over time.
 
-If you have prediabetes, you are more likely to develop [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), [heart disease](https://medlineplus.gov/heartdiseases.html), and [stroke](https://medlineplus.gov/stroke.html). But if you make some lifestyle changes now, you may be able to delay or prevent type 2 diabetes.
+If you have prediabetes, you are more likely to develop [type 2 diabetes](Diabetes%20Type%202.md), [heart disease](Heart%20Diseases.md), and [stroke](Stroke.md). But if you make some lifestyle changes now, you may be able to delay or prevent type 2 diabetes.
 
 #### What causes prediabetes?
 
@@ -19,16 +19,16 @@ Researchers think that being overweight and not getting regular physical activit
 
 About 1 out of every 3 adults has prediabetes. It is more common in people who:
 
-- Are overweight or have [obesity](https://medlineplus.gov/obesity.html)
+- Are overweight or have [obesity](Obesity.md)
 - Are age 45 or older
 - Have a parent, brother, or sister with diabetes
 - Are African American, Alaska Native, American Indian, Asian American, Hispanic/Latino, Native Hawaiian, or Pacific Islander American
 - Are not physically active
-- Have health conditions such as [high blood pressure](https://medlineplus.gov/highbloodpressure.html) and [high cholesterol](https://medlineplus.gov/cholesterol.html)
-- Have had [gestational diabetes](https://medlineplus.gov/diabetesandpregnancy.html) (diabetes in pregnancy)
+- Have health conditions such as [high blood pressure](High%20Blood%20Pressure.md) and [high cholesterol](Cholesterol.md)
+- Have had [gestational diabetes](Diabetes%20and%20Pregnancy.md) (diabetes in pregnancy)
 - Have a history of heart disease or stroke
-- Have [metabolic syndrome](https://medlineplus.gov/metabolicsyndrome.html)
-- Have [polycystic ovary syndrome](https://medlineplus.gov/polycysticovarysyndrome.html) (PCOS)
+- Have [metabolic syndrome](Metabolic%20Syndrome.md)
+- Have [polycystic ovary syndrome](Polycystic%20Ovary%20Syndrome.md) (PCOS)
 
 #### What are the symptoms of prediabetes?
 
@@ -40,12 +40,12 @@ Some people with prediabetes may have darkened skin in the armpit or on the back
 
 There are a few different blood tests that can diagnose prediabetes. The most common ones are:
 
-- [Fasting plasma glucose](https://medlineplus.gov/lab-tests/blood-glucose-test/) (FPG) test, which measures your blood sugar at a single point in time. You need to fast (not eat or drink) for at least 8 hours before the test. The results of the test are given in mg/dL (milligrams per deciliter):
+- Fasting plasma glucose (FPG) test, which measures your blood sugar at a single point in time. You need to fast (not eat or drink) for at least 8 hours before the test. The results of the test are given in mg/dL (milligrams per deciliter):
 
  - A normal level is 99 or below
  - Prediabetes is 100 to 125
  - Type 2 diabetes is 126 and above
-- [A1C test](https://medlineplus.gov/a1c.html), which measures your average blood sugar over the past 3 months. The results of an A1C test are given as a percentage. The higher the percentage, the higher your blood sugar levels have been.
+- [A1C test](A1C.md), which measures your average blood sugar over the past 3 months. The results of an A1C test are given as a percentage. The higher the percentage, the higher your blood sugar levels have been.
 
  - A normal level is below 5.7%
  - Prediabetes is between 5.7 to 6.4%
@@ -53,13 +53,13 @@ There are a few different blood tests that can diagnose prediabetes. The most co
 
 #### If I have prediabetes, will I get diabetes?
 
-If you have prediabetes, you may be able to delay or [prevent](https://medlineplus.gov/howtopreventdiabetes.html) type 2 diabetes through lifestyle changes:
+If you have prediabetes, you may be able to delay or [prevent](How%20to%20Prevent%20Diabetes.md) type 2 diabetes through lifestyle changes:
 
-- [Losing weight](https://medlineplus.gov/weightcontrol.html), if you are overweight
-- Getting [regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
+- [Losing weight](Weight%20Control.md), if you are overweight
+- Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
 - Following a healthy, reduced-calorie eating plan
 
-In some cases, your health care provider may also recommend taking [diabetes medicines](https://medlineplus.gov/diabetesmedicines.html).
+In some cases, your health care provider may also recommend taking [diabetes medicines](Diabetes%20Medicines.md).
 
 #### Can prediabetes be prevented?
 
@@ -69,13 +69,13 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- A1C
-- Diabetes
-- Diabetes in Children and Teens
-- Diabetes Type 2
-- How to Prevent Diabetes
-- Metabolic Syndrome
+- [A1C](A1C.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Type 2](Diabetes%20Type%202.md)
+- [How to Prevent Diabetes](How%20to%20Prevent%20Diabetes.md)
+- [Metabolic Syndrome](Metabolic%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/prediabetes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/prediabetes.html). General information, not medical advice.*

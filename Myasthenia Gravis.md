@@ -14,7 +14,7 @@ Myasthenia gravis, sometimes called MG, is a chronic (long-lasting) disease that
 
 You can also have weakness in other muscles. This weakness gets worse with activity, and better with rest.
 
-Myasthenia gravis is a type of autoimmune disease. In [autoimmune diseases](https://medlineplus.gov/autoimmunediseases.html), your immune system attacks the healthy cells of your organs and tissues by mistake.
+Myasthenia gravis is a type of autoimmune disease. In [autoimmune diseases](Autoimmune%20Diseases.md), your immune system attacks the healthy cells of your organs and tissues by mistake.
 
 #### What causes myasthenia gravis?
 
@@ -29,7 +29,7 @@ Normally, this is how the signals work:
 
 But in someone with myasthenia gravis, the body's own immune system makes antibodies that block the binding of acetylcholine to the muscle. This makes the muscles weaker.
 
-The thymus gland, which is part of your immune system, may play a role in myasthenia gravis. Normally, your thymus gland is active and growing when you are a child. It makes white blood cells to fight infections. At puberty, it starts getting smaller and is replaced by fat. It is usually small by the time you are an adult. But in many adults with myasthenia gravis, the thymus gland stays large. And some people with myasthenia gravis can get thymomas, which are tumors of the thymus. The are usually [benign](https://medlineplus.gov/benigntumors.html) (not cancer), but they can sometimes become [cancerous](https://medlineplus.gov/thymuscancer.html).
+The thymus gland, which is part of your immune system, may play a role in myasthenia gravis. Normally, your thymus gland is active and growing when you are a child. It makes white blood cells to fight infections. At puberty, it starts getting smaller and is replaced by fat. It is usually small by the time you are an adult. But in many adults with myasthenia gravis, the thymus gland stays large. And some people with myasthenia gravis can get thymomas, which are tumors of the thymus. The are usually [benign](Benign%20Tumors.md) (not cancer), but they can sometimes become [cancerous](Thymus%20Cancer.md).
 
 #### Who is more likely to develop myasthenia gravis?
 
@@ -41,13 +41,13 @@ Myasthenia gravis normally does not affect infants. But if you are pregnant and 
 
 The symptoms of myasthenia gravis will depend on which muscles are affected. The symptoms often include:
 
-- Weakness of the [eye muscles](https://medlineplus.gov/eyemovementdisorders.html)
+- Weakness of the [eye muscles](Eye%20Movement%20Disorders.md)
 - Drooping of one or both eyelids
 - Blurred or double vision
 - Changes in facial expressions
-- [Trouble swallowing](https://medlineplus.gov/swallowingdisorders.html)
-- [Shortness of breath](https://medlineplus.gov/breathingproblems.html)
-- [Speech problems](https://medlineplus.gov/speechandcommunicationdisorders.html)
+- [Trouble swallowing](Swallowing%20Disorders.md)
+- [Shortness of breath](Breathing%20Problems.md)
+- [Speech problems](Speech%20and%20Communication%20Disorders.md)
 - Weakness in the arms, hands, fingers, legs, and neck
 
 Different people have different levels of muscle weakness. And the weakness can vary from day to day. Some days it might be mild, and other days it might be worse. Physical activity often makes the muscle weakness worse.
@@ -59,12 +59,12 @@ Some people with myasthenia gravis can get severe weakness that affects the musc
 There are many other conditions that can cause muscle weakness, so myasthenia gravis can be hard to diagnose. To find out if you have myasthenia gravis, your health care provider:
 
 - Will ask about your medical history and symptoms
-- Will do a physical exam, including a [neurological exam](https://medlineplus.gov/lab-tests/neurological-exam/)
-- Will likely order [tests for myasthenia gravis](https://medlineplus.gov/lab-tests/myasthenia-gravis-tests/), including:
+- Will do a physical exam, including a neurological exam
+- Will likely order tests for myasthenia gravis, including:
 
  - Blood tests
- - [Imaging tests](https://medlineplus.gov/diagnosticimaging.html)
- - [Electromyography (EMG) and nerve conduction studies](https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/)
+ - [Imaging tests](Diagnostic%20Imaging.md)
+ - Electromyography (EMG) and nerve conduction studies
 
 #### What are the treatments for myasthenia gravis?
 
@@ -84,9 +84,9 @@ NIH: National Institute of Neurological Disorders and Stroke
 
 ## Related topics
 
-- Muscle Disorders
-- Neuromuscular Disorders
+- [Muscle Disorders](Muscle%20Disorders.md)
+- [Neuromuscular Disorders](Neuromuscular%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/myastheniagravis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/myastheniagravis.html). General information, not medical advice.*

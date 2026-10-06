@@ -4,14 +4,14 @@
 
 #### What are pain relievers?
 
-Pain relievers are medicines that reduce or relieve [headaches](https://medlineplus.gov/headache.html), sore muscles, [arthritis](https://medlineplus.gov/arthritis.html), or other aches and [pains](https://medlineplus.gov/pain.html). There are many different pain medicines, and each has advantages and risks. Some types of pain respond better to certain medicines than others. Each person may also have a slightly different response to a pain reliever.
+Pain relievers are medicines that reduce or relieve [headaches](Headache.md), sore muscles, [arthritis](Arthritis.md), or other aches and [pains](Pain.md). There are many different pain medicines, and each has advantages and risks. Some types of pain respond better to certain medicines than others. Each person may also have a slightly different response to a pain reliever.
 
 #### What are the types of over-the-counter pain relievers?
 
-[Over-the-counter (OTC) medicines](overthecountermedicines.html) are good for many types of pain. Two types of OTC pain medicines are usually recommended for mild to moderate pain.
+Over-the-counter (OTC) medicines are good for many types of pain. Two types of OTC pain medicines are usually recommended for mild to moderate pain.
 
-- **Acetaminophen (Tylenol)** is used in many OTC and prescription medicines. It's often considered safer than other pain relievers. Unfortunately, it's common for people to [take too much accidentally](https://medlineplus.gov/lab-tests/acetaminophen-level/). Be careful not to take too much each day or use more than one medicine with acetaminophen. Check with your health care provider before taking medicines containing acetaminophen for more than ten days or five days for your child.
-- **Nonsteroidal anti-inflammatory drugs (NSAIDs)** include aspirin, naproxen (Aleve), and ibuprofen (Advil, Motrin). These pain relievers are often most effective if you have pain and inflammation (swelling), such as for arthritis or [menstrual cramps](https://medlineplus.gov/menstruation.html). If you take more than the recommended amount, NSAIDs may cause [nausea](https://medlineplus.gov/nauseaandvomiting.html), stomach pain, or ulcers.
+- **Acetaminophen (Tylenol)** is used in many OTC and prescription medicines. It's often considered safer than other pain relievers. Unfortunately, it's common for people to take too much accidentally. Be careful not to take too much each day or use more than one medicine with acetaminophen. Check with your health care provider before taking medicines containing acetaminophen for more than ten days or five days for your child.
+- **Nonsteroidal anti-inflammatory drugs (NSAIDs)** include aspirin, naproxen (Aleve), and ibuprofen (Advil, Motrin). These pain relievers are often most effective if you have pain and inflammation (swelling), such as for arthritis or [menstrual cramps](Menstruation.md). If you take more than the recommended amount, NSAIDs may cause [nausea](Nausea%20and%20Vomiting.md), stomach pain, or ulcers.
 
 #### What are prescription pain relievers?
 
@@ -19,15 +19,15 @@ If OTC pain relievers don't relieve your pain, your provider may prescribe somet
 
 The most powerful pain relievers are opioids, sometimes called narcotics. They include strong prescription pain relievers such as oxycodone, hydrocodone, or morphine. Opioids are sometimes used to treat moderate to severe pain. Your provider may give you a prescription to reduce pain after you have had a major injury or surgery.
 
-Opioids are very effective, but they can sometimes have serious side effects. There is also a risk of [addiction](https://medlineplus.gov/opioidsandopioidusedisorderoud.html). Because of the risks, you must use them only under your provider's supervision.
+Opioids are very effective, but they can sometimes have serious side effects. There is also a risk of [addiction](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md). Because of the risks, you must use them only under your provider's supervision.
 
 #### What are some non-drug treatments for pain?
 
-Pain relievers are just one part of a pain treatment plan. Environmental factors, [stress](https://medlineplus.gov/stress.html), and beliefs about pain may affect the way you feel about pain and respond to treatment.
+Pain relievers are just one part of a pain treatment plan. Environmental factors, [stress](Stress.md), and beliefs about pain may affect the way you feel about pain and respond to treatment.
 
-There are many things you can do to help ease pain. Treatment depends on the cause and type of pain. It's important to check with your provider before trying any of them. A few [non-drug treatments](https://medlineplus.gov/nondrugpainmanagement.html) for pain include:
+There are many things you can do to help ease pain. Treatment depends on the cause and type of pain. It's important to check with your provider before trying any of them. A few [non-drug treatments](Non-Drug%20Pain%20Management.md) for pain include:
 
-- [Acupuncture](https://medlineplus.gov/acupuncture.html)
+- [Acupuncture](Acupuncture.md)
 - Hot or cold packs
 - Massage therapy
 - Physical therapy
@@ -35,12 +35,12 @@ There are many things you can do to help ease pain. Treatment depends on the cau
 
 ## Related topics
 
-- Chronic Pain
-- Medicines
-- Opioids and Opioid Use Disorder (OUD)
-- Over-the-Counter Medicines
-- Pain
+- [Chronic Pain](Chronic%20Pain.md)
+- [Medicines](Medicines.md)
+- [Opioids and Opioid Use Disorder (OUD)](Opioids%20and%20Opioid%20Use%20Disorder%20%28OUD%29.md)
+- [Over-the-Counter Medicines](Over-the-Counter%20Medicines.md)
+- [Pain](Pain.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/painrelievers.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/painrelievers.html). General information, not medical advice.*

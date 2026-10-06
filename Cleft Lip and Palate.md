@@ -1,6 +1,6 @@
 # Cleft Lip and Palate
 
-Cleft lip and cleft palate are [birth defects](https://medlineplus.gov/birthdefects.html) that occur when a baby's lip or mouth do not form properly. They happen early during pregnancy. A baby can have a cleft lip, a cleft palate, or both.
+Cleft lip and cleft palate are [birth defects](Birth%20Defects.md) that occur when a baby's lip or mouth do not form properly. They happen early during pregnancy. A baby can have a cleft lip, a cleft palate, or both.
 
 A cleft lip happens if the tissue that makes up the lip does not join completely before birth. This causes an opening in the upper lip. The opening can be a small slit or a large opening that goes through the lip into the nose. It can be on one or both sides of the lip or, rarely, in the middle of the lip.
 
@@ -14,4 +14,4 @@ Centers for Disease Control and Prevention
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cleftlipandpalate.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cleftlipandpalate.html). General information, not medical advice.*

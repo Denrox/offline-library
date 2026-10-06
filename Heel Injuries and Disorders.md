@@ -11,9 +11,9 @@ These can lead to tendinitis, bursitis, and fasciitis, which are all types of in
 
 ## Related topics
 
-- Foot Health
-- Foot Injuries and Disorders
+- [Foot Health](Foot%20Health.md)
+- [Foot Injuries and Disorders](Foot%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/heelinjuriesanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/heelinjuriesanddisorders.html). General information, not medical advice.*

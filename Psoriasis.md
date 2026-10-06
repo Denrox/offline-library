@@ -1,6 +1,6 @@
 # Psoriasis
 
-Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get the patches on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body. Some people who have psoriasis also get a form of arthritis called [psoriatic arthritis](https://medlineplus.gov/psoriaticarthritis.html).
+Psoriasis is a skin disease that causes itchy or sore patches of thick, red skin with silvery scales. You usually get the patches on your elbows, knees, scalp, back, face, palms and feet, but they can show up on other parts of your body. Some people who have psoriasis also get a form of arthritis called [psoriatic arthritis](Psoriatic%20Arthritis.md).
 
 A problem with your immune system causes psoriasis. In a process called cell turnover, skin cells that grow deep in your skin rise to the surface. Normally, this takes a month. In psoriasis, it happens in just days because your cells rise too fast.
 
@@ -19,8 +19,8 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Psoriatic Arthritis
+- [Psoriatic Arthritis](Psoriatic%20Arthritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/psoriasis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/psoriasis.html). General information, not medical advice.*

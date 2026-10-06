@@ -4,7 +4,7 @@
 
 #### What is Kawasaki disease?
 
-Kawasaki disease is a rare illness that usually affects small children. Other names for the disease are Kawasaki syndrome and mucocutaneous lymph node syndrome. It is a type of [vasculitis](https://medlineplus.gov/vasculitis.html), which is inflammation of the blood vessels. Kawasaki disease is serious, but most children can fully recover if they are treated right away.
+Kawasaki disease is a rare illness that usually affects small children. Other names for the disease are Kawasaki syndrome and mucocutaneous lymph node syndrome. It is a type of [vasculitis](Vasculitis.md), which is inflammation of the blood vessels. Kawasaki disease is serious, but most children can fully recover if they are treated right away.
 
 #### What causes Kawasaki disease?
 
@@ -20,11 +20,11 @@ Kawasaki disease usually affects children under the age of 5. But older children
 
 The symptoms of Kawasaki disease may include:
 
-- High [fever](https://medlineplus.gov/fever.html) lasting at least five days
-- A [rash](https://medlineplus.gov/rashes.html), often on the back, chest, and groin
+- High [fever](Fever.md) lasting at least five days
+- A [rash](Rashes.md), often on the back, chest, and groin
 - Swollen hands and feet
 - Redness of the lips, lining of the mouth, tongue, palms of the hand, and soles of the feet
-- [Pink eye](https://medlineplus.gov/pinkeye.html) (conjunctivitis)
+- [Pink eye](Pink%20Eye.md) (conjunctivitis)
 - Swollen lymph nodes in the neck
 
 Contact your child's health care provider if your child has a fever for 4 days, especially if they have any other symptoms of Kawasaki disease.
@@ -33,9 +33,9 @@ Contact your child's health care provider if your child has a fever for 4 days, 
 
 Sometimes Kawasaki disease can affect the walls of the coronary arteries. These arteries bring blood and oxygen to your heart. This can lead to:
 
-- An [aneurysm](https://medlineplus.gov/aneurysms.html) (bulging and thinning of the walls of the arteries). This can raise the risk of [blood clots](https://medlineplus.gov/bloodclots.html) in the arteries. If the blood clots are not treated, they could lead to a [heart attack](https://medlineplus.gov/heartattack.html) or internal bleeding.
+- An [aneurysm](Aneurysms.md) (bulging and thinning of the walls of the arteries). This can raise the risk of [blood clots](Blood%20Clots.md) in the arteries. If the blood clots are not treated, they could lead to a [heart attack](Heart%20Attack.md) or internal bleeding.
 - Inflammation in the heart.
-- [Heart valve problems](https://medlineplus.gov/heartvalvediseases.html).
+- [Heart valve problems](Heart%20Valve%20Diseases.md).
 
 Kawasaki disease can also affect other parts of the body, including the brain and nervous system, the immune system, and the digestive system.
 
@@ -45,20 +45,20 @@ There is no specific test for Kawasaki disease. To find out if your child has Ka
 
 - Will do a physical exam, which includes looking at the signs and symptoms
 - Will likely order blood and urine tests to rule out other diseases and check for signs of inflammation
-- May order [tests](https://medlineplus.gov/hearthealthtests.html) to check for damage to the heart, such as an echocardiogram and [electrocardiogram](https://medlineplus.gov/lab-tests/electrocardiogram/) (EKG)
+- May order [tests](Heart%20Health%20Tests.md) to check for damage to the heart, such as an echocardiogram and electrocardiogram (EKG)
 
 #### What are the treatments for Kawasaki disease?
 
 Kawasaki disease is usually treated in the hospital with an intravenous (IV) dose of immunoglobulin (IVIG) antibodies. Antibodies are proteins that your immune system makes to fight infections.
 
-Aspirin may also be part of the treatment. But do not give your child aspirin unless the health care provider tells you to. Aspirin can cause [Reye syndrome](https://medlineplus.gov/reyesyndrome.html) in children. This is a rare, serious illness that can affect the brain and liver.
+Aspirin may also be part of the treatment. But do not give your child aspirin unless the health care provider tells you to. Aspirin can cause [Reye syndrome](Reye%20Syndrome.md) in children. This is a rare, serious illness that can affect the brain and liver.
 
 Treatment usually works. But if it is not working well enough, the provider may also give your child other medicines to fight the inflammation. If the disease affects your child's heart, they might need additional medicines, surgery, or other medical procedures.
 
 ## Related topics
 
-- Vasculitis
+- [Vasculitis](Vasculitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/kawasakidisease.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/kawasakidisease.html). General information, not medical advice.*

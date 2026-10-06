@@ -4,7 +4,7 @@
 
 Your immune system is a complex network of cells, tissues, and organs. Together they help the body fight infections and other diseases.
 
-When germs such as [bacteria](https://medlineplus.gov/bacterialinfections.html) or [viruses](https://medlineplus.gov/viralinfections.html) invade your body, they attack and multiply. This is called an infection. The infection causes the disease that makes you sick. Your immune system protects you from the disease by fighting off the germs.
+When germs such as [bacteria](Bacterial%20Infections.md) or [viruses](Viral%20Infections.md) invade your body, they attack and multiply. This is called an infection. The infection causes the disease that makes you sick. Your immune system protects you from the disease by fighting off the germs.
 
 #### What are the parts of the immune system?
 
@@ -13,11 +13,11 @@ The immune system has many different parts, including:
 - Your skin, which can help prevent germs from getting into the body
 - Mucous membranes, which are the moist, inner linings of some organs and body cavities. They make mucus and other substances which can trap and fight germs.
 - White blood cells, which fight germs
-- Organs and tissues of the [lymph system](https://medlineplus.gov/lymphaticdiseases.html), such as the thymus, [spleen](https://medlineplus.gov/spleendiseases.html), tonsils, lymph nodes, lymph vessels, and [bone marrow](https://medlineplus.gov/bonemarrowdiseases.html). They produce, store, and carry white blood cells.
+- Organs and tissues of the [lymph system](Lymphatic%20Diseases.md), such as the thymus, [spleen](Spleen%20Diseases.md), tonsils, lymph nodes, lymph vessels, and [bone marrow](Bone%20Marrow%20Diseases.md). They produce, store, and carry white blood cells.
 
 #### How does the immune system work?
 
-Your immune system defends your body against substances it sees as harmful or foreign. These substances are called antigens. They may be germs such as bacteria and viruses. They might be chemicals or toxins. They could also be cells that are damaged from things like [cancer](https://medlineplus.gov/cancer.html) or [sunburn](https://medlineplus.gov/sunexposure.html).
+Your immune system defends your body against substances it sees as harmful or foreign. These substances are called antigens. They may be germs such as bacteria and viruses. They might be chemicals or toxins. They could also be cells that are damaged from things like [cancer](Cancer.md) or [sunburn](Sun%20Exposure.md).
 
 When your immune system recognizes an antigen, it attacks it. This is called an immune response. Part of this response is to make antibodies. Antibodies are proteins that work to attack, weaken, and destroy antigens. Your body also makes other cells to fight the antigen.
 
@@ -28,22 +28,22 @@ Afterwards, your immune system remembers the antigen. If it sees the antigen aga
 There are three different types of immunity:
 
 - **Innate immunity** is the protection that you are born with. It is your body's first line of defense. It includes barriers such as the skin and mucous membranes. They keep harmful substances from entering the body. It also includes some cells and chemicals which can attack foreign substances.
-- **Active immunity**, also called adaptive immunity, develops when you are infected with or [vaccinated](https://medlineplus.gov/vaccines.html) against a foreign substance. Active immunity is usually long-lasting. For many diseases, it can last your entire life.
+- **Active immunity**, also called adaptive immunity, develops when you are infected with or [vaccinated](Vaccines.md) against a foreign substance. Active immunity is usually long-lasting. For many diseases, it can last your entire life.
 - **Passive immunity** happens when you receive antibodies to a disease instead of making them through your own immune system. For example, newborn babies have antibodies from their mothers. People can also get passive immunity through blood products that contain antibodies. This kind of immunity gives you protection right away. But it only lasts a few weeks or months.
 
 #### What can go wrong with the immune system?
 
-Sometimes a person may have an immune response even though there is no real threat. This can lead to problems such as [allergies](https://medlineplus.gov/allergy.html), [asthma](https://medlineplus.gov/asthma.html), and [autoimmune diseases](https://medlineplus.gov/autoimmunediseases.html). If you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake.
+Sometimes a person may have an immune response even though there is no real threat. This can lead to problems such as [allergies](Allergy.md), [asthma](Asthma.md), and [autoimmune diseases](Autoimmune%20Diseases.md). If you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake.
 
-Other immune system problems happen when your immune system does not work correctly. These problems include immunodeficiency diseases. If you have an immunodeficiency disease, you get sick more often. Your infections may last longer and can be more serious and harder to treat. They are often [genetic disorders](https://medlineplus.gov/geneticdisorders.html).
+Other immune system problems happen when your immune system does not work correctly. These problems include immunodeficiency diseases. If you have an immunodeficiency disease, you get sick more often. Your infections may last longer and can be more serious and harder to treat. They are often [genetic disorders](Genetic%20Disorders.md).
 
-There are other diseases that can affect your immune system. For example, [HIV](https://medlineplus.gov/hiv.html) is a virus that harms your immune system by destroying your white blood cells. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). People with AIDS have badly damaged immune systems. They get an increasing number of severe illnesses.
+There are other diseases that can affect your immune system. For example, [HIV](HIV.md) is a virus that harms your immune system by destroying your white blood cells. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). People with AIDS have badly damaged immune systems. They get an increasing number of severe illnesses.
 
 ## Related topics
 
-- Autoimmune Diseases
-- Vaccines
+- [Autoimmune Diseases](Autoimmune%20Diseases.md)
+- [Vaccines](Vaccines.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/immunesystemanddisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/immunesystemanddisorders.html). General information, not medical advice.*

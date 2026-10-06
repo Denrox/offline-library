@@ -2,9 +2,9 @@
 
 *Also called: Hypopharyngeal cancer, Laryngeal cancer, Laryngopharyngeal cancer, Nasopharyngeal cancer, Oropharyngeal cancer, Pharyngeal cancer*
 
-Throat cancer is a type of [head and neck cancer](https://medlineplus.gov/headandneckcancer.html). Throat cancer has different names, depending on which part of the throat is affected. The different parts of your throat are called the oropharynx, the hypopharynx, the nasopharynx, and the larynx, or voice box.
+Throat cancer is a type of [head and neck cancer](Head%20and%20Neck%20Cancer.md). Throat cancer has different names, depending on which part of the throat is affected. The different parts of your throat are called the oropharynx, the hypopharynx, the nasopharynx, and the larynx, or voice box.
 
-The main risk factors for throat cancer are tobacco use and heavy drinking. Certain types of throat cancer also have other risk factors. For example, having [HPV](https://medlineplus.gov/hpv.html) is a risk factor for oropharyngeal cancer.
+The main risk factors for throat cancer are tobacco use and heavy drinking. Certain types of throat cancer also have other risk factors. For example, having [HPV](HPV.md) is a risk factor for oropharyngeal cancer.
 
 Symptoms of throat cancer may include:
 
@@ -20,10 +20,10 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Head and Neck Cancer
-- Oral Cancer
-- Throat Disorders
+- [Head and Neck Cancer](Head%20and%20Neck%20Cancer.md)
+- [Oral Cancer](Oral%20Cancer.md)
+- [Throat Disorders](Throat%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/throatcancer.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/throatcancer.html). General information, not medical advice.*

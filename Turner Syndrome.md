@@ -2,7 +2,7 @@
 
 #### What is Turner syndrome?
 
-Turner syndrome is a [genetic disorder](https://medlineplus.gov/geneticdisorders.html) that affects a girl's development and appearance. It can also cause health problems such as [infertility](https://medlineplus.gov/femaleinfertility.html) and [heart problems](https://medlineplus.gov/heartdiseases.html).
+Turner syndrome is a [genetic disorder](Genetic%20Disorders.md) that affects a girl's development and appearance. It can also cause health problems such as [infertility](Female%20Infertility.md) and [heart problems](Heart%20Diseases.md).
 
 #### What causes Turner syndrome?
 
@@ -19,11 +19,11 @@ Some of the symptoms of Turner syndrome affect a person's appearance. Most peopl
 - Low-set ears
 - Swollen hands and feet
 
-People with Turner syndrome may be born with [heart](https://medlineplus.gov/congenitalheartdefects.html) and kidney defects. They usually don't have typical sexual development and are infertile. They are also at risk for other health problems such as [high blood pressure](https://medlineplus.gov/highbloodpressure.html), [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), [osteoporosis](https://medlineplus.gov/osteoporosis.html), and [thyroid problems](https://medlineplus.gov/thyroiddiseases.html).
+People with Turner syndrome may be born with [heart](Congenital%20Heart%20Defects.md) and kidney defects. They usually don't have typical sexual development and are infertile. They are also at risk for other health problems such as [high blood pressure](High%20Blood%20Pressure.md), [type 2 diabetes](Diabetes%20Type%202.md), [osteoporosis](Osteoporosis.md), and [thyroid problems](Thyroid%20Diseases.md).
 
 #### How is Turner syndrome diagnosed?
 
-Health care providers diagnose Turner syndrome based on symptoms and a genetic blood test called a [karyotype test](https://medlineplus.gov/lab-tests/karyotype-genetic-test/). Sometimes it is found in [prenatal testing](https://medlineplus.gov/prenataltesting.html).
+Health care providers diagnose Turner syndrome based on symptoms and a genetic blood test called a karyotype test. Sometimes it is found in [prenatal testing](Prenatal%20Testing.md).
 
 #### What are the treatments for Turner syndrome?
 
@@ -31,7 +31,7 @@ There is no cure for Turner syndrome, but there are treatments for some of the s
 
 - If they are started in early childhood, **hormone injections** can often increase adult height by a few inches
 - **Estrogen replacement therapy** (ERT) can help start sexual development. It also protects against bone loss
-- **[Assisted reproduction technologies](https://medlineplus.gov/assistedreproductivetechnology.html)** can help some women with Turner syndrome get pregnant
+- **[Assisted reproduction technologies](Assisted%20Reproductive%20Technology.md)** can help some women with Turner syndrome get pregnant
 
 People who have Turner syndrome need regular health checks. It's also important for them to have a care team that includes specialists who can treat the health problems caused by Turner syndrome.
 
@@ -39,4 +39,4 @@ NIH: National Institute of Child Health and Human Development
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/turnersyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/turnersyndrome.html). General information, not medical advice.*

@@ -16,10 +16,10 @@ NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Child Behavior Disorders
-- Child Development
-- Fragile X Syndrome
+- [Child Behavior Disorders](Child%20Behavior%20Disorders.md)
+- [Child Development](Child%20Development.md)
+- [Fragile X Syndrome](Fragile%20X%20Syndrome.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/autismspectrumdisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/autismspectrumdisorder.html). General information, not medical advice.*

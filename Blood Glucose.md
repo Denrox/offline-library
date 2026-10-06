@@ -8,7 +8,7 @@ Blood glucose, or blood sugar, is the main sugar found in your blood. It is your
 
 #### What is diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) is a disease in which your blood glucose levels are too high. When you have diabetes, your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. Over time, having too much glucose in your blood can cause serious [health problems](https://medlineplus.gov/diabetescomplications.html) (diabetes complications). So if you have diabetes, it's important to keep your blood glucose levels within your target range.
+[Diabetes](Diabetes.md) is a disease in which your blood glucose levels are too high. When you have diabetes, your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. Over time, having too much glucose in your blood can cause serious [health problems](Diabetes%20Complications.md) (diabetes complications). So if you have diabetes, it's important to keep your blood glucose levels within your target range.
 
 #### What are blood glucose targets?
 
@@ -27,25 +27,25 @@ The most common way to check your blood glucose level at home is with a blood gl
 
 Continuous glucose monitoring (CGM) is another way to check your glucose levels. Most CGM systems use a tiny sensor that is inserted under your skin. The sensor measures your glucose level every few minutes. It can show changes in your glucose level throughout the day and night. A CGM system is especially useful for people who take insulin and have problems with low blood glucose.
 
-Your provider will also check your blood glucose with a blood test called an [A1C](https://medlineplus.gov/a1c.html). It checks your average blood glucose level over the past three months. People with diabetes usually have an A1C test at least twice a year. But you may need the test more often if you aren't meeting your diabetes treatment goals.
+Your provider will also check your blood glucose with a blood test called an [A1C](A1C.md). It checks your average blood glucose level over the past three months. People with diabetes usually have an A1C test at least twice a year. But you may need the test more often if you aren't meeting your diabetes treatment goals.
 
 #### What happens if my blood glucose level becomes too high?
 
-High blood glucose is called [hyperglycemia](https://medlineplus.gov/hyperglycemia.html). Symptoms that your blood glucose levels may be too high include:
+High blood glucose is called [hyperglycemia](Hyperglycemia.md). Symptoms that your blood glucose levels may be too high include:
 
 - Feeling thirsty
 - Feeling tired or weak
-- [Headaches](https://medlineplus.gov/headache.html)
+- [Headaches](Headache.md)
 - Urinating (peeing) often
 - Blurred vision
 
-If you often have high blood glucose levels or symptoms of high blood glucose, talk with your health care team. You may need a change in your [diabetes meal plan](https://medlineplus.gov/diabeticdiet.html), physical activity plan, or [diabetes medicines](https://medlineplus.gov/diabetesmedicines.html).
+If you often have high blood glucose levels or symptoms of high blood glucose, talk with your health care team. You may need a change in your [diabetes meal plan](Diabetic%20Diet.md), physical activity plan, or [diabetes medicines](Diabetes%20Medicines.md).
 
-High blood glucose may also be caused by other conditions that can affect insulin or glucose levels in your blood. These conditions include problems with your [pancreas](https://medlineplus.gov/pancreaticdiseases.html) or [adrenal glands](https://medlineplus.gov/adrenalglanddisorders.html).
+High blood glucose may also be caused by other conditions that can affect insulin or glucose levels in your blood. These conditions include problems with your [pancreas](Pancreatic%20Diseases.md) or [adrenal glands](Adrenal%20Gland%20Disorders.md).
 
 #### What happens if my blood glucose level becomes low for me?
 
-[Hypoglycemia](https://medlineplus.gov/hypoglycemia.html), also called low blood glucose, happens when your blood glucose level drops below what is healthy for you. For many people with diabetes, this means a blood glucose reading lower than 70 mg/dL. Your number might be different, so check with your health care team to find out what blood glucose level is low for you.
+[Hypoglycemia](Hypoglycemia.md), also called low blood glucose, happens when your blood glucose level drops below what is healthy for you. For many people with diabetes, this means a blood glucose reading lower than 70 mg/dL. Your number might be different, so check with your health care team to find out what blood glucose level is low for you.
 
 Symptoms of low blood glucose tend to come on quickly. The symptoms can be different for everyone, but they may include:
 
@@ -53,26 +53,26 @@ Symptoms of low blood glucose tend to come on quickly. The symptoms can be diffe
 - Sweating
 - Nervousness or anxiety
 - Irritability or confusion
-- [Dizziness](https://medlineplus.gov/dizzinessandvertigo.html)
+- [Dizziness](Dizziness%20and%20Vertigo.md)
 - Hunger
 
-Low blood glucose levels can be common in people with [type 1 diabetes](https://medlineplus.gov/diabetestype1.html) and people with [type 2 diabetes](https://medlineplus.gov/diabetestype2.html) who take certain diabetes medicines. If you think you may have low blood glucose, check your level, even if you don't have symptoms. Low blood glucose can be dangerous and should be treated as soon as possible.
+Low blood glucose levels can be common in people with [type 1 diabetes](Diabetes%20Type%201.md) and people with [type 2 diabetes](Diabetes%20Type%202.md) who take certain diabetes medicines. If you think you may have low blood glucose, check your level, even if you don't have symptoms. Low blood glucose can be dangerous and should be treated as soon as possible.
 
-Although it's rare, you can still get low blood glucose without having diabetes. The causes can include conditions such as [liver disease](https://medlineplus.gov/liverdiseases.html), [kidney disease](https://medlineplus.gov/kidneydiseases.html), and [hormone](https://medlineplus.gov/hormones.html) deficiencies (lack of certain hormones). Some medicines, such as certain heart medicines and [antibiotics](https://medlineplus.gov/antibiotics.html), can also cause it. See your provider to find out the cause of your low blood glucose and how to treat it.
+Although it's rare, you can still get low blood glucose without having diabetes. The causes can include conditions such as [liver disease](Liver%20Diseases.md), [kidney disease](Kidney%20Diseases.md), and [hormone](Hormones.md) deficiencies (lack of certain hormones). Some medicines, such as certain heart medicines and [antibiotics](Antibiotics.md), can also cause it. See your provider to find out the cause of your low blood glucose and how to treat it.
 
 NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- A1C
-- Carbohydrates
-- Diabetes
-- Diabetes in Children and Teens
-- Diabetes Medicines
-- Diabetic Diet
-- Hyperglycemia
-- Hypoglycemia
+- [A1C](A1C.md)
+- [Carbohydrates](Carbohydrates.md)
+- [Diabetes](Diabetes.md)
+- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
+- [Diabetes Medicines](Diabetes%20Medicines.md)
+- [Diabetic Diet](Diabetic%20Diet.md)
+- [Hyperglycemia](Hyperglycemia.md)
+- [Hypoglycemia](Hypoglycemia.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/bloodglucose.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/bloodglucose.html). General information, not medical advice.*

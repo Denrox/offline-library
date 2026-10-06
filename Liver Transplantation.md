@@ -6,7 +6,7 @@ Your liver is the largest organ inside your body. It helps your body digest food
 
 During a liver transplantation, the surgeon removes the diseased liver and replaces it with a healthy one. Most transplant livers come from a donor who has died. Sometimes there is a living donor. This is when a healthy person donates part of his or her liver for a specific patient.
 
-The most common reason for a transplant in adults is [cirrhosis](https://medlineplus.gov/cirrhosis.html). This is scarring of the liver, caused by injury or long-term disease. The most common reason in children is biliary atresia, a disease of the [bile ducts](https://medlineplus.gov/bileductdiseases.html).
+The most common reason for a transplant in adults is [cirrhosis](Cirrhosis.md). This is scarring of the liver, caused by injury or long-term disease. The most common reason in children is biliary atresia, a disease of the [bile ducts](Bile%20Duct%20Diseases.md).
 
 If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new liver.
 
@@ -14,11 +14,11 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Cirrhosis
-- Hepatitis
-- Liver Diseases
-- Organ Transplantation
+- [Cirrhosis](Cirrhosis.md)
+- [Hepatitis](Hepatitis.md)
+- [Liver Diseases](Liver%20Diseases.md)
+- [Organ Transplantation](Organ%20Transplantation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/livertransplantation.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/livertransplantation.html). General information, not medical advice.*

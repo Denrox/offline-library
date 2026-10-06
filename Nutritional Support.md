@@ -13,8 +13,8 @@ You receive nutritional support through a needle or catheter placed in your vein
 
 ## Related topics
 
-- Nutrition
+- [Nutrition](Nutrition.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/nutritionalsupport.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/nutritionalsupport.html). General information, not medical advice.*

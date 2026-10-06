@@ -16,8 +16,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Parasitic Diseases
+- [Parasitic Diseases](Parasitic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/scabies.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/scabies.html). General information, not medical advice.*

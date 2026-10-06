@@ -4,7 +4,7 @@
 
 #### What is an MRI scan?
 
-Magnetic resonance imaging (MRI) is an [imaging test](https://medlineplus.gov/diagnosticimaging.html) that is usually painless and uses magnets, radio waves, and a computer to create detailed pictures of the inside of your body. MRI scans show organs and soft tissues clearly and can help tell healthy from unhealthy tissue in many cases.
+Magnetic resonance imaging (MRI) is an [imaging test](Diagnostic%20Imaging.md) that is usually painless and uses magnets, radio waves, and a computer to create detailed pictures of the inside of your body. MRI scans show organs and soft tissues clearly and can help tell healthy from unhealthy tissue in many cases.
 
 #### Who needs an MRI scan?
 
@@ -16,7 +16,7 @@ MRI may be used to look at:
 - Muscles, ligaments, and tendons
 - Joints, such as the knee or shoulder
 
-MRI does not use [x-rays](https://medlineplus.gov/xrays.html) or other [radiation](https://medlineplus.gov/radiationexposure.html). Because of this, it may be used when repeat imaging is needed.
+MRI does not use [x-rays](X-Rays.md) or other [radiation](Radiation%20Exposure.md). Because of this, it may be used when repeat imaging is needed.
 
 #### How do you prepare for an MRI scan?
 
@@ -26,17 +26,17 @@ Before your MRI, you will need to remove items such as:
 
 - Jewelry and watches
 - Hairpins
-- [Hearing aids](https://medlineplus.gov/hearingaids.html)
+- [Hearing aids](Hearing%20Aids.md)
 
 Before your MRI, tell your health care provider if you:
 
 - Are pregnant
-- Are [breastfeeding](https://medlineplus.gov/breastfeeding.html), especially if you may receive contrast material (a substance that helps some parts of your body show up more clearly on the images)
-- Feel anxious in enclosed spaces ([claustrophobic](https://medlineplus.gov/phobias.html))
-- Have [kidney problems](https://medlineplus.gov/kidneydiseases.html)
+- Are [breastfeeding](Breastfeeding.md), especially if you may receive contrast material (a substance that helps some parts of your body show up more clearly on the images)
+- Feel anxious in enclosed spaces ([claustrophobic](Phobias.md))
+- Have [kidney problems](Kidney%20Diseases.md)
 - Have metal in your body, such as bullets, shrapnel, or other metal fragments
-- Have metal or electronic devices in your body, such as a [pacemaker](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html), artificial joint, or other implants
-- Have [tattoos or permanent makeup](https://medlineplus.gov/piercingandtattoos.html), since some darker inks may contain metal
+- Have metal or electronic devices in your body, such as a [pacemaker](Pacemakers%20and%20Implantable%20Defibrillators.md), artificial joint, or other implants
+- Have [tattoos or permanent makeup](Piercing%20and%20Tattoos.md), since some darker inks may contain metal
 
 #### How is an MRI scan done?
 
@@ -54,8 +54,8 @@ A specialist called a radiologist reviews the images and shares them with your p
 
 ## Related topics
 
-- Diagnostic Imaging
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mriscans.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mriscans.html). General information, not medical advice.*

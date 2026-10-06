@@ -2,11 +2,11 @@
 
 #### What is immunotherapy?
 
-Immunotherapy is a [cancer](https://medlineplus.gov/cancer.html) treatment that helps your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) fight cancer. It is a type of biological therapy. Biological therapy uses substances made from living organisms or versions of these substances made in a lab. Immunotherapy isn't used for all cancers, and the response to treatment varies. If you're getting immunotherapy, your health care provider will monitor your treatment closely.
+Immunotherapy is a [cancer](Cancer.md) treatment that helps your [immune system](Immune%20System%20and%20Disorders.md) fight cancer. It is a type of biological therapy. Biological therapy uses substances made from living organisms or versions of these substances made in a lab. Immunotherapy isn't used for all cancers, and the response to treatment varies. If you're getting immunotherapy, your health care provider will monitor your treatment closely.
 
 #### When is immunotherapy used for cancer treatment?
 
-Immunotherapy isn't used as often as other cancer treatments, such as surgery, [chemotherapy](https://medlineplus.gov/cancerchemotherapy.html), and [radiation therapy](https://medlineplus.gov/radiationtherapy.html). But immunotherapy is used for some types of cancer, and researchers are doing clinical trials to see whether it also works for other types.
+Immunotherapy isn't used as often as other cancer treatments, such as surgery, [chemotherapy](Cancer%20Chemotherapy.md), and [radiation therapy](Radiation%20Therapy.md). But immunotherapy is used for some types of cancer, and researchers are doing clinical trials to see whether it also works for other types.
 
 #### How does immunotherapy work against cancer?
 
@@ -28,4 +28,4 @@ NIH: National Cancer Institute
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/cancerimmunotherapy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/cancerimmunotherapy.html). General information, not medical advice.*

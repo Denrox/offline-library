@@ -1,6 +1,6 @@
 # Aortic Aneurysm
 
-An [aneurysm](https://medlineplus.gov/aneurysms.html) is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death.
+An [aneurysm](Aneurysms.md) is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death.
 
 Most aneurysms are in the aorta, the main artery that runs from the heart through the chest and abdomen.
 
@@ -15,9 +15,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Aneurysms
-- Heart Health Tests
+- [Aneurysms](Aneurysms.md)
+- [Heart Health Tests](Heart%20Health%20Tests.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/aorticaneurysm.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/aorticaneurysm.html). General information, not medical advice.*

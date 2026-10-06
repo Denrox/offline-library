@@ -27,7 +27,7 @@ Some of the benefits of telehealth include:
 - Getting care after office hours
 - More communication with your providers
 - Better communication and coordination between health care providers
-- More support for people who are managing their health conditions, especially chronic conditions such as [diabetes](https://medlineplus.gov/diabetes.html)
+- More support for people who are managing their health conditions, especially chronic conditions such as [diabetes](Diabetes.md)
 - Lower cost, since virtual visits may be cheaper than in-person visits
 
 #### What are the problems with telehealth?
@@ -44,20 +44,20 @@ Some of the problems with telehealth include:
 
 The types of care that you can get using telehealth may include:
 
-- General health care, like [wellness visits](https://medlineplus.gov/healthcheckup.html)
+- General health care, like [wellness visits](Health%20Checkup.md)
 - Prescriptions for medicine
 - Dermatology (skin care)
-- [Eye exams](https://medlineplus.gov/eyecare.html)
+- [Eye exams](Eye%20Care.md)
 - Nutrition counseling
 - Mental health counseling
-- Urgent care conditions, such as [sinusitis](https://medlineplus.gov/sinusitis.html), [urinary tract infections](https://medlineplus.gov/urinarytractinfections.html), [common rashes](https://medlineplus.gov/rashes.html), etc.
+- Urgent care conditions, such as [sinusitis](Sinusitis.md), [urinary tract infections](Urinary%20Tract%20Infections.md), [common rashes](Rashes.md), etc.
 
-For telehealth visits, just like with an in-person visit, it is important to be prepared and have [good communication with the provider](https://medlineplus.gov/talkingwithyourdoctor.html).
+For telehealth visits, just like with an in-person visit, it is important to be prepared and have [good communication with the provider](Talking%20With%20Your%20Doctor.md).
 
 ## Related topics
 
-- Talking With Your Doctor
+- [Talking With Your Doctor](Talking%20With%20Your%20Doctor.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/telehealth.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/telehealth.html). General information, not medical advice.*

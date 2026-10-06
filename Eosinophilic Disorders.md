@@ -13,12 +13,12 @@ Normally your blood doesn't have a large number of eosinophils. Your body may pr
 - Some cancers
 - Bone marrow disorders
 
-In some conditions, the eosinophils can move outside the bloodstream and build up in organs and tissues. This can happen in many different parts of the body, including the [esophagus](https://medlineplus.gov/eosinophilicesophagitis.html), heart, lungs, blood, and intestines. Treatment of eosinophilic disorders can vary, depending on the cause and which part of the body is affected. [Steroids](https://medlineplus.gov/steroids.html) are often part of the treatment.
+In some conditions, the eosinophils can move outside the bloodstream and build up in organs and tissues. This can happen in many different parts of the body, including the [esophagus](Eosinophilic%20Esophagitis.md), heart, lungs, blood, and intestines. Treatment of eosinophilic disorders can vary, depending on the cause and which part of the body is affected. [Steroids](Steroids.md) are often part of the treatment.
 
 ## Related topics
 
-- Eosinophilic Esophagitis
+- [Eosinophilic Esophagitis](Eosinophilic%20Esophagitis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eosinophilicdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eosinophilicdisorders.html). General information, not medical advice.*

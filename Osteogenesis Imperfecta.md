@@ -2,7 +2,7 @@
 
 *Also called: Brittle bone disease, OI*
 
-Osteogenesis imperfecta (OI) is a genetic disorder in which bones [fracture](https://medlineplus.gov/fractures.html) (break) easily. Sometimes the fractures happen for no known reason. OI can also cause weak muscles, brittle teeth, a curved spine, and hearing loss. OI is caused by one of several genes that aren't working properly. When these genes don't work, it affects how you make collagen, a protein that helps make bones strong.
+Osteogenesis imperfecta (OI) is a genetic disorder in which bones [fracture](Fractures.md) (break) easily. Sometimes the fractures happen for no known reason. OI can also cause weak muscles, brittle teeth, a curved spine, and hearing loss. OI is caused by one of several genes that aren't working properly. When these genes don't work, it affects how you make collagen, a protein that helps make bones strong.
 
 OI can range from mild to severe, and symptoms vary from person to person. A person may have just a few or as many as several hundred fractures in a lifetime.
 
@@ -12,9 +12,9 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
-- Bone Diseases
-- Connective Tissue Disorders
+- [Bone Diseases](Bone%20Diseases.md)
+- [Connective Tissue Disorders](Connective%20Tissue%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/osteogenesisimperfecta.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/osteogenesisimperfecta.html). General information, not medical advice.*

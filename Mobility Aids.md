@@ -4,7 +4,7 @@
 
 #### What are mobility aids?
 
-Mobility aids help you walk or move from place to place if you have a [disability](https://medlineplus.gov/disabilities.html) or an injury.
+Mobility aids help you walk or move from place to place if you have a [disability](Disabilities.md) or an injury.
 
 Types of mobility aids can include:
 
@@ -21,7 +21,7 @@ Ramps, stairlifts, and handrails are also mobility aids. These additions can hel
 
 Mobility aids can help people who have a physical disability or trouble moving around be more independent. A few reasons a mobility aid might help you include:
 
-- If you are at [risk of falling](https://medlineplus.gov/falls.html) or are healing from a lower-body injury, you may need a walker or cane.
+- If you are at [risk of falling](Falls.md) or are healing from a lower-body injury, you may need a walker or cane.
 - You may use crutches to keep your body weight off your foot, ankle, or knee.
 - You may need a wheelchair or a scooter if an injury or disease has left you unable to walk.
 - Various mobility aids may also benefit people with certain health conditions or older adults.
@@ -32,8 +32,8 @@ Your health care provider or a physical therapist may help you choose a mobility
 
 ## Related topics
 
-- Assistive Devices
+- [Assistive Devices](Assistive%20Devices.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mobilityaids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mobilityaids.html). General information, not medical advice.*

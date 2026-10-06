@@ -11,10 +11,10 @@ If you have already hurt yourself playing a sport, make sure you recover complet
 
 ## Related topics
 
-- Sports Fitness
-- Sports Injuries
-- Water Safety (Recreational)
+- [Sports Fitness](Sports%20Fitness.md)
+- [Sports Injuries](Sports%20Injuries.md)
+- [Water Safety (Recreational)](Water%20Safety%20%28Recreational%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sportssafety.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sportssafety.html). General information, not medical advice.*

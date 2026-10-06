@@ -1,6 +1,6 @@
 # Rotavirus Infections
 
-Rotavirus is a virus that causes [gastroenteritis](https://medlineplus.gov/gastroenteritis.html). Symptoms include severe [diarrhea](https://medlineplus.gov/diarrhea.html), vomiting, fever, and dehydration. Almost all children in the U.S. are likely to be infected with rotavirus before their 5th birthday.
+Rotavirus is a virus that causes [gastroenteritis](Gastroenteritis.md). Symptoms include severe [diarrhea](Diarrhea.md), vomiting, fever, and dehydration. Almost all children in the U.S. are likely to be infected with rotavirus before their 5th birthday.
 
 Infections happen most often in the winter and spring. It is very easy for children with the virus to spread it to other children and sometimes to adults. Once a child gets the virus, it takes about two days to become sick. Vomiting and diarrhea may last from three to eight days.
 
@@ -10,9 +10,9 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Diarrhea
-- Gastroenteritis
+- [Diarrhea](Diarrhea.md)
+- [Gastroenteritis](Gastroenteritis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rotavirusinfections.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rotavirusinfections.html). General information, not medical advice.*

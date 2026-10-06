@@ -4,7 +4,7 @@
 
 #### What is HIV?
 
-[HIV](https://medlineplus.gov/hiv.html) stands for human immunodeficiency virus. It harms your immune system by destroying CD4 cells. These are a type of white blood cells that fight infection. The loss of these cells makes it hard for your body to fight off [infections](https://medlineplus.gov/hivandinfections.html) and certain HIV-related cancers.
+[HIV](HIV.md) stands for human immunodeficiency virus. It harms your immune system by destroying CD4 cells. These are a type of white blood cells that fight infection. The loss of these cells makes it hard for your body to fight off [infections](HIV%20and%20Infections.md) and certain HIV-related cancers.
 
 Without treatment, HIV can gradually destroy the immune system and advance to AIDS. AIDS stands for acquired immunodeficiency syndrome. It is the final stage of infection with HIV. Not everyone with HIV develops AIDS.
 
@@ -42,7 +42,7 @@ There are also **multidrug combinations**, which include a combination of two or
 
 It's important to start taking HIV medicines as soon as possible after your diagnosis, especially if you:
 
-- Are [pregnant](https://medlineplus.gov/hivandpregnancy.html)
+- Are [pregnant](HIV%20and%20Pregnancy.md)
 - Have AIDS
 - Have certain HIV-related illnesses and infections
 - Have an early HIV infection (the first 6 months after infection with HIV)
@@ -52,7 +52,7 @@ It's important to start taking HIV medicines as soon as possible after your diag
 You and your health care provider will work together to come up with a personal treatment plan. This plan will be based on many factors, including:
 
 - The possible side effects of HIV medicines
-- Potential [drug interactions](https://medlineplus.gov/drugreactions.html) with any other medicines you take
+- Potential [drug interactions](Drug%20Reactions.md) with any other medicines you take
 - How many medicines you will need to take every day
 - Any other health problems you may have
 
@@ -62,15 +62,15 @@ HIV medicines can cause side effects. Most of these side effects are manageable,
 
 #### What are HIV PrEP and PEP medicines?
 
-HIV medicines are not just used for treatment. Some people take them to [prevent HIV](https://medlineplus.gov/hivprepandpep.html). PrEP (pre-exposure prophylaxis) is for people who don't already have HIV but are at very high risk of getting it. PEP (post-exposure prophylaxis) is for people who have possibly been exposed to HIV.
+HIV medicines are not just used for treatment. Some people take them to [prevent HIV](HIV%20PrEP%20and%20PEP.md). PrEP (pre-exposure prophylaxis) is for people who don't already have HIV but are at very high risk of getting it. PEP (post-exposure prophylaxis) is for people who have possibly been exposed to HIV.
 
 NIH: Office of AIDS Research
 
 ## Related topics
 
-- HIV
-- HIV: PrEP and PEP
+- [HIV](HIV.md)
+- [HIV: PrEP and PEP](HIV%20PrEP%20and%20PEP.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hivmedicines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hivmedicines.html). General information, not medical advice.*

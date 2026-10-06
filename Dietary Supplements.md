@@ -1,6 +1,6 @@
 # Dietary Supplements
 
-Dietary supplements are [vitamins](https://medlineplus.gov/vitamins.html), [minerals](https://medlineplus.gov/minerals.html), [herbs](https://medlineplus.gov/herbalmedicine.html), and many other products. They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do.
+Dietary supplements are [vitamins](Vitamins.md), [minerals](Minerals.md), [herbs](Herbal%20Medicine.md), and many other products. They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do.
 
 Some supplements can play an important role in health. For example, calcium and vitamin D are important for keeping bones strong. Pregnant women can take the vitamin folic acid to prevent certain birth defects in their babies.
 
@@ -15,13 +15,13 @@ NIH: National Institutes of Health Office of Dietary Supplements
 
 ## Related topics
 
-- Antioxidants
-- Calcium
-- Complementary and Integrative Medicine
-- Folic Acid
-- Herbal Medicine
-- Vitamins
+- [Antioxidants](Antioxidants.md)
+- [Calcium](Calcium.md)
+- [Complementary and Integrative Medicine](Complementary%20and%20Integrative%20Medicine.md)
+- [Folic Acid](Folic%20Acid.md)
+- [Herbal Medicine](Herbal%20Medicine.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/dietarysupplements.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/dietarysupplements.html). General information, not medical advice.*

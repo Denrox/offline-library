@@ -4,15 +4,15 @@
 
 #### What is vision impairment?
 
-Vision impairment is the loss of vision. It includes blindness, which means that you have lost all or most of your sight. It also includes low vision, which means you have some vision, but the vision loss makes it hard to do everyday activities. You may have trouble reading, shopping, cooking, writing, and watching TV. Low vision can't be fixed with [glasses, contact lenses](https://medlineplus.gov/eyewear.html), medicine, or surgery.
+Vision impairment is the loss of vision. It includes blindness, which means that you have lost all or most of your sight. It also includes low vision, which means you have some vision, but the vision loss makes it hard to do everyday activities. You may have trouble reading, shopping, cooking, writing, and watching TV. Low vision can't be fixed with [glasses, contact lenses](Eyewear.md), medicine, or surgery.
 
 #### What causes vision impairment?
 
-Aging doesn't cause vision loss on its own. But many diseases that are more common in older adults can cause it. The leading causes of low vision and blindness in the United States are age-related eye diseases such as [macular degeneration](https://medlineplus.gov/maculardegeneration.html), [cataracts](https://medlineplus.gov/cataract.html), and [glaucoma](https://medlineplus.gov/glaucoma.html). Other [eye disorders](https://medlineplus.gov/eyediseases.html), [eye injuries](https://medlineplus.gov/eyeinjuries.html), and [birth defects](https://medlineplus.gov/birthdefects.html) can also cause vision loss.
+Aging doesn't cause vision loss on its own. But many diseases that are more common in older adults can cause it. The leading causes of low vision and blindness in the United States are age-related eye diseases such as [macular degeneration](Macular%20Degeneration.md), [cataracts](Cataract.md), and [glaucoma](Glaucoma.md). Other [eye disorders](Eye%20Diseases.md), [eye injuries](Eye%20Injuries.md), and [birth defects](Birth%20Defects.md) can also cause vision loss.
 
 #### How is vision impairment diagnosed?
 
-Vision impairment is diagnosed with a [dilated eye exam](https://medlineplus.gov/eyecare.html). Early warning signs of a vision problem can include not being able to see well enough to:
+Vision impairment is diagnosed with a [dilated eye exam](Eye%20Care.md). Early warning signs of a vision problem can include not being able to see well enough to:
 
 - Do everyday tasks like reading and driving
 - Recognize people's faces
@@ -43,7 +43,7 @@ Vision rehabilitation teaches you how to live with your vision loss. It may incl
 - Showing you how to use a magnifying device or screen readers for reading
 - Helping you set up your home so you can move around more easily
 - Employment and job training
-- [Assistive devices](https://medlineplus.gov/assistivedevices.html), like lighting and reading stands
+- [Assistive devices](Assistive%20Devices.md), like lighting and reading stands
 
 Your provider may suggest other resources, such as transportation and household services, to help you cope with your vision loss.
 
@@ -72,26 +72,26 @@ You can help take care of your vision by:
 - Wearing sunglasses and protective eyewear to protect your eyes
 - Making lifestyle changes to lower your risk of health conditions that can cause vision problems:
 
- - [Getting regular physical activity](https://medlineplus.gov/howmuchexercisedoineed.html)
- - [Staying at a healthy weight](https://medlineplus.gov/weightcontrol.html)
- - [Quitting smoking](https://medlineplus.gov/quittingsmoking.html) (or not starting)
- - [Eating a healthy diet](https://medlineplus.gov/nutrition.html)
+ - [Getting regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
+ - [Staying at a healthy weight](Weight%20Control.md)
+ - [Quitting smoking](Quitting%20Smoking.md) (or not starting)
+ - [Eating a healthy diet](Nutrition.md)
 
 NIH: National Eye Institute
 
 ## Related topics
 
-- Amblyopia
-- Assistive Devices
-- Cataract
-- Diabetic Eye Problems
-- Eye Care
-- Eye Diseases
-- Eye Injuries
-- Glaucoma
-- Macular Degeneration
-- Retinal Disorders
+- [Amblyopia](Amblyopia.md)
+- [Assistive Devices](Assistive%20Devices.md)
+- [Cataract](Cataract.md)
+- [Diabetic Eye Problems](Diabetic%20Eye%20Problems.md)
+- [Eye Care](Eye%20Care.md)
+- [Eye Diseases](Eye%20Diseases.md)
+- [Eye Injuries](Eye%20Injuries.md)
+- [Glaucoma](Glaucoma.md)
+- [Macular Degeneration](Macular%20Degeneration.md)
+- [Retinal Disorders](Retinal%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/visionimpairmentandblindness.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/visionimpairmentandblindness.html). General information, not medical advice.*

@@ -16,8 +16,8 @@ National Highway Traffic Safety Administration
 
 ## Related topics
 
-- Motor Vehicle Safety
+- [Motor Vehicle Safety](Motor%20Vehicle%20Safety.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/impaireddriving.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/impaireddriving.html). General information, not medical advice.*

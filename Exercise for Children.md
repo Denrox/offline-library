@@ -1,6 +1,6 @@
 # Exercise for Children
 
-Like adults, kids need exercise. Most children [need at least an hour of physical activity](https://medlineplus.gov/howmuchexercisedoineed.html) every day. Regular exercise has many [benefits](https://medlineplus.gov/benefitsofexercise.html) for children. It can help them:
+Like adults, kids need exercise. Most children [need at least an hour of physical activity](How%20Much%20Exercise%20Do%20I%20Need.md) every day. Regular exercise has many [benefits](Benefits%20of%20Exercise.md) for children. It can help them:
 
 - Feel less stressed
 - Feel better about themselves
@@ -13,10 +13,10 @@ As kids spend more time watching TV, they spend less time running and playing. P
 
 ## Related topics
 
-- Benefits of Exercise
-- Exercise and Physical Fitness
-- Sports Fitness
+- [Benefits of Exercise](Benefits%20of%20Exercise.md)
+- [Exercise and Physical Fitness](Exercise%20and%20Physical%20Fitness.md)
+- [Sports Fitness](Sports%20Fitness.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/exerciseforchildren.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/exerciseforchildren.html). General information, not medical advice.*

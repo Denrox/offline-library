@@ -11,4 +11,4 @@ Some eye movement disorders are present at birth. Others develop over time and m
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/eyemovementdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/eyemovementdisorders.html). General information, not medical advice.*

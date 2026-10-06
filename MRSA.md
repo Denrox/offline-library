@@ -2,9 +2,9 @@
 
 *Also called: Methicillin-resistant Staphylococcus aureus*
 
-MRSA stands for methicillin-resistant Staphylococcus aureus. It causes a [staph infection](https://medlineplus.gov/staphylococcalinfections.html) (pronounced "staff infection") that is resistant to several common [antibiotics](https://medlineplus.gov/antibiotics.html). There are two types of infection. Hospital-associated MRSA happens to people in health care settings. Community-associated MRSA happens to people who have close skin-to-skin contact with others, such as athletes involved in football and wrestling.
+MRSA stands for methicillin-resistant Staphylococcus aureus. It causes a [staph infection](Staphylococcal%20Infections.md) (pronounced "staff infection") that is resistant to several common [antibiotics](Antibiotics.md). There are two types of infection. Hospital-associated MRSA happens to people in health care settings. Community-associated MRSA happens to people who have close skin-to-skin contact with others, such as athletes involved in football and wrestling.
 
-[Infection control](https://medlineplus.gov/infectioncontrol.html) is key to stopping MRSA in hospitals. To prevent community-associated MRSA:
+[Infection control](Infection%20Control.md) is key to stopping MRSA in hospitals. To prevent community-associated MRSA:
 
 - Practice good hygiene
 - Keep cuts and scrapes clean and covered with a bandage until healed
@@ -16,11 +16,11 @@ If a wound appears to be infected, see a health care provider. Treatments may in
 
 ## Related topics
 
-- Antibiotic Resistance
-- Antibiotics
-- Infection Control
-- Staphylococcal Infections
+- [Antibiotic Resistance](Antibiotic%20Resistance.md)
+- [Antibiotics](Antibiotics.md)
+- [Infection Control](Infection%20Control.md)
+- [Staphylococcal Infections](Staphylococcal%20Infections.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mrsa.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mrsa.html). General information, not medical advice.*

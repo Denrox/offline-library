@@ -2,7 +2,7 @@
 
 *Also called: MDS*
 
-Your [bone marrow](https://medlineplus.gov/bonemarrowdiseases.html) is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains immature cells, called stem cells. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. If you have a myelodysplastic syndrome, the stem cells do not mature into healthy blood cells. Many of them die in the bone marrow. This means that you do not have enough healthy cells, which can lead to infection, [anemia](https://medlineplus.gov/anemia.html), or easy bleeding.
+Your [bone marrow](Bone%20Marrow%20Diseases.md) is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains immature cells, called stem cells. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. If you have a myelodysplastic syndrome, the stem cells do not mature into healthy blood cells. Many of them die in the bone marrow. This means that you do not have enough healthy cells, which can lead to infection, [anemia](Anemia.md), or easy bleeding.
 
 Myelodysplastic syndromes often do not cause early symptoms and are sometimes found during a routine blood test. If you have symptoms, they may include:
 
@@ -19,8 +19,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Bone Marrow Diseases
+- [Bone Marrow Diseases](Bone%20Marrow%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/myelodysplasticsyndromes.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/myelodysplasticsyndromes.html). General information, not medical advice.*

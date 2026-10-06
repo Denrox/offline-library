@@ -4,7 +4,7 @@
 
 #### What is an x-ray?
 
-X-rays are a painless medical [imaging test](https://medlineplus.gov/diagnosticimaging.html). They send a small amount of radiation through your body to create pictures of bones and organs.
+X-rays are a painless medical [imaging test](Diagnostic%20Imaging.md). They send a small amount of radiation through your body to create pictures of bones and organs.
 
 X-rays are a type of electromagnetic radiation. They create images in shades of black, white, and gray because different tissues absorb radiation differently. Bones absorb the most radiation and appear white. Fat and other soft tissues absorb less and appear gray. Air absorbs the least radiation, so areas like the lungs appear black.
 
@@ -12,13 +12,13 @@ The image is recorded on film or sent to a computer. Health care providers use x
 
 #### Who needs an x-ray?
 
-X-rays are commonly used to check for [fractures](https://medlineplus.gov/fractures.html) (broken bones). They are also used for other purposes. For example, chest x-rays can detect [pneumonia](https://medlineplus.gov/pneumonia.html). [Mammograms](https://medlineplus.gov/mammography.html) use x-rays to look for breast cancer. X-rays are also used as part of other imaging tests, such as [CT scans](https://medlineplus.gov/ctscans.html).
+X-rays are commonly used to check for [fractures](Fractures.md) (broken bones). They are also used for other purposes. For example, chest x-rays can detect [pneumonia](Pneumonia.md). [Mammograms](Mammography.md) use x-rays to look for breast cancer. X-rays are also used as part of other imaging tests, such as [CT scans](CT%20Scans.md).
 
 #### How do you prepare for an x-ray?
 
 In most cases, little or no preparation is needed. You may be asked to wear a lead apron to protect certain parts of your body. You may also be asked to remove jewelry or other items that could affect the image.
 
-The amount of [radiation](https://medlineplus.gov/radiationexposure.html) from an x-ray is small. For example, the radiation from a chest x-ray is about the same as the natural radiation you are exposed to from the environment over about 10 days.
+The amount of [radiation](Radiation%20Exposure.md) from an x-ray is small. For example, the radiation from a chest x-ray is about the same as the natural radiation you are exposed to from the environment over about 10 days.
 
 Always tell your provider if you are pregnant or think you may be pregnant.
 
@@ -32,9 +32,9 @@ After an x-ray, you can return to normal activities right away. A specialist cal
 
 ## Related topics
 
-- CT Scans
-- Diagnostic Imaging
+- [CT Scans](CT%20Scans.md)
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/xrays.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/xrays.html). General information, not medical advice.*

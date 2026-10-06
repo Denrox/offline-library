@@ -4,7 +4,7 @@
 
 Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time. This tissue gets thick and stiff. That makes it hard for you to catch your breath, and your blood may not get enough oxygen.
 
-Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease. [Interstitial lung disease](https://medlineplus.gov/interstitiallungdiseases.html) is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found. This is called idiopathic pulmonary fibrosis.
+Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease. [Interstitial lung disease](Interstitial%20Lung%20Diseases.md) is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found. This is called idiopathic pulmonary fibrosis.
 
 Symptoms include:
 
@@ -21,9 +21,9 @@ NIH: National Heart, Lung, and Blood Institute
 
 ## Related topics
 
-- Interstitial Lung Diseases
-- Pulmonary Rehabilitation
+- [Interstitial Lung Diseases](Interstitial%20Lung%20Diseases.md)
+- [Pulmonary Rehabilitation](Pulmonary%20Rehabilitation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pulmonaryfibrosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pulmonaryfibrosis.html). General information, not medical advice.*

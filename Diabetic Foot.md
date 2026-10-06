@@ -2,17 +2,17 @@
 
 #### What is diabetes?
 
-[Diabetes](https://medlineplus.gov/diabetes.html) is a disease in which your blood glucose, or [blood sugar](https://medlineplus.gov/bloodglucose.html), levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
+[Diabetes](Diabetes.md) is a disease in which your blood glucose, or [blood sugar](Blood%20Glucose.md), levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
 
-With [type 1 diabetes](https://medlineplus.gov/diabetestype1.html), your body doesn't make insulin. With [type 2 diabetes](https://medlineplus.gov/diabetestype2.html), your body doesn't make or use insulin well. Without enough insulin, glucose can't get into your cells as quickly as usual. The glucose builds up in your blood and causes high blood sugar levels.
+With [type 1 diabetes](Diabetes%20Type%201.md), your body doesn't make insulin. With [type 2 diabetes](Diabetes%20Type%202.md), your body doesn't make or use insulin well. Without enough insulin, glucose can't get into your cells as quickly as usual. The glucose builds up in your blood and causes high blood sugar levels.
 
 #### How does diabetes cause foot problems?
 
-Foot problems are common in people with diabetes. They can happen over time when high blood sugar damages the nerves and blood vessels in the feet. The nerve damage, called [diabetic neuropathy](https://medlineplus.gov/diabeticnerveproblems.html), can cause numbness, tingling, pain, or a loss of feeling in your feet.
+Foot problems are common in people with diabetes. They can happen over time when high blood sugar damages the nerves and blood vessels in the feet. The nerve damage, called [diabetic neuropathy](Diabetic%20Nerve%20Problems.md), can cause numbness, tingling, pain, or a loss of feeling in your feet.
 
-If you can't feel pain, you may not know when you have a cut, [blister](https://medlineplus.gov/blisters.html), or ulcer (open sore) on your foot. A wound like that could get infected. The infection may not heal well because the damaged blood vessels can cause poor blood flow in your feet.
+If you can't feel pain, you may not know when you have a cut, [blister](Blisters.md), or ulcer (open sore) on your foot. A wound like that could get infected. The infection may not heal well because the damaged blood vessels can cause poor blood flow in your feet.
 
-Having an infection and poor blood flow can lead to [gangrene](https://medlineplus.gov/gangrene.html). That means the muscle, skin, and other tissues start to die. If you have gangrene or a foot ulcer that does not get better with treatment, you may need an [amputation](https://medlineplus.gov/limbloss.html). This is a surgery to cut off your damaged toe, foot, or part of your leg. It may prevent a bad infection from spreading and could save your life.
+Having an infection and poor blood flow can lead to [gangrene](Gangrene.md). That means the muscle, skin, and other tissues start to die. If you have gangrene or a foot ulcer that does not get better with treatment, you may need an [amputation](Limb%20Loss.md). This is a surgery to cut off your damaged toe, foot, or part of your leg. It may prevent a bad infection from spreading and could save your life.
 
 But there's a lot you can do to prevent a foot wound from becoming a major health problem.
 
@@ -24,7 +24,7 @@ Good foot care for people with diabetes includes:
 
 - **Checking your feet every day.** Look for cuts, redness, and other changes in the skin and toenails, including warts or other spots that your shoes could rub. Make sure to check the bottoms of your feet too.
 - **Washing your feet every day.** Use warm water and soap. Don't soak your feet because that can dry out your skin. After you dry your feet, you can use talcum powder or cornstarch between your toes. They soak up moisture that can cause infection. If you use lotion, don't apply it between your toes.
-- **Asking your doctor how to remove [corns and calluses](https://medlineplus.gov/cornsandcalluses.html) safely.** Thick skin on your feet can rub and lead to sores. But removing it the wrong way could damage your skin. So you don't want to cut the skin or use medicated pads or liquid removers.
+- **Asking your doctor how to remove [corns and calluses](Corns%20and%20Calluses.md) safely.** Thick skin on your feet can rub and lead to sores. But removing it the wrong way could damage your skin. So you don't want to cut the skin or use medicated pads or liquid removers.
 - **Trimming your toenails straight across with a clipper.** If it's hard for you to trim your own toenails, or if they're thick or curve into the skin, have a podiatrist (foot doctor) do it for you.
 - **Always wearing well-fitting shoes and socks or slippers to protect your feet when walking.** You don't want to walk barefoot, even indoors. And be sure your shoes are smooth inside. A seam or pebble could rub your skin raw.
 - **Protecting your feet from heat and cold.** Use sunscreen on exposed skin and don't walk barefoot at the beach. In cold weather, wear warm socks instead of warming your feet near a heater or fireplace.
@@ -46,12 +46,12 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Diabetes
-- Diabetes Complications
-- Diabetic Nerve Problems
-- Foot Health
-- Foot Injuries and Disorders
+- [Diabetes](Diabetes.md)
+- [Diabetes Complications](Diabetes%20Complications.md)
+- [Diabetic Nerve Problems](Diabetic%20Nerve%20Problems.md)
+- [Foot Health](Foot%20Health.md)
+- [Foot Injuries and Disorders](Foot%20Injuries%20and%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/diabeticfoot.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/diabeticfoot.html). General information, not medical advice.*

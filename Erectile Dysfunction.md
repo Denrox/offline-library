@@ -12,8 +12,8 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
-- Penis Disorders
+- [Penis Disorders](Penis%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/erectiledysfunction.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/erectiledysfunction.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 *Also called: SAD, Seasonal depression, Seasonal mood disorder*
 
-Seasonal affective disorder (SAD) is a type of [depression](https://medlineplus.gov/depression.html) that comes and goes with the seasons. It usually starts in the late fall and early winter and goes away during the spring and summer. Some people do have episodes of depression that start in the spring or summer, but that is a lot less common. Symptoms of SAD may include:
+Seasonal affective disorder (SAD) is a type of [depression](Depression.md) that comes and goes with the seasons. It usually starts in the late fall and early winter and goes away during the spring and summer. Some people do have episodes of depression that start in the spring or summer, but that is a lot less common. Symptoms of SAD may include:
 
 - Sadness
 - Gloomy outlook
@@ -11,7 +11,7 @@ Seasonal affective disorder (SAD) is a type of [depression](https://medlineplus.
 - Low energy
 - Difficulty sleeping or oversleeping
 - Carbohydrate cravings and weight gain
-- Thoughts of death or [suicide](https://medlineplus.gov/suicide.html)
+- Thoughts of death or [suicide](Suicide.md)
 
 SAD is more common in women, young people, and those who live far from the equator. You are also more likely to have SAD if you or your family members have depression.
 
@@ -23,4 +23,4 @@ NIH: National Institute of Mental Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/seasonalaffectivedisorder.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/seasonalaffectivedisorder.html). General information, not medical advice.*

@@ -4,17 +4,17 @@
 
 #### What is Sjogren's syndrome?
 
-Sjogren's syndrome, also called Sjogren's disease, is a chronic (long-lasting) [autoimmune disease](https://medlineplus.gov/autoimmunediseases.html). When you have an autoimmune disease, your [immune system](https://medlineplus.gov/immunesystemanddisorders.html) attacks healthy tissues and organs by mistake. In Sjogren's syndrome, your immune system attacks the glands that make moisture in the eyes, mouth, and other parts of the body. This causes a [dry mouth](https://medlineplus.gov/drymouth.html) and [dry eyes](https://medlineplus.gov/tears.html). You may have dryness in other places that need moisture, such as your nose, throat, and skin. Sjogren's can also affect other parts of the body, including your joints, lungs, kidneys, blood vessels, digestive organs, and nerves.
+Sjogren's syndrome, also called Sjogren's disease, is a chronic (long-lasting) [autoimmune disease](Autoimmune%20Diseases.md). When you have an autoimmune disease, your [immune system](Immune%20System%20and%20Disorders.md) attacks healthy tissues and organs by mistake. In Sjogren's syndrome, your immune system attacks the glands that make moisture in the eyes, mouth, and other parts of the body. This causes a [dry mouth](Dry%20Mouth.md) and [dry eyes](Tears.md). You may have dryness in other places that need moisture, such as your nose, throat, and skin. Sjogren's can also affect other parts of the body, including your joints, lungs, kidneys, blood vessels, digestive organs, and nerves.
 
 #### What causes Sjogren's syndrome?
 
-Normally, your immune system protects the body from infection and disease. But with Sjogren's syndrome and other autoimmune diseases, your immune system attacks healthy tissues and organs. Researchers don't know for sure what causes the immune system to do this. But they think that it is caused by a combination of [genetic](https://medlineplus.gov/genetics/condition/sjogren-syndrome/) and environmental factors. Studies have linked Sjogren's syndrome to [gene changes](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/genemutation/) in several genes. Some researchers also think that the disease may be triggered by something in the environment. For example, they think that one possible trigger could be a previous infection with a [virus](https://medlineplus.gov/viralinfections.html) or [bacteria](https://medlineplus.gov/bacterialinfections.html).
+Normally, your immune system protects the body from infection and disease. But with Sjogren's syndrome and other autoimmune diseases, your immune system attacks healthy tissues and organs. Researchers don't know for sure what causes the immune system to do this. But they think that it is caused by a combination of genetic and environmental factors. Studies have linked Sjogren's syndrome to gene changes in several genes. Some researchers also think that the disease may be triggered by something in the environment. For example, they think that one possible trigger could be a previous infection with a [virus](Viral%20Infections.md) or [bacteria](Bacterial%20Infections.md).
 
 #### Who is more likely to develop Sjogren's syndrome?
 
 Most people with Sjogren's syndrome are women. You can get it at any age, but it is most common in people in their 40s and 50s.
 
-Sjogren's syndrome is more common in people who have other autoimmune diseases such as [rheumatoid arthritis](https://medlineplus.gov/rheumatoidarthritis.html) and [lupus](https://medlineplus.gov/lupus.html). This is known as a **secondary form** of Sjogren's syndrome. People who don't have another autoimmune disease have a **primary form** of Sjogren's syndrome.
+Sjogren's syndrome is more common in people who have other autoimmune diseases such as [rheumatoid arthritis](Rheumatoid%20Arthritis.md) and [lupus](Lupus.md). This is known as a **secondary form** of Sjogren's syndrome. People who don't have another autoimmune disease have a **primary form** of Sjogren's syndrome.
 
 #### What are the symptoms of Sjogren's syndrome?
 
@@ -23,17 +23,17 @@ Sjogren's syndrome may have different effects on the body. Not everyone will hav
 The two main symptoms are:
 
 - **Dry eyes.** Your eyes may burn or itch or feel like they have sand in them. Sometimes your vision may be blurry, or you could be bothered by bright lights.
-- **Dry mouth.** Your tongue and your throat may feel dry. You might have trouble [swallowing](https://medlineplus.gov/swallowingdisorders.html), [speaking](https://medlineplus.gov/speechandcommunicationdisorders.html), and [tasting](https://medlineplus.gov/tasteandsmelldisorders.html).
+- **Dry mouth.** Your tongue and your throat may feel dry. You might have trouble [swallowing](Swallowing%20Disorders.md), [speaking](Speech%20and%20Communication%20Disorders.md), and [tasting](Taste%20and%20Smell%20Disorders.md).
 
 Sjogren's syndrome can also affect other parts of the body, causing symptoms such as:
 
 - Joint and muscle pain
 - Dry skin
-- [Rashes](https://medlineplus.gov/rashes.html) on the skin of hands or feet
+- [Rashes](Rashes.md) on the skin of hands or feet
 - Numbness or tingling in the hands or feet
 - Vaginal dryness
-- Dry [cough](https://medlineplus.gov/cough.html) that doesn't go away
-- [Fatigue](https://medlineplus.gov/fatigue.html) that doesn't go away
+- Dry [cough](Cough.md) that doesn't go away
+- [Fatigue](Fatigue.md) that doesn't go away
 
 #### How is Sjogren's syndrome diagnosed?
 
@@ -44,7 +44,7 @@ There is no single test for Sjogren's syndrome. To find out if you have it, your
 - May order tests, including:
 
  - Eye tests to see if you produce a normal amount of tears and to find out if your eyes have been damaged by dryness.
- - Salivary gland tests to measure how much saliva your mouth produces. They could include [imaging tests](https://medlineplus.gov/diagnosticimaging.html) and a [biopsy](https://medlineplus.gov/biopsy.html).
+ - Salivary gland tests to measure how much saliva your mouth produces. They could include [imaging tests](Diagnostic%20Imaging.md) and a [biopsy](Biopsy.md).
  - Blood tests.
 
 #### What are the treatments for Sjogren's syndrome?
@@ -58,14 +58,14 @@ There is no cure for Sjogren's syndrome. Treatment focuses on relieving your sym
 - Medicines to help with other symptoms caused by Sjogren's syndrome, such as medicines for pain and inflammation.
 - Medicines that suppress (weaken) your immune system (for severe cases).
 
-You can also try to relieve some of your symptoms by sucking on sugar-free candy, drinking water often, increasing the humidity in your room, and not smoking. Because having a dry mouth can raise your risk of [cavities](https://medlineplus.gov/toothdecay.html), it's important to [take good care of your teeth](https://medlineplus.gov/dentalhealth.html) and see your dentist regularly.
+You can also try to relieve some of your symptoms by sucking on sugar-free candy, drinking water often, increasing the humidity in your room, and not smoking. Because having a dry mouth can raise your risk of [cavities](Tooth%20Decay.md), it's important to [take good care of your teeth](Dental%20Health.md) and see your dentist regularly.
 
 ## Related topics
 
-- Arthritis
-- Dry Mouth
-- Tears
+- [Arthritis](Arthritis.md)
+- [Dry Mouth](Dry%20Mouth.md)
+- [Tears](Tears.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sjogrenssyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sjogrenssyndrome.html). General information, not medical advice.*

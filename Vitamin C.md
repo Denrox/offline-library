@@ -2,7 +2,7 @@
 
 *Also called: Ascorbic acid*
 
-[Vitamins](https://medlineplus.gov/vitamins.html) are substances that your body needs to grow and develop normally. Vitamin C is an [antioxidant](https://medlineplus.gov/antioxidants.html). It is important for your skin, bones, and connective tissue. It promotes healing and helps the body absorb iron.
+[Vitamins](Vitamins.md) are substances that your body needs to grow and develop normally. Vitamin C is an [antioxidant](Antioxidants.md). It is important for your skin, bones, and connective tissue. It promotes healing and helps the body absorb iron.
 
 Vitamin C comes from fruits and vegetables. Good sources include citrus, red and green peppers, tomatoes, broccoli, and greens. Some juices and cereals have added vitamin C.
 
@@ -15,9 +15,9 @@ Some people may need extra vitamin C:
 
 ## Related topics
 
-- Antioxidants
-- Vitamins
+- [Antioxidants](Antioxidants.md)
+- [Vitamins](Vitamins.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vitaminc.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vitaminc.html). General information, not medical advice.*

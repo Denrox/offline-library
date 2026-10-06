@@ -8,15 +8,15 @@ Many healthy babies have some jaundice during the first week of life. It usually
 
 - Blood diseases
 - Genetic syndromes
-- Liver diseases, such as [hepatitis](https://medlineplus.gov/hepatitis.html) or [cirrhosis](https://medlineplus.gov/cirrhosis.html)
+- Liver diseases, such as [hepatitis](Hepatitis.md) or [cirrhosis](Cirrhosis.md)
 - Blockage of bile ducts
 - Infections
 - Medicines
 
 ## Related topics
 
-- Liver Diseases
+- [Liver Diseases](Liver%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/jaundice.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/jaundice.html). General information, not medical advice.*

@@ -8,7 +8,7 @@ Tooth decay is damage to a tooth's surface, or enamel. It happens when bacteria 
 
 #### What causes tooth decay?
 
-Our mouths are full of bacteria. Some bacteria are helpful. But some can be harmful, including the ones that play a role in tooth decay. These bacteria combine with food to form a soft, sticky film called plaque. The bacteria in plaque use the sugar and starch in what you eat and drink to make acids. The acids begin to eat away at the minerals on your enamel. Over time, the plaque can harden into tartar. Besides damaging your teeth, plaque and tartar can also irritate your gums and cause [gum disease](https://medlineplus.gov/gumdisease.html).
+Our mouths are full of bacteria. Some bacteria are helpful. But some can be harmful, including the ones that play a role in tooth decay. These bacteria combine with food to form a soft, sticky film called plaque. The bacteria in plaque use the sugar and starch in what you eat and drink to make acids. The acids begin to eat away at the minerals on your enamel. Over time, the plaque can harden into tartar. Besides damaging your teeth, plaque and tartar can also irritate your gums and cause [gum disease](Gum%20Disease.md).
 
 You get fluoride from toothpaste, water, and other sources. This fluoride, along with your salvia, helps the enamel repair itself by replacing the minerals. Your teeth go through this natural process of losing minerals and regaining minerals all day long. But if you don't take care of your teeth and/or you eat and drink lots of sugary or starchy things, your enamel will keep losing minerals. This leads to tooth decay.
 
@@ -35,7 +35,7 @@ In early tooth decay, you usually don't have symptoms. As tooth decay gets worse
 - Tooth sensitivity to sweets, hot, or cold
 - White or brown stains on the surface of a tooth
 - A cavity
-- An infection, which can lead to an [abscess](https://medlineplus.gov/abscess.html) (pocket of pus) forming. The abscess can cause pain, facial swelling, and fever.
+- An infection, which can lead to an [abscess](Abscess.md) (pocket of pus) forming. The abscess can cause pain, facial swelling, and fever.
 
 #### How are tooth decay and cavities diagnosed?
 
@@ -59,9 +59,9 @@ There are steps that you can take to prevent tooth decay:
  - Brushing with a fluoride toothpaste
  - Drinking tap water with fluoride. Most bottled water does not contain fluoride.
  - Using fluoride mouth rinse
-- Practice [good oral health](https://medlineplus.gov/dentalhealth.html) by brushing your teeth twice a day with a fluoride toothpaste and regularly flossing your teeth
+- Practice [good oral health](Dental%20Health.md) by brushing your teeth twice a day with a fluoride toothpaste and regularly flossing your teeth
 - Make smart food choices by limiting foods and drinks that are high in sugars and starches. Eat nutritious, balanced meals and limit snacking.
-- Do not use tobacco products, including [smokeless tobacco](https://medlineplus.gov/smokelesstobacco.html). If you currently use tobacco, consider [quitting](https://medlineplus.gov/quittingsmoking.html).
+- Do not use tobacco products, including [smokeless tobacco](Smokeless%20Tobacco.md). If you currently use tobacco, consider [quitting](Quitting%20Smoking.md).
 - See a dentist for regular check-ups and professional cleanings
 - Make sure that your children get sealants on their teeth. Dental sealants are thin plastic coatings that protect the chewing surfaces of the back teeth. Children should get sealants on their back teeth as soon as they come in, before decay can attack the teeth.
 
@@ -69,10 +69,10 @@ NIH: National Institute of Dental and Craniofacial Research
 
 ## Related topics
 
-- Child Dental Health
-- Dental Health
-- Tooth Disorders
+- [Child Dental Health](Child%20Dental%20Health.md)
+- [Dental Health](Dental%20Health.md)
+- [Tooth Disorders](Tooth%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/toothdecay.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/toothdecay.html). General information, not medical advice.*

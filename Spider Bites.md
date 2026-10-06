@@ -12,10 +12,10 @@ If you are bitten by a spider, you may see a reaction similar to that of a bee s
 
 ## Related topics
 
-- Animal Bites
-- Insect Bites and Stings
-- Tick Bites
+- [Animal Bites](Animal%20Bites.md)
+- [Insect Bites and Stings](Insect%20Bites%20and%20Stings.md)
+- [Tick Bites](Tick%20Bites.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/spiderbites.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/spiderbites.html). General information, not medical advice.*

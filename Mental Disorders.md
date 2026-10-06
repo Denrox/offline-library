@@ -10,12 +10,12 @@ Mental disorders (or mental illnesses) are conditions that affect your thinking,
 
 There are many different types of mental disorders. Some common ones include:
 
-- [Anxiety disorders](https://medlineplus.gov/anxiety.html), including [panic disorder](https://medlineplus.gov/panicdisorder.html), [obsessive-compulsive disorder](https://medlineplus.gov/obsessivecompulsivedisorder.html), and [phobias](https://medlineplus.gov/phobias.html)
-- [Depression](https://medlineplus.gov/depression.html), [bipolar disorder](https://medlineplus.gov/bipolardisorder.html), and other [mood disorders](https://medlineplus.gov/mooddisorders.html)
-- [Eating disorders](https://medlineplus.gov/eatingdisorders.html)
-- [Personality disorders](https://medlineplus.gov/personalitydisorders.html)
-- [Post-traumatic stress disorder](https://medlineplus.gov/posttraumaticstressdisorder.html) (PTSD)
-- [Psychotic disorders](https://medlineplus.gov/psychoticdisorders.html), including [schizophrenia](https://medlineplus.gov/schizophrenia.html)
+- [Anxiety disorders](Anxiety.md), including [panic disorder](Panic%20Disorder.md), [obsessive-compulsive disorder](Obsessive-Compulsive%20Disorder.md), and [phobias](Phobias.md)
+- [Depression](Depression.md), [bipolar disorder](Bipolar%20Disorder.md), and other [mood disorders](Mood%20Disorders.md)
+- [Eating disorders](Eating%20Disorders.md)
+- [Personality disorders](Personality%20Disorders.md)
+- [Post-traumatic stress disorder](Post-Traumatic%20Stress%20Disorder.md) (PTSD)
+- [Psychotic disorders](Psychotic%20Disorders.md), including [schizophrenia](Schizophrenia.md)
 
 #### What causes mental disorders?
 
@@ -24,9 +24,9 @@ There is no single cause for mental illness. A number of factors can contribute 
 - Your genes and family history
 - Your life experiences, such as stress or a history of abuse, especially if they happen in childhood
 - Biological factors such as chemical imbalances in the brain
-- A [traumatic brain injury](https://medlineplus.gov/traumaticbraininjury.html) (TBI)
-- Prenatal (before birth) exposure to [viruses](https://medlineplus.gov/infectionsandpregnancy.html), [toxic chemicals](https://medlineplus.gov/reproductivehazards.html), or [other substances](https://medlineplus.gov/pregnancyandsubstanceuse.html) such as alcohol and drugs.
-- Use of [alcohol](https://medlineplus.gov/alcohol.html) or [recreational drugs](https://medlineplus.gov/druguseandaddiction.html)
+- A [traumatic brain injury](Traumatic%20Brain%20Injury.md) (TBI)
+- Prenatal (before birth) exposure to [viruses](Infections%20and%20Pregnancy.md), [toxic chemicals](Reproductive%20Hazards.md), or [other substances](Pregnancy%20and%20Substance%20Use.md) such as alcohol and drugs.
+- Use of [alcohol](Alcohol.md) or [recreational drugs](Drug%20Use%20and%20Addiction.md)
 - Having a serious medical condition like cancer
 - Having few friends, and feeling lonely or isolated
 
@@ -42,7 +42,7 @@ The steps to getting a diagnosis include:
 
 - A medical history
 - A physical exam and possibly lab tests, if your provider thinks that other medical conditions could be causing your symptoms
-- A [psychological evaluation](https://medlineplus.gov/lab-tests/mental-health-screening/). You will answer questions about your thinking, feelings, and behaviors.
+- A psychological evaluation. You will answer questions about your thinking, feelings, and behaviors.
 
 #### What are the treatments for mental disorders?
 
@@ -52,27 +52,27 @@ In some cases, you may need more intensive treatment. You may need to go to a ps
 
 ## Related topics
 
-- Anxiety
-- Bipolar Disorder
-- Child Mental Health
-- Compulsive Gambling
-- Delirium
-- Depression
-- Eating Disorders
-- Mental Health
-- Mood Disorders
-- Obsessive-Compulsive Disorder
-- Older Adult Mental Health
-- Panic Disorder
-- Personality Disorders
-- Phobias
-- Post-Traumatic Stress Disorder
-- Psychotic Disorders
-- Schizophrenia
-- Self-Harm
-- Suicide
-- Teen Mental Health
+- [Anxiety](Anxiety.md)
+- [Bipolar Disorder](Bipolar%20Disorder.md)
+- [Child Mental Health](Child%20Mental%20Health.md)
+- [Compulsive Gambling](Compulsive%20Gambling.md)
+- [Delirium](Delirium.md)
+- [Depression](Depression.md)
+- [Eating Disorders](Eating%20Disorders.md)
+- [Mental Health](Mental%20Health.md)
+- [Mood Disorders](Mood%20Disorders.md)
+- [Obsessive-Compulsive Disorder](Obsessive-Compulsive%20Disorder.md)
+- [Older Adult Mental Health](Older%20Adult%20Mental%20Health.md)
+- [Panic Disorder](Panic%20Disorder.md)
+- [Personality Disorders](Personality%20Disorders.md)
+- [Phobias](Phobias.md)
+- [Post-Traumatic Stress Disorder](Post-Traumatic%20Stress%20Disorder.md)
+- [Psychotic Disorders](Psychotic%20Disorders.md)
+- [Schizophrenia](Schizophrenia.md)
+- [Self-Harm](Self-Harm.md)
+- [Suicide](Suicide.md)
+- [Teen Mental Health](Teen%20Mental%20Health.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/mentaldisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/mentaldisorders.html). General information, not medical advice.*

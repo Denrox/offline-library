@@ -10,9 +10,9 @@ It's not just the number of hours of sleep you get that matters. The quality of 
 
 Sleep disorders are conditions that disturb your normal sleep patterns. There are many types of sleep disorders. Some general types include:
 
-- **[Insomnia](https://medlineplus.gov/insomnia.html),** which is trouble falling asleep or staying asleep.
-- **Sleep-related breathing disorders** such as [sleep apnea](https://medlineplus.gov/sleepapnea.html), a condition in which you stop breathing for 10 seconds or more during sleep.
-- **Sleep-related movement disorders** such as [restless leg syndrome](https://medlineplus.gov/restlesslegs.html) (RLS), which involves tingling or prickling sensations in your legs, and a strong urge to move them.
+- **[Insomnia](Insomnia.md),** which is trouble falling asleep or staying asleep.
+- **Sleep-related breathing disorders** such as [sleep apnea](Sleep%20Apnea.md), a condition in which you stop breathing for 10 seconds or more during sleep.
+- **Sleep-related movement disorders** such as [restless leg syndrome](Restless%20Legs.md) (RLS), which involves tingling or prickling sensations in your legs, and a strong urge to move them.
 - **Hypersomnia,** which is extreme daytime sleepiness. This includes narcolepsy.
 - **Circadian rhythm sleep-wake disorders**, which are problems falling asleep or waking up at the right times. This may be due to shift work or jet lag.
 - **Parasomnia**, which is unusual behaviors during sleep or while falling asleep or waking up. This may include sleepwalking, talking, or eating during sleep.
@@ -23,8 +23,8 @@ Some people who feel tired during the day have a true sleep disorder, while othe
 
 There are different causes for different sleep disorders. They may include:
 
-- Other health conditions, such as [heart disease](https://medlineplus.gov/heartdiseases.html), [lung disease](https://medlineplus.gov/lungdiseases.html), [nerve disorders](https://medlineplus.gov/neurologicdiseases.html), or [pain](https://medlineplus.gov/pain.html)
-- [Mental illnesses](https://medlineplus.gov/mentaldisorders.html), including [depression](https://medlineplus.gov/depression.html) and [anxiety](https://medlineplus.gov/anxiety.html)
+- Other health conditions, such as [heart disease](Heart%20Diseases.md), [lung disease](Lung%20Diseases.md), [nerve disorders](Neurologic%20Diseases.md), or [pain](Pain.md)
+- [Mental illnesses](Mental%20Disorders.md), including [depression](Depression.md) and [anxiety](Anxiety.md)
 - Medicines
 - Genetics
 
@@ -32,7 +32,7 @@ Sometimes the cause is unknown.
 
 Other factors that may contribute to sleep problems include:
 
-- Using [caffeine](https://medlineplus.gov/caffeine.html) or [alcohol](https://medlineplus.gov/alcohol.html)
+- Using [caffeine](Caffeine.md) or [alcohol](Alcohol.md)
 - Having an irregular schedule, such as working the night shift
 - Aging, since older adults may sleep less, spend less time in deep sleep, and wake easily
 
@@ -52,7 +52,7 @@ The symptoms of sleep disorders depend on the specific disorder. Some signs that
 
 #### How are sleep disorders diagnosed?
 
-To diagnose a sleep disorder, your health care provider will review your medical and sleep history and do a physical exam. You may also have a [sleep study](https://medlineplus.gov/lab-tests/sleep-study/) (polysomnogram). Most sleep studies monitor and record data about your body during a full night of sleep. The data includes:
+To diagnose a sleep disorder, your health care provider will review your medical and sleep history and do a physical exam. You may also have a sleep study (polysomnogram). Most sleep studies monitor and record data about your body during a full night of sleep. The data includes:
 
 - Brain wave activity
 - Eye movements
@@ -66,7 +66,7 @@ Other types of sleep studies may check how quickly you fall asleep during daytim
 
 Treatments for sleep disorders depend on which disorder you have. They may include:
 
-- [Practicing good sleep habits](https://medlineplus.gov/healthysleep.html) and other lifestyle changes, such as eating a healthy diet and [getting regular exercise](https://medlineplus.gov/benefitsofexercise.html)
+- [Practicing good sleep habits](Healthy%20Sleep.md) and other lifestyle changes, such as eating a healthy diet and [getting regular exercise](Benefits%20of%20Exercise.md)
 - Reducing anxiety about sleep with cognitive behavioral therapy or relaxation techniques
 - Using a CPAP (continuous positive airway pressure) machine for sleep apnea
 - Using bright light therapy (in the morning)
@@ -76,12 +76,12 @@ Always check with your provider before taking any medicine or supplement. Most s
 
 ## Related topics
 
-- Healthy Sleep
-- Insomnia
-- Restless Legs
-- Sleep Apnea
-- Snoring
+- [Healthy Sleep](Healthy%20Sleep.md)
+- [Insomnia](Insomnia.md)
+- [Restless Legs](Restless%20Legs.md)
+- [Sleep Apnea](Sleep%20Apnea.md)
+- [Snoring](Snoring.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/sleepdisorders.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/sleepdisorders.html). General information, not medical advice.*

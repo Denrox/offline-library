@@ -8,7 +8,7 @@ Rare diseases:
 - Often have no treatment or not very effective treatment
 - Are frequently not diagnosed correctly
 - Are often very complex
-- Are often caused by changes in [genes](https://medlineplus.gov/geneticdisorders.html)
+- Are often caused by changes in [genes](Genetic%20Disorders.md)
 
 It can be hard to find a specialist who knows how to treat your rare disease. Disease advocacy groups, rare disease organizations, and genetics clinics may help you to find one.
 
@@ -16,4 +16,4 @@ NIH: National Institutes of Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/rarediseases.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/rarediseases.html). General information, not medical advice.*

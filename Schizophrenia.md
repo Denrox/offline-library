@@ -16,4 +16,4 @@ NIH: National Institute of Mental Health
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/schizophrenia.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/schizophrenia.html). General information, not medical advice.*

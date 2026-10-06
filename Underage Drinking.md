@@ -17,9 +17,9 @@ NIH: National Institute on Alcohol Abuse and Alcoholism
 
 ## Related topics
 
-- Alcohol
-- Alcohol Use Disorder (AUD)
+- [Alcohol](Alcohol.md)
+- [Alcohol Use Disorder (AUD)](Alcohol%20Use%20Disorder%20%28AUD%29.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/underagedrinking.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/underagedrinking.html). General information, not medical advice.*

@@ -2,7 +2,7 @@
 
 *Also called: EMFs*
 
-Electric and magnetic fields (EMFs), also called [radiation](https://medlineplus.gov/radiationexposure.html), are areas of energy that surround electrical devices. Everyday sources of EMFs include:
+Electric and magnetic fields (EMFs), also called [radiation](Radiation%20Exposure.md), are areas of energy that surround electrical devices. Everyday sources of EMFs include:
 
 - Power lines
 - Electrical wiring
@@ -21,4 +21,4 @@ NIH: National Institute of Environmental Health Sciences
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/electromagneticfields.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/electromagneticfields.html). General information, not medical advice.*

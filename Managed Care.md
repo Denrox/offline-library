@@ -1,6 +1,6 @@
 # Managed Care
 
-Managed care plans are a type of [health insurance](https://medlineplus.gov/healthinsurance.html). They have contracts with health care providers and medical facilities to provide care for members at reduced costs. These providers make up the plan's network. How much of your care the plan will pay for depends on the network's rules.
+Managed care plans are a type of [health insurance](Health%20Insurance.md). They have contracts with health care providers and medical facilities to provide care for members at reduced costs. These providers make up the plan's network. How much of your care the plan will pay for depends on the network's rules.
 
 Plans that restrict your choices usually cost you less. If you want a flexible plan, it will probably cost more. There are three types of managed care plans:
 
@@ -10,4 +10,4 @@ Plans that restrict your choices usually cost you less. If you want a flexible p
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/managedcare.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/managedcare.html). General information, not medical advice.*

@@ -1,6 +1,6 @@
 # Medicaid
 
-Medicaid is government [health insurance](https://medlineplus.gov/healthinsurance.html) that helps many low-income people in the United States to [pay their medical bills](https://medlineplus.gov/financialassistance.html). The Federal government sets up general guidelines for the program, but each state has its own rules. Your state might require you to pay a part of the cost for some medical services.
+Medicaid is government [health insurance](Health%20Insurance.md) that helps many low-income people in the United States to [pay their medical bills](Financial%20Assistance.md). The Federal government sets up general guidelines for the program, but each state has its own rules. Your state might require you to pay a part of the cost for some medical services.
 
 You have to meet certain requirements to get Medicaid help. These might involve:
 
@@ -13,4 +13,4 @@ Centers for Medicare and Medicaid Services
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/medicaid.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/medicaid.html). General information, not medical advice.*

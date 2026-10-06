@@ -8,8 +8,8 @@ Treatment for hair loss depends on the cause. In some cases, treating the underl
 
 ## Related topics
 
-- Hair Problems
+- [Hair Problems](Hair%20Problems.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/hairloss.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/hairloss.html). General information, not medical advice.*

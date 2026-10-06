@@ -1,6 +1,6 @@
 # Vasectomy
 
-A vasectomy is a type of minor surgery that prevents a man from being able to get a woman pregnant. It is a permanent form of [birth control](https://medlineplus.gov/birthcontrol.html).
+A vasectomy is a type of minor surgery that prevents a man from being able to get a woman pregnant. It is a permanent form of [birth control](Birth%20Control.md).
 
 A vasectomy works by cutting the vas deferens, which are the tubes that carry the sperm out of the testicles. Then the sperm can no longer reach the semen. Semen is the fluid that the penis ejaculates (releases during orgasm). Since there are no sperm, the man cannot get a woman pregnant.
 
@@ -10,17 +10,17 @@ A vasectomy is one of the most effective forms of birth control. But it takes ab
 
 Having a vasectomy does not affect your sex life. It does not decrease your sex drive. And it will not affect your ability to get an erection or have an orgasm.
 
-Vasectomies can sometimes be reversed, but not always. It is done with a procedure to reconnect the vas deferens. Another option if you decide to have children later might be to have sperm taken from your testicles. The sperm could then be used for [in vitro fertilization](https://medlineplus.gov/assistedreproductivetechnology.html) (IVF). However, this may not always work. It's also important to know that both a vasectomy reversal and IVF are expensive.
+Vasectomies can sometimes be reversed, but not always. It is done with a procedure to reconnect the vas deferens. Another option if you decide to have children later might be to have sperm taken from your testicles. The sperm could then be used for [in vitro fertilization](Assisted%20Reproductive%20Technology.md) (IVF). However, this may not always work. It's also important to know that both a vasectomy reversal and IVF are expensive.
 
-Having a vasectomy does not protect you from [sexually transmitted infections](https://medlineplus.gov/sexuallytransmittedinfections.html) (STIs), such as [HIV](https://medlineplus.gov/hiv.html). Using a condom every time you have anal, vaginal, or oral sex is the only way to protect against STIs.
+Having a vasectomy does not protect you from [sexually transmitted infections](Sexually%20Transmitted%20Infections.md) (STIs), such as [HIV](HIV.md). Using a condom every time you have anal, vaginal, or oral sex is the only way to protect against STIs.
 
 NIH: National Institute of Child Health and Human Development
 
 ## Related topics
 
-- Birth Control
-- Tubal Ligation
+- [Birth Control](Birth%20Control.md)
+- [Tubal Ligation](Tubal%20Ligation.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/vasectomy.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/vasectomy.html). General information, not medical advice.*

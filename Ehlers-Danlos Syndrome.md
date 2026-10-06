@@ -2,7 +2,7 @@
 
 *Also called: Cutis elastica, EDS*
 
-Ehlers-Danlos syndrome (EDS) is a group of inherited disorders that weaken [connective tissues](https://medlineplus.gov/connectivetissuedisorders.html). Connective tissues are proteins that support skin, bones, blood vessels, and other organs.
+Ehlers-Danlos syndrome (EDS) is a group of inherited disorders that weaken [connective tissues](Connective%20Tissue%20Disorders.md). Connective tissues are proteins that support skin, bones, blood vessels, and other organs.
 
 EDS usually affects your skin, joints and blood vessel walls. Symptoms include:
 
@@ -15,4 +15,4 @@ There are several types of EDS. They can range from mild to life-threatening. Ab
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/ehlersdanlossyndrome.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/ehlersdanlossyndrome.html). General information, not medical advice.*

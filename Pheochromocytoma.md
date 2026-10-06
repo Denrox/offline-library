@@ -1,6 +1,6 @@
 # Pheochromocytoma
 
-Pheochromocytoma is a rare tumor that usually starts in the cells of one of your adrenal glands. Although they are usually [benign](https://medlineplus.gov/benigntumors.html), pheochromocytomas often cause the adrenal gland to make too many hormones. This can lead to high blood pressure and cause symptoms such as :
+Pheochromocytoma is a rare tumor that usually starts in the cells of one of your adrenal glands. Although they are usually [benign](Benign%20Tumors.md), pheochromocytomas often cause the adrenal gland to make too many hormones. This can lead to high blood pressure and cause symptoms such as :
 
 - Headaches
 - Sweating
@@ -16,8 +16,8 @@ NIH: National Cancer Institute
 
 ## Related topics
 
-- Adrenal Gland Disorders
+- [Adrenal Gland Disorders](Adrenal%20Gland%20Disorders.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/pheochromocytoma.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/pheochromocytoma.html). General information, not medical advice.*

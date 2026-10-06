@@ -2,11 +2,11 @@
 
 *Also called: DTaP, DTaP/Tdap/Td, Td, Td vaccination booster, Tdap, Tetanus booster*
 
-[Tetanus](https://medlineplus.gov/tetanus.html), [diphtheria](https://medlineplus.gov/diphtheria.html), and [pertussis](https://medlineplus.gov/whoopingcough.html) (whooping cough) are serious [bacterial infections](https://medlineplus.gov/bacterialinfections.html):
+[Tetanus](Tetanus.md), [diphtheria](Diphtheria.md), and [pertussis](Whooping%20Cough.md) (whooping cough) are serious [bacterial infections](Bacterial%20Infections.md):
 
 - **Tetanus** is an uncommon disease that requires immediate treatment in a hospital. It causes painful tightening of the muscles, usually all over the body. It can lead to "locking" of the jaw.
 - **Diphtheria** usually affects the nose and throat. But it can also affect the skin and other body parts.
-- **Whooping cough** can cause uncontrollable coughing fits. It may begin like a [cold](https://medlineplus.gov/commoncold.html), but unlike a cold, the coughing can last for weeks or months.
+- **Whooping cough** can cause uncontrollable coughing fits. It may begin like a [cold](Common%20Cold.md), but unlike a cold, the coughing can last for weeks or months.
 
 Vaccines can protect you from these diseases. In the U.S., there are three combination vaccines:
 
@@ -14,7 +14,7 @@ Vaccines can protect you from these diseases. In the U.S., there are three combi
 - **Tdap** (tetanus, diphtheria, and pertussis) also prevents all three diseases. It is for older children and adults.
 - **Td** (tetanus and diphtheria) prevents those two diseases. It is for older children and adults. It is usually given as a booster dose every 10 years. You may also get it after 5 years if you get a severe or dirty wound or burn.
 
-Some people should not get these vaccines, including those who have had severe reactions to the shots before. Check with your health care provider first if you have [seizures](https://medlineplus.gov/seizures.html), a [neurologic problem](https://medlineplus.gov/neurologicdiseases.html), or [Guillain-Barre syndrome](https://medlineplus.gov/guillainbarresyndrome.html).
+Some people should not get these vaccines, including those who have had severe reactions to the shots before. Check with your health care provider first if you have [seizures](Seizures.md), a [neurologic problem](Neurologic%20Diseases.md), or [Guillain-Barre syndrome](Guillain-Barre%20Syndrome.md).
 
 People with minor illnesses such as a cold can get vaccinated. But those who are more ill may need wait until they feel better before getting some vaccines.
 
@@ -22,12 +22,12 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Childhood Vaccines
-- Diphtheria
-- Tetanus
-- Vaccines
-- Whooping Cough
+- [Childhood Vaccines](Childhood%20Vaccines.md)
+- [Diphtheria](Diphtheria.md)
+- [Tetanus](Tetanus.md)
+- [Vaccines](Vaccines.md)
+- [Whooping Cough](Whooping%20Cough.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html). General information, not medical advice.*

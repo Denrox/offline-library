@@ -16,8 +16,8 @@ Centers for Disease Control and Prevention
 
 ## Related topics
 
-- Parasitic Diseases
+- [Parasitic Diseases](Parasitic%20Diseases.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/toxoplasmosis.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/toxoplasmosis.html). General information, not medical advice.*

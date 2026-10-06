@@ -4,11 +4,11 @@
 
 #### What are anabolic steroids?
 
-Anabolic steroids are synthetic (man-made) versions of testosterone. Testosterone is the main sex [hormone](https://medlineplus.gov/hormones.html) in men. It is needed to develop and maintain male sex characteristics, such as facial hair, deep voice, and muscle growth. Women do have some testosterone in their bodies, but in much smaller amounts.
+Anabolic steroids are synthetic (man-made) versions of testosterone. Testosterone is the main sex [hormone](Hormones.md) in men. It is needed to develop and maintain male sex characteristics, such as facial hair, deep voice, and muscle growth. Women do have some testosterone in their bodies, but in much smaller amounts.
 
 #### What are anabolic steroids used for?
 
-Health care providers use anabolic steroids to treat some hormone problems in men, delayed [puberty](https://medlineplus.gov/puberty.html), and muscle loss from some diseases. But some people misuse anabolic steroids by taking them in a way that's different than their provider prescribed.
+Health care providers use anabolic steroids to treat some hormone problems in men, delayed [puberty](Puberty.md), and muscle loss from some diseases. But some people misuse anabolic steroids by taking them in a way that's different than their provider prescribed.
 
 #### Why do people misuse anabolic steroids?
 
@@ -20,24 +20,24 @@ Misuse of anabolic steroids, especially over a long period of time, has been lin
 
 - Acne
 - Stunted growth in teens
-- [High blood pressure](https://medlineplus.gov/highbloodpressure.html)
-- Changes in [cholesterol](https://medlineplus.gov/cholesterol.html)
-- [Heart problems](https://medlineplus.gov/heartdiseases.html), including [heart attack](https://medlineplus.gov/heartattack.html)
-- [Liver disease](https://medlineplus.gov/liverdiseases.html), including [cancer](https://medlineplus.gov/livercancer.html)
-- [Kidney damage](https://medlineplus.gov/kidneydiseases.html)
+- [High blood pressure](High%20Blood%20Pressure.md)
+- Changes in [cholesterol](Cholesterol.md)
+- [Heart problems](Heart%20Diseases.md), including [heart attack](Heart%20Attack.md)
+- [Liver disease](Liver%20Diseases.md), including [cancer](Liver%20Cancer.md)
+- [Kidney damage](Kidney%20Diseases.md)
 - Mood changes such as irritability and aggressive behavior
 
 In men, it can also cause:
 
-- [Baldness](https://medlineplus.gov/hairloss.html)
+- [Baldness](Hair%20Loss.md)
 - Breast growth
-- Low sperm count/[infertility](https://medlineplus.gov/maleinfertility.html)
+- Low sperm count/[infertility](Male%20Infertility.md)
 - Shrinking of the testicles
-- [Testicular cancer](https://medlineplus.gov/testicularcancer.html)
+- [Testicular cancer](Testicular%20Cancer.md)
 
 In women, it can also cause:
 
-- Changes in your [menstrual cycle](https://medlineplus.gov/menstruation.html) (period)
+- Changes in your [menstrual cycle](Menstruation.md) (period)
 - Growth of body and facial hair
 - Male-pattern baldness
 - Voice deepening
@@ -47,13 +47,13 @@ In women, it can also cause:
 
 Even though they don't cause a high, anabolic steroids can lead to addiction. You can have withdrawal symptoms if you stop using them, including:
 
-- [Fatigue](https://medlineplus.gov/fatigue.html)
+- [Fatigue](Fatigue.md)
 - Restlessness
 - Loss of appetite
-- [Sleep problems](https://medlineplus.gov/sleepdisorders.html)
+- [Sleep problems](Sleep%20Disorders.md)
 - Decreased sex drive
 - Steroid cravings
-- [Depression](https://medlineplus.gov/depression.html), which can sometimes be serious and even lead to [suicide](https://medlineplus.gov/suicide.html) attempts
+- [Depression](Depression.md), which can sometimes be serious and even lead to [suicide](Suicide.md) attempts
 
 Behavioral therapy and medicines can be helpful in treating anabolic steroid addiction
 
@@ -61,4 +61,4 @@ NIH: National Institute on Drug Abuse
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/anabolicsteroids.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/anabolicsteroids.html). General information, not medical advice.*

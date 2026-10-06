@@ -11,13 +11,13 @@ Your doctor may also compare your results to results from previous tests. Labora
 
 ## Related topics
 
-- A1C
-- Blood Count Tests
-- Diagnostic Imaging
-- Kidney Tests
-- Thyroid Tests
-- Urinalysis
+- [A1C](A1C.md)
+- [Blood Count Tests](Blood%20Count%20Tests.md)
+- [Diagnostic Imaging](Diagnostic%20Imaging.md)
+- [Kidney Tests](Kidney%20Tests.md)
+- [Thyroid Tests](Thyroid%20Tests.md)
+- [Urinalysis](Urinalysis.md)
 
 ---
 
-*Source: [MedlinePlus](https://medlineplus.gov/laboratorytests.html), U.S. National Library of Medicine. General information, not medical advice.*
+*Source: MedlinePlus, U.S. National Library of Medicine (https://medlineplus.gov/laboratorytests.html). General information, not medical advice.*
