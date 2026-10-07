@@ -29,13 +29,20 @@ API = "https://en.wikibooks.org/w/api.php"
 UA = "offline-library (https://github.com/Denrox/offline-library)"
 
 
-def api(params, post=False):
+def api(params, post=False, attempts=4):
     params = {**params, "format": "json", "formatversion": "2"}
     data = urllib.parse.urlencode(params).encode()
     req = (urllib.request.Request(API, data=data, headers={"User-Agent": UA}) if post
            else urllib.request.Request(f"{API}?{data.decode()}", headers={"User-Agent": UA}))
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)
+    # A build makes hundreds of calls; ride out the API's occasional 502/503.
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.load(r)
+        except OSError:
+            if attempt == attempts:
+                raise
+            time.sleep(15 * attempt)
 
 
 def wikitext(titles):
