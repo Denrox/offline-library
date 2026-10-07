@@ -1,0 +1,70 @@
+# Topic: Speed of Gauss' Method
+
+We are using Gauss' Method to solve the linear systems in this book because it is easy to understand, easily shown to give the right answers, and fast. It is fast in that, in all the by-hand calculations we have needed, we have gotten the answers in only a few steps, taking only a few minutes. However, scientists and engineers who solve linear systems in practice must have a method that is fast enough for large systems, with 1000 equations or 10,000 equations or even 100,000 equations. These systems are solved on a computer, so the speed of the machine helps, but nonetheless the speed of the method used is a major consideration, and is sometimes the factor limiting which problems can be solved.
+
+The speed of an algorithm is usually measured by finding how the time taken to solve problems grows as the size of the input data set grows. That is, how much longer will the algorithm take if we increase the size of the input data by a factor of ten, say from a 1000-equation system to a 10,000-equation system, or from 10,000 to 100,000? Does the time taken grow ten times, or a hundred times, or a thousand times? Is the time taken by the algorithm proportional to the size of the data set, or to the square of that size, or to the cube of that size, etc.?
+
+Here is a fragment of Gauss' Method code, implemented in the computer language FORTRAN. The coefficients of the linear system are stored in the $$N \! \times \! N$$ array *A*, and the constants are stored in the $$N \! \times \! 1$$ array *B*. For each *ROW* between $$1$$ and $$N$$ this program has already found the pivot entry $$A(ROW,COL)$$. Now it will pivot.
+
+$$
+-PIVINV\cdot \rho_{ROW} +\rho_{i}
+$$
+
+(This code fragment is for illustration only, and is incomplete. For example, see the later topic on the Accuracy of Gauss' Method. Nonetheless, this fragment will do for our purposes because analysis of finished versions, including all the tests and sub-cases, is messier but gives essentially the same result.)  
+```
+PIVINV=1./A(ROW,COL)
+DO 10 I=ROW+1, N
+DO 20 J=I, N
+A(I,J)=A(I,J)-PIVINV*A(ROW,J)
+20 CONTINUE
+B(J)=B(J)-PIVINV*B(ROW)
+10 CONTINUE
+
+```  
+The outermost loop (not shown) runs through $$N-1$$ rows. For each of these rows, the shown loops perform arithmetic on the entries in *A* that are below and to the right of the pivot entry (and also on the entries in *B*, but to simplify the analysis we will not count those operations---see Exercise ). We will assume the pivot is found in the usual place, that is, that $$COL=ROW$$ (as above, analysis of the general case is messier but gives essentially the same result). That means there are $$(N-ROW)^2$$ entries to perform arithmetic on. On average, ROW will be $$N/2$$. Thus we estimate the nested loops above will run something like $$(N/2)^2$$ times, that is, will run in a time proportional to the square of the number of equations. Taking into account the outer loop that is not shown, we get the estimate that the running time of the algorithm is proportional to the cube of the number of equations.
+
+Algorithms that run in time directly proportional to the size of the data set are fast, algorithms that run in time proportional to the square of the size of the data set are less fast, but typically quite usable, and algorithms that run in time proportional to the cube of the size of the data set are still reasonable in speed.
+
+Speed estimates like these are a good way of understanding how quickly or slowly an algorithm can be expected to run on average. There are special cases, however, of systems on which the above Gauss' method code is especially fast, so there may be factors about a problem that make it especially suitable for this kind of solution.
+
+In practice, the code found in computer algebra systems, or in the standard packages, implements a variant on Gauss' method, called triangular factorization. To state this method requires the language of matrix algebra, which we will not see until Chapter Three. Nonetheless, the above code is conceptually quite close to that usually used in applications.
+
+There have been some theoretical speed-ups in the running time required to solve linear systems. Algorithms other than Gauss' method have been invented that take a time proportional not to the cube of the size of the data set, but instead to the (approximately) $$2.7$$ power (this is still under active research, so this exponent may come down somewhat over time). However, these theoretical improvements have not come into widespread use, in part because the new methods take a quite large data set before they overtake Gauss' method (although they will outperform Gauss' method on very large sets, there is some startup overhead that keeps them from being faster on the systems that have, so far, been solved in practice).  
+### Exercises
+
+**Problem 1**  —
+
+Computer systems allow the generation of random numbers (of course, these are only pseudo-random, in that they are generated by some algorithm, but the sequence of numbers that is gotten passes a number of reasonable statistical tests for apparent randomness).
+
+1. Fill a $$5 \! \times \! 5$$ array with random numbers (say, in the range $$0..1)$$). Apply Gauss' method to see if it is singular. Repeat that experiment ten times. Are singular matrices frequent or rare (in this sense)?
+2. Time the computer at solving ten $$5 \! \times \! 5$$ arrays of random numbers. Find the average time. (Notice that some systems can be found to be singular quite quickly, for instance if the first row equals the second. In the light of the first part, do you expect that singular systems play a large role in your average?)
+3. Repeat the prior item for $$15 \! \times \! 15$$ arrays.
+4. Repeat the prior item for $$25 \! \times \! 25$$ arrays.
+5. Repeat the prior item for $$35 \! \times \! 35$$ arrays.
+6. Graph the input size versus the average time.
+
+**Problem 2**  —
+
+What $$10 \! \times \! 10$$ array can you invent that takes your computer system the longest to reduce? The shortest?
+
+**Problem 3**  —
+
+Write the rest of the FORTRAN program to do a straightforward implementation of Gauss' method. Compare the speed of your code to that used in a computer algebra system. Which is faster? (Most computer algebra systems will apply some of the techniques of matrix algebra that we will have later, in Chapter Three.)
+
+**Problem 4**  —
+
+Extend the code fragment to handle the case where the *B* array has more than one column. That solves more than one system at a time (all with the same matrix of coefficients *A*).
+
+**Problem 5**  —
+
+The FORTRAN language specification requires that arrays be stored "by column", that is, the entire first column is stored contiguously, then the second column, etc. Does the code fragment given take advantage of this, or can it be rewritten to make it faster (by taking advantage of the fact that computer fetches are faster from contiguous locations)?
+
+**Problem 6**  —
+
+Estimate the running time of Gauss-Jordan reduction. Test your estimate by implementing Gauss-Jordan reduction in a computer language, and running it on $$5 \! \times \! 5$$, $$15 \! \times \! 15$$, and $$25 \! \times \! 25$$ matrices of random entries.
+
+[Solutions
+
+---
+
+*Source: Wikibooks, Linear Algebra/Topic: Speed of Gauss' Method (https://en.wikibooks.org/wiki/Linear_Algebra/Topic%3A_Speed_of_Gauss%27_Method), by Wikibooks contributors, CC BY-SA 4.0.*

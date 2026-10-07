@@ -1,0 +1,71 @@
+# Topic: Stable Populations
+
+Imagine a reserve park with animals from a species that we are trying to protect. The park doesn't have a fence and so animals cross the boundary, both from the inside out and in the other direction. Every year, 10% of the animals from inside of the park leave, and 1% of the animals from the outside find their way in. We can ask if we can find a stable level of population for this park: is there a population that, once established, will stay constant over time, with the number of animals leaving equal to the number of animals entering?
+
+To answer that question, we must first establish the equations. Let the year $$n$$ population in the park be $$p_n$$ and in the rest of the world be $$r_n$$.
+
+$$
+\begin{array}{rl} p_{n+1} &=.90p_n+.01r_n \\ r_{n+1} &=.10p_n+.99r_n \end{array}
+$$
+
+We can set this system up as a matrix equation (see the Markov Chain topic).
+
+$$
+\begin{pmatrix} p_{n+1} \\ r_{n+1} \end{pmatrix} =\begin{pmatrix} .90 &.01 \\ .10 &.99 \end{pmatrix} \begin{pmatrix} p_{n} \\ r_{n} \end{pmatrix}
+$$
+
+Now, "stable level" means that $$p_{n+1}=p_n$$ and $$r_{n+1}=r_n$$, so that the matrix equation $$\vec{v}_{n+1}=T\vec{v}_{n}$$ becomes $$\vec{v}=T\vec{v}$$. We are therefore looking for eigenvectors for $$T$$ that are associated with the eigenvalue $$1$$. The equation $$(I-T)\vec{v}=\vec{0}$$ is
+
+$$
+\begin{pmatrix} .10 &-.01 \\ -.10 &.01 \end{pmatrix} \begin{pmatrix} p \\ r \end{pmatrix}= \begin{pmatrix} 0 \\ 0 \end{pmatrix}
+$$
+
+which gives the eigenspace: vectors with the restriction that $$p=.1r$$. Coupled with additional information, that the total world population of this species is is $$p+r=110\,000$$, we find that the stable state is $$p=10,000$$ and $$r=100,000$$.
+
+If we start with a park population of ten thousand animals, so that the rest of the world has one hundred thousand, then every year ten percent (a thousand animals) of those inside will leave the park, and every year one percent (a thousand) of those from the rest of the world will enter the park. It is stable, self-sustaining.
+
+Now imagine that we are trying to gradually build up the total world population of this species. We can try, for instance, to have the world population grow at a rate of 1% per year. In this case, we can take a "stable" state for the park's population to be that it also grows at 1% per year. The equation $$\vec{v}_{n+1}=1.01\cdot\vec{v}_n=T\vec{v}_{n}$$ leads to $$((1.01\cdot I)-T)\vec{v}=\vec{0}$$, which gives this system.
+
+$$
+\begin{pmatrix} .11 &-.01 \\ -.10 &.02 \end{pmatrix} \begin{pmatrix} p \\ r \end{pmatrix}= \begin{pmatrix} 0 \\ 0 \end{pmatrix}
+$$
+
+The matrix is nonsingular, and so the only solution is $$p=0$$ and $$r=0$$. Thus, there is no (usable) initial population that we can establish at the park and expect that it will grow at the same rate as the rest of the world.
+
+Knowing that an annual world population growth rate of 1% forces an unstable park population, we can ask which growth rates there are that would allow an initial population for the park that will be self-sustaining. We consider $$\lambda\vec{v}=T\vec{v}$$ and solve for $$\lambda$$.
+
+$$
+0=\begin{vmatrix} \lambda-.9 &-.01 \\ -.10 &\lambda-.99 \end{vmatrix} =(\lambda-.9)(\lambda-.99)-(.10)(.01) =\lambda^2-1.89\lambda+.89
+$$
+
+A shortcut to factoring that quadratic is our knowledge that $$\lambda=1$$ is an eigenvalue of $$T$$, so the other eigenvalue is $$.89$$. Thus there are two ways to have a stable park population (a population that grows at the same rate as the population of the rest of the world, despite the leaky park boundaries): have a world population that is does not grow or shrink, and have a world population that shrinks by 11% every year.
+
+So this is one meaning of eigenvalues and eigenvectors— they give a stable state for a system. If the eigenvalue is $$1$$ then the system is static. If the eigenvalue isn't $$1$$ then the system is either growing or shrinking, but in a dynamically-stable way.
+
+### Exercises
+
+**Problem 1**  —
+
+What initial population for the park discussed above should be set up in the case where world populations are allowed to decline by 11% every year?
+
+**Problem 2**  —
+
+What will happen to the population of the park in the event of a growth in world population of 1% per year? Will it lag the world growth, or lead it? Assume that the park population is ten thousand, and the world population is one hundred thousand, and calculate over a ten year span.
+
+**Problem 3**  —
+
+The park discussed above is partially fenced so that now, every year, only 5% of the animals from inside of the park leave (still, about 1% of the animals from the outside find their way in). Under what conditions can the park maintain a stable population now?
+
+**Problem 4**  —
+
+Suppose that a species of bird only lives in Canada, the United States, or in Mexico. Every year, 4% of the Canadian birds travel to the US, and 1% of them travel to Mexico. Every year, 6% of the US birds travel to Canada, and 4% go to Mexico. From Mexico, every year 10% travel to the US, and 0% go to Canada.
+
+1. Give the transition matrix.
+2. Is there a way for the three countries to have constant populations?
+3. Find all stable situations.
+
+Solutions
+
+---
+
+*Source: Wikibooks, Linear Algebra/Topic: Stable Populations (https://en.wikibooks.org/wiki/Linear_Algebra/Topic%3A_Stable_Populations), by Wikibooks contributors, CC BY-SA 4.0.*
