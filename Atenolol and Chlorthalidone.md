@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** beta-Adrenergic Blocker, Thiazide-like Diuretic  
+**Drug class:** Thiazide-like Diuretic, beta-Adrenergic Blocker  
 **Labels on file:** 9
 
 ## Uses

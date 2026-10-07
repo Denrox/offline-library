@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Topoisomerase Inhibitor  
-**Labels on file:** 3
+**Labels on file:** 2
 
 **Brand and product names:** Vepesid
 

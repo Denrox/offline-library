@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Radioactive Diagnostic Agent  
-**Labels on file:** 18
+**Labels on file:** 17
 
 ## Uses
 

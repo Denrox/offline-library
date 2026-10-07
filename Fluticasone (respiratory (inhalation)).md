@@ -4,7 +4,7 @@
 
 **Route:** respiratory (inhalation)  
 **Ingredient forms:** Fluticasone Propionate, Fluticasone Furoate  
-**Labels on file:** 15
+**Labels on file:** 13
 
 **Brand and product names:** Flovent Diskus, Arnuity Ellipta, Flovent Hfa, Fluticasone Propionate Hfa, Fluticasone Propionate Diskus, Fluticasone Furoate Ellipta
 

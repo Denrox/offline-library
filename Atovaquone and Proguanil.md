@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Proguanil Hydrochloride  
 **Drug class:** Antimalarial, Antiprotozoal  
-**Labels on file:** 8
+**Labels on file:** 7
 
 **Brand and product names:** Malarone, Atovaquone and Proguanil Hydrochloride Pediatric
 

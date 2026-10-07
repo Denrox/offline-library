@@ -3,9 +3,8 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** subcutaneous  
-**Ingredient forms:** Teriparatide Acetate  
 **Drug class:** Parathyroid Hormone Analog  
-**Labels on file:** 7
+**Labels on file:** 6
 
 **Brand and product names:** Bonsity, Forteo
 

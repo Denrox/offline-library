@@ -4,7 +4,7 @@
 
 **Route:** respiratory (inhalation)  
 **Ingredient forms:** Fluticasone Propionate  
-**Labels on file:** 30
+**Labels on file:** 29
 
 **Brand and product names:** Advair Diskus, Advair Hfa, Wixela Inhub, Fluticasone Propionate and Salmeterol Diskus, Fluticasone Propionate and Salmeterol Hfa
 

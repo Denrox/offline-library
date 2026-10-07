@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Thiazide Diuretic  
-**Labels on file:** 69
+**Labels on file:** 68
 
 **Brand and product names:** Zestoretic, Lisinopril/hctz
 

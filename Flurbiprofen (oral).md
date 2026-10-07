@@ -4,9 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 3
-
-**Brand and product names:** Lurbiro
+**Labels on file:** 2
 
 ## ⚠ Boxed warning
 

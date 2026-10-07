@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** l-Triiodothyronine, l-Thyroxine  
-**Labels on file:** 19
+**Labels on file:** 18
 
-**Brand and product names:** Np Thyroid 60, Np Thyroid 30, Np Thyroid 15, Np Thyroid 120, Np Thyroid 90, Renthyroid, Evexithroid, Np Thyroid
+**Brand and product names:** Np Thyroid 60, Np Thyroid 30, Np Thyroid 15, Np Thyroid 120, Np Thyroid 90, Renthyroid, Np Thyroid
 
 ## ⚠ Boxed warning
 

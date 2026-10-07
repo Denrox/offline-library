@@ -4,7 +4,7 @@
 
 **Route:** intravenous, subcutaneous  
 **Ingredient forms:** Desmopressin Acetate  
-**Labels on file:** 20
+**Labels on file:** 19
 
 ## ⚠ Boxed warning
 

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Bisoprolol Fumarate  
 **Drug class:** Thiazide Diuretic  
-**Labels on file:** 20
+**Labels on file:** 19
 
 ## Uses
 

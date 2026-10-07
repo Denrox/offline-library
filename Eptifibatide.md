@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Platelet Aggregation Inhibitor  
-**Labels on file:** 10
+**Labels on file:** 9
 
 ## Uses
 

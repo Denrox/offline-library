@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Valacyclovir Hydrochloride  
-**Labels on file:** 92
+**Labels on file:** 91
 
 **Brand and product names:** Valtrex
 

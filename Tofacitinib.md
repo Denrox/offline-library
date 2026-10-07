@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Tofacitinib Citrate  
 **Drug class:** Janus Kinase Inhibitor  
-**Labels on file:** 25
+**Labels on file:** 24
 
 **Brand and product names:** Xeljanz, Xeljanz Xr
 

@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 17
+**Labels on file:** 16
 
 **Brand and product names:** Lido Bdk, Cadira Compliant Blood Stat
 

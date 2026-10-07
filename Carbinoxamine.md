@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Carbinoxamine Maleate  
-**Labels on file:** 9
+**Labels on file:** 8
 
-**Brand and product names:** Ryvent, Carbzah, Karbinal Er
+**Brand and product names:** Ryvent, Karbinal Er
 
 ## Uses
 

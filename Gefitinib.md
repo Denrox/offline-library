@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Kinase Inhibitor  
-**Labels on file:** 5
+**Labels on file:** 4
 
 **Brand and product names:** Iressa
 

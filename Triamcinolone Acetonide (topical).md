@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Corticosteroid  
-**Labels on file:** 137
+**Labels on file:** 136
 
-**Brand and product names:** Triderm, Kourzeq
+**Brand and product names:** Triderm
 
 ## Uses
 

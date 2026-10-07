@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Rifamycin Antimycobacterial  
-**Labels on file:** 6
+**Labels on file:** 5
 
 ## Uses
 

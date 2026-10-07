@@ -5,7 +5,7 @@
 **Route:** infiltration, perineural  
 **Ingredient forms:** Lidocaine Hydrochloride Anhydrous, Epinephrine Bitartrate, Lidocaine Hydrochloride  
 **Drug class:** alpha-Adrenergic Agonist, beta-Adrenergic Agonist, Catecholamine  
-**Labels on file:** 20
+**Labels on file:** 19
 
 **Brand and product names:** Xylocaine, Lidocaine Hci and Epinephrine, Lidocaine Hci
 

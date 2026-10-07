@@ -5,7 +5,7 @@
 **Route:** topical  
 **Ingredient forms:** Hydrocortisone Valerate, Hydrocortisone Butyrate, Hydrocortisone Acetate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 90
+**Labels on file:** 89
 
 **Brand and product names:** Proctozone-hc, Procto-med Hc, Proctosol-hc, Hydroxym, Cortifoam, Hydroxate Gel, Hydroxym Cream, Hydravex, Texacort, Anusol Hc, Ala-scalp, Hydralyn, Evesse, Alacort
 

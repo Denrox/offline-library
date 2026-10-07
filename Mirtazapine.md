@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 89
 
-**Brand and product names:** Remeronsoltab, Remeron
+**Brand and product names:** Remeron, Remeronsoltab
 
 ## ⚠ Boxed warning
 

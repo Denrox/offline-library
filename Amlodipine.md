@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Amlodipine Besylate  
 **Drug class:** Dihydropyridine Calcium Channel Blocker, Calcium Channel Blocker  
-**Labels on file:** 125
+**Labels on file:** 124
 
 **Brand and product names:** Norliqva, Norvasc
 

@@ -5,7 +5,7 @@
 **Route:** intravenous  
 **Ingredient forms:** Nicardipine Hydrochloride  
 **Drug class:** Dihydropyridine Calcium Channel Blocker  
-**Labels on file:** 25
+**Labels on file:** 24
 
 **Brand and product names:** Cardene Iv
 

@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Labels on file:** 194
+**Labels on file:** 193
 
 **Brand and product names:** Klor-con, Pokonza, Klor-con M, Pokonza Potassium Chloride
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Prochlorperazine Maleate  
-**Labels on file:** 42
+**Labels on file:** 41
 
 ## ⚠ Boxed warning
 

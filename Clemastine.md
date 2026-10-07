@@ -4,9 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Clemastine Fumarate  
-**Labels on file:** 4
-
-**Brand and product names:** Clemsza
+**Labels on file:** 3
 
 ## Uses
 

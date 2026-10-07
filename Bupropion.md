@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Bupropion Hydrochloride, Bupropion Hydrobromide  
-**Labels on file:** 243
+**Labels on file:** 242
 
 **Brand and product names:** Aplenzin, Forfivo Xl, Wellbutrin Xl, Wellbutrin Sr, Bupropion Hydrochloride (xl), Bupropion Hydrochloride Xl, Bupropion Hcl Er (xl)
 

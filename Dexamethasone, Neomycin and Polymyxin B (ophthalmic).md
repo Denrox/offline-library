@@ -5,7 +5,7 @@
 **Route:** ophthalmic  
 **Ingredient forms:** Neomycin Sulfate, Polymyxin B Sulfate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 23
+**Labels on file:** 22
 
 **Brand and product names:** Maxitrol, Neo/poly-b/dex Ophth Oint, Neomycin and Polymyxin B Sulfates and Dexamethasone, Neomycin Polymyxin B Sulfates and Dexamethasone
 

@@ -3,9 +3,9 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Labels on file:** 147
+**Labels on file:** 146
 
-**Brand and product names:** Topamax, Qudexy Xr, Eprontia
+**Brand and product names:** Qudexy Xr, Eprontia
 
 ## Uses
 

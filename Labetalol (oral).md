@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Labetalol Hydrochloride  
 **Drug class:** beta-Adrenergic Blocker  
-**Labels on file:** 65
+**Labels on file:** 64
 
 ## Uses
 

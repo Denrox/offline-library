@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Aromatic Amino Acid Decarboxylation Inhibitor, Catechol-O-Methyltransferase Inhibitor, Aromatic Amino Acid  
+**Drug class:** Aromatic Amino Acid Decarboxylation Inhibitor, Aromatic Amino Acid, Catechol-O-Methyltransferase Inhibitor  
 **Labels on file:** 5
 
 ## Uses

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Peroxisome Proliferator Receptor alpha Agonist  
-**Labels on file:** 136
+**Labels on file:** 135
 
 **Brand and product names:** Antara, Lipofen, Tricor
 

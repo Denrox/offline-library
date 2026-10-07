@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Ziprasidone Hydrochloride  
-**Labels on file:** 31
+**Labels on file:** 30
 
 ## ⚠ Boxed warning
 

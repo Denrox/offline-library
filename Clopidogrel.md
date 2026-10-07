@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Clopidogrel Bisulfate  
 **Drug class:** P2Y12 Platelet Inhibitor  
-**Labels on file:** 55
+**Labels on file:** 56
 
 **Brand and product names:** Plavix
 

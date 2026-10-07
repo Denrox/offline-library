@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Carbonic Anhydrase Inhibitor  
-**Labels on file:** 47
+**Labels on file:** 46
 
 ## Uses
 

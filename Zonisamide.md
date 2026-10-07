@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Anti-epileptic Agent  
-**Labels on file:** 32
+**Labels on file:** 31
 
 **Brand and product names:** Zonisade
 

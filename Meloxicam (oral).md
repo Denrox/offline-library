@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 117
+**Labels on file:** 116
 
 ## ⚠ Boxed warning
 

@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Retinoid  
-**Labels on file:** 53
+**Labels on file:** 52
 
-**Brand and product names:** Retin-a Micro, Altreno, Retin-a, Renova, Atralin, Tretinoin (microsphere)
+**Brand and product names:** Retin-a Micro, Retin-a, Renova, Atralin, Tretinoin (microsphere)
 
 ## Uses
 

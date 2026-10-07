@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous  
 **Drug class:** Muscle Relaxant  
-**Labels on file:** 13
+**Labels on file:** 12
 
 **Brand and product names:** Robaxin
 

@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Corticosteroid  
-**Labels on file:** 3
+**Labels on file:** 2
 
 ## Uses
 

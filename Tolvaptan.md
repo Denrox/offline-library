@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Vasopressin V2 Receptor Antagonist  
-**Labels on file:** 9
+**Labels on file:** 8
 
-**Brand and product names:** Jynarque, Samsca
+**Brand and product names:** Samsca
 
 ## ⚠ Boxed warning
 

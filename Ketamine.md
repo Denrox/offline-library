@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous  
 **Ingredient forms:** Ketamine Hydrochloride  
-**Labels on file:** 14
+**Labels on file:** 13
 
 **Brand and product names:** Ketalar
 

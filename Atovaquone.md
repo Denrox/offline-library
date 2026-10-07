@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Antimalarial, Antiprotozoal  
-**Labels on file:** 23
+**Labels on file:** 22
 
 **Brand and product names:** Mepron
 
