@@ -77,8 +77,10 @@ jobs:
           find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
           cp -a "$RUNNER_TEMP/out/." .
           git add -A
-          # The README carries the snapshot date; ignore it when nothing else changed.
-          if git diff --cached --quiet -- . ':!README.md' && git rev-parse --quiet --verify HEAD >/dev/null; then
+          # The README and manifest.json carry the snapshot date; ignore them when nothing else changed.
+          # A branch without a manifest yet gets one.
+          if git diff --cached --quiet -- . ':!README.md' ':!manifest.json' && git rev-parse --quiet --verify HEAD >/dev/null \
+              && git cat-file -e HEAD:manifest.json 2>/dev/null; then
             echo "No content changes"
             exit 0
           fi

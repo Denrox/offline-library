@@ -1,13 +1,17 @@
-"""Writes a source's content branch: pages, categories.json, README.md, LICENSE.
+"""Writes a source's content branch: pages, categories.json, manifest.json, README.md, LICENSE.
 
 ui-apt-mirror imports every .md file except README.md, takes the first
 "# Heading" as the title and reads categories.json as
 {"Category": ["file.md", ...]}.
 
+manifest.json lets a client see a source's size and whether it changed without
+downloading it: page count, total size of the pages, and a hash of the content.
+
 Links are rewritten for offline use: a link to a page of the same source
 becomes a relative link to that page's file, every other link becomes its text.
 """
 
+import hashlib
 import json
 import os
 import re
@@ -91,4 +95,29 @@ class Output:
             )
         with open(os.path.join(self.dir, "LICENSE"), "w", encoding="utf-8") as f:
             f.write(f"{s['license']}\n\n{s['attribution']}\n")
+        self._write_manifest(snapshot, len(cats))
         return {"pages": len(self.files), "categories": len(cats)}
+
+    def _write_manifest(self, snapshot, categories):
+        """Hashes the pages and categories.json, so the hash changes only with the content."""
+        digest = hashlib.sha256()
+        size = 0
+        names = sorted(n for n in os.listdir(self.dir) if n.endswith(".md") and n != "README.md")
+        for name in names + ["categories.json"]:
+            with open(os.path.join(self.dir, name), "rb") as f:
+                data = f.read()
+            digest.update(name.encode("utf-8") + b"\0" + data + b"\0")
+            if name != "categories.json":
+                size += len(data)
+        manifest = {
+            "format": 1,
+            "id": self.source["id"],
+            "pages": len(names),
+            "categories": categories,
+            "bytes": size,
+            "content_hash": digest.hexdigest(),
+            "snapshot": snapshot,
+        }
+        with open(os.path.join(self.dir, "manifest.json"), "w", encoding="utf-8") as f:
+            json.dump(manifest, f, indent=2, ensure_ascii=False)
+            f.write("\n")

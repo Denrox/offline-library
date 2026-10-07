@@ -45,6 +45,10 @@ advice; in an emergency call your local emergency number.
 Each page is a markdown file whose first `# Heading` is its title.
 `categories.json` maps a category to the pages in it:
 `{"Category": ["Page.md", ...]}`.
+`manifest.json` describes the branch for clients that check for updates:
+`{"format": 1, "id", "pages", "categories", "bytes", "content_hash", "snapshot"}`,
+where `bytes` is the total size of the pages and `content_hash` (SHA-256 over the
+pages and `categories.json`) changes only when the content does.
 
 Only add content whose license allows redistribution, and record the license
 and attribution in `sources.json`.
