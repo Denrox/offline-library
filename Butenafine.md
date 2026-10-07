@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Butenafine Hydrochloride  
-**Labels on file:** 22
+**Labels on file:** 21
 
-**Also sold as:** Athletes Foot, Athletes Foot Ultra, Jock Itch, Lotrimin Ultra Ringworm, Jock Itch Cream, Lotrimin Ultra Jock Itch, Lotrimin Ultra, Lotrimin Ultra Athletes Foot, Butenafine Hydrochloride Athletes Foot, Butenafine Hydrochloride Jock Itch
+**Also sold as:** Athletes Foot, Athletes Foot Ultra, Lotrimin Ultra Ringworm, Jock Itch Cream, Jock Itch, Lotrimin Ultra Jock Itch, Lotrimin Ultra, Lotrimin Ultra Athletes Foot, Butenafine Hydrochloride Athletes Foot, Butenafine Hydrochloride Jock Itch
 
 ## Active ingredients
 

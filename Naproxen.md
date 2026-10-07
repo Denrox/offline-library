@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Naproxen Sodium  
-**Labels on file:** 226
+**Labels on file:** 224
 
 **Also sold as:** All Day Pain Relief, Aleve, Aleve Caplets, Flanax Pain Reliever/fever Reducer, Topcare All Day Pain Relief, All Day Relief, Rugby All Day Relief, Medique Mediproxen, Aleve Headache Pain, Back and Muscle Pain, Aleve Back and Muscle Pain, Aleve Easy Open Arthritis Cap, Bayer Aleve, Belmora Flanax, Pain Relief, Leader All Day Pain Relief, Foster and Thrive All Day Pain Relief, Aleve Caplets Soft Grip Arthritis, Aleve Caplets Easy Open Arthritis, Ana-dent Pain Relief, All Day Back and Muscle Pain Relief, Proxen Np 660, Aleve Gelcaps, First Aid Direct All Day Pain Relief, Anadent and 39 more
 

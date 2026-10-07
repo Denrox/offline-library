@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Doxylamine Succinate, Dextromethorphan Hydrobromide  
-**Labels on file:** 31
+**Labels on file:** 30
 
-**Also sold as:** Nighttime Cough Dm, Cough Relief Nighttime, Nighttime Cough, Tussin Dm Max Nighttime, Night Time Cough, Robitussin Honey Maximum Strength Nighttime Cough Dm, Mucinex Childrens Mighty Chews Cough Nighttime, Tussin Dm Nighttime Max, Cvs Dex-dox Kids Nighttime Cough Suppressant, Safetussin Pm Nighttime Cough Relief, Walgreens Adult Nighttime Wal Tussin Dm Max Maximum Strength, Robitussin Nighttime Cough Dm Soft Chews, Cough Dm Nighttime, Robitussin Maximum Strength Nighttime Cough Dm, Tussin Dm Nighttime, Childrens Robitussin Honey Nighttime Cough Dm, Amazon Maximim Strength Adult Nighttime Cough Dm, Dg Health Tussin, Tussin Nighttime Cough, Careone Tussin Dm, Meijer Maximum Strength Nighttime Cough Dm, Childrens Nighttime Mucus, Topcare Tussin Dm Max, Nighttime Cough Relief, Tussin Dm
+**Also sold as:** Nighttime Cough Dm, Cough Relief Nighttime, Nighttime Cough, Tussin Dm Max Nighttime, Night Time Cough, Robitussin Honey Maximum Strength Nighttime Cough Dm, Mucinex Childrens Mighty Chews Cough Nighttime, Tussin Dm Nighttime Max, Cvs Dex-dox Kids Nighttime Cough Suppressant, Safetussin Pm Nighttime Cough Relief, Walgreens Adult Nighttime Wal Tussin Dm Max Maximum Strength, Robitussin Nighttime Cough Dm Soft Chews, Cough Dm Nighttime, Robitussin Maximum Strength Nighttime Cough Dm, Tussin Dm Nighttime, Childrens Robitussin Honey Nighttime Cough Dm, Amazon Maximim Strength Adult Nighttime Cough Dm, Dg Health Tussin, Tussin Nighttime Cough, Careone Tussin Dm, Childrens Nighttime Mucus, Topcare Tussin Dm Max, Nighttime Cough Relief, Tussin Dm
 
 ## Active ingredients
 

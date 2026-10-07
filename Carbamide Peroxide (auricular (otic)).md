@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** auricular (otic)  
-**Labels on file:** 38
+**Labels on file:** 37
 
-**Also sold as:** Ear Wax Removal Aid Drops, Earwax Removal Drops, Clearcanal Ear Wax Softerner Drops, Debrox, Ear Drops, Otix Ear Wax Removal Drops, Careone Earwax Removal Drops, Tech Care Earwax Removal Drops, Wax Away Earwax Removal System, Healthy Ears, Audiologists Choice Earwax Removal Aid Drops, Doloear, Best Choice Earwax Removal Drops, Freskaro Earwax Removal Aid, Ent Essentials Ear Wax Remvoer, Waxrx Ear Wax Removal Aid Drops, Topcare Earwax Removal Kit, Wax Away Earwax Removal Aid, Meijer Earwax Removal Drops, Family Care Earwax Removal, Ear Wax Rmvl Rite Aid, Suavear Earwax Removal Aid, Topcare Earwax Removal Drops, Prorinse Earwax Removal System, Wax Out Plus and 5 more
+**Also sold as:** Ear Wax Removal Aid Drops, Earwax Removal Drops, Clearcanal Ear Wax Softerner Drops, Debrox, Ear Drops, Otix Ear Wax Removal Drops, Tech Care Earwax Removal Drops, Wax Away Earwax Removal System, Healthy Ears, Audiologists Choice Earwax Removal Aid Drops, Doloear, Best Choice Earwax Removal Drops, Freskaro Earwax Removal Aid, Ent Essentials Ear Wax Remvoer, Waxrx Ear Wax Removal Aid Drops, Topcare Earwax Removal Kit, Wax Away Earwax Removal Aid, Meijer Earwax Removal Drops, Family Care Earwax Removal, Ear Wax Rmvl Rite Aid, Suavear Earwax Removal Aid, Topcare Earwax Removal Drops, Prorinse Earwax Removal System, Wax Out Plus, Neilmed Clear Canal Earwax Removal Kit and 4 more
 
 ## Active ingredients
 

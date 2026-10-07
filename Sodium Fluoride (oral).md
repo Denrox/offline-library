@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 238
+**Labels on file:** 237
 
 **Also sold as:** Anticavity, Anticavity Rinse, Alcohol-free Anticavity, Oral Antivavity, Autobrush Mint, Scope Stay Strong, Autobrush Bubblegum, Therabreath Anticavity, Anticavity Mouth Rinse Low-foaming Spearmint, Crest 3d White Stain Eraser Daily Stain Prevention Icy Clean Mint, Dr. Jen Superpaste Nano-hydroxyapatite, Mouth Rinse, Brush Buddies Spidey and His Amazing Friends Anticavity Fluoride-spidey Punch, Autobrush Strawberry, Listerine Clinical Solutions Teeth Strength Alpine Mint, Biotene Fresh Mint Original, Biotene Gentle Mint, Listerine Clinical Solutions Enamel Strength Alpine Mint, Oralline Kids, Crest 3d White Brilliance Pro Rinse, Crest Pro-health Advanced Anti-cavity Max Cavity, Crest Pro-health Advanced Enamel Care, A and H Plus Therabreath Breath Freshners, Therabreath Fresh Breath Anticavity Mild Mint, Crest Pro-health Advanced Multi-protection and 120 more
 

@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Pyrilamine Maleate  
 **Drug class:** Central Nervous System Stimulant, Methylxanthine  
-**Labels on file:** 49
+**Labels on file:** 47
 
-**Also sold as:** Menstrual Complete, Menstrual Relief, Buscapina, Midol Complete, Menstrual Complete Maximum Strength, Menstrual Pain Relief Complete, Midol Complete Gelcaps, Menstrual Complete Pain Relief, Multi-symptom Menstrual Relief, Menstrual Pain Relief, Menstrual Relief Maximum Strength, Dolex Fem, Syncol Max, Midol, Flo Pms Complete, Midol Complete, Travel Basix, Comfort-time
+**Also sold as:** Menstrual Complete, Menstrual Relief, Midol Complete, Buscapina, Menstrual Complete Maximum Strength, Menstrual Pain Relief Complete, Midol Complete Gelcaps, Menstrual Complete Pain Relief, Multi-symptom Menstrual Relief, Menstrual Pain Relief, Menstrual Relief Maximum Strength, Dolex Fem, Syncol Max, Midol, Flo Pms Complete, Midol Complete, Travel Basix, Comfort-time
 
 ## Active ingredients
 

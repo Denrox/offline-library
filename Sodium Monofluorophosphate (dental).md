@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** dental  
-**Labels on file:** 100
+**Labels on file:** 99
 
-**Also sold as:** Toms of Maine Whole Care Spearmint, Colgate Anticavity Kit, Crest Kids Advanced Color Changing, Salivea, Freshmint Anticavity Fluoride, Colgate Great Regular Flavor, Fluoride Bits, Whitening, Colgate Sparkling White Mint Zing, Sparklefresh Flouride Toothpaste, Colgate Optic White Pro Series Express White, Toms of Maine Kids Outrageous Orange Mango, Optimax Anticavity Fluoride Bubblegum, Toms Wicked Fresh Cool Peppermint Fresh Breath / Cavity Protection, Colgate Cavity Protection Great Regular Flavor, Supersmile Professional Whitening Tp Peppy Mint 8 Oz, Kids Strawberry Ftp, Optimax Anticavity Fluoride Cotton Candy, Colgate Baking Soda and Peroxide Whitening Oxygen Bubbles Frosty Mint, Toms of Maine Wicked Fresh Cool Peppermint, Instant Whitening, Professional Choice, Coffe Tea Stain Remover Tooth, Professional Whitening Tooth, Purple Tooth and 67 more
+**Also sold as:** Toms of Maine Whole Care Spearmint, Colgate Anticavity Kit, Crest Kids Advanced Color Changing, Salivea, Colgate Great Regular Flavor, Fluoride Bits, Whitening, Colgate Sparkling White Mint Zing, Sparklefresh Flouride Toothpaste, Colgate Optic White Pro Series Express White, Toms of Maine Kids Outrageous Orange Mango, Optimax Anticavity Fluoride Bubblegum, Toms Wicked Fresh Cool Peppermint Fresh Breath / Cavity Protection, Colgate Cavity Protection Great Regular Flavor, Supersmile Professional Whitening Tp Peppy Mint 8 Oz, Kids Strawberry Ftp, Optimax Anticavity Fluoride Cotton Candy, Colgate Baking Soda and Peroxide Whitening Oxygen Bubbles Frosty Mint, Toms of Maine Wicked Fresh Cool Peppermint, Instant Whitening, Professional Choice, Coffe Tea Stain Remover Tooth, Professional Whitening Tooth, Purple Tooth, Morning Fresh Mint Toothpaste, with Fluoride and 67 more
 
 ## Active ingredients
 

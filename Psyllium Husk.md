@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 26
+**Labels on file:** 25
 
 **Also sold as:** Metamucil Therapy For Regularity, Up and Up Fiber Therapy, Cvs Health, Best Choice Fiber Therapy Orange Flavor, Dr. Fibra, Fiber Laxative, Sams West, Topco Fiber Therapy Sugar Free, Premier Value Orange Flavor, Quality Choice Fiber Laxative, Careone, Careone Orange Flavored, Publix, Premier Value Fiber Therapy Orange Flavor, Premier Value Fiber Therapy Original Coarse, Best Choice Fiber Laxative, Daily Fiber Sugar Free, Target Fiber Laxative, Publix Fiber Therapy Orange Smooth, Premier Value Fiber, Best Choice Fiber Therapy Original Coarse, Publix Fiber Therapy Sugar Free, Up and Up Fiber Therapy Natural Fiber
 

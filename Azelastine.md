@@ -4,7 +4,7 @@
 
 **Route:** nasal  
 **Ingredient forms:** Azelastine Hydrochloride  
-**Labels on file:** 9
+**Labels on file:** 8
 
 **Also sold as:** Astepro Allergy, Children Astepro Allergy
 

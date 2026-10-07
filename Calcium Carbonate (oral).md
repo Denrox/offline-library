@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 484
+**Labels on file:** 481
 
-**Also sold as:** Ultra Strength Antacid, Extra Strength Antacid, Extra Strength Smooth Antacid, Antacid, Ultra Strength Antacid Assorted Fruit, Tums Chewy Bites, Extra Strength, Extra Strength Antacid Tropical Fruit, Antacid Extra Strength, Ultra Strength Antacid Assorted Berries, Regular Strength Antacid, Extra Strength Antacid Assorted Fruit, Regular Strength Antacid Peppermint, Childrens Antacid, Genexa Antacid Maximum Strength, Ultra Strength, Assorted Fruit Antacid Flavor Chews, Cherry Antacid Soft Chews, Extra Strength Smooth, Whole Foods Market Regular Strength Peppermint Flavor, Equate Extra Strength Antacid, Extra Strength Antacid Assorted Berries, Tums Antacid Chewy Bites, Walgreens Wild Berry Antacid Chews, Antacid Ultra Strength and 304 more
+**Also sold as:** Ultra Strength Antacid, Extra Strength Antacid, Extra Strength Smooth Antacid, Antacid, Ultra Strength Antacid Assorted Fruit, Tums Chewy Bites, Extra Strength, Extra Strength Antacid Tropical Fruit, Antacid Extra Strength, Ultra Strength Antacid Assorted Berries, Regular Strength Antacid, Extra Strength Antacid Assorted Fruit, Regular Strength Antacid Peppermint, Childrens Antacid, Genexa Antacid Maximum Strength, Ultra Strength, Assorted Fruit Antacid Flavor Chews, Cherry Antacid Soft Chews, Extra Strength Smooth, Whole Foods Market Regular Strength Peppermint Flavor, Equate Extra Strength Antacid, Extra Strength Antacid Assorted Berries, Tums Antacid Chewy Bites, Walgreens Wild Berry Antacid Chews, Antacid Ultra Strength and 302 more
 
 ## Active ingredients
 

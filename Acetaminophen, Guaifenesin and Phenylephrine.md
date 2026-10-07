@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Phenylephrine Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 96
+**Labels on file:** 95
 
-**Also sold as:** Sinus Severe, Tylenol Sinus Severe, Head Congestion Plus Mucus Pe, Mucus Relief Sinus Severe Congestion Relief, Severe Sinus Congestion and Pain, Mucus Relief Sinus Severe Congestion and Pain, Cold Plus Head Congestion Severe, Severe Congestion and Pain, Cold Head Congestion Severe, Cold and Head Congestion Severe, Head Congestion Mucus Pe, Daytime Sinus Severe, Maximum Strength Mucinex Sinus-max Severe Congestion and Pain, Broncochem Kids Cold and Flu, Sinus Congestion and Pain Severe, Cold Plus Flu Congestion Severe, Xpect Cold Relief, Sinus Relief, Caseys 4good, Tussnex Fm Cold and Sinus, Mucinex Sinus-max Severe Congestion Relief, Axiv Sinus Severe Mucus, Pressure Pain Mucus Pe, Pressure and Pain Plus Mucus Pe, Mucus Relief Congestion and Headache Maximum Strength, Maximum Strength Max Cold and Sinus and 33 more
+**Also sold as:** Sinus Severe, Tylenol Sinus Severe, Head Congestion Plus Mucus Pe, Mucus Relief Sinus Severe Congestion Relief, Severe Sinus Congestion and Pain, Mucus Relief Sinus Severe Congestion and Pain, Cold Plus Head Congestion Severe, Severe Congestion and Pain, Cold Head Congestion Severe, Cold and Head Congestion Severe, Head Congestion Mucus Pe, Daytime Sinus Severe, Maximum Strength Mucinex Sinus-max Severe Congestion and Pain, Broncochem Kids Cold and Flu, Sinus Congestion and Pain Severe, Cold Plus Flu Congestion Severe, Xpect Cold Relief, Sinus Relief, Caseys 4good, Tussnex Fm Cold and Sinus, Mucinex Sinus-max Severe Congestion Relief, Axiv Sinus Severe Mucus, Pressure Pain Mucus Pe, Pressure and Pain Plus Mucus Pe, Mucus Relief Congestion and Headache Maximum Strength, Maximum Strength Max Cold and Sinus and 32 more
 
 ## Active ingredients
 

@@ -4,7 +4,7 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Naphazoline Hydrochloride, Pheniramine Maleate  
-**Labels on file:** 11
+**Labels on file:** 10
 
 **Also sold as:** Eye Allergy Relief, Opcon-a, Naphcon A, Visine Allergy Eye Relief Multi-action, Naphazoline Hci and Pheniramine Maleate
 

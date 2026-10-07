@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Levocetirizine Dihydrochloride  
-**Labels on file:** 34
+**Labels on file:** 33
 
 **Also sold as:** Allergy Relief, Curist Allergy Relief, Topcare All Day Allergy, Dg Health Allergy Relief, 24hr Allergy Relief, Allergy Relief 24hr, Xyzal Allergy 24hr, Childrens Xyzal Allergy, Allery Relief 24hr, Basic Care Allergy Relief, Good Sense Levocetirizine
 

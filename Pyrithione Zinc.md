@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 315
+**Labels on file:** 314
 
-**Also sold as:** Dandruff, 2 in 1 Dandruff, Everyday Clean Dandruff, Dry Scalp Care, Everyday Clean, Dermazinc, Dry Scalp, Dove, Dove Men Care, Everyday Clean 2 in 1, Equate Everyday Clean Dandruff Anti-dandruff, Cerave Anti-dandruff Hydrating Conditioner, Walgreens Dandruff Conditioner 2 in 1 Itchy Scalp Anti-dandruff, Equate Dry Scalp 2 in 1 Dandruff Anti-dandruff, Tea Tree Oil Dandruff, Quality Choice Dandruff 2 in 1, Quality Choice Dandruff Dry Scalp Care, Quality Choice Dandruff Everyday Clean, 13.5oz 2 in 1 Dandruff Hair Cleanse and Conditioner - Eucalyptus and Mint, 13.5oz 2 in 1 Dandruff Hair Cleanse and Conditioner - Shea and Cocoa Butter, Anti Dandruff Shampoos, Nioxin Pro Clinical Scalp Recovery Scalp Soothing Serum, Balancing, Anti Dandruff Shampoo473ml, Dry Scalp Dandruff and 193 more
+**Also sold as:** Dandruff, 2 in 1 Dandruff, Everyday Clean Dandruff, Dry Scalp Care, Everyday Clean, Dermazinc, Dry Scalp, Dove, Dove Men Care, Everyday Clean 2 in 1, Equate Everyday Clean Dandruff Anti-dandruff, Cerave Anti-dandruff Hydrating Conditioner, Walgreens Dandruff Conditioner 2 in 1 Itchy Scalp Anti-dandruff, Equate Dry Scalp 2 in 1 Dandruff Anti-dandruff, Tea Tree Oil Dandruff, Quality Choice Dandruff 2 in 1, Quality Choice Dandruff Dry Scalp Care, Quality Choice Dandruff Everyday Clean, 13.5oz 2 in 1 Dandruff Hair Cleanse and Conditioner - Eucalyptus and Mint, 13.5oz 2 in 1 Dandruff Hair Cleanse and Conditioner - Shea and Cocoa Butter, Anti Dandruff Shampoos, Nioxin Pro Clinical Scalp Recovery Scalp Soothing Serum, Balancing, Anti Dandruff Shampoo473ml, Dry Scalp Dandruff and 192 more
 
 ## Active ingredients
 

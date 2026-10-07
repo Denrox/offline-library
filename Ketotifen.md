@@ -4,9 +4,9 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Ketotifen Fumarate  
-**Labels on file:** 22
+**Labels on file:** 21
 
-**Also sold as:** Eye Itch Relief, Eye Itch Releif, Zaditor, Equate Eye Itch Relief, Alaway, Ketotifen Fumarate Ophthalmic Solution
+**Also sold as:** Eye Itch Relief, Zaditor, Equate Eye Itch Relief, Alaway, Ketotifen Fumarate Ophthalmic Solution
 
 ## Active ingredients
 

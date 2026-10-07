@@ -4,58 +4,68 @@
 
 **Route:** oral  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 22
+**Labels on file:** 19
 
-**Also sold as:** Cherry Sore Throat Lozenge, Vicks Vapocool Sore Throat, Sore Throat Logenzes Sore Throat, Cherry Sore Throat Lozenges, Cherry Throat Relief Lozenges, Chloraseptic, Cepacol Extra Strength Sore Throat Honey Lemon, Chloraspetic, Vicks Vapocool Severe Plus Intense Pain Relief, Honey Lemon Sore Throat Lozenges, Toothache and Gum Relief Cushions, Chloraseptic Max, Good Sense Cherry Benzocaine Lozenges
+**Also sold as:** Cherry Sore Throat Lozenge, Sore Throat Logenzes Sore Throat, Cherry Sore Throat Lozenges, Cherry Throat Relief Lozenges, Chloraseptic, Cepacol Extra Strength Sore Throat Honey Lemon, Chloraspetic, Honey Lemon Sore Throat Lozenges, Vicks Vapocool Sore Throat, Toothache and Gum Relief Cushions, Chloraseptic Max, Good Sense Cherry Benzocaine Lozenges
 
 ## Active ingredients
 
-(per lozenge) Benzocaine 15 mg Menthol 20 mg Purpose Oral anesthetic Oral anesthetic
+Purpose Benzocaine 15 mg Oral pain reliever Menthol 3.6 mg Oral pain reliever
+
+| Active ingredients (in each lozenge) | Purpose |
+| --- | --- |
+| Benzocaine 15 mg | Oral pain reliever |
+| Menthol 3.6 mg | Oral pain reliever |
 
 ## Purpose
 
-Oral anesthetic Oral anesthetic
+Active ingredients (in each lozenge) Purpose Benzocaine 15 mg Oral pain reliever Menthol 3.6 mg Oral pain reliever
+
+| Active ingredients (in each lozenge) | Purpose |
+| --- | --- |
+| Benzocaine 15 mg | Oral pain reliever |
+| Menthol 3.6 mg | Oral pain reliever |
 
 ## Uses
 
-temporarily relieves occasional minor irritation and pain due to sore throat sore mouth
+temporary relief of occasional sore throat sore mouth minor mouth irritation pain associated with canker sores
 
 ## Warnings
 
-Methemoglobinemia Warning – Use of this product may cause methemoglobinemia, a serious condition that must be treated promptly because it reduces the amount of oxygen carried in blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops: pale, gray or blue colored skin (cyanosis) headache rapid heart rate shortness of breath dizziness or lightheadedness fatigue or lack of energy
+Allergy alert Do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine or any other 'caine' anesthetics. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea or vomiting consult a doctor promptly. Do not use in a child under 5 years of age. Stop use and ask a doctor or dentist if sore mouth symptoms do not improve in 7 days irritation, pain or redness persists or worsens swelling, rash or fever develops If pregnant or breast-feeding, ask a health professional before use. Keep this and all drugs out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not exceed recommended dosage.
 
 ### Do not use
 
-for teething in children under 2
+in a child under 5 years of age.
 
-### Ask a doctor before use if
+### When using this product
 
-you have a severe sore throat accompanied by difficulty in breathing or that lasts more than 2 days a sore throat accompanied by fever, headache, rash, swelling, nausea or vomiting
+Do not exceed recommended dosage.
 
 ### Stop use and ask a doctor if
 
-sore mouth symptoms do not improve in 7 days, or if irritation, pain, or redness persists or worsens
+or dentist if sore mouth symptoms do not improve in 7 days irritation, pain or redness persists or worsens swelling, rash or fever develops
 
 ### Pregnancy or breast-feeding
 
-If pregnant or breast-feeding , ask a health professional before use.
+If pregnant or breast-feeding, ask a health professional before use.
 
 ### Keep out of reach of children
 
-Keep out of reach of children.
+Keep this and all drugs out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
 
 ## Directions
 
-adults and children 12 years and over: dissolve 1 lozenge slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. children under 12 years: do not use.
+adults and children 5 years or older: allow lozenge to dissolve slowly in the mouth; may be repeated every 2 hours as needed or as directed by a doctor or dentist. children under 5 years of age: ask a doctor
 
 ## Other information
 
-store at room temperature; protect from moisture contains soy
+tamper evident packaging: Do not use if outer box or blister is open or damaged. store at room temperature protect contents from moisture
 
 ## Inactive ingredients
 
-corn syrup, flavors, propylene glycol, sucrose
+Glucose syrup, N&A flavoring, propylene glycol, red #40, sucrose, and water. Soybean oil used as processing aid.
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-03-23, DailyMed set ID 911a05de-cb3f-c1d2-e053-2995a90ae4be. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2026-02-24, DailyMed set ID 11416620-4892-44ba-9780-db27efff6743. Public domain.*

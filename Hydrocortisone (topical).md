@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Hydrocortisone Acetate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 377
+**Labels on file:** 376
 
-**Also sold as:** Anti Itch, Good Sense Anti Itch, American Safety and First Aid, Barmicil Plus, Equaline Anti Itch Maximum Strength, Rite Aid Anti-itch, American Red Cross Anti-itch, Aquanil Hc, Marie Originals Medicated Outdoor Anti Itch, Viaderma Calm Anti-itch, Equaline Anti Itch, Family Care Anti-itch, Itch Relief, Family Wellness, Cortizone 10 Fast Acting Itch Relief Cooling, Equate Cortisone, Dermarest Eczema Medicated, Cortisone 10 Intensive Moisture Creme, Skin Relief Cream, Gerigentle, Bloop Itch Soothing Topical, Westlake Anti-itch, Anti-itch Paraben Free, Cortizone 10 Water Resistant, Cortizone 10 Cooling and 208 more
+**Also sold as:** Anti Itch, Good Sense Anti Itch, American Safety and First Aid, Barmicil Plus, Equaline Anti Itch Maximum Strength, Rite Aid Anti-itch, American Red Cross Anti-itch, Aquanil Hc, Marie Originals Medicated Outdoor Anti Itch, Viaderma Calm Anti-itch, Equaline Anti Itch, Family Care Anti-itch, Itch Relief, Family Wellness, Cortizone 10 Fast Acting Itch Relief Cooling, Equate Cortisone, Dermarest Eczema Medicated, Cortisone 10 Intensive Moisture Creme, Skin Relief Cream, Gerigentle, Bloop Itch Soothing Topical, Westlake Anti-itch, Anti-itch Paraben Free, Cortizone 10 Water Resistant, Cortizone 10 Cooling and 207 more
 
 ## Active ingredients
 

@@ -3,13 +3,13 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 198
+**Labels on file:** 194
 
-**Also sold as:** Gas Relief, Simethicone, Gas Relief Extra Strength, Gas Relief Ultra Strength, Extra Strength Gas Relief, Ultra Strength Gas Relief, Infants Gas Relief, Extra Strength Gas Relief Cherry, Maximum Strength Gas Relief, Teeny Tummy Gas Relief Drops, Simethicone 125 Mg, Simethicone Infant Gas Relief Drops, Quality Choice Gas Relief Extra Strength Softgels, Extra Strength Gas Relief Cherry Creme, Simethicone 80 Mg, Phazyme, Pepto Gas Plus Bloating, Basic Care Gas Relief, Anti-gas, Gnp Regular Strength Gas Relief, Extra Strength Simethicone, Antiflatulent, Leader Gas Relief, Right Remedies Maximum Strength Gas Relief Softgel, Gas-aid Drops For Infants and 52 more
+**Also sold as:** Gas Relief, Simethicone, Gas Relief Extra Strength, Gas Relief Ultra Strength, Extra Strength Gas Relief, Ultra Strength Gas Relief, Infants Gas Relief, Extra Strength Gas Relief Cherry, Maximum Strength Gas Relief, Teeny Tummy Gas Relief Drops, Simethicone 125 Mg, Simethicone Infant Gas Relief Drops, Quality Choice Gas Relief Extra Strength Softgels, Extra Strength Gas Relief Cherry Creme, Simethicone 80 Mg, Phazyme, Basic Care Gas Relief, Anti-gas, Gnp Regular Strength Gas Relief, Extra Strength Simethicone, Antiflatulent, Leader Gas Relief, Right Remedies Maximum Strength Gas Relief Softgel, Gas-aid Drops For Infants, Simethicone 125mg Gas Relief and 51 more
 
 ## Active ingredients
 
-Simethicone 125 mg
+Simethicone 180 mg
 
 ## Purpose
 
@@ -17,36 +17,36 @@ Antigas
 
 ## Uses
 
-relieves bloating, pressure, fullness and stuffed feeling, commonly referred to as gas
+Relieves pressure, bloating, or fullness commonly referred to as gas
 
 ## Warnings
 
-If pregnant or breast feeding, ask a health professional before use.
+Stop use and ask doctor if condition persists If pregant or breast feeding, ask a health profession before use Keep out of reach of children
 
-### When using this product
+### Stop use and ask a doctor if
 
-do not take more than 4 chewable tablets in a 24-hour period
+Stop use and ask doctor if condition persists
 
 ### Pregnancy or breast-feeding
 
-If pregnant or breast feeding, ask a health professional before use.
+If pregant or breast feeding, ask a health profession before use
 
 ### Keep out of reach of children
 
-Keep out of reach of children.
+Keep out of reach of children
 
 ## Directions
 
-adults and children 12 years and over: chew 1-2 tablets as needed (or as symptoms occur) after a meal or at bedtime. Chew or crush tablets completely before swallowing.
+Adults: Swallow 1 or 2 softgels with at least 8 oz of water, as needed after a meal or at bedtime. Do not eceed 2 softgels in 24 hours except under the advice and supervision of a physician.
 
 ## Other information
 
-each chewable tablet contains: calcium 300 mg store at room temperature 20°-25°C (68°-77ºF)
+Store at room temperature 20-25°C (68-77°F)
 
 ## Inactive ingredients
 
-calcium carbonate, dextrose, flavors, magnesium stearate, maltodextrin, microcrystalline cellulose, silicon dioxide, sodium sulfate, stearic acid, sucralose, sucrose, water
+FD&C Yellow No. 6, gelatin, glycerin, hypromellose, lecithin, titanium dioxide, water
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-01-20, DailyMed set ID 76fa24d0-731e-4fde-9ad6-c4c890b816b4. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2025-07-06, DailyMed set ID 3948c0e5-4ee7-5443-e063-6294a90ad6ae. Public domain.*

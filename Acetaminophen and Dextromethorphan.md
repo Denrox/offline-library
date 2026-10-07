@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide  
-**Labels on file:** 89
+**Labels on file:** 79
 
-**Also sold as:** Daytime Cold and Flu, Theraflu Severe Cold Relief Daytime, Theraflu Flu Relief Max Strength Daytime, Extra Strength Tylenol Severe Cough Plus Sore Throat Day, Vicks Dayquil High Blood Pressure Cold and Flu, Daytime High Blood Pressure Cold and Flu Relief Liquid Filled Softgels, Cold and Flu, Day Time High Blood Pressure Cold and Flu, Sanatos Multi Symptom Daytime, Axim Daytime - Liquid, Axiv Daytime, Alka-seltzer Plus Cough and Sore Throat Fizzychews, Mucinex Childrens Fever Sore Throat and Cough, Vicks Dayquil For People with Diabetes Cold and Flu, Axiv Daytime - Liquid, Vicks Dayquil Kids Cold and Cough Plus Fever, Tylenol Cold Plus Flu Multi-symptom Liquid Gels Day, Foster and Thrive Daytime Cold and Flu Relief, Walgreens Cold Cough and Flu Relief, Leader Multi Symptom Flu Relief Daytime Max Strength, Daytime Severe Cold and Flu, Good Sense Daytime, Cvs Childrens Cold Plus Cough Plus Sore Throat, Mucinex Childrens Mighty Chews Cold and Flu, Cough and Sore Throat and 54 more
+**Also sold as:** Daytime Cold and Flu, Theraflu Severe Cold Relief Daytime, Theraflu Flu Relief Max Strength Daytime, Extra Strength Tylenol Severe Cough Plus Sore Throat Day, Daytime High Blood Pressure Cold and Flu Relief Liquid Filled Softgels, Cold and Flu, Day Time High Blood Pressure Cold and Flu, Sanatos Multi Symptom Daytime, Axim Daytime - Liquid, Axiv Daytime, Alka-seltzer Plus Cough and Sore Throat Fizzychews, Mucinex Childrens Fever Sore Throat and Cough, Axiv Daytime - Liquid, Tylenol Cold Plus Flu Multi-symptom Liquid Gels Day, Foster and Thrive Daytime Cold and Flu Relief, Walgreens Cold Cough and Flu Relief, Leader Multi Symptom Flu Relief Daytime Max Strength, Daytime Severe Cold and Flu, Good Sense Daytime, Cvs Childrens Cold Plus Cough Plus Sore Throat, Mucinex Childrens Mighty Chews Cold and Flu, Cough and Sore Throat, Kids Multi Symptom Cold and Flu, Ultra Concentrated Daytime Cold and Flu, Maximum Strength Multi-symptom Relief and 45 more
 
 ## Active ingredients
 

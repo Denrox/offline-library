@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Non-Standardized Food Allergenic Extract, Non-Standardized Plant Allergenic Extract  
-**Labels on file:** 225
+**Labels on file:** 224
 
-**Also sold as:** Eczema, Aveeno Baby Eczema Therapy Moisturizing, Baby Eczema Therapy, Ishancare Baby Eczema Cream, Gold Bond Eczema Relief Medicated Hand Cream, Gold Bond Eczema Relief Medicated Skin Protectant Cream, First Aid Beauty Fab Ultra Repair Intense Hydration Skin Protectant, Gold Bond Medicated Eczema Relief, Lmnoop Eczema Relief Cream, Theraplex Eczema Therapy, Aveeno Eczema Therapy Daily Moisturizing, Olay Sensitive Soothing Moisturizer Skin Protectant Fragrance-free, Cetaphil Eczema Rapid Relief Cream, Eczema Hand Relief, Aveeno Baby Eczema Therapy Nighttime Balm, Gladskin Eczemact Eczema, Lmnoop Folliculitis Treatment Cream, Babo Botanicals Sensitive Baby Healing, Eczemahoneybodylotion, Natouch Eczema Wipes, Relief, Eczema Intensive Daily Relief Body, Aveeno Soothing Bath Treatment, Ishancare Folliculitis Cream, Ishancare Rosacea Treatment Cream and 180 more
+**Also sold as:** Eczema, Aveeno Baby Eczema Therapy Moisturizing, Baby Eczema Therapy, Ishancare Baby Eczema Cream, Gold Bond Eczema Relief Medicated Hand Cream, Gold Bond Eczema Relief Medicated Skin Protectant Cream, First Aid Beauty Fab Ultra Repair Intense Hydration Skin Protectant, Gold Bond Medicated Eczema Relief, Lmnoop Eczema Relief Cream, Theraplex Eczema Therapy, Aveeno Eczema Therapy Daily Moisturizing, Olay Sensitive Soothing Moisturizer Skin Protectant Fragrance-free, Cetaphil Eczema Rapid Relief Cream, Eczema Hand Relief, Aveeno Baby Eczema Therapy Nighttime Balm, Gladskin Eczemact Eczema, Lmnoop Folliculitis Treatment Cream, Babo Botanicals Sensitive Baby Healing, Eczemahoneybodylotion, Natouch Eczema Wipes, Relief, Eczema Intensive Daily Relief Body, Aveeno Soothing Bath Treatment, Ishancare Folliculitis Cream, Ishancare Rosacea Treatment Cream and 179 more
 
 ## Active ingredients
 

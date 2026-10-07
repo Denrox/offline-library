@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Non-Standardized Chemical Allergen  
-**Labels on file:** 4
+**Labels on file:** 3
 
-**Also sold as:** Sore Throat, Chloraseptic Sore Throat Max, Meijer Maximum Strength Sore Throat Fast Relief
+**Also sold as:** Sore Throat, Chloraseptic Sore Throat Max
 
 ## Active ingredients
 

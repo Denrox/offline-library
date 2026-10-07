@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 1864
+**Labels on file:** 1862
 
-**Also sold as:** Diaper Rash, Mineral Sunscreen, Kiss New York Tinted Moisturizer, Banana Boat, Isa Knox Anew Solaire Everyday Mineral Face Protection Broad Spectrum Spf 50 Sunscreen, Boudreauxs, Tizo Photoceutical Am Replenish - Tinted, Calamine, Mineral Sunscreen Spf 50, Coppertone Pure and Simple Sunscreen Spf 50, Spf 50 Sunscreen Stick, Organys Derma Made, Diaper Rash Cream 2.5oz, Tizo Photoceutical Am Replenish Non-tinted, Beef Tallow Sunscreen, Medline, Replenishing Daily Protection Tinted, Ccc Clean Corrective with Vitamin C Tinted Moisturizer Broad Spectrum Spf 30, Doterra Sun, Bio Spectra Attitude, Coppertone Pure and Simple Baby Sunscreen Spf 50, Babo Botanicals Sensitive Baby Mineral Sunscreen Spf50, Alba Botanica Sheer Mineral Spf50, Bubble Solar Mate Daily Mineral Sunscreen Spf 40, Kinfield Cloud Cover Mineral Body Sunscreen Broad Spectrum Spf 35 and 1760 more
+**Also sold as:** Diaper Rash, Mineral Sunscreen, Kiss New York Tinted Moisturizer, Banana Boat, Isa Knox Anew Solaire Everyday Mineral Face Protection Broad Spectrum Spf 50 Sunscreen, Boudreauxs, Tizo Photoceutical Am Replenish - Tinted, Calamine, Mineral Sunscreen Spf 50, Coppertone Pure and Simple Sunscreen Spf 50, Spf 50 Sunscreen Stick, Organys Derma Made, Diaper Rash Cream 2.5oz, Tizo Photoceutical Am Replenish Non-tinted, Beef Tallow Sunscreen, Medline, Replenishing Daily Protection Tinted, Ccc Clean Corrective with Vitamin C Tinted Moisturizer Broad Spectrum Spf 30, Doterra Sun, Bio Spectra Attitude, Coppertone Pure and Simple Baby Sunscreen Spf 50, Babo Botanicals Sensitive Baby Mineral Sunscreen Spf50, Alba Botanica Sheer Mineral Spf50, Bubble Solar Mate Daily Mineral Sunscreen Spf 40, Kinfield Cloud Cover Mineral Body Sunscreen Broad Spectrum Spf 35 and 1758 more
 
 ## Active ingredients
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Doxylamine Succinate, Phenylephrine Hydrochloride  
-**Labels on file:** 106
+**Labels on file:** 101
 
-**Also sold as:** Nighttime Severe Cold and Flu, Severe Cold and Flu, Basic Care Nighttime Severe Cold and Flu, Nighttime Severe, Topcare Nite Time Cold and Flu, Vicks Nyquil Severe Cold and Flu, Cold and Flu Nighttime Severe, Severe Cold and Flu Nighttime, Nitetime Cold and Flu, Severe Cold and Flu Relief, Nighttime Severe Cold and Flu Maximum Strength Mini Softgels, Equate Nighttime Cold and Flu, Night Time Cold and Flu, Nighttime Cold and Flu Cherry, Vicks Nyquil Severe Honey Flavor Cold and Flu, Cold and Flu Nighttime Severe, 24-7 Life, Good Sense Severe Nighttime, Cvs Nighttime Cold, Severe Cold and Flu Nighttime Honey, Antigrip Nighttime, Nighttime Severe Honey Cold and Flu, Foster and Thrive Nighttime Severe Cold and Flu Relief, Rompe Pecho Nighttime, Night Time Severe Cold and Flu Relief, Severe Sinus Congestion Allergy and Cough Formula and 48 more
+**Also sold as:** Nighttime Severe Cold and Flu, Severe Cold and Flu, Basic Care Nighttime Severe Cold and Flu, Nighttime Severe, Topcare Nite Time Cold and Flu, Cold and Flu Nighttime Severe, Severe Cold and Flu Nighttime, Nitetime Cold and Flu, Severe Cold and Flu Relief, Nighttime Severe Cold and Flu Maximum Strength Mini Softgels, Equate Nighttime Cold and Flu, Night Time Cold and Flu, Nighttime Cold and Flu Cherry, Cold and Flu Nighttime Severe, 24-7 Life, Good Sense Severe Nighttime, Cvs Nighttime Cold, Severe Cold and Flu Nighttime Honey, Antigrip Nighttime, Nighttime Severe Honey Cold and Flu, Foster and Thrive Nighttime Severe Cold and Flu Relief, Rompe Pecho Nighttime, Night Time Severe Cold and Flu Relief, Severe Sinus Congestion Allergy and Cough Formula, Equate Maximum Strength Nighttime Severe Cold and Flu Softgels, Vicks Nyquil Severe Cold and Flu and 45 more
 
 ## Active ingredients
 

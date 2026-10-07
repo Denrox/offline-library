@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Diphenhydramine Hydrochloride, Diphenhydramine Citrate, Diphenhydramine Hcl  
-**Labels on file:** 160
+**Labels on file:** 150
 
-**Also sold as:** Pain Reliever Pm Extra Strength, Pain Relief Pm Extra Strength, Pain Relief Pm, Pain Reliever Pm, Tylenol Pm Extra Strength, Extra Strength Pain Reliever Pm, Panadol Pm, Vicks Zzzquil Night Pain Nighttime Sleep-aid Pain Reliever, Theraflu Severe Cold Relief Nighttime, Meijer Extra Strength Pain Relief Pm Caplet, Vicks Painquil Pm Pain Reliever Plus Nighttime Sleep-aid, Pain Reliever Pm, Extra Strength, 24-7 Life By 7-eleven, Careall Pain Relief Pm Extra Strength, Vicks Zzzquil Night Pain, Good Sense Pain Relief Pm Extra Strength, Goodmeds Extra Strength Pain Relief Pm, Dimetapp Multi-symptom Cold and Flu, Valumeds Pain Relief Pm Pain Reliever and Nighttime Sleep Aid Acetaminophen, Extra Strength, Extra Strength Pm Pain Medicine, Pain Reliever Plus Sleep Aid Nighttime, Extra Strength Night Time Pain Medicine, Percogesic Extra Strength, Right Remedies Extra Strength Pain Relief Pm Caplet, Good Remedies Extra Strength Pain Relief Pm Caplet, Cvs Nighttime Sleep Aid and 39 more
+**Also sold as:** Pain Reliever Pm Extra Strength, Pain Relief Pm Extra Strength, Pain Relief Pm, Pain Reliever Pm, Tylenol Pm Extra Strength, Extra Strength Pain Reliever Pm, Panadol Pm, Theraflu Severe Cold Relief Nighttime, Meijer Extra Strength Pain Relief Pm Caplet, Pain Reliever Pm, Extra Strength, 24-7 Life By 7-eleven, Careall Pain Relief Pm Extra Strength, Good Sense Pain Relief Pm Extra Strength, Goodmeds Extra Strength Pain Relief Pm, Dimetapp Multi-symptom Cold and Flu, Valumeds Pain Relief Pm Pain Reliever and Nighttime Sleep Aid Acetaminophen, Extra Strength, Extra Strength Pm Pain Medicine, Pain Reliever Plus Sleep Aid Nighttime, Extra Strength Night Time Pain Medicine, Percogesic Extra Strength, Right Remedies Extra Strength Pain Relief Pm Caplet, Good Remedies Extra Strength Pain Relief Pm Caplet, Cvs Nighttime Sleep Aid, Dr Simi Pain Reliever Pm, Unisom Pm Pain Nighttime Sleep Aid and Pain Reliever, Careall Non-aspirin Pm Extra Strength and 34 more
 
 ## Active ingredients
 

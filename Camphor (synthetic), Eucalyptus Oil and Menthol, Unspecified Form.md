@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 13
+**Labels on file:** 12
 
-**Also sold as:** Cvs Health Medicated Chest Rub, Pharmacys Prescription Vapor Rub, Rite Aid Chest Rub, Equate Vaporizing, Walgreens Chest Rub, Equate Childrens Vaporizing, Vaporex, Universal Vaporizing Chest Rub, Medicated Chest Rub, Caring Mill Chest Rub, Vicks Vaporub Advanced Plus
+**Also sold as:** Cvs Health Medicated Chest Rub, Pharmacys Prescription Vapor Rub, Rite Aid Chest Rub, Equate Vaporizing, Walgreens Chest Rub, Equate Childrens Vaporizing, Vaporex, Universal Vaporizing Chest Rub, Medicated Chest Rub, Caring Mill Chest Rub
 
 ## Active ingredients
 

@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 208
+**Labels on file:** 207
 
-**Also sold as:** Acne Treatment, Panoxyl, Bp Wash, Replenix Acne, Acne Cleanser, Spot Acne Treatment 0.75oz, Oxy Advanced Care Rapid Spot Treatment, Humane Acne Wash, Daily Acne Control Cleanser, Oxy Advanced Care Soothing Cream Acne Cleanser, Dr. Zenovia Acne Cleanser, Vie Naturelle Acne Body, Clear Med 5%, Differin 10% Bpo Acne Treatment, Cerave Acne Foaming Creamwash, Bp Body Wash, Clearogen 3, Oxy 10 Tinted, Benzoazeline 5, Face Reality 5% Advanced Acne Med, Caring Mill Acne Treatment, Vivant Bp3% Exfoliating Cleanser, Vivant Bp3% Acne Wash, Vivant Bp10% Gel Medication, Proactiv Plus Pore Targeting Treatment and 146 more
+**Also sold as:** Acne Treatment, Panoxyl, Bp Wash, Replenix Acne, Acne Cleanser, Spot Acne Treatment 0.75oz, Oxy Advanced Care Rapid Spot Treatment, Humane Acne Wash, Daily Acne Control Cleanser, Oxy Advanced Care Soothing Cream Acne Cleanser, Dr. Zenovia Acne Cleanser, Vie Naturelle Acne Body, Clear Med 5%, Differin 10% Bpo Acne Treatment, Cerave Acne Foaming Creamwash, Bp Body Wash, Clearogen 3, Oxy 10 Tinted, Benzoazeline 5, Face Reality 5% Advanced Acne Med, Caring Mill Acne Treatment, Vivant Bp3% Exfoliating Cleanser, Vivant Bp3% Acne Wash, Vivant Bp10% Gel Medication, Proactiv Plus Pore Targeting Treatment and 145 more
 
 ## Active ingredients
 

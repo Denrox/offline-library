@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Codeine Phosphate  
 **Drug class:** Expectorant  
-**Labels on file:** 11
+**Labels on file:** 9
 
 **Also sold as:** Mar-cof Cg Expectorant
 

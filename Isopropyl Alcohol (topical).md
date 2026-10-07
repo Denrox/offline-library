@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 559
+**Labels on file:** 557
 
 **Also sold as:** Sedlav, Walmart, 50% Rubbing, Stone Hand Sanitizer, Linen Hand Sanitizer, Cashmere Hand Sanitizer, Leather Hand Sanitizer, Suede Hand Sanitizer, Wood Hand Sanitizer, Coconana Hand Sanitizer, Flower Power Hand Sanitizer, Free and Clear Hand Sanitizer, Fruit O Pebbles Hand Sanitizer, Zeste Hand Sanitizer, Medline, Refill 4, Verifine, Defense Hand Sanitizer, The Green Scissor, Non-proprietary Name, Dollar General, First Aid Only Hand Sanitizing Wipe, Alpet E3 Hand Sanitizer, Handout Protection Hand Sanitizer, Iris and 286 more
 

@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 263
+**Labels on file:** 256
 
-**Also sold as:** Daytime Severe Cold and Flu, Cold and Flu Severe, Severe Cold and Flu, Mucus Relief Cold and Flu All in One, Head Congestion Plus Flu Severe Pe, Mucus Relief Cold Flu and Sore Throat, Mucus Relief Sinus Pressure Pain and Cough, Tylenol Cold Plus Flu Severe, Cold and Flu, Maximum Strength Mucinex Fast-max Cold and Flu, Cold Plus Flu Severe, Maximum Strength Cold and Flu, Basic Care Daytime Severe Cold and Flu, Daytime Severe Cold and Flu Relief, Topcare Day Time Cold and Flu, Sinus Pressure, Pain and Cough, Mucus Relief Cold Flu and Sore Throat Maximum Strength, Foster and Thrive Daytime Severe Cold and Flu Relief, Cold and Flu Daytime Severe, Mucinex Fast-max Cold, Flu and Sore Throat, Mucus Relief All in One Maximum Strength, Cold, Flu and Sore Throat, Head Congestion Plus Flu Severe, Severe Cold and Flu Relief, Maximum Strength Mucus Relief Cold,flu and Sore Throat and 156 more
+**Also sold as:** Daytime Severe Cold and Flu, Cold and Flu Severe, Severe Cold and Flu, Mucus Relief Cold and Flu All in One, Head Congestion Plus Flu Severe Pe, Mucus Relief Cold Flu and Sore Throat, Mucus Relief Sinus Pressure Pain and Cough, Tylenol Cold Plus Flu Severe, Cold and Flu, Maximum Strength Mucinex Fast-max Cold and Flu, Cold Plus Flu Severe, Maximum Strength Cold and Flu, Basic Care Daytime Severe Cold and Flu, Daytime Severe Cold and Flu Relief, Topcare Day Time Cold and Flu, Sinus Pressure, Pain and Cough, Mucus Relief Cold Flu and Sore Throat Maximum Strength, Foster and Thrive Daytime Severe Cold and Flu Relief, Cold and Flu Daytime Severe, Mucinex Fast-max Cold, Flu and Sore Throat, Mucus Relief All in One Maximum Strength, Cold, Flu and Sore Throat, Head Congestion Plus Flu Severe, Severe Cold and Flu Relief, Maximum Strength Mucus Relief Cold,flu and Sore Throat and 150 more
 
 ## Active ingredients
 

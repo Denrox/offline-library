@@ -4,9 +4,9 @@
 
 **Route:** dental  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 203
+**Labels on file:** 196
 
-**Also sold as:** Bencocaine Topical Anesthetic, Candee Caine Topical Anesthetic, Patterson Dental Topical Anesthetic, Quala Topical Anesthetic Gel, Gelato Topical Anesthetic, Pearson Topical Anesthetic, Burkhart Topical Anesthetic, Primo Topical Anesthetic, Nrg Topical Anesthetic, Dental City Topical Anesthetic, Purelife Topical Anesthetic, Health-tec Topical Anesthetic, Astra-dent Topical Anesthetic Gel, Benzo-jel, Defend, Avant, Top Quality Mfg. Topical Anesthetic, Ismile Topical Anesthetic, Gps Topical Anesthetic, Tiger Supply Inc Topical Anesthetic, Advance Topical Anesthetic Gel, Safco Sensicaine Ultra Topical Anesthetic Gel, Comfortcaine Topical Anesthetic, Kolorz Topical Anesthetic Triple Mint, Kolorz Topical Anesthetic Cherry Burst and 18 more
+**Also sold as:** Bencocaine Topical Anesthetic, Candee Caine Topical Anesthetic, Patterson Dental Topical Anesthetic, Quala Topical Anesthetic Gel, Gelato Topical Anesthetic, Pearson Topical Anesthetic, Burkhart Topical Anesthetic, Primo Topical Anesthetic, Nrg Topical Anesthetic, Dental City Topical Anesthetic, Purelife Topical Anesthetic, Health-tec Topical Anesthetic, Astra-dent Topical Anesthetic Gel, Benzo-jel, Defend, Avant, Ismile Topical Anesthetic, Gps Topical Anesthetic, Tiger Supply Inc Topical Anesthetic, Advance Topical Anesthetic Gel, Safco Sensicaine Ultra Topical Anesthetic Gel, Comfortcaine Topical Anesthetic, Kolorz Topical Anesthetic Triple Mint, Kolorz Topical Anesthetic Cherry Burst, Kolorz Topical Anesthetic Cotton Candy and 17 more
 
 ## Active ingredients
 

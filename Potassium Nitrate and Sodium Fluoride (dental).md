@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** dental  
-**Labels on file:** 75
+**Labels on file:** 74
 
-**Also sold as:** Sensodyne, Care One Maximum Strength, Topco Associates Llc Maximum Strength, Colgate Sensitive Complete Protection, Crest Pro-health Sensitivity Relief, Quality Choice Natural White, Heb Extra Whitening, Made By Dentists Sensitive and Whitening Fresh Mint, Sensitivity and Gum with Cavity Protection, Sensitive Mint Tooth-paste, Sensodyne Extra Whitening, Sensodyne Fresh Mint, Colgate Sensitive Plus Whitening, Pronamel Repair Whitening, Rexall Sensitive Extra Whitening, Natural White Sensitive Enamel Guard Alpine Mint, Freshen Up, Sensodyne Pronamel Clinical Enamel Strength Fresh Breath, Cvs Extra Whitening, Colgate Sensitive Whitening, Sensodyne Pronamel Gentle Whitening Fresh Mint, Seavue Dental Desensitizer, Bio Spectra Attitude, Opalescence Whitening Sensitivity Relief, Crest Pro-health Sensitivity Whitening Plus Scope and 44 more
+**Also sold as:** Sensodyne, Care One Maximum Strength, Topco Associates Llc Maximum Strength, Colgate Sensitive Complete Protection, Crest Pro-health Sensitivity Relief, Quality Choice Natural White, Heb Extra Whitening, Made By Dentists Sensitive and Whitening Fresh Mint, Sensitivity and Gum with Cavity Protection, Sensitive Mint Tooth-paste, Sensodyne Extra Whitening, Sensodyne Fresh Mint, Colgate Sensitive Plus Whitening, Pronamel Repair Whitening, Rexall Sensitive Extra Whitening, Natural White Sensitive Enamel Guard Alpine Mint, Freshen Up, Sensodyne Pronamel Clinical Enamel Strength Fresh Breath, Cvs Extra Whitening, Colgate Sensitive Whitening, Sensodyne Pronamel Gentle Whitening Fresh Mint, Seavue Dental Desensitizer, Bio Spectra Attitude, Opalescence Whitening Sensitivity Relief, Crest Pro-health Sensitivity Whitening Plus Scope and 43 more
 
 ## Active ingredients
 

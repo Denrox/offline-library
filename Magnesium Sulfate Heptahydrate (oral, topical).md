@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral, topical  
-**Labels on file:** 25
+**Labels on file:** 24
 
 **Also sold as:** Epsom Salt, 365 Whole Foods Market Epsom Salt, Epsom Salts
 

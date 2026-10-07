@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Chlorpheniramine Maleate  
-**Labels on file:** 30
+**Labels on file:** 27
 
-**Also sold as:** Cough and Cold Hbp, Coricidin Hbp Cough and Cold, Nighttime Cough-kids, Cvs Childrens Cough and Cold, Broncochem Kids Allergy Control, Cough and Cold, Nighttime Childrens Multi Symptoms Cold and Cough Multi-symptom Relief, Childrens Robitussin Nighttime Cough Long-acting Dm, Cough and Cold Relief Hbp, Walgreens Childrens, Childrens Robitussin Cough and Cold Long-acting, Bactimicina Childrens Cough and Cold, Cvs Nighttime Childrens Cold and Cough Multi-symptom Relief, Coricidin Hbp Cough and Cold Cough Suppressant, Antihistamine, Vicks Nyquil Kids Berry Cold and Cough Plus Runny Nose
+**Also sold as:** Cough and Cold Hbp, Coricidin Hbp Cough and Cold, Nighttime Cough-kids, Cvs Childrens Cough and Cold, Broncochem Kids Allergy Control, Nighttime Childrens Multi Symptoms Cold and Cough Multi-symptom Relief, Childrens Robitussin Nighttime Cough Long-acting Dm, Cough and Cold Relief Hbp, Walgreens Childrens, Childrens Robitussin Cough and Cold Long-acting, Bactimicina Childrens Cough and Cold, Cvs Nighttime Childrens Cold and Cough Multi-symptom Relief, Coricidin Hbp Cough and Cold Cough Suppressant, Antihistamine
 
 ## Active ingredients
 

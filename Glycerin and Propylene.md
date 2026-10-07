@@ -5,9 +5,9 @@
 **Route:** ophthalmic  
 **Ingredient forms:** Propylene Glycol  
 **Drug class:** Non-Standardized Chemical Allergen  
-**Labels on file:** 4
+**Labels on file:** 3
 
-**Also sold as:** Advanced Eye Relief Dry Eye Rejuvenation, Artificial Tears Lubricant Eye Drops, Artifical Tears, Soothe
+**Also sold as:** Advanced Eye Relief Dry Eye Rejuvenation, Artificial Tears Lubricant Eye Drops, Soothe
 
 ## Active ingredients
 

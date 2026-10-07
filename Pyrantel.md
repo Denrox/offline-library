@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Pyrantel Pamoate  
-**Labels on file:** 17
+**Labels on file:** 16
 
-**Also sold as:** Pinworm Treatment, Pinrid, Mebendamax Pinworm, Lmnoop Pinworm Treatment, Lombrix, Walgreens Pinworm Medicine, Parasitol, Cvs Pinworm Treatment, Vrmx 500, Pinworm Medicine
+**Also sold as:** Pinworm Treatment, Pinrid, Mebendamax Pinworm, Lmnoop Pinworm Treatment, Walgreens Pinworm Medicine, Parasitol, Cvs Pinworm Treatment, Vrmx 500, Pinworm Medicine
 
 ## Active ingredients
 
@@ -58,8 +58,8 @@ store at 15°-30°C (59°-86°F)
 
 ## Inactive ingredients
 
-Colloidal silicon dioxide, croscarmellose sodium, crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, potassium sorbate, povidone, talc.
+Colloidal silicon dioxide, croscarmellose sodium, crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, potassium sorbate, talc.
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2025-09-24, DailyMed set ID 3f940481-8e75-0bc7-e063-6394a90af1cd. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2024-02-06, DailyMed set ID e119cad8-9814-7d5a-e053-2995a90afde5. Public domain.*

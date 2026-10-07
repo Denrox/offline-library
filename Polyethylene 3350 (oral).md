@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Polyethylene Glycol 3350  
 **Drug class:** Osmotic Laxative  
-**Labels on file:** 91
+**Labels on file:** 90
 
 **Also sold as:** Clearlax, Gavilax, Good Sense Clear Lax, Miralax, Purelax, Topcare Clearlax, Basic Care Clearlax, Laxative, Clear Lax, Leader Clearlax, Dg Health Clearlax, Comfortlax, Mix-in Laxative Packets, Miralax Orange Flavor, Gentle Lax, Peg3350, Up and Up Powderlax, Careone Clearlax, Gentlelax, Smooth Lax, Equate Clear Lax, Members Mark Clearlax, Easylax, Foster and Thrive Clearlax, Signature Care Clearlax and 16 more
 

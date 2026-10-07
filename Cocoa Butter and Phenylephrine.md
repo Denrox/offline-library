@@ -4,7 +4,7 @@
 
 **Route:** rectal  
 **Ingredient forms:** Phenylephrine Hydrochloride  
-**Labels on file:** 28
+**Labels on file:** 27
 
 **Also sold as:** Hemorrhoidal, Walgreens Hemorrhoidal, Rexall Hemorrhoidal, Good Sense Hemorrhoidal, Equate Hemorrhoidal, Basic Care Hemorrhoidal, Exchange Select Hemorrhoidal, Topcare Hemorrhoidal, Xyralid Hemorrhoidal, Preparation H, Rugby Hemorrhoidal, Leader Hemorrhoidal, Equaline Hemorrhoidal, Hemorrhoidal Relief, Signature Care Hemorrhoidal, Foster and Thrive Hemorrhoidal, Hemorrhoidal Cocoa Butter
 

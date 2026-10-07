@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Omeprazole Magnesium  
 **Drug class:** Proton Pump Inhibitor  
-**Labels on file:** 174
+**Labels on file:** 172
 
 **Also sold as:** Acid Reducer, Prilosec Otc, Omeprazole, 24/7 Life By 7-eleven, Dg Health Omperazole, Basic Care Omeprazole, Good Sense Omeprazole, Up and Up Omeprazole, Careone Omeprazole, Dg Health Omeprazole, Topcare Omeprazole, Equate Omeprazole, Good Neighbor Pharmacy Omeprazole, Signature Care Omeprazole, Members Mark Omeprazole, Leader Omeprazole, Foster and Thrive Omeprazole, Equaline Omeprazole, Good Now Omeprazole, Amazon Basic Care Omeprazole, Exchange Select Omeprazole, 24 Hr Omeprazole, Good Sense Omeprazole Delayed Release, 24 Hour Omeprazole, Kirkland Signature Omeprazole, Goodmeds 24hr Acid Reducer Omeprazole 20mg and 5 more
 

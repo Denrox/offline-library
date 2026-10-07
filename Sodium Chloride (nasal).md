@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** nasal  
-**Labels on file:** 57
+**Labels on file:** 56
 
-**Also sold as:** Saline, Resp Ease, Cvs Health Sterile Saline Mist, Base Laboratories Saline, Nebuclear Md Saline, Hydra Neb, Quality Choice Saline, Family Care Saline, Walmart Saline, Winco Foods Saline Nasal Relief, Walgreens Saline, Equate Premium Saline, Equate Sterile Saline Mist, Rhinomel Manuka, Sterile Saline Mist Meijer, Walgreens Saline Mist, Cvs Ultra Fine Moisturizing Saline Mist, Walgreens Ultra Fine Moisturizing Saline Mist, Whisidom Saline Solution, Whwswb 0.9% Saline, Saline Cleaning, Sinucleanse Sterile Saline Mist, Walgreens Saline Mist Extra Strength, Meijer Saline, Ancient Secrets Breathe Again and 14 more
+**Also sold as:** Saline, Resp Ease, Cvs Health Sterile Saline Mist, Base Laboratories Saline, Nebuclear Md Saline, Hydra Neb, Quality Choice Saline, Family Care Saline, Walmart Saline, Winco Foods Saline Nasal Relief, Walgreens Saline, Equate Premium Saline, Equate Sterile Saline Mist, Rhinomel Manuka, Sterile Saline Mist Meijer, Walgreens Saline Mist, Cvs Ultra Fine Moisturizing Saline Mist, Walgreens Ultra Fine Moisturizing Saline Mist, Whisidom Saline Solution, Whwswb 0.9% Saline, Saline Cleaning, Sinucleanse Sterile Saline Mist, Walgreens Saline Mist Extra Strength, Ancient Secrets Breathe Again, Kroger Saline and 13 more
 
 ## Active ingredients
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Pseudoephedrine Hydrochloride  
-**Labels on file:** 78
+**Labels on file:** 77
 
-**Also sold as:** Nasal Decongestant, Sudogest, Nasal Decongestant Maximum Strength, Sudogest Nasal Decongestant, Sudafed Sinus Congestion 12 Hour, 12 Hour Nasal Decongestant, Careone Nasal and Sinus Decongestant, Sinus Pressure and Congestion Relief Maximum Strength, Sinus and Nasal Decongestant, Sinus, Topcare Nasal Decongestant Maximum Strength Non Drowsy, Good Sense Suphedrine 12 Hour, Nasal Decongestant Maximum Strength, Non-drowsy, Leader Nasal Decongestant, Sinus 12 Hour, Nasal Decongestant Non-drowsy, Good Sense Nasal Decongestant, Topcare 12 Hour Decongestant, Childrens Sudafed Nasal Decongestant, Zephrex D, Sinus Decongestion, Equaline Nasal Decongestant Non Drowsy Maximum Strength, Nasal Decongestant Maximum Strength Non Drowsy, Leader 12 Hour Nasal Decongestant, Nasal Decongestant D and 7 more
+**Also sold as:** Nasal Decongestant, Sudogest, Nasal Decongestant Maximum Strength, Sudogest Nasal Decongestant, Sudafed Sinus Congestion 12 Hour, 12 Hour Nasal Decongestant, Careone Nasal and Sinus Decongestant, Sinus Pressure and Congestion Relief Maximum Strength, Sinus and Nasal Decongestant, Sinus, Topcare Nasal Decongestant Maximum Strength Non Drowsy, Good Sense Suphedrine 12 Hour, Nasal Decongestant Maximum Strength, Non-drowsy, Leader Nasal Decongestant, Sinus 12 Hour, Nasal Decongestant Non-drowsy, Good Sense Nasal Decongestant, Topcare 12 Hour Decongestant, Childrens Sudafed Nasal Decongestant, Zephrex D, Sinus Decongestion, Equaline Nasal Decongestant Non Drowsy Maximum Strength, Nasal Decongestant Maximum Strength Non Drowsy, Leader 12 Hour Nasal Decongestant, Sinus Congestion and 6 more
 
 ## Active ingredients
 

@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 407
+**Labels on file:** 398
 
-**Also sold as:** Cough Drops, Mgc Health, Honey Lemon Cough Drops, Cherry Cough Drops, Discount Drug Mart, Premier Value, Sugar Free Cough Drops, Sugar Free Honey Lemon Cough Drops, Natural Cherry Honey Herb Throat Drops, Honey Lemon Cough Drop, Quality Choice, Cherry Cough Drop, Dual Action Cherry Cough Suppressant Oral Anesthetic, Natural Lemon Mint Herb Throat Drops, Cool Relief Oral Anesthetic, Cherry Throat Drops, Halls Mentholyptus, Mgc Health Cough Drops Honey Herb, Natural Herbal Cough Drops, Vicks Vapocool Severe, Throat Comfort Orange Mint Cinnamon Drops, Honey Lemon Flavor Cough Drop, Halls Honey Lemon, Strawberry Cough Drops, Halls Sugar Free Honey Lemon and 193 more
+**Also sold as:** Cough Drops, Mgc Health, Honey Lemon Cough Drops, Cherry Cough Drops, Discount Drug Mart, Premier Value, Sugar Free Cough Drops, Sugar Free Honey Lemon Cough Drops, Natural Cherry Honey Herb Throat Drops, Honey Lemon Cough Drop, Quality Choice, Cherry Cough Drop, Dual Action Cherry Cough Suppressant Oral Anesthetic, Natural Lemon Mint Herb Throat Drops, Cool Relief Oral Anesthetic, Cherry Throat Drops, Halls Mentholyptus, Mgc Health Cough Drops Honey Herb, Natural Herbal Cough Drops, Throat Comfort Orange Mint Cinnamon Drops, Honey Lemon Flavor Cough Drop, Halls Honey Lemon, Strawberry Cough Drops, Halls Sugar Free Honey Lemon, Exchange Select Cough Drop Black Cherry Sugar Free and 185 more
 
 ## Active ingredients
 

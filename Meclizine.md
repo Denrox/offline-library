@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Meclizine Hydrochloride, Meclizine Dihydrochloride  
-**Labels on file:** 84
+**Labels on file:** 83
 
-**Also sold as:** Motion Sickness Relief, Motion Sickness, Dramamine, Bonine, Less Drowsy Motion Sickness Relief, Dramamine Less Drowsy, Medique Medi-meclizine, Less Drowsy Formula Motion Sickness Relief, Dramamine Less Drowsy, Lil Drug Store, Pepto Nausea Motion Sickness, Cvs Motion Sickness Fast Melting, Dramamine Chewable Orange, Pepto Motion Sickness, Bonine Max, Motion-time Chewable, Dramamine - N, Nausea Relief, Zentrip Motion Sickness, Travel Ease, Physicianscare Motion Sickness, Travel-ease, Motion Sickness Relief Less Drowsy, Wal-dram 2 Quick-dissolving
+**Also sold as:** Motion Sickness Relief, Motion Sickness, Dramamine, Bonine, Less Drowsy Motion Sickness Relief, Dramamine Less Drowsy, Medique Medi-meclizine, Less Drowsy Formula Motion Sickness Relief, Dramamine Less Drowsy, Lil Drug Store, Pepto Nausea Motion Sickness, Cvs Motion Sickness Fast Melting, Dramamine Chewable Orange, Bonine Max, Motion-time Chewable, Dramamine - N, Nausea Relief, Zentrip Motion Sickness, Travel Ease, Physicianscare Motion Sickness, Travel-ease, Motion Sickness Relief Less Drowsy, Wal-dram 2 Quick-dissolving
 
 ## Active ingredients
 

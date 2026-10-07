@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Loperamide Hydrochloride  
-**Labels on file:** 149
+**Labels on file:** 148
 
 **Also sold as:** Anti-diarrheal, Anti Diarrheal, Good Sense Anti Diarrheal, Leader Anti Diarrheal, Imodium A-d, Medique Diamode, Careone Diarrhea Control, Up and Up Anti Diarrheal, Dg Health Anti Diarrheal, Good Sense Antidiarrheal, Anti-diarrheal, Caseys 4good, Anti-diarrheal, Cvp Health, Private Label Distributor, Anti-diarrheal, 24/7 Life By 7-eleven, Equate Diarrhea Control, Foster and Thrive Anti Diarrheal, Handy Solutions Anti-diarrheal, First Aid Direct Anti-diarrheal, Injoy Diarrhea Relief, Anti-diarrheal, Circle K, Topcare Anti Diarrheal, Berkley and Jensen Anti Diarrheal, Foster and Thrive Anti-diarrheal, Lil Drug Store Anti-diarrheal, Basic Care Loperamide Hydrochloride and 7 more
 

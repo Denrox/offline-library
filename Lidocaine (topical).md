@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous, Lidocaine Hcl  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 782
+**Labels on file:** 780
 
-**Also sold as:** Burn Relief, Pain Relief Patches, Pain Relieving Gel-patch, Burn, Dr. Numb, Burn Ease, Numb 520, Burn Ease 3.5g, Pain Relief Gel-patch, Sunburn Relief Gel, Numb25, Acolye Numbing Cream Anorectal(hemorrhoidal) Cream, Lidoguard, Dch Pain Relief, Hunter Beach 4%, Unburn, Regenecare Ha, Lidocore, Solarcaine Burn Pain Relief 4oz, Care Science, Jakwork Numbing Cream, Numbing Cream, Chimera Guard, Leader Pain Relief Patches, Pain Relief and 582 more
+**Also sold as:** Burn Relief, Pain Relief Patches, Pain Relieving Gel-patch, Burn, Dr. Numb, Burn Ease, Numb 520, Burn Ease 3.5g, Pain Relief Gel-patch, Sunburn Relief Gel, Numb25, Acolye Numbing Cream Anorectal(hemorrhoidal) Cream, Lidoguard, Dch Pain Relief, Hunter Beach 4%, Unburn, Regenecare Ha, Lidocore, Solarcaine Burn Pain Relief 4oz, Care Science, Jakwork Numbing Cream, Numbing Cream, Chimera Guard, Leader Pain Relief Patches, Pain Relief and 580 more
 
 ## Active ingredients
 

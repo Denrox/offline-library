@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Phenylephrine Hydrochloride  
-**Labels on file:** 53
+**Labels on file:** 52
 
-**Also sold as:** Sinus and Headache, Sinus Plus Headache, Sinus Pressure Plus Pain Pe, Sinus Pressure and Pain Pe, Sinus Pressure and Pain Maximum Strength, Sudafed Pe Sinus Pressure Plus Pain, Sinus and Headache Daytime, Panadol Cold and Flu Nondrowsy, Sinus Pressure and Pain, Pain Relief Sinus Congestion, Pain and Sinus Reliever, Sinus Head Congestion, Sinus Pressure and Pain Pe Maximum Strength, Daytime Sinus Relief, Sudafed Pe Pressure Plus Pain, Pain and Sinus, Sinus Congestion and Pain Relief Non-drowsy, Daytime, Vicks Sinex Severe All in One Sinus, Daytime Sinus, Sinus Pe Pressure Plus Pain Maximum Strength, Sinus Headache Pemaximum Strength Non-drowsy Maximum Strength Non-drowsy, Sinus Headache and Pain Day, Non-drowsy, Sinu-phen Plus Sinus Pain and Pressure, Mckesson Sinus Pain and Pressure Relief, Tylenol Sinus Plus Headache Day and 9 more
+**Also sold as:** Sinus and Headache, Sinus Plus Headache, Sinus Pressure Plus Pain Pe, Sinus Pressure and Pain Pe, Sinus Pressure and Pain Maximum Strength, Sudafed Pe Sinus Pressure Plus Pain, Sinus and Headache Daytime, Panadol Cold and Flu Nondrowsy, Sinus Pressure and Pain, Pain Relief Sinus Congestion, Pain and Sinus Reliever, Sinus Head Congestion, Sinus Pressure and Pain Pe Maximum Strength, Daytime Sinus Relief, Sudafed Pe Pressure Plus Pain, Pain and Sinus, Sinus Congestion and Pain Relief Non-drowsy, Daytime, Daytime Sinus, Sinus Pe Pressure Plus Pain Maximum Strength, Sinus Headache Pemaximum Strength Non-drowsy Maximum Strength Non-drowsy, Sinus Headache and Pain Day, Non-drowsy, Sinu-phen Plus Sinus Pain and Pressure, Mckesson Sinus Pain and Pressure Relief, Tylenol Sinus Plus Headache Day, Green Guard Advanced Sinus Relief and 8 more
 
 ## Active ingredients
 

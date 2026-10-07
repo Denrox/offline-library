@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Chlorpheniramine Maleate  
-**Labels on file:** 27
+**Labels on file:** 26
 
-**Also sold as:** Flu Hbp Maximum Strength, Theraflu Flu Relief Max Strength Nighttime, Alka-seltzer Plus Cold and Flu Fizzychews, Stona For Children, Cvs Pharmacy Nighttime Ms Flu Relief, Panadol Cold and Flu Night, Antigrip Cough and Cold, Flu Hbp, Theraflu Relief Max Strength Nighttime, Alka Seltzer Cold Cold and Flu Severe Fast Chewables, Alka Seltzer Cold Cold Flu Severe Fast Dissolve, Multi-symptom Flu Hbp, Childrens Tylenol Cold Plus Cough Plus Runny Nose, Cough and Runny Nose Childrens Plus, Cvs Childrens Cold Plus Cough Plus Runny Nose, Walgreens Childrens Cold Plus Cough Plus Runny Nose, Topcare Childrens Cold and Cough and Runny Nose, Leader Ms Flu Relief Nighttime, Coricidin Hbp Maximum Strength Multi Symptom Flu, Nocold-f, Childrens Plus Cough and Runny Nose, Vicks Nyquil Alcohol Free Cold and Flu Nighttime Relief
+**Also sold as:** Flu Hbp Maximum Strength, Theraflu Flu Relief Max Strength Nighttime, Alka-seltzer Plus Cold and Flu Fizzychews, Stona For Children, Cvs Pharmacy Nighttime Ms Flu Relief, Panadol Cold and Flu Night, Antigrip Cough and Cold, Flu Hbp, Theraflu Relief Max Strength Nighttime, Alka Seltzer Cold Cold and Flu Severe Fast Chewables, Alka Seltzer Cold Cold Flu Severe Fast Dissolve, Multi-symptom Flu Hbp, Childrens Tylenol Cold Plus Cough Plus Runny Nose, Cough and Runny Nose Childrens Plus, Cvs Childrens Cold Plus Cough Plus Runny Nose, Walgreens Childrens Cold Plus Cough Plus Runny Nose, Topcare Childrens Cold and Cough and Runny Nose, Leader Ms Flu Relief Nighttime, Coricidin Hbp Maximum Strength Multi Symptom Flu, Nocold-f, Childrens Plus Cough and Runny Nose
 
 ## Active ingredients
 

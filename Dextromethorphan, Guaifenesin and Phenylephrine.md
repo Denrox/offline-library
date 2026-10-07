@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 128
+**Labels on file:** 123
 
-**Also sold as:** Tussin Cf, Mucus Relief Severe Congestion and Cough Maximum Strength, Maximum Strength Mucus Relief Severe Congestion and Cough, Tussin Multi Symptom Cold Cf, Severe Congestion and Cough Max, Mucinex Fast-max Severe Congestion and Cough, Severe Congestion and Cough, Giltuss Cough and Cold, Mucus Relief Severe Congestion and Cough, Giltuss Childrens Cough and Cold, Childrens Multi-symptom Cold, Maximum Strength Severe Congestion and Cough, Actidom Dmx, Tussi Pres, Desgen Pediatric, Presgen Pediatric, Actinel Dm, Leader Childrens Multi Symptom Cold, Childrens Multi-symptom Cold Daytime, Mucus Congestion and Cough Relief Childrens, Mucus Relief Congestion and Cough Maximum Strength, Winco Foods Childrens Multi Symptom Cold, Kroger Maximum Strength Severe Congestion and Cough, Tukol Children Cough and Congestion, Amazon Childrens Multi Symptom Cold and 76 more
+**Also sold as:** Tussin Cf, Mucus Relief Severe Congestion and Cough Maximum Strength, Maximum Strength Mucus Relief Severe Congestion and Cough, Tussin Multi Symptom Cold Cf, Severe Congestion and Cough Max, Mucinex Fast-max Severe Congestion and Cough, Severe Congestion and Cough, Giltuss Cough and Cold, Mucus Relief Severe Congestion and Cough, Giltuss Childrens Cough and Cold, Childrens Multi-symptom Cold, Maximum Strength Severe Congestion and Cough, Actidom Dmx, Tussi Pres, Desgen Pediatric, Presgen Pediatric, Actinel Dm, Leader Childrens Multi Symptom Cold, Childrens Multi-symptom Cold Daytime, Mucus Congestion and Cough Relief Childrens, Mucus Relief Congestion and Cough Maximum Strength, Winco Foods Childrens Multi Symptom Cold, Kroger Maximum Strength Severe Congestion and Cough, Tukol Children Cough and Congestion, Amazon Childrens Multi Symptom Cold and 71 more
 
 ## Active ingredients
 

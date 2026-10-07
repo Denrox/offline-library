@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Phenylephrine Hydrochloride, Chlorpheniramine Maleate  
-**Labels on file:** 37
+**Labels on file:** 36
 
-**Also sold as:** Allergy Multi Symptom, Allergy Multi-symptom, Allergy Multisymptom, Cold Medicine, Cold Medicine Xl3 Forte, Cold Medicine Xl3, Resfriol D, Coldtac Ultra, Allergy Sinus, Lil Drug Store, Medique Medicidin D, Otis Clapp Valihist, Antigrip Extra Strength, Flonase Headache and Allergy Relief, Multi-symptom Allergy, Norel Ad, Desenfriol D, Relief-pe, Pentrexcilina Daytime, Antiflu Des Cough and Flu, Defensol D, Physicianscare Allergy Multi-symptom Relief
+**Also sold as:** Allergy Multi Symptom, Allergy Multi-symptom, Allergy Multisymptom, Cold Medicine, Cold Medicine Xl3 Forte, Cold Medicine Xl3, Resfriol D, Coldtac Ultra, Allergy Sinus, Lil Drug Store, Medique Medicidin D, Otis Clapp Valihist, Antigrip Extra Strength, Flonase Headache and Allergy Relief, Multi-symptom Allergy, Norel Ad, Relief-pe, Pentrexcilina Daytime, Antiflu Des Cough and Flu, Defensol D, Physicianscare Allergy Multi-symptom Relief
 
 ## Active ingredients
 

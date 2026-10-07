@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Chlorpheniramine Maleate, Phenylephrine Hydrochloride  
-**Labels on file:** 19
+**Labels on file:** 18
 
-**Also sold as:** Sinus and Allergy Relief Pe, Giltuss D, Phenagil, Cold and Allergy, Ed A-hist, Sinus Plus Allergy Pe Maximum Strength, Actidom Da, Giltuss D Allergy and Congestion, Sinus Pe Plus Allergy, Suphedrine Pe Sinus Plus Allergy, Sinus Pe Plus Allergy Maximum Strength, Stonarhini, Childrens Giltuss D, Broncochem Allergy Control
+**Also sold as:** Sinus and Allergy Relief Pe, Giltuss D, Phenagil, Cold and Allergy, Ed A-hist, Sinus Plus Allergy Pe Maximum Strength, Actidom Da, Giltuss D Allergy and Congestion, Sinus Pe Plus Allergy, Suphedrine Pe Sinus Plus Allergy, Stonarhini, Childrens Giltuss D, Broncochem Allergy Control
 
 ## Active ingredients
 

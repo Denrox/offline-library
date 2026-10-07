@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 231
+**Labels on file:** 230
 
-**Also sold as:** Maxim Assure, Alpet E2 Sanitizing Foam, Ecolab, Safeguard Antibacterial Hand Wash Notes of Peach, Antibacterial, Sani Mango Antiseptic Hand and Body Wash, Afco 5508 Sanifect Foam-e Ii, Soft Care Defend Antibacterial Handwash, Antimicrobial Hand Wash, Renown Antibacterial Foam Cleanser, Suds High Foaming Antiseptic Hand and Body Wash, Hand Guard High Foaming Antiseptic Hand and Body Wash, Sierrasoft Clear Antibacterial Wash Foam, Gojo Rich Pink Antibacterial Ltn Sp, Dawn Ultra Antibacterial Hand Apple Blossom Scent, Pro-link Proformance Foaming Antimicrobial Sp, Mckesson Hand Cleanse and Soothe with Aloe, Sentry Antiseptic Handsoap, Soft and Silky Antiseptic, Digiclean E, Propower Originals Antimicrobial Foaming So Ap, Tough Guy Antibacterial Foam Hand So Ap, Members Mark, Bright Solutions Antimicrobial Foam So Ap, Foaming Hand Antibacterial and 194 more
+**Also sold as:** Maxim Assure, Alpet E2 Sanitizing Foam, Ecolab, Safeguard Antibacterial Hand Wash Notes of Peach, Antibacterial, Sani Mango Antiseptic Hand and Body Wash, Afco 5508 Sanifect Foam-e Ii, Soft Care Defend Antibacterial Handwash, Antimicrobial Hand Wash, Renown Antibacterial Foam Cleanser, Suds High Foaming Antiseptic Hand and Body Wash, Hand Guard High Foaming Antiseptic Hand and Body Wash, Sierrasoft Clear Antibacterial Wash Foam, Gojo Rich Pink Antibacterial Ltn Sp, Dawn Ultra Antibacterial Hand Apple Blossom Scent, Pro-link Proformance Foaming Antimicrobial Sp, Mckesson Hand Cleanse and Soothe with Aloe, Sentry Antiseptic Handsoap, Soft and Silky Antiseptic, Digiclean E, Propower Originals Antimicrobial Foaming So Ap, Tough Guy Antibacterial Foam Hand So Ap, Members Mark, Bright Solutions Antimicrobial Foam So Ap, Foaming Hand Antibacterial and 193 more
 
 ## Active ingredients
 

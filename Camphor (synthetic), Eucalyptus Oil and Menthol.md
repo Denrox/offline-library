@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 54
+**Labels on file:** 50
 
-**Also sold as:** Chest Rub, Medicated Chest Rub, Vicks Vaporub, Assured Vaporizing Chest Rub, Health Smart Vaporizing Chest Rub, Nuvalu Vaporizing Chest Rub, Quality Choice Medicated Chest Rub, Theracare Medicated Chest Rub, Vicks Childrens Vaporub, Equate Rub, Meijer Medicated Chest Rub, Viva Porru Chest Rub, Bactimicina Vapor Rub, Meijer Medicated Chest Rub, 3.53 Oz. Lavender, Goodsense Medicated Chest Rub, Healthwise Chest Rub Lavender, Healthwise Chest Rub Lemon, Healthwise Medicated Chest Rub, Vapor Rub, Vaporizing Colds Rub, Med Aid Chest Rub, Vaporizing Rub, Careall Medicated Chest Rub, Vaporx, Medpride Chest Rub and 9 more
+**Also sold as:** Chest Rub, Medicated Chest Rub, Assured Vaporizing Chest Rub, Health Smart Vaporizing Chest Rub, Nuvalu Vaporizing Chest Rub, Quality Choice Medicated Chest Rub, Theracare Medicated Chest Rub, Equate Rub, Meijer Medicated Chest Rub, Viva Porru Chest Rub, Bactimicina Vapor Rub, Meijer Medicated Chest Rub, 3.53 Oz. Lavender, Goodsense Medicated Chest Rub, Healthwise Chest Rub Lavender, Healthwise Chest Rub Lemon, Healthwise Medicated Chest Rub, Vapor Rub, Vaporizing Colds Rub, Med Aid Chest Rub, Vaporizing Rub, Careall Medicated Chest Rub, Vaporx, Medpride Chest Rub, Chestrub, Good Neighbor Pharmacy Medicated Chest Rub and 7 more
 
 ## Active ingredients
 

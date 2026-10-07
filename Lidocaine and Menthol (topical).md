@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 118
+**Labels on file:** 116
 
-**Also sold as:** Pain Relief Gel-patch, Aloe Vera Gel, Rapid Relief, Pain Relief Gel-roll On, Zylotrol Maximum Pain, Ishancare Pain Relief Gel-patch, Pain Relief, Heel Pain Relief Roll-on, Hempvana Knee Bird Ultra Strength Pain Relief, Dch Nerve Pain Relief, Dzul - Lido Creme, Lidopatch Pain Relief, Therablast Maximum Relief, Theracare Pain Relief Medicated, Careland Plantar Fasciitis Hydrogel Pain Patches, Walgreens Kinesiology Pain Relief, Dr Sabharwals, Lidosync, Lidoreal Patch, Tidl Pain Relief Heat Therapy Roll-on, Tidl Pain Relief Evening Therapy Spray., Nervive Pain Relieving Liquid Roll-on, Nervive Pain Relieving Cream, Pomg Pain Relief Roller, Yimimde Pain Relief Gel-patch and 72 more
+**Also sold as:** Pain Relief Gel-patch, Aloe Vera Gel, Rapid Relief, Pain Relief Gel-roll On, Zylotrol Maximum Pain, Ishancare Pain Relief Gel-patch, Pain Relief, Heel Pain Relief Roll-on, Hempvana Knee Bird Ultra Strength Pain Relief, Dch Nerve Pain Relief, Dzul - Lido Creme, Lidopatch Pain Relief, Therablast Maximum Relief, Theracare Pain Relief Medicated, Careland Plantar Fasciitis Hydrogel Pain Patches, Walgreens Kinesiology Pain Relief, Dr Sabharwals, Lidosync, Lidoreal Patch, Tidl Pain Relief Heat Therapy Roll-on, Tidl Pain Relief Evening Therapy Spray., Nervive Pain Relieving Cream, Pomg Pain Relief Roller, Yimimde Pain Relief Gel-patch, Plantar Fasciitis Pain Relief Gel-patch and 70 more
 
 ## Active ingredients
 

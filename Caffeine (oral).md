@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Central Nervous System Stimulant, Methylxanthine  
-**Labels on file:** 45
+**Labels on file:** 44
 
-**Also sold as:** Stay Awake, Uplift Chewable, Stay Awake Maximum Strength, Vivarin, Alert, Awake Maximum Strength, Topcare Stay Awake Maximum Strength, Earthmed Uplift Chewable Orange, Earthmed Uplift Chewable Strawberry, Earthmed Uplift Chewable Watermelon, Earthmed Uplift Chewable Cherry, Alert Alertness Aid, Alert Aid, Jet Alert Double Strength, Diurex Ultra, Diurex Ultimate, Jet Alert Regular Strength, Nodoz Alertness Aid
+**Also sold as:** Stay Awake, Uplift Chewable, Stay Awake Maximum Strength, Vivarin, Alert, Awake Maximum Strength, Topcare Stay Awake Maximum Strength, Earthmed Uplift Chewable Orange, Earthmed Uplift Chewable Strawberry, Earthmed Uplift Chewable Watermelon, Earthmed Uplift Chewable Cherry, Alert Alertness Aid, Alert Aid, Diurex Ultra, Diurex Ultimate, Jet Alert Regular Strength, Nodoz Alertness Aid
 
 ## Active ingredients
 

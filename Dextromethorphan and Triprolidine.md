@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Triprolidine Hydrochloride, Dextromethorphan Hydrobromide  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Also sold as:** Mucinex Fastmax Nighttime Dm Max, Endal
+**Also sold as:** Endal
 
 ## Active ingredients
 
