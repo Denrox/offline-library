@@ -100,6 +100,31 @@
         ],
         "notice": "U.S. Army manual written for isolated soldiers; parts of it assume evading an enemy. Figures are not included. Never eat a wild plant or mushroom you cannot identify with certainty. In an emergency, call your local emergency number."
       }
+    },
+    {
+      "id": "math-linear-algebra",
+      "topic": "Mathematics",
+      "title": "Linear Algebra (Wikibooks)",
+      "description": "Complete proof-based linear algebra textbook (after Jim Hefferon's book): linear systems and Gauss' method, vector spaces, linear maps and matrices, determinants, eigenvalues and Jordan form, inner product spaces and the spectral theorem, with applied topics such as Markov chains, networks and line of best fit. Formulas are in TeX.",
+      "converter": "wikibook",
+      "source_url": "https://en.wikibooks.org/wiki/Linear_Algebra",
+      "license": "CC BY-SA 4.0 (Wikibooks).",
+      "attribution": "Linear Algebra, Wikibooks contributors, based on Jim Hefferon's Linear Algebra. https://en.wikibooks.org/wiki/Linear_Algebra",
+      "params": {
+        "book": "Linear Algebra",
+        "nav_templates": [
+          "Linear Algebra"
+        ],
+        "section_names": {
+          "Table of Contents": "Introduction",
+          "Resources and Licensing": "Reference"
+        },
+        "skip_pages": [
+          "Cover",
+          "Resources",
+          "Bibliography"
+        ]
+      }
     }
   ]
 }
