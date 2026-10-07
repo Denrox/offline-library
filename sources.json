@@ -71,6 +71,35 @@
         "product_type": "HUMAN PRESCRIPTION DRUG",
         "notice": "Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice."
       }
+    },
+    {
+      "id": "survival-army",
+      "topic": "Survival",
+      "title": "Army Survival (ATP 3-50.21, 2018)",
+      "description": "U.S. Army survival manual: survival mindset, survival medicine and medicinal plants, finding and purifying water, wild food (edible and poisonous plants, trapping, fishing), fire, shelter and clothing, navigation and river crossing, survival kits, and knots and rope.",
+      "converter": "pdf",
+      "source_url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN12086_ATP%203-50x21%20FINAL%20WEB%202.pdf",
+      "license": "Public domain (U.S. Government work); approved for public release, distribution unlimited.",
+      "attribution": "ATP 3-50.21, Survival, Headquarters, Department of the Army, 18 September 2018. Converted to markdown; figures are not included.",
+      "params": {
+        "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN12086_ATP%203-50x21%20FINAL%20WEB%202.pdf",
+        "name": "Army Survival",
+        "edition": "2018-09-18",
+        "first_page": 13,
+        "last_page": 220,
+        "header": 50,
+        "footer": 50,
+        "chapter": "^(?:#{1,6} |\\*\\*)(Chapter \\d+|Appendix [A-Z])(?:\\*\\*)?\\s*$",
+        "extra_pages": [
+          {
+            "title": "Glossary (acronyms and terms)",
+            "first": 221,
+            "last": 222,
+            "category": "Reference"
+          }
+        ],
+        "notice": "U.S. Army manual written for isolated soldiers; parts of it assume evading an enemy. Figures are not included. Never eat a wild plant or mushroom you cannot identify with certainty. In an emergency, call your local emergency number."
+      }
     }
   ]
 }

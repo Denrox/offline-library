@@ -64,6 +64,10 @@ def clean(markdown, strip):
             for pattern in strip:
                 text = re.sub(pattern, "", text).strip()
             line = f"{m[1]} {text}"
+        # Bullets drawn in a symbol font have no Unicode mapping: drop them after a
+        # list marker, make the rest (bulleted items inside table cells) real bullets.
+        line = re.sub(r"^(\s*[-*]\s+)�\s*", r"\1", line)
+        line = re.sub(r"�\s*", "• ", line)
         out.append(line.rstrip())
     return out
 
