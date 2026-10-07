@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Hepatitis C Virus NS3/4A Protease Inhibitor, Hepatitis C Virus NS5A Inhibitor  
+**Drug class:** Hepatitis C Virus NS5A Inhibitor, Hepatitis C Virus NS3/4A Protease Inhibitor  
 **Labels on file:** 1
 
 **Brand and product names:** Mavyret

@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** HMG-CoA Reductase Inhibitor, Dietary Cholesterol Absorption Inhibitor  
+**Drug class:** Dietary Cholesterol Absorption Inhibitor, HMG-CoA Reductase Inhibitor  
 **Labels on file:** 9
 
 **Brand and product names:** Vytorin

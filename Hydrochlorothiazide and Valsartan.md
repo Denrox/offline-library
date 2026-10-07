@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Thiazide Diuretic, Angiotensin 2 Receptor Blocker  
+**Drug class:** Angiotensin 2 Receptor Blocker, Thiazide Diuretic  
 **Labels on file:** 47
 
 **Brand and product names:** Diovan Hct

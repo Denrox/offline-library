@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Vitamin A Acetate, Thiamine Hydrochloride  
-**Drug class:** Folate Analog, Vitamin B12, Vitamin C  
+**Drug class:** Folate Analog, Vitamin C, Vitamin D  
 **Labels on file:** 1
 
 **Brand and product names:** Quflora Pediatric
