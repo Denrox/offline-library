@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous  
 **Ingredient forms:** Ampicillin Sodium, Sulbactam Sodium  
-**Labels on file:** 18
+**Labels on file:** 17
 
 **Brand and product names:** Unasyn
 

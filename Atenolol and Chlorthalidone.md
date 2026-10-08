@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** beta-Adrenergic Blocker, Thiazide-like Diuretic  
-**Labels on file:** 9
+**Labels on file:** 7
 
 ## Uses
 

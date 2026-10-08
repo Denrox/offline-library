@@ -5,7 +5,7 @@
 **Route:** intravenous  
 **Ingredient forms:** Fluorescein Sodium  
 **Drug class:** Diagnostic Dye  
-**Labels on file:** 5
+**Labels on file:** 4
 
 **Brand and product names:** Ak-fluor
 

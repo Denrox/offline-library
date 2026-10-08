@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Oseltamivir Phosphate  
-**Labels on file:** 78
+**Labels on file:** 77
 
 **Brand and product names:** Tamiflu, Oseltamavir Phosphate
 

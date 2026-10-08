@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Verapamil Hydrochloride  
-**Labels on file:** 55
+**Labels on file:** 54
 
 ## Uses
 

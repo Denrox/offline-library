@@ -5,7 +5,7 @@
 **Route:** sublingual  
 **Ingredient forms:** Asenapine Maleate  
 **Drug class:** Atypical Antipsychotic  
-**Labels on file:** 6
+**Labels on file:** 5
 
 **Brand and product names:** Saphris
 

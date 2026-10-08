@@ -4,9 +4,9 @@
 
 **Route:** intramuscular, subcutaneous  
 **Drug class:** Adrenocorticotropic Hormone  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Brand and product names:** Acthar, Purified Cortrophin Gel
+**Brand and product names:** Acthar
 
 ## Uses
 

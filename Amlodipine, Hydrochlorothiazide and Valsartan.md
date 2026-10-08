@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Amlodipine Besylate  
-**Drug class:** Angiotensin 2 Receptor Blocker, Thiazide Diuretic  
+**Drug class:** Thiazide Diuretic, Angiotensin 2 Receptor Blocker  
 **Labels on file:** 6
 
 **Brand and product names:** Exforge Hct

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Substance P/Neurokinin-1 Receptor Antagonist  
-**Labels on file:** 6
+**Labels on file:** 5
 
 **Brand and product names:** Emend
 

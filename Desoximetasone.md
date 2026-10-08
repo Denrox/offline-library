@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Corticosteroid  
-**Labels on file:** 33
+**Labels on file:** 32
 
 **Brand and product names:** Topicort
 

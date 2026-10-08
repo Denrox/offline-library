@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Rasagiline Mesylate  
-**Labels on file:** 17
+**Labels on file:** 16
 
 **Brand and product names:** Azilect
 

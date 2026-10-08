@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Carvedilol Phosphate  
 **Drug class:** alpha-Adrenergic Blocker, beta-Adrenergic Blocker  
-**Labels on file:** 120
+**Labels on file:** 119
 
 **Brand and product names:** Coreg, Coreg Cr
 

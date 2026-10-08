@@ -4,7 +4,7 @@
 
 **Route:** rectal  
 **Ingredient forms:** Promethazine Hydrochloride  
-**Labels on file:** 8
+**Labels on file:** 7
 
 **Brand and product names:** Promethegan
 

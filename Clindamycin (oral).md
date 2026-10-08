@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Clindamycin Hydrochloride  
-**Labels on file:** 75
+**Labels on file:** 74
 
 ## ⚠ Boxed warning
 

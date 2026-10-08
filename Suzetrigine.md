@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Sodium Channel Blocker  
-**Labels on file:** 2
+**Labels on file:** 1
 
 **Brand and product names:** Journavx
 
