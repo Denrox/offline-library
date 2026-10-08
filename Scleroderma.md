@@ -17,9 +17,9 @@ There are two main types of scleroderma:
 
 The exact cause of scleroderma is unknown. Researchers think that several factors may play a part in causing the disease:
 
-- **Your genetics.** Certain genes can increase the chance that you will develop scleroderma. They may also play a role in which the type of scleroderma you have. Scleroderma is not passed from parent to child, but you are more likely to develop it if a close relative has it.
-- **Your environment.** Exposure to certain things in the environment, such as [viruses](Viral%20Infections.md) or chemicals, may trigger scleroderma.
-- **[Immune system changes](Immune%20System%20and%20Disorders.md).** When your immune system changes, it can trigger your cells to make too much collagen in the body. Too much collagen causes patches of tight, hard skin.
+- **Your genetics**. Certain genes can raise your chance of getting scleroderma. They may also affect which type of scleroderma you have. Scleroderma is not passed from parent to child, but you are more likely to get it if a close relative has it.
+- **Your environment.** Things around you may trigger scleroderma, such as certain chemicals, [viruses](Viral%20Infections.md), or medicines. However, a trigger cannot be found for most people.
+- **[Immune system changes](Immune%20System%20and%20Disorders.md).** When your immune system attacks healthy tissue by mistake, it can trigger your cells to make too much collagen, which causes patches of tight, hard skin.
 - **[Hormones](Hormones.md).** Hormonal or immune system differences between women and men might play a part in the disease.
 
 #### Who is more likely to develop scleroderma?
@@ -28,7 +28,7 @@ Anyone can get scleroderma, but certain factors may make you more likely to deve
 
 - **Your sex.** Scleroderma is more common in women than in men.
 - **Your age.** The disease usually appears between the ages of 30 and 50.
-- **Your race.** Scleroderma can affect people of all races and ethnic groups, but the disease can affect African Americans more severely.
+- **Your race.** Scleroderma can affect people of all races and ethnic groups, but the disease is more common and can be more severe in African Americans.
 
 #### What are the symptoms of scleroderma?
 
@@ -38,12 +38,18 @@ The symptoms of scleroderma are different for each person, depending on the type
 
  - Patches in firm, oval shapes that stay in one area or spread to other areas of skin. This is called morphea.
  - Lines of thickened or different colored skin that run down your arm, leg, and, rarely, on the forehead. This is called linear scleroderma.
-- **Systemic scleroderma** can cause problems with your internal organs as well as your skin. It can cause symptoms such as:
+- **Systemic scleroderma** can cause problems with your internal organs as well as your skin. It has two kinds. **Limited cutaneous scleroderma** affects less of your skin while **diffuse cutaneous scleroderma** spreads further and is more likely to damage your organs.
+
+Symptoms can include:
 
  - Thick, tight skin on your fingers
  - [Fatigue](Fatigue.md)
- - [Raynaud's phenomenon](Raynaud%20Phenomenon.md), a narrowing of blood vessels in the hands or feet
- - Damage to your internal organs, including your [digestive system](Digestive%20Diseases.md), lungs, kidneys, and heart
+ - [Raynaud's phenomenon](Raynaud%20Phenomenon.md), a narrowing of blood vessels that makes your fingers or toes turn white, blue, or red and feel numb or painful from cold or stress
+ - Joint pain and stiffness
+ - Trouble swallowing, [heartburn](Heartburn.md), or [shortness of breath](Breathing%20Problems.md)
+ - Damage to your internal organs, including your [digestive system](Digestive%20Diseases.md), kidneys, and heart
+
+Most people with systemic scleroderma have some loss of lung function.
 
 #### How is scleroderma diagnosed?
 
@@ -61,11 +67,11 @@ To find out if you have scleroderma, your health care provider:
 
 There is no cure for scleroderma, but treatments can help control your symptoms and limit damage. The treatments may include:
 
-- **Medicines** to help decrease swelling, [manage pain](Pain%20Relievers.md), control other symptoms, and prevent complications.
-- **Physical or occupational therapy** to help with pain, improve muscle strength, and teach you ways to help with daily living.
+- **Medicines** to help lower swelling, [manage pain](Pain%20Relievers.md), control other symptoms, and prevent complications.
+- **Physical or occupational therapy** to help with pain, improve muscle strength, and learn easier ways to do everyday tasks.
 - **Regular dental care,** because scleroderma can make your [mouth dry](Dry%20Mouth.md) and damage connective tissues in your mouth. These problems can speed up [tooth decay](Tooth%20Decay.md) and cause your teeth to become loose.
 
-You may need to see specialists to help treat your disease. Many people with scleroderma will see a rheumatologist. This is a doctor who specializes in rheumatic diseases such as arthritis and other inflammatory or autoimmune disorders. Dermatologists, who specialize in conditions of the skin, hair, and nails, may also play an important role in treating the disease. And if you have organ damage, you may need to see other specialists.
+You may need to see specialists to help treat the disease. Many people with scleroderma will see a rheumatologist. This is a doctor who specializes in autoimmune and other diseases of the bones, joints, and muscles. Dermatologists, a doctor who specializes in skin diseases, may also play an important role in treating the disease. You may need to see other specialists if scleroderma affects your organs. It can also help to talk with a mental health professional about living with a long-term illness.
 
 You can also help manage some of your symptoms, for example by:
 
@@ -75,6 +81,7 @@ You can also help manage some of your symptoms, for example by:
 - Using moisturizers on your skin to help lessen stiffness
 - Avoiding hot baths and showers, harsh soaps, and household cleaners
 - Getting [regular physical activity](How%20Much%20Exercise%20Do%20I%20Need.md)
+- Seeing your [dentist](Dental%20Health.md) for regular checkups
 
 NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
