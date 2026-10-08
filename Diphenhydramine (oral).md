@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Diphenhydramine Hydrochloride, Diphenhydramine Hcl  
-**Labels on file:** 618
+**Labels on file:** 617
 
-**Also sold as:** Allergy Relief, Nighttime Sleep Aid, Sleep Aid, Childrens Allergy Relief, Nighttime Sleep-aid, Sleep Aid Nighttime, Allergy, Childrens Allergy, Allergy Relief Childrens, Sleep Aid Maximum Strength, Banophen, Nighttime Sleep Aid Maximum Strength, Rest Simply, M-dryl, Benadryl, Geri-dryl Allergy Relief, Allergy Relief Dye Free, Good Neighbor Pharmacy Childrens Allergy, Pharbedryl, Sleep-aid, Allergy Childrens, Sleepaid Softgels, Cvs Health Nighttime Sleep-aid, Dg Health Sleep Aid, Night Time Sleep-aid and 191 more
+**Also sold as:** Allergy Relief, Nighttime Sleep Aid, Sleep Aid, Childrens Allergy Relief, Nighttime Sleep-aid, Sleep Aid Nighttime, Allergy, Childrens Allergy, Allergy Relief Childrens, Sleep Aid Maximum Strength, Banophen, Rest Simply, M-dryl, Benadryl, Nighttime Sleep Aid Maximum Strength, Geri-dryl Allergy Relief, Allergy Relief Dye Free, Good Neighbor Pharmacy Childrens Allergy, Pharbedryl, Sleep-aid, Allergy Childrens, Sleepaid Softgels, Cvs Health Nighttime Sleep-aid, Dg Health Sleep Aid, Night Time Sleep-aid and 191 more
 
 ## Active ingredients
 

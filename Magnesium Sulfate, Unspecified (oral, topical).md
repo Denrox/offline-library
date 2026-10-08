@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral, topical  
-**Labels on file:** 12
+**Labels on file:** 11
 
 **Also sold as:** Epsom Salt
 

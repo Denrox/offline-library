@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 19
+**Labels on file:** 18
 
-**Also sold as:** Cherry Sore Throat Lozenge, Sore Throat Logenzes Sore Throat, Cherry Sore Throat Lozenges, Cherry Throat Relief Lozenges, Chloraseptic, Cepacol Extra Strength Sore Throat Honey Lemon, Chloraspetic, Honey Lemon Sore Throat Lozenges, Vicks Vapocool Sore Throat, Toothache and Gum Relief Cushions, Chloraseptic Max, Good Sense Cherry Benzocaine Lozenges
+**Also sold as:** Cherry Sore Throat Lozenge, Sore Throat Logenzes Sore Throat, Cherry Sore Throat Lozenges, Cherry Throat Relief Lozenges, Chloraseptic, Cepacol Extra Strength Sore Throat Honey Lemon, Chloraspetic, Honey Lemon Sore Throat Lozenges, Toothache and Gum Relief Cushions, Chloraseptic Max, Good Sense Cherry Benzocaine Lozenges
 
 ## Active ingredients
 

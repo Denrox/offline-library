@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide  
-**Labels on file:** 117
+**Labels on file:** 116
 
-**Also sold as:** Cough Dm, Cough Relief, Delsym, 12 Hr Relief Cough Dm, Foster and Thrive 12 Hour Cough Relief, Good Sense Cough Dm, Childrens Giltuss Honey Dm Cough, Giltuss Honey Dm Cough, Adult Long Lasting Cough Relief, Topcare Cough Dm, Leader Cough Dm, Basic Care Childrens Cough Dm, Equate Cough Dm, Dg Health Cough Dm, Basic Care Cough Dm, Father Johns Medicine, Cough Relief Adult, Delsym (dextromethorphan), Robohbr Cough Suppressant, Mucinex Instasoothe Cough, Premier Value Tussin Cough Long Acting, Cough Relief Cough Suppressant, Mucinex Childrens Mighty Chews Cough, Equaline Cough Dm, Giltuss Dm and 48 more
+**Also sold as:** Cough Dm, Cough Relief, Delsym, 12 Hr Relief Cough Dm, Foster and Thrive 12 Hour Cough Relief, Good Sense Cough Dm, Childrens Giltuss Honey Dm Cough, Giltuss Honey Dm Cough, Adult Long Lasting Cough Relief, Topcare Cough Dm, Leader Cough Dm, Basic Care Childrens Cough Dm, Equate Cough Dm, Dg Health Cough Dm, Basic Care Cough Dm, Father Johns Medicine, Cough Relief Adult, Delsym (dextromethorphan), Robohbr Cough Suppressant, Mucinex Instasoothe Cough, Premier Value Tussin Cough Long Acting, Cough Relief Cough Suppressant, Mucinex Childrens Mighty Chews Cough, Equaline Cough Dm, Giltuss Dm and 47 more
 
 ## Active ingredients
 
