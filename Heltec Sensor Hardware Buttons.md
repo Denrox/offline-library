@@ -1,0 +1,14 @@
+# Heltec Sensor Hardware Buttons
+
+## Capsule Sensor V3
+
+The Capsule Sensor V3 has no screen, so its button uses the press gestures rather than a menu.
+
+- **Hold 3 seconds:** Power on, or shut down.
+- **Double press:** Send the device position to the mesh.
+- **Triple press:** Turn the GPS off. Triple press again to turn it back on.
+- **Hold 8 to 16 seconds while shut down:** Enter WirelessBoot mode for uploading firmware. The blue indicator lights when the device is ready.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/community-supported/heltec-automation/sensor/buttons. GPL-3.0 (Meshtastic documentation).*

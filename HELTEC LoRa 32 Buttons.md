@@ -1,0 +1,26 @@
+# HELTEC® LoRa 32 Buttons
+
+## Functionality
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+The user button is silkscreened **PRG** on the LoRa32 V3 and **PROG** on the V4. Both are the same button.
+
+- **Reset button (bottom):**
+  - **Short press:** Reset the device.
+- **User button (top, PRG or PROG):**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+
+The user button is also the ESP32 BOOT strap. Holding it while powering on enters the serial bootloader instead of starting Meshtastic.
+
+The V4 TFT firmware adds a second button. The OLED firmware does not.
+
+- **Second button (TFT firmware only):**
+  - **Short press:** Move to the previous screen. With a menu open, move the highlight up.
+  - **Hold about half a second:** Close the menu.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/heltec-automation/lora32/buttons. GPL-3.0 (Meshtastic documentation).*

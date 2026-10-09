@@ -1,0 +1,27 @@
+# Vision Master Hardware Buttons
+
+## Functionality
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+The Vision Master E213, E290 and T190 all have two user buttons: the BOOT button and a second button on GPIO21.
+
+- **RST button (side):**
+  - **Short press:** Reset the device.
+- **BOOT button:**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+- **GPIO21 button:**
+  - **Short press:** Move to the previous screen. With a menu open, move the highlight up.
+  - **Hold about half a second:** Close the menu.
+
+The BOOT button is also the ESP32 boot strap. Holding it while powering on enters the serial bootloader instead of starting Meshtastic.
+
+### InkHUD firmware
+
+The E213 and E290 also ship an optional InkHUD firmware image. There, a short press moves to the next applet and a hold opens the menu. InkHUD has no shutdown-by-holding gesture.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/heltec-automation/vision-master/buttons. GPL-3.0 (Meshtastic documentation).*

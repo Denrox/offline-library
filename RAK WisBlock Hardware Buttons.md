@@ -1,0 +1,24 @@
+# RAK WisBlock Hardware Buttons
+
+## Functionality
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+The firmware treats every RAK4631 base board the same. It compiles in two user buttons, wired to base board pins IO5 and P0.12, but neither is populated on a bare base board. They exist only if a button module such as the RAK14002 is fitted, or a button is wired to those pins.
+
+### RAK5005-O / RAK19007 / RAK19003 / RAK19001
+
+- **Reset button:**
+  - **Short press:** Reset the device.
+  - **Double press:** Put the device into bootloader mode.
+- **User button (if fitted):**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+- **Second button (if fitted):**
+  - **Short press:** Move to the previous screen. With a menu open, move the highlight up.
+  - **Hold about half a second:** Close the menu.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/rak-wireless/wisblock/buttons. GPL-3.0 (Meshtastic documentation).*

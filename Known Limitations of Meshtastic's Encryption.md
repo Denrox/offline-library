@@ -1,0 +1,51 @@
+# Known Limitations of Meshtastic's Encryption
+
+Meshtastic’s security model sits at the intersection of multiple conflicting requirements. This document explains the requirements, the tradeoffs they represent, and the limitations chosen to make Meshtastic usable.
+
+## History
+
+First, Meshtastic was originally designed to work with closed, trusted groups only. Meshtastic channels are encrypted with a Pre-Shared Key (PSK) and AES-CTR. This encryption type does not include authentication, and as such, anyone with the PSK can send a message as any other user on that channel.
+
+AES-CTR does have another weakness, in that it produces a cipher stream for a given Initialization Vector (IV), and the actual encryption step is done by XOR’ing the plaintext with that stream. In Meshtastic Channel messages, this IV is a combination of the sender’s Nodenum and the PacketID of the given message. This does mean that if an attacker can deduce the exact plaintext of an encrypted message, an attacker can re-use the Nodenum and PacketID combination to send spoofed messages, even without knowing the PSK of the channel. This is of limited use due to the requirement for PacketID and source NodeNum reuse, to get a matching IV.
+
+In its first iteration, Meshtastic handled Direct Messages (DMs) by simply using the existing channel PSK, and marking DMs as only directed to the target node. This approach was acceptable when Meshtastic only being used by small groups, but the advent of public meshes with the potential for bad actors has changed the equation significantly. For about a year, Meshtastic has been intentionally adding features to harden it against this scenario, but with minimal compatibility breaks.
+
+The PSK DMs in particular were recognized as a problem, and the new DM system was rolled out with Meshtastic 2.5. This system uses x25519 public key cryptography and AES-CCM to encrypt and authenticate DMs sent between nodes. These public keys are sent inside User packets encrypted with the existing channel PSKs.
+
+## Limitations
+
+This system, by necessity, uses a Trust On First Use (TOFU) model. There is no central authority to sign user keys, and so nodes will store and retain the first public key announced for a given node number. This is essentially a hard requirement of a decentralized mesh network.
+
+This issue is compounded by the limited memory for storing nodes on a Meshtastic node. The NodeDB holds 120 nodes on most nRF52840 and ESP32 hardware, and when more nodes are seen on a network, the oldest and least interesting node rolls off the NodeDB to make room for new nodes. The exception to this is that favorited nodes are guaranteed not to be removed from the NodeDB. On all but the smallest hardware, a separate warm store keeps the public key of nodes that roll off, so a returning node's key can still be checked.
+
+The combination of the TOFU model and constrained hardware leads to a problem. When a node's key is in neither the NodeDB nor the warm store, the Meshtastic firmware has no way to confirm that a future User packet isn’t a spoof of that Node Number, with a different public key. This problem is made worse by the possibility that an attacker on the channel can quickly create fake nodes, and cause legitimate nodes to roll off the NodeDB sooner.
+
+This attack was anticipated when the DM system was designed, and accepted as an inevitable result of building an ad-hoc, decentralized mesh. Again, there is no central authority to sign keys. As a result, multiple mitigations were built into the system to minimize the actual usefulness of this attack.
+
+## Intended Behavior
+
+First, while the NodeDB on embedded hardware is limited, a connected mobile client has the ability to store information about many more nodes, and to flag when one of those nodes shows up with a different public key. This is what happens when a node on a client shows up with a red key icon. The firmware has seen a different public key for that node, and the mobile client knows that it has changed.
+
+The second major mitigation is that nodes that are marked as favorite are never dropped from the NodeDB. Clients now automatically mark nodes as favorite when a DM is sent to that node, further ensuring that the node a user was chatting with is still the same node.
+
+The firmware reports how each packet was encrypted through the “pki_encrypted” boolean and the “public_key” byte field. When the firmware receives a packet from the mesh that was sent using DM PKI encryption, the bool is marked true, and the source public key is copied into the bytes field. A text message addressed to the node but encrypted with a channel PSK is rejected, unless the node is in licensed mode. Other packets addressed to the node over a channel, such as position requests, are still processed, with pki_encrypted set false.
+
+Packets sent from a connected client may set the “pki_encrypted” boolean to true, and populate the public_key byte field on a packet sent through the local API. If the boolean is set to true, then the packet will only be sent via a PKI DM. If the bytes are populated, the packet will only be sent if the public key in the API message matches the public key for that node in the local NodeDB. If the boolean is not set to true, the firmware will send the packet as a PKI DM if it is indeed sent to a single target, and the firmware has a public key for that target. If no public key is known for the remote node, the firmware doesn't fall back to channel encryption: the message isn't sent, and it fails with a `PKI_SEND_FAIL_PUBLIC_KEY` routing error. Traceroute, NodeInfo, position, and routing packets are the exception, and normally use channel encryption.
+
+## Packet signing
+
+Packet signing narrows several of these weaknesses. It uses XEdDSA, the scheme Signal uses, to produce Ed25519 signatures from each node's existing X25519 key pair, so nodes don't manage a second key pair.
+
+A node's number is a CRC-32 of its public key. When a node first hears from another node, it accepts that node's key from a signed NodeInfo only if the CRC of the key matches the sender's node number.
+
+Nodes sign every broadcast that fits. A signature takes 66 bytes of the 255-byte LoRa frame, so a broadcast too large for one is sent unsigned. Nodes in licensed mode sign every packet they send that fits. Direct messages aren't signed, because their shared key already authenticates them. STM32WL-based nodes don't sign or check signatures.
+
+A packet whose signature doesn't match the sender's known public key is always dropped. Once a node verifies any signature from another node, it marks that node as a signer, in the warm store as well as the NodeDB. From then on, it refuses unsigned NodeInfo from that node. The [Packet Signature Policy](Security%20Configuration.md) sets how other unsigned packets are treated:
+
+- `COMPATIBLE`, the default, accepts them.
+- `BALANCED` drops an unsigned broadcast from a known signer if the broadcast was small enough to carry a signature.
+- `STRICT` drops every unsigned packet that wasn't encrypted as a direct message.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/about/overview/encryption/limitations. GPL-3.0 (Meshtastic documentation).*

@@ -1,0 +1,190 @@
+# Display Configuration
+
+The display config options are: Screen On Duration, Auto Carousel Interval, Always Point North, GPS Format, Preferred Display Units, Flip Screen, OLED Definition, Display Mode, Heading Bold, Wake on Tap or Motion, Compass Orientation, and Use 12-Hour Clock. Display config uses an admin message sending a `Config.Display` protobuf.
+
+## Display Config Values
+
+### Screen On Duration
+
+How long the screen remains on after the user button is pressed or messages are received.
+
+### Auto Carousel Interval
+
+Automatically toggles to the next page on the screen like a carousel, based on the specified interval.
+
+### Always Point North
+
+If this is set, the compass heading on the screen outside of the circle will always point north. This feature is off by default and the top of display represents your heading direction, the North indicator will move around the circle.
+
+### GPS Format
+
+The format used to display GPS coordinates on the device screen.
+
+Acceptable values:
+
+| Value  |           Description           |
+| :----: | :-----------------------------: |
+| `DEC`  |         Decimal Degrees         |
+| `DMS`  |     Degrees Minutes Seconds     |
+| `UTM`  |  Universal Transverse Mercator  |
+| `MGRS` | Military Grid Reference System  |
+| `OLC`  | Open Location Code (Plus Codes) |
+| `OSGR` | Ordnance Survey Grid Reference  |
+| `MLS`  |    Maidenhead Locator System    |
+
+### Preferred Display Units
+
+Switch between `METRIC` (default) and `IMPERIAL` units
+
+This setting applies to the screen on the device only. The apps take their units from the client's locale (phone, desktop, or browser) — see [Android](Units%2C%20Measurement%20%26%20Locale.md) and [Apple](Units%2C%20Measurement%20%26%20Locale%20%28user%29.md) — and are unaffected by it.
+
+### Flip Screen
+
+If enabled, the screen will be rotated 180 degrees, for cases that mount the screen upside down
+
+### OLED Definition
+
+The type of OLED Controller is auto-detected by default, but can be defined with this setting if the auto-detection fails. For the SH1107, we assume a square display with 128x128 Pixels like the GME128128-1.
+
+Acceptable values:
+
+|     Value      |                 Description                 |
+| :------------: | :-----------------------------------------: |
+|  `OLED_AUTO`   |       Auto detect display controller        |
+| `OLED_SSD1306` |          Always use SSD1306 driver          |
+| `OLED_SH1106`  |          Always use SH1106 driver           |
+| `OLED_SH1107`  | Always use SH1107 driver (Geometry 128x128) |
+
+### Display Mode
+
+The display mode can be set to `DEFAULT` (default), `TWOCOLOR`, `INVERTED` or `COLOR`. The `TWOCOLOR` mode is intended for OLED displays with the first line of output being a different color than the rest of the display. The `INVERTED` mode will invert that bicolor area, resulting in a white background headline on monochrome displays.
+
+### Heading Bold
+
+The heading can be hard to read when 'INVERTED' or 'TWOCOLOR' display mode is used. This setting will make the heading bold, so it is easier to read.
+
+### Wake on Tap or Motion
+
+This option enables the ability to wake the device screen when motion, such as a tap on the device, is detected via an attached accelerometer, or a capacitive touch button.
+
+### Compass Orientation
+
+Indicates how to rotate or invert the compass orientation on the display.
+
+### Use 12-Hour Clock
+
+If false the device will display the time in 24-hour format on screen.  If true, the device will display the time in 12-hour format on screen.
+
+## Display Config Client Availability
+
+           Android
+        </>
+      ),
+      value: "android",
+    },
+    {
+      label: (
+        <>
+           Apple
+        </>
+      ),
+      value: "apple",
+    },
+    {
+      label: (
+        <>
+           CLI
+        </>
+      ),
+      value: "cli",
+    },
+    {
+      label: (
+        <>
+           Web
+        </>
+      ),
+      value: "web",
+    },
+  ]}>
+
+**android**
+
+### Android
+
+> **Info:**
+>
+>
+> Display Config is available for Android.
+>
+> 1. Open the Meshtastic App
+> 2. Navigate to: **Settings >  Display**
+>
+
+**apple**
+
+### Apple
+
+> **Info:**
+>
+> Most display config options are available on iOS, iPadOS and macOS at Settings > Device Configuration > Display.
+
+**cli**
+
+### CLI
+
+> **Info:**
+>
+>
+> All display config options are available in the python CLI. Example commands are below:
+>
+
+| Setting                           | Acceptable Values                                         | Default                       |
+| --------------------------------- | --------------------------------------------------------- | ----------------------------- |
+| display.auto_screen_carousel_secs | `integer`                                                 | Default of `0` is off.        |
+| display.compass_north_top         | `false`, `true`                                           | `false`                       |
+| display.flip_screen               | `false`, `true`                                           | `false`                       |
+| display.gps_format                | `DEC`, `DMS`, `UTM`, `MGRS`, `OLC`, `OSGR`, `MLS`         | `DEC`                         |
+| display.oled                      | `OLED_AUTO`, `OLED_SSD1306`, `OLED_SH1106`, `OLED_SH1107` | `OLED_AUTO`                   |
+| display.screen_on_secs            | `integer`                                                 | Default of `0` is 10 minutes. |
+| display.units                     | `METRIC`, `IMPERIAL`                                      | `METRIC`                      |
+| display.displaymode               | `DEFAULT`, `TWOCOLOR`, `INVERTED`, `COLOR`                | `DEFAULT`                     |
+| display.heading_bold              | `false`, `true`                                           | `false`                       |
+| display.wake_on_tap_or_motion     | `false`, `true`                                           | `false`                       |
+
+> **Tip:**
+>
+>
+> Because the device will reboot after each command is sent via CLI, it is recommended when setting multiple values in a config section that commands be chained together as one.
+>
+> ```shell title="Example:"
+> meshtastic --set display.screen_on_secs 120 --set display.gps_format UTM
+> ```
+>
+
+```shell title="Set Screen On Duration (Default of 0 is 10 minutes)"
+meshtastic --set display.screen_on_secs 0
+meshtastic --set display.screen_on_secs 120
+```
+
+```shell title="Set Auto Carousel Interval (Default of 0 is Off)"
+meshtastic --set display.auto_screen_carousel_secs 0
+// Set to 2 Minutes (120 Seconds)
+meshtastic --set display.auto_screen_carousel_secs 120
+```
+
+```shell title="Specify GPS format on device screen"
+meshtastic --set display.gps_format UTM
+```
+
+**web**
+
+### Web
+
+> **Info:**
+>
+> All display config options are available in the Web UI.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/radio/display. GPL-3.0 (Meshtastic documentation).*

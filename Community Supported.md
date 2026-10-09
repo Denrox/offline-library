@@ -1,0 +1,124 @@
+# Community Supported
+
+## RAK®
+
+### Wisblock
+
+Modular hardware system with Base, Core and Peripheral modules including the low-power and solar ready nRF52840-based Meshtastic Starter Kit (19007 & 4631).
+
+**WisBlock Core Modules**
+
+| Name                                                       | MCU       | Radio  |     Wi-Fi     | BT  |  GPS   |
+| :--------------------------------------------------------- | :-------- | :----- | :----------: | :-: | :----: |
+| RAK3172/RAK3372  | STM32WLE5 | SX126x |      NO      | NO  |   NO   |
+| RAK11200        | ESP32     | ADD-ON | 2.4GHz b/g/n | 4.2 | ADD-ON |
+
+## LILYGO®
+
+### LoRa
+
+Inexpensive basic ESP32-based boards.
+
+| Name                                              | MCU   | Radio  |     Wi-Fi     | BT  | GPS |
+| :------------------------------------------------ | :---- | :----- | :----------: | :-: | :-: |
+| LoRa32 V1             | ESP32 | SX127x | 2.4GHz b/g/n | 4.2 | NO  |
+| LoRa32 V1.3         | ESP32 | SX127x | 2.4GHz b/g/n | 4.2 | NO  |
+| LoRa32 V2.0         | ESP32 | SX127x | 2.4GHz b/g/n | 4.2 | NO  |
+| LoRa32 V2.1-1.6     | ESP32 | SX127x | 2.4GHz b/g/n | 4.2 | NO  |
+| LoRa32 V2.1-1.8 | ESP32 | SX1280 | 2.4GHz b/g/n | 4.2 | NO  |
+| LoRa32 V3.0         | ESP32 | SX127x | 2.4GHz b/g/n | 4.2 | NO  |
+
+### T-Beam
+
+Boards complete with GPS, 18650 battery holder, and optional screen.
+
+| Name                                          | MCU   | Radio             |     Wi-Fi     | BT  | GPS |
+| :-------------------------------------------- | :---- | :---------------- | :----------: | :-: | :-: |
+| T-Beam v0.7     | ESP32 | SX1276            | 2.4GHz b/g/n | 4.2 | YES |
+| T-Beam v1.1     | ESP32 | SX1276            | 2.4GHz b/g/n | 4.2 | YES |
+| T-Beam with M8N | ESP32 | SX1276SX1262 | 2.4GHz b/g/n | 4.2 | YES |
+
+## Heltec Automation
+
+### Plug & Play Sensors
+
+| Name                                      | MCU         | Radio  | Wi-Fi         | BT  | GPS |
+| ----------------------------------------- | ----------- | ------ | ------------ | --- | --- |
+| Capsule V3 | ESP32-S3FN8 | SX1262 | 2.4GHz b/g/n | 5.0 | YES |
+
+## Seeed Studio
+
+### Wio Series
+
+A lineup of development boards and modules for hobbyists and prototyping, with a variety of MCU and sensor options. Most models are intended for integration into custom projects, while the Tracker L1 has a "Pro" variant that is available as a ready-to-go handheld device with a pre-installed case and battery.
+
+| Name                                                                                        | MCU         | Radio  | Wi-Fi | BT  | GPS |
+| :------------------------------------------------------------------------------------------ | :---------- | :----- | :--: | :-: | :-: |
+| [Seeed Wio-WM1110 Dev Kit](Seeed%20Wio-WM1100.md)   | nRF52840    | LR1110 | YES  | 5.3 | YES |
+| [Seeed Wio Tracker 1110](Seeed%20Wio-WM1100.md) | nRF52840    | LR1110 | YES  | 5.3 | YES |
+| [Wio-E5 mini Dev Board](Seeed%20Wio-E5.md)             | STM32WLE5JC | SX126x |  NO  | NO  | NO  |
+| [Wio-E5 Dev Kit](Seeed%20Wio-E5.md)                     | STM32WLE5JC | SX126x |  NO  | NO  | NO  |
+| [Wio-E5 Wireless Module](Seeed%20Wio-E5.md)                 | STM32WLE5JC | SX126x |  NO  | NO  | NO  |
+
+## B&Q Consulting
+
+### Nano Series
+
+Portable and durable devices designed for Meshtastic.
+
+| Name                                                            | MCU         | Radio  |     Wi-Fi     | BT  | GPS |
+| :-------------------------------------------------------------- | :---------- | :----- | :----------: | :-: | :-: |
+| Nano G2 Ultra      | nRF52840    | SX1262 | 2.4GHz b/g/n | 5.0 | YES |
+| Nano G1 Explorer | ESP32 WROOM | SX1262 | 2.4GHz b/g/n | 4.2 | YES |
+| Nano G1            | ESP32 WROOM | SX1276 | 2.4GHz b/g/n | 4.2 | YES |
+
+### Station Series
+
+High power LoRa transceiver designed for Meshtastic licensed ham operation.
+
+| Name                                               | MCU              | Radio  |     Wi-Fi     | BT  |   GPS    |
+| :------------------------------------------------- | :--------------- | :----- | :----------: | :-: | :------: |
+| Station G1 | ESP32 WROOM      | SX1262 | 2.4GHz b/g/n | 4.2 | OPTIONAL |
+| Station G2 | ESP32-S3 WROOM-1 | SX1262 | 2.4GHz b/g/n | 5.0 | OPTIONAL |
+
+## CanaryOne
+
+Complete solution with battery, screen, case, and antenna. Ships pre-flashed with latest Meshtastic firmware.
+
+| Name                  | MCU      | Radio  | Wi-Fi | BT  | GPS |
+| :-------------------- | :------- | :----- | :--: | :-: | :-: |
+| CanaryOne | nRF52840 | SX1262 |  NO  | 5.0 | YES |
+
+## unPhone
+
+All-in-one development device with LoRa, Wi-Fi, BT, touchscreen, accelerometer, gyroscope, vibration motor, LiPo battery and more!
+
+| Name                 | MCU              | Radio  | Wi-Fi | BT  | GPS |
+| :------------------- | :--------------- | :----- | :--: | :-: | :-: |
+| unPhone | ESP32-S3-WROOM-1 | RF950W | YES  | 5.0 | NO  |
+
+## Chatter
+
+DIY kit with ESP32, LoRa chip, and optional GPS. Designed for STEM education.
+
+| Name                 | MCU   | Radio  | Wi-Fi | BT  | GPS |
+| :------------------- | :---- | :----- | :--: | :-: | :-: |
+| Chatter | ESP32 | LLCC68 | YES  | 4.2 | No  |
+
+## Radio Master
+
+| Name                       | MCU   | Radio                                         | Wi-Fi | BT  | GPS |
+| :------------------------- | :---- | :-------------------------------------------- | :--: | :-: | :-: |
+| Bandit Nano ExpressLRS 900 | ESP32 | SX1276 + SKY66122 PA/LNA +30db TX, +16db RX ) |  ?   | YES | NO  |
+
+## STMicroelectronics®
+
+Evaluation boards for the STM32WL LoRa microcontroller.
+
+| Name                                                | MCU       | Radio  | Wi-Fi | BT  | GPS |
+| :-------------------------------------------------- | :-------- | :----- | :--: | :-: | :-: |
+| [Nucleo-WL55JC](STMicroelectronics%20Nucleo-WL55JC.md) | STM32WL55 | SX126x |  NO  | NO  | NO  |
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/community-supported/community-supported. GPL-3.0 (Meshtastic documentation).*

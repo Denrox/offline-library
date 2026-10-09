@@ -1,0 +1,160 @@
+# Traceroute Module Usage
+
+## Overview
+
+Due to the limited bandwidth of LoRa, Meshtastic does not keep track of the nodes a message used to hop to the destination. However, from firmware 2.0.8 on, there is a Traceroute Module that can show you this.
+
+Only nodes that know the encryption key of the channel you use can be tracked. Also note that a message may arrive via multiple routes due to duplication because of rebroadcasting. This module will only track the hops of the first packet containing the traceroute request that arrived at the destination.
+
+In order to use it, make sure your devices use firmware version 2.0.8 or higher.
+
+From firmware version ≥ 2.5, the route back to the origin is recorded, along with the Signal-to-Noise Ratio (SNR) for each link. Nodes with older firmware or those unable to decrypt the traceroute will be shown as "Unknown" (represented by an ID equal to 4294967295 or 0xFFFFFFFF in hexadecimal) if all nodes in the route are using at least firmware version 2.3.12.
+
+Each direction records up to 8 hops. The firmware records per-hop SNR in 0.25 dB steps, as measured by the reporting node on its incoming link.
+
+## Cost and rate limiting
+
+A traceroute requests acknowledgement, so the mesh retransmits it until a node acknowledges it. It costs more airtime than a text message. Use it as a diagnostic, not as a monitor.
+
+The sending node allows one traceroute every 30 seconds. Exceeding the limit produces no mesh error: the node never transmits the request, and reports the limit to the client locally. The responding node has no limit and answers every request it receives.
+
+The firmware refuses a broadcast traceroute of more than one hop, and drops it silently.
+
+## Channels and encryption
+
+Traceroute uses channel encryption, never public-key encryption. Only nodes holding the key for the channel can add themselves to the route. Nodes without the key still forward the packet, but appear as unknown hops.
+
+The response returns on the channel that carried the request. The channel used to send depends on the client:
+
+| Client | Channel used |
+| :----- | :----------- |
+| CLI | Channel 0, or `--ch-index` if given |
+| Apple | Always channel 0 |
+| Android | The channel the destination was last heard on, otherwise 0 |
+| Web | Primary channel |
+| Device menu | Channel 0 |
+
+Only the CLI allows choosing the channel.
+
+  
+
+## Repeater Behavior
+
+Repeater nodes will appear in the traceroute log if they have the encryption key, but if they are not in the node list they might appear as "Unknown" depending on the app.
+
+## Traceroute Module Client Availability
+
+           Android
+        </>
+      ),
+      value: "android",
+    },
+    {
+      label: (
+        <>
+           Apple
+        </>
+      ),
+      value: "apple",
+    },
+    {
+      label: (
+        <>
+           CLI
+        </>
+      ),
+      value: "cli",
+    },
+    {
+      label: (
+        <>
+           Web
+        </>
+      ),
+      value: "web",
+    },
+  ]}>
+
+**android**
+
+### Android
+
+Long press a node in the node list and select **Trace Route**. Alternatively, open the node's details, find **Traceroute** under Telemetry, and select the refresh button.
+
+The result appears in a pop-up anywhere in the app. Node details also keeps a history under Telemetry as **Traceroute**, with a chart and a map view.
+
+The buttons in node details enforce the 30 second limit by greying out with a countdown ring, and display no message. The node list long press item has no such limit.
+
+The app applies no timeout. An unanswered request stays in the log as **No Response**.
+
+**apple**
+
+### Apple
+
+Long press a node in the node list and select **Trace Route**, or use **Trace Route** in the Actions section of the node's detail view.
+
+The node's detail view keeps results under Logs as **Trace Route Log**. Settings > Logging > **Trace Routes** lists them for every node. The app posts a **Traceroute Complete** notification when a reply arrives, showing the hop count in each direction.
+
+During the 30 second limit the button becomes a non-tappable countdown reading `Trace Route (in Ns)`. The limit covers all nodes together, not each node separately.
+
+The app applies no timeout. An unanswered request reads “A Trace Route was sent, no response has been received.”
+
+When the firmware rejects the send, the log reads “Trace Route was rate limited. You can send a trace route a maximum of once every thirty seconds.”
+
+**cli**
+
+### CLI
+
+Make sure the CLI is at least version 2.0.6. Then use this command:
+
+```shell title="CLI traceroute command"
+meshtastic --traceroute 'destinationId'
+```
+
+For `destinationId`, use the ID of the node to trace, available from `meshtastic --nodes`. Both the `!ba4bf9d0` and `0xba4bf9d0` forms work. Some shells require quotation marks around the ID.
+
+```shell title="Traceroute from !25048234 to !bff18ce4"
+meshtastic --traceroute '!bff18ce4'
+Connected to radio
+Sending traceroute request to !bff18ce4 on channelIndex:0 (this could take a while)
+Route traced towards destination:
+!25048234 --> !ba4bf9d0 (6.0dB) --> !bff18ce4 (-3.5dB)
+Route traced back to us:
+!bff18ce4 --> !ba4bf9d0 (-2.75dB) --> !25048234 (5.25dB)
+```
+
+The first ID shown is the origin device connected via the CLI. In the example above, the packet traveled through one additional node to reach its destination and return.
+
+The CLI reports SNR in 0.25 dB steps, so values such as `-2.75dB` are normal. A hop with unknown SNR prints as `(?dB)`. The return section appears only when the response carries a complete set of return SNRs.
+
+#### Choosing a channel
+
+Traceroute uses channel 0 unless `--ch-index` selects another. Both nodes must hold the key for that channel.
+
+```shell title="Traceroute on channel 1"
+meshtastic --ch-index 1 --traceroute '!bff18ce4'
+```
+
+When the channel index does not exist or is disabled, the command exits without sending, and prints no warning.
+
+#### Errors
+
+`Aborting due to: Timed out waiting for traceroute` — no reply arrived in time. The destination is unreachable, out of hops, or on a channel the origin does not share. The wait is `--timeout`, default 300 seconds, scaled by the number of hops.
+
+`Aborting due to: Timed out waiting for connection completion` — the CLI never finished connecting to the local radio. The limit is 30 seconds for serial and TCP, and 60 seconds for BLE. This is a local problem, not a mesh problem.
+
+`Traceroute failed: ` — the mesh returned a routing error such as `NO_CHANNEL` or `MAX_RETRANSMIT`. The CLI prints the reason and exits normally.
+
+**web**
+
+### Web
+
+On the Nodes page, select a node's name to open its details, then select **Trace Route** at the bottom of the dialog. The dialog closes, and a toast confirms that the request reached the radio.
+
+When the reply arrives, a **Traceroute** dialog opens showing "Route to destination:" and "Route back:". This dialog appears only on the Nodes page. Navigating away before the reply arrives discards the result, and the Web client offers no way to reopen a past traceroute.
+
+The Web client applies no timeout and reports no failures. An unsuccessful traceroute produces no dialog. Exceeding the 30 second limit raises a Client Notification reading "TraceRoute can only be sent once every 30 seconds".
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/module/traceroute. GPL-3.0 (Meshtastic documentation).*

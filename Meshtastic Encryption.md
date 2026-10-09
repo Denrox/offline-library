@@ -1,0 +1,77 @@
+# Meshtastic Encryption
+
+Meshtastic encrypts the payload of every packet it sends over LoRa. Channel messages use the channel's key, direct messages use a key that only the two nodes share, and broadcasts can also carry a signature that shows which node sent them.
+
+The [packet header](Mesh%20Broadcast%20Algorithm.md) is never encrypted. Nodes need it to relay packets, including packets they can't decrypt. The [rebroadcast mode](Device%20Configuration.md) controls whether a node relays those.
+
+A node decrypts packets before passing them to a connected client over Bluetooth, serial, Wi-Fi, or Ethernet. For MQTT, [Encryption Enabled](MQTT%20Module%20Configuration.md) sets whether the node uploads packets encrypted or decrypted.
+
+## Channel messages
+
+Each [channel](Channel%20Configuration.md) has its own pre-shared key (PSK). Meshtastic encrypts the channel's messages with AES-CTR using that key. A 16-byte key gives AES-128 and a 32-byte key gives AES-256. Anyone with the key can read every message on the channel.
+
+The default primary channel uses the key `AQ==`, which is published. Anything sent on a channel with the default key can be read by anyone. To keep a channel private, set a new key and share it only with the people you want on that channel. Nodes that only have the default key can't read your private channel, and you can't read theirs unless you also keep a channel with the default key.
+
+AES-CTR doesn't detect a message that was changed in transit. On firmware 2.8.1 and later, a channel can use AES-CCM instead by turning on [Use AEAD](Channel%20Configuration.md). Each packet then carries a 12-byte tag, and nodes reject any packet that was altered or forged by someone without the key. Every node on the channel must turn it on, because nodes with the setting on and off can't read each other's messages on that channel.
+
+## Direct messages
+
+A direct message is encrypted with a key that only the sender and the recipient can compute. Each node has a public and private key pair. The sender combines its private key with the recipient's public key using X25519, and the recipient arrives at the same shared key from its side. That key encrypts the message with AES-256-CCM, so only the two nodes can read it, and the recipient knows the message came from the sender.
+
+A node learns other nodes' public keys from the NodeInfo they broadcast, and it won't send a direct message to a node whose key it doesn't have. Traceroute, NodeInfo, position, and acknowledgment packets normally use the channel key, even when they're addressed to one node.
+
+Direct messages aren't signed. The shared key already shows who sent them.
+
+On firmware 2.8.1 and later, an acknowledgment for a direct message can carry a short proof, made with the shared key, that the recipient really received the message. Without it, anyone holding the channel key could forge an acknowledgment. The sending node checks the proof and reports the result to its client. A proof is attached only when both nodes have each other's public keys.
+
+## Signed broadcasts
+
+Broadcasts are encrypted with the channel key, so anyone with that key could otherwise send a broadcast that claims to come from your node. Nodes on firmware 2.8 and later sign their broadcasts with XEdDSA, using the same key pair they use for direct messages. Other nodes check the signature against the sender's public key and drop any broadcast whose signature doesn't match.
+
+A signature adds 66 bytes, so a broadcast too large to carry one is sent unsigned. Nodes in [licensed mode](FAQs.md) send everything unencrypted and sign every packet that fits instead. STM32WL-based nodes don't sign or check signatures.
+
+The [Packet Signature Policy](Security%20Configuration.md) sets what a node does with unsigned packets. The default accepts them, so the mesh keeps working with nodes that don't sign.
+
+## Node identity
+
+A node's number is a CRC-32 of its public key. Generating a new key gives the node a new number, and other nodes see it as a different node. Back up your keys before you erase and reflash a node; see [Backup and Restore](Security%20Configuration.md).
+
+Nodes trust the first public key they hear for a node number, because there is no central authority to vouch for keys. [Known Limitations](Known%20Limitations%20of%20Meshtastic%27s%20Encryption.md) explains what that allows and how signing narrows it.
+
+## Admin messages
+
+Remote administration uses the same encryption as direct messages. A node accepts admin messages only from nodes whose public keys are set as its [admin keys](Security%20Configuration.md), up to three. Each change must also carry a session passkey the node issued within the last 5 minutes, which limits how long a captured admin message could be replayed.
+
+The older admin channel works only when [Admin Channel Enabled](Security%20Configuration.md) is on.
+
+## Is it as secure as Wi-Fi WPA3, HTTPS TLS 1.3, or Signal?
+
+**No.** WPA3, TLS 1.3, and Signal also use AES, but they add protections that don't fit in LoRa packets or on small devices.
+
+### Forward secrecy
+
+Forward secrecy means that traffic captured today can't be decrypted later, even if a key leaks. Meshtastic doesn't provide it. Anyone who records channel traffic and later obtains the key can decrypt everything they recorded, which is known as harvest now, decrypt later. The key can leak when it's shared with the wrong person, when a node is stolen, or through a bug.
+
+AES with a 256-bit key is considered resistant to quantum attack[^1]. The X25519 key exchange used for direct messages and signatures isn't, because quantum-resistant schemes don't fit in LoRa packets or on Meshtastic hardware.
+
+[^1]: On the quantum resistance of AES-256, see this Cryptography Stack Exchange question and the NIST Post-Quantum Cryptography FAQ, under "To protect against the threat of quantum computers, should we double the key length for AES now?"
+
+If you use private channels:
+
+- **Do not configure private channels on unattended nodes.** Nodes relay traffic they can't decrypt, so an unattended router doesn't need the key, and physical access to a node makes the key easy to extract.
+- Anything sent on a channel can be stored and decrypted later by anyone who gets the key, even after you delete the messages.
+- Change channel keys from time to time.
+
+### Integrity
+
+Integrity means a message can't be changed without the key. AES-CTR doesn't provide it: someone who knows or guesses a message's content can alter it, or forge a new one, without knowing the key. Channels set to AES-CCM and signed broadcasts both detect this. Direct messages and admin messages are always protected.
+
+### Authentication
+
+Authentication means a node can prove who it is. Anyone with a channel's key can send an unsigned packet that claims to come from any node. With the default Packet Signature Policy, other nodes still accept it. `BALANCED` and `STRICT` reject unsigned broadcasts from nodes known to sign. Treat the sender of an unsigned channel message as a claim, not a proof.
+
+Before sending anything sensitive in a direct message, confirm the recipient's public key with them some other way.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/overview/encryption. GPL-3.0 (Meshtastic documentation).*

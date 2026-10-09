@@ -1,0 +1,63 @@
+# OpenWrt - meshtasticd
+
+#  OpenWrt
+
+| Feature                  | Status |
+| ------------------------ | ---------------------------------------------------- |
+| 🔌 [USB Radio][USBRadio] | ✅                                                   |
+| 🕸️ [SPI Radio][SPIRadio] | ⏸️ |
+| 📱 [MUI][MUI]            | ❌                                                   |
+| 🌐 [Web][WebClient]      | ✅                                                   |
+
+Supported OpenWrt Versions: `SNAPSHOT`, `25.12`, `24.10`, `23.05`, `22.03`
+
+Supported platforms:
+
+  all the platforms!
+  - aarch64_cortex-a53
+  - aarch64_cortex-a72
+  - aarch64_cortex-a76
+  - aarch64_generic
+  - arm_arm1176jzf-s_vfp
+  - arm_arm926ej-s
+  - arm_cortex-a15_neon-vfpv4
+  - arm_cortex-a5_vfpv4
+  - arm_cortex-a7
+  - arm_cortex-a7_neon-vfpv4
+  - arm_cortex-a7_vfpv4
+  - arm_cortex-a8_vfpv3
+  - arm_cortex-a9
+  - arm_cortex-a9_neon
+  - arm_cortex-a9_vfpv3-d16
+  - arm_fa526
+  - arm_xscale
+  - armeb_xscale
+  - i386_pentium-mmx
+  - i386_pentium4
+  - loongarch64_generic
+  - mips64_mips64r2
+  - mips64_octeonplus
+  - mips64el_mips64r2
+  - mips_24kc
+  - mips_4kec
+  - mips_mips32
+  - mipsel_24kc
+  - mipsel_24kc_24kf
+  - mipsel_74kc
+  - mipsel_mips32
+  - powerpc64_e5500
+  - powerpc_464fp
+  - powerpc_8548
+  - riscv64_generic
+  - x86_64
+
+See Meshtastic on OpenWrt routers
+
+[MUI]: /docs/configuration/device-uis/meshtasticui/
+[WebClient]: /docs/software/web-client/
+[USBRadio]: /docs/meshtasticd/hardware/
+[SPIRadio]: /docs/meshtasticd/hardware/
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/meshtasticd/installation/openwrt. GPL-3.0 (Meshtastic documentation).*

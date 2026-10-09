@@ -1,0 +1,337 @@
+# LoRa Configuration
+
+The LoRa config options are: Region, Use Preset, Modem Preset, Max Hops, Transmit Power, Bandwidth, Spread Factor, Coding Rate, Frequency Offset, Transmit Enabled, Frequency Slot, Ignore Incoming Array, Ignore MQTT, Override Duty Cycle Limit, SX126x RX Boosted Gain, Override Frequency, and PA Fan Disabled. LoRa config uses an admin message sending a `Config.LoRa` protobuf.
+
+> **Note:**
+>
+> In order to communicate fully, devices within a mesh must have identical settings for Region and Modem Preset, or identical custom Modem settings.
+
+## LoRa Config Values
+
+> **Note:**
+>
+> You must set your device's `lora.region` setting. This will ensure that you are operating within the legal limits for your area.
+
+### Region
+
+Sets the region for your node. Default is `unset`. As long as this is not set, the node screen will display a message and not transmit any packets.
+
+| Region Code  |          Description           | Frequency Range (MHz) | Duty Cycle (%) | Power Limit (dBm) |
+|:------------:|:------------------------------:|:---------------------:|:--------------:|:-----------------:|
+|   `UNSET`    |             Unset              |          N/A          |      N/A       |        N/A        |
+|     `US`     |         United States          |     902.0 - 928.0     |      100       |        30         |
+|   `EU_433`   |     European Union 433 MHz      |     433.0 - 434.0     |       10       |        10         |
+|   `EU_868`   |     European Union 868 MHz      |    869.4 - 869.65     |       10       |        27         |
+|   `EU_866`   |     European Union 866 MHz      |     865.6 - 867.6     |    2.5 / 10    |        27         |
+|  `EU_N_868`  | European Union 868 MHz (Narrow) |    869.4 - 869.65     |       10       |        27         |
+|     `CN`     |             China              |     470.0 - 510.0     |      100       |        19         |
+|     `JP`     |             Japan              |     920.5 - 923.5     |      100       |        13         |
+|    `ANZ`     |    Australia & New Zealand     |     915.0 - 928.0     |      100       |        30         |
+|  `ANZ_433`   |    Australia & New Zealand     |    433.05 - 434.79    |      100       |        14         |
+|     `KR`     |             Korea              |     920.0 - 923.0     |      100       |        23         |
+|     `TW`     |             Taiwan             |     920.0 - 925.0     |      100       |        27         |
+|     `RU`     |             Russia             |     868.7 - 869.2     |      100       |        20         |
+|     `IN`     |             India              |     865.0 - 867.0     |      100       |        30         |
+|   `NZ_865`   |       New Zealand 865 MHz       |     864.0 - 868.0     |      100       |        36         |
+|     `TH`     |            Thailand            |     920.0 - 925.0     |       10       |        27         |
+|   `UA_433`   |         Ukraine 433 MHz         |     433.0 - 434.7     |       10       |        10         |
+|   `MY_433`   |        Malaysia 433 MHz         |     433.0 - 435.0     |      100       |        20         |
+|   `MY_919`   |        Malaysia 919 MHz         |     919.0 - 924.0     |      100       |        27         |
+|   `SG_923`   |        Singapore 923 MHz        |     917.0 - 925.0     |      100       |        20         |
+|   `KZ_433`   |       Kazakhstan 433 MHz       |   433.075 - 434.775   |      100       |        10         |
+|   `KZ_863`   |       Kazakhstan 863 MHz       |     863.0 - 868.0     |      100       |        30         |
+|   `BR_902`   |         Brazil 902 MHz          |     902.0 - 907.5     |      100       |        30         |
+|   `PH_433`   |       Philippines 433 MHz       |     433.0 - 434.7     |      100       |        10         |
+|   `PH_868`   |       Philippines 868 MHz       |     868.0 - 869.4     |      100       |        14         |
+|   `PH_915`   |       Philippines 915 MHz       |     915.0 - 918.0     |      100       |        24         |
+|   `NP_865`   |          Nepal 865 MHz          |     865.0 - 868.0     |      100       |        30         |
+|  `ITU1_2M`   |    ITU Region 1 Amateur 2m     |     144.0 - 146.0     |      100       |        30         |
+|  `ITU2_2M`   |    ITU Region 2 Amateur 2m     |     144.0 - 148.0     |      100       |        30         |
+|  `ITU3_2M`   |    ITU Region 3 Amateur 2m     |     144.0 - 148.0     |      100       |        30         |
+| `ITU2_125CM` |   ITU Region 2 Amateur 1.25m   |     220.0 - 225.0     |      100       |        30         |
+| `ITU1_70CM`  |   ITU Region 1 Amateur 70cm    |     430.0 - 440.0     |      100       |        30         |
+| `ITU2_70CM`  |   ITU Region 2 Amateur 70cm    |     420.0 - 450.0     |      100       |        30         |
+| `ITU3_70CM`  |   ITU Region 3 Amateur 70cm    |     430.0 - 450.0     |      100       |        30         |
+|  `LORA_24`   |     2.4 GHz band worldwide     |    2400.0 - 2483.5    |      100       |        10         |
+
+`EU_433` and `EU_868` are limited to a 10% duty cycle, calculated every minute over a rolling hour. A node that reaches the limit stops transmitting until it's allowed again. `EU_866` is limited to 2.5%, or 10% for a node in the `ROUTER` or `ROUTER_LATE` role.
+
+`EU_868`, `EU_866`, and `EU_N_868` cover the same European band with different channel plans, and each accepts only its own presets. Selecting a preset that belongs to one of the others switches the region to it.
+
+The `ITU1_*`, `ITU2_*`, and `ITU3_*` regions are amateur radio allocations and can only be selected in [licensed mode](User%20Configuration.md). **Do not use them without an amateur radio license.** Review the [privileges and restrictions](FAQs.md) of operating under an amateur license first: encryption is not permitted, and you must transmit your call sign.
+
+The listed power limit is the ceiling the firmware applies, not your national limit. Some countries do not allocate the full range shown, for example 220–222 MHz in the USA and Canada. Check your national band plan before transmitting.
+
+### Use Preset
+
+When enabled, the `Modem Preset` fields will be adhered to, else the `Bandwidth`/`Spread Factor`/`Coding Rate` will be taken from their respective manually defined fields.
+
+### Modem Preset
+
+Default is `unset` which equates to `LONG_FAST`. Presets are pre-defined modem settings (Bandwidth, Spread Factor, and Coding Rate) which influence both message speed and range. The default will provide a strong mixture of speed and range, for most users.
+
+A US node whose region is first set from its own screen starts on `LONG_TURBO` instead. `LONG_TURBO` and `LONG_FAST` nodes can't hear each other, so set the preset to `LONG_FAST` to join a mesh that uses it.
+
+The presets are designed to provide further options for optimizing either speed (and reduced network congestion) or range, which can be useful for two real world scenarios:
+
+1. A high number of devices exist in the mesh, or messages are sent very frequently. Faster speeds (and therefore lower radio time per device) can help with mesh network congestion.
+2. Maximum range is desired, for long range scenarios where a several second delay in message receipt is acceptable (for instance, attempting to send messages from a town to a distant mountain top).
+
+Not every preset is legal in every band. The node accepts only the presets permitted in the selected Region, and tells connected clients which presets each region allows. A preset the region doesn't permit is replaced with the region's default. When the change comes from remote administration, the whole change is rejected instead.
+
+The general-purpose presets are as follows, and follow a linear pattern of Fastest \<\-\-\> Slowest, and Shortest \<\-\-\> Longest range:
+
+1. `SHORT_TURBO` (Fastest, highest bandwidth, lowest airtime, shortest range. It is not legal to use in all regions due to its 500 kHz bandwidth.)
+
+2. `SHORT_FAST`
+
+3. `SHORT_SLOW`
+
+4. `MEDIUM_TURBO` (500 kHz bandwidth, so it carries the same regional restriction as `SHORT_TURBO`.)
+
+5. `MEDIUM_FAST`
+
+6. `MEDIUM_SLOW`
+
+7. `LONG_TURBO` (Performs similarly to `LONG_FAST`, but with 500 kHz bandwidth.)
+
+8. `LONG_FAST` (Default)
+
+9. `LONG_MODERATE`
+
+`EU_868` offers this list without the three Turbo presets, as 500 kHz bandwidth is not permitted in the 869.4 - 869.65 MHz band.
+
+#### Narrowband presets
+
+Three narrowband preset families serve bands that can't accommodate the general-purpose presets. Each family is exclusive to its regions and can't be selected anywhere else:
+
+|           Presets            | Bandwidth |                          Available in                           |    Default    |
+| :--------------------------: | :-------: | :-------------------------------------------------------------: | :-----------: |
+|   `LITE_FAST`, `LITE_SLOW`   |  125 kHz  |                            `EU_866`                             |  `LITE_FAST`  |
+| `NARROW_FAST`, `NARROW_SLOW` | 62.5 kHz  | `EU_N_868`, `ITU1_70CM`, `ITU2_70CM`, `ITU3_70CM`, `ITU2_125CM` | `NARROW_SLOW` |
+|   `TINY_FAST`, `TINY_SLOW`   | 15.6 kHz  |                 `ITU1_2M`, `ITU2_2M`, `ITU3_2M`                 |  `TINY_FAST`  |
+
+See [Narrowband presets](Radio%20Settings.md) for their data rates and link budgets.
+
+`EU_868`, `EU_866`, and `EU_N_868` share the same regulatory domain, so selecting a Lite or Narrow preset while the region is `EU_868` switches the region to `EU_866` or `EU_N_868` respectively. Selecting a general-purpose preset that `EU_868` allows switches it back. The Turbo presets aren't allowed in any of the three.
+
+The Tiny presets transmit in only 15.6 kHz of bandwidth, so **they require a TCXO with a tolerance of ±5 ppm or better.** They work only with SX127x and SX126x radios.
+
+### Max Hops
+
+Maximum number of hops. This can't be greater than 7. Default is 3 which should be fine for most applications. _**Really, 3 is fine.**_
+
+### Transmit Power
+
+If zero, then use default max legal continuous power (i.e. something that won't burn out the radio hardware)
+
+In most cases you should use zero here. Units are in dBm.
+
+### Bandwidth
+
+Certain bandwidth numbers are 'special' and will be converted by the device firmware to the appropriate floating point value:
+
+| Special Value | Interpreted As |
+| :-----------: | :------------: |
+|       8       |    7.8 kHz     |
+|      10       |    10.4 kHz    |
+|      16       |    15.6 kHz    |
+|      21       |    20.8 kHz    |
+|      31       |   31.25 kHz    |
+|      42       |    41.7 kHz    |
+|      62       |    62.5 kHz    |
+|      200      |  203.125 kHz   |
+|      400      |   406.25 kHz   |
+|      800      |   812.5 kHz    |
+|     1600      |   1625.0 kHz   |
+
+Any other value is used as-is, in kHz.
+
+Please be aware that values < 62.5 kHz may require a TCXO on some hardware devices. The `TINY_FAST` and `TINY_SLOW` presets use `16` (15.6 kHz) and require one with a tolerance of ±5 ppm or better.
+
+### Spread Factor
+
+A number from 5 to 12. Indicates the number of chirps per symbol as 1[\<\<]spread_factor.
+
+Older LoRa chips like (SX127x / RF95) only support spreading factors 7 to 12.
+
+### Coding Rate
+
+The denominator of the coding rate. ie for 4/5, the value is 5. 4/8 the value is 8.
+
+### Frequency Offset
+
+This parameter is for advanced users with advanced test equipment, we do not recommend most users use it.
+
+A frequency offset that is added to the calculated band center frequency. Used to correct for crystal calibration errors.
+
+### Transmit Enabled
+
+Allows you to enable and disable transmit (TX) from the LoRa radio. Useful for hot-swapping antennas and other tests.
+
+Defaults to true
+
+### Frequency Slot
+
+This setting controls the actual hardware frequency at which the radio transmits, represented by a frequency slot between 1 and NUM_SLOTS (the maximum for the current region and modem preset). If set to `0`/UNSET, the device reverts to the older channel name hash-based algorithm for determining the frequency slot.
+
+### Ignore Incoming Array
+
+For testing it is useful sometimes to force a node to never listen to particular other nodes (simulating radio out of range). All nodenums listed in the ignore_incoming array will have packets they send dropped on receive (by router.cpp)
+
+> **Note:**
+>
+> This option is **deprecated** in the client apps.  To ignore nodes, long-press on (or click for web client) a node and mark it as ignored. This acts the same as the ignore list (blocking packets from the ignore node from being received or relayed), with the added benefit of being able to ignore more than three nodes.
+
+### Ignore MQTT
+
+Setting this to option to 'true' means the device will ignore any messages it receives via LoRa that came via MQTT somewhere along the path towards the device. Note this only works when your device and the MQTT node are running at least firmware version 2.2.19.
+
+### OK to MQTT
+
+Acceptable values: `true`, `false`
+
+Default is `false`. When set to `true`, this configuration indicates that the user approves their packets to be uplinked to MQTT brokers. If set to `false`, nodes receiving your packets are requested not to forward packets to MQTT. This configuration only applies to Channels configured with the `defaultpsk` and `eventpsk` keys set in the Meshtastic Firmware; Channels with custom keys ignore this setting.
+
+**Important:** This is not a cryptographic solution but a polite request that is enforced in the official firmware.
+
+### Override Duty Cycle Limit
+
+Setting this option to 'true' means the device will ignore the hourly duty cycle limit in Europe. This means that you might violate regulations if the device transmits too much. By default, this option is set to 'false,' which means the device will stop sending data when it reaches the hourly limit and will start again when it is allowed to do so.
+
+### SX126x RX Boosted Gain
+
+This is an option specific to the SX126x chip series which allows the chip to consume a small amount of additional power to increase RX sensitivity.
+
+### Override Frequency
+
+This parameter is for advanced users and licensed HAM radio operators. When enabled, the channel calculation will be ignored, and the set frequency will be used instead (frequency_offset still applies). This will allow you to use out-of-band frequencies. Please respect your local laws and regulations. If you are a license HAM operator, make sure you enable HAM mode and turn off encryption.
+
+### PA Fan Disabled
+
+If true, disable the built-in PA FAN using pin define in RF95_FAN_EN.
+
+## LoRa Config Client Availability
+
+           Android
+        </>
+      ),
+      value: "android",
+    },
+    {
+      label: (
+        <>
+           Apple
+        </>
+      ),
+      value: "apple",
+    },
+    {
+      label: (
+        <>
+           CLI
+        </>
+      ),
+      value: "cli",
+    },
+    {
+      label: (
+        <>
+           Web
+        </>
+      ),
+      value: "web",
+    },
+  ]}>
+
+**android**
+
+### Android
+
+> **Info:**
+>
+>
+> LoRa Config options are available on Android.
+>
+> 1. Open the Meshtastic App
+> 2. Navigate to: **Settings >  LoRa**
+>
+
+**apple**
+
+### Apple
+
+> **Info:**
+>
+> All LoRa config options are available on iOS, iPadOS and macOS at Settings > Radio Configuration > LoRa.
+
+**cli**
+
+### CLI
+
+> **Info:**
+>
+>
+> LoRa config commands are available in the python CLI. Example commands are below:
+>
+
+|           Setting           |                                                                     Acceptable Values                                                                     |   Default   |
+| :-------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|      lora.modem_preset      | `LONG_FAST`, `LONG_MODERATE`, `LONG_TURBO`, `MEDIUM_SLOW`, `MEDIUM_FAST`, `MEDIUM_TURBO`, `SHORT_SLOW`, `SHORT_FAST`, `SHORT_TURBO`, `LITE_FAST`, `LITE_SLOW`, `NARROW_FAST`, `NARROW_SLOW`, `TINY_FAST`, `TINY_SLOW` (availability depends on the selected region) | `LONG_FAST` |
+|       lora.use_preset       |                                                                      `false`, `true`                                                                      |   `true`    |
+|        lora.region         | `UNSET`, `US`, `EU_433`, `EU_868`, `EU_866`, `EU_N_868`, `CN`, `JP`, `ANZ`, `ANZ_433`, `KR`, `TW`, `RU` ,`IN`, `NZ_865`, `TH`, `LORA_24`, `UA_433`, `MY_433`, `MY_919`, `SG_923`, `KZ_433`, `KZ_863`, `BR_902`, `NP_865`, `PH_433`, `PH_868`, `PH_915`, `ITU1_2M`, `ITU2_2M`, `ITU3_2M`, `ITU2_125CM`, `ITU1_70CM`, `ITU2_70CM`, `ITU3_70CM` |   `UNSET`   |
+|       lora.bandwidth        |                                               `8`, `10`, `16`, `21`, `31`, `42`, `62`, `125`, `250`, `500`                                                |    `250`    |
+|     lora.spread_factor      |                                                         `5` ,`6`, `7`, `8`, `9`, `10`, `11`, `12`                                                         |    `11`     |
+|      lora.coding_rate       |                                                                  `4`, `5`, `6`, `7`, `8`                                                                  |     `5`     |
+|    lora.frequency_offset    |                                                                     `0` to `1000000`                                                                      |     `0`     |
+|       lora.hop_limit        |                                                                `1`,`2`,`3`,`4`,`5`,`6`,`7`                                                                |     `3`     |
+|        lora.tx_power        |                                                                        `0` to `30`                                                                        |     `0`     |
+|       lora.tx_enabled       |                                                                      `false`, `true`                                                                      |   `true`    |
+|      lora.channel_num       |                                                                `0`, `1` to `NUM_CHANNELS`                                                                 |     `0`     |
+|      lora.ignore_mqtt       |                                                                      `false`, `true`                                                                      |   `false`   |
+|   lora.config_ok_to_mqtt    |                                                                      `true`, `false`                                                                      |   `false`   |
+|  lora.override_duty_cycle   |                                                                      `false`, `true`                                                                      |   `false`   |
+| lora.sx126x_rx_boosted_gain |                                                                      `false`, `true`                                                                      |   `false`   |
+|   lora.override_frequency   |                             Any supported frequency the LoRA radio is capable of. Please respect local rules and regulations                              |     `0`     |
+
+> **Tip:**
+>
+>
+> LoRa settings apply without a reboot. To set several values at once, chain them in one command.
+>
+> ```shell title="Example:"
+> meshtastic --set lora.region US --set lora.modem_preset LONG_FAST
+> ```
+>
+
+```shell title="Set Modem Preset"
+meshtastic --set lora.modem_preset LONG_FAST
+meshtastic --set lora.modem_preset MEDIUM_FAST
+```
+
+```shell title="Set Region"
+meshtastic --set lora.region US
+meshtastic --set lora.region EU_433
+```
+
+```shell title="Set Hop Limit"
+
+meshtastic --set lora.hop_limit 2
+```
+
+```shell title="Override Duty Cycle"
+meshtastic --set lora.override_duty_cycle true
+meshtastic --set lora.override_duty_cycle false
+```
+
+**web**
+
+### Web
+
+> **Info:**
+>
+> All LoRa config options are available in the Web UI.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/radio/lora. GPL-3.0 (Meshtastic documentation).*

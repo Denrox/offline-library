@@ -1,0 +1,26 @@
+# Meshtastic Site Planner
+
+The Meshtastic Site Planner is an open-source web utility for predicting node range and coverage. It can be found on site.meshtastic.org, and the source code is maintained at https://github.com/meshtastic/meshtastic-site-planner.
+
+## Getting Started
+
+1. Go to the official version or run a development copy and open the tool in a web browser. 
+2. In `Site Parameters > Site / Transmitter`, enter a name for the site, the geographic coordinates, and the antenna height above ground. Refer to the Meshtastic regional parameters (https://meshtastic.org/docs/configuration/region-by-country/) and input the transmit power, frequency, and antenna gain for your device. 
+3. In `Site Parameters > Receiver`, enter the receiver sensitivity (`-130 dBm` for the default `LongFast` channel), the receiver height, and the receiver antenna gain.
+4. In `Simulation Options > Receiver`, enter the maximum range for the simulation in kilometers. Selecting long ranges (> 50 kilometers) will result in longer computation times.
+5. Press "Run Simulation." The coverage map will be displayed when the calculation completes. 
+
+Multiple radio sites can be added to the simulation by repeating these steps. The other adjustable parameters default to sensible choices for meshtastic radios, but you can change them if your project uses different hardware. 
+
+## Understanding Results
+
+The Meshtastic Site Planner creates a color-coded map of where your radio signal will reach, given the terrain and simulation parameters. The expected signal strength (RSSI) can be read from the colorbar. Regions with a strong signal (predicted RSSI > -110 dBm) have a stronger chance of successfully receiving and sending signals. In areas with a low RSSI (< -125 dBm), obstacles may limit communication reliability. You can adjust the signal cutoff threshold under `Receiver > Sensitivity Limit`.
+Minimum signal thresholds depend on the radio chipset and preset. [Radio settings](Radio%20Settings.md) lists the link budget for each preset.
+
+## Limitations
+
+The Site Planner uses terrain data from the NASA SRTM (Shuttle Radar Topography) mission. This elevation dataset is accurate to around 90 meters, and does not account for obstructions such as buildings or trees. You can estimate the effect of random obstructions by entering their average height in `Environment > Clutter Height`. It is a good idea to always verify predictions from this tool using real-world testing.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/software/site-planner/siteplanner. GPL-3.0 (Meshtastic documentation).*

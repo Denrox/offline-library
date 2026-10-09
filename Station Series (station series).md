@@ -1,0 +1,41 @@
+# Station Series (station series)
+
+The Station series of devices, designed by Neil Hao from B&Q Consulting and powered by Meshtastic, are compact and durable LoRa devices designed for high-performance radio frequency communication. They feature a powerful PA for LoRa communication, a rugged SMA antenna socket, and a variety of external IO interfaces.
+
+For more comprehensive information on the Station Series of devices, be sure to visit the B&Q Consulting Station Series Wiki page.
+
+## Specifications
+
+- **MCU**
+  - ESP32 WROOM
+    - Wi-Fi
+    - Bluetooth 4.2
+- **LoRa Transceiver**
+  - Semtech SX1262
+  - Additional 35dBm LoRa Power Amplifier
+- **Frequency options**
+  - US-915 MHz
+  - EU-868 MHz
+- **Navigation Module**
+  - Optional
+- **Antenna**
+  - SMA Socket
+- **Connectors**
+  - USB-C (PD Protocol)
+
+## Features
+
+- Meshtastic pre-installed
+- User button
+- 1.3 inch OLED screen
+- Optional GPS Module and IO Extension Socket
+- Optional 12V Battery Docker which can be used as Backup Power, or in scenarios that require mobility
+
+## Resources
+
+- Firmware file: `firmware-station-g1-X.X.X.xxxxxxx.bin`
+- Unit Engineering's Official Wiki
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/community-supported/b-and-q-consulting/station-series/station-series. GPL-3.0 (Meshtastic documentation).*

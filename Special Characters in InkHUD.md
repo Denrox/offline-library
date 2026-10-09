@@ -1,0 +1,43 @@
+# Special Characters in InkHUD
+
+Because of hardware constraints, fonts contain a limited number of characters.
+By default, InkHUD is built with a "Western European" character set (Windows-1252).
+Fonts are also provided for "Central European" and "Cyrillic" character sets.
+
+## Choosing a Character Set
+
+Wikipedia maintains a comprehensive list of which languages are supported by each character set.
+
+- https://en.wikipedia.org/wiki/Windows-1252 - Western European (InkHUD default)
+- https://en.wikipedia.org/wiki/Windows-1250 - Central European
+- https://en.wikipedia.org/wiki/Windows-1251 - Cyrillic
+
+## Changing the Character Set
+
+To use an alternative character set, you will need to build the Meshtastic firmware.
+
+The choice of font is set in `/variants//nicheGraphics.h`.
+
+Find the lines:
+
+```cpp
+// Prepare fonts
+InkHUD::Applet::fontLarge = FREESANS_9PT_WIN1252;
+InkHUD::Applet::fontSmall = FREESANS_6PT_WIN1252;
+```
+
+Replace with either:
+
+```cpp
+InkHUD::Applet::fontLarge = FREESANS_9PT_WIN1250;
+InkHUD::Applet::fontSmall = FREESANS_6PT_WIN1250;
+```
+
+```cpp
+InkHUD::Applet::fontLarge = FREESANS_9PT_WIN1251;
+InkHUD::Applet::fontSmall = FREESANS_6PT_WIN1251;
+```
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/device-uis/inkhud/special-characters. GPL-3.0 (Meshtastic documentation).*

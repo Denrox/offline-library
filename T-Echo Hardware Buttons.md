@@ -1,0 +1,34 @@
+# T-Echo Hardware Buttons
+
+## Functionality
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+The T-Echo and T-Echo Plus have the same three inputs: two physical buttons and a capacitive touch pad. What the touch pad does depends on which firmware is installed.
+
+- **Reset button (button 1):**
+  - **Short press:** Power on or reboot.
+  - **Double press:** Enter bootloader mode, for firmware update.
+- **Program button (button 2):**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+- **Second button:**
+  - **Short press:** Move to the previous screen. With a menu open, move the highlight up.
+  - **Hold about half a second:** Close the menu.
+
+This second button uses the pad silkscreened RESET, which the bootloader configures as a general purpose pin.
+
+### Capacitive touch pad
+
+On the standard firmware, holding the touch pad returns to the previous screen. On a build with a backlight, the touch pad controls the backlight instead and sends no navigation event.
+
+On the InkHUD firmware the touch pad is a backlight control: press for momentary light, hold about five seconds to latch it on, and press again to turn it off.
+
+### InkHUD firmware
+
+A short press of the program button moves to the next applet, and a hold opens the menu. Inside the menu, a short press moves the cursor and a hold activates the highlighted item. InkHUD has no shutdown-by-holding gesture; shut down from the menu.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/lilygo/techo/buttons. GPL-3.0 (Meshtastic documentation).*

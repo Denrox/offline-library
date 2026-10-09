@@ -1,0 +1,49 @@
+# Python
+
+## Sending/receiving messages on mosquitto server using python
+
+Here is an example publish message in python (run `pip install paho-mqtt` first):
+
+```python
+#!/usr/bin/env python3
+
+from random import uniform
+
+client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+client.connect('localhost')
+
+while True:
+    randNumber = uniform(20.0, 21.0)
+    client.publish("env/test/TEMPERATURE", randNumber)
+    print("Just published " + str(randNumber) + " to topic TEMPERATURE")
+    time.sleep(1)
+```
+
+Here is example subscribe in python:
+
+```python
+#!/usr/bin/env python3
+
+def on_message(mosq, obj, msg):
+    print("%-20s %d %s" % (msg.topic, msg.qos, msg.payload))
+    mosq.publish('pong', 'ack', 0)
+
+def on_publish(mosq, obj, mid, reason_codes, properties):
+    pass
+
+if __name__ == '__main__':
+    client = paho.Client(paho.CallbackAPIVersion.VERSION2)
+    client.on_message = on_message
+    client.on_publish = on_publish
+
+    client.connect("localhost", 1883, 60)
+
+    client.subscribe("env/test/TEMPERATURE", 0)
+
+    while client.loop() == 0:
+        pass
+```
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/software/integrations/mqtt/mqtt-python. GPL-3.0 (Meshtastic documentation).*

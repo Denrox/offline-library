@@ -1,0 +1,118 @@
+# Neighbor Info Module Usage
+
+The Neighbor Info Module is for sending information on each node's 0-hop neighbors to the mesh. Config options are: Enabled, Update Interval and Transmit Over LoRa.
+
+> **Info:**
+>
+> Neighbor Info is informative only and does not affect the routing behavior of the mesh network. It is therefore optional and disabled by default.
+
+In order to save bandwidth, Meshtastic does not keep track of the route a packet is taking to get to the destination, except when using Traceroute. When enabling this module and enabling "Transmit Over LoRa", your node will periodically send out a packet with a list of its direct neighbors and the quality (SNR) of the corresponding link. If you enable this on all nodes, you can build up a graph of the full network to see how it is connected. At the time of writing, there are no clients visualizing it for you, but you can use e.g. MQTT to gather all the data.
+
+In order to use it, make sure your devices use firmware version 2.2.0 or higher. From 2.3.2 on, the module can detect neighbors even if other nodes do not have the module enabled.
+
+## Neighbor Info Module Config Values
+
+### Enabled
+
+Enables the Neighbor Info Module.
+
+### Update Interval
+
+How often the neighbor info is sent to the mesh. This cannot be set lower than 4 hours (14400 seconds). The default is 6 hours (21600 seconds).
+
+### Transmit Over LoRa
+
+Available from firmware 2.5.13 and higher. By default, neighbor info will only be sent to MQTT and a connected app. If enabled, the neighbor info will be sent on the primary channel over LoRa. Only available when the primary channel is not the public channel with default key and name.
+
+## Neighbor Info Module Client Availability
+
+           Android
+        </>
+      ),
+      value: "android",
+    },
+    {
+      label: (
+        <>
+           Apple
+        </>
+      ),
+      value: "apple",
+    },
+    {
+      label: (
+        <>
+           CLI
+        </>
+      ),
+      value: "cli",
+    },
+    {
+      label: (
+        <>
+           Web
+        </>
+      ),
+      value: "web",
+    },
+  ]}>
+
+**android**
+
+### Android
+
+> **Info:**
+>
+> All Neighbor Info Module config options are available for Android in app version 2.2.0 and higher.
+>
+> 1. Open the Meshtastic App
+> 2. Navigate to: **Settings >  Neighbor Info**
+
+**apple**
+
+### Apple
+
+Not yet implemented.
+
+**cli**
+
+### CLI
+
+> **Info:**
+>
+>
+> All Neighbor Info Module config options are available in the python CLI version 2.2.0 and higher.
+>
+
+Example commands are below:
+
+```shell title="Enable/Disable the Neighbor Info Module"
+meshtastic --set neighbor_info.enabled true
+meshtastic --set neighbor_info.enabled false
+```
+
+```shell title="Set the update interval to 5 hours"
+meshtastic --set neighbor_info.update_interval 18000
+```
+
+```shell title="Set transmit over LoRa to true"
+meshtastic --set neighbor_info.transmit_over_lora true
+```
+
+```shell title="Get the Neighbor Info Module Configuration"
+meshtastic --get neighbor_info
+```
+
+**web**
+
+### Web
+
+> **Info:**
+>
+>
+> All Neighbor Info module config options are available in the Web UI.
+>
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/module/neighbor-info. GPL-3.0 (Meshtastic documentation).*

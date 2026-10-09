@@ -1,0 +1,28 @@
+# Mesh Node Hardware Buttons
+
+## Mesh Node T114
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+The T114 has one user button. The pad silkscreened RESET is not wired as a second button in current firmware.
+
+- **RST button:**
+  - **Short press:** Reset the device.
+  - **Double press:** Enter download mode.
+- **User button:**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+
+### InkHUD firmware
+
+The T114 also ships an optional InkHUD firmware image, which handles the button differently.
+
+- **Short press:** Move to the next applet.
+- **Hold about half a second:** Open the menu. Inside the menu, a short press moves the cursor and a hold activates the highlighted item.
+
+InkHUD has no shutdown-by-holding gesture. Shut down from the menu instead.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/heltec-automation/mesh-node/buttons. GPL-3.0 (Meshtastic documentation).*

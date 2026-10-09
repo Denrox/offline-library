@@ -1,0 +1,146 @@
+# Radio Settings
+
+> **Info:**
+>
+> Meshtastic is **not** LoRaWAN, Helium or TTN (TheThingsNetwork). Meshtastic uses the full spectrum frequency range designated to LoRa technology per region. This allows for several hundred possible frequency channels in the US region alone.
+
+> **Info:**
+>
+> Power limits will generally be lifted in the software if `is_licensed` is set to `true`. See [Ham Mode](FAQs.md) for more information.
+
+  ## Frequency Slot Calculator
+
+  
+
+## Europe Frequency Bands
+
+EU countries will generally be covered by the Radio Equipment Directive (2014/53/EU) and subsequent amendments, which is then enacted in local laws. See additional information about Radio equipment Directive 2014/53/EU.
+The bands below were selected based on the maximum power and the duty cycle available. It may be possible to use other frequency bands for specific applications, but these are not currently supported "out of the box".
+
+### 433 MHz
+
+The maximum power allowed for Europe is +10 dBm ERP (Effective Radiated Power).
+
+The band range is from 433 to 434 MHz.
+
+There are four frequency slots defined with the standard radio preset `LongFast`. After factory reset the radio will be set to frequency slot 4 with a center frequency of 433.875 MHz.
+
+### 868 MHz
+
+The maximum power allowed for Europe is +27 dBm ERP (Effective Radiated Power).
+
+The band range is from 869.40 to 869.65 MHz. This is less than the 863–870 MHz range defined as SRD (Short Range Devices) Band, but allows for a higher ERP and a duty cycle of 10%.
+
+There is one frequency slot defined with the standard radio preset `LongFast`. After factory reset the radio will be set to frequency slot 1 with a center frequency of 869.525 MHz.
+
+It is worth noting that 868 MHz is generally the most popular frequency band for Meshtastic in Europe.
+
+## North America Frequency Bands
+
+### 915 MHz (ISM Band)
+
+The maximum output power for North America is +30 dBm ERP (Effective Radiated Power).
+
+The band range is from 902 to 928 MHz.
+
+In North America, the available Frequency Slots depend on the bandwidth setting, which is included in the selected Radio Preset. The standard Preset, LongFast, provides 104 Frequency Slots. After a factory reset, the radio defaults to LongFast with a Frequency Slot of 0, which translates to Slot 20 (centered at 906.875 MHz) based on the channel hashing algorithm.
+
+## Data Rates
+
+### Considerations
+
+Various data-rate options are available when configuring a frequency slot and are inversely proportional to the theoretical range of the devices.
+
+- **Spreading Factor (SF)** - How much we "spread" our data over time.
+  - Each step up in Spreading Factor doubles the airtime to transmit.
+  - Each step up in Spreading Factor adds about 2.5db extra link budget.
+  - **Note:** Spreading Factors 5 and 6 are only supported on 2nd generation LoRa chips (SX126x, LR11xx, SX128x). 1st generation chips (SX127x / RF95) are limited to SF7-SF12. If you select SF5/6 on an unsupported device, the firmware will automatically clamp it to SF11.
+- **Bandwidth** - How big of a slice of the spectrum we use.
+  - Each doubling of the bandwidth is almost 3db less link budget.
+  - Bandwidths less than 31 may be unstable unless you have a high quality Crystal Oscillator.
+- **Coding Rate** - How much redundancy we encode to resist noise.
+  - Increasing coding rate increases reliability while decreasing data-rate.
+  - 4/5 - 1.25x overhead
+  - 4/6 - 1.5x overhead
+  - 4/7 - 1.75x overhead
+  - 4/8 - 2x overhead
+
+### Presets
+
+Meshtastic has nine general-purpose LoRa presets. These are the most common settings and have been proven to work well:
+
+|       Radio Preset        | Alt Preset Name | Data-Rate  | SF / Symbols | Coding Rate |  Bandwidth  | Link Budget |
+| :-----------------------: | :-------------: | :--------: | :----------: | :---------: | :---------: | :---------: |
+|    Short Range / Turbo    |   Short Turbo   | 21.88 kbps |   7 / 128    |     4/5     | 500 kHz[^1] |    140 dB    |
+|    Short Range / Fast     |   Short Fast    | 10.94 kbps |   7 / 128    |     4/5     |   250 kHz   |    143 dB    |
+|    Short Range / Slow     |   Short Slow    | 6.25 kbps  |   8 / 256    |     4/5     |   250 kHz   |   145.5 dB   |
+|   Medium Range / Turbo    |  Medium Turbo   | 7.03 kbps  |   9 / 512    |     4/5     | 500 kHz[^1] |    145 dB    |
+|    Medium Range / Fast    |   Medium Fast   | 3.52 kbps  |   9 / 512    |     4/5     |   250 kHz   |    148 dB    |
+|    Medium Range / Slow    |   Medium Slow   | 1.95 kbps  |  10 / 1024   |     4/5     |   250 kHz   |   150.5 dB   |
+|    Long Range / Turbo     |   Long Turbo    | 1.34 kbps  |  11 / 2048   |     4/8     | 500 kHz[^1] |    150 dB    |
+|     Long Range / Fast     |    Long Fast    | 1.07 kbps  |  11 / 2048   |     4/5     |   250 kHz   |    153 dB    |
+|   Long Range / Moderate   |  Long Moderate  | 0.34 kbps  |  11 / 2048   |     4/8     |   125 kHz   |    156 dB    |
+
+> **Note:**
+>
+> The link budget used by these calculations assumes a transmit power of 22 dBm and an antenna with 0 dB gain. Adjust your link budget assumptions based on your actual devices. Data-rate in this table is the theoretical max but doesn't account for packet headers, hops and re-transmissions. Calculations based on data from the official Semtech LoRa calculator.
+
+### Narrowband presets
+
+Three narrowband preset families serve bands where the 250 kHz and 500 kHz general-purpose presets are not permitted. Each family belongs to specific [regions](LoRa%20Region%20by%20Country.md) and can't be selected anywhere else:
+
+- **Lite** — `EU_866`, the 865.6 - 867.6 MHz European SRD band.
+- **Narrow** — `EU_N_868`, plus the 70cm and 1.25m amateur regions (`ITU1_70CM`, `ITU2_70CM`, `ITU3_70CM`, `ITU2_125CM`).
+- **Tiny** — the 2m amateur regions (`ITU1_2M`, `ITU2_2M`, `ITU3_2M`), where many administrations cap the occupied bandwidth well below 62.5 kHz.
+
+| Radio Preset  | Alt Preset Name | Data-Rate  | SF / Symbols | Coding Rate | Bandwidth  | Link Budget |
+| :-----------: | :-------------: | :--------: | :----------: | :---------: | :--------: | :---------: |
+|  Lite / Fast  |    Lite Fast    | 1.76 kbps  |   9 / 512    |     4/5     |   125 kHz  |    151 dB    |
+|  Lite / Slow  |    Lite Slow    | 0.98 kbps  |  10 / 1024   |     4/5     |   125 kHz  |   153.5 dB   |
+| Narrow / Fast |   Narrow Fast   | 2.28 kbps  |   7 / 128    |     4/6     |  62.5 kHz  |    149 dB    |
+| Narrow / Slow |   Narrow Slow   | 1.30 kbps  |   8 / 256    |     4/6     |  62.5 kHz  |   151.5 dB   |
+|  Tiny / Fast  |    Tiny Fast    | 0.68 kbps  |   7 / 128    |     4/5     |  15.6 kHz  |    155 dB    |
+|  Tiny / Slow  |    Tiny Slow    | 0.33 kbps  |   8 / 256    |     4/6     |  15.6 kHz  |   157.5 dB   |
+
+### Custom settings
+
+Custom settings can be applied by using supported software.
+
+The settings apply without a restart. A channel's QR[^2] code and URL carry its LoRa settings, so share the updated QR code or URL with your other nodes.
+
+[^2]:
+The Meshtastic QR code (or Channel URL) allows users to quickly share channel and LoRa settings, making it easy to configure multiple nodes with matching settings for communication. Scanning a QR code applies all included channel settings and LoRa configuration settings, so be sure to review what these settings include before proceeding. Only scan QR codes from trusted sources.
+
+For more details, see:
+
+- [Channel Config](Channel%20Configuration.md)
+- [LoRa Config](LoRa%20Configuration.md)
+
+Some example settings:
+
+| Data-rate  | SF / Symbols | Coding Rate | Bandwidth | Link Budget | Note                                                                     |
+| :--------: | :----------: | :---------: | :-------: | :---------: | :----------------------------------------------------------------------- |
+| 37.50 kbps |    6 / 64    |     4/5     |  500 kHz  |    129 dB    | Fastest possible speed                                                   |
+| 3.125 kbps |   8 / 256    |     4/5     |  125 kHz  |    143 dB    |                                                                          |
+| 1.953 kbps |   8 / 256    |     4/8     |  125 kHz  |    143 dB    |                                                                          |
+| 1.343 kbps |  11 / 2048   |     4/8     |  500 kHz  |    145 dB    |                                                                          |
+| 1.099 kbps |   9 / 512    |     4/8     |  125 kHz  |    146 dB    |                                                                          |
+| 0.814 kbps |  10 / 1024   |     4/6     |  125 kHz  |    149 dB    |                                                                          |
+| 0.610 kbps |  10 / 1024   |     4/8     |  125 kHz  |    149 dB    |                                                                          |
+| 0.488 kbps |  11 / 2048   |     4/6     |  125 kHz  |    152 dB    |                                                                          |
+| 0.073 kbps |  12 / 4096   |     4/5     |  31 kHz   |    160 dB    | Low resilience to noise                                                  |
+| 0.046 kbps |  12 / 4096   |     4/8     |  31 kHz   |    160 dB    | High resilience to noise                                                 |
+
+The link budget used by these calculations assumes a transmit power of 17 dBm and an antenna with 0 dB gain. Adjust your link budget assumptions based on your actual devices.
+
+These frequency slot settings may not have been tested. Use at your own discretion. Share on the Meshtastic Discussions page with your successes or failure.
+
+## Cryptography
+
+The pre-shared key (PSK) used by the devices can be an AES128 or AES256 sequence. Alternatively, encryption can be turned off, which may be useful if you are operating under a ham radio license.
+
+[^1]: The Turbo presets use 500 kHz bandwidth, which is not legal to use in all regions. They are unavailable in `EU_868` and in every narrowband region.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/overview/radio-settings. GPL-3.0 (Meshtastic documentation).*

@@ -1,0 +1,145 @@
+# Bluetooth Settings
+
+The Bluetooth config options are: Enabled, Pairing Mode and Fixed PIN Value. Bluetooth config uses an admin message sending a `Config.Bluetooth` protobuf.
+
+> **Info:**
+>
+> ESP32 Devices: Bluetooth will be disabled if Wi-Fi is enabled. The Wi-Fi setting takes precedence.
+
+## Bluetooth Config Values
+
+### Enabled
+
+Enables Bluetooth.
+
+### Pairing Mode
+
+Specify pairing mode.
+
+`RANDOM_PIN` generates a random PIN during runtime.
+`FIXED_PIN` uses the fixed PIN that should then be additionally specified.
+Finally, `NO_PIN` disables PIN authentication.
+
+### Default Pairing Mode
+
+The default pairing mode will be determined based on whether the device has or does not have a screen attached to it during the first boot (or with a stale device state) unless manually configured via the Bluetooth config options.
+
+- **Screen Attached:** If your device boots up for the first time (or with a stale device state), and a screen is detected, the default pairing mode will be set to `RANDOM_PIN`. Should the attached screen be removed after the device has already been booted, the default pairing mode of `RANDOM_PIN` will remain unless manually changed to `FIXED_PIN` or `NO_PIN`. It is recommended the pairing mode be updated prior to removing the attached screen.
+- **No Screen Attached:** If your device boots up for the first time (or with a stale device state), and no screen is detected, the default paring mode will be set to `FIXED_PIN` with the default value listed below unless manually configured to a custom value.
+
+### Fixed PIN
+
+If your pairing mode is set to `FIXED_PIN`, the default value is **123456**. For all other pairing modes, this number is ignored. A custom integer (6 digits) can be set via the Bluetooth config options.
+
+> **Warning:**
+>
+> It is strongly recommended that you change the default `FIXED_PIN` code on your device. Leaving the default code in place can pose a significant security risk.
+
+## Bluetooth Config Client Availability
+
+           Android
+        </>
+      ),
+      value: "android",
+    },
+    {
+      label: (
+        <>
+           Apple
+        </>
+      ),
+      value: "apple",
+    },
+    {
+      label: (
+        <>
+           CLI
+        </>
+      ),
+      value: "cli",
+    },
+    {
+      label: (
+        <>
+           Web
+        </>
+      ),
+      value: "web",
+    },
+  ]}>
+
+**android**
+
+### Android
+
+> **Info:**
+>
+>
+> All Bluetooth config options are available for Android.
+>
+> 1. Open the Meshtastic App
+> 2. Navigate to: **Settings > Device configuration > Bluetooth**
+>
+
+**apple**
+
+### Apple
+
+> **Info:**
+>
+>
+> All bluetooth config options are available on iOS, iPadOS and macOS at Settings > Device Configuration > Bluetooth.
+>
+
+**cli**
+
+### CLI
+
+> **Info:**
+>
+>
+> All Bluetooth config options are available in the python CLI. Example commands are below:
+>
+
+|       Setting        |          Acceptable Values          |   Default    |
+| :------------------: | :---------------------------------: | :----------: |
+| `bluetooth.enabled`  |           `true`, `false`           |    `true`    |
+|   `bluetooth.mode`   | `RANDOM_PIN`, `FIXED_PIN`, `NO_PIN` | `RANDOM_PIN` |
+| `bluetooth.fixed_pin` |        `integer` (6 digits)         |   `123456`   |
+
+> **Tip:**
+>
+>
+> Because the device will reboot after each command is sent via CLI, it is recommended when setting multiple values in a config section that commands be chained together as one.
+>
+> ```shell title="Example:"
+> meshtastic --set bluetooth.enabled true  --set bluetooth.fixed_pin 111111
+> ```
+>
+
+```shell title="Enable/Disable Bluetooth Module"
+meshtastic --set bluetooth.enabled true
+meshtastic --set bluetooth.enabled false
+```
+
+```shell title="Set a fixed pin"
+meshtastic --set bluetooth.mode FIXED_PIN
+meshtastic --set bluetooth.fixed_pin 111111
+```
+
+**web**
+
+### Web
+
+> **Info:**
+>
+>
+> All Bluetooth module config options are available for the Web UI.
+>
+> 1. Open the Meshtastic Web UI.
+> 2. Navigate to: **Radio Config > Bluetooth**
+>
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/configuration/radio/bluetooth. GPL-3.0 (Meshtastic documentation).*

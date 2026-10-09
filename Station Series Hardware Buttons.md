@@ -1,0 +1,22 @@
+# Station Series Hardware Buttons
+
+**Station G2**
+
+## Functionality
+
+Most device functions are menu items rather than dedicated button presses. Hold the user button to open the menu for the screen currently shown. Short presses move through the menu, and another hold activates an item.
+
+- **User button (program button):**
+  - **Short press:** Move to the next screen. With a menu open, move to the next item.
+  - **Hold about half a second:** Open the menu for the current screen. With a menu open, activate the highlighted item.
+  - **Hold about four seconds, then release:** Shut the device down. A rising four-note tone signals that shutdown is arming. This works only more than 30 seconds after boot.
+- **Firmware download button:** Places the device into firmware download mode.
+  1. Press and hold the firmware download button.
+  2. Short press the reset button.
+  3. Release the firmware download button.
+- **Reset button:**
+  - **Short press:** Reset the device.
+
+---
+
+*Source: Meshtastic documentation, https://meshtastic.org/docs/hardware/devices/b-and-q-consulting/station-series/buttons. GPL-3.0 (Meshtastic documentation).*
