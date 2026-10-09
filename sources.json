@@ -447,6 +447,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "radio-meshtastic",
+      "topic": "Radio",
+      "title": "Meshtastic documentation",
+      "description": "Off-grid text messaging and position sharing over LoRa radios without phone networks: what Meshtastic is and how the mesh works, getting started and flashing firmware, every radio and module setting (region, presets, channels, encryption, position, telemetry, store and forward, range test), the Android and iPhone apps, the Python command line, Linux nodes (meshtasticd), antennas, and the supported devices (LILYGO T-Beam, T-Echo, T-Deck, Heltec, RAK WisBlock, Seeed SenseCAP and more) with their specifications.",
+      "converter": "docusaurus",
+      "source_url": "https://meshtastic.org/docs/",
+      "license": "GPL-3.0 (Meshtastic documentation).",
+      "attribution": "Meshtastic contributors, https://github.com/meshtastic/meshtastic",
+      "params": {
+        "archive": "https://codeload.github.com/meshtastic/meshtastic/tar.gz/refs/heads/master",
+        "docs_dir": "docs",
+        "site_url": "https://meshtastic.org/docs",
+        "skip": [
+          "/developer/",
+          "^development/",
+          "^legal/",
+          "^terms/",
+          "^blocks/",
+          "^community/",
+          "^about/contributing"
+        ],
+        "categories": [
+          [
+            "about/",
+            "About Meshtastic"
+          ],
+          [
+            "getting-started/",
+            "Getting started"
+          ],
+          [
+            "configuration/radio/",
+            "Configuration: radio"
+          ],
+          [
+            "configuration/module/",
+            "Configuration: modules"
+          ],
+          [
+            "configuration/device-uis/",
+            "Configuration: device screens"
+          ],
+          [
+            "configuration/",
+            "Configuration"
+          ],
+          [
+            "hardware/antennas/",
+            "Antennas"
+          ],
+          [
+            "hardware/devices/community-supported/",
+            "Devices: community supported"
+          ],
+          [
+            "hardware/devices/",
+            "Devices"
+          ],
+          [
+            "hardware/",
+            "Devices"
+          ],
+          [
+            "software/android/",
+            "App: Android"
+          ],
+          [
+            "software/apple/",
+            "App: iPhone and Mac"
+          ],
+          [
+            "software/python-cli/",
+            "Python command line"
+          ],
+          [
+            "software/integrations/",
+            "Integrations (MQTT)"
+          ],
+          [
+            "software/",
+            "Other software"
+          ],
+          [
+            "meshtasticd/",
+            "Linux nodes (meshtasticd)"
+          ]
+        ]
+      }
     }
   ]
 }
