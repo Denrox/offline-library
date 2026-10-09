@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** infiltration  
-**Drug class:** Amide Local Anesthetic, Nonsteroidal Anti-inflammatory Drug  
+**Drug class:** Nonsteroidal Anti-inflammatory Drug, Amide Local Anesthetic  
 **Labels on file:** 1
 
 **Brand and product names:** Zynrelef
