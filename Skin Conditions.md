@@ -44,13 +44,14 @@ NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
 
 ## Related topics
 
+- [Acne](Acne.md)
 - [Blisters](Blisters.md)
 - [Dandruff, Cradle Cap, and Other Scalp Conditions](Dandruff%2C%20Cradle%20Cap%2C%20and%20Other%20Scalp%20Conditions.md)
 - [Eczema](Eczema.md)
-- [Impetigo](Impetigo.md)
 - [Itching](Itching.md)
 - [Psoriasis](Psoriasis.md)
 - [Rashes](Rashes.md)
+- [Rosacea](Rosacea.md)
 - [Scleroderma](Scleroderma.md)
 - [Skin Aging](Skin%20Aging.md)
 - [Skin Cancer](Skin%20Cancer.md)

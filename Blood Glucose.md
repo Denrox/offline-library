@@ -72,6 +72,7 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 - [Diabetic Diet](Diabetic%20Diet.md)
 - [Hyperglycemia](Hyperglycemia.md)
 - [Hypoglycemia](Hypoglycemia.md)
+- [Prediabetes](Prediabetes.md)
 
 ---
 

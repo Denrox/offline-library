@@ -1,6 +1,6 @@
 # Scleroderma
 
-*Also called: Circumscribed scleroderma, Dermatosclerosis, Morphea, Systemic sclerosis*
+*Also called: Circumscribed scleroderma, Dermatosclerosis, Systemic sclerosis*
 
 #### What is scleroderma?
 

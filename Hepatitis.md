@@ -69,6 +69,7 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 ## Related topics
 
+- [Cirrhosis](Cirrhosis.md)
 - [Hepatitis A](Hepatitis%20A.md)
 - [Hepatitis B](Hepatitis%20B.md)
 - [Hepatitis C](Hepatitis%20C.md)
