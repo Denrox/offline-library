@@ -14,6 +14,8 @@ SKIP_CLASSES = {
     "mw-editsection", "reference", "references", "reflist", "navbox",
     "noprint", "mw-empty-elt", "toc", "printfooter", "catlinks",
     "mw-jump-link", "metadata", "ambox", "thumbcaption", "magnify",
+    # Wikipedia: "For other uses, see ..." notes, sidebars, boxes pointing to other wikis.
+    "hatnote", "sidebar", "sistersitebox", "side-box", "portalbox",
 }
 SKIP_TAGS = {"script", "style", "sup", "noscript", "figure", "img"}
 VOID_TAGS = {"br", "img", "hr", "meta", "link", "input", "wbr", "source"}
@@ -100,7 +102,8 @@ class _Converter(HTMLParser):
                     href = "https:" + href
                 elif href.startswith("/"):
                     href = self.base_url + href
-                self.href = href
+                # "(" and ")" would end a markdown link early: Bearing_(angle).
+                self.href = href.replace("(", "%28").replace(")", "%29")
                 self.link_text = []
 
     def handle_endtag(self, tag):
