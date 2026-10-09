@@ -1,0 +1,47 @@
+{
+  "Basics": [
+    "Dead reckoning.md",
+    "Land navigation.md",
+    "Orienteering.md",
+    "Pace count beads.md"
+  ],
+  "Coordinates": [
+    "Decimal degrees.md",
+    "Geographic coordinate system.md",
+    "Latitude.md",
+    "Longitude.md",
+    "Military Grid Reference System.md",
+    "Universal Transverse Mercator coordinate system.md",
+    "World Geodetic System.md"
+  ],
+  "Direction": [
+    "Azimuth.md",
+    "Bearing (navigation).md",
+    "Cardinal direction.md",
+    "Compass.md",
+    "Magnetic declination.md",
+    "North magnetic pole.md",
+    "True north.md"
+  ],
+  "Finding your position": [
+    "Celestial navigation.md",
+    "Crux.md",
+    "Dead reckoning.md",
+    "Pace count beads.md",
+    "Polaris.md",
+    "Position resection and intersection.md",
+    "Triangulation.md"
+  ],
+  "Maps": [
+    "Contour line.md",
+    "Map symbol.md",
+    "Scale (map).md",
+    "Terrain.md",
+    "Topographic map.md"
+  ],
+  "Satellite navigation": [
+    "Global Positioning System.md",
+    "Satellite navigation.md",
+    "Spoofing attack.md"
+  ]
+}
