@@ -71,7 +71,6 @@ NIH: National Institute of Diabetes and Digestive and Kidney Diseases
 
 - [Blood Glucose](Blood%20Glucose.md)
 - [Diabetes](Diabetes.md)
-- [Diabetes in Children and Teens](Diabetes%20in%20Children%20and%20Teens.md)
 - [Diabetes Type 1](Diabetes%20Type%201.md)
 - [Diabetes Type 2](Diabetes%20Type%202.md)
 
