@@ -173,7 +173,7 @@ Solutions
 - Gardner, Martin (October 1974), "Mathematical Games, On the paradoxical situations that arise from nontransitive relations", *Scientific American*{{citation}}: CS1 maint: year (link).
 - Gardner, Martin (October 1980), "Mathematical Games, From counting votes to making votes count: the mathematics of elections", *Scientific American*{{citation}}: CS1 maint: year (link).
 - Neimi, G.; Riker, W. (June 1976), "The Choice of Voting Systems", *Scientific American*: 21–27{{citation}}: CS1 maint: year (link).
-- Poundstone, W. (2008), *Gaming the vote*, Hill and Wang, ISBN) 978-0-8090-4893-9.
+- Poundstone, W. (2008), *Gaming the vote*, Hill and Wang, ISBN 978-0-8090-4893-9.
 - Taylor, Alan D. (1995), *Mathematics and Politics: Strategy, Voting, Power, and Proof*, Springer-Verlag.
 - Zwicker, S. (1991), "The Voters' Paradox, Spin, and the Borda Count", *Mathematical Social Sciences*, **22**: 187–227
 

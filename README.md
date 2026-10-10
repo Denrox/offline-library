@@ -1,6 +1,6 @@
 # Linear Algebra (Wikibooks)
 
-97 pages, 9 categories. Snapshot: 2026-10-07.
+97 pages, 9 categories. Snapshot: 2026-10-10.
 
 Source: https://en.wikibooks.org/wiki/Linear_Algebra
 
