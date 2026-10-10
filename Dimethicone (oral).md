@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 194
+**Labels on file:** 193
 
-**Also sold as:** Gas Relief, Simethicone, Gas Relief Extra Strength, Gas Relief Ultra Strength, Extra Strength Gas Relief, Ultra Strength Gas Relief, Infants Gas Relief, Extra Strength Gas Relief Cherry, Maximum Strength Gas Relief, Teeny Tummy Gas Relief Drops, Simethicone 125 Mg, Simethicone Infant Gas Relief Drops, Quality Choice Gas Relief Extra Strength Softgels, Extra Strength Gas Relief Cherry Creme, Simethicone 80 Mg, Phazyme, Basic Care Gas Relief, Anti-gas, Gnp Regular Strength Gas Relief, Extra Strength Simethicone, Antiflatulent, Leader Gas Relief, Right Remedies Maximum Strength Gas Relief Softgel, Gas-aid Drops For Infants, Simethicone 125mg Gas Relief and 51 more
+**Also sold as:** Gas Relief, Simethicone, Gas Relief Extra Strength, Gas Relief Ultra Strength, Extra Strength Gas Relief, Ultra Strength Gas Relief, Infants Gas Relief, Extra Strength Gas Relief Cherry, Maximum Strength Gas Relief, Teeny Tummy Gas Relief Drops, Simethicone 125 Mg, Simethicone Infant Gas Relief Drops, Quality Choice Gas Relief Extra Strength Softgels, Extra Strength Gas Relief Cherry Creme, Simethicone 80 Mg, Phazyme, Basic Care Gas Relief, Anti-gas, Gnp Regular Strength Gas Relief, Extra Strength Simethicone, Antiflatulent, Leader Gas Relief, Right Remedies Maximum Strength Gas Relief Softgel, Gas-aid Drops For Infants, Simethicone 125mg Gas Relief and 50 more
 
 ## Active ingredients
 

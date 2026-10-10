@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 1328
+**Labels on file:** 1326
 
-**Also sold as:** Hawaiian Tropic, Banana Boat, Sunscreen, Black Girl Sunscreen Sunscreen Spf 30 Broad Spectrum, Sunscreen 01, Isa Knox Anew Solaire Everyday Face Protection Broad Spectrum Spf 50 Sunscreen, Belif The True Cream Aqua Bomb Sunscreen Broad Spectrum Spf 50, Coppertone Sport Sunscreen Spf 30, Spf 30 Sunscreen, Belif The True Cream Aqua Bomb Sunscreen Broad Spectrum Spf 45, H.e.b, Sun Bum 50 Premium Moisturizing Sunscreen, Bath and Body Works Spf Tahiti Isle, Tocobo Cotton Airy Sun Stick, Shiseido Ultimate Sun Protector, Coppertone Kids Sunscreen Spf 50, Bondi Sands Fragrance Free Spf 50 Sunscreen, Neutrogena Collagen Bank Spf Moisturizer Sunscreen Broad Spectrum Spf 30, Cle De Peau Beaute Uv Protective N, Tocobo Bio Watery Sun Screen, Spf30 Sunscreen, Isntree Hyaluronic Acid Watery Sunscreen, Neutrogena Beach Defense Water Plus Sun Protection Sunscreen Broad Spectrum Spf 70, Coppertone Complete Sunscreen Spf 30, Coppertone Complete Sunscreen Spf 50 and 1148 more
+**Also sold as:** Hawaiian Tropic, Banana Boat, Sunscreen, Black Girl Sunscreen Sunscreen Spf 30 Broad Spectrum, Sunscreen 01, Isa Knox Anew Solaire Everyday Face Protection Broad Spectrum Spf 50 Sunscreen, Belif The True Cream Aqua Bomb Sunscreen Broad Spectrum Spf 50, Coppertone Sport Sunscreen Spf 30, Spf 30 Sunscreen, Belif The True Cream Aqua Bomb Sunscreen Broad Spectrum Spf 45, H.e.b, Sun Bum 50 Premium Moisturizing Sunscreen, Bath and Body Works Spf Tahiti Isle, Tocobo Cotton Airy Sun Stick, Shiseido Ultimate Sun Protector, Coppertone Kids Sunscreen Spf 50, Bondi Sands Fragrance Free Spf 50 Sunscreen, Neutrogena Collagen Bank Spf Moisturizer Sunscreen Broad Spectrum Spf 30, Cle De Peau Beaute Uv Protective N, Tocobo Bio Watery Sun Screen, Spf30 Sunscreen, Isntree Hyaluronic Acid Watery Sunscreen, Neutrogena Beach Defense Water Plus Sun Protection Sunscreen Broad Spectrum Spf 70, Coppertone Complete Sunscreen Spf 30, Coppertone Complete Sunscreen Spf 50 and 1146 more
 
 ## Active ingredients
 

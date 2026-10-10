@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 71
+**Labels on file:** 70
 
-**Also sold as:** Clinicians Complex, Eradikate Acne Treatment, Eradikate Daily Foaming Cleanser Acne Treatment, Renu Laboratories Acne Sulphur L, Glovers Dandruff Control Medicine, Regular, Seacall Nail Revive Serum, Kiehls Since 1851 Dermatologist Solutions Breakout Control Targeted Acne Spot Treatment, Shaant Spot Hero Drying Acne Treatment, Support Serum Fortified, Proactiv Clean Mineral Acne Cleanser, Margarite Zinc Cream, Liquimat Acne Treatment and Cover-up, Ayadara Cystic Acne Spot Treatment, Powerspot Cleanse, Spot Correction, Malin and Goetz Acne Treatment, Vichy Laboratoires Normaderm Sos Acne Rescue Spot Corrector, Detoxify Facial Mask, Suflur Spotandmask Acne Clearing Treatment Mask, Panoxyl Pore Refining Acne Mask, Clopoat Clopoat Acne-clearing Spot, Derma E Acne Clarifying Mask, Thylox, Spot Defy, Drx Blemish Clarifying Mask and 39 more
+**Also sold as:** Clinicians Complex, Eradikate Acne Treatment, Eradikate Daily Foaming Cleanser Acne Treatment, Renu Laboratories Acne Sulphur L, Glovers Dandruff Control Medicine, Regular, Seacall Nail Revive Serum, Kiehls Since 1851 Dermatologist Solutions Breakout Control Targeted Acne Spot Treatment, Shaant Spot Hero Drying Acne Treatment, Support Serum Fortified, Proactiv Clean Mineral Acne Cleanser, Margarite Zinc Cream, Liquimat Acne Treatment and Cover-up, Ayadara Cystic Acne Spot Treatment, Powerspot Cleanse, Spot Correction, Vichy Laboratoires Normaderm Sos Acne Rescue Spot Corrector, Detoxify Facial Mask, Suflur Spotandmask Acne Clearing Treatment Mask, Panoxyl Pore Refining Acne Mask, Clopoat Clopoat Acne-clearing Spot, Derma E Acne Clarifying Mask, Thylox, Spot Defy, Drx Blemish Clarifying Mask, Dhc Acne Spot Therapy and 38 more
 
 ## Active ingredients
 

@@ -4,9 +4,9 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Tetrahydrozoline Hydrochloride  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Also sold as:** Clear Eyes Triple Relief, Multi-action Relief
+**Also sold as:** Clear Eyes Triple Relief
 
 ## Active ingredients
 

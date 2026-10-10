@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 275
+**Labels on file:** 271
 
-**Also sold as:** Petroleum, Advanced Healing, Petroleum Skin Protectant, Petroleum Jelly, Pure Petroleum, Nuvalu Petroleum Baby Fresh Scent, Cocoa Butter Petroleum Jelly, Vitamin A D, Universal Lavender Scent Petroleum, Petroleum with Cocoa, Healing For Babies, Cerave Developed with Dermatologists Healing, Kidgets Baby Petroleum Jelly, Healing Cream 3oz, Baby Balm Stick 0.65oz, Procure Hydrocerin, Procure Hydroshield, Cruex Petroleum Jelly, Welmedix Homecare Pro Fragile Skin Protectant, Nuvalu 100 Pure Petroleum, Nuvalu Petroleum Cocoa Butter, Xtracare Creamy Petroleum Jelly, Chapstick Classic Spearmint, Healing, Universal Baby Fresh Scent Petroleum and 154 more
+**Also sold as:** Petroleum, Advanced Healing, Petroleum Skin Protectant, Petroleum Jelly, Pure Petroleum, Nuvalu Petroleum Baby Fresh Scent, Vitamin A D, Universal Lavender Scent Petroleum, Petroleum with Cocoa, Healing For Babies, Cerave Developed with Dermatologists Healing, Kidgets Baby Petroleum Jelly, Healing Cream 3oz, Baby Balm Stick 0.65oz, Cocoa Butter Petroleum Jelly, Procure Hydrocerin, Procure Hydroshield, Cruex Petroleum Jelly, Welmedix Homecare Pro Fragile Skin Protectant, Nuvalu 100 Pure Petroleum, Nuvalu Petroleum Cocoa Butter, Xtracare Creamy Petroleum Jelly, Chapstick Classic Spearmint, Healing, Universal Baby Fresh Scent Petroleum and 153 more
 
 ## Active ingredients
 

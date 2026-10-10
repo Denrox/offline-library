@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** auricular (otic)  
-**Labels on file:** 20
+**Labels on file:** 19
 
-**Also sold as:** Topcare Swimmers Ear Drops, Dri-ear, Macks Dry N Clear, Swimmers Ear, Ddm Ear Drops For Swimmers, Heb Water Drying Aid, Ent Essentials All Dry Ear Drying Drops, Humco Ear Drops For Swimmers, Oido Sana, Equate Swimmers Instant Ear Dry, Leader Ear Drops For Swimmers, Ear Drying Agent, Quality Choice Instant Ear Dry, Premiere Value Ear Drops For Swimmers, Debrox Swimmers Ear, Swim-ear, Cvs Ear Drops For Swimmers, Ear Drops For Swimmers, Debrox Kids
+**Also sold as:** Topcare Swimmers Ear Drops, Macks Dry N Clear, Swimmers Ear, Ddm Ear Drops For Swimmers, Heb Water Drying Aid, Ent Essentials All Dry Ear Drying Drops, Humco Ear Drops For Swimmers, Oido Sana, Equate Swimmers Instant Ear Dry, Leader Ear Drops For Swimmers, Ear Drying Agent, Quality Choice Instant Ear Dry, Premiere Value Ear Drops For Swimmers, Debrox Swimmers Ear, Swim-ear, Cvs Ear Drops For Swimmers, Ear Drops For Swimmers, Debrox Kids
 
 ## Active ingredients
 

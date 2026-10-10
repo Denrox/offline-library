@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 2604
+**Labels on file:** 2602
 
-**Also sold as:** Hand Sanitizer, Antibacterial Hand Sanitizer, Instant Hand Sanitizer, Advanced Hand Sanitizer, Dove, Find Your Happy Place, Hand Sanitizing Wipes, Antiseptic Hand Sanitizer, Fb Hydrating Hand Sanitizer, Love Beauty and Planet, Hand Recovery, Mist, Hand, Hand Relief, Anti Bacterial Hand Gel Pink Peach Blossom, Ecolab, Walgreens, Hand Sanitizer 8oz with Vitamin E, Hand Sanitizer 8oz with Aloe Vera, Hand Sanitizer 16.9oz with Vitamin E, Everlit Care Hand Sanitizer, Anti Bacterial Hand Gel Endless Weekend, Anti Bacterial Hand Gel Fresh Cut Lilacs, Anti Bacterial Hand Gel Sunshine and Lemons, Anti Bacterial Hand Gel Fresh Rainfall and 1939 more
+**Also sold as:** Hand Sanitizer, Antibacterial Hand Sanitizer, Instant Hand Sanitizer, Advanced Hand Sanitizer, Dove, Find Your Happy Place, Hand Sanitizing Wipes, Antiseptic Hand Sanitizer, Fb Hydrating Hand Sanitizer, Love Beauty and Planet, Hand Recovery, Mist, Hand, Hand Relief, Anti Bacterial Hand Gel Pink Peach Blossom, Ecolab, Walgreens, Hand Sanitizer 8oz with Vitamin E, Hand Sanitizer 8oz with Aloe Vera, Hand Sanitizer 16.9oz with Vitamin E, Everlit Care Hand Sanitizer, Anti Bacterial Hand Gel Endless Weekend, Anti Bacterial Hand Gel Fresh Cut Lilacs, Anti Bacterial Hand Gel Sunshine and Lemons, Anti Bacterial Hand Gel Fresh Rainfall and 1937 more
 
 ## Active ingredients
 

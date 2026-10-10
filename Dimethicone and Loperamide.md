@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Loperamide Hydrochloride  
-**Labels on file:** 38
+**Labels on file:** 37
 
 **Also sold as:** Anti Diarrheal Anti Gas, Anti Diarrheal and Anti Gas, Anti-diarrheal/anti-gas, Dg Health Anti Diarrheal Anti Gas, Equate Anti Diarrheal Anti Gas Multi-symptom Relief, Good Sense Anti Diarrheal Anti Gas, Equaline Anti Diarrheal Plus Anti Gas, Anti-diarrheal/anti-gas Caplets, Signature Care Anti Diarrheal Anti Gas, Good Neighbor Pharmacy Anti Diarrheal Anti Gas, Foster and Thrive Anti Diarrheal Anti Gas, Anti-diarrheal/anti-gas Multi-symptom Relief, Careone Diarrhea and Gas Control, Anti Diarrheal Plus Anti Gas, Imodium Multi-symptom Relief, Up and Up Anti Diarrheal Anti Gas, Loperamide Hydrochloride and Simethicone, Loperamide Hcl and Simethicone, Loperamide Hydrochloride, Simethicone, Basic Care Loperamide Hydrochloride and Simethicone
 

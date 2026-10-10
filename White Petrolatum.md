@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 39
+**Labels on file:** 37
 
-**Also sold as:** Petroleum Jelly, Medline, Carmex Classic Lip Balm Medicated Triple Force Formula, Vitamin A and D, Chapstick Classic Original, Chapstick Classic Cherry, Chapstick Classic Original Military, Crash Cream, Cocoa Butter Petroleum Jelly, Baby Petroleum Jelly, Carmex Classic Lip Balm Medicated Lip Protectant, Procure Vitamin A and D, Procure Petroleum, Chapstick Classic Strawberry, Chapstick Classic Variety Cherry-strawberry-spearmint, Chapstick Classic Variety-classic Cherry-classic Strawberry-classic Spearmint, Chapstick Sweet Valetine Berry Much Besties, Mint To Be, Cherish Me Cherry, Petroleum Jelly Skin Protectant, Drs. Pharmacy Creamy Cocoa Butter Petroleum Jelly, Drs. Pharmacy Creamy Petroleum Jelly, Claravie, Dealmed Vitamins A and D, Little Me Multipurpose Baby Balm, Vitamin A D, Dawnmist White Petrolatum
+**Also sold as:** Petroleum Jelly, Medline, Carmex Classic Lip Balm Medicated Triple Force Formula, Vitamin A and D, Chapstick Classic Original, Chapstick Classic Cherry, Chapstick Classic Original Military, Crash Cream, Cocoa Butter Petroleum Jelly, Baby Petroleum Jelly, Carmex Classic Lip Balm Medicated Lip Protectant, Procure Vitamin A and D, Procure Petroleum, Chapstick Classic Strawberry, Chapstick Classic Variety Cherry-strawberry-spearmint, Chapstick Classic Variety-classic Cherry-classic Strawberry-classic Spearmint, Chapstick Sweet Valetine Berry Much Besties, Mint To Be, Cherish Me Cherry, Petroleum Jelly Skin Protectant, Drs. Pharmacy Creamy Cocoa Butter Petroleum Jelly, Drs. Pharmacy Creamy Petroleum Jelly, Claravie, Dealmed Vitamins A and D, Little Me Multipurpose Baby Balm, Dawnmist White Petrolatum
 
 ## Active ingredients
 

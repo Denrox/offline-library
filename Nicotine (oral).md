@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Cholinergic Nicotinic Agonist  
-**Labels on file:** 487
+**Labels on file:** 486
 
 **Also sold as:** Blip, Nicorette, Kirkland Signature Quit 2, Kirkland Signature Quit 4, Stop Smoking Aid, Nicorette Cherry Peppermint, Habitrol Lozenge Cherry, Nicorette Original, Nicorette Mint, Nicorette Spearmint Burst, Nicorette Cinnamon Surge, Nicorette White Ice Mint, Habitrol Lozenge Original Flavor, Nicorette Peppermint, Nicorette Fruit Chill, Good Sense, Nicotine Polacrilex, Nicotine Mini, Good Sense Nicotine, Basic Care Nicotine, Equate Nicotine, Mini Nicotine, Foster and Thrive Nicotine, Topcare Nicotine, Quitine Nicotine and 47 more
 

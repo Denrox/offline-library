@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 24
+**Labels on file:** 23
 
-**Also sold as:** Jointflex, Natureance Body Balm, Milagroso, Sanar Naturals Arnica White, Sanar Naturals Arnica Reforzada, After Ivy Wipe, After Bite Natural, Just Cbd Roll-on Warming, Sunset Heating Pain Relief Roll-on, Dermfree Medicated Lip, Cheong Kun Pain Relieving, Blue Star Medicated, Cirlutone, 5kind Dmso Pain Relieving, Neutrogena Sun Rescue After Sun Medicated Relief, Joint Formula 88 Max Plus, Amish Origins Topical Analgesic Camphor 2%, Sanar Naturals Arnica Pain Releiving Roll On with Camphor, Sanar Naturals Camphor, De La Cruz Camphor, Germa Camphor Analgesic
+**Also sold as:** Jointflex, Natureance Body Balm, Milagroso, Sanar Naturals Arnica White, Sanar Naturals Arnica Reforzada, After Ivy Wipe, Just Cbd Roll-on Warming, Sunset Heating Pain Relief Roll-on, Dermfree Medicated Lip, Cheong Kun Pain Relieving, Blue Star Medicated, Cirlutone, 5kind Dmso Pain Relieving, Neutrogena Sun Rescue After Sun Medicated Relief, Joint Formula 88 Max Plus, Amish Origins Topical Analgesic Camphor 2%, Sanar Naturals Arnica Pain Releiving Roll On with Camphor, Sanar Naturals Camphor, De La Cruz Camphor, Germa Camphor Analgesic
 
 ## Active ingredients
 

@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 347
+**Labels on file:** 345
 
-**Also sold as:** Allergy Relief, Claritin, Childrens Allergy Relief, All Day Allergy Relief, Good Sense Allergy Relief, Childrens Allergy, Good Sense Childrens Allergy Relief, Dg Health Allergy Relief, Wal-itin, Basic Care Allergy Relief, Alavert Allergy, Medique Loradamed, Equaline Childrens Allergy Relief, Green Guard 24 Hour Allergy Relief, Topcare Allergy Relief, Claritin Reditabs, Allervarx, Basic Care Childrens Allergy Relief, Non-drowsy Allergy Relief, 24-7 Life, Non-drowsy Allergy Relief, Xl - 3 Allergy, Careone Childrens Allergy Relief, Signature Care Allergy Relief, Curist Allergy Relief, Amazon Basic Care Allergy Relief and 66 more
+**Also sold as:** Allergy Relief, Claritin, Childrens Allergy Relief, Good Sense Allergy Relief, All Day Allergy Relief, Childrens Allergy, Good Sense Childrens Allergy Relief, Dg Health Allergy Relief, Wal-itin, Basic Care Allergy Relief, Alavert Allergy, Medique Loradamed, Equaline Childrens Allergy Relief, Green Guard 24 Hour Allergy Relief, Topcare Allergy Relief, Claritin Reditabs, Allervarx, Basic Care Childrens Allergy Relief, Non-drowsy Allergy Relief, 24-7 Life, Non-drowsy Allergy Relief, Xl - 3 Allergy, Careone Childrens Allergy Relief, Signature Care Allergy Relief, Curist Allergy Relief, Amazon Basic Care Allergy Relief and 66 more
 
 ## Active ingredients
 

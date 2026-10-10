@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Diphenhydramine Hydrochloride, Diphenhydramine Hcl  
-**Labels on file:** 70
+**Labels on file:** 69
 
-**Also sold as:** Itch Relief, Anti-itch Cream, Extra Strength Itch Relief, Anti Itch, Anti-itch, Family Wellness, Savvy Itch Stopping, Westlake Itch Relief, Rite Aid Extra Strength Itch Stopping, Itch Stopping Cream, Shopko Anti-itch, Good Sense Itch Relief, Caring Mill Anti-itch Cream, Industrial Itch and Pain Relief, Itchzap, Goodsense Anti-itch, Benadryl Extra Strength Itch Relief, Gnp Extra Strength Anti-itch Cream, Itch Relief Cream, Careall Anti-itch, Signature Care Itch Relief, Itch Stopping, Medi First Extra Strength Itch Relief, Extra Strength Wal-dryl Itch Relief, Dr. Sheffield Anti Itch Cream and 23 more
+**Also sold as:** Itch Relief, Anti-itch Cream, Extra Strength Itch Relief, Anti Itch, Anti-itch, Family Wellness, Savvy Itch Stopping, Westlake Itch Relief, Rite Aid Extra Strength Itch Stopping, Itch Stopping Cream, Shopko Anti-itch, Good Sense Itch Relief, Caring Mill Anti-itch Cream, Industrial Itch and Pain Relief, Itchzap, Goodsense Anti-itch, Benadryl Extra Strength Itch Relief, Gnp Extra Strength Anti-itch Cream, Itch Relief Cream, Careall Anti-itch, Signature Care Itch Relief, Itch Stopping, Medi First Extra Strength Itch Relief, Extra Strength Wal-dryl Itch Relief, Dr. Sheffield Anti Itch Cream and 22 more
 
 ## Active ingredients
 

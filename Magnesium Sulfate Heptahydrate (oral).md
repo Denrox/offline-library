@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 10
+**Labels on file:** 9
 
-**Also sold as:** Epsom Salt, Nuvalu Epsom Salt, Epsom Salts, Rapidol Sal Inglesa, Sal Inglesa Epsom Salt, Humco Epson Salt
+**Also sold as:** Epsom Salt, Nuvalu Epsom Salt, Rapidol Sal Inglesa, Sal Inglesa Epsom Salt, Humco Epson Salt, Epsom Salts
 
 ## Active ingredients
 

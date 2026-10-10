@@ -4,9 +4,9 @@
 
 **Route:** nasal  
 **Ingredient forms:** Oxymetazoline Hydrochloride  
-**Labels on file:** 189
+**Labels on file:** 188
 
-**Also sold as:** Nasal, No Drip Nasal Mist, Good Sense Nasal, Major Nasal Decongestant, Nasal Decongestant, Foster and Thrive Nasal, Equaline Nasal, Good Neighbor Pharmacy Nasal, Signature Care Nasal Decongestant, Oxymethazoline Hcl, Topcare Nasal, Equate, Cvs Health No Drip, Exchange Select Nasal, Best Choice Maximum Strength, Dg Health Nasal, Equate Nasal, Leader Nasal Decongestant, Family Care Nasal Relief, Afrin Original, Best Choice, Basic Care No Drip Nasal, 12 Hour Original Nasal Decongestant, Up and Up Nasal, Sinufrin Quick Relief Decongestant and 102 more
+**Also sold as:** Nasal, No Drip Nasal Mist, Good Sense Nasal, Major Nasal Decongestant, Nasal Decongestant, Foster and Thrive Nasal, Equaline Nasal, Good Neighbor Pharmacy Nasal, Signature Care Nasal Decongestant, Topcare Nasal, Equate, Cvs Health No Drip, Exchange Select Nasal, Best Choice Maximum Strength, Dg Health Nasal, Equate Nasal, Leader Nasal Decongestant, Family Care Nasal Relief, Afrin Original, Best Choice, Oxymethazoline Hcl, Basic Care No Drip Nasal, 12 Hour Original Nasal Decongestant, Up and Up Nasal, Sinufrin Quick Relief Decongestant and 102 more
 
 ## Active ingredients
 

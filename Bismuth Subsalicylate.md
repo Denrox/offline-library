@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Bismuth  
-**Labels on file:** 216
+**Labels on file:** 211
 
-**Also sold as:** Stomach Relief Regular Strength, Stomach Relief, Stomach Relief Ultra, Equaline Stomach Relief, Kaopectate, Regular Strength Stomach Relief, Soothe, Pepto-bismol, 5-symptom Digestive Relief, Goodsense Regular Strength Stomach Relief 122, Winco Foods Stomach Relief, Nexmed Multi Symptom Stomach Relief, Ultra Strength Stomach Relief, Fevia Diarrhea Control, Ultra Strength Digestive Relief, Up and Up 5-symptom Digestive Relief, Walgreen, Maximum Strength Stomach Relief, Digestive Relief Regular Strength, Stomach Relief Maximum Strength, Pepto Relief, Stomach Relief Ultra Strength, Foster and Thrive Stomach Relief, Qc Anti Diarrheal Vanilla Regular Flavor, Heb Stomach Relief Cherry and 117 more
+**Also sold as:** Stomach Relief Regular Strength, Stomach Relief, Stomach Relief Ultra, Equaline Stomach Relief, Kaopectate, Regular Strength Stomach Relief, Pepto-bismol, 5-symptom Digestive Relief, Goodsense Regular Strength Stomach Relief 122, Winco Foods Stomach Relief, Nexmed Multi Symptom Stomach Relief, Ultra Strength Stomach Relief, Soothe, Fevia Diarrhea Control, Ultra Strength Digestive Relief, Up and Up 5-symptom Digestive Relief, Walgreen, Maximum Strength Stomach Relief, Digestive Relief Regular Strength, Stomach Relief Maximum Strength, Pepto Relief, Stomach Relief Ultra Strength, Foster and Thrive Stomach Relief, Qc Anti Diarrheal Vanilla Regular Flavor, Heb Stomach Relief Cherry and 115 more
 
 ## Active ingredients
 

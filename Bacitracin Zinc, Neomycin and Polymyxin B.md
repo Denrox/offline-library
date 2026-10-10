@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Neomycin Sulfate, Polymyxin B Sulfate  
-**Labels on file:** 171
+**Labels on file:** 167
 
-**Also sold as:** Triple Antibiotic, First Aid Antibiotic, Good Sense First Aid Antibiotic, Tribiotic, Medi-first, Thera Plus Original Strength Triple Antibiotic, Genuine First Aid Antibiotic, Triple Antibiotic Ointment, Circle K, Leader Triple Antibiotic, Antibiotic, Careall Triple Antibiotic, Antibiotic Maximum Strength, Triple Antibiotic First Aid Antibiotic, Neosporin Original, Medi-first Triple Antibiotic, Medi-first Plus Triple Antibiotic, Thompson Triple Antibiotic, Everlit Care Triple Antibiotic, American Safety and First Aid Triple Antibiotic, Ps - 2895 Triple Antibiotic , 0.5g, Health and .beyond Triple Antibiotic, Ps-2261 Triple Antibiotic, 0.5g, Unishield Triple Antibiotic, Equaline First Aid Antibiotic, Op Triple Antibiotic and 68 more
+**Also sold as:** Triple Antibiotic, First Aid Antibiotic, Good Sense First Aid Antibiotic, Tribiotic, Medi-first, Thera Plus Original Strength Triple Antibiotic, Genuine First Aid Antibiotic, Triple Antibiotic Ointment, Circle K, Leader Triple Antibiotic, Antibiotic, Careall Triple Antibiotic, Antibiotic Maximum Strength, Triple Antibiotic First Aid Antibiotic, Neosporin Original, Medi-first Triple Antibiotic, Medi-first Plus Triple Antibiotic, Thompson Triple Antibiotic, Everlit Care Triple Antibiotic, American Safety and First Aid Triple Antibiotic, Ps - 2895 Triple Antibiotic , 0.5g, Health and .beyond Triple Antibiotic, Ps-2261 Triple Antibiotic, 0.5g, Unishield Triple Antibiotic, Equaline First Aid Antibiotic, Op Triple Antibiotic and 66 more
 
 ## Active ingredients
 

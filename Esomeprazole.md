@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Esomeprazole Magnesium, Esomeprazole Magnesium Dihydrate, Esomeprazole Magnesium Trihydrate  
 **Drug class:** Proton Pump Inhibitor  
-**Labels on file:** 113
+**Labels on file:** 112
 
 **Also sold as:** Nexium 24hr, Acid Reducer, Berkley and Jensen Heartburn Treatment, Foster and Thrive Acid Reducer, Nexium 24hr Clearminis, Basic Care Esomeprazole Magnesium, Dg Health Esomeprazole Magnesium, Equate Esomeprazole Magnesium, Good Sense Esomeprazole Magnesium, Signature Care Esomeprazole Magnesium, Up and Up Esomeprazole Magnesium, Esomeprazole Magnesium Delayed-release 20 Mg Mini, Careone Esomeprazole Magnesium, 24 Hour Esomeprazole Magnesium, Kirkland Signature Esomeprazole Magnesium, Goodmeds Acid Reducer 24hr Esomeprazole Magnesium Delayed-release 20mg, Exchange Select Esomeprazole Magnesium, Esomeprazole Magnesium Delayed-release 20 Mg (otc), Esomeprazole Magnesium Delayed Release 20 Mg Mini, Topcare Esomeprazole Magnesium, Members Mark Esomeprazole Magnesium, Good Neighbor Pharmacy Esomeprazole Magnesium, Esomeprazole Magnesium Minis, Leader Esomeprazole Magnesium
 

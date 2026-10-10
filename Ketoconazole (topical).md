@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Azole Antifungal  
-**Labels on file:** 14
+**Labels on file:** 12
 
-**Also sold as:** Anti Dandruff, Nizoral, Ishancare Balanitis Cleansing, Anti-fungal, Ketoconclear Cream, Anti-dandruff, Tagrit Antifungal Treament Ketoconazole 1%, Gembooxt Ketoconazole 1% Medicated Shampoos, Cysndra Ketoconazole 1% Medicated Shampoos, Gemachlich Zuhause Ketoconazole 1% Anti-dandruff Shampoos
+**Also sold as:** Anti Dandruff, Nizoral, Ishancare Balanitis Cleansing, Anti-fungal, Ketoconclear Cream, Anti-dandruff, Tagrit Antifungal Treament Ketoconazole 1%, Gembooxt Ketoconazole 1% Medicated Shampoos
 
 ## Active ingredients
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Cetirizine Hydrochloride  
-**Labels on file:** 363
+**Labels on file:** 362
 
-**Also sold as:** Allergy Relief, Childrens Allergy Relief, Zyrtec Allergy, All Day Allergy Relief, All Day Allergy, Childrens All Day Allergy, Childrens Zyrtec, Good Sense All Day Allergy, Good Sense Childrens All Day Allergy, 24 Hour Allergy, Careone Allergy Relief, Dg Health All Day Allergy, Basic Care All Day Allergy, Careone Childrens Allergy Relief, Topcare All Day Allergy, Up and Up Childrens Allergy, Childrens Dye Free Allergy Relief, Zyrtec Hives, Topcare Childrens All Day Allergy, Childrens 24 Hour Allergy, Basic Care Childrens All Day Allergy, Leader Childrens All Day Allergy, Childrens Allergy, Childrens Zyrtec Allergy, Amazon Basic Care All Day Allergy Relief and 64 more
+**Also sold as:** Allergy Relief, Childrens Allergy Relief, Zyrtec Allergy, All Day Allergy Relief, All Day Allergy, Childrens All Day Allergy, Childrens Zyrtec, Good Sense All Day Allergy, Good Sense Childrens All Day Allergy, 24 Hour Allergy, Careone Allergy Relief, Dg Health All Day Allergy, Basic Care All Day Allergy, Careone Childrens Allergy Relief, Topcare All Day Allergy, Up and Up Childrens Allergy, Childrens Dye Free Allergy Relief, Zyrtec Hives, Topcare Childrens All Day Allergy, Childrens 24 Hour Allergy, Basic Care Childrens All Day Allergy, Leader Childrens All Day Allergy, Childrens Allergy, Childrens Zyrtec Allergy, Allergy Relief Childrens and 63 more
 
 ## Active ingredients
 

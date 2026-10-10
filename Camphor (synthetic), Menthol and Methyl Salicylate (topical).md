@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 59
+**Labels on file:** 58
 
-**Also sold as:** Pain Relief Patches, Eagle Brand Medicated Oil Aromatic, Wong To Yick External Analgesic, Eagle Brand Medicated Roll On Aromatic, Solstice Pain Relieving, Eagle Medicated Aromatic, Medicated Pain Relief Patches, Qian Li Zhui Feng Pain Relieving, Herbal Balm, Rayo Active Ice, Rayo Active Heat, Rayo Power Ice Heat Dual Action, Rayo Breath Chamomile, Rayo Active Ice Sachet, Pain Relieving Patches, Cvs Health Pain-relieving Patch, Ultra Strength Muscle Rub - Cvs Health Ultra Strength Muscle Rub, Bonica Easex Pain Relieving, Careland Kinesiology Pain Relieving Tape, Sync Pro, Sinsin Mulpas, Medicated Pain Relief Patch, Topcare Medicated Pain Relieving Patch 60ct, White Flower Analgesic Balm Floral Scented, Theracare Medicated Pain Relief and 29 more
+**Also sold as:** Pain Relief Patches, Eagle Brand Medicated Oil Aromatic, Wong To Yick External Analgesic, Eagle Brand Medicated Roll On Aromatic, Solstice Pain Relieving, Eagle Medicated Aromatic, Medicated Pain Relief Patches, Qian Li Zhui Feng Pain Relieving, Herbal Balm, Rayo Active Ice, Rayo Active Heat, Rayo Power Ice Heat Dual Action, Rayo Breath Chamomile, Rayo Active Ice Sachet, Pain Relieving Patches, Cvs Health Pain-relieving Patch, Ultra Strength Muscle Rub - Cvs Health Ultra Strength Muscle Rub, Bonica Easex Pain Relieving, Careland Kinesiology Pain Relieving Tape, Sync Pro, Sinsin Mulpas, Medicated Pain Relief Patch, Topcare Medicated Pain Relieving Patch 60ct, White Flower Analgesic Balm Floral Scented, Theracare Medicated Pain Relief and 28 more
 
 ## Active ingredients
 

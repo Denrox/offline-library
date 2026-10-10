@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Doxylamine Succinate  
-**Labels on file:** 51
+**Labels on file:** 50
 
-**Also sold as:** Sleep Aid, Nighttime Sleep Aid, Topcare Sleep Aid, Good Sense Sleep Aid Ultra, Unisom Sleeptabs, Zzzquil Ultra, Travel Basix, Zzzquil Ultra, Lil Drug Store, Up and Up Nighttime Sleep Aid, Berkley and Jensen Sleep Aid, Nighttime Sleep Aid, 24-7 Life By 7-eleven, Vicks Nyquil Allergy, Sleep Aid Ultra, Ultra Sleep Aid, Sleep-aid, Walgreens Nighttime Allergy Relief, Sleep Aid 25mg, Dg Health Sleep Aid, Sambrosa Night, Vicks Zzzquil Ultra, Nocto Sleep Aid, Night Time Sleep Aid, Basic Care Sleep Aid, Good Sense Sleep Aid, Careone Nighttime Sleep Aid
+**Also sold as:** Sleep Aid, Nighttime Sleep Aid, Topcare Sleep Aid, Good Sense Sleep Aid Ultra, Unisom Sleeptabs, Zzzquil Ultra, Travel Basix, Zzzquil Ultra, Lil Drug Store, Up and Up Nighttime Sleep Aid, Berkley and Jensen Sleep Aid, Nighttime Sleep Aid, 24-7 Life By 7-eleven, Vicks Nyquil Allergy, Sleep Aid Ultra, Ultra Sleep Aid, Sleep-aid, Walgreens Nighttime Allergy Relief, Sleep Aid 25mg, Dg Health Sleep Aid, Sambrosa Night, Nocto Sleep Aid, Night Time Sleep Aid, Basic Care Sleep Aid, Good Sense Sleep Aid, Careone Nighttime Sleep Aid
 
 ## Active ingredients
 

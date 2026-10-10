@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Phenylephrine Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 19
+**Labels on file:** 18
 
-**Also sold as:** Rugby Chest Congestion Relief Pe, Foster and Thrive Chest Congestion Relief Pe Pe, Deconex Ir, Always Save Mucus Relief Pe, Gnp Mucus Relief Pe, Cvs, Mucinex Childrens Stuffy Nose and Chest Congestion, Drx Choice Childrens Stuffy Nose and Chest Congestion, Walgreens, Giltuss Sinus and Chest Congestion, Supress-pe Pediatric, Cvs Health Chest Congestion Relief Pe, Ed Bron Gp, Topcare Chest Congestion and Sinus Congestion Relief Pe, Mucus Relief Pe, Tusnel Pediatric Drops, Pharbinex-pe, Gilphex, Sunmark Chest Congestion Relief Pe Pe
+**Also sold as:** Foster and Thrive Chest Congestion Relief Pe Pe, Deconex Ir, Always Save Mucus Relief Pe, Gnp Mucus Relief Pe, Cvs, Mucinex Childrens Stuffy Nose and Chest Congestion, Drx Choice Childrens Stuffy Nose and Chest Congestion, Walgreens, Giltuss Sinus and Chest Congestion, Supress-pe Pediatric, Cvs Health Chest Congestion Relief Pe, Ed Bron Gp, Topcare Chest Congestion and Sinus Congestion Relief Pe, Mucus Relief Pe, Tusnel Pediatric Drops, Pharbinex-pe, Gilphex, Sunmark Chest Congestion Relief Pe Pe
 
 ## Active ingredients
 

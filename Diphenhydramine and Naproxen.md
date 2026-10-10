@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Naproxen Sodium, Diphenhydramine Hydrochloride  
-**Labels on file:** 20
+**Labels on file:** 19
 
 **Also sold as:** All Night Pain Relief Pm, Aleve Pm, Topcare All Night Pain Relief Pm, Naproxen Sodium Pm, Careone Naproxen Sodium Pm, Dg Health Naproxen Sodium Pm, Basic Care Naproxen Sodium Pm, Up and Up Naproxen Sodium Pm, Equaline Naproxen Sodium Pm, Good Sense Naproxen Sodium
 

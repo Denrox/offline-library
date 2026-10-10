@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Docusate Sodium, Docusate Calcium  
-**Labels on file:** 202
+**Labels on file:** 201
 
-**Also sold as:** Stool Softener Laxative, Stool Softener, Stool Softener Extra Strength, Stool Softener Laxative Extra Strength, Topcare Stool Softener, Gentle Stool Softener, Preferred Stool Softener, Prolaxa, Heb Stool Softener, Quality Choice Stool Softener, Winco Stool Softener, Cvs Stool Softener Fruit Punch, Pedia-lax, Exchange Select Stool Softener, Stool Softener Regular Strength, Rite Aid Stool Softener, Dulcolax Pink Stool Softener, Colace Extra Strength Stool Softner, Basic Care Stool Softener, Good Sense Stool Softener, Fevia Constipation Control, Fleet, Mirasoft Stool Softener, Quality Choice Stool Softener Laxative, Dok and 18 more
+**Also sold as:** Stool Softener Laxative, Stool Softener, Stool Softener Extra Strength, Stool Softener Laxative Extra Strength, Topcare Stool Softener, Gentle Stool Softener, Preferred Stool Softener, Prolaxa, Heb Stool Softener, Quality Choice Stool Softener, Winco Stool Softener, Cvs Stool Softener Fruit Punch, Pedia-lax, Exchange Select Stool Softener, Stool Softener Regular Strength, Rite Aid Stool Softener, Dulcolax Pink Stool Softener, Colace Extra Strength Stool Softner, Basic Care Stool Softener, Good Sense Stool Softener, Fevia Constipation Control, Fleet, Quality Choice Stool Softener Laxative, Dok, Walgreens Stool Softener Fruit Punch and 17 more
 
 ## Active ingredients
 

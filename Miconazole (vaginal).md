@@ -4,9 +4,9 @@
 
 **Route:** vaginal  
 **Ingredient forms:** Miconazole Nitrate  
-**Labels on file:** 48
+**Labels on file:** 47
 
-**Also sold as:** Monistat 7 with Reusable Applicator, Gemachlich Zu Hause Vaginal Antifungal Gel, Vagisil Brand Vagistat, Lagicam Antifungal, Vagisten-v 7 Day, Monistat 7 7-day Disposable Applicators, Monistat 3 3 Day, Good Sense Miconazole 7, Foster and Thrive Miconazole, Dg Health Miconazole, Hers Miconazole 3, Signature Care Miconazole 7, Topcare Miconazole 7, Basic Care Miconazole 7, Good Neighbor Pharmacy Miconazole 7, Equaline Miconazole 7, Good Sense Miconazole 3, Topco Miconazole 3, Foster and Thrive Miconazole 7, Up and Up Miconazole 7, Basic Care Miconazole 3, Careone Miconazole 7
+**Also sold as:** Monistat 7 with Reusable Applicator, Vagisil Brand Vagistat, Lagicam Antifungal, Vagisten-v 7 Day, Monistat 7 7-day Disposable Applicators, Monistat 3 3 Day, Good Sense Miconazole 7, Foster and Thrive Miconazole, Dg Health Miconazole, Hers Miconazole 3, Signature Care Miconazole 7, Topcare Miconazole 7, Basic Care Miconazole 7, Good Neighbor Pharmacy Miconazole 7, Equaline Miconazole 7, Good Sense Miconazole 3, Topco Miconazole 3, Foster and Thrive Miconazole 7, Up and Up Miconazole 7, Basic Care Miconazole 3, Careone Miconazole 7
 
 ## Active ingredients
 

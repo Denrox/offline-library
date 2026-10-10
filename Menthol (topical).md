@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 522
+**Labels on file:** 518
 
-**Also sold as:** Pain Release, Super White Stuff Pain Relief, Pain Relief, Activice, Premieres Pain, Ralli Rapid Pain Relief, Vapor Shower, Stopain Clinical, Elgin Pain Relief, Point Relief Cold Spot Pain Relieving, Just Cbd Roll-on Cooling, Hot and Cold Medicated Patch, Maximum Strength Medicated Foot Powder, Stopain Extra Strength Gel, Cvs Cold and Hot, Medicated Body Powder, Insect Bite Relief 01, Dch Cooling Pain Relief, Careall Musle and Joint, Fortify, Coralite Cold and Hot, Stopain Extra Strength Continuous, Feel Good Labs Sport Recovery, Overnight Relief Gel-patch, Xpect Stopain Clinical and 415 more
+**Also sold as:** Pain Release, Super White Stuff Pain Relief, Pain Relief, Activice, Premieres Pain, Ralli Rapid Pain Relief, Vapor Shower, Stopain Clinical, Elgin Pain Relief, Point Relief Cold Spot Pain Relieving, Just Cbd Roll-on Cooling, Hot and Cold Medicated Patch, Maximum Strength Medicated Foot Powder, Stopain Extra Strength Gel, Cvs Cold and Hot, Insect Bite Relief 01, Dch Cooling Pain Relief, Careall Musle and Joint, Fortify, Coralite Cold and Hot, Stopain Extra Strength Continuous, Feel Good Labs Sport Recovery, Overnight Relief Gel-patch, Xpect Stopain Clinical, Lightning Pain Relief and 412 more
 
 ## Active ingredients
 

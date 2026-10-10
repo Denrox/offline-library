@@ -4,9 +4,9 @@
 
 **Route:** nasal  
 **Ingredient forms:** Fluticasone Propionate, Fluticasone Furoate  
-**Labels on file:** 77
+**Labels on file:** 76
 
-**Also sold as:** Flonase Sensimist Allergy Relief, Allergy Relief, Allergy Relief Nasal, Childrens Allergy Relief, Good Sense 24 Hour Allergy Nasal, Allergy Nasal, Childrens Flonase Allergy Relief, Equate Allergy Relief, Topcare Childrens Allergy Relief Nasal 24 Hour, Topcare Allergy Relief Nasal, Careone Childrens Allergy Relief, Mucinex Nasal Congestion and Allergy Relief, Dg Health Childrens Allergy Relief Nasal, Up and Up Allergy Relief Nasal, Careone Allergy Relief, Dg Health Allergy Relief Nasal, Childrens Nasopro, Foster and Thrive Allergy Relief, Basic Care Allergy Relief Nasal, 24 Hour Allergy Nasal, Equate Childrens Allergy Relief, Nasopro 24, Flonase Allergy Relief, Childrens Allergy, Kirkland Signature Aller Flo and 12 more
+**Also sold as:** Flonase Sensimist Allergy Relief, Allergy Relief, Allergy Relief Nasal, Good Sense 24 Hour Allergy Nasal, Allergy Nasal, Childrens Allergy Relief, Childrens Flonase Allergy Relief, Equate Allergy Relief, Topcare Childrens Allergy Relief Nasal 24 Hour, Topcare Allergy Relief Nasal, Careone Childrens Allergy Relief, Mucinex Nasal Congestion and Allergy Relief, Dg Health Childrens Allergy Relief Nasal, Up and Up Allergy Relief Nasal, Careone Allergy Relief, Dg Health Allergy Relief Nasal, Childrens Nasopro, Foster and Thrive Allergy Relief, Basic Care Allergy Relief Nasal, 24 Hour Allergy Nasal, Equate Childrens Allergy Relief, Nasopro 24, Flonase Allergy Relief, Childrens Allergy, Kirkland Signature Aller Flo and 12 more
 
 ## Active ingredients
 

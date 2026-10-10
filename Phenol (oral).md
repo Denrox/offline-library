@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 35
+**Labels on file:** 33
 
-**Also sold as:** Sore Throat, Sore Throat Cherry, Sore Throat Relief Cherry Flavor, Sore Throat Relief, Sore Throat Readyincase, Chloraseptic Childrens Sore Throat Cherry, Rugby Cherry Flavor, Cvs Health Sore Throat Fast Relief Oral Anesthetic, Topcare Cherry Flavor, Nice Sore Throat Cherry, Nice Sore Throat Spearmint, Nice Sore Throat Honey Lemon, Cvs Sore Throat Menthol Flavor, Cvs Sore Throat Cherry, Publix Sore Throat Fast Relief Oral Anesthetic, Publix Sore Throat Menthol Flavor, Signature Care Sore Throat Cherry Flavor, Abc Sore Throat Menthol Flavor, Chloraseptic Warming Sore Throat, Good Neighbor Sore Throat Cherry Flavor, Diabetic Tussin Sore Throat Cherry, Sore Throat Relief Menthol, Sore Throat Relief Cherry, Quality Choice Sore Throat, Chloraseptic Sore Throat Cherry and 5 more
+**Also sold as:** Sore Throat Cherry, Sore Throat, Sore Throat Relief Cherry Flavor, Sore Throat Readyincase, Chloraseptic Childrens Sore Throat Cherry, Rugby Cherry Flavor, Cvs Health Sore Throat Fast Relief Oral Anesthetic, Topcare Cherry Flavor, Nice Sore Throat Cherry, Nice Sore Throat Spearmint, Nice Sore Throat Honey Lemon, Cvs Sore Throat Menthol Flavor, Cvs Sore Throat Cherry, Publix Sore Throat Fast Relief Oral Anesthetic, Publix Sore Throat Menthol Flavor, Signature Care Sore Throat Cherry Flavor, Abc Sore Throat Menthol Flavor, Chloraseptic Warming Sore Throat, Good Neighbor Sore Throat Cherry Flavor, Diabetic Tussin Sore Throat Cherry, Sore Throat Relief Menthol, Sore Throat Relief Cherry, Quality Choice Sore Throat, Chloraseptic Sore Throat Cherry, Chloraseptic Sore Throat Citrus and 4 more
 
 ## Active ingredients
 

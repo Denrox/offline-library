@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Ranitidine Hydrochloride  
-**Labels on file:** 4
+**Labels on file:** 3
 
-**Also sold as:** Acid Reducer, Ranitidine Cool Mint
+**Also sold as:** Acid Reducer
 
 ## Active ingredients
 

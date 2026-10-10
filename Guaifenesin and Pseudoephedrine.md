@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Pseudoephedrine Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 45
+**Labels on file:** 43
 
 **Also sold as:** Mucus Relief D, Mucus D, Mucinex D, Equate Mucus D, Foster and Thrive Mucus Relief D, Leader Mucus Relief D, Nasal and Chest Decongestant, Maximum Strength Mucus D, Poly-vent Ir, Mucinex D Maximum Strength, Guaifenesin D
 

@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 121
+**Labels on file:** 120
 
 **Also sold as:** Sore Mouth Cleanser, Everlit Care Products Antiseptic Mist, Aplicare, Prevention Mouth Sore Rinse, Aeroaid, Kericleanz Antiseptic, First Shield, Medi-first First Aid Antiseptic, American Safety First Aid Antispetic, Hydrogen Peroxide 3 Percent, Humco Hydrogen Peroxide, Medi-first Hydrogen Peroxide, Green Guard Hydrogen Peroxide, Quality Choice Hydrogen Peroxide Wipes, Walgreens 3 Hydrogen Peroxide Wipes, Jianerkang One Fluid Ounce Hydrogen Peroxide, Biopure 3 Hydrogen Peroxide, American Red Cross 6oz, 3% Hydrogen Peroxide, Meijer 3 Hydrogen Peroxide Wipes, Medichoice of Hydrogen Peroxide 3 10 Volume, Hydrogen Peroxide First Aid Antiseptic, Wish Hydrogen Peroxide, Oopsie 3 Hydrogen Peroxide, Dop Hydrogen Peroxide 3%, Xpect Hydrogen Peroxide and 14 more
 

@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 1305
+**Labels on file:** 1298
 
-**Also sold as:** Wart Remover, Bhs Beautiful Hair and Scalp, Oil Free Acne Wash, Medicated Apricot Scrub, Wart Remover Patches, Acne Scrub, Almay Clear Complexion Concealer, Good Molecules Acne Foaming Cleanser, Dvo Wart Remover, Liquid Wart Remover, 24 Pk Blemish Dot, Vichy Laboratoires Normaderm Acne Control Daily Moisturizer, Body Wash, Acne Body Wash, Acne Wash, Dr. Groot Anti-dandruff Scalp Care, Dr. Groot Anti-dandruff Scalp Care 2 in 1, Blemish Dots - Retinol (10 Patches), Blemish Dots - Charcoal (10 Patches), Shea Moisture, Oribe Serene Scalp Anti Dandruff, Peace Out Acne, Healmusz Wart Remover, Neutrogena Oil Free Acne Wash, Clarifying Cleanser and 1058 more
+**Also sold as:** Wart Remover, Bhs Beautiful Hair and Scalp, Oil Free Acne Wash, Medicated Apricot Scrub, Wart Remover Patches, Acne Scrub, Almay Clear Complexion Concealer, Good Molecules Acne Foaming Cleanser, Dvo Wart Remover, Liquid Wart Remover, 24 Pk Blemish Dot, Vichy Laboratoires Normaderm Acne Control Daily Moisturizer, Body Wash, Acne Body Wash, Acne Wash, Dr. Groot Anti-dandruff Scalp Care, Dr. Groot Anti-dandruff Scalp Care 2 in 1, Blemish Dots - Retinol (10 Patches), Blemish Dots - Charcoal (10 Patches), Shea Moisture, Oribe Serene Scalp Anti Dandruff, Peace Out Acne, Healmusz Wart Remover, Neutrogena Oil Free Acne Wash, Clarifying Cleanser and 1051 more
 
 ## Active ingredients
 

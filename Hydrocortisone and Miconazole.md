@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Miconazole Nitrate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 3
+**Labels on file:** 1
 
-**Also sold as:** Gembooxt Ringworm Cream, Nerante Antifungal Cream, Cysndra Ringworm Cream
+**Also sold as:** Gembooxt Ringworm Cream
 
 ## Active ingredients
 

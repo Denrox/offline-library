@@ -4,7 +4,7 @@
 
 **Route:** topical, transdermal  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 3
+**Labels on file:** 2
 
 **Also sold as:** Equate Pain Relieving Patches, Welmate Lidocaine Pain Relieving Patch
 

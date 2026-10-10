@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 34
+**Labels on file:** 33
 
-**Also sold as:** Fiber Laxative, Fiber Caplets, Fiber Lax, Fibercon, Publix, Rite Aid Fiber Caplets, Amazon Fiber Caplets, Fiber Caplets 147, Goodsense Fiber Laxative 147, Best Choice, Quality Choice Fiber Caplets, Equalactin Laxative, Fiber Caps, Fiber Therapy, Good Neighbor Pharmacy Fiber-caps Fiber Laxative Stimulant Free, Premier Value, Foster and Thrive Fiber Laxative 147, Walgreen Fiber Lax, Fiber Tabs, Up and Up Fiber Therapy, Fiber Laxative Caplets, Quality Choice
+**Also sold as:** Fiber Laxative, Fiber Caplets, Fiber Lax, Fibercon, Publix, Rite Aid Fiber Caplets, Amazon Fiber Caplets, Fiber Caplets 147, Goodsense Fiber Laxative 147, Best Choice, Quality Choice Fiber Caplets, Equalactin Laxative, Fiber Caps, Fiber Therapy, Good Neighbor Pharmacy Fiber-caps Fiber Laxative Stimulant Free, Premier Value, Foster and Thrive Fiber Laxative 147, Walgreen Fiber Lax, Fiber Tabs, Up and Up Fiber Therapy, Quality Choice
 
 ## Active ingredients
 

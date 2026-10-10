@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Doxylamine Succinate  
-**Labels on file:** 201
+**Labels on file:** 199
 
-**Also sold as:** Nighttime Cold and Flu, Nighttime Cold and Flu Relief, Cold and Flu Nighttime, Night Time Cold and Flu Relief Multi Symptom, Cold and Flu, Cold and Flu Relief Nighttime, Good Sense Night Time, Nitetime Cold and Flu, Nighttime, Basic Care Nighttime Cold and Flu, Equaline Nighttime Cold and Flu Relief, Equate Nighttime Cold and Flu, Meijer Nighttime Cold and Flu Softgel, Nighttime Cherry Cold and Flu, Kroger Nighttime Cold and Flu Softgel, Nuvicare Nighttime Cold and Flu Softgel, Topcare Nite Time Cold and Flu Relief, Dg Health Cold and Flu Relief, Cold and Flu Relief, Night Time, Topcare Nite Time Cold and Flu, Viro Flu Pm Relief, Good Neighbor Pharmacy Night Time, Cold and Flu Relief Multi Symptom Nighttime, Circle K Nighttime Cold and Flu and 84 more
+**Also sold as:** Nighttime Cold and Flu, Nighttime Cold and Flu Relief, Cold and Flu Nighttime, Night Time Cold and Flu Relief Multi Symptom, Cold and Flu, Cold and Flu Relief Nighttime, Good Sense Night Time, Nitetime Cold and Flu, Nighttime, Basic Care Nighttime Cold and Flu, Equaline Nighttime Cold and Flu Relief, Equate Nighttime Cold and Flu, Meijer Nighttime Cold and Flu Softgel, Nighttime Cherry Cold and Flu, Kroger Nighttime Cold and Flu Softgel, Nuvicare Nighttime Cold and Flu Softgel, Topcare Nite Time Cold and Flu Relief, Dg Health Cold and Flu Relief, Cold and Flu Relief, Night Time, Topcare Nite Time Cold and Flu, Viro Flu Pm Relief, Good Neighbor Pharmacy Night Time, Cold and Flu Relief Multi Symptom Nighttime, Circle K Nighttime Cold and Flu and 83 more
 
 ## Active ingredients
 

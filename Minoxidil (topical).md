@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Minoxidil Sulfate  
 **Drug class:** Arteriolar Vasodilator  
-**Labels on file:** 231
+**Labels on file:** 228
 
-**Also sold as:** Hair Regrowth Treatment, Good Sense Hair Regrowth Treatment, Basic Care Hair Regrowth Treatment, Equate Hair Regrowth Treatment, Hair Regen - Hair Regrowth Treatment, Hair Regen Hair Regrowth Treatment, Hers Hair Regrowth Treatment, Hims Hair Regrowth Treatment, Members Mark Hair Regrowth Treatment, Regoxidine (for Men), Womens Rogaine Unscented, Growplex Vitafoam, Regoxidine (for Women), Regenivade Hair Growth Foam, Elevate Hair Growth Serum, Remixdil Hair Regrowth Treatment For Women, Elevate Hair Regrowth Treatment 5, Soti Hair Growth Serum, Hair Regen Hair Growth Treatment, Hair-regen Hair Growth Treatment, Hair Regrowth Foam, Happy Head Womens Hair Regrowth Treatment, Hair Beardgrowth Foam, 5%minoxidil Hair Growth Serum, 5%minoxidil Hair Growth Sprays Serum and 119 more
+**Also sold as:** Hair Regrowth Treatment, Good Sense Hair Regrowth Treatment, Basic Care Hair Regrowth Treatment, Equate Hair Regrowth Treatment, Hair Regen - Hair Regrowth Treatment, Hair Regen Hair Regrowth Treatment, Hims Hair Regrowth Treatment, Members Mark Hair Regrowth Treatment, Regoxidine (for Men), Womens Rogaine Unscented, Growplex Vitafoam, Hers Hair Regrowth Treatment, Regoxidine (for Women), Regenivade Hair Growth Foam, Elevate Hair Growth Serum, Remixdil Hair Regrowth Treatment For Women, Elevate Hair Regrowth Treatment 5, Soti Hair Growth Serum, Hair Regen Hair Growth Treatment, Hair-regen Hair Growth Treatment, Hair Regrowth Foam, Happy Head Womens Hair Regrowth Treatment, Hair Beardgrowth Foam, 5%minoxidil Hair Growth Serum, 5%minoxidil Hair Growth Sprays Serum and 117 more
 
 ## Active ingredients
 

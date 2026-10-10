@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 34
+**Labels on file:** 33
 
-**Also sold as:** Vitamin A and D, Vitamin A D, Diaper Rash Skin Protectant, Veradex-e, Theracare A and D, Gentle Steps Vitamins A and D Diaper Rash and Skin Protectant, Baby Vitamin A and D, First Aid A and D, Kidgets Baby Petroleum Jelly with Vitamin A D, Skin Protectant For Babies and Kids, Supraderm, Multi-purpose Skin Protectant, Target Vitamin A and D Diaper Rash, Ldr Vitamans A and D, Ad First Aid Multipurpose, Walgreens Vitamin A and D Skin Protectant, Grandma Els, Mama Bear Diaper Rash Skin Protectant, Ad Prevent Original, Ad Skin Protectant, Ad Anti-chafing, Jell with Vitamin A D, Fds Intimate Whole Body Medicated Chafing, A and D Diaper Rash and Skin Protectant, Cvs Health Vitamin A and D Skin Protectant
+**Also sold as:** Vitamin A and D, Vitamin A D, Diaper Rash Skin Protectant, Veradex-e, Theracare A and D, Gentle Steps Vitamins A and D Diaper Rash and Skin Protectant, Baby Vitamin A and D, First Aid A and D, Kidgets Baby Petroleum Jelly with Vitamin A D, Skin Protectant For Babies and Kids, Supraderm, Multi-purpose Skin Protectant, Target Vitamin A and D Diaper Rash, Ad First Aid Multipurpose, Walgreens Vitamin A and D Skin Protectant, Grandma Els, Mama Bear Diaper Rash Skin Protectant, Ad Prevent Original, Ad Skin Protectant, Ad Anti-chafing, Jell with Vitamin A D, Fds Intimate Whole Body Medicated Chafing, A and D Diaper Rash and Skin Protectant, Cvs Health Vitamin A and D Skin Protectant
 
 ## Active ingredients
 

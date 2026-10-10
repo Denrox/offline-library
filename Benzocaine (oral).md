@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 31
+**Labels on file:** 30
 
-**Also sold as:** Topicale, Oral Pain Relief, Topicale Xtra, Finafta Multioral, Rite Aid Maximum Strength, Oral Anesthetic Liquid, Cankermelts, Equate Orasol, Mouth Sore Relief Professional Strength, Walgreens Mouth Sore Relief, Rite Aid Professional Strength, Onral Oral Pain Reliever Mouthwash, Topcare Maximum Strength, Walgreens Pain Relief, Tanac Oral Pain Reliever, Walgreens Maximum Strength, Rexall Maximum Strength, Cvs Pharmacy Maximum Strength, Family Wellness Pain Relief, Nbe Anbesol, Sheffield Pain Relief
+**Also sold as:** Topicale, Oral Pain Relief, Topicale Xtra, Finafta Multioral, Rite Aid Maximum Strength, Oral Anesthetic Liquid, Cankermelts, Equate Orasol, Mouth Sore Relief Professional Strength, Walgreens Mouth Sore Relief, Rite Aid Professional Strength, Onral Oral Pain Reliever Mouthwash, Walgreens Pain Relief, Tanac Oral Pain Reliever, Walgreens Maximum Strength, Rexall Maximum Strength, Cvs Pharmacy Maximum Strength, Family Wellness Pain Relief, Nbe Anbesol, Sheffield Pain Relief
 
 ## Active ingredients
 

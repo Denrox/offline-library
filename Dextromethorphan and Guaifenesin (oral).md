@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Dextromethorphan Hydrochloride  
 **Drug class:** Expectorant  
-**Labels on file:** 414
+**Labels on file:** 413
 
 **Also sold as:** Mucus Relief Dm, Mucus Relief Dm Extended Release Caplets, Tussin Dm, Mucinex Dm, Mucus Relief Dm Maximum Strength, Childrens Mucus and Cough Relief, Tussin, Mucus Dm, Guaiasorb Dm, Mucus Relief Dm Max, Good Sense Tussin Dm, Mucus Dm Extended Release, Adult Tussin Dm, Good Sense Mucus Dm, Rugby Mucus Relief Dm Er, Mucus Relief Cough and Congestion Dm, Robafen Dm, Tussin Dm Max, Maximum Strength Mucus Relief Dm, Equaline Mucus Dm, Mucus Relief Dm Max Maximum Strength, Geri-tussin Dm, Mucinex Dm Maximum Strength, Childrens Robitussin Cough and Chest Congestion Dm, Quality Choice Mucus Relief Dm Dm and 222 more
 

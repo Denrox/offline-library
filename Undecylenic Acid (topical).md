@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 120
+**Labels on file:** 118
 
-**Also sold as:** Osimoon Fungal Nail Treatment Kit, Bee Venom Toenail Fungus Treatment, Nail Repair Pen, Lyssera Fungal Nail Renewal, Antifungal Pen, Hongo Killer, Totclear Nail Renewal, Tripenicol C, Vite20, Flush Maximum Strength Antifungal Formula, Mata Hongos, Human Science Antifungal Foot Care, Tobcharm Antifungal Treatment Cream, South Beach Multi-purpose Nail Repair, Gemachlich Zuhause Fungal Nail Revitalizer, Tegasolve Toenail Fungus Treatment, Omzok Antifungal Pen, Pharmbanner Fungal Nail Renewal, Toenail Fungus Treatment, Oetmoe Antifungal Solution, Curanails Antifungal Pen, Tobcharm Fungus Nail Renewal, Arflom Toenail Fungus Treatment Liquid, Vtrouy Fungus Nail Renewal, Alphatip Nail Repair Pen and 87 more
+**Also sold as:** Osimoon Fungal Nail Treatment Kit, Bee Venom Toenail Fungus Treatment, Nail Repair Pen, Lyssera Fungal Nail Renewal, Antifungal Pen, Hongo Killer, Totclear Nail Renewal, Tripenicol C, Vite20, Flush Maximum Strength Antifungal Formula, Mata Hongos, Human Science Antifungal Foot Care, Tobcharm Antifungal Treatment Cream, South Beach Multi-purpose Nail Repair, Gemachlich Zuhause Fungal Nail Revitalizer, Tegasolve Toenail Fungus Treatment, Omzok Antifungal Pen, Pharmbanner Fungal Nail Renewal, Toenail Fungus Treatment, Oetmoe Antifungal Solution, Curanails Antifungal Pen, Tobcharm Fungus Nail Renewal, Arflom Toenail Fungus Treatment Liquid, Vtrouy Fungus Nail Renewal, Alphatip Nail Repair Pen and 85 more
 
 ## Active ingredients
 

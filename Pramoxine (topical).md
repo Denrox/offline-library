@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Pramoxine Hydrochloride  
-**Labels on file:** 28
+**Labels on file:** 27
 
-**Also sold as:** Cerave Developed with Dermatologists Itch Relief Moisturizing, Prax, Licefreee Afterlice, Terramed Just Think Comfort Gynocare Bv Guard Intimate Wash, Dermend Moisturizing Anti-itch, Sarna, First Degree Maximum Strength Burn, Prosoria Anti-itch Moisturizer, Prequel Anti-itch Solution Medicated Calming, Terramed Just Think Comfort Herpcare Intimate Wash External Analgesic For The Temporary Relief of Itching and Irritation, Aveeno Restorative Skin Therapy Itch Relief Balm, Curasore, Leader Poison Ivy Wash, Poison Ivy Wash, Cvs Anti-itch, Walgreen Anti-itch, Vagisil Anti-itch Medicated Wipes Maximum Strength, Terramed Just Think Comfort Gynocare Bv Guard Intimate Wipes, Ivarest Poison Ivy Removal and Itch Relief, Cvs Itch Relief Moisturizing, Pramoxine Hydrochloride Anorectal, Peviderm Pramoxine Hydrocholride 1%, Anti-itch Soothing Wipes 1 Pramoxine Hydrochloride, Anti Itch Soothing 1 Pramoxine Hydrochloride, Pramoxine Itch Relief
+**Also sold as:** Cerave Developed with Dermatologists Itch Relief Moisturizing, Prax, Licefreee Afterlice, Terramed Just Think Comfort Gynocare Bv Guard Intimate Wash, Dermend Moisturizing Anti-itch, Sarna, First Degree Maximum Strength Burn, Prosoria Anti-itch Moisturizer, Prequel Anti-itch Solution Medicated Calming, Terramed Just Think Comfort Herpcare Intimate Wash External Analgesic For The Temporary Relief of Itching and Irritation, Aveeno Restorative Skin Therapy Itch Relief Balm, Leader Poison Ivy Wash, Poison Ivy Wash, Cvs Anti-itch, Walgreen Anti-itch, Vagisil Anti-itch Medicated Wipes Maximum Strength, Terramed Just Think Comfort Gynocare Bv Guard Intimate Wipes, Ivarest Poison Ivy Removal and Itch Relief, Cvs Itch Relief Moisturizing, Pramoxine Hydrochloride Anorectal, Peviderm Pramoxine Hydrocholride 1%, Anti-itch Soothing Wipes 1 Pramoxine Hydrochloride, Anti Itch Soothing 1 Pramoxine Hydrochloride, Pramoxine Itch Relief
 
 ## Active ingredients
 
