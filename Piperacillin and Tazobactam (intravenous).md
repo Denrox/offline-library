@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Piperacillin Sodium, Tazobactam Sodium  
-**Labels on file:** 33
+**Labels on file:** 32
 
 **Brand and product names:** Zosyn in Galaxy Containers, Zosyn
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Diltiazem Hydrochloride, Diltiazem Hcl  
-**Labels on file:** 102
+**Labels on file:** 101
 
-**Brand and product names:** Cartia Xt, Tiadylt Er, Cardizem Cd, Cardizem La, Tiazac Extended Release, Cardizem
+**Brand and product names:** Tiadylt Er, Cartia Xt, Cardizem Cd, Cardizem La, Tiazac Extended Release, Cardizem
 
 ## Uses
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Melatonin Receptor Agonist  
-**Labels on file:** 40
+**Labels on file:** 39
 
 **Brand and product names:** Rozerem
 

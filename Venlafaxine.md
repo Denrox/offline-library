@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Venlafaxine Hydrochloride, Venlafaxine Besylate Monohydrate  
-**Labels on file:** 180
+**Labels on file:** 179
 
 **Brand and product names:** Effexor Xr
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Thiazide Diuretic  
-**Labels on file:** 137
+**Labels on file:** 136
 
 **Brand and product names:** Inzirqo
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Atomoxetine Hydrochloride  
-**Labels on file:** 50
+**Labels on file:** 49
 
 **Brand and product names:** Strattera, Atoncy
 

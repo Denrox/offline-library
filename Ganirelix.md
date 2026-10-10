@@ -4,7 +4,7 @@
 
 **Route:** subcutaneous  
 **Ingredient forms:** Ganirelix Acetate  
-**Labels on file:** 10
+**Labels on file:** 9
 
 **Brand and product names:** Fyremadel
 

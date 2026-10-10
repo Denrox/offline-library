@@ -3,9 +3,9 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Brand and product names:** Tlando, Jatenzo
+**Brand and product names:** Tlando
 
 ## Uses
 

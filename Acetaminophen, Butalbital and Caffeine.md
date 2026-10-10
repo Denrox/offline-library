@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Central Nervous System Stimulant, Methylxanthine, Barbiturate  
-**Labels on file:** 64
+**Labels on file:** 63
 
 **Brand and product names:** Butal/apap/caffeine, Fioricet, Butal/apap/caff
 

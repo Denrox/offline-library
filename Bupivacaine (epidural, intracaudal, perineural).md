@@ -4,7 +4,7 @@
 
 **Route:** epidural, intracaudal, perineural  
 **Ingredient forms:** Bupivacaine Hydrochloride  
-**Labels on file:** 8
+**Labels on file:** 7
 
 **Brand and product names:** Marcaine, Sensorcaine Mpf, Bupivacine Hcl
 
@@ -24,7 +24,7 @@ Not for intrathecal use. ( 2.1 ) Avoid use of solutions containing antimicrobial
 
 **2.2** Recommended Concentrations and Dosages of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection The dosage of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection administered varies with the anesthetic procedure, the area to be anesthetized, the vascularity of the tissues, the number of neuronal segments to be blocked, the depth of anesthesia and degree of muscle relaxation required, the duration of anesthesia desired, individual tolerance, and the physical condition of the patient. Administer the smallest dosage and concentration required to produce the desired result. The types of block and recommended Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection concentrations are shown in Table 1. Table 1. Types of Block and Recommended Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection Concentrations ✓= indicated use [see Warnings and Precautions (5.1) ]. Type of Block Bupivacaine Hydrochloride Bupivacaine Hydrochloride and Epinephrine 0.25% (2.5 mg/mL) 0.5% (5 mg/mL) 0.75% (7.5 mg/mL) Bupivacaine Hydrochloride Injection 0.75% (7.5 mg/mL) is not recommended for nonobstetrical surgical procedures in pregnant patients. 0.25% (2.5 mg/mL) 0.5% (5 mg/mL) Local infiltration ✓ ✓ Peripheral nerve block ✓ ✓ ✓ ✓ Retrobulbar block ✓ Sympathetic block ✓ Caudal block Avoid use of multiple-dose vials of Bupivacaine Hydrochloride Injection and Bupivacaine Hydrochloride and Epinephrine Injection for caudal or epidural anesthesia [see Warnings and Precautions (5.4)] . ✓ ✓ ✓ ✓ Lumbar epidural block ✓ ✓ ✓ (not for obstetrical anesthesia) ✓ ✓ Epidural test dose ✓ Dental block ✓ At recommended dosages, Bupivacaine Hydrochloride/Bupivacaine Hydrochloride and Epinephrine produces complete sensory block, but the effect on motor function differs among the three concentrations. Table 2 provides information on the expected effect on motor function for the three concentrations. Table 2. Types of Block and Recommended Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection Concentrations Bupivacaine Hydrochloride Injection Concentration Motor Function 0.25% (2.5 mg/mL) These products include Bupivacaine Hydrochloride Injection and Bupivacaine Hydrochloride and Epinephrine Injection [the epinephrine concentration (1:200,000) is not included in the table]. When used for caudal, epidural, or peripheral nerve block, produces incomplete motor block. Should be used for operations in which muscle relaxation is not important, or when another means of providing muscle relaxation is used concurrently. Onset of action may be slower than with the 0.5% (5 mg/mL) or 0.75% (7.5 mg/mL) solutions. 0.5% (5 mg/mL) Provides motor blockade for caudal, epidural, or nerve block, but muscle relaxation may be inadequate for operations in which complete muscle relaxation is essential. 0.75% (7.5 mg/mL) These are only Bupivacaine Hydrochloride Injection products [there is no 0.75% (7.5 mg/mL) concentration for Bupivacaine Hydrochloride and Epinephrine Injection]. Produces complete motor block. Most useful for epidural block in abdominal operations requiring complete muscle relaxation, and for retrobulbar anesthesia. Not for obstetrical anesthesia. …
 
-*(Shortened. The full text is in the official label: DailyMed set ID 0e6a55f0-5107-4ea9-9ee1-5c6c09bbe4a6.)*
+*(Shortened. The full text is in the official label: DailyMed set ID 42c973e2-307b-924c-e063-6394a90a737a.)*
 
 **✓= indicated use [see Warnings and Precautions (5.1) ].**
 
@@ -67,7 +67,7 @@ Not for intrathecal use. ( 2.1 ) Avoid use of solutions containing antimicrobial
 
 ## Forms and strengths
 
-Bupivacaine Hydrochloride Injection, USP is a clear, colorless solution available as: 0.5% (50 mg/10 mL) (5 mg/mL) in single-dose teartop vials. Bupivacaine Hydrochloride Injection, USP are available in multiple concentrations. See full prescribing information for detailed description of each formulation. ( 3 )
+Bupivacaine Hydrochloride Injection, USP is a clear, colorless solution available as: 0.25% (25 mg/10 mL) (2.5 mg/mL) in single-dose teartop vials. 0.25% (75 mg/30 mL) (2.5 mg/mL) in single-dose teartop vials. 0.25% (125 mg/50 mL) (2.5 mg/mL) in multiple-dose fliptop vials. 0.5% (50 mg/10 mL) (5 mg/mL) in single-dose teartop vials. 0.5% (150 mg/30 mL) (5 mg/mL) in single-dose teartop vials. 0.5% (250 mg/50 mL) (5 mg/mL) in multiple-dose fliptop vials. 0.75% (75 mg/10 mL) (7.5 mg/mL) in single-dose teartop vials. 0.75% (225 mg/30 mL) (7.5 mg/mL) in single-dose teartop vials. Bupivacaine Hydrochloride and Epinephrine Injection, USP is a clear, colorless solution available as: 0.25% (25 mg/10 mL) (2.5 mg/mL) in single-dose teartop vials. 0.25% (75 mg/30 mL) (2.5 mg/mL) in single-dose teartop vials. 0.25% (125 mg/50 mL) (2.5 mg/mL) in multiple-dose fliptop vials. 0.5% (50 mg/10 mL) (5 mg/mL) in single-dose teartop vials. 0.5% (150 mg/30 mL) (5 mg/mL) in single-dose teartop vials. 0.5% (250 mg/50 mL) (5 mg/mL) in multiple-dose fliptop vials. Bupivacaine Hydrochloride Injection, USP and Bupivacaine Hydrochloride and Epinephrine Injection, USP are available in multiple concentrations. See full prescribing information for detailed description of each formulation. ( 3 )
 
 ## Contraindications
 
@@ -91,7 +91,7 @@ Dose-Related Toxicity : Monitor cardiovascular and respiratory vital signs and p
 
 **5.7** Risk of Cardiac Arrest with Intravenous Regional Anesthesia Use (Bier Block) There have been reports of cardiac arrest and death during the use of bupivacaine for intravenous regional anesthesia (Bier Block). Information on safe dosages and techniques of administration of Bupivacaine Hydrochloride Injection in this procedure is lacking. …
 
-*(Shortened. The full text is in the official label: DailyMed set ID 0e6a55f0-5107-4ea9-9ee1-5c6c09bbe4a6.)*
+*(Shortened. The full text is in the official label: DailyMed set ID 42c973e2-307b-924c-e063-6394a90a737a.)*
 
 ## Side effects
 
@@ -125,7 +125,7 @@ Pediatric Use : Administration of Bupivacaine Hydrochloride Injection/Bupivacain
 
 **8.5** Geriatric Use Patients 65 years and over, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection. In clinical studies of bupivacaine, elderly patients reached the maximal spread of analgesia and maximal motor blockade more rapidly than younger adult patients. Differences in various pharmacokinetic parameters have been observed between elderly and younger adult patients [see Clinical Pharmacology (12.3) ]. This product is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. …
 
-*(Shortened. The full text is in the official label: DailyMed set ID 0e6a55f0-5107-4ea9-9ee1-5c6c09bbe4a6.)*
+*(Shortened. The full text is in the official label: DailyMed set ID 42c973e2-307b-924c-e063-6394a90a737a.)*
 
 ## Overdose
 
@@ -137,4 +137,4 @@ Allergic-Type Reactions Assess if the patient has had allergic-type reactions to
 
 ---
 
-*Source: FDA prescribing information via openFDA, label effective 2026-02-03, DailyMed set ID 0e6a55f0-5107-4ea9-9ee1-5c6c09bbe4a6. Public domain.*
+*Source: FDA prescribing information via openFDA, label effective 2025-12-18, DailyMed set ID 42c973e2-307b-924c-e063-6394a90a737a. Public domain.*

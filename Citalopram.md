@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Citalopram Hydrobromide  
-**Labels on file:** 89
+**Labels on file:** 88
 
 **Brand and product names:** Celexa
 

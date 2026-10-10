@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Benzodiazepine  
-**Labels on file:** 90
+**Labels on file:** 89
 
-**Brand and product names:** Loreev Xr, Ativan
+**Brand and product names:** Ativan, Loreev Xr
 
 ## ⚠ Boxed warning
 
@@ -96,7 +96,7 @@ LOREEV XR contains lorazepam, a Schedule IV controlled substance.
 
 **9.3** Dependence Physical Dependence LOREEV XR may produce physical dependence from continued therapy. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening. Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions ( 5.3 )] . To reduce the risk of withdrawal reactions, use a gradual taper to discontinue LOREEV XR or reduce the dosage [see Dosage and Administration ( 2.4 ), Warnings and Precautions ( 5.3 )] . Acute Withdrawal Signs and Symptoms Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. …
 
-*(Shortened. The full text is in the official label: DailyMed set ID 227734c1-bf01-9607-73ea-5a1f38a89bd9.)*
+*(Shortened. The full text is in the official label: DailyMed set ID c470fdee-8e18-4da9-b072-943d6b2518cf.)*
 
 ## Overdose
 
@@ -108,4 +108,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ---
 
-*Source: FDA prescribing information via openFDA, label effective 2025-10-08, DailyMed set ID 227734c1-bf01-9607-73ea-5a1f38a89bd9. Public domain.*
+*Source: FDA prescribing information via openFDA, label effective 2025-07-03, DailyMed set ID c470fdee-8e18-4da9-b072-943d6b2518cf. Public domain.*

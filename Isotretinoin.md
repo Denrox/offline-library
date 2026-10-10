@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Retinoid  
-**Labels on file:** 18
+**Labels on file:** 17
 
-**Brand and product names:** Zenatane, Absorica Ld, Absorica, Accutane, Claravis, Amnesteem
+**Brand and product names:** Absorica Ld, Absorica, Zenatane, Accutane, Claravis, Amnesteem
 
 ## ⚠ Boxed warning
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Alkaloid  
-**Labels on file:** 49
+**Labels on file:** 48
 
 **Brand and product names:** Gloperba, Mitigare, Colcrys, Lodoco
 

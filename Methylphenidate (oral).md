@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Methylphenidate Hydrochloride  
 **Drug class:** Central Nervous System Stimulant  
-**Labels on file:** 79
+**Labels on file:** 78
 
-**Brand and product names:** Metadate Cd, Concerta, Relexxii, Cotempla Xr-odt, Methylin, Quillivant Xr, Ritalin, Jornay Pm Extended-release, Ritalin La, Methylphenidate Hydrochloride (la), Methylphenidate Hydrochloride Cd
+**Brand and product names:** Metadate Cd, Concerta, Relexxii, Methylin, Quillivant Xr, Ritalin, Jornay Pm Extended-release, Ritalin La, Methylphenidate Hydrochloride (la), Methylphenidate Hydrochloride Cd
 
 ## ⚠ Boxed warning
 

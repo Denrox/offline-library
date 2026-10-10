@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Benzodiazepine  
-**Labels on file:** 54
+**Labels on file:** 53
 
 **Brand and product names:** Restoril
 

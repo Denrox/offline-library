@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Warfarin Sodium  
-**Labels on file:** 75
+**Labels on file:** 74
 
 **Brand and product names:** Jantoven
 

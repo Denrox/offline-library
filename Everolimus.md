@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Kinase Inhibitor, mTOR Inhibitor Immunosuppressant  
-**Labels on file:** 19
+**Labels on file:** 18
 
 **Brand and product names:** Afinitor, Afinitor Disperz, Torpenz, Yulithira
 

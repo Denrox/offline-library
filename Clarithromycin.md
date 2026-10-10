@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Macrolide Antimicrobial  
-**Labels on file:** 41
+**Labels on file:** 40
 
 ## Uses
 

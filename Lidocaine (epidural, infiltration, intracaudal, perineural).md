@@ -4,7 +4,7 @@
 
 **Route:** epidural, infiltration, intracaudal, perineural  
 **Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous  
-**Labels on file:** 34
+**Labels on file:** 32
 
 **Brand and product names:** Xylocaine Mpf, Xylocaine- Mpf (lidocaine Hcl ), Lidocaine Hci
 

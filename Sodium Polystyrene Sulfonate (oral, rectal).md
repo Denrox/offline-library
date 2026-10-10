@@ -4,7 +4,7 @@
 
 **Route:** oral, rectal  
 **Drug class:** Potassium Binder  
-**Labels on file:** 12
+**Labels on file:** 11
 
 ## Uses
 

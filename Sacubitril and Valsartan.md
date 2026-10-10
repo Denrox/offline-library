@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Angiotensin 2 Receptor Blocker  
-**Labels on file:** 38
+**Labels on file:** 37
 
 **Brand and product names:** Entresto
 

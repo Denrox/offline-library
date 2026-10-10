@@ -4,9 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Lipid-based Polyene Antifungal, Polyene Antifungal  
-**Labels on file:** 6
-
-**Brand and product names:** Amphotericin B Liposome
+**Labels on file:** 5
 
 ## Uses
 

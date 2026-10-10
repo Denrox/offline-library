@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Guanfacine Hydrochloride  
 **Drug class:** Central alpha-2 Adrenergic Agonist  
-**Labels on file:** 60
+**Labels on file:** 59
 
 **Brand and product names:** Intuniv
 

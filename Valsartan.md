@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Angiotensin 2 Receptor Blocker  
-**Labels on file:** 62
+**Labels on file:** 61
 
 **Brand and product names:** Diovan
 

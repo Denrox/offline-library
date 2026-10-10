@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Trospium Chloride  
-**Labels on file:** 26
+**Labels on file:** 25
 
 ## Uses
 

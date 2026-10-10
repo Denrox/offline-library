@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Muscle Relaxant  
-**Labels on file:** 158
+**Labels on file:** 157
 
 **Brand and product names:** Tanlor, Atmeksi
 

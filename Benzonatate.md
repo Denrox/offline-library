@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Non-narcotic Antitussive  
-**Labels on file:** 105
+**Labels on file:** 104
 
 ## Uses
 

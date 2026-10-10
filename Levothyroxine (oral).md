@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Levothyroxine Sodium  
-**Labels on file:** 267
+**Labels on file:** 266
 
 **Brand and product names:** Unithroid, Thyquidity, Synthroid, Tirosint Sol, Levoxyl, Tirosint
 

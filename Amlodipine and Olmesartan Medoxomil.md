@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Amlodipine Besylate  
-**Labels on file:** 16
+**Labels on file:** 15
 
 **Brand and product names:** Azor, Amlodipine Besylate and Olmesartran Medoxomil
 

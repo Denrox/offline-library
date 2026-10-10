@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Corticosteroid  
-**Labels on file:** 20
+**Labels on file:** 19
 
 **Brand and product names:** Eohilia, Uceris, Tarpeyo, Budesonide Inhalation Suspension
 

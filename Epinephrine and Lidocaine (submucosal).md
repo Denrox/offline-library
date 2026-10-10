@@ -4,7 +4,7 @@
 
 **Route:** submucosal  
 **Ingredient forms:** Lidocaine Hydrochloride, Epinephrine Bitartrate  
-**Labels on file:** 18
+**Labels on file:** 17
 
 **Brand and product names:** Xylocaine, Flavalta, Lignospan Forte, Lignospan Standard
 

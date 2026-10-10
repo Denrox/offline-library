@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Antifibrinolytic Agent  
-**Labels on file:** 32
+**Labels on file:** 31
 
 **Brand and product names:** Cyklokapron
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Tizanidine Hydrochloride  
-**Labels on file:** 129
+**Labels on file:** 127
 
 **Brand and product names:** Zanaflex, Ontralfy, Tizandine, Tizanidne Hydrochloride
 

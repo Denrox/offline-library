@@ -4,9 +4,9 @@
 
 **Route:** dental  
 **Ingredient forms:** Chlorhexidine Gluconate  
-**Labels on file:** 11
+**Labels on file:** 10
 
-**Brand and product names:** Chlorhexidine Gluconate Oral Rinse, Chlorhexidine Gluconate, 0.12% Oral Rinse Solution, Cleancare Chlorhexidine Gluconate 0.12% Oral Rinse, Chlorhexidine Gluconate, 0.12% Oral Rinse
+**Brand and product names:** Chlorhexidine Gluconate Oral Rinse, Cleancare Chlorhexidine Gluconate 0.12% Oral Rinse, Chlorhexidine Gluconate, 0.12% Oral Rinse Solution, Chlorhexidine Gluconate, 0.12% Oral Rinse
 
 ## Uses
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Atypical Antipsychotic  
-**Labels on file:** 117
+**Labels on file:** 115
 
 **Brand and product names:** Opipza, Abilify
 

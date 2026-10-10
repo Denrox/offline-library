@@ -4,7 +4,7 @@
 
 **Route:** rectal  
 **Drug class:** Aminosalicylate  
-**Labels on file:** 17
+**Labels on file:** 16
 
 **Brand and product names:** Canasa, Rowasa, Mesalamine Rectal
 

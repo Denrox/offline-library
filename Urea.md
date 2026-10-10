@@ -3,9 +3,9 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** topical  
-**Labels on file:** 29
+**Labels on file:** 28
 
-**Brand and product names:** Evara, Uredex, Urevex, Dermacure, Uracin 20%, Urea 40 Percent, Urea Cream 40 Percent
+**Brand and product names:** Evara, Uredex, Urevex, Dermacure, Urea 40 Percent, Urea Cream 40 Percent
 
 ## Uses
 

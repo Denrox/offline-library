@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Prednisolone Sodium Phosphate  
 **Drug class:** Corticosteroid  
-**Labels on file:** 33
+**Labels on file:** 32
 
 **Brand and product names:** Orapred Odt, Prednisolone Sodium Phosphate Odt
 

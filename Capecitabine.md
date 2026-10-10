@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nucleoside Metabolic Inhibitor  
-**Labels on file:** 21
+**Labels on file:** 20
 
 **Brand and product names:** Xeloda
 

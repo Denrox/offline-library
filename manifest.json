@@ -1,9 +1,9 @@
 {
   "format": 1,
   "id": "medicine-drugs-rx",
-  "pages": 2629,
+  "pages": 2621,
   "categories": 29,
-  "bytes": 74324527,
-  "content_hash": "afb8245c96c20e344720ad57c691eaba06d1eec805def0f192505e9f306516b1",
-  "snapshot": "2026-10-08"
+  "bytes": 73986563,
+  "content_hash": "6b986cb70d6bf78e2e11da1ee0c70a50a875c5fd98ff6c3b52c216a2d17c9259",
+  "snapshot": "2026-10-09"
 }

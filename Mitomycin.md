@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Alkylating Drug  
-**Labels on file:** 19
+**Labels on file:** 18
 
 **Brand and product names:** Mutamycin
 

@@ -5,9 +5,9 @@
 **Route:** oral  
 **Ingredient forms:** Polyethylene Glycol 3350  
 **Drug class:** Osmotic Laxative  
-**Labels on file:** 9
+**Labels on file:** 7
 
-**Brand and product names:** Peg 3350 and Electrolytes, Peg-3350 and Electrolytes, Golytely, Gavilyte G Tm, Gavilyte - C Tm, Polyethylene Glycol-3350 and Electrolytes
+**Brand and product names:** Peg 3350 and Electrolytes, Gavilyte G Tm, Golytely, Peg-3350 and Electrolytes, Gavilyte - C Tm, Polyethylene Glycol-3350 and Electrolytes
 
 ## Uses
 

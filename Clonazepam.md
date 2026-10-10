@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Benzodiazepine  
-**Labels on file:** 95
+**Labels on file:** 94
 
 **Brand and product names:** Klonopin
 

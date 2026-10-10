@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Gemcitabine Hydrochloride  
-**Labels on file:** 18
+**Labels on file:** 17
 
 **Brand and product names:** Avgemsi
 

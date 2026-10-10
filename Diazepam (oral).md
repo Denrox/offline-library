@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Benzodiazepine  
-**Labels on file:** 61
+**Labels on file:** 60
 
 **Brand and product names:** Valium, Diazepam Intensol
 

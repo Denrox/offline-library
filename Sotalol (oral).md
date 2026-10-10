@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Sotalol Hydrochloride  
-**Labels on file:** 45
+**Labels on file:** 44
 
 **Brand and product names:** Sotylize, Betapace, Betapace Af, Sotalol Hydrochloride Af
 

@@ -4,7 +4,7 @@
 
 **Route:** transdermal  
 **Drug class:** Central alpha-2 Adrenergic Agonist  
-**Labels on file:** 8
+**Labels on file:** 6
 
 **Brand and product names:** Catapres-tts-1, Catapres-tts-2, Catapres-tts-3, Clonidine Transdermal System Usp, 0.1 Mg/day, Clonidine Transdermal System Usp, 0.2 Mg/day, Clonidine Transdermal System Usp, 0.3 Mg/day, Clonidine Transdermal System
 

@@ -4,9 +4,9 @@
 
 **Route:** subcutaneous  
 **Drug class:** Anti-IgE  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Brand and product names:** Xolair, Xolair Pfs, Omlyclo
+**Brand and product names:** Xolair, Xolair Pfs
 
 ## ⚠ Boxed warning
 

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Metoprolol Tartrate  
 **Drug class:** Thiazide Diuretic  
-**Labels on file:** 5
+**Labels on file:** 4
 
 ## Uses
 

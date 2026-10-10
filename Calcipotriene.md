@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Vitamin D Analog  
-**Labels on file:** 10
+**Labels on file:** 9
 
 **Brand and product names:** Pellix, Sorilux, Calcitrene
 

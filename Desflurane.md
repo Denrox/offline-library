@@ -4,7 +4,7 @@
 
 **Route:** respiratory (inhalation)  
 **Drug class:** General Anesthetic  
-**Labels on file:** 7
+**Labels on file:** 6
 
 **Brand and product names:** Suprane
 

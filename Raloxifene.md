@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Raloxifene Hydrochloride  
-**Labels on file:** 23
+**Labels on file:** 22
 
 **Brand and product names:** Evista
 

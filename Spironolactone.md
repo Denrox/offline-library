@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Aldosterone Antagonist  
-**Labels on file:** 126
+**Labels on file:** 123
 
 **Brand and product names:** Aldactone, Carospir
 

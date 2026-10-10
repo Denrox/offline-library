@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** HMG-CoA Reductase Inhibitor  
-**Labels on file:** 56
+**Labels on file:** 55
 
 ## Uses
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Ciprofloxacin Hydrochloride  
-**Labels on file:** 136
+**Labels on file:** 135
 
 **Brand and product names:** Cipro
 
