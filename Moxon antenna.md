@@ -6,7 +6,7 @@ The **Moxon antenna** or **Moxon rectangle** is a simple and mechanically rugged
 
 The Moxon antenna design is rectangular, with slightly less than half of the rectangle being the driven element (radiator) and the other part (slightly more than half) being the reflector. It is a two element Yagi-Uda antenna with folded dipole elements, and no director(s).
 
-Because of the folded ends, the element lengths are approximately 70% of the equivalent [dipole](Dipole%20antenna.md) length. The two-element design gives modest directivity (about 2.0 [dB](Decibel.md)) with a null towards the rear of the antenna, yielding a high front-to-back ratio up to 9.7 dBi can be achieved at 28 MHz. Because the placement and size of the parasitic reflector both depend highly on wavelength, each Moxon antenna functions properly on the frequency band for which it is designed.
+Because of the folded ends, the element lengths are approximately 70% of the equivalent [dipole](Dipole%20antenna.md) length. The two-element design gives modest directivity (about 2.0 [dB](Decibel.md)) with a null towards the rear of the antenna, yielding a high front-to-back ratio up to 9.7 dB can be achieved at 28 MHz. Because the placement and size of the parasitic reflector both depend highly on wavelength, each Moxon antenna functions properly on the frequency band for which it is designed.
 
 Portable Moxon rectangles are favored by radio amateurs for field day and emergency communications use because of their light weight and robust construction.
 

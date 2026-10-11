@@ -45,7 +45,7 @@ In 2016, Codan Defence Electronics was established to "leverage core competencie
 
 ### Codan Radio Communications
 
-Codan designs and manufactures a range of HF equipment including transceivers (base, portable and mobile), modems, power supplies, amplifiers, antennas and accessories. It also provides HF products ranging from basic voice communication to data, email, fax, chat, GPS tracking, and interoperability according to FED and MIL standards.
+Codan designs and manufactures a range of HF equipment including transceivers (base, portable and mobile), modems, power supplies, amplifiers, antennas and accessories.It also provides HF products ranging from basic voice communication to data, email, fax, chat, GPS tracking, and interoperability according to FED and MIL standards.
 
 Codan's HF transceivers were initially developed to provide communications for people living, working and travelling in central Australia. Codan has been a supplier of HF Radio products to aid and humanitarian markets since 1980. Other markets include the public, private and security sectors, as well as a significant recreational vehicle user market in Australia. Codan military HF Radio transceivers comply with MIL-STD-188-141B ALE (JITC Certified) and FED-STD-1045 ALE, are interoperable with other military grade radios, and provide frequency hopping and voice encryption. Codan is a supplier to the US Army and has provided around 3000 transceivers to support security and rebuilding programs in Afghanistan and Iraq.
 
