@@ -66,7 +66,7 @@ $$
 \tan\alpha = \frac{\sin L}{\left(1 - e^2\right)\tan\varphi_2}
 $$
 
-To calculate the azimuth of the Sun or a star given its declination and hour angle at a specific location, modify the formula for a spherical Earth. Replace *φ*2 with declination and longitude difference with hour angle, and change the sign (since the hour angle is positive westward instead of east).
+To calculate the azimuth of the Sun or a star given its declination and hour angle at a specific location, modify the formula for a spherical Earth. Replace *φ*2 with declination and longitude difference with hour angle, and change the sign (since the hour angle is positive westward instead of eastward).
 
 ### In cartography
 
