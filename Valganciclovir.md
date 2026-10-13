@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Valganciclovir Hydrochloride  
 **Drug class:** Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor  
-**Labels on file:** 26
+**Labels on file:** 25
 
 **Brand and product names:** Valcyte
 

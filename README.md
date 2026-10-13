@@ -1,6 +1,6 @@
 # Prescription drugs (FDA labels)
 
-2621 pages, 29 categories. Snapshot: 2026-10-09.
+2617 pages, 29 categories. Snapshot: 2026-10-13.
 
 Source: https://open.fda.gov/apis/drug/label/
 

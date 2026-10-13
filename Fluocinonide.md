@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Corticosteroid  
-**Labels on file:** 47
+**Labels on file:** 46
 
 ## ⚠ Boxed warning
 

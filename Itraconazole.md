@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Azole Antifungal  
-**Labels on file:** 15
+**Labels on file:** 14
 
 **Brand and product names:** Tolsura, Sporanox
 

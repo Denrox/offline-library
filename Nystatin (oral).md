@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Polyene Antifungal  
-**Labels on file:** 28
+**Labels on file:** 27
 
 ## Uses
 

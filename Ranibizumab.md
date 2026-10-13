@@ -4,9 +4,9 @@
 
 **Route:** intravitreal  
 **Drug class:** Vascular Endothelial Growth Factor Inhibitor  
-**Labels on file:** 7
+**Labels on file:** 6
 
-**Brand and product names:** Cimerli, Byooviz, Nufymco, Susvimo, Lucentis
+**Brand and product names:** Cimerli, Byooviz, Susvimo, Lucentis
 
 ## ⚠ Boxed warning
 

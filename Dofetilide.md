@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Antiarrhythmic  
-**Labels on file:** 14
+**Labels on file:** 13
 
 **Brand and product names:** Tikosyn
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextroamphetamine Sulfate, Amphetamine Sulfate, Amphetamine Aspartate Monohydrate  
-**Labels on file:** 49
+**Labels on file:** 48
 
-**Brand and product names:** Mydayis, Adderall Xr, Adderall, Mixed Salts of A Single Entity Amphetamine Product Xr, Mixed Salts of A Single-entity Amphetamine Product
+**Brand and product names:** Mydayis, Adderall Xr, Adderall, Mixed Salts of A Single-entity Amphetamine Product
 
 ## ⚠ Boxed warning
 

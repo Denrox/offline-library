@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Hydrocodone Bitartrate  
-**Labels on file:** 152
+**Labels on file:** 151
 
 **Brand and product names:** Hydrocodone/apap, Norco, Hydrocodone Apap
 

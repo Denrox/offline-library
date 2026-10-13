@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Peroxisome Proliferator Receptor alpha Agonist  
-**Labels on file:** 5
+**Labels on file:** 4
 
 ## Uses
 

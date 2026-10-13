@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** 5-alpha Reductase Inhibitor  
-**Labels on file:** 69
+**Labels on file:** 68
 
 **Brand and product names:** Propecia, Proscar
 

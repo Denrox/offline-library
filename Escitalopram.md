@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Escitalopram Oxalate  
-**Labels on file:** 112
+**Labels on file:** 111
 
 **Brand and product names:** Lexapro
 

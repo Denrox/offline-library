@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Iron Chelator  
-**Labels on file:** 30
+**Labels on file:** 29
 
 **Brand and product names:** Deferasorox, Exjade, Jadenu, Deferasirox Oral Granules
 

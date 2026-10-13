@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Buspirone Hydrochloride  
-**Labels on file:** 168
+**Labels on file:** 167
 
 **Brand and product names:** Bucapsol
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Midodrine Hydrochloride  
-**Labels on file:** 50
+**Labels on file:** 49
 
 ## ⚠ Boxed warning
 

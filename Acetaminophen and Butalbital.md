@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Barbiturate  
-**Labels on file:** 11
+**Labels on file:** 10
 
 **Brand and product names:** Allzital, Tencon
 

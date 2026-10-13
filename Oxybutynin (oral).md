@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Oxybutynin Chloride  
-**Labels on file:** 82
+**Labels on file:** 81
 
 ## Uses
 

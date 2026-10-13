@@ -4,9 +4,9 @@
 
 **Route:** vaginal  
 **Drug class:** Progesterone  
-**Labels on file:** 5
+**Labels on file:** 4
 
-**Brand and product names:** Endometrin, Crinone, Progesterone Vaginal Inserts, Progesterone Vaginal Insert
+**Brand and product names:** Endometrin, Crinone, Progesterone Vaginal Inserts
 
 ## Uses
 

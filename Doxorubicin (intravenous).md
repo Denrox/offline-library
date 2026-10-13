@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Doxorubicin Hydrochloride  
-**Labels on file:** 27
+**Labels on file:** 26
 
 **Brand and product names:** Doxil, Doxorubicin Hydrochloride Liposome
 

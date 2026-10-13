@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Oxycodone Hydrochloride  
 **Drug class:** Opioid Agonist  
-**Labels on file:** 77
+**Labels on file:** 76
 
 **Brand and product names:** Endocet, Prolate, Oxycodone/apap, Percocet, Nalocet
 

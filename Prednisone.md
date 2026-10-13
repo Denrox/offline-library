@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Corticosteroid  
-**Labels on file:** 243
+**Labels on file:** 242
 
 **Brand and product names:** Prednisone D/p, Prednisone Intensol
 

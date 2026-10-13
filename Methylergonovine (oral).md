@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Methylergonovine Maleate  
-**Labels on file:** 7
+**Labels on file:** 6
 
 **Brand and product names:** Methergine
 

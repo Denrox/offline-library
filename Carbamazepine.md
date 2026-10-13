@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Mood Stabilizer  
-**Labels on file:** 72
+**Labels on file:** 71
 
 **Brand and product names:** Carbamazepin, Tegretol, Tegretol Xr, Carbatrol, Equetro
 

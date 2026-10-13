@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Losartan Potassium  
 **Drug class:** Thiazide Diuretic  
-**Labels on file:** 76
+**Labels on file:** 75
 
 **Brand and product names:** Hyzaar
 

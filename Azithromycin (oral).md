@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Azithromycin Dihydrate, Azithromycin Monohydrate  
-**Labels on file:** 140
+**Labels on file:** 139
 
 **Brand and product names:** Zithromax
 

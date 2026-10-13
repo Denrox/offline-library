@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Azole Antifungal  
-**Labels on file:** 94
+**Labels on file:** 92
 
 **Brand and product names:** Diflucan
 

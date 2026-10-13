@@ -4,7 +4,7 @@
 
 **Route:** sublingual  
 **Ingredient forms:** Hyoscyamine Sulfate  
-**Labels on file:** 9
+**Labels on file:** 8
 
 **Brand and product names:** Oscimin, Hyoscyamine Sulfate Sl, Hyoscyamine Sulfate Sublingual
 
@@ -62,4 +62,4 @@ This medication should be taken 30 minutes to one hour before meals. This medica
 
 ---
 
-*Source: FDA prescribing information via openFDA, label effective 2026-08-05, DailyMed set ID 584755e4-fea9-4827-e063-6394a90a4a0a. Public domain.*
+*Source: FDA prescribing information via openFDA, label effective 2026-06-08, DailyMed set ID 3749da41-19f3-46b2-887d-7f8ae2268700. Public domain.*

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Nitrofurantoin Monohydrate  
 **Drug class:** Nitrofuran Antibacterial  
-**Labels on file:** 106
+**Labels on file:** 105
 
 **Brand and product names:** Macrobid, Nitrofurantoin (monohydrate/macrocrystals), Nitrofurantoin Macrocrystals, Nitrofurantoin (macrocrystals), Nitrofurantoin Monohydrate/ Macrocrystalline, Nitrofurantoin Monohydrate Macrocrystalline, Nitrofurantoin Mono, Nitrofurantoin Monohydrate/macrocrystal
 

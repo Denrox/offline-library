@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Nucleoside Metabolic Inhibitor  
-**Labels on file:** 22
+**Labels on file:** 21
 
 ## Uses
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Propranolol Hydrochloride  
-**Labels on file:** 132
+**Labels on file:** 130
 
 **Brand and product names:** Inderal La, Inderal Xl, Hemangeol, Innopran Xl
 

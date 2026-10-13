@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Antirheumatic Agent  
-**Labels on file:** 12
+**Labels on file:** 11
 
 **Brand and product names:** Depen, Cuprimine, Aagylur
 

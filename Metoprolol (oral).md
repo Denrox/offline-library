@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Metoprolol Succinate, Metoprolol Tartrate  
-**Labels on file:** 324
+**Labels on file:** 323
 
 **Brand and product names:** Lopressor, Toprol Xl, Kapspargo
 

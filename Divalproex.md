@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Divalproex Sodium  
-**Labels on file:** 119
+**Labels on file:** 118
 
 **Brand and product names:** Depakote, Depakote Er, Depakote Sprinkles, Divalproex Sodium D/r
 

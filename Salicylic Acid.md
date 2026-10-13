@@ -3,9 +3,9 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** topical  
-**Labels on file:** 11
+**Labels on file:** 10
 
-**Brand and product names:** Xalix, Keralyt, Salycim, Salicate
+**Brand and product names:** Xalix, Salycim, Salicate
 
 ## Uses
 

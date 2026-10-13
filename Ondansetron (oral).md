@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Ondansetron Hydrochloride  
 **Drug class:** Serotonin-3 Receptor Antagonist  
-**Labels on file:** 180
+**Labels on file:** 179
 
 **Brand and product names:** Ondansetron Odt
 

@@ -4,7 +4,7 @@
 
 **Route:** intramuscular  
 **Ingredient forms:** Ketorolac Tromethamine  
-**Labels on file:** 17
+**Labels on file:** 16
 
 ## ⚠ Boxed warning
 

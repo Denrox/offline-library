@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Benzodiazepine  
-**Labels on file:** 79
+**Labels on file:** 77
 
-**Brand and product names:** Xanax, Xanax Xr, Alprazolam C-iv, Alprazolam Odt C-iv
+**Brand and product names:** Xanax, Alprazolam C-iv, Alprazolam Odt C-iv
 
 ## ⚠ Boxed warning
 

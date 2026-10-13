@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Phentermine Hydrochloride  
-**Labels on file:** 110
+**Labels on file:** 109
 
 **Brand and product names:** Lomaira, Phentermine Hcl C-iv
 

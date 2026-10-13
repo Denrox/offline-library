@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Sildenafil Citrate  
 **Drug class:** Phosphodiesterase 5 Inhibitor  
-**Labels on file:** 158
+**Labels on file:** 157
 
 **Brand and product names:** Viagra, Vybrique, Revatio
 

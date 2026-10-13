@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Losartan Potassium  
-**Labels on file:** 134
+**Labels on file:** 133
 
 **Brand and product names:** Cozaar, Arbli, Losortan Potassium
 
