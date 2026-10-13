@@ -42,9 +42,9 @@ An isopycnal is a line of constant density. An *isoheight* or *isohypse* is a li
 
 ##### Temperature and related subjects
 
-An **isotherm** (from Ancient Greek * *θέρμη* (thermē)* 'heat') is a line that connects points on a map that have the same temperature. Therefore, all points through which an isotherm passes have the same or equal temperatures at the time indicated. An isotherm at 0 °C is called the freezing level. The term *lignes isothermes* (or *lignes d'égale chaleur)* was coined by the Prussian geographer and naturalist Alexander von Humboldt, who as part of his research into the geographical distribution of plants published the first map of isotherms in Paris, in 1817. According to Thomas Hankins, the Scottish engineer William Playfair's graphical developments greatly influenced Alexander von Humbolt's invention of the isotherm. Humbolt later used his visualizations and analyses to contradict theories by Kant and other Enlightenment thinkers that non-Europeans were inferior due to their climate.
+An **isotherm** (from Ancient Greek * *θέρμη* (thermē)* 'heat') is a line that connects points on a map that have the same temperature. Therefore, all points through which an isotherm passes have the same or equal temperatures at the time indicated. The term *lignes isothermes* (or *lignes d'égale chaleur)* was coined by the Prussian geographer and naturalist Alexander von Humboldt, who as part of his research into the geographical distribution of plants published the first map of isotherms in Paris, in 1817. According to the climate historian Thomas Hankins, the Scottish engineer William Playfair's graphical developments greatly influenced Alexander von Humbolt's invention of the isotherm. Humbolt later used his visualizations and analyses to contradict theories by Kant and other Enlightenment thinkers that non-Europeans were inferior due to their climate.
 
-An **isocheim** is a line of equal mean winter temperature, and an **isothere** is a line of equal mean summer temperature.
+An isotherm at 0°C is called the freezing level. An **isocheim** is a line of equal mean winter temperature, and an **isothere** is a line of equal mean summer temperature.
 
 An **isohel** (ἥλιος, *helios*, 'Sun') is a line of equal or constant solar radiation.
 
