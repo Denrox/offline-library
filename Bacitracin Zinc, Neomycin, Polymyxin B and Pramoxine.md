@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Ingredient forms:** Polymyxin B Sulfate, Neomycin Sulfate, Pramoxine Hydrochloride, Pramoxine Hcl  
-**Labels on file:** 74
+**Labels on file:** 73
 
 **Also sold as:** Triple Antibiotic Plus Pain Relief, Triple Antibiotic, Triple Antibiotic and Pain Relief, Sunmark Triple Antibiotic Plus Pain Relief, Careall Triple Antibiotic Plus Pain Relief, Signature Care Triple Antibiotic, Winco Maximum Strength Triple Antibiotic, First Aid Antibiotic Plus Burn Relief, Dg Health Antibiotic, Basic Care First Aid Antibiotic and Burn Relief, Topcare Triple Antibiotic Plus Pain Relief, Drs. Pharmacy Triple Antibiotic Plus Pain Relief, Drs Pharmacy Triple Antibiotic Pain Plus Itch Plus Scar, Exchange Select First Aid Triple Anitbiotic Pain Relieving, Equate Antibiotic Plus Pain, Itch, Scar Relief, Natureplex Antibiotic Plus Pain, Neosporin Plus Pain Relief, First Aid Antibiotic and Burn Relief, Caring Mill Triple Antibiotic and Pain, Neosporin Plus Burn Relief, Sheffield Triple Antibiotic Plus Pain Relief, Drs. Pharmacy Triple Antibiotic and Burn Relief, Harris Teeter Triple Antibiotic and Pain Relief, Dg Health Triple Antibiotic, Cuadriderma and 31 more
 

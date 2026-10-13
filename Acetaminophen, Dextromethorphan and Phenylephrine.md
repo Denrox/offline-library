@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride  
-**Labels on file:** 189
+**Labels on file:** 185
 
-**Also sold as:** Daytime Cold and Flu, Daytime Cold and Flu Non Drowsy, Daytime Cold and Flu Relief, Cold and Flu Relief Daytime, Cold and Flu Relief, Cold Max, Cold and Flu Daytime, Cold and Flu, Daytime Cold and Flu Mini Softgels, Cold Multi-symptom, Daytime, Meijer Daytime Cold and Flu Softgel, Nuvicare Daytime Cold and Flu Softgel, Xl-3 Day Time, Kroger Daytime Cold and Flu Softgel, Severe Cold and Cough Relief Daytime, Severe Cold and Cough Daytime, Day-time Cold/flu Relief, Circle K Daytime Cold and Flu, Gencare Daytime Cold and Flu Softgel, Daytime Cold and Flu Multi-symptom Relief, Basic Care Daytime Cold and Flu, Multi-symptom Mapap Cold Formula, Medique Cold Cough Product, Theraflu Expressmax Daytime Severe Cold and Cough and 82 more
+**Also sold as:** Daytime Cold and Flu, Daytime Cold and Flu Non Drowsy, Cold and Flu Relief Daytime, Cold and Flu Relief, Daytime Cold and Flu Relief, Cold Max, Cold and Flu Daytime, Cold and Flu, Daytime Cold and Flu Mini Softgels, Cold Multi-symptom, Daytime, Meijer Daytime Cold and Flu Softgel, Nuvicare Daytime Cold and Flu Softgel, Xl-3 Day Time, Kroger Daytime Cold and Flu Softgel, Severe Cold and Cough Relief Daytime, Severe Cold and Cough Daytime, Day-time Cold/flu Relief, Circle K Daytime Cold and Flu, Gencare Daytime Cold and Flu Softgel, Daytime Cold and Flu Multi-symptom Relief, Basic Care Daytime Cold and Flu, Medique Cold Cough Product, Theraflu Expressmax Daytime Severe Cold and Cough, Good Sense Daytime Non Drowsy Cold and Flu and 81 more
 
 ## Active ingredients
 

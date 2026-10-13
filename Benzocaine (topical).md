@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Standardized Chemical Allergen  
-**Labels on file:** 99
+**Labels on file:** 98
 
-**Also sold as:** Anal-ese, Sting Relief Prep Pad, Dental Relief, Americaine, Neuromed Fa, Chigg Away, Anbesol Maximum Strength, Anestenka, Stallion, Sta-hard, Instant Erection, Anal Blu, Cvs Maximum Strength Boil Relief, Firstar Sting Relief Pad, Family Wellness Oral Pain Relief, Preboost, Dynamo Wellness Delay Max Wipe, Quality Choice, Deep Cover Bug Bite Relief, Spartan Wipes, Body Action Products Anal Glide Extra, Walgreens Maximum Strength, Painless Tattoo 1, Endurance Wipe, Dolodent Maximum Strength and 65 more
+**Also sold as:** Anal-ese, Sting Relief Prep Pad, Dental Relief, Americaine, Neuromed Fa, Chigg Away, Anbesol Maximum Strength, Anestenka, Stallion, Sta-hard, Instant Erection, Anal Blu, Cvs Maximum Strength Boil Relief, Firstar Sting Relief Pad, Family Wellness Oral Pain Relief, Preboost, Dynamo Wellness Delay Max Wipe, Quality Choice, Deep Cover Bug Bite Relief, Spartan Wipes, Body Action Products Anal Glide Extra, Walgreens Maximum Strength, Painless Tattoo 1, Endurance Wipe, Dolodent Maximum Strength and 64 more
 
 ## Active ingredients
 

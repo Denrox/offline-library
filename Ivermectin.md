@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Antiparasitic, Pediculicide  
-**Labels on file:** 15
+**Labels on file:** 14
 
 **Also sold as:** Scalp Care Lotions, Rid One and Done, Sklice, Synthabio Ivermectin, Bldaxn Ivermectin Lotion0.5%, Head Lice Treatment Ivermectin Lotion118ml
 

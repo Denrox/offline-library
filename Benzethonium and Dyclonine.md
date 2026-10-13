@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Benzethonium Chloride, Dyclonine Hydrochloride  
-**Labels on file:** 17
+**Labels on file:** 16
 
-**Also sold as:** Liquid Bandage, Leader Liquid Bandage, Premier Solutions Liquid Bandage, Benzethonium Chloride Plus Dyclonine Hydrochloride
+**Also sold as:** Liquid Bandage, Premier Solutions Liquid Bandage, Benzethonium Chloride Plus Dyclonine Hydrochloride
 
 ## Active ingredients
 

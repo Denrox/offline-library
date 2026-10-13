@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Chlorpheniramine Maleate  
-**Labels on file:** 34
+**Labels on file:** 33
 
 **Also sold as:** Allergy Relief, Allergy, Allergy Relief 4 Hour, Anti Allergy, Aller-chlor, Ed Chlorped Jr, Allergy Time, Pharbechlor, Chlorphen-12, Medique Chlorphen, Clorrelief
 

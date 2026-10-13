@@ -4,7 +4,7 @@
 
 **Route:** nasal  
 **Drug class:** Corticosteroid  
-**Labels on file:** 28
+**Labels on file:** 27
 
 **Also sold as:** Nasal Allergy, Good Sense Nasal Allergy, Nasacort, Nasal Allergy Relief, Up and Up Nasal Allergy, Nasacort Allergy 24hr, Signature Care Nasal Allergy, Dg Health Nasal Allergy, Equaline Nasal Allergy, Allergy Nasal, Basic Care Nasal Allergy, Equate Nasal Allergy, Good Neighbor Pharmacy 24 Hour Nasal Allergy, Allergy Relief, Foster and Thrive 24 Hour Nasal Allergy, Topcare Nasal Allergy, 24 Hour Nasal Allergy, Triamcinolone Acetonide Nasal, Childrens Triamcinolone Acetonide
 

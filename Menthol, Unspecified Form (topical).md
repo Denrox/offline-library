@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 133
+**Labels on file:** 132
 
-**Also sold as:** Biofreeze, Biofreeze Professional, Zims Max Freeze Pro Formula, Stopain Clinical, Lactigo, Universal Ice Cold Analgesic, Cold and Hot Medicated, Icy Hot Medicated, Back, Biofreeze Overnight Relief, Cvs Health Pain Relief Foot, Dzul Arthritis Pain Relief, Fast Freeze Pain Relieving, Muscle Rub Pain Reliever Gel, Walgreens Ice Blue Pain Relieving Topical Analgesic, Canker Care Plus, Lip Clear Lysine Plus, Dg Health Cold Zone Pain Relieving Topical Analgesic, Free and Pure Cold Therapy Pain Relief, Stopain Clinical Roll-on, Icy Freeze, Rugby Ice Blue External Analgesic, Overnight Cold Therapy Pain Relief, Biofreeze Foot Cream, Pain Relieving Cooling, Kens Pain and Arthritis Formula and 88 more
+**Also sold as:** Biofreeze, Biofreeze Professional, Zims Max Freeze Pro Formula, Stopain Clinical, Lactigo, Universal Ice Cold Analgesic, Cold and Hot Medicated, Icy Hot Medicated, Back, Biofreeze Overnight Relief, Cvs Health Pain Relief Foot, Dzul Arthritis Pain Relief, Fast Freeze Pain Relieving, Muscle Rub Pain Reliever Gel, Walgreens Ice Blue Pain Relieving Topical Analgesic, Canker Care Plus, Lip Clear Lysine Plus, Dg Health Cold Zone Pain Relieving Topical Analgesic, Free and Pure Cold Therapy Pain Relief, Stopain Clinical Roll-on, Icy Freeze, Rugby Ice Blue External Analgesic, Overnight Cold Therapy Pain Relief, Biofreeze Foot Cream, Pain Relieving Cooling, Kens Pain and Arthritis Formula and 87 more
 
 ## Active ingredients
 

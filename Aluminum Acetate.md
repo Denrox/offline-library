@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 6
+**Labels on file:** 3
 
-**Also sold as:** Tricalm Hydrogel, Dermeleve, Dermeleve Anti Itch Scalp Serum, Zo Skin Health Astringent Solution
+**Also sold as:** Tricalm Hydrogel, Zo Skin Health Astringent Solution
 
 ## Active ingredients
 

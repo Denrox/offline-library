@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Phenylephrine Hydrochloride  
-**Labels on file:** 44
+**Labels on file:** 43
 
 **Also sold as:** Nasal Decongestant Pe, Nasal Decongestant Pe Maximum Strength, Medi-first Plus Sinus Decongestant, Sinus Congestion, Gencare-nasal Decongestant Pe, Nasal Decongestant Pe 10mg, Green Guard Allergy 2 Relief, Sudafed Pe Sinus Congestion, Redicare Nasal and Sinus Decongestant, Pseudo Time Pe, Pe Sinus Congestion, Childrens Sudafed Pe Nasal Decongestant, Goodmeds Non-drowsy Nasal Decongestant Pe, Good Sense Nasal Decongestant Pe, Nasal and Sinus Decongestant, Sinus Decongestion Pe, Goodmeds Nasal Decongestant, Decongestant Pe Non Drowsy, Nasal Decongestant Pe Maximum Strength Non-drowsy, Su Phedrine Pe Non-drowsy, Maximum Strength, Medi-first Sinus Decongestant, Crane Safety Sinus Decongestant, Physicianscare Sinus Non-drowsy, Unishield Sinus Decongestant, Suphedrine Pe Sinus Congestion Non-drowsy and 9 more
 

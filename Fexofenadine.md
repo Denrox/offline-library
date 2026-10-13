@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Fexofenadine Hydrochloride  
-**Labels on file:** 190
+**Labels on file:** 186
 
-**Also sold as:** Allergy Relief, Childrens Allergy, Allegra Allergy, Allergy Relief Non Drowsy, Basic Care Allergy, Childrens Allegra Allergy, Children Allergy, Careone Allergy Relief, Valumeds 24-hour Allergy Relief, Curist Hives Relief, Childrens Allergy Relief, Allergy, Iallergy Relief, Berkley Jensen Allergy Relief, Allegra Allergy 24 Hour, Non-drowsy Allergy Relief, Allegra Hives 24hr, Kirkland Signature Aller Fex, Exchange Select Aller Ease, Equate Allergy Relief, Dye Free Wal Fex Childrens Allergy, Wal-fex, Hives Relief, Gencare-allergy Relief, Nuvicare Hives Relief and 17 more
+**Also sold as:** Allergy Relief, Childrens Allergy, Allegra Allergy, Allergy Relief Non Drowsy, Basic Care Allergy, Childrens Allegra Allergy, Children Allergy, Careone Allergy Relief, Valumeds 24-hour Allergy Relief, Curist Hives Relief, Childrens Allergy Relief, Allergy, Iallergy Relief, Berkley Jensen Allergy Relief, Allegra Allergy 24 Hour, Non-drowsy Allergy Relief, Allegra Hives 24hr, Kirkland Signature Aller Fex, Exchange Select Aller Ease, Equate Allergy Relief, Dye Free Wal Fex Childrens Allergy, Wal-fex, Hives Relief, Gencare-allergy Relief, Nuvicare Hives Relief and 16 more
 
 ## Active ingredients
 

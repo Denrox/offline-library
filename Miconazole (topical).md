@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Miconazole Nitrate  
-**Labels on file:** 180
+**Labels on file:** 178
 
-**Also sold as:** Medline, Anti-fungal Powder, Antifungal, Natouch, Kopa Haiku Antifungal Cream, Charmpoo Antifungal Cream, Antifungal Cream, Jock Itch Powder, Lotrimin Af Jock Itch, Antifungal Powder, Folliculitis Treatment Cream, Azolen, Procure Antifungal, Athletes Foot, Claravie, Remedy Antifungal, Jock Itch, Antifungal Athletes Foot, Elixirtripleguard Triple Antibiotic, Desenex, Zeasorb Athletes Foot, Zeasorb Jock Itch, Lotrimin Af Deodorant, Dermachange Jock, Foot Powder and 85 more
+**Also sold as:** Medline, Anti-fungal Powder, Antifungal, Natouch, Kopa Haiku Antifungal Cream, Charmpoo Antifungal Cream, Antifungal Cream, Jock Itch Powder, Lotrimin Af Jock Itch, Folliculitis Treatment Cream, Azolen, Procure Antifungal, Athletes Foot, Remedy Antifungal, Jock Itch, Antifungal Athletes Foot, Elixirtripleguard Triple Antibiotic, Desenex, Zeasorb Athletes Foot, Zeasorb Jock Itch, Lotrimin Af Deodorant, Dermachange Jock, Foot Powder, Miconazorb Af, Lotrimin Af and 86 more
 
 ## Active ingredients
 

@@ -4,7 +4,7 @@
 
 **Route:** vaginal  
 **Drug class:** Azole Antifungal  
-**Labels on file:** 20
+**Labels on file:** 19
 
 **Also sold as:** Sunmark Clotrimazole 3, Good Neighbor Pharmacy Clotrimazole 3, Cvs Pharmacy Clotrimazole 3, Walgreens Clotrimazole 3
 

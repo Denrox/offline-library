@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Citric Acid Monohydrate  
-**Labels on file:** 5
+**Labels on file:** 4
 
 **Also sold as:** Sal De Uvas Picot, Alka-seltzer Heartburn, Alka-seltzer Heartburn Relief Lemon Lime, Alka-seltzer Heartburn Relief Extra Strength
 

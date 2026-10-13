@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 7
+**Labels on file:** 6
 
-**Also sold as:** Uv Daily Hydration Tinted, Silken Pore Perfecting Sunscreen Broad Spectrum Spf 35, Brickell Daily Defense Face Moisturizer Spf-20, Tatcha The Kissu Lip Tint Spf 25 Midnight Lily, Brickell Mens Products Daily Defense Face Moisturizer Spf-20, Eltamd Uv Daily Hydration, Topco Topcare Everyday Baby Protection Sun Spf 50
+**Also sold as:** Uv Daily Hydration Tinted, Silken Pore Perfecting Sunscreen Broad Spectrum Spf 35, Brickell Daily Defense Face Moisturizer Spf-20, Brickell Mens Products Daily Defense Face Moisturizer Spf-20, Eltamd Uv Daily Hydration, Topco Topcare Everyday Baby Protection Sun Spf 50
 
 ## Active ingredients
 

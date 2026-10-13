@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 125
+**Labels on file:** 123
 
-**Also sold as:** Senna Laxative, Senna, Laxative, Senna Syrup, Senokot, Geri-kot, Vegetable Laxative, Senna Liquid, Laxative Regular Strength, Senna-lax, Senna Lax, Maximum Strength Senna Laxative, Senna Natural Relief, Maximum Strength Laxative, Chocolated Laxative, Gericare Senna Syrup, Stimulant Laxative, Senna-tabs, Curewell Senna Syrup, Ex-lax Regular Strength Chocolated Stimulant Laxative, Cvs Senna Laxative, Ex-lax Regular Strength Stimulant Laxative, Perdiem, Maximum Strength Laxative Pills, Heb Maximum Strength Laxative Pills and 16 more
+**Also sold as:** Senna Laxative, Senna, Laxative, Senna Syrup, Senokot, Geri-kot, Vegetable Laxative, Senna Liquid, Senna-lax, Senna Lax, Maximum Strength Senna Laxative, Senna Natural Relief, Maximum Strength Laxative, Chocolated Laxative, Gericare Senna Syrup, Stimulant Laxative, Laxative Regular Strength, Senna-tabs, Curewell Senna Syrup, Ex-lax Regular Strength Chocolated Stimulant Laxative, Cvs Senna Laxative, Ex-lax Regular Strength Stimulant Laxative, Perdiem, Maximum Strength Laxative Pills, Heb Maximum Strength Laxative Pills and 15 more
 
 ## Active ingredients
 

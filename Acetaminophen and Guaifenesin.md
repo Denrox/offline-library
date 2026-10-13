@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Expectorant  
-**Labels on file:** 12
+**Labels on file:** 11
 
-**Also sold as:** Maximum Strength Mucinex Sinus-max Pressure, Pain and Cough, Mucinex Sinus Max Clear and Cool, Mucinex Cold, Flu, and Sore Throat, Mucinex Childrens Mini Melts Cold and Flu, Pain, Headache and Congestion, Daytime, Tylenol Cold Plus Flu Plus Chest Congestion, Mucinex Fast-max Cold, Flu and Sore Throat, Vicks Sinex Severe Pain, Mucus and Chest Congestion, Coricidin Hbp Maximum Strength Cold Flu and Chest Congestion, Mucinex Cold and Flu, Maximum Strength Mucus Relief Plus Pain and Headache
+**Also sold as:** Maximum Strength Mucinex Sinus-max Pressure, Pain and Cough, Mucinex Sinus Max Clear and Cool, Mucinex Cold, Flu, and Sore Throat, Mucinex Childrens Mini Melts Cold and Flu, Pain, Headache and Congestion, Daytime, Tylenol Cold Plus Flu Plus Chest Congestion, Mucinex Fast-max Cold, Flu and Sore Throat, Coricidin Hbp Maximum Strength Cold Flu and Chest Congestion, Mucinex Cold and Flu, Maximum Strength Mucus Relief Plus Pain and Headache
 
 ## Active ingredients
 

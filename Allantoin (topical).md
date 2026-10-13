@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 67
+**Labels on file:** 65
 
-**Also sold as:** Mederma Advanced Scar, Cvs Health Advanced Scar Gel, Meijer Scar Gel, Kenaf Wet Wipe Kids, Dch Scar, Dermachange Scar, Biobarrier Renewal Cream, Biobarrier Repair Eye Cream, Deflame, Terrasil Foot Ulcer and Sore Relief, Terrasil Scar Recovery, Walgreens Advanced Scar Gel, Skin Barista Rice Bran Cleansing Foam, Face Saver Gel, Tagrid Skin Repair Cream, Cetaphil Baby Soothe and Protect Cream, Earthmed Lip Balm Strawberry Rhubarb, Earthmed Lip Balm Pineapple, Earthmed Lip Balm Unflavored, Earthmed Lip Balm Peppermint, Earthmed Lip Balm Strawberry, Earthmed Sport Massage Oil, Earthmed Fs Hand and Foot, Earthmed Fs Massage Oil, Healing Hand Cream and 40 more
+**Also sold as:** Mederma Advanced Scar, Cvs Health Advanced Scar Gel, Meijer Scar Gel, Kenaf Wet Wipe Kids, Dch Scar, Dermachange Scar, Biobarrier Renewal Cream, Biobarrier Repair Eye Cream, Deflame, Terrasil Foot Ulcer and Sore Relief, Terrasil Scar Recovery, Walgreens Advanced Scar Gel, Skin Barista Rice Bran Cleansing Foam, Face Saver Gel, Cetaphil Baby Soothe and Protect Cream, Earthmed Lip Balm Strawberry Rhubarb, Earthmed Lip Balm Pineapple, Earthmed Lip Balm Unflavored, Earthmed Lip Balm Peppermint, Earthmed Lip Balm Strawberry, Earthmed Sport Massage Oil, Earthmed Fs Hand and Foot, Earthmed Fs Massage Oil, Healing Hand Cream, Dissolvable Microneedle Eye Patches and 38 more
 
 ## Active ingredients
 

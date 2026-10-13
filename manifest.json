@@ -1,9 +1,9 @@
 {
   "format": 1,
   "id": "medicine-drugs-otc",
-  "pages": 1681,
+  "pages": 1678,
   "categories": 22,
-  "bytes": 4583399,
-  "content_hash": "cd3e5f83b3694552234ea4dae317da82c71600c2ccbdb23812bdf58774b5116c",
-  "snapshot": "2026-10-09"
+  "bytes": 4574210,
+  "content_hash": "dad7ccf98c3d603750405eec94719c9c3f3858db63c71fc99be3f952394d00f3",
+  "snapshot": "2026-10-13"
 }
