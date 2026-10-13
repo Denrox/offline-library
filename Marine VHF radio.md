@@ -90,7 +90,7 @@ BC Coast  A
 Boat to boat Tutukaka/Raglan   Public correspondence (ship-to-shore full-duplex)  
 port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks, customs, coast guard, search and rescue  
 Public correspondence (ship-to-shore full-duplex), independent radio networks
-- 5  156.250  160.850                  Public correspondence (ship-to-shore full-duplex)  
+- 5  156.250  160.850      Commercial Vessels for Check In to VTS  A             Public correspondence (ship-to-shore full-duplex)  
 port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks, authorities responsible   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
 - 6  156.300  156.300   Ship-to-ship and ship-to-air  A       Ship-to-ship and ship-to-air  A    Distress ship-to-air   Inter-ship working    A  Ship-to-ship (commercial)  
 also SAR: Ship-to-ship and ship-to-air    A  Ship-to-ship and ship-to-air   Ship-to-ship (limited to 1 watt) and ship-to-air

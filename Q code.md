@@ -510,7 +510,7 @@ height above ____ (*datum*).
 
 This assignment is specified in *RECOMMENDATION ITU-R M.1172*.
 
-Q signals are not substantially used in the maritime service. Morse code is now very rarely used for maritime communications, but in isolated maritime regions like Antarctica and the South Pacific the use of Q-codes continues. Q-codes still work when HF voice circuits are not possible due to atmospherics and the nearest vessel is one ionospheric hop away.
+Although reserved for maritime service, the series from *QOA* to *QQZ* has not been used since 1967. Morse code is now very rarely used for maritime communications, but in isolated maritime regions like Antarctica and the South Pacific the use of Q-codes continues. Q-codes still work when HF voice circuits are not possible due to atmospherics and the nearest vessel is one ionospheric hop away.
 
 - **Question ?Answer or advice**
 - **QOA **   Can you communicate by radiotelegraphy (500 kHz)?   I can communicate by radiotelegraphy (500 kHz).
