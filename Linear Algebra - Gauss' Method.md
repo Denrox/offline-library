@@ -202,7 +202,7 @@ The solution set is empty.
 
 **Example 1.13**  —
 
-The prior system has more equations than unknowns, but that is not what causes the inconsistency— Example 1.11 has more equations than unknowns and yet is consistent. Nor is having more equations than unknowns sufficient for inconsistency, as is illustrated by this inconsistent system with the same number of equations as unknowns.
+The prior system has more equations than unknowns, but that is not what causes the inconsistency— Example 1.11 has more equations than unknowns and yet is consistent. Nor is having more equations than unknowns necessary for inconsistency, as is illustrated by this inconsistent system with the same number of equations as unknowns.
 
 $$
 \begin{array}{rcl} \begin{array}{rcrcr} x &+ &2y &= &8 \\ 2x &+ &4y &= &8 \end{array} &\xrightarrow[]{-2\rho_1 + \rho_2} &\begin{array}{rcrcr} x &+ &2y &= &8 \\ & &0 &= &-8 \end{array} \end{array}
