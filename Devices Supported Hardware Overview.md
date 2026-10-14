@@ -238,11 +238,12 @@ The SenseCAP product line offers a comprehensive range of solutions for both hob
 
 ### Wio Series
 
-A lineup of development boards and modules for hobbyists and prototyping, with a variety of MCU and sensor options. Most models are intended for integration into custom projects, while the Tracker L1 has a "Pro" variant that is available as a ready-to-go handheld device with a pre-installed case and battery.
+A lineup of development boards and modules for hobbyists and prototyping, with a variety of MCU and sensor options. Most models are intended for integration into custom projects, while the Tracker L1 has a "Pro" variant that is available as a ready-to-go handheld device with a pre-installed case and battery. The Tracker L2 Pro is a standalone handheld with a 3.2-inch touchscreen.
 
 | Name                                                                                         | MCU      | Radio      | Wi-Fi | BT  |   GPS    |
 | :------------------------------------------------------------------------------------------- | :------- | :--------- | :--: | :-: | :------: |
 | [Wio Tracker L1](Seeed%20Wio%20Tracker%20L1.md)                                       | nRF52840 | SX1262     |  NO  | 5.0 |   YES    |
+| [Wio Tracker L2 Pro](Seeed%20Wio%20Tracker%20L2%20Pro.md)                               | ESP32-S3 | SX1262     | 2.4GHz b/g/n | 5.0 |   YES    |
 | [XIAO nRF52840 & Wio-SX1262 Kit](Seeed%20Wio-SX1262%20Series.md) | nRF52840 | Wio-SX1262 |  NO  | 5.0 | OPTIONAL |
 | [XIAO ESP32-S3 & Wio-SX1262 Kit](Seeed%20Wio-SX1262%20Series.md) | ESP32-S3 | Wio-SX1262 | 2.4GHz b/g/n | 5.0 | OPTIONAL |
 
