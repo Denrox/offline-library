@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride, Brompheniramine Maleate  
-**Labels on file:** 22
+**Labels on file:** 21
 
-**Also sold as:** Good Sense Childrens Cold and Cough, Dimaphen Dm, Lohist Dm, Childrens Cold and Cough, Cold and Cough, Childrens Metapp Daytime, Cold and Cough Dm, Presgen B, Childrens Dimetapp Cold and Cough, Rynex Dm, Equaline Childrens Cold and Cough, Rompe Pecho Sf Flu, Endacof Dm, Equate Childrens Cold and Cough, Dimetapp Cold and Cough, Tussi Pres B, Good Neighbor Pharmacy Cold and Cough, Target Childrens Cold and Cough, Pediacare Childrens Cough and Cold Grape, Altipres-b
+**Also sold as:** Good Sense Childrens Cold and Cough, Dimaphen Dm, Lohist Dm, Childrens Cold and Cough, Childrens Metapp Daytime, Cold and Cough Dm, Presgen B, Childrens Dimetapp Cold and Cough, Rynex Dm, Equaline Childrens Cold and Cough, Rompe Pecho Sf Flu, Endacof Dm, Equate Childrens Cold and Cough, Dimetapp Cold and Cough, Tussi Pres B, Good Neighbor Pharmacy Cold and Cough, Target Childrens Cold and Cough, Pediacare Childrens Cough and Cold Grape, Altipres-b
 
 ## Active ingredients
 

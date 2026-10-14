@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Drug class:** Non-Standardized Plant Allergenic Extract, Non-Standardized Food Allergenic Extract  
-**Labels on file:** 4
+**Labels on file:** 3
 
-**Also sold as:** Extra Strength Balm, Menthopatch Hot, Yi Tiao Gen Pain Patch
+**Also sold as:** Extra Strength Balm, Yi Tiao Gen Pain Patch
 
 ## Active ingredients
 

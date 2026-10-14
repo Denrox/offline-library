@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 13
+**Labels on file:** 11
 
-**Also sold as:** 2000dl-cl30v, 2000dl-cl30t, Hawaiian Tropic, Cetaphil, Jack Black Double Duty, Hampton Sun Spf 4, Daily Facial Moisturizer Spf 15 Eqb, Tanning Club Tanning Spf-8, Nivea Smoothness Lip Care, Preventage Firming Defense Creme Normal/dry Broad Spectrum Spf 15, Preventage Firming Defense Creme Normal/ Oily Broad Spectrum Spf 15, Cao Cosmetic Lip Sunscreen Spf 30
+**Also sold as:** 2000dl-cl30v, 2000dl-cl30t, Hawaiian Tropic, Cetaphil, Jack Black Double Duty, Hampton Sun Spf 4, Daily Facial Moisturizer Spf 15 Eqb, Tanning Club Tanning Spf-8, Nivea Smoothness Lip Care, Cao Cosmetic Lip Sunscreen Spf 30
 
 ## Active ingredients
 

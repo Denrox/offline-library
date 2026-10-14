@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Pseudoephedrine Sulfate  
-**Labels on file:** 49
+**Labels on file:** 48
 
 **Also sold as:** Allergy Relief D, Allergy Relief-d, Allergy Relief D 12, Topcare Allergy and Congestion Relief, Claritin-d 24 Hour, Kirkland Signature Allerclear D 12 Hr, Alavert Allergy and Congestion D-12 Hour, Allergy Congestion Relief, Equate Allergy and Congestion Relief, Foster and Thrive Allergy D 12 Hour, Allergy D, Allergy and Nasal Congestion, Perrigo Allergy D, Leader Allergy Relief D12, Claritin-d 12 Hour, Allergy and Congestion Relief, Kirkland Signature Allerclear D 24 Hr Extended Release, Kirkland Signature Allerclear D 24 Hr, Signature Care Allergy and Congestion Relief, Leader Allergy Relief D-24, Loratadine D, Good Neighbor Pharmacy Loratadine D
 
