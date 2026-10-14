@@ -1,6 +1,6 @@
 # L3Harris
 
-L3Harris Technologies, Inc.
+- L3Harris Technologies, Inc.
 - Type Public
 
 Traded as

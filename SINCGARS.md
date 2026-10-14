@@ -1,6 +1,6 @@
 # SINCGARS
 
-**Single Channel Ground and Airborne Radio System** (**SINCGARS**) is a [VHF](Very%20high%20frequency.md) [combat-net radio](Combat-net%20radio.md) (CNR) used by U.S. and allied military forces. In the CNR network, the SINCGARS' primary role is voice transmission between surface and airborne command and control (C2) assets.
+**Single Channel Ground and Airborne Radio System** (**SINCGARS**) is a [VHF](Very%20high%20frequency.md) [combat-net radio](Combat-net%20radio.md) (CNR) used by U.S. and allied military forces. In the CNR network, the SINCGARS's primary role is voice transmission between surface and airborne command and control (C2) assets.
 
 The SINCGARS family replaced the Vietnam War-era synthesized single frequency radios (AN/PRC-77 and AN/VRC-12), although it can work with them. The airborne AN/ARC-201 radio is phasing out the older tactical air-to-ground radios (AN/ARC-114 and AN/ARC-131).
 

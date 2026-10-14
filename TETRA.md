@@ -1,6 +1,6 @@
 # TETRA
 
-Terrestrial Trunked Radio
+- Terrestrial Trunked Radio
 - Type Incentive
 - Industry European Telecommunications Standards Institute  
 [professional mobile radio](Professional%20mobile%20radio.md)  

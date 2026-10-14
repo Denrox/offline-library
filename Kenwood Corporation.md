@@ -1,6 +1,6 @@
 # Kenwood Corporation
 
-Kenwood Corporation
+- Kenwood Corporation
 
 Logo used since 2011
 

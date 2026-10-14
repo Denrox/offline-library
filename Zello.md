@@ -1,6 +1,6 @@
 # Zello
 
-Zello Inc
+- Zello Inc
 - Type Private
 - Industry Mobile application development
 - Headquarters

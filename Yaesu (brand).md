@@ -1,6 +1,6 @@
 # Yaesu (brand)
 
-Yaesu
+- Yaesu
 - Type Private
 - Industry Electronics
 - Founded 1959 (1959) in Yaesu, Chūō, Tokyo, Japan

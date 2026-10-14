@@ -1,6 +1,6 @@
 # Starlink
 
-Starlink Services, LLC
+- Starlink Services, LLC
 
 Starlink user equipment manufacturing facility in Bastrop, Texas
 
@@ -90,13 +90,26 @@ Prior to SpaceX's initial public offering, Starlink used the words "customers", 
 - March 2026   10,300,000   $66
 - June 2026   12,000,000
 
-#### Direct-to-cell service
+#### Starlink Mobile
 
 The direct-to-cell service uses Starlink satellites equipped to connect with standard mobile phones without specialized satellite equipment built-in. Performance varies depending on network load, location, and spectrum availability, with limited capacity compared to terrestrial mobile networks.
 
 T-Mobile US and SpaceX launched the first commercial implementation in the United States, using T-Mobile midband PCS spectrum to provide coverage in areas without terrestrial mobile service. Initial service supports SMS text messaging, with planned expansion to voice and limited data. The system is designed to work with existing LTE-compatible devices. On January 8, 2024, SpaceX reported successful SMS testing of the system on T-Mobile's network.
 
 In April 2023, Rogers Communications announced an agreement with SpaceX to explore satellite-to-phone services in Canada. One NZ announced a partnership in the same month to extend mobile coverage across New Zealand, with SMS service expected in 2024 and voice and data in 2025. In July 2023, Optus announced a similar partnership in Australia. On August 12, 2025, Ukrainian operator Kyivstar conducted a test of the service, with a commercial launch planned for 2025.
+
+In September 2025, SpaceX announced that they were acquiring all of EchoStar's AWS-4 (MSS) and AWS-H spectrum.
+
+In March 2026, SpaceX announced that they were re-branding Starlink direct-to-cell as "Starlink Mobile".
+
+In October 2026, SpaceX announced that they were acquiring nationwide 800 MHz spectrum from investment firm Grain Management. They noted that this "will pave the way for Starlink Mobile to become a major mobile carrier in the US".
+
+##### Radio Frequency Summary
+
+U.S. wireless spectrum owned by SpaceX
+- Frequency Band   5G NR Bands   Notes
+- **800 MHz** SMR   n26   Acquired from Grain, formerly Sprint/T-Mobile spectrum. *(Pending FCC approval)*
+- **1.7/2.1 GHz** AWS / MSS   n66, n70, n252 (NTN)   Acquired from Dish/EchoStar.
 
 #### Starshield
 
@@ -530,6 +543,8 @@ The destruction of the Russian satellite Kosmos 1408 in November 2021 by an anti
 All these reported issues, plus current plans for the extension of the constellation, motivated a formal letter from the National Telecommunications and Information Administration (NTIA) on behalf of NASA and the US NSF, submitted to the US FCC on February 8, 2022, warning about the potential impact on low Earth orbit, increased collision risk, impact on science missions, rocket launches, International Space Station and radio frequencies.
 
 SpaceX satellites will maneuver if the probability of collision is greater than 10 (1 in 1,000,000 chance of collision), compared to the industry standard of 10 (1 in 10,000 chance of collision). SpaceX has budgeted sufficient propellant to accommodate approximately 5,000 propulsive maneuvers over the life of a Gen2 satellite, including a budget of approximately 350 collision avoidance maneuvers per satellite over that time period. As of May 2022, the average Starlink satellite had conducted fewer than three collision-avoidance maneuvers over the 6 preceding months.
+
+### Official website  fondpeace.com
 
 ---
 

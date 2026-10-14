@@ -1,6 +1,6 @@
 # Thuraya
 
-Thuraya Telecommunications Company
+- Thuraya Telecommunications Company
 - Type Subsidiary
 - Industry Mobile-satellite services
 - Founded 1997 (1997)

@@ -1,6 +1,6 @@
 # Codan
 
-Codan Limited
+- Codan Limited
 - Type Public company (ASX:CDA)
 - Industry communications,  
 metal detection,  

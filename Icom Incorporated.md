@@ -1,6 +1,6 @@
 # Icom Incorporated
 
-ICOM Inc.
+- ICOM Inc.
 
 Native name
 

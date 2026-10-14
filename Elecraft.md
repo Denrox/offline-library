@@ -1,6 +1,6 @@
 # Elecraft
 
-Elecraft Inc.
+- Elecraft Inc.
 - Type Amateur radio manufacturer
 - Industry Amateur radio
 - Founded 1998

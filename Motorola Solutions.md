@@ -1,6 +1,6 @@
 # Motorola Solutions
 
-Motorola Solutions, Inc.
+- Motorola Solutions, Inc.
 
 Headquarters at Heller International Building in Chicago
 

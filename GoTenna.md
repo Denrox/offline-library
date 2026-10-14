@@ -1,6 +1,6 @@
 # GoTenna
 
-goTenna
+- goTenna
 - Type Privately held company
 - Founded November 2012 (2012-11)
 - Founders Daniela Perlein, Jorge Perdomo

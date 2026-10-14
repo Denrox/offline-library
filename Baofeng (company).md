@@ -1,6 +1,6 @@
 # Baofeng (company)
 
-'Fujian Baofeng Electronics Co., Ltd'
+- 'Fujian Baofeng Electronics Co., Ltd'
 
 Native name
 

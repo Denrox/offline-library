@@ -1,6 +1,6 @@
 # Barrett Communications
 
-Barrett Communications
+- Barrett Communications
 - Type Private
 - Industry HF and VHF Communications
 - Founded 1976

@@ -1,6 +1,6 @@
 # Inmarsat
 
-Inmarsat Global Ltd.
+- Inmarsat Global Ltd.
 - Type Subsidiary
 - Industry Satellite communication
 - Founded 1979 (1979)
