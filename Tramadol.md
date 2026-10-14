@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Tramadol Hydrochloride  
-**Labels on file:** 98
+**Labels on file:** 96
 
 **Brand and product names:** Conzip
 

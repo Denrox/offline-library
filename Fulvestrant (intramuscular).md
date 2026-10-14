@@ -4,7 +4,7 @@
 
 **Route:** intramuscular  
 **Drug class:** Estrogen Receptor Antagonist  
-**Labels on file:** 21
+**Labels on file:** 20
 
 **Brand and product names:** Faslodex, Cligavyx
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Anti-epileptic Agent, Mood Stabilizer  
-**Labels on file:** 104
+**Labels on file:** 103
 
 **Brand and product names:** Subvenite, Lamictal Xr, Lamictal, Lamictal Odt, Lamotrigine Kit
 

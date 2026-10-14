@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Sulfacetamide Sodium  
 **Drug class:** Sulfonamide Antibacterial  
-**Labels on file:** 87
+**Labels on file:** 85
 
-**Brand and product names:** Plexion, Avar Ls, Sumaxin Cleansing Pads, Sumaxin Cp, Avar, Avar-e Green, Avar-e Ls, Avar-e, Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser, Sodium Sulfacetamide 10% and Sulfur 2% Cleanser, Sodium Sulfacetamide 9% and Sulfur 4.5% Cleanser, Sodium Sulfacetamide 10% and Sulfur 5% Emollient Cream, Sodium Sulfacetamide 9% and Sulfur 4% Cleanser, Sodium Sulfacetamide 10% and Sulfur 5% Cleanser, Sodium Sulfacetamide 8% and Sulfur 4% Cleanser, Sodium Sulfacetamide 10 Sulfur 5 Cleanser, Sodium Sulfacetamide 10 Sulfur 2 Cleanser, Sodium Sulfacetamide 9% - Sulfur 4.5% Wash, Sodium Sulfacetamide 9.8% Sulfur 4.8% Cleanser, Sodium Sulfacetamide and Sulfer Emulsion, Sodium Sulfacetamide 10 % and Sulfur 2 % Cleanser, Sodium Sulfacetamide 9.8 % and Sulfur 4.8 % Cleanser, Sodium Sulfacetamide and Sulfur Wash, Sodium Sulfacetamide 9 Sulfur 4.5 Wash, Sodium Sulfacetamide 8% Sulfur 4% Cleanser and 2 more
+**Brand and product names:** Plexion, Avar Ls, Sumaxin Cleansing Pads, Sumaxin Cp, Avar, Avar-e Green, Avar-e Ls, Avar-e, Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser, Sodium Sulfacetamide 10% and Sulfur 2% Cleanser, Sodium Sulfacetamide 9% and Sulfur 4.5% Cleanser, Sodium Sulfacetamide 10% and Sulfur 5% Emollient Cream, Sodium Sulfacetamide 9% and Sulfur 4% Cleanser, Sodium Sulfacetamide 10% and Sulfur 5% Cleanser, Sodium Sulfacetamide 8% and Sulfur 4% Cleanser, Sodium Sulfacetamide 10 Sulfur 2 Cleanser, Sodium Sulfacetamide 9% - Sulfur 4.5% Wash, Sodium Sulfacetamide 9.8% Sulfur 4.8% Cleanser, Sodium Sulfacetamide and Sulfer Emulsion, Sodium Sulfacetamide 10 % and Sulfur 2 % Cleanser, Sodium Sulfacetamide 9.8 % and Sulfur 4.8 % Cleanser, Sodium Sulfacetamide and Sulfur Wash, Sodium Sulfacetamide 8% Sulfur 4% Cleanser, Sodium Sulfacetamide - Sulfur Wash, Sodium Sulfacetamide 10 % and Sulfur 5 % Cleanser
 
 ## Uses
 

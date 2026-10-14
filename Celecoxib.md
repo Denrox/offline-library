@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 131
+**Labels on file:** 130
 
 **Brand and product names:** Celebrex, Vyscoxa, Elyxyb - Celecoxib
 

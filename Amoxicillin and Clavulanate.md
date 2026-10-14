@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Clavulanate Potassium, Amoxicillin Sodium  
-**Labels on file:** 152
+**Labels on file:** 151
 
 **Brand and product names:** Augmentin, Amoxicillin/clav Pot, Augmentin Es-600, Amoxicillin/clav Pot Oral Susp
 

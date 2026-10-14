@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Thalidomide Analog  
-**Labels on file:** 19
+**Labels on file:** 18
 
 **Brand and product names:** Revlimid
 

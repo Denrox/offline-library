@@ -4,7 +4,7 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Brimonidine Tartrate  
-**Labels on file:** 19
+**Labels on file:** 18
 
 **Brand and product names:** Alphagan P, Brimonidine Tartrate Ophthalmic Solution, 0.15%, Brimonidine Tartrate Ophthalmic Solution
 

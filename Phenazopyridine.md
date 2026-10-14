@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Phenazopyridine Hydrochloride  
-**Labels on file:** 40
+**Labels on file:** 39
 
 **Brand and product names:** Pyridium
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Aluminum Complex  
-**Labels on file:** 67
+**Labels on file:** 66
 
 **Brand and product names:** Carafate
 

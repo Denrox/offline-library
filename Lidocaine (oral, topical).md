@@ -4,7 +4,7 @@
 
 **Route:** oral, topical  
 **Ingredient forms:** Lidocaine Hydrochloride, Lidocaine Hydrochloride Anhydrous  
-**Labels on file:** 14
+**Labels on file:** 13
 
 **Brand and product names:** Lidocaine Viscous
 

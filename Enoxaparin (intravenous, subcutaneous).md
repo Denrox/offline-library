@@ -4,7 +4,7 @@
 
 **Route:** intravenous, subcutaneous  
 **Ingredient forms:** Enoxaparin Sodium  
-**Labels on file:** 10
+**Labels on file:** 9
 
 **Brand and product names:** Lovenox
 

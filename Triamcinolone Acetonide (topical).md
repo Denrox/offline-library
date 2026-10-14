@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Drug class:** Corticosteroid  
-**Labels on file:** 136
+**Labels on file:** 134
 
 **Brand and product names:** Triderm
 

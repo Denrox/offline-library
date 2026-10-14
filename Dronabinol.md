@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Cannabinoid  
-**Labels on file:** 9
+**Labels on file:** 8
 
 **Brand and product names:** Syndros, Marinol
 

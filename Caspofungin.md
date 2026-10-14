@@ -4,9 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Caspofungin Acetate  
-**Labels on file:** 7
-
-**Brand and product names:** Cancidas
+**Labels on file:** 6
 
 ## Uses
 

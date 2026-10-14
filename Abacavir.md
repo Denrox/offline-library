@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Abacavir Sulfate  
-**Labels on file:** 15
+**Labels on file:** 14
 
 **Brand and product names:** Ziagen
 

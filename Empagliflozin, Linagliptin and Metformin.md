@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Metformin Hydrochloride  
-**Drug class:** Dipeptidyl Peptidase 4 Inhibitor, Sodium-Glucose Cotransporter 2 Inhibitor  
+**Drug class:** Sodium-Glucose Cotransporter 2 Inhibitor, Dipeptidyl Peptidase 4 Inhibitor  
 **Labels on file:** 1
 
 **Brand and product names:** Trijardy Xr
