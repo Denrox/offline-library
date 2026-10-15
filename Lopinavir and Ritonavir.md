@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Cytochrome P450 3A Inhibitor, Protease Inhibitor  
+**Drug class:** Protease Inhibitor, Cytochrome P450 3A Inhibitor  
 **Labels on file:** 4
 
 **Brand and product names:** Kaletra

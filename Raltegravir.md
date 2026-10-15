@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Raltegravir Potassium  
-**Labels on file:** 4
+**Labels on file:** 3
 
 **Brand and product names:** Isentress
 

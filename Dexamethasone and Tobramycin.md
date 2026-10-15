@@ -4,7 +4,7 @@
 
 **Route:** ophthalmic  
 **Drug class:** Aminoglycoside Antibacterial, Corticosteroid  
-**Labels on file:** 27
+**Labels on file:** 26
 
 **Brand and product names:** Tobradex St, Tobradex
 

@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous  
 **Ingredient forms:** Hydralazine Hydrochloride  
-**Labels on file:** 24
+**Labels on file:** 23
 
 ## Uses
 

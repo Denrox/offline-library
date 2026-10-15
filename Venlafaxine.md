@@ -3,8 +3,8 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Ingredient forms:** Venlafaxine Hydrochloride, Venlafaxine Besylate Monohydrate  
-**Labels on file:** 179
+**Ingredient forms:** Venlafaxine Hydrochloride  
+**Labels on file:** 178
 
 **Brand and product names:** Effexor Xr
 

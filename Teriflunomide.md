@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Pyrimidine Synthesis Inhibitor  
-**Labels on file:** 15
+**Labels on file:** 14
 
 **Brand and product names:** Aubagio
 

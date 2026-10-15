@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Antirheumatic Agent  
-**Labels on file:** 25
+**Labels on file:** 24
 
 **Brand and product names:** Arava
 

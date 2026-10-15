@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor, Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor  
-**Labels on file:** 19
+**Labels on file:** 17
 
 ## ⚠ Boxed warning
 

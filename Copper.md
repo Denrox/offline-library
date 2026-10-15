@@ -4,9 +4,9 @@
 
 **Route:** intrauterine  
 **Drug class:** Copper-containing Intrauterine Device  
-**Labels on file:** 3
+**Labels on file:** 2
 
-**Brand and product names:** Paragard T 380a, Miudella
+**Brand and product names:** Paragard T 380a
 
 ## Uses
 

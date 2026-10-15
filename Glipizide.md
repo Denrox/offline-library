@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Sulfonylurea  
-**Labels on file:** 99
+**Labels on file:** 98
 
 **Brand and product names:** Glucotrol Xl
 

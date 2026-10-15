@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Hepatitis C Virus NS5A Inhibitor, Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor  
+**Drug class:** Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor, Hepatitis C Virus NS5A Inhibitor  
 **Labels on file:** 2
 
 **Brand and product names:** Epclusa

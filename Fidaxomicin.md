@@ -4,9 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Macrolide Antibacterial  
-**Labels on file:** 4
-
-**Brand and product names:** Dificid
+**Labels on file:** 3
 
 ## Uses
 

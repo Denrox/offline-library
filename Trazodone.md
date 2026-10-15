@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Trazodone Hydrochloride  
-**Labels on file:** 103
+**Labels on file:** 102
 
 **Brand and product names:** Raldesy Tm
 

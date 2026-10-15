@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Angiotensin 2 Receptor Blocker, Thiazide Diuretic  
+**Drug class:** Thiazide Diuretic, Angiotensin 2 Receptor Blocker  
 **Labels on file:** 9
 
 **Brand and product names:** Micardis Hct

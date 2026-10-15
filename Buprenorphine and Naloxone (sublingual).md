@@ -4,7 +4,7 @@
 
 **Route:** sublingual  
 **Ingredient forms:** Buprenorphine Hydrochloride, Naloxone Hydrochloride Dihydrate, Naloxone Hydrochloride  
-**Drug class:** Partial Opioid Agonist, Opioid Antagonist  
+**Drug class:** Opioid Antagonist, Partial Opioid Agonist  
 **Labels on file:** 42
 
 **Brand and product names:** Zubsolv

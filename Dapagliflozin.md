@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Sodium-Glucose Cotransporter 2 Inhibitor  
-**Labels on file:** 16
+**Labels on file:** 15
 
 ## Uses
 

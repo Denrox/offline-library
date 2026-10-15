@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Azole Antifungal  
-**Labels on file:** 24
+**Labels on file:** 23
 
 ## Uses
 

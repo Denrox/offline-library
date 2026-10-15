@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Drug class:** Thiazide Diuretic, Angiotensin Converting Enzyme Inhibitor  
+**Drug class:** Angiotensin Converting Enzyme Inhibitor, Thiazide Diuretic  
 **Labels on file:** 1
 
 ## ⚠ Boxed warning

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Nevirapine Hemihydrate  
 **Drug class:** Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor  
-**Labels on file:** 8
+**Labels on file:** 7
 
 ## ⚠ Boxed warning
 

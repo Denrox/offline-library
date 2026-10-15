@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Abiraterone Acetate  
-**Labels on file:** 30
+**Labels on file:** 29
 
-**Brand and product names:** Abirtega, Zytiga, Yonsa
+**Brand and product names:** Abirtega, Zytiga
 
 ## Uses
 

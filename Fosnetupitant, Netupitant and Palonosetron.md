@@ -4,7 +4,7 @@
 
 **Route:** intravenous, oral  
 **Ingredient forms:** Palonosetron Hydrochloride  
-**Drug class:** Serotonin-3 Receptor Antagonist, Substance P/Neurokinin-1 Receptor Antagonist  
+**Drug class:** Substance P/Neurokinin-1 Receptor Antagonist, Serotonin-3 Receptor Antagonist  
 **Labels on file:** 1
 
 **Brand and product names:** Akynzeo

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Drug class:** Corticosteroid  
-**Labels on file:** 17
+**Labels on file:** 16
 
-**Brand and product names:** Jaythari, Kymbee, Emflaza, Pyquvi, Jaythari Oral Suspension
+**Brand and product names:** Jaythari, Kymbee, Pyquvi, Jaythari Oral Suspension
 
 ## Uses
 

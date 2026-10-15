@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Anti-epileptic Agent  
-**Labels on file:** 72
+**Labels on file:** 71
 
 **Brand and product names:** Trileptal
 

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Fluoxetine Hydrochloride  
 **Drug class:** Serotonin Reuptake Inhibitor  
-**Labels on file:** 161
+**Labels on file:** 157
 
 **Brand and product names:** Prozac
 

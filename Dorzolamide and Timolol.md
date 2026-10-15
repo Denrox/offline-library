@@ -4,7 +4,7 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Dorzolamide Hydrochloride, Timolol Maleate  
-**Labels on file:** 22
+**Labels on file:** 21
 
 **Brand and product names:** Cosopt, Cosopt Pf, Dorzolamide Hydrochloride and Timolol Maleate Ophthalmic Solution, Dorzolamide Hydrochloride Timolol Maletae, Dorzolamide Hydrochloride and Timolol Maleate Preservative Free
 

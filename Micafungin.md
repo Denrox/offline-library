@@ -5,7 +5,7 @@
 **Route:** intravenous  
 **Ingredient forms:** Micafungin Sodium  
 **Drug class:** Echinocandin Antifungal  
-**Labels on file:** 11
+**Labels on file:** 10
 
 ## Uses
 

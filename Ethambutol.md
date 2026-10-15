@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Ethambutol Hydrochloride  
-**Labels on file:** 8
+**Labels on file:** 7
 
 ## Uses
 
