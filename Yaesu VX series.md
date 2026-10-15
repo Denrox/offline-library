@@ -118,22 +118,22 @@ The VX-5R is an ultra-compact [amateur radio](Amateur%20radio.md) [transceiver](
 
 The [Yaesu](Yaesu%20%28brand%29.md) VX-6R is a triple band handheld [amateur radio](Amateur%20radio.md) transceiver with extensive receive coverage, and leading-edge features. The radio is designed to operate in extreme conditions, and is sealed at all openings to permit underwater submersion up to 1 meter (3 feet) for 30 minutes. A demo model at Dayton Hamvention was held underwater for 8 hours at 1 meter depth, under power, without adverse effects. Available accessories include remote microphones and earphones.
 
-- **Category**   Amateur radio
-- **Class**   Hand-held
-- **Bands**   VHF: 1.25 m (USA only), 2 m  
+- **Category**  Amateur radio
+- **Class**  Hand-held
+- **Bands**  VHF: 1.25 m (USA only), 2 m  
 UHF: 70 cm
 
-- **Rx**   AM/FM: 0.500-999.998 MHz (USA cellular blocked)  
+- **Rx**  AM/FM: 0.500-999.998 MHz (USA cellular blocked)  
 AM/FM: 0.504-999.998 MHz (exp. version)
 
-- **Tx**   FM: 144-148 MHz, pwr: 0.3 W, 1.0 W, 2.5 W, 5.0 W  
+- **Tx**  FM: 144-148 MHz, pwr: 0.3 W, 1.0 W, 2.5 W, 5.0 W  
 FM: 222-225 MHz, pwr: 0.2 W, 0.5 W, 1.0 W, 1.5 W  
 FM: 430-450 MHz, pwr: 0.3 W, 1.0 W, 2.5 W, 5.0 W
 
-- **Power**   7.4 VDC (internal li battery), 5-16 VDC (external), negative ground (outside), inside pin is (+)
-- **Dimensions (HxWxD)**   89 mm × 58 mm × 29 mm
-- **Weight**   277 g (including battery)
-- **First released**   2005
+- **Power**  7.4 VDC (internal li battery), 5-16 VDC (external), negative ground (outside), inside pin is (+)
+- **Dimensions (HxWxD)**  89 mm × 58 mm × 29 mm
+- **Weight**  277 g (including battery)
+- **First released**  2005
 
 #### Features
 
@@ -165,7 +165,6 @@ Frequency range of transmission (US version):
 
 ```
  40  - 80     MHZ  TX 0.5 W-1 W-0.1 W max - special HF mode range for VX-6E rev c2 switch setting HF mode O I I O I 0 0 0
-
 ```
 
 Each band (except 222 MHz and 50 MHz in Asia exported version) can be switched between 5 W, 2.5 W, 1.0 W, and 300 mW.
@@ -203,19 +202,19 @@ The radio is designed to operate in extreme conditions. It is designed to be sho
 
 Receive:
 
-- Specified   Actual (U.S. version)   VFO availability
-- 0.5 - 1.8 MHz (BC band)   0.510 - 1.795 MHz   Main
-- 1.8 - 30 MHz (shortwave band)   1.800 - 29.995 MHz   Main
-- 30 - 59 MHz ([6-meter band](6-meter%20band.md) amateur)   30.000 - 58.995 MHz   Main, sub 50.000-53.995 MHz
-- 59 - 108 MHz (FM/TV-VHF Lo)   59.000 - 107.900 MHz   Main
-- 108 - 137 MHz ([airband](Airband.md))   108.000 - 136.975 MHz   Main
-- 137 - 174 MHz ([2-meter band](2-meter%20band.md) amateur)   137.000 - 173.995 MHz   Main and sub
-- 174 - 222 MHz (TV-VHF Hi)   174.000 - 221.995 MHz   Main
-- 222 - 225 MHz ([1.25-meter band](1.25-meter%20band.md) amateur)   222.000-224.995 MHz   Main
-- 225 - 420 MHz (ACT1: Action Band 1)   225.000 - 419.995 MHz   Main
-- 420 - 470 MHz ([70-centimeter band](70-centimeter%20band.md) amateur)   420.000 - 469.995 MHz   Main and sub
-- 470 - 729 MHz (TV-UHF)   470.000 - 728.995, 758.000-773.995 MHz   Main
-- 800 - 999 MHz (cell-blocked)   803.000 - 823.995, 849.000 - 868.995, 894.000 - 914.995, 944.000 - 959.995, 989.000 - 998.995 MHz   Main
+- Specified  Actual (U.S. version)  VFO availability
+- 0.5 - 1.8 MHz (BC band)  0.510 - 1.795 MHz  Main
+- 1.8 - 30 MHz (shortwave band)  1.800 - 29.995 MHz  Main
+- 30 - 59 MHz ([6-meter band](6-meter%20band.md) amateur)  30.000 - 58.995 MHz  Main, sub 50.000-53.995 MHz
+- 59 - 108 MHz (FM/TV-VHF Lo)  59.000 - 107.900 MHz  Main
+- 108 - 137 MHz ([airband](Airband.md))  108.000 - 136.975 MHz  Main
+- 137 - 174 MHz ([2-meter band](2-meter%20band.md) amateur)  137.000 - 173.995 MHz  Main and sub
+- 174 - 222 MHz (TV-VHF Hi)  174.000 - 221.995 MHz  Main
+- 222 - 225 MHz ([1.25-meter band](1.25-meter%20band.md) amateur)  222.000-224.995 MHz  Main
+- 225 - 420 MHz (ACT1: Action Band 1)  225.000 - 419.995 MHz  Main
+- 420 - 470 MHz ([70-centimeter band](70-centimeter%20band.md) amateur)  420.000 - 469.995 MHz  Main and sub
+- 470 - 729 MHz (TV-UHF)  470.000 - 728.995, 758.000-773.995 MHz  Main
+- 800 - 999 MHz (cell-blocked)  803.000 - 823.995, 849.000 - 868.995, 894.000 - 914.995, 944.000 - 959.995, 989.000 - 998.995 MHz  Main
 
 Frequency range transmit:
 

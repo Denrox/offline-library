@@ -32,7 +32,7 @@ The ITU **International Morse code** encodes the 26 basic Latin letters A to Z, 
 
 Morse code can be memorized and sent in a form perceptible to the human senses, e.g. via sound waves or visible light, such that it can be directly interpreted by persons trained in it. Morse code is usually transmitted by on-off keying of an information-carrying medium such as electric current, radio waves, visible light, or sound waves. The current or wave is present during the time period of the *dit* or *dah* and absent during the time between *dits* and *dahs*. Since many natural languages use more than the 26 letters of the Latin alphabet, Morse alphabets have been developed for those, largely by transliteration of existing codes.
 
-To increase transmission efficiency, Vail designed the original alphabetic code so the duration of each symbol was approximately inverse to the frequency that the character it represents occurs in English text. After revisions that led to ITU Morse code, the assignment of codes to characters in a few cases became non-optimal, although many encodings are. For instance, the most common letter in English, E, has the shortest code – a single *dit*. Because code elements are specified relatively, by proportion, rather than fixed duration, the code is usually sent at the highest rate the receiver is capable of decoding.
+To increase transmission efficiency, Vail designed the original alphabetic code so the duration of each symbol was approximately inverse to the frequency that the character it represents occurs in English text. After revisions that led to ITU Morse code, the assignment of codes to characters in a few cases became non-optimal, although many encodings are. For instance, the most common letter in English, E, has the shortest code –  a single *dit*. Because code elements are specified relatively, by proportion, rather than fixed duration, the code is usually sent at the highest rate the receiver is capable of decoding.
 
 ### Development and history
 
@@ -215,12 +215,12 @@ The very long time constants of 19th and early 20th century submarine communicat
 #### Timing
 
 Below is an illustration of timing conventions. The phrase MORSE CODE, in Morse code format, would normally be written something like this, where  ▄▄▄  represents *dahs* and  ▄  represents *dits*:  
-- M  O  R  S  E      C  O  D   E
-- ▄▄▄ ▄▄▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄ ▄▄▄ ▄    ▄ ▄ ▄    ▄       ▄▄▄ ▄ ▄▄▄ ▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄▄▄ ▄ ▄    ▄
+- M O R S E        C O D  E
+- ▄▄▄ ▄▄▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄ ▄▄▄ ▄   ▄ ▄ ▄   ▄     ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄   ▄
 
 Next is the exact conventional timing for this phrase, with ▓ representing "signal on", and ˽ representing "signal off", each for the time length of exactly one dit:  
-- M    O    R    S    E      C    O    D     E
-- ▓▓▓˽▓▓▓  ˽˽˽  ▓▓▓˽▓▓▓˽▓▓▓  ˽˽˽  ▓˽▓▓▓˽▓  ˽˽˽  ▓˽▓˽▓  ˽˽˽  ▓  ˽˽˽˽˽˽˽  ▓▓▓˽▓˽▓▓▓˽▓  ˽˽˽  ▓▓▓˽▓▓▓˽▓▓▓  ˽˽˽  ▓▓▓˽▓˽▓  ˽˽˽  ▓
+- M  O  R  S  E        C  O  D   E
+- ▓▓▓˽▓▓▓ ˽˽˽ ▓▓▓˽▓▓▓˽▓▓▓ ˽˽˽ ▓˽▓▓▓˽▓ ˽˽˽ ▓˽▓˽▓ ˽˽˽ ▓ ˽˽˽˽˽˽˽ ▓▓▓˽▓˽▓▓▓˽▓ ˽˽˽ ▓▓▓˽▓▓▓˽▓▓▓ ˽˽˽ ▓▓▓˽▓˽▓ ˽˽˽ ▓
 - ↑
 
 ↑
@@ -243,13 +243,13 @@ word
 #### Spoken representation
 
 Morse code is often spoken or written with *dah* for dashes, *dit* for dots located at the end of a character, and *di* for dots located at the beginning or internally within the character. Thus, the following Morse code sequence:  
-- ▄▄▄ ▄▄▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄ ▄▄▄ ▄    ▄ ▄ ▄    ▄       ▄▄▄ ▄ ▄▄▄ ▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄▄▄ ▄ ▄    ▄
-- M  O  R  S  E      C  O  D   E
+- ▄▄▄ ▄▄▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄ ▄▄▄ ▄   ▄ ▄ ▄   ▄     ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄   ▄
+- M O R S E        C O D  E
 
 is spoken (or sung):  
-- *dah dah*    *dah dah dah*    *di dah dit*    *di di dit*    *dit*         *dah di dah dit*    *dah dah dah*    *dah di dit*    *dit*
-- ▄▄▄ ▄▄▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄ ▄▄▄ ▄    ▄ ▄ ▄    ▄       ▄▄▄ ▄ ▄▄▄ ▄    ▄▄▄ ▄▄▄ ▄▄▄    ▄▄▄ ▄ ▄    ▄
-- M  O  R  S  E     C  O  D   E
+- *dah dah*     *dah dah dah*     *di dah dit*     *di di dit*     *dit*              *dah di dah dit*     *dah dah dah*     *dah di dit*     *dit*
+- ▄▄▄ ▄▄▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄ ▄▄▄ ▄   ▄ ▄ ▄   ▄     ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄   ▄
+- M O R S E   C O D  E
 
 For use on radio, there is little point in learning to read Morse *written* in dashes and dots, as above; rather, the *sounds* of all of the letters and symbols need to be learned, for both sending and receiving.
 
@@ -270,9 +270,9 @@ While the Federal Communications Commission no longer requires Morse code for am
 A difference between amateur radio licenses and commercial radiotelegraph licenses is that commercial operators must be able to receive code groups of random characters along with plain language text. For each class of license, the code group speed requirement is slower than the plain language text requirement. For example, for the Radiotelegraph Operator License, the examinee must pass a 20 word per minute plain text test and a 16 word per minute code group test.
 
 Based upon a 50 dit duration standard word such as PARIS, the time for one *dit* duration or one unit can be computed by the formula:  
-*T* = ⁠ 1200 / *W* ⁠
+*T* = ⁠  1200  / *W* ⁠
 
-where: T is the unit time, or *dit* duration in milliseconds, and W is the speed in WPM.
+where:  T  is the unit time, or *dit* duration in milliseconds, and  W  is the speed in WPM.
 
 High-speed telegraphy contests are held; according to the *Guinness Book of Records* in June 2005 at the International Amateur Radio Union's 6th World Championship in High Speed Telegraphy in Primorsko, Bulgaria, Andrei Bindasov of Belarus transmitted 230 Morse code marks of mixed text in one minute.
 
@@ -306,175 +306,175 @@ A well-known Morse code rhythm from the Second World War period derives from Bee
 
 Nonstandard punctuation, characters with diacritics, and non-Latin letters are not present in either ITU-R M.1172 or ITU-R M.1677-1, except for Ę, ę.
 
-- Category  Character  Code
-- Letters  A, a  ▄ ▄▄▄
-- B, b  ▄▄▄ ▄ ▄ ▄
-- C, c  ▄▄▄ ▄ ▄▄▄ ▄
-- D, d  ▄▄▄ ▄ ▄
-- E, e  ▄
-- F, f  ▄ ▄ ▄▄▄ ▄
-- G, g  ▄▄▄ ▄▄▄ ▄
-- H, h  ▄ ▄ ▄ ▄
-- I, i  ▄ ▄
-- J, j  ▄ ▄▄▄ ▄▄▄ ▄▄▄
+- Category Character Code
+- Letters A, a ▄ ▄▄▄
+- B, b ▄▄▄ ▄ ▄ ▄
+- C, c ▄▄▄ ▄ ▄▄▄ ▄
+- D, d ▄▄▄ ▄ ▄
+- E, e ▄
+- F, f ▄ ▄ ▄▄▄ ▄
+- G, g ▄▄▄ ▄▄▄ ▄
+- H, h ▄ ▄ ▄ ▄
+- I, i ▄ ▄
+- J, j ▄ ▄▄▄ ▄▄▄ ▄▄▄
 - K, k  
-Prosign for general *invitation to transmit*  ▄▄▄ ▄ ▄▄▄
-- L, l  ▄ ▄▄▄ ▄ ▄
-- M, m  ▄▄▄ ▄▄▄
-- N, n  ▄▄▄ ▄
-- O, o  ▄▄▄ ▄▄▄ ▄▄▄
-- P, p  ▄ ▄▄▄ ▄▄▄ ▄
-- Q, q  ▄▄▄ ▄▄▄ ▄ ▄▄▄
-- R, r  ▄ ▄▄▄ ▄
-- S, s  ▄ ▄ ▄
-- T, t  ▄▄▄
-- U, u  ▄ ▄ ▄▄▄
-- V, v  ▄ ▄ ▄ ▄▄▄
-- W, w  ▄ ▄▄▄ ▄▄▄
-- X, x  ▄▄▄ ▄ ▄ ▄▄▄
-- Y, y  ▄▄▄ ▄ ▄▄▄ ▄▄▄
-- Z, z  ▄▄▄ ▄▄▄ ▄ ▄
-- Numbers  0  ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 1  ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 2  ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 3  ▄ ▄ ▄ ▄▄▄ ▄▄▄
-- 4  ▄ ▄ ▄ ▄ ▄▄▄
-- 5  ▄ ▄ ▄ ▄ ▄
-- 6  ▄▄▄ ▄ ▄ ▄ ▄
-- 7  ▄▄▄ ▄▄▄ ▄ ▄ ▄
-- 8  ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄
-- 9  ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
-- Punctuation  Period [ . ]  
-RK digraph  ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
+Prosign for general *invitation to transmit* ▄▄▄ ▄ ▄▄▄
+- L, l ▄ ▄▄▄ ▄ ▄
+- M, m ▄▄▄ ▄▄▄
+- N, n ▄▄▄ ▄
+- O, o ▄▄▄ ▄▄▄ ▄▄▄
+- P, p ▄ ▄▄▄ ▄▄▄ ▄
+- Q, q ▄▄▄ ▄▄▄ ▄ ▄▄▄
+- R, r ▄ ▄▄▄ ▄
+- S, s ▄ ▄ ▄
+- T, t ▄▄▄
+- U, u ▄ ▄ ▄▄▄
+- V, v ▄ ▄ ▄ ▄▄▄
+- W, w ▄ ▄▄▄ ▄▄▄
+- X, x ▄▄▄ ▄ ▄ ▄▄▄
+- Y, y ▄▄▄ ▄ ▄▄▄ ▄▄▄
+- Z, z ▄▄▄ ▄▄▄ ▄ ▄
+- Numbers 0 ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 1 ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 2 ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 3 ▄ ▄ ▄ ▄▄▄ ▄▄▄
+- 4 ▄ ▄ ▄ ▄ ▄▄▄
+- 5 ▄ ▄ ▄ ▄ ▄
+- 6 ▄▄▄ ▄ ▄ ▄ ▄
+- 7 ▄▄▄ ▄▄▄ ▄ ▄ ▄
+- 8 ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄
+- 9 ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
+- Punctuation Period [ . ]  
+RK digraph ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
 - Comma [ , ]  
-GW digraph  ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄▄▄
+GW digraph ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄▄▄
 - Question mark [ ? ]  
-UD digraph  ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄
+UD digraph ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄
 - Apostrophe [ ' ], also used for minutes of arc and doubled for seconds of arc ('')  
-WG digraph  ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
+WG digraph ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
 - Slash or fraction bar [ */* ]  
-DN digraph  ▄▄▄ ▄ ▄ ▄▄▄ ▄
+DN digraph ▄▄▄ ▄ ▄ ▄▄▄ ▄
 - Open parenthesis [ ( ]  
-KN digraph; unofficial prosign for *exclusive invitation to transmit*  ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄
+KN digraph; unofficial prosign for *exclusive invitation to transmit* ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄
 - Close parenthesis [ ) ]  
-KK digraph  ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
+KK digraph ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
 - Colon [ : ]  
-OS digraph  ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄
+OS digraph ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄
 - Double dash [ = ]  
-BT digraph; prosign for *new section* or *new paragraph*  ▄▄▄ ▄ ▄ ▄ ▄▄▄
+BT digraph; prosign for *new section* or *new paragraph* ▄▄▄ ▄ ▄ ▄ ▄▄▄
 - Plus sign [ + ]  
-RN digraph; prosign for *new message* or *new page*  ▄ ▄▄▄ ▄ ▄▄▄ ▄
+RN digraph; prosign for *new message* or *new page* ▄ ▄▄▄ ▄ ▄▄▄ ▄
 - Hyphen or Minus sign [ − ]  
-DU  ▄▄▄ ▄ ▄ ▄ ▄ ▄▄▄
+DU ▄▄▄ ▄ ▄ ▄ ▄ ▄▄▄
 - Quotation mark [ " ]  
-RR  ▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄
+RR ▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄
 - At sign [ @ ]  
-AC digraph  ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄
-- Nonstandard punctuation  Exclamation mark, [ ! ]  
-KW digraph, alt. MN   ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄  
+AC digraph ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄
+- Nonstandard punctuation Exclamation mark, [ ! ]  
+KW digraph, alt. MN  ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄  
 alt. ▄▄▄ ▄▄▄ ▄▄▄ ▄
 - Ampersand [ & ]  
-AS digraph; prosign for *wait*  ▄ ▄▄▄ ▄ ▄ ▄
+AS digraph; prosign for *wait* ▄ ▄▄▄ ▄ ▄ ▄
 - Semicolon [ ; ]  
-KR  ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄
+KR ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄
 - Underscore [ _ ]  
-UK  ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
+UK ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
 - Dollar sign [ $ ]  
-SX digraph  ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄
-- [Prosigns](Prosigns%20for%20Morse%20code.md)  *End of work*  
-SK digraph  ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄
+SX digraph ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄
+- [Prosigns](Prosigns%20for%20Morse%20code.md) *End of work*  
+SK digraph ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄
 - *Error*  
-HH digraph  ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+HH digraph ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
 - *General invitation to transmit*  
-Also used for letter 'K'  ▄▄▄ ▄ ▄▄▄
+Also used for letter 'K' ▄▄▄ ▄ ▄▄▄
 - *Transmission start signal*  
-CT digraph  ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
+CT digraph ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
 - *Next message follows*  
-RN digraph; message or page separator. Sometimes represented as + in a single-line decoding display.  ▄ ▄▄▄ ▄ ▄▄▄ ▄
+RN digraph; message or page separator. Sometimes represented as + in a single-line decoding display. ▄ ▄▄▄ ▄ ▄▄▄ ▄
 - *Verified*  
-SN digraph; also used for letter Ŝ  ▄ ▄ ▄ ▄▄▄ ▄
+SN digraph; also used for letter Ŝ ▄ ▄ ▄ ▄▄▄ ▄
 - *Wait*  
-AS digraph; proposed for use as ampersand [ & ]  ▄ ▄▄▄ ▄ ▄ ▄
+AS digraph; proposed for use as ampersand [ & ] ▄ ▄▄▄ ▄ ▄ ▄
 - Diacritics and non-Latin  
-extensions  À, à  
-Code shared with Å  ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
+extensions À, à  
+Code shared with Å ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
 - Ä, ä  
-Code shared with Æ, Ą  ▄ ▄▄▄ ▄ ▄▄▄
+Code shared with Æ, Ą ▄ ▄▄▄ ▄ ▄▄▄
 - Å, å  
-Code shared with À  ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
+Code shared with À ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄
 - Ą, ą  
-Code shared with Ä, Æ  ▄ ▄▄▄ ▄ ▄▄▄
+Code shared with Ä, Æ ▄ ▄▄▄ ▄ ▄▄▄
 - Æ, æ  
-Code shared with Ä, Ą  ▄ ▄▄▄ ▄ ▄▄▄
+Code shared with Ä, Ą ▄ ▄▄▄ ▄ ▄▄▄
 - Ć, ć  
-Code shared with Ĉ, Ç  ▄▄▄ ▄ ▄▄▄ ▄ ▄
+Code shared with Ĉ, Ç ▄▄▄ ▄ ▄▄▄ ▄ ▄
 - Ĉ, ĉ  
-Code shared with Ć, Ç  ▄▄▄ ▄ ▄▄▄ ▄ ▄
+Code shared with Ć, Ç ▄▄▄ ▄ ▄▄▄ ▄ ▄
 - Ç, ç  
-Code shared with Ć, Ĉ  ▄▄▄ ▄ ▄▄▄ ▄ ▄
+Code shared with Ć, Ĉ ▄▄▄ ▄ ▄▄▄ ▄ ▄
 - CH, ch  
-Code shared with Ĥ, Š  ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+Code shared with Ĥ, Š ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
 - Đ, đ (D with stroke)  
-Code shared with É, Ę; distinct from *eth* (Ð, ð)  ▄ ▄ ▄▄▄ ▄ ▄
+Code shared with É, Ę; distinct from *eth* (Ð, ð) ▄ ▄ ▄▄▄ ▄ ▄
 - Ð, ð ( *Edh* or *eth*)  
-Distinct from D with stroke ( Đ, đ)  ▄ ▄ ▄▄▄ ▄▄▄ ▄
+Distinct from D with stroke ( Đ, đ) ▄ ▄ ▄▄▄ ▄▄▄ ▄
 - É, é  
-Code shared with Đ ,Ę  ▄ ▄ ▄▄▄ ▄ ▄
+Code shared with Đ ,Ę ▄ ▄ ▄▄▄ ▄ ▄
 - È, è  
-Code shared with Ł  ▄ ▄▄▄ ▄ ▄ ▄▄▄
+Code shared with Ł ▄ ▄▄▄ ▄ ▄ ▄▄▄
 - Ę, ę  
-Code shared with Đ, É  ▄ ▄ ▄▄▄ ▄ ▄
-- Ĝ, ĝ  ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄
+Code shared with Đ, É ▄ ▄ ▄▄▄ ▄ ▄
+- Ĝ, ĝ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄
 - Ĥ, ĥ  
-Code shared with CH, Š  ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- Ĵ, ĵ  ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
+Code shared with CH, Š ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- Ĵ, ĵ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
 - Ł, ł  
-Code shared with È  ▄ ▄▄▄ ▄ ▄ ▄▄▄
+Code shared with È ▄ ▄▄▄ ▄ ▄ ▄▄▄
 - Ń, ń  
-Code shared with Ñ  ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄
+Code shared with Ñ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄
 - Ñ, ñ  
-Code shared with Ń  ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄
+Code shared with Ń ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄
 - Ó, ó  
-Code shared with Ö, Ø, [ ! ]  ▄▄▄ ▄▄▄ ▄▄▄ ▄
+Code shared with Ö, Ø, [ ! ] ▄▄▄ ▄▄▄ ▄▄▄ ▄
 - Ö, ö  
-Code shared with Ó, Ø, [ ! ]  ▄▄▄ ▄▄▄ ▄▄▄ ▄
+Code shared with Ó, Ø, [ ! ] ▄▄▄ ▄▄▄ ▄▄▄ ▄
 - Ø, ø  
-Code shared with Ó, Ö, [ ! ]  ▄▄▄ ▄▄▄ ▄▄▄ ▄
-- Ś, ś  ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄
+Code shared with Ó, Ö, [ ! ] ▄▄▄ ▄▄▄ ▄▄▄ ▄
+- Ś, ś ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄
 - Ŝ, ŝ  
-Prosign for *verified*  ▄ ▄ ▄ ▄▄▄ ▄
+Prosign for *verified* ▄ ▄ ▄ ▄▄▄ ▄
 - Š, š  
-Code shared with CH, Ĥ  ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- Þ, þ  ▄ ▄▄▄ ▄▄▄ ▄ ▄
+Code shared with CH, Ĥ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- Þ, þ ▄ ▄▄▄ ▄▄▄ ▄ ▄
 - Ü, ü  
-Code shared with Ŭ  ▄ ▄ ▄▄▄ ▄▄▄
+Code shared with Ŭ ▄ ▄ ▄▄▄ ▄▄▄
 - Ŭ, ŭ  
-Code shared with Ü  ▄ ▄ ▄▄▄ ▄▄▄
-- Ź, ź  ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄
-- Ż, ż  ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄
+Code shared with Ü ▄ ▄ ▄▄▄ ▄▄▄
+- Ź, ź ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄
+- Ż, ż ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄
 
 #### Cut numbers
 
-Since the 1870s, most numbers have an unofficial short-form, given in the table below. They are only used when both the sender and the receiver understand that numbers, and not letters, are intended; for example, one often sees the most common [R-S-T signal report](R-S-T%20system.md) rendered as 5 N N  instead of 5 9 9.
+Since the 1870s, most numbers have an unofficial short-form, given in the table below. They are only used when both the sender and the receiver understand that numbers, and not letters, are intended; for example, one often sees the most common [R-S-T signal report](R-S-T%20system.md) rendered as 5 N N   instead of 5 9 9.
 
 Cut numbers are made by reducing multiple *dahs* in the standard Morse number codes to only one *dah*, but keeping all the *dits* as-is. This leaves the codes for 4 and 6 unchanged.  
 Cut (abbreviated) numbers
 - Intended  
-digit   "Cut" number  
-code   Same as code  
-in Intl. Morse   Normal code  
+digit  "Cut" number  
+code  Same as code  
+in Intl. Morse  Normal code  
 (long form)
-- 0    ▄▄▄    T    ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 1    ▄ ▄▄▄    A    ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 2    ▄ ▄ ▄▄▄    U    ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄
-- 3    ▄ ▄ ▄ ▄▄▄    V    ▄ ▄ ▄ ▄▄▄ ▄▄▄
-- 4    ▄ ▄ ▄ ▄ ▄▄▄    4    ▄ ▄ ▄ ▄ ▄▄▄
-- 5    ▄  or  ▄ ▄ ▄ ▄ ▄    e or 5    ▄ ▄ ▄ ▄ ▄
-- 6    ▄▄▄ ▄ ▄ ▄ ▄    6    ▄▄▄ ▄ ▄ ▄ ▄
-- 7    ▄▄▄ ▄ ▄ ▄    B    ▄▄▄ ▄▄▄ ▄ ▄ ▄
-- 8    ▄▄▄ ▄ ▄    D    ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄
-- 9    ▄▄▄ ▄    N    ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
-- .    ▄▄▄ ▄ ▄▄▄    K    ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
+- 0   ▄▄▄   T   ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 1   ▄ ▄▄▄   A   ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 2   ▄ ▄ ▄▄▄   U   ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄
+- 3   ▄ ▄ ▄ ▄▄▄   V   ▄ ▄ ▄ ▄▄▄ ▄▄▄
+- 4   ▄ ▄ ▄ ▄ ▄▄▄   4   ▄ ▄ ▄ ▄ ▄▄▄
+- 5   ▄  or  ▄ ▄ ▄ ▄ ▄   e or 5   ▄ ▄ ▄ ▄ ▄
+- 6   ▄▄▄ ▄ ▄ ▄ ▄   6   ▄▄▄ ▄ ▄ ▄ ▄
+- 7   ▄▄▄ ▄ ▄ ▄   B   ▄▄▄ ▄▄▄ ▄ ▄ ▄
+- 8   ▄▄▄ ▄ ▄   D   ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄
+- 9   ▄▄▄ ▄   N   ▄▄▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄
+- .   ▄▄▄ ▄ ▄▄▄   K   ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄
 
 #### Prosigns
 
@@ -484,13 +484,13 @@ in Intl. Morse   Normal code
 
 The symbols !, $, and & are not defined inside the official ITU-R *International Morse Code Recommendation*, but informal conventions for them exist. (The @ symbol was formally added in 2004. The % and ‰ symbols both have recommended multi-character encodings (see below).)
 
-**Exclamation mark**  — There is no standard representation for the exclamation mark !, although the KW digraph ( ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄ ) was proposed in the 1980s by the Heathkit Company. While Morse code translation software prefers the Heathkit version, on-air use is not yet universal, as some amateur radio operators in North America and the Caribbean continue to use the older MN digraph ( ▄▄▄ ▄▄▄ ▄▄▄ ▄ ) copied over from American Morse landline code. MN or OE,  ▄▄▄ ▄▄▄ ▄▄▄ ▄ , which some telegraphers unofficially use for an exclamation mark !, is shared with unofficial letters Ö, Ó, and Ø used in some non-Latin alphabets.
+**Exclamation mark** — There is no standard representation for the exclamation mark !, although the KW digraph ( ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄▄▄ ) was proposed in the 1980s by the Heathkit Company. While Morse code translation software prefers the Heathkit version, on-air use is not yet universal, as some amateur radio operators in North America and the Caribbean continue to use the older MN digraph ( ▄▄▄ ▄▄▄ ▄▄▄ ▄ ) copied over from American Morse landline code. MN or OE,  ▄▄▄ ▄▄▄ ▄▄▄ ▄ , which some telegraphers unofficially use for an exclamation mark !, is shared with unofficial letters Ö, Ó, and Ø used in some non-Latin alphabets.
 
-**Currency symbols**  — The ITU has never formally codified any currency symbols into Morse code: The unambiguous ISO 4217 currency codes are preferred for transmission (e.g. CNY, EUR, GBP, JPY, KRW, USD, etc.). The dollar sign ($) was represented in the Phillips Code collection of abbreviations as two characters "SX". Eventually operators dropped the intervening space and merged the two letter code or abbreviation into the single unofficial punctuation encoding SX ( ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄ ).
+**Currency symbols** — The ITU has never formally codified any currency symbols into Morse code: The unambiguous ISO 4217 currency codes are preferred for transmission (e.g. CNY, EUR, GBP, JPY, KRW, USD, etc.). The dollar sign ($) was represented in the Phillips Code collection of abbreviations as two characters "SX". Eventually operators dropped the intervening space and merged the two letter code or abbreviation into the single unofficial punctuation encoding SX ( ▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄ ).
 
-**Ampersand ( & )**  — The suggested unofficial encoding of the ampersand & sign listed above, often shown as AS, is also the official Morse prosign for *wait*. In addition, the American Morse encoding for an ampersand ( ▄ ▄ ▄ ▄ ) was similar to ES ( ▄  ▄ ▄ ▄ ), adapted from the code for ampersand in Railroad Morse. Hams have nearly universally carried over this use as an abbreviation for "and" (e.g. WX HR COLD ES RAINY "the weather here is cold and rainy"). Since ES is well established and slightly quicker than AS, there is no motive for replacing it.
+**Ampersand ( & )** — The suggested unofficial encoding of the ampersand & sign listed above, often shown as AS, is also the official Morse prosign for *wait*. In addition, the American Morse encoding for an ampersand ( ▄  ▄ ▄ ▄ ) was similar to ES ( ▄  ▄ ▄ ▄ ), adapted from the code for ampersand in Railroad Morse. Hams have nearly universally carried over this use as an abbreviation for "and" (e.g. WX HR COLD ES RAINY "the weather here is cold and rainy"). Since ES is well established and slightly quicker than AS, there is no motive for replacing it.
 
-**Keyboard "at" sign ( @ )**  — On 24 May 2004—the 160th anniversary of the first public Morse telegraph transmission—the Radiocommunication Bureau of the International Telecommunication Union (ITU-R) formally added the @ ("commercial at" or "commat") character to the official Morse character set, using the sequence denoted by the AC digraph:  ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄  .  
+**Keyboard "at" sign ( @ )** — On 24 May 2004—the 160th anniversary of the first public Morse telegraph transmission—the Radiocommunication Bureau of the International Telecommunication Union (ITU-R) formally added the @ ("commercial at" or "commat") character to the official Morse character set, using the sequence denoted by the AC digraph:  ▄ ▄▄▄ ▄▄▄ ▄ ▄▄▄ ▄  .  
 This sequence was reported to have been chosen to represent "A[t] C[ommercial]", or a letter 'a' inside a swirl represented by a letter 'C'. The new character facilitates sending e‑mail addresses by Morse code, and is notable since it is the first official addition to the Morse set of characters since World War I.
 
 **Percent ( % ) and permille ( ‰ ) signs**  — Percent and permille signs should be encoded with zeroes separated by a slash, joined to the preceding number by a dash; so e.g. "4%" would be sent as "4-0/0", and "5‰" as "5-0/00", and "6.7%" as "6.7-0/0".

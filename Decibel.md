@@ -6,7 +6,7 @@
 - Named after Alexander Graham Bell
 - Conversions
 - 1 dB *in ...* *... is equal to ...*
-- bel  0.1 bel
+- bel    0.1 bel
 
 The **decibel** (symbol: **dB**) is a relative unit of measurement equal to one tenth of a **bel** (**B**). It expresses the ratio of two values of a power or root-power quantity on a logarithmic scale. Two signals whose levels differ by one decibel have a power ratio of 10 (approximately 1.26) or root-power ratio of 10 (approximately 1.12).
 
@@ -18,34 +18,34 @@ The definition of the decibel originated in the measurement of transmission loss
 
 ### Definition
 
-- dB   Power ratio   Amplitude ratio
-- 100   10000000000     100000
-- 90   1000000000     31623
-- 80   100000000     10000
-- 70   10000000     3162
-- 60   1000000     1000
-- 50   100000     316  .2
-- 40   10000     100
-- 30   1000     31  .62
-- 20   100     10
-- 10   10     3  .162
-- 6   3  .981 ≈ 4   1  .995 ≈ 2
-- 3   1  .995 ≈ 2   1  .413 ≈ √2
-- 1   1  .259   1  .122
-- 0   1     1
-- −1   0  .794   0  .891
-- −3   0  .501 ≈ ⁠1/2⁠   0  .708 ≈ ⁠1/√2⁠
-- −6   0  .251 ≈ ⁠1/4⁠   0  .501 ≈ ⁠1/2⁠
-- −10   0  .1   0  .3162
-- −20   0  .01   0  .1
-- −30   0  .001   0  .03162
-- −40   0  .0001   0  .01
-- −50   0  .00001   0  .003162
-- −60   0  .000001   0  .001
-- −70   0  .0000001   0  .0003162
-- −80   0  .00000001   0  .0001
-- −90   0  .000000001   0  .00003162
-- −100   0  .0000000001   0  .00001
+- dB  Power ratio  Amplitude ratio
+- 100  10000000000   100000
+- 90  1000000000   31623
+- 80  100000000   10000
+- 70  10000000   3162
+- 60  1000000   1000
+- 50  100000   316 .2
+- 40  10000   100
+- 30  1000   31 .62
+- 20  100   10
+- 10  10   3 .162
+- 6  3 .981 ≈ 4  1 .995 ≈ 2
+- 3  1 .995 ≈ 2  1 .413 ≈ √2
+- 1  1 .259  1 .122
+- 0  1   1
+- −1  0 .794  0 .891
+- −3  0 .501 ≈ ⁠1/2⁠  0 .708 ≈ ⁠1/√2⁠
+- −6  0 .251 ≈ ⁠1/4⁠  0 .501 ≈ ⁠1/2⁠
+- −10  0 .1  0 .3162
+- −20  0 .01  0 .1
+- −30  0 .001  0 .03162
+- −40  0 .0001  0 .01
+- −50  0 .00001  0 .003162
+- −60  0 .000001  0 .001
+- −70  0 .0000001  0 .0003162
+- −80  0 .00000001  0 .0001
+- −90  0 .000000001  0 .00003162
+- −100  0 .0000000001  0 .00001
 - An example scale showing power ratios *x*,  
 amplitude ratios √*x*, and dB equivalents 10 log10 *x*
 
@@ -88,10 +88,10 @@ For differences in level, the required relationship is relaxed from that above t
 Since logarithm differences expressed in these units often represent power ratios and root-power ratios, values for both are shown below. The bel is traditionally used as a unit of logarithmic power ratio, while the neper is used for logarithmic root-power (amplitude) ratio.
 
 Conversion between units of level and a list of corresponding ratios
-- Unit  In decibels  In bels  In nepers  Power ratio  Root-power ratio
-- 1 dB  1 dB  0.1 B  0.11513 Np  10 ≈ 1.25893  10 ≈ 1.12202
-- 1 B  10 dB  1 B  1.151 3 Np  10  10 ≈ 3.162 28
-- 1 Np  8.68589 dB  0.868589 B  1 Np  e ≈ 7.38906  e ≈ 2.71828
+- Unit In decibels In bels In nepers Power ratio Root-power ratio
+- 1 dB 1 dB 0.1 B 0.11513 Np 10 ≈ 1.25893 10 ≈ 1.12202
+- 1 B 10 dB 1 B 1.151 3 Np 10 10 ≈ 3.162 28
+- 1 Np 8.68589 dB 0.868589 B 1 Np e ≈ 7.38906 e ≈ 2.71828
 
 #### Examples
 
@@ -205,236 +205,236 @@ Outside of documents adhering to SI units, the practice is very common as illust
 
 Since the decibel is defined with respect to power, not amplitude, conversions of voltage ratios to decibels must square the amplitude, or use the factor of 20 instead of 10, as discussed above.
 
-**dBV**  — dB(VRMS) – voltage relative to 1 volt, regardless of impedance. This is used to measure microphone sensitivity, and also to specify the consumer line-level of −10 dBV, in order to reduce manufacturing costs relative to equipment using the much larger +4 dBu line-level standard.
+**dBV** — dB(VRMS) – voltage relative to 1 volt, regardless of impedance. This is used to measure microphone sensitivity, and also to specify the consumer line-level of −10 dBV, in order to reduce manufacturing costs relative to equipment using the much larger +4 dBu line-level standard.
 
-**dBu or dBv**  —  0 dBu is defined as the RMS voltage that would dissipate 0 dBm (1 mW) in a 600 Ω load. Per Ohm's law, this voltage equals:$$\begin{align} \sqrt{R P} &= \sqrt{600\ \mathsf{\Omega} \ \cdot\ 0.001\, \mathsf{W}\;} \\[1ex] &= \sqrt{0.6} \ \mathsf{V_{RMS}} \approx 0.7746\ \mathsf{V_{RMS}}\, . \end{align}$$where $$R$$ is the resistance and $$P$$ is the power. Therefore, 1 VRMS corresponds to: $$20 \cdot \log_{10} \left( \frac{ 1\ \mathsf{V_{RMS}}}{\sqrt{0.6}\ \mathsf{V_{RMS}}} \right) \approx 2.218\ \mathsf{dB_u} ~.$$Originally called dBv, it was changed to dBu to avoid confusion with dBV. According to Rupert Neve, the *u* originated from the volume *unit* displayed on a VU meter. The *u* has also been interpreted as *unloaded*.  
+**dBu or dBv** —  0 dBu is defined as the RMS voltage that would dissipate 0 dBm (1 mW) in a 600 Ω load. Per Ohm's law, this voltage equals:$$\begin{align} \sqrt{R P} &= \sqrt{600\ \mathsf{\Omega} \ \cdot\ 0.001\, \mathsf{W}\;} \\[1ex] &= \sqrt{0.6} \ \mathsf{V_{RMS}} \approx 0.7746\ \mathsf{V_{RMS}}\, . \end{align}$$where $$R$$ is the resistance and $$P$$ is the power. Therefore, 1 VRMS corresponds to: $$20 \cdot \log_{10} \left( \frac{ 1\ \mathsf{V_{RMS}}}{\sqrt{0.6}\ \mathsf{V_{RMS}}} \right) \approx 2.218\ \mathsf{dB_u} ~.$$Originally called dBv, it was changed to dBu to avoid confusion with dBV. According to Rupert Neve, the *u* originated from the volume *unit* displayed on a VU meter. The *u* has also been interpreted as *unloaded*.  
 In professional audio, equipment may be calibrated to indicate a "0" on the VU meters some finite time after a signal has been applied at an amplitude of +4 dBu. Consumer equipment typically uses a lower "nominal" signal level of −10 dBV. Therefore, many devices offer dual voltage operation (with different gain or "trim" settings) for compatibility. A switch or adjustment that covers at least the range between +4 dBu and −10 dBV is common in professional equipment.
 
-**dBmV**  — dBmV: dB(mVRMS) – root mean square voltage relative to 1 millivolt across 75 Ω. Widely used in cable television networks, where the nominal strength of a single TV signal at the receiver terminals is about 0 dB mV. Cable TV uses 75 Ω coaxial cable, so 0 dB mV corresponds to −78.75 dBW, −48.75 dBm or approximately 13 nW.
+**dBmV** — dBmV: dB(mVRMS) – root mean square voltage relative to 1 millivolt across 75 Ω. Widely used in cable television networks, where the nominal strength of a single TV signal at the receiver terminals is about 0 dB mV. Cable TV uses 75 Ω coaxial cable, so 0 dB mV corresponds to −78.75 dBW, −48.75 dBm or approximately 13 nW.
 
-**dBmV0s**  — Defined by *Recommendation ITU-R V.574*.
+**dBmV0s** — Defined by *Recommendation ITU-R V.574*.
 
-**dBμV or dBuV**  — dB(μVRMS) – voltage relative to 1 microvolt. Widely used in television and aerial amplifier specifications. 60 dBμV = 0 dBmV.
+**dBμV or dBuV** — dB(μVRMS) – voltage relative to 1 microvolt. Widely used in television and aerial amplifier specifications. 60 dBμV = 0 dBmV.
 
 #### Acoustics
 
 Probably the most common usage of "decibels" in reference to sound level is dB SPL, sound pressure level referenced to the nominal threshold of human hearing: The measures of pressure (a root-power quantity) use the factor of 20, and the measures of power (e.g. dBSIL and dBSWL) use the factor of 10.
 
-**dBSPL**  — dBSPL (sound pressure level) – for sound in air and other gases, relative to 20 micropascals (μPa), or 2×10 Pa, a level of 0 dBSPL is approximately the quietest sound a human can hear. For sound in water and other liquids, a reference pressure of 1 μPa is used.
+**dBSPL** — dBSPL (sound pressure level) – for sound in air and other gases, relative to 20 micropascals (μPa), or 2×10 Pa, a level of 0 dBSPL is approximately the quietest sound a human can hear. For sound in water and other liquids, a reference pressure of 1 μPa is used.
 
 An RMS sound pressure of one pascal corresponds to a level of 94 dB SPL in air.
 
-**dBSIL**  — dB sound intensity level – relative to 10 W/m, which is roughly the threshold of human hearing in air.
+**dBSIL** — dB sound intensity level – relative to 10 W/m, which is roughly the threshold of human hearing in air.
 
-**dBSWL**  — dB sound power level – relative to 10 W.
+**dBSWL** — dB sound power level – relative to 10 W.
 
-**dB(A), dB(B), and dB(C)**  — These symbols are often used to denote the use of different weighting filters, used to approximate the human ear's response to sound, although the measurement is still in dB (SPL). These measurements usually refer to noise and its effects on humans and other animals, and they are widely used in industry while discussing noise control issues, regulations and environmental standards. Other variations that may be seen are dBA or dB(A). According to standards from the International Electro-technical Committee (IEC 61672-2013) and the American National Standards Institute, ANSI S1.4, the preferred usage is to write L A = x dB. Nevertheless, the units dB(A) are still commonly used as a shorthand for A‑weighted measurements. Compare dBc, used in telecommunications.
+**dB(A), dB(B), and dB(C)** — These symbols are often used to denote the use of different weighting filters, used to approximate the human ear's response to sound, although the measurement is still in dB (SPL). These measurements usually refer to noise and its effects on humans and other animals, and they are widely used in industry while discussing noise control issues, regulations and environmental standards. Other variations that may be seen are dBA or dB(A). According to standards from the International Electro-technical Committee (IEC 61672-2013) and the American National Standards Institute, ANSI S1.4, the preferred usage is to write L A = x dB. Nevertheless, the units dB(A) are still commonly used as a shorthand for A‑weighted measurements. Compare dBc, used in telecommunications.
 
-**dBHL**  — dB hearing level is used in audiograms as a measure of hearing loss. The reference level varies with frequency according to a minimum audibility curve as defined in ANSI and other standards, such that the resulting audiogram shows deviation from what is regarded as 'normal' hearing.
+**dBHL** — dB hearing level is used in audiograms as a measure of hearing loss. The reference level varies with frequency according to a minimum audibility curve as defined in ANSI and other standards, such that the resulting audiogram shows deviation from what is regarded as 'normal' hearing.
 
-**dBQ**  — sometimes used to denote weighted noise level, commonly using the ITU-R 468 noise weighting
+**dBQ** — sometimes used to denote weighted noise level, commonly using the ITU-R 468 noise weighting
 
-**dBpp**  — relative to the peak-to-peak sound pressure.
+**dBpp** — relative to the peak-to-peak sound pressure.
 
-**dB(G)**  — G‑weighted spectrum
+**dB(G)** — G‑weighted spectrum
 
 #### Audio electronics
 
 See also dBV and dBu above.
 
-**[dBm](DBm.md)**  — dBmW – power relative to 1 milliwatt. In audio and telephony, dBm is typically referenced relative to a 600 Ω impedance, which corresponds to a voltage level of 0.775 volts or 775 millivolts.
+**[dBm](DBm.md)** — dBmW – power relative to 1 milliwatt. In audio and telephony, dBm is typically referenced relative to a 600 Ω impedance, which corresponds to a voltage level of 0.775 volts or 775 millivolts.
 
-**dBm0**  — Power in dBm (described above) measured at a zero transmission level point.
+**dBm0** — Power in dBm (described above) measured at a zero transmission level point.
 
-**dBFS**  — dB(full scale) – the amplitude of a signal compared with the maximum which a device can handle before clipping occurs. Full-scale may be defined as the power level of a full-scale sinusoid or alternatively a full-scale square wave. A signal measured with reference to a full-scale sine wave appears 3 dB weaker when referenced to a full-scale square wave, thus: 0 dBFS (full-scale sine wave) = −3 dBFS (full-scale square wave).
+**dBFS** — dB(full scale) – the amplitude of a signal compared with the maximum which a device can handle before clipping occurs. Full-scale may be defined as the power level of a full-scale sinusoid or alternatively a full-scale square wave. A signal measured with reference to a full-scale sine wave appears 3 dB weaker when referenced to a full-scale square wave, thus: 0 dBFS (full-scale sine wave) = −3 dBFS (full-scale square wave).
 
-**dBVU**  — dB volume unit
+**dBVU** — dB volume unit
 
-**dBTP**  — dB(true peak) – peak amplitude of a signal compared with the maximum which a device can handle before clipping occurs. In digital systems, 0 dBTP would equal the highest level (number) the processor is capable of representing. Measured values are always negative or zero, since they are less than or equal to full-scale.
+**dBTP** — dB(true peak) – peak amplitude of a signal compared with the maximum which a device can handle before clipping occurs. In digital systems, 0 dBTP would equal the highest level (number) the processor is capable of representing. Measured values are always negative or zero, since they are less than or equal to full-scale.
 
 #### Radar
 
-**dBZ**  — dBZ – decibel relative to Z = 1 mm⋅m : energy of reflectivity (weather radar), related to the amount of transmitted power returned to the radar receiver. Values above 20 dBZ usually indicate falling precipitation.
+**dBZ** — dBZ – decibel relative to Z = 1 mm⋅m : energy of reflectivity (weather radar), related to the amount of transmitted power returned to the radar receiver. Values above 20 dBZ usually indicate falling precipitation.
 
-**dBsm**  — dB(m) – decibel relative to one square meter: measure of the radar cross section (RCS) of a target. The power reflected by the target is proportional to its RCS. "Stealth" aircraft and insects have negative RCS measured in dBsm, large flat plates or non-stealthy aircraft have positive values.
+**dBsm** — dB(m) – decibel relative to one square meter: measure of the radar cross section (RCS) of a target. The power reflected by the target is proportional to its RCS. "Stealth" aircraft and insects have negative RCS measured in dBsm, large flat plates or non-stealthy aircraft have positive values.
 
 #### Radio power, energy, and field strength
 
-**dBc**  — relative to carrier – in telecommunications, this indicates the relative levels of noise or sideband power, compared with the carrier power. Compare dB(C), used in acoustics.
+**dBc** — relative to carrier – in telecommunications, this indicates the relative levels of noise or sideband power, compared with the carrier power. Compare dB(C), used in acoustics.
 
-**dBpp**  — relative to the maximum value of the peak power.
+**dBpp** — relative to the maximum value of the peak power.
 
-**dBJ**  — energy relative to 1 joule. 1 joule = 1 watt second = 1 watt per hertz, so power spectral density can be expressed in dBJ.
+**dBJ** — energy relative to 1 joule. 1 joule = 1 watt second = 1 watt per hertz, so power spectral density can be expressed in dBJ.
 
-**dBmJ**  — energy relative to 1 millijoule, or 1 milliwatt per hertz.
+**dBmJ** — energy relative to 1 millijoule, or 1 milliwatt per hertz.
 
-**[dBm](DBm.md)**  — dB(mW) – power relative to 1 milliwatt. Usually referenced to a 50 Ω load, so 0 dBm corresponds to 0.224 volts. 0 dBm = -30 dBW.
+**[dBm](DBm.md)** — dB(mW) – power relative to 1 milliwatt. Usually referenced to a 50 Ω load, so 0 dBm corresponds to 0.224 volts. 0 dBm = -30 dBW.
 
-**dBm/Hz**  — dB(mW/Hz) - power spectral density relative to 1 milliwatt per hertz, equivalent to dBmJ.
+**dBm/Hz** — dB(mW/Hz) - power spectral density relative to 1 milliwatt per hertz, equivalent to dBmJ.
 
-**dBμV/m, dBuV/m, or dBμ**  —  dB(μV/m) – electric field strength relative to 1 microvolt per meter. Related to power flux density through the impedance of free space (η0 = 376.73 Ω), so 0 dB μV/m corresponds to (1 μV/m)/η0 = 2.65x10 W/m = -145.76 dBW/m = -115.76 dBm/m.
+**dBμV/m, dBuV/m, or dBμ** —  dB(μV/m) – electric field strength relative to 1 microvolt per meter. Related to power flux density through the impedance of free space (η0 = 376.73 Ω), so 0 dB μV/m corresponds to (1 μV/m)/η0 = 2.65x10 W/m = -145.76 dBW/m = -115.76 dBm/m.
 
-**dBf**  — dB(fW) – power relative to 1 femtowatt.
+**dBf** — dB(fW) – power relative to 1 femtowatt.
 
-**dBW**  — dB(W) – power relative to 1 watt. 1 dBW = +30 dBm.
+**dBW** — dB(W) – power relative to 1 watt. 1 dBW = +30 dBm.
 
-**dBW/Hz**  — dB(W/Hz) - power spectral density relative to 1 watt per hertz. Equivalent to dBJ.
+**dBW/Hz** — dB(W/Hz) - power spectral density relative to 1 watt per hertz. Equivalent to dBJ.
 
-**dBW/m**  — dB(W/m) - power flux density (of electromagnetic radiation) relative to 1 W per square meter.
+**dBW/m** — dB(W/m) - power flux density (of electromagnetic radiation) relative to 1 W per square meter.
 
-**dBk**  — dB(kW) – power relative to 1 kilowatt, 0 dBk = +30 dBW = +60 dBm. Not to be confused with dBK, temperature relative to 1 Kelvin.
+**dBk** — dB(kW) – power relative to 1 kilowatt, 0 dBk = +30 dBW = +60 dBm. Not to be confused with dBK, temperature relative to 1 Kelvin.
 
-**dBe**  — dB electrical.
+**dBe** — dB electrical.
 
-**dBo**  — dB optical. A change of 1 dBo in optical power can result in a change of up to 2 dBe in electrical signal power in a system that is thermal noise limited.
+**dBo** — dB optical. A change of 1 dBo in optical power can result in a change of up to 2 dBe in electrical signal power in a system that is thermal noise limited.
 
 #### Antenna measurements
 
-**dBi**  — dB(isotropic)  – the gain of an antenna compared with the gain of a theoretical isotropic antenna, which uniformly distributes energy in all directions. Linear polarization of the EM field is assumed unless noted otherwise.
+**dBi** — dB(isotropic)  – the gain of an antenna compared with the gain of a theoretical isotropic antenna, which uniformly distributes energy in all directions. Linear polarization of the EM field is assumed unless noted otherwise.
 
-**dBd**  — dB(dipole) – the gain of an antenna compared with the gain of a half-wave [dipole antenna](Dipole%20antenna.md). 0 dBd = 2.15 dBi
+**dBd** — dB(dipole) – the gain of an antenna compared with the gain of a half-wave [dipole antenna](Dipole%20antenna.md). 0 dBd = 2.15 dBi
 
-**dBiC**  — dB(isotropic circular) – the gain of an antenna compared to the gain of a theoretical circularly polarized isotropic antenna. There is no fixed conversion rule between dBiC and dBi, as it depends on the receiving antenna and the field polarization.
+**dBiC** — dB(isotropic circular) – the gain of an antenna compared to the gain of a theoretical circularly polarized isotropic antenna. There is no fixed conversion rule between dBiC and dBi, as it depends on the receiving antenna and the field polarization.
 
-**dBq**  — dB(quarterwave) – the gain of an antenna compared to the gain of a quarter-wavelength whip. Rarely used, except in some marketing material; 0 dBq = −0.85 dBi
+**dBq** — dB(quarterwave) – the gain of an antenna compared to the gain of a quarter-wavelength whip. Rarely used, except in some marketing material; 0 dBq = −0.85 dBi
 
-**dBsm**  — dB(m) – decibels relative to one square meter: A measure of the effective area for capturing signals of the antenna.
+**dBsm** — dB(m) – decibels relative to one square meter: A measure of the effective area for capturing signals of the antenna.
 
-**dBm**  — dB(m) – decibels relative to the reciprocal of a meter: measure of the antenna factor.
+**dBm** — dB(m) – decibels relative to the reciprocal of a meter: measure of the antenna factor.
 
 #### Other measurements
 
-**dBHz**  — dB(Hz) – bandwidth relative to one hertz; e.g., 20 dBHz corresponds to a bandwidth of 100 Hz. Commonly used in link budget calculations. Also used in carrier-to-noise-density ratio (not to be confused with carrier-to-noise ratio, in dB).
+**dBHz** — dB(Hz) – bandwidth relative to one hertz; e.g., 20 dBHz corresponds to a bandwidth of 100 Hz. Commonly used in link budget calculations. Also used in carrier-to-noise-density ratio (not to be confused with carrier-to-noise ratio, in dB).
 
-**dBov or dBO**  — dB(overload) – the amplitude of a signal (usually audio) compared with the maximum which a device can handle before clipping occurs. Similar to dB FS, but also applicable to analog systems. According to ITU-T Rec. G.100.1 the level in dB ov of a digital system is defined as: $$L_\mathsf{ov} = 10 \log_{10} \left( \frac{ P }{\ P_\mathsf{max}\ } \right)\ [\mathsf{dB_{ov}}],$$ with the maximum signal power $$P_\mathsf{max} = 1.0$$, for a rectangular signal with the maximum amplitude $$x_\mathsf{over}$$. The level of a tone with a digital amplitude (peak value) of $$x_\mathsf{over}$$ is therefore $$L_\mathsf{ov} = -3.01\ \mathsf{dB_{ov}}$$.
+**dBov or dBO** — dB(overload) – the amplitude of a signal (usually audio) compared with the maximum which a device can handle before clipping occurs. Similar to dB FS, but also applicable to analog systems. According to ITU-T Rec. G.100.1 the level in dB ov of a digital system is defined as: $$L_\mathsf{ov} = 10 \log_{10} \left( \frac{ P }{\ P_\mathsf{max}\ } \right)\ [\mathsf{dB_{ov}}],$$ with the maximum signal power $$P_\mathsf{max} = 1.0$$, for a rectangular signal with the maximum amplitude $$x_\mathsf{over}$$. The level of a tone with a digital amplitude (peak value) of $$x_\mathsf{over}$$ is therefore $$L_\mathsf{ov} = -3.01\ \mathsf{dB_{ov}}$$.
 
-**dBr**  — dB(relative) – simply a relative difference from something else, which is made apparent in context. The difference of a filter's response to nominal levels, for instance.
+**dBr** — dB(relative) – simply a relative difference from something else, which is made apparent in context. The difference of a filter's response to nominal levels, for instance.
 
-**dBrn**  — dB above reference noise. See also **dBrnCdBrnC**  — **dB(rnC)** represents an audio level measurement, typically in a telephone circuit, relative to a −90 dBm reference level, with the measurement of this level frequency-weighted by a standard C-message weighting filter. The C-message weighting filter was chiefly used in North America. The psophometric filter is used for this purpose on international circuits.
+**dBrn** — dB above reference noise. See also **dBrnCdBrnC** — **dB(rnC)** represents an audio level measurement, typically in a telephone circuit, relative to a −90 dBm reference level, with the measurement of this level frequency-weighted by a standard C-message weighting filter. The C-message weighting filter was chiefly used in North America. The psophometric filter is used for this purpose on international circuits.
 
-**dBK**  — **dB(K)** – decibels relative to 1 K; used to express noise temperature.
+**dBK** — **dB(K)** – decibels relative to 1 K; used to express noise temperature.
 
-**dBK or dB/K**  — dB(K) – decibels relative to 1 K. — *not* decibels per kelvin: Used for the ⁠G/ T ⁠  (G/T) factor, a figure of merit used in satellite communications, relating the antenna gain G to the receiver system noise equivalent temperature T.
+**dBK or dB/K** — dB(K) – decibels relative to 1 K. — *not* decibels per kelvin: Used for the ⁠G/ T ⁠  (G/T) factor, a figure of merit used in satellite communications, relating the antenna gain G to the receiver system noise equivalent temperature T.
 
 #### List of suffixes in alphabetical order
 
 ##### Unpunctuated suffixes
 
-**dBA**  — see dB(A).
+**dBA** — see dB(A).
 
-**dBa**  — see dBrn adjusted.
+**dBa** — see dBrn adjusted.
 
-**dBB**  — see dB(B).
+**dBB** — see dB(B).
 
-**dBc**  — relative to carrier – in telecommunications, this indicates the relative levels of noise or sideband power, compared with the carrier power.
+**dBc** — relative to carrier – in telecommunications, this indicates the relative levels of noise or sideband power, compared with the carrier power.
 
-**dBC**  — see dB(C).
+**dBC** — see dB(C).
 
-**dBD**  — see dB(D).
+**dBD** — see dB(D).
 
-**dBd**  — dB(dipole) – the forward gain of an antenna compared with a half-wave [dipole antenna](Dipole%20antenna.md). 0 dBd = 2.15 dBi
+**dBd** — dB(dipole) – the forward gain of an antenna compared with a half-wave [dipole antenna](Dipole%20antenna.md). 0 dBd = 2.15 dBi
 
-**dBe**  — dB electrical.
+**dBe** — dB electrical.
 
-**dBf**  — dB(fW) – power relative to 1 femtowatt.
+**dBf** — dB(fW) – power relative to 1 femtowatt.
 
-**dBFS**  — dB(full scale) – the amplitude of a signal compared with the maximum which a device can handle before clipping occurs. Full-scale may be defined as the power level of a full-scale sinusoid or alternatively a full-scale square wave. A signal measured with reference to a full-scale sine-wave appears 3 dB weaker when referenced to a full-scale square wave, thus: 0 dBFS (fullscale sine wave) = −3 dBFS (full-scale square wave).
+**dBFS** — dB(full scale) – the amplitude of a signal compared with the maximum which a device can handle before clipping occurs. Full-scale may be defined as the power level of a full-scale sinusoid or alternatively a full-scale square wave. A signal measured with reference to a full-scale sine-wave appears 3 dB weaker when referenced to a full-scale square wave, thus: 0 dBFS (fullscale sine wave) = −3 dBFS (full-scale square wave).
 
-**dBG**  — G-weighted spectrum
+**dBG** — G-weighted spectrum
 
-**dBi**  — dB(isotropic) – the forward gain of an antenna compared with the hypothetical isotropic antenna, which uniformly distributes energy in all directions. Linear polarization of the EM field is assumed unless noted otherwise.
+**dBi** — dB(isotropic) – the forward gain of an antenna compared with the hypothetical isotropic antenna, which uniformly distributes energy in all directions. Linear polarization of the EM field is assumed unless noted otherwise.
 
-**dBiC**  — dB(isotropic circular) – the forward gain of an antenna compared to a circularly polarized isotropic antenna. There is no fixed conversion rule between dBiC and dBi, as it depends on the receiving antenna and the field polarization.
+**dBiC** — dB(isotropic circular) – the forward gain of an antenna compared to a circularly polarized isotropic antenna. There is no fixed conversion rule between dBiC and dBi, as it depends on the receiving antenna and the field polarization.
 
-**dBJ**  — energy relative to 1 joule: 1 joule = 1 watt-second = 1 watt per hertz, so power spectral density can be expressed in dBJ.
+**dBJ** — energy relative to 1 joule: 1 joule = 1 watt-second = 1 watt per hertz, so power spectral density can be expressed in dBJ.
 
-**dBk**  — dB(kW) – power relative to 1 kilowatt.
+**dBk** — dB(kW) – power relative to 1 kilowatt.
 
-**dBK**  — **dB(K)** – decibels relative to kelvin: Used to express noise temperature.
+**dBK** — **dB(K)** – decibels relative to kelvin: Used to express noise temperature.
 
-**[dBm](DBm.md)**  — dB(mW) – power relative to 1 milliwatt.
+**[dBm](DBm.md)** — dB(mW) – power relative to 1 milliwatt.
 
-**dBm or dBsm**  — dB(m) – decibel relative to one square meter
+**dBm or dBsm** — dB(m) – decibel relative to one square meter
 
-**dBm0**  — Power in dBm measured at a zero transmission level point.
+**dBm0** — Power in dBm measured at a zero transmission level point.
 
-**dBm0s**  — Defined by *Recommendation ITU-R V.574*.
+**dBm0s** — Defined by *Recommendation ITU-R V.574*.
 
-**dBmV**  — dB(mVRMS) – voltage relative to 1 millivolt across 75 Ω.
+**dBmV** — dB(mVRMS) – voltage relative to 1 millivolt across 75 Ω.
 
-**dBo**  — dB optical. A change of 1 dBo in optical power can result in a change of up to 2 dBe in electrical signal power in system that is thermal noise limited.
+**dBo** — dB optical. A change of 1 dBo in optical power can result in a change of up to 2 dBe in electrical signal power in system that is thermal noise limited.
 
-**dBO**  — see dBov
+**dBO** — see dBov
 
-**dBov or dBO**  — dB(overload) – the amplitude of a signal (usually audio) compared with the maximum which a device can handle before clipping occurs.
+**dBov or dBO** — dB(overload) – the amplitude of a signal (usually audio) compared with the maximum which a device can handle before clipping occurs.
 
-**dBpp**  — relative to the peak to peak sound pressure.
+**dBpp** — relative to the peak to peak sound pressure.
 
-**dBpp**  — relative to the maximum value of the peak electrical power.
+**dBpp** — relative to the maximum value of the peak electrical power.
 
-**dBq**  — dB(quarterwave) – the forward gain of an antenna compared to a quarter wavelength whip. Rarely used, except in some marketing material. 0 dBq = −0.85 dBi
+**dBq** — dB(quarterwave) – the forward gain of an antenna compared to a quarter wavelength whip. Rarely used, except in some marketing material. 0 dBq = −0.85 dBi
 
-**dBr**  — dB(relative) – simply a relative difference from something else, which is made apparent in context. The difference of a filter's response to nominal levels, for instance.
+**dBr** — dB(relative) – simply a relative difference from something else, which is made apparent in context. The difference of a filter's response to nominal levels, for instance.
 
-**dBrn**  — dB above reference noise. See also **dBrnCdBrnC**  — represents an audio level measurement, typically in a telephone circuit, relative to the circuit noise level, with the measurement of this level frequency-weighted by a standard C-message weighting filter. The C-message weighting filter was chiefly used in North America.
+**dBrn** — dB above reference noise. See also **dBrnCdBrnC** — represents an audio level measurement, typically in a telephone circuit, relative to the circuit noise level, with the measurement of this level frequency-weighted by a standard C-message weighting filter. The C-message weighting filter was chiefly used in North America.
 
-**dBsm**  — see dBm
+**dBsm** — see dBm
 
-**dBTP**  — dB(true peak) – peak amplitude of a signal compared with the maximum which a device can handle before clipping occurs.
+**dBTP** — dB(true peak) – peak amplitude of a signal compared with the maximum which a device can handle before clipping occurs.
 
-**dBu or dBv**  — RMS voltage relative to $$\ \sqrt{0.6\ }\ \mathsf{V}\ \approx 0.7746\ \mathsf{V}\ \approx -2.218\ \mathsf{dB_V} ~.$$
+**dBu or dBv** — RMS voltage relative to $$\ \sqrt{0.6\ }\ \mathsf{V}\ \approx 0.7746\ \mathsf{V}\ \approx -2.218\ \mathsf{dB_V} ~.$$
 
-**dBu0s**  — Defined by *Recommendation ITU-R V.574*.
+**dBu0s** — Defined by *Recommendation ITU-R V.574*.
 
-**dBuV**  — see dBμV
+**dBuV** — see dBμV
 
-**dBuV/m**  — see dBμV/m
+**dBuV/m** — see dBμV/m
 
-**dBv**  — see dBu
+**dBv** — see dBu
 
-**dBV**  — dB(VRMS) – voltage relative to 1 volt, regardless of impedance.
+**dBV** — dB(VRMS) – voltage relative to 1 volt, regardless of impedance.
 
-**dBVU**  — dB(VU) dB volume unit
+**dBVU** — dB(VU) dB volume unit
 
-**dBW**  — dB(W) – power relative to 1 watt.
+**dBW** — dB(W) – power relative to 1 watt.
 
-**dB W·m·Hz**  — spectral density relative to 1 W·m·Hz
+**dB W·m·Hz** — spectral density relative to 1 W·m·Hz
 
-**dBZ**  — dB(Z) – decibel relative to Z = 1 mm⋅m
+**dBZ** — dB(Z) – decibel relative to Z = 1 mm⋅m
 
-**dBμ**  — see dBμV/m
+**dBμ** — see dBμV/m
 
-**dBμV or dBuV**  — dB(μVRMS) – voltage relative to 1 root mean square microvolt.
+**dBμV or dBuV** — dB(μVRMS) – voltage relative to 1 root mean square microvolt.
 
-**dBμV/m, dBuV/m, or dBμ**  — dB(μV/m) – electric field strength relative to 1 microvolt per meter.
+**dBμV/m, dBuV/m, or dBμ** — dB(μV/m) – electric field strength relative to 1 microvolt per meter.
 
 ##### Suffixes preceded by a space
 
-**dB HL**  — dB hearing level is used in audiograms as a measure of hearing loss.
+**dB HL** — dB hearing level is used in audiograms as a measure of hearing loss.
 
-**dB Q**  — sometimes used to denote weighted noise level
+**dB Q** — sometimes used to denote weighted noise level
 
-**dB SIL**  — dB sound intensity level – relative to 10 W/m
+**dB SIL** — dB sound intensity level – relative to 10 W/m
 
-**dB SPL**  — dB SPL (sound pressure level) – for sound in air and other gases, relative to 20 μPa in air or 1 μPa in water
+**dB SPL** — dB SPL (sound pressure level) – for sound in air and other gases, relative to 20 μPa in air or 1 μPa in water
 
-**dB SWL**  — dB sound power level – relative to 10 W.
+**dB SWL** — dB sound power level – relative to 10 W.
 
 ##### Suffixes within parentheses
 
-**dB(A), dB(B), dB(C), dB(D), dB(G), and dB(Z)**  — These symbols are often used to denote the use of different weighting filters, used to approximate the human ear's response to sound, although the measurement is still in dB (SPL). These measurements usually refer to noise and its effects on humans and other animals, and they are widely used in industry while discussing noise control issues, regulations and environmental standards. Other variations that may be seen are dBA or dBA.
+**dB(A), dB(B), dB(C), dB(D), dB(G), and dB(Z)** — These symbols are often used to denote the use of different weighting filters, used to approximate the human ear's response to sound, although the measurement is still in dB (SPL). These measurements usually refer to noise and its effects on humans and other animals, and they are widely used in industry while discussing noise control issues, regulations and environmental standards. Other variations that may be seen are dBA or dBA.
 
 ##### Other suffixes
 
-**dBHz or dB-Hz**  — dB(Hz) – bandwidth relative to one hertz
+**dBHz or dB-Hz** — dB(Hz) – bandwidth relative to one hertz
 
-**dBHz or dB/s**  — dB(Hz) – the squared magnitude of an impulse response (or impulse response envelope) relative to the squared magnitude of an impulse response with unity amplitude.
+**dBHz or dB/s** — dB(Hz) – the squared magnitude of an impulse response (or impulse response envelope) relative to the squared magnitude of an impulse response with unity amplitude.
 
-**dBK or dB/K**  — dB(K) – decibels relative to reciprocal of kelvin
+**dBK or dB/K** — dB(K) – decibels relative to reciprocal of kelvin
 
-**dBm**  — dB(m) – decibel relative to reciprocal of meter: measure of the antenna factor
+**dBm** — dB(m) – decibel relative to reciprocal of meter: measure of the antenna factor
 
-**mBm**  —  mB(mW) – power relative to 1 milliwatt, in millibels (one hundredth of a decibel). 100 mBm = 1 dBm. This unit is in the Wi-Fi drivers of the Linux kernel and the regulatory domain sections.
+**mBm** —  mB(mW) – power relative to 1 milliwatt, in millibels (one hundredth of a decibel). 100 mBm = 1 dBm. This unit is in the Wi-Fi drivers of the Linux kernel and the regulatory domain sections.
 
 ---
 

@@ -95,10 +95,10 @@ Cospas-Sarsat is best known as the system that detects and locates emergency bea
 Between September 1982 and December 2023 the Cospas-Sarsat System provided assistance in rescuing at least 63,745 people in 19,883 SAR events. In 2023 Cospas-Sarsat on average assisted in the rescue of almost nine persons each day. In 2021, 2022 and 2023 (the latest years for which statistics have been compiled), Cospas-Sarsat assistance included the following:
 
 Cospas-Sarsat assistance events by year
-- Year   People rescued   SAR events   Aviation   Land   Maritime
-- 2023   3,109   1,076   20%   44%   36%
-- 2022   3,223   1,144   20%   39%   41%
-- 2021   3,623   1,149   18%   45%   37%
+- Year  People rescued  SAR events  Aviation  Land  Maritime
+- 2023  3,109  1,076  20%  44%  36%
+- 2022  3,223  1,144  20%  39%  41%
+- 2021  3,623  1,149  18%  45%  37%
 
 These statistics under-count the number of events where Cospas-Sarsat assisted, because they only include cases when an accurate report from SAR personnel is provided back through reporting channels to the Cospas-Sarsat Secretariat.
 
@@ -171,7 +171,7 @@ Additionally, the Galileo component of the MEOSAR system is able to download inf
 
 #### Ground segment
 
-As of December 2022 the LEOSAR satellites are tracked and monitored by 55 commissioned LEOLUT (low-altitude Earth-orbit local user terminals) antennas, the GEOSAR satellites by 27 commissioned GEOLUT antennas [[1]](http://cospas-sarsat.int/en/system/detailed-leosar-geosar-system-description/list-of-luts) and the MEOSAR satellites by 26 commissioned MEOLUT stations, each having multiple antennas. The data from these earth stations is transferred to and distributed by 32 MCCs established globally, 14 of which are commissioned to process data from all three constellation types. (See infobox for the countries and agencies that are ground-segment providers.)
+As of December 2022 the LEOSAR satellites are tracked and monitored by 55 commissioned LEOLUT (low-altitude Earth-orbit local user terminals) antennas, the GEOSAR satellites by 27 commissioned GEOLUT antennas  and the MEOSAR satellites by 26 commissioned MEOLUT stations, each having multiple antennas. The data from these earth stations is transferred to and distributed by 32 MCCs established globally, 14 of which are commissioned to process data from all three constellation types. (See infobox for the countries and agencies that are ground-segment providers.)
 
 #### Beacons
 

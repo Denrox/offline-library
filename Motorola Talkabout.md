@@ -1,6 +1,16 @@
 # Motorola Talkabout
 
-The **Motorola Talkabout** (stylized **TALKABOUT**), also sold as **Motorola TLKR** in some regions, are a line of consumer-oriented walkie-talkies produced by Motorola (later [Motorola Solutions](Motorola%20Solutions.md)) since 1997. Operating on license-free networks and designed for families and recreational activities, they have been one of the most successful product lines of two-way radios. It is currently the only consumer-oriented product line of Motorola Solutions; other Motorola consumer products are offered by Motorola Mobility following the split of Motorola Inc. in 2011.
+Motorola Talkabout
+
+Talkabout T42 radio (PMR446 network), released c. 2019
+
+- Also known as Motorola TLKR
+- Manufacturer [Motorola Solutions](Motorola%20Solutions.md) (formerly Motorola until the company's 2011 split)
+- Type [Two-way radios](Two-way%20radio.md)
+- Lifespan 1997–present
+- Connectivity FRS, GMRS, [PMR446](PMR446.md)
+
+The **Motorola Talkabout** (stylized **TALKABOUT**), also sold as **Motorola TLKR** in some regions, are a line of consumer-oriented walkie-talkies produced by [Motorola Solutions](Motorola%20Solutions.md). Operating on license-free networks and designed for families and recreational activities, they have been one of the most successful product lines of two-way radios. It is currently the only consumer-oriented product line of Motorola Solutions; other Motorola consumer products are offered by Motorola Mobility.
 
 ### Product history
 
@@ -20,7 +30,7 @@ Talkabout T82 was released in July 2017 replacing the Motorola TLKR T80. In Octo
 
 In 2025, ZDNet called the Motorola Talkabout T800 the "best overall walkie-talkie", and noted the 35 miles long range, long battery life, and app connection.
 
-### Non-radio products
+### Non-walkie-talkie products
 
 In its earlier years, Motorola also used the brand name on some consumer pagers and cell phones. In 1999 it launched the TalkAbout T340, a small text pager, and the T8090/T8097 dual mode TDMA phones and T8160/T8167 CDMA phones, based on the StarTAC.
 

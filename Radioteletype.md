@@ -83,8 +83,8 @@ The FCC approved the use of ASCII by amateur radio stations on March 17, 1980 wi
 These symbol rates were later modified:  
   
 - nominal band  
-wavelength  symbol  
-rate  FCC  
+wavelength symbol  
+rate FCC  
 regulation
 - 12 m and below
 
@@ -133,13 +133,13 @@ Principally, the primary users are those who need robust shortwave communication
 
 One regular service transmitting RTTY meteorological information is the German Meteorological Service (Deutscher Wetterdienst or DWD). The DWD regularly transmit two programs on various frequencies on LF and [HF](High%20frequency.md) in standard RTTY (ITA-2 alphabet). The list of callsigns, frequencies, baud rates and shifts are as follows:
 
-- Callsign   Frequency   speed/shift
-- DDH47   147.3 kHz   50 baud/85 Hz
-- DDK2   4583 kHz   50 baud/450 Hz
-- DDH7   7646 kHz   50 baud/450 Hz
-- DDK9   10100.8 kHz   50 baud/450 Hz
-- DDH9   11039 kHz   50 baud/450 Hz
-- DDH8   14467.3 kHz   50 baud/450 Hz
+- Callsign  Frequency  speed/shift
+- DDH47  147.3 kHz  50 baud/85 Hz
+- DDK2  4583 kHz  50 baud/450 Hz
+- DDH7  7646 kHz  50 baud/450 Hz
+- DDK9  10100.8 kHz  50 baud/450 Hz
+- DDH9  11039 kHz  50 baud/450 Hz
+- DDH8  14467.3 kHz  50 baud/450 Hz
 
 The DWD signals can be easily received in Europe, North Africa and parts of North America.
 

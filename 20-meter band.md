@@ -8,29 +8,29 @@ The **20-meter** or **14-MHz** [amateur radio](Amateur%20radio.md) band is a por
 
 Europe, Africa, Middle East and Northern Asia
 
-- 20 meters   14000–14070   14070–14099   14099–14101   14101–14350
+- 20 meters  14000–14070  14070–14099  14099–14101  14101–14350
 - IARU Region 1
 
 #### IARU Region 2
 
 The Americas
 
-- 20 meters   14000–14070   14070–14099   14099–14101   14101–14350
+- 20 meters  14000–14070  14070–14099  14099–14101  14101–14350
 - IARU Region 2
 
 #### IARU Region 3
 
 Asia-Pacific
 
-- 20 meters   14000–14070   14070–14099   14099–14101   14101–14112   14112–14350
+- 20 meters  14000–14070  14070–14099  14099–14101  14101–14112  14112–14350
 - IARU Region 3
 
 #### United States
 
 *Effective 12:01 a.m. EST, February 23, 2007*
 
-- 20 meters   14000–14350
-- United States   14000–14025   14025–14150   14150–14175   14175–14225   14225–14350
+- 20 meters  14000–14350
+- United States  14000–14025  14025–14150  14150–14175  14175–14225  14225–14350
 - General
 - Advanced
 - Extra
@@ -39,14 +39,14 @@ Asia-Pacific
 
 Canada is part of region 2 and as such is subject to the IARU band plan. Radio Amateurs of Canada offers the bandplan below as a recommendation for use by radio amateurs in that country but it does not have the force of law and should only be considered a suggestion or guideline.
 
-- License class   14.000–14.070   14.070–14.095   14.095–14.0995   14.0995–14.1005   14.1005–14.112   14.112–14.350
+- License class  14.000–14.070  14.070–14.095  14.095–14.0995  14.0995–14.1005  14.1005–14.112  14.112–14.350
 - Basic(+), Advanced  
 #### Japan
 
 Changed on September 25, 2023.
 
-- License class   14000–14070   14070–14100   14100–14350
-- 1st and 2nd         narrow-band All modes
+- License class  14000–14070  14070–14100  14100–14350
+- 1st and 2nd      narrow-band All modes
 
 **Key**
 

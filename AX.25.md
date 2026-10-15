@@ -59,8 +59,8 @@ Some amateurs, notably Phil Karn KA9Q, have argued that AX.25 is not well-suited
 
 - a large existing deployment of recycled narrowband FM radios and especially existing APRS applications,
 - easy availability of cheap, low-power FM transmitters, especially for the 430 MHz UHF band, to match existing legacy radio gear,
-- new radio level modulations would need different radio gear than what is currently in use and the resulting system would be incompatible with the existing one – thus requiring a large initial investment in new radio gear,
-- adoption of newer line codings potentially including *forward error correction* takes more effort than the 1,200 bit/s [AFSK](Frequency-shift%20keying.md) of Bell 202. Previously sufficient small 8-bit microprocessors with 128 bytes of RAM would not be enough, and new ones might cost US$30 instead of US$3. Phil Karn did demo decoding of this new modulation of his by running it on a Pentium II machine – some 10 years later, mid-level embedded microprocessors are capable enough to do the same with under US$50 system cost.
+- new radio level modulations would need different radio gear than what is currently in use and the resulting system would be incompatible with the existing one –  thus requiring a large initial investment in new radio gear,
+- adoption of newer line codings potentially including *forward error correction* takes more effort than the 1,200 bit/s [AFSK](Frequency-shift%20keying.md) of Bell 202. Previously sufficient small 8-bit microprocessors with 128 bytes of RAM would not be enough, and new ones might cost US$30 instead of US$3. Phil Karn did demo decoding of this new modulation of his by running it on a Pentium II machine –  some 10 years later, mid-level embedded microprocessors are capable enough to do the same with under US$50 system cost.
 
 Despite these limitations, an extension to the AX.25 protocol, supporting forward error correction, has been created by Tucson Amateur Packet Radio (TAPR). This extension is called FX.25.
 

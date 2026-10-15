@@ -61,9 +61,9 @@ Number of employees
 Kenwood produces a variety of audio speakers of different grades, ranging from stage sound to high-fidelity.
 
 X series
-- Amplifier Tech-Spec   Maximum Output Power   RMS Power at 4 ohms   RMS Power at 2 ohms   Bridged at 4 ohms   Frequency Response   High Pass Filter   Low Pass Filter   Speaker Level Input   Signal to Noise Ratio   Dimensions W × D × H (mm)
-- XH901-5   1800 W  60 W × 4 ch + 400 W  75 W × 4 ch + 600 W  150 W x 2 ch + 400 W  20 Hz – 50 kHz  50 Hz – 200 Hz, -12 dB/oct  50 Hz – 200 Hz, -24 dB/oct  Yes  100 dB  260 × 169 × 51
-- XH401-4   800 W  75 W × 4 ch  100 W x 4 ch  200 W x 2 ch  20 Hz – 50 kHz  50 Hz – 200 Hz, -12 dB/oct (Low Range) 2.5 kHz – 10 kHz, -12 dB/oct (High Range)  50 Hz – 200 Hz, -12 dB/oct (Low Range) 2.5 kHz – 10 kHz, -12 dB/oct (High Range)  Yes  100 dB  220 × 169 × 35
+- Amplifier Tech-Spec  Maximum Output Power  RMS Power at 4 ohms  RMS Power at 2 ohms  Bridged at 4 ohms  Frequency Response  High Pass Filter  Low Pass Filter  Speaker Level Input  Signal to Noise Ratio  Dimensions W × D × H (mm)
+- XH901-5  1800 W 60 W × 4 ch + 400 W 75 W × 4 ch + 600 W 150 W x 2 ch + 400 W 20 Hz – 50 kHz 50 Hz – 200 Hz, -12 dB/oct 50 Hz – 200 Hz, -24 dB/oct Yes 100 dB 260 × 169 × 51
+- XH401-4  800 W 75 W × 4 ch 100 W x 4 ch 200 W x 2 ch 20 Hz – 50 kHz 50 Hz – 200 Hz, -12 dB/oct (Low Range) 2.5 kHz – 10 kHz, -12 dB/oct (High Range) 50 Hz – 200 Hz, -12 dB/oct (Low Range) 2.5 kHz – 10 kHz, -12 dB/oct (High Range) Yes 100 dB 220 × 169 × 35
 
 The company introduced the first car stereo speaker to use a honeycombed linear plane diaphragm.
 

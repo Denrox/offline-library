@@ -46,14 +46,14 @@ An additional function provided by the carrier in standard AM, but which is lost
 
 In 1982, the International Telecommunication Union (ITU) designated the types of amplitude modulation:
 
-- Designation  Description
-- A3E  double-sideband a full-carrier – the basic amplitude modulation scheme
-- R3E  single-sideband reduced-carrier
-- H3E  single-sideband full-carrier
-- J3E  single-sideband suppressed-carrier
-- B8E  independent-sideband emission
-- C3F  vestigial-sideband
-- Lincompex  linked compressor and expander (a submode of any of the above ITU Emission Modes)
+- Designation Description
+- A3E double-sideband a full-carrier – the basic amplitude modulation scheme
+- R3E single-sideband reduced-carrier
+- H3E single-sideband full-carrier
+- J3E single-sideband suppressed-carrier
+- B8E independent-sideband emission
+- C3F vestigial-sideband
+- Lincompex linked compressor and expander (a submode of any of the above ITU Emission Modes)
 
 ### Analysis
 
@@ -131,21 +131,21 @@ Modern high-power AM transmitters (such as those used for AM broadcasting) are b
 
 Older designs (for broadcast and amateur radio) also generate AM by controlling the gain of the transmitter's final amplifier (generally class-C, for efficiency), reflecting the strong emphasis on improving efficiency in early high-power transmitters. The following types are for vacuum tube transmitters, but similar options are available with transistors:
 
-**Plate modulation**  — In plate modulation, the plate voltage of the RF amplifier is modulated with the audio signal. The audio power requirement is 50 percent of the RF-carrier power.
+**Plate modulation** — In plate modulation, the plate voltage of the RF amplifier is modulated with the audio signal. The audio power requirement is 50 percent of the RF-carrier power.
 
-**Heising (constant-current) modulation**  — RF amplifier plate voltage is fed through a choke (high-value inductor). The AM modulation tube plate is fed through the same inductor, so the modulator tube diverts current from the RF amplifier. The choke acts as a constant current source in the audio range. This system has a low power efficiency.
+**Heising (constant-current) modulation** — RF amplifier plate voltage is fed through a choke (high-value inductor). The AM modulation tube plate is fed through the same inductor, so the modulator tube diverts current from the RF amplifier. The choke acts as a constant current source in the audio range. This system has a low power efficiency.
 
-**Control grid modulation**  — The operating bias and gain of the final RF amplifier can be controlled by varying the voltage of the control grid. This method requires little audio power, but care must be taken to reduce distortion.
+**Control grid modulation** — The operating bias and gain of the final RF amplifier can be controlled by varying the voltage of the control grid. This method requires little audio power, but care must be taken to reduce distortion.
 
-**Clamp tube (screen grid) modulation**  — The screen-grid bias may be controlled through a *clamp tube*, which reduces voltage according to the modulation signal. It is difficult to approach 100-percent modulation while maintaining low distortion with this system.
+**Clamp tube (screen grid) modulation** — The screen-grid bias may be controlled through a *clamp tube*, which reduces voltage according to the modulation signal. It is difficult to approach 100-percent modulation while maintaining low distortion with this system.
 
-**Doherty modulation**  — A two-tube AM amplifier in which the first tube provides the power under carrier conditions, while a second operates only for positive modulation peaks. A quarter-wave impedance inverter between the two varies the load seen by the first tube over the modulation cycle. As originally described by Doherty, the system is not itself a modulator but a high-efficiency linear power amplifier that requires a pre-modulated RF signal to drive the grids. Overall efficiency is good, and distortion is low.
+**Doherty modulation** — A two-tube AM amplifier in which the first tube provides the power under carrier conditions, while a second operates only for positive modulation peaks. A quarter-wave impedance inverter between the two varies the load seen by the first tube over the modulation cycle. As originally described by Doherty, the system is not itself a modulator but a high-efficiency linear power amplifier that requires a pre-modulated RF signal to drive the grids. Overall efficiency is good, and distortion is low.
 
-**Outphasing modulation**  — Two tubes are operated in parallel, but partially out of phase with each other. As they are differentially phase modulated their combined amplitude is greater or smaller. Efficiency is good and distortion low when properly adjusted.
+**Outphasing modulation** — Two tubes are operated in parallel, but partially out of phase with each other. As they are differentially phase modulated their combined amplitude is greater or smaller. Efficiency is good and distortion low when properly adjusted.
 
-**Pulse-width modulation (PWM) or pulse-duration modulation (PDM)**  — A highly efficient high voltage power supply is applied to the tube plate. The output voltage of this supply is varied at an audio rate to follow the program. This system was pioneered by Hilmer Swanson and has a number of variations, all of which achieve high efficiency and sound quality.
+**Pulse-width modulation (PWM) or pulse-duration modulation (PDM)** — A highly efficient high voltage power supply is applied to the tube plate. The output voltage of this supply is varied at an audio rate to follow the program. This system was pioneered by Hilmer Swanson and has a number of variations, all of which achieve high efficiency and sound quality.
 
-**Digital methods**  — The Harris Corporation obtained a patent for synthesizing a modulated high-power carrier wave from a set of digitally selected low-power amplifiers, running in phase at the same carrier frequency. The input signal is sampled by a conventional audio analog-to-digital converter (ADC), and fed to a digital exciter, which modulates overall transmitter output power by switching a series of low-power solid-state RF amplifiers on and off. The combined output drives the antenna system.
+**Digital methods** — The Harris Corporation obtained a patent for synthesizing a modulated high-power carrier wave from a set of digitally selected low-power amplifiers, running in phase at the same carrier frequency. The input signal is sampled by a conventional audio analog-to-digital converter (ADC), and fed to a digital exciter, which modulates overall transmitter output power by switching a series of low-power solid-state RF amplifiers on and off. The combined output drives the antenna system.
 
 ### Demodulation methods
 

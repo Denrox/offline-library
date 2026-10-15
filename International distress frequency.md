@@ -51,41 +51,41 @@ Several maritime frequencies are used for digital selective calling (DSC), and t
 
 #### VHF, UHF calling frequencies can also be used to make emergency calls
 
-- Band   Global   Region 1  
-Europe, Africa  Region 2  
-The Americas  Region 3  
+- Band  Global  Region 1  
+Europe, Africa Region 2  
+The Americas Region 3  
 Asia
 - 13 cm
-- 23 cm         1294.500 MHz (U.S.)
-- 33 cm      N/A   927.500 MHz (U.S.)   N/A
-- 70 cm      433.500 MHz (EU)   446.00 MHz (U.S.)
-- 1.25 m      N/A   223.500 MHz (U.S.)   N/A
-- 2 m      145.500 MHz (EU)   146.520 MHz (U.S. & Canada)   145.000 MHz (India, Indonesia & Thailand)
-- 2 m         144.740 MHz Philippines
-- 4 m         70.450 MHz (EU)   N/A
-- 6 m         52.525 MHz
-- 10 m         29.600 MHz
-- 12 m         RTTY/Packet only
+- 23 cm      1294.500 MHz (U.S.)
+- 33 cm    N/A  927.500 MHz (U.S.)  N/A
+- 70 cm    433.500 MHz (EU)  446.00 MHz (U.S.)
+- 1.25 m    N/A  223.500 MHz (U.S.)  N/A
+- 2 m    145.500 MHz (EU)  146.520 MHz (U.S. & Canada)  145.000 MHz (India, Indonesia & Thailand)
+- 2 m      144.740 MHz Philippines
+- 4 m      70.450 MHz (EU)  N/A
+- 6 m      52.525 MHz
+- 10 m      29.600 MHz
+- 12 m      RTTY/Packet only
 
 #### MF and HF frequencies
 
 - Emergency Centre of Activity (ECOA) frequencies informally established by the International Amateur Radio Union regional organizations:
 
-- Band   Global   Region 1  
-Europe, Africa  Region 2  
-The Americas  Region 3  
+- Band  Global  Region 1  
+Europe, Africa Region 2  
+The Americas Region 3  
 Asia
-- 15 m   21360 kHz
-- 17 m   18160 kHz
-- 20 m   14300 kHz
+- 15 m  21360 kHz
+- 17 m  18160 kHz
+- 20 m  14300 kHz
 - 30 m
-- 40 m   n/a   7110 kHz  7060 kHz
+- 40 m  n/a  7110 kHz 7060 kHz
 
 7240 kHz 7275 kHz
 
  7110 kHz
-- 60 m   n/a
-- 80 m   n/a   3760 kHz  3750 kHz
+- 60 m  n/a
+- 80 m  n/a  3760 kHz 3750 kHz
 
 3985 kHz
 

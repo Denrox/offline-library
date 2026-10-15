@@ -19,23 +19,23 @@ The standard channel numbering is harmonized through the FCC (USA) and the CEPT 
 See also channel assignments for CB use in the United States.
 
 CB Radio Channels (FCC)
-- Ch.   Frequency      Ch.   Frequency      Ch.   Frequency      Ch.   Frequency      Ch.   Frequency
-- 1   26.965 MHz      9   27.065 MHz      17   27.165 MHz      *25   27.245 MHz      33   27.335 MHz
-- 2   26.975 MHz      10   27.075 MHz      18   27.175 MHz      26   27.265 MHz      34   27.345 MHz
-- *3   26.985 MHz      *11   27.085 MHz      *19   27.185 MHz      27   27.275 MHz      35   27.355 MHz
-- 4   27.005 MHz      12   27.105 MHz      20   27.205 MHz      28   27.285 MHz      36   27.365 MHz
-- 5   27.015 MHz      13   27.115 MHz      21   27.215 MHz      29   27.295 MHz      37   27.375 MHz
-- 6   27.025 MHz      14   27.125 MHz      22   27.225 MHz      30   27.305 MHz      38   27.385 MHz
-- *7   27.035 MHz      *15   27.135 MHz      *23   27.255 MHz      31   27.315 MHz      39   27.395 MHz
-- 8   27.055 MHz      16   27.155 MHz      *24   27.235 MHz      32   27.325 MHz      40   27.405 MHz  
+- Ch.  Frequency    Ch.  Frequency    Ch.  Frequency    Ch.  Frequency    Ch.  Frequency
+- 1  26.965 MHz    9  27.065 MHz    17  27.165 MHz    *25  27.245 MHz    33  27.335 MHz
+- 2  26.975 MHz    10  27.075 MHz    18  27.175 MHz    26  27.265 MHz    34  27.345 MHz
+- *3  26.985 MHz    *11  27.085 MHz    *19  27.185 MHz    27  27.275 MHz    35  27.355 MHz
+- 4  27.005 MHz    12  27.105 MHz    20  27.205 MHz    28  27.285 MHz    36  27.365 MHz
+- 5  27.015 MHz    13  27.115 MHz    21  27.215 MHz    29  27.295 MHz    37  27.375 MHz
+- 6  27.025 MHz    14  27.125 MHz    22  27.225 MHz    30  27.305 MHz    38  27.385 MHz
+- *7  27.035 MHz    *15  27.135 MHz    *23  27.255 MHz    31  27.315 MHz    39  27.395 MHz
+- 8  27.055 MHz    16  27.155 MHz    *24  27.235 MHz    32  27.325 MHz    40  27.405 MHz  
 * Channels 3, 7, 11, 15, and 19 have adjacent "hidden" channels (see below); channels 23, 24, and 25 are numbered out-of-order for their frequency allocations in the United States.
 
 #### Intermediate channels
 
 When looking at the FCC/CEPT channel list there are some channels with a spacing of 20 kHz instead of the regular 10 kHz step. These intermediate frequencies are reserved for the Radio Control Radio Service (RCRS). The RCRS service is commonly used for remote control of model aircraft and boats. It is an unofficial practice to name these channels by their next lower standard channel number along with a suffix "A" (*after*). For example, channel "11A" is 27.095 MHz, spaced 10 kHz after standard channel 11 (at 27.085 MHz) is used to provide for part of European railroad's Eurobalise radio communication with trains.
 
-- Channel  Frequency  Channel  Frequency  Channel  Frequency  Channel  Frequency  Channel  Frequency
-- *3A*  26.995 MHz  *7A*  27.045 MHz  *11A*  27.095 MHz  *15A*  27.145 MHz  *19A*  27.195 MHz
+- Channel Frequency Channel Frequency Channel Frequency Channel Frequency Channel Frequency
+- *3A* 26.995 MHz *7A* 27.045 MHz *11A* 27.095 MHz *15A* 27.145 MHz *19A* 27.195 MHz
 
 #### SSB use
 
@@ -87,47 +87,47 @@ In Brazil, CB channels were upgraded from 23 to 60 channels starting in 1979 and
 
 **CB Radio Channels (ANATEL)**
 
-- Channel   Frequency   Channel   Frequency
-- 1   26.965   41   27.415
-- 2   26.975   42   27.425
-- 3   26.985   43   27.435
-- 4   27.005   44   27.455
-- 5   27.015   45   27.465
-- 6   27.025   46   27.475
-- 7   27.035   47   27.485
-- 8   27.055   48   27.505
-- 9   27.065   49   27.515
-- 10   27.075   50   27.525
-- 11   27.085   51   27.535
-- 12   27.105   52   27.555
-- 13   27.115   53   27.565
-- 14   27.125   54   27.575
-- 15   27.135   55   27.585
-- 16   27.155   56   27.605
-- 17   27.165   57   27.615
-- 18   27.175   58   27.625
-- 19   27.185   59   27.635
-- 20   27.205   60   27.655
-- 21   27.215   61   27.665
-- 22   27.225   62   27.675
-- 23   27.255   63   27.705
-- 24   27.235   64   27.685
-- 25   27.245   65   27.695
-- 26   27.265   66   27.715
-- 27   27.275   67   27.725
-- 28   27.285   68   27.735
-- 29   27.295   69   27.745
-- 30   27.305   70   27.755
-- 31   27.315   71   27.765
-- 32   27.325   72   27.775
-- 33   27.335   73   27.785
-- 34   27.345   74   27.795
-- 35   27.355   75   27.805
-- 36   27.365   76   27.815
-- 37   27.375   77   27.825
-- 38   27.385   78   27.835
-- 39   27.395   79   27.845
-- 40   27.405   80   27.855
+- Channel  Frequency  Channel  Frequency
+- 1  26.965  41  27.415
+- 2  26.975  42  27.425
+- 3  26.985  43  27.435
+- 4  27.005  44  27.455
+- 5  27.015  45  27.465
+- 6  27.025  46  27.475
+- 7  27.035  47  27.485
+- 8  27.055  48  27.505
+- 9  27.065  49  27.515
+- 10  27.075  50  27.525
+- 11  27.085  51  27.535
+- 12  27.105  52  27.555
+- 13  27.115  53  27.565
+- 14  27.125  54  27.575
+- 15  27.135  55  27.585
+- 16  27.155  56  27.605
+- 17  27.165  57  27.615
+- 18  27.175  58  27.625
+- 19  27.185  59  27.635
+- 20  27.205  60  27.655
+- 21  27.215  61  27.665
+- 22  27.225  62  27.675
+- 23  27.255  63  27.705
+- 24  27.235  64  27.685
+- 25  27.245  65  27.695
+- 26  27.265  66  27.715
+- 27  27.275  67  27.725
+- 28  27.285  68  27.735
+- 29  27.295  69  27.745
+- 30  27.305  70  27.755
+- 31  27.315  71  27.765
+- 32  27.325  72  27.775
+- 33  27.335  73  27.785
+- 34  27.345  74  27.795
+- 35  27.355  75  27.805
+- 36  27.365  76  27.815
+- 37  27.375  77  27.825
+- 38  27.385  78  27.835
+- 39  27.395  79  27.845
+- 40  27.405  80  27.855
 
 South Africa, like New Zealand and the UK, permits the use of two HF CB bands. South Africa has a 23 channel AM / SSB 29 MHz CB allocation (called "29 Megs" or "29 MHz CB") from 29.710 to 29.985 MHz in 12.5 kHz steps. South Africa also permits use of standard CB channels 19–27 (27.185–27.275 MHz) with AM / SSB permitted. Many radios sold in South Africa feature both the 27 MHz and 29 MHz bands. A license from ICASA is no longer required to purchase or use a CB radio in South Africa.
 

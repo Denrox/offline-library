@@ -44,43 +44,43 @@ Channel 1, by its position as “default” on GMRS and FRS devices, tends to be
 
 #### Frequency table
 
-- Frequency  Channel  FRS power  FRS  
-bandwidth  FRS  
-maximum deviation  GMRS power  GMRS  
-bandwidth  GMRS  
-maximum deviation  Notes
-- 462.5625 MHz  1  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.5875 MHz  2  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.6125 MHz  3  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.6375 MHz  4  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.6625 MHz  5  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.6875 MHz  6  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 462.7125 MHz  7  2 W  12.5 kHz  2.5 kHz  5 W  20 kHz  5 kHz  (1)
-- 467.5625 MHz  8  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.5875 MHz  9  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.6125 MHz  10  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.6375 MHz  11  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.6625 MHz  12  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.6875 MHz  13  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 467.7125 MHz  14  0.5 W  12.5 kHz  2.5 kHz  0.5 W  12.5 kHz  2.5 kHz  (1)
-- 462.5500 MHz  15  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.5750 MHz  16  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.6000 MHz  17  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.6250 MHz  18  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.6500 MHz  19  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.6750 MHz  20  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.7000 MHz  21  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 462.7250 MHz  22  2 W  12.5 kHz  2.5 kHz  50 W  20 kHz  5 kHz  (2)
-- 467.5500 MHz  15R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.5750 MHz  16R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.6000 MHz  17R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.6250 MHz  18R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.6500 MHz  19R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.6750 MHz  20R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.7000 MHz  21R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
-- 467.7250 MHz  22R  —N/a  —N/a  —N/a  50 W  20 kHz  5 kHz  (3)
+- Frequency Channel FRS power FRS  
+bandwidth FRS  
+maximum deviation GMRS power GMRS  
+bandwidth GMRS  
+maximum deviation Notes
+- 462.5625 MHz 1 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.5875 MHz 2 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.6125 MHz 3 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.6375 MHz 4 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.6625 MHz 5 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.6875 MHz 6 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 462.7125 MHz 7 2 W 12.5 kHz 2.5 kHz 5 W 20 kHz 5 kHz (1)
+- 467.5625 MHz 8 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.5875 MHz 9 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.6125 MHz 10 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.6375 MHz 11 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.6625 MHz 12 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.6875 MHz 13 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 467.7125 MHz 14 0.5 W 12.5 kHz 2.5 kHz 0.5 W 12.5 kHz 2.5 kHz (1)
+- 462.5500 MHz 15 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.5750 MHz 16 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.6000 MHz 17 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.6250 MHz 18 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.6500 MHz 19 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.6750 MHz 20 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.7000 MHz 21 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 462.7250 MHz 22 2 W 12.5 kHz 2.5 kHz 50 W 20 kHz 5 kHz (2)
+- 467.5500 MHz 15R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.5750 MHz 16R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.6000 MHz 17R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.6250 MHz 18R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.6500 MHz 19R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.6750 MHz 20R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.7000 MHz 21R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
+- 467.7250 MHz 22R —N/a —N/a —N/a 50 W 20 kHz 5 kHz (3)
 
-**Table notes**  — (1) Shared FRS and GMRS simplex.  
+**Table notes** — (1) Shared FRS and GMRS simplex.  
 (2) Shared FRS and GMRS simplex; GMRS repeater output.  
 (3) GMRS repeater input. The output frequency of this repeater input is the input frequency minus 5 MHz.
 

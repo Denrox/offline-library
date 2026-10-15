@@ -70,46 +70,46 @@ The downlink (i.e., the output of the base station) is normally a continuous tra
 #### Radio frequencies
 
 TETRA frequencies in South America
-- Number  Frequency pair (MHz)
-- Band 1  Band 2
+- Number Frequency pair (MHz)
+- Band 1 Band 2
 - Emergency systems
-- 1  380–383  390–393
-- 2  383–385  393–395
+- 1 380–383 390–393
+- 2 383–385 393–395
 - Civil systems
-- 1  410–420  420–430
-- 2  870–876  915–921
-- 3  450–460  460–470
-- 4  385–390  395–399.9
+- 1 410–420 420–430
+- 2 870–876 915–921
+- 3 450–460 460–470
+- 4 385–390 395–399.9
 
 TETRA frequencies in other countries
-- Country   Allocation   Frequency pairs (MHz)
-- France   Civilian/private   410–430
-- Emergency services   380–400
-- Belgium   Emergency services/civilian   380–386.5, 390–396.5
-- Commercial   410-420
-- the Netherlands   Emergency services   380–386.5, 390–396.5
-- Civil/Commercial   410–430
-- Germany   Emergency services   380–385, 390–395, 406 - 410 for DMO
-- Iceland    Emergency services/civilian   380–385, 390–395
-- Ireland   Civilian/private   385–389.9, 395–399.9
-- Emergency services   380–385, 390–395
-- Italy   Emergency services / armed forces   380–390
-- Civilian/private   462
-- Norway   Emergency services   380–385, 390–395, 406.1–426, 870–876
-- Slovenia   Emergency services   380-385 (MS), 390-395 (BS)
-- South Africa   Emergency services, Public works   420–423
-- Sweden   Emergency services   380-395
-- Civilian/airport/public transportation   425-429
-- UK   Airwave   390.0125–394.9875, 380.0125–384.9875
-- Airwave (London only)   420.0125-421.9875, 410.0125–412.9875
-- Prison service   450, 460 / 452, 462
-- AirRadio   454, 464 or 460
-- Offshore Oil platforms   423, 413
-- Hong Kong   Emergency services   382.65–399.9, 410–430
-- Civil/Private   806–818, 851–863
-- Portugal   SIRESP - Public Safety   380–395
-- Commercial/Private   420–430
-- Saudi Arabia      350–370, 380–395, 385–399.99, 410–430, 450–470, 870–921
+- Country  Allocation  Frequency pairs (MHz)
+- France  Civilian/private  410–430
+- Emergency services  380–400
+- Belgium  Emergency services/civilian  380–386.5, 390–396.5
+- Commercial  410-420
+- the Netherlands  Emergency services  380–386.5, 390–396.5
+- Civil/Commercial  410–430
+- Germany  Emergency services  380–385, 390–395, 406 - 410 for DMO
+- Iceland   Emergency services/civilian  380–385, 390–395
+- Ireland  Civilian/private  385–389.9, 395–399.9
+- Emergency services  380–385, 390–395
+- Italy  Emergency services / armed forces  380–390
+- Civilian/private  462
+- Norway  Emergency services  380–385, 390–395, 406.1–426, 870–876
+- Slovenia  Emergency services  380-385 (MS), 390-395 (BS)
+- South Africa  Emergency services, Public works  420–423
+- Sweden  Emergency services  380-395
+- Civilian/airport/public transportation  425-429
+- UK  Airwave  390.0125–394.9875, 380.0125–384.9875
+- Airwave (London only)  420.0125-421.9875, 410.0125–412.9875
+- Prison service  450, 460 / 452, 462
+- AirRadio  454, 464 or 460
+- Offshore Oil platforms  423, 413
+- Hong Kong  Emergency services  382.65–399.9, 410–430
+- Civil/Private  806–818, 851–863
+- Portugal  SIRESP - Public Safety  380–395
+- Commercial/Private  420–430
+- Saudi Arabia    350–370, 380–395, 385–399.99, 410–430, 450–470, 870–921
 
 #### Air interface encryption
 
@@ -184,11 +184,11 @@ When the FRT threshold is breached, the MS is in a situation where it is essenti
 Radio link failure: (C1 < 0). Using the suggested values, this would be satisfied with the *serving cell level* below −105 dBm. Cell reselection procedures are then activated in order to find a suitable radio base station.
 
 Infrastructure TETRA parameters guide
-- Coverage  Parameter  Distance (km)  Type of communication
-- City   < 4  < 8  Pedestrian/metro
-- Sub-urban   10–18  20–36  Bus/train
-- Countryside   18–31  36–62  Inter-regional train
-- In Air   > 32  > 64  In flight
+- Coverage Parameter Distance (km) Type of communication
+- City  < 4 < 8 Pedestrian/metro
+- Sub-urban  10–18 20–36 Bus/train
+- Countryside  18–31 36–62 Inter-regional train
+- In Air  > 32 > 64 In flight
 
 ### Man-machine interface (MMI)
 
@@ -252,214 +252,214 @@ At the end of 2009 there were 114 countries using TETRA systems in Europe, Middl
 
 The TETRA system is in use in the following countries. Only TETRA network infrastructure installations are listed. TETRA being an open standard, each of these networks can use any mix of TETRA mobile terminals from a wide range of suppliers.
 
-- Continent   Country   Supplier   Name   Agency   Status
-- Asia   China mainland   EADS/Cassidian/Airbus   Shenyang Metro   Transport   In use: Line 1  
+- Continent  Country  Supplier  Name  Agency  Status
+- Asia  China mainland  EADS/Cassidian/Airbus  Shenyang Metro  Transport  In use: Line 1  
 Rolling out: Line 2
-- DAMM TetraFlex   Guangzhou Electric Power   Utility - Guangzhou Electric Power Emergency Communication   In use 2010
-- EADS/Cassidian/Airbus   Shenzhen Metro   Transport   Ordered 5/2010
-- EADS/Cassidian/Airbus   Guangzhou   16th Asian Games in 2010   Ordered 2010
-- Hong Kong   EADS/Cassidian/Airbus   Hong Kong International Airport (HKIA)   2008 Beijing Olympics and Paralympic Games (Hong Kong Equestrian Event)   Used from July 2008 to October 2008
-- EADS/Cassidian/Airbus   Hong Kong Fire Services Department   Fire service and ambulance   In use
-- Motorola / Dimetra   Hong Kong Police Force   Police   In use
-- Motorola   Correctional Services Department   Law enforcement   In use
-- Motorola   Immigration Department   Law enforcement   In use
-- Motorola   Mass Transit Railway (MTR)   Transport   In use
-- Motorola / Dimetra   Hong Kong International Airport (HKIA)   Transport   In use since Feb 2009
-- Motorola   CLP Power Hong Kong Limited   Electric   In use
-- Hongkong Electric Co., Limited   Electric   In use
-- Modern Terminals Limited   Container port   In use
-- Hong Kong International Terminals Limited   Container port   In use
-- Liaison Office of the Central People Government in the HKSAR   Diplomacy   In use
-- India   Artevea   Military College of Telecommunication Engineering (MCTE)   Indian Army   In use since 2004 at Mhow, Indore, Madhya Pradesh
-- Motorola / Dimetra   Delhi Metro Rail Corporation Ltd.   Transport   The First TETRA in India, in use since 2002
-- DAMM TetraFlex / Consort Digital Pvt Ltd   Mumbai Mono Rail, Mumbai Metropolitan Region Development Authority (MMRDA)   Mass transport - India's first monorail project - Mumbai   Awarded 2010
-- C-DAC   TETRA with Automatic Dial 100 (AD100)   Kerala police   In use by police, Trivandrum city, since 2008
-- DAMM TetraFlex / Consort Digital Pvt Ltd   Tamil Nadu police   Police and internal security and safety   Awarded 2011
-- HCL & Motorola   Secure Communication Network   Delhi government   Integrated Communication System used by various departments under government of Delhi and Delhi police since 2010.
-- DAMM TetraFlex / Consort Digital Pvt Ltd   Gas Authority of India Limited (GAIL)   Gas pipeline - safety, telemetry and security   Awarded 2011
-- THALES Portugal S A & Motorola   With PSTN call integration designed by Thales Group for BMRCL   BMRCL Bangalore Metro Corporation Limited   Transport, in use since March 2011
-- Sepura & Rohde and Schwarz   TETRA with Automatic Dial 100 (AD100)   Gurgaon police   In use by police, Gurgaon city Since 2009. In Salem from August 2011.
-- Sepura & Rohde and Schwarz   TETRA with Automatic Dial 100 (AD100)   Faridabad police   In use by police, Faridabad city, since 2012
-- Indonesia   Motorola / Dimetra, installed & maintained by PT. Mobilkom Telekomindo   SCADA PT. Chevron Pacific Indonesia   HOOU   In use since 2009 at Duri, Riau, Indonesia.
-- Rohde & Schwarz / Accessnet - T   Anti Corruption Agency   Anti Corruption Agency   Operational
-- Rohde & Schwarz / Accessnet-T   Jakarta State Government Network   Jakarta Capital City Jakarta   Operational, Installed since 2007
-- Kazakhstan   HMF Smart Solutions / ACCESSNET®-T IP   Kazakhstan Railways   Public Transport   In use
-- Macao   Artevea   Melco-Crown Entertainment   Casino-Hotels: Altira (formerly Crown Macau), and City of Dreams   In use since 2007
-- Motorola / Dimetra   Forças de Segurança de Macau   All emergency services   In use
-- Malaysia   EADS/Cassidian/Airbus   Segi Maju (SEGI)   Public operator   In use
-- Motorola / Dimetra   Sungai Buloh–Kajang line.   Transport   In use
-- Motorola / Dimetra   Sungai Buloh–Serdang–Putrajaya line.   Transport   Operational 2021
-- Maldives   Motorola / Dimetra   Maldives Police Service (MPS)   Police   In use
-- Pakistan   Motorola / Dimetra   NITRS Nationwide Integrated Trunk Radio System Project for Police under Ministry of Interior, Government of Pakistan   Police   In use Since 2009
-- Philippines   Motorola Dimetra/GA Technology and Systems Inc.   Shell Exploration   Oil and gas   In use October 2013, Phase 2 On Shore Gas Plant for Implementation
-- Motorola Dimetra/GA Technology and Systems Inc.   Globe Telecom   Telecommunications carrier   Implementation on Going Project Finish Dec 2013
-- Rohill (TetraNode) SynTech Systems Inc.   Meralco   Electric company   Implemented Nov 2014
-- Rohill (TetraNode) SynTech Systems Inc.   Manila Line 2   Transport (Manila Light Rail Transit System Line 2)   Implemented Oct 2015
-- Singapore   Leonardo   Singapore Metro   TETRA network for Cross Island Line   Awarded in 2025
+- DAMM TetraFlex  Guangzhou Electric Power  Utility - Guangzhou Electric Power Emergency Communication  In use 2010
+- EADS/Cassidian/Airbus  Shenzhen Metro  Transport  Ordered 5/2010
+- EADS/Cassidian/Airbus  Guangzhou  16th Asian Games in 2010  Ordered 2010
+- Hong Kong  EADS/Cassidian/Airbus  Hong Kong International Airport (HKIA)  2008 Beijing Olympics and Paralympic Games (Hong Kong Equestrian Event)  Used from July 2008 to October 2008
+- EADS/Cassidian/Airbus  Hong Kong Fire Services Department  Fire service and ambulance  In use
+- Motorola / Dimetra  Hong Kong Police Force  Police  In use
+- Motorola  Correctional Services Department  Law enforcement  In use
+- Motorola  Immigration Department  Law enforcement  In use
+- Motorola  Mass Transit Railway (MTR)  Transport  In use
+- Motorola / Dimetra  Hong Kong International Airport (HKIA)  Transport  In use since Feb 2009
+- Motorola  CLP Power Hong Kong Limited  Electric  In use
+- Hongkong Electric Co., Limited  Electric  In use
+- Modern Terminals Limited  Container port  In use
+- Hong Kong International Terminals Limited  Container port  In use
+- Liaison Office of the Central People Government in the HKSAR  Diplomacy  In use
+- India  Artevea  Military College of Telecommunication Engineering (MCTE)  Indian Army  In use since 2004 at Mhow, Indore, Madhya Pradesh
+- Motorola / Dimetra  Delhi Metro Rail Corporation Ltd.  Transport  The First TETRA in India, in use since 2002
+- DAMM TetraFlex / Consort Digital Pvt Ltd  Mumbai Mono Rail, Mumbai Metropolitan Region Development Authority (MMRDA)  Mass transport - India's first monorail project - Mumbai  Awarded 2010
+- C-DAC  TETRA with Automatic Dial 100 (AD100)  Kerala police  In use by police, Trivandrum city, since 2008
+- DAMM TetraFlex / Consort Digital Pvt Ltd  Tamil Nadu police  Police and internal security and safety  Awarded 2011
+- HCL & Motorola  Secure Communication Network  Delhi government  Integrated Communication System used by various departments under government of Delhi and Delhi police since 2010.
+- DAMM TetraFlex / Consort Digital Pvt Ltd  Gas Authority of India Limited (GAIL)  Gas pipeline - safety, telemetry and security  Awarded 2011
+- THALES Portugal S A & Motorola  With PSTN call integration designed by Thales Group for BMRCL  BMRCL Bangalore Metro Corporation Limited  Transport, in use since March 2011
+- Sepura & Rohde and Schwarz  TETRA with Automatic Dial 100 (AD100)  Gurgaon police  In use by police, Gurgaon city Since 2009. In Salem from August 2011.
+- Sepura & Rohde and Schwarz  TETRA with Automatic Dial 100 (AD100)  Faridabad police  In use by police, Faridabad city, since 2012
+- Indonesia  Motorola / Dimetra, installed & maintained by PT. Mobilkom Telekomindo  SCADA PT. Chevron Pacific Indonesia  HOOU  In use since 2009 at Duri, Riau, Indonesia.
+- Rohde & Schwarz / Accessnet - T  Anti Corruption Agency  Anti Corruption Agency  Operational
+- Rohde & Schwarz / Accessnet-T  Jakarta State Government Network  Jakarta Capital City Jakarta  Operational, Installed since 2007
+- Kazakhstan  HMF Smart Solutions / ACCESSNET®-T IP  Kazakhstan Railways  Public Transport  In use
+- Macao  Artevea  Melco-Crown Entertainment  Casino-Hotels: Altira (formerly Crown Macau), and City of Dreams  In use since 2007
+- Motorola / Dimetra  Forças de Segurança de Macau  All emergency services  In use
+- Malaysia  EADS/Cassidian/Airbus  Segi Maju (SEGI)  Public operator  In use
+- Motorola / Dimetra  Sungai Buloh–Kajang line.  Transport  In use
+- Motorola / Dimetra  Sungai Buloh–Serdang–Putrajaya line.  Transport  Operational 2021
+- Maldives  Motorola / Dimetra  Maldives Police Service (MPS)  Police  In use
+- Pakistan  Motorola / Dimetra  NITRS Nationwide Integrated Trunk Radio System Project for Police under Ministry of Interior, Government of Pakistan  Police  In use Since 2009
+- Philippines  Motorola Dimetra/GA Technology and Systems Inc.  Shell Exploration  Oil and gas  In use October 2013, Phase 2 On Shore Gas Plant for Implementation
+- Motorola Dimetra/GA Technology and Systems Inc.  Globe Telecom  Telecommunications carrier  Implementation on Going Project Finish Dec 2013
+- Rohill (TetraNode) SynTech Systems Inc.  Meralco  Electric company  Implemented Nov 2014
+- Rohill (TetraNode) SynTech Systems Inc.  Manila Line 2  Transport (Manila Light Rail Transit System Line 2)  Implemented Oct 2015
+- Singapore  Leonardo  Singapore Metro  TETRA network for Cross Island Line  Awarded in 2025
 
 Currently in deployment
 
-- Leonardo   Singapore Metro   TETRA network for Jurong Line   Awarded in 2021
+- Leonardo  Singapore Metro  TETRA network for Jurong Line  Awarded in 2021
 
 Currently in deployment
 
-- South Korea   EADS/Cassidian/Airbus   Korea Electric Power Corporation (KEPCO)   Electricity   In use
-- Taiwan   Leonardo   Taipei Rapid Transit Corporation Metro Service   TETRA network for Taipei Metro   Awarded in 2024
+- South Korea  EADS/Cassidian/Airbus  Korea Electric Power Corporation (KEPCO)  Electricity  In use
+- Taiwan  Leonardo  Taipei Rapid Transit Corporation Metro Service  TETRA network for Taipei Metro  Awarded in 2024
 
 Currently in deployment
 
-- Taiwan      Taiwan Railway   Transport   In use
-- Taiwan High Speed Rail   Transport   In use
-- Taipei Metro   Transport   In use
-- Kaohsiung Mass Rapid Transit   Transport   In use
-- Coast Guard Administration (Taiwan)   Republic of China Armed Forces   In use
-- Thailand   Leonardo   Bangkok Metro   TETRA network for Orange Line   Awarded in 2025
+- Taiwan    Taiwan Railway  Transport  In use
+- Taiwan High Speed Rail  Transport  In use
+- Taipei Metro  Transport  In use
+- Kaohsiung Mass Rapid Transit  Transport  In use
+- Coast Guard Administration (Taiwan)  Republic of China Armed Forces  In use
+- Thailand  Leonardo  Bangkok Metro  TETRA network for Orange Line  Awarded in 2025
 
 Currently in deployment
 
-- Africa   Algeria   Rohde & Schwarz   Sonatrach   Oil & gas company   In use since 2003.
-- Sepura   Sonelgaz   Power utility   In use.
-- Egypt   Motorolasolutions
+- Africa  Algeria  Rohde & Schwarz  Sonatrach  Oil & gas company  In use since 2003.
+- Sepura  Sonelgaz  Power utility  In use.
+- Egypt  Motorolasolutions
 
 Dimetra IP
 
-MERC   Ministry of Interior, Suez Canal Authority, Oil& GAS and commercial users   In use, Nationwide
-- Morocco   Rohill   ADM   Highway authority   Rolling out / Almost completed.
-- Nigeria   Dizengoff/Motorola IL (Dimetra IP)   Nigeria LNG   Oil & gas   Since 2006
-- Cisan International Limited/Rohill (TetraNode)   Mobil Ng   Oil   Since 2014
-- Dizengoff/Motorola IL (Compact-Tetra IP)   Shell Ng   Oil   Since 2010
-- Satcomm Integrated Resources LLC SatCom IRL/EADS      Nigerian Ports Authority, Nigeria (rolling out)   Rolling out
-- Rohill (TetraNode)   Bayelsa State   Government   Since June 2012
-- Briscoe Technologies / Hytera Accessnet   Lagos / Abuja / Port Harcourt   Oil industry / airports / security companies   In use Since 2006
-- Namibia   Artevea   Namibian Police Force   Police   In use, nationwide
-- South Africa   HMF Smart Solutions / ACCESSNET®-T IP   Sasol   Oil & Gas   In use
-- Motorola Solutions DIMETRA   Police, traffic police   SAPS Gauteng   Gauteng province
-- Motorola Solutions DIMETRA   Municipality, fire, and ambulance.   City of Cape Town   Cape Peninsula
-- Rohill (TetraNode)   Mbombela Local Municipality   Nelspruit, Mpumalanga   Complete
-- Rohill (TetraNode)   City Power   Johannesburg, Gauteng   Complete
-- Rohill (TetraNode)   City of Tshwane Municipality   Pretoria, Gauteng   Complete
-- Rohill (TetraNode)   Rustenburg Platinum Mine   Potgietersrus, Limpopo   Complete
-- Sudan   Artevea   Ministry of Interior   Police   In use, nationwide
-- Uganda   HMF Smart Solutions / ACCESSNET®-T IP   Entebbe international Airport   Airports   In use
-- Europe   Austria   Motorola / Dimetra   TETRON   Police, fire, ambulance, and local train company.   In use
-- HMF Smart Solutions / ACCESSNET®-T IP   Red Bull Arena, Salzburg   Events   In use
-- Belgium   Airbus/Since 1998   nl:A.S.T.R.I.D. fr:A.S.T.R.I.D.   Police, fire, ambulance, customs, coast guard, hospitals, Red Cross, department of Justice, utility companies, airports, ports, lifeguard service, military.   Nationwide network
-- Rohde & Schwarz since 2011/ ACCESSNET-T   ENTROPIA DIGITAL   Commercial & private security users.   Flanders & Brussels
-- Croatia   Motorola / Dimetra   MUPNet   Police, fire brigades, ambulance service   Nationwide coverage (99,5%) in use
-- Denmark   DAMM TetraFlex   DONG Energy Power Plants - 11 Power Plants across Denmark   Utilities - safety, security, telemetry   Awarded 2009
-- Motorola / Dimetra   SINE   All emergency authorities, incl. police, fire, and ambulance.   Nationwide coverage (99,5%) in use
-- Estonia   EADS/Cassidian/Airbus   ESTER   Police and border guard, fire, ambulance, and customs   Nationwide network
-- Finland   Nokia; now EADS/Cassidian/Airbus   VIRVE   Police, fire, ambulance, customs, defence forces, and border guard   Nationwide network
-- HelenNet   Energy company Helsingin Energia, tram operator HKL-Raitioliikenne, and several bus operators on HRTA's lines. Also used by some security guard companies, mostly securing HRTA's transport. Available for lease for various short-term uses.   In use, covers greater Helsinki region
-- Germany   HMF Smart Solutions / ACCESSNET®-T IP   Stadtwerke Münster   Utilities   In use
-- HMF Smart Solutions / ACCESSNET®-T IP   Würzburg Tramway   Public Transport   In use
-- HMF Smart Solutions / ACCESSNET®-T IP   MIBRAG   Oil & Gas   In use
-- Airbus   BOSNET   Police, fire, ambulance, customs, and coast guard.   Nationwide
-- DAMM TetraFlex   Global Tech 1 Offshore Wind GmbH.   Utility Windfarm - Telemetry, Security and Safety Critical communications   Awarded 2012
-- Hytera   Bremen Tramway   Transport   In use since 2018
-- Greece   HMF Smart Solutions / Network Business Solutions   Piraeus Container Terminal   Ports   In use
-- Motorola / Dimetra   COSMOTE TETRA Services  
-Formerly branded OTElink (2009).   Business critical, public protection & disaster relief (PPDR) communications, public utility and oil-gas companies, seaports, airports, public and private transportation companies, public and private sector security personnel, other. Data applications nationwide including SCADA, AVL, M2M.   Extensive nationwide footprint, in use since 2002
-- SEPURA   Teltronic   Police, Fire Services, Coast Guard   Nationwide roll-out in progress.
-- Hungary   Pro-M Ltd.   EDR (acronym for Unified Digital Radiosystem)   Ambulance, army, Central Office for Administrative and Electronic Public Services, Civil Defence, Hungarian Prison Service, Hungarian Customs and Finance Guard, disaster management, fire, Hungarian Secret Services, Ministry of Environment and Water, and police   In-use
-- HMF Smart Solutions / ACCESSNET®-T IP   Budapesti Közlekedési Vállalat (BKV)   Public Transport   In use
-- Iceland   Motorola / Dimetra   TETRA Iceland   Police, fire services, ambulances, Search and Rescue units, Red Cross, bus service (Strætó Bs.), The Icelandic National Broadcasting Service, most utility companies, municipalities and private users such as excursion companies.   In-use
-- Ireland   Motorola / Dimetra   TETRA Ireland   An Garda Siochana, HSE National Ambulance Service, Irish Prison Service, Irish Naval Service, Customs & Excise, civil defense (only a few units), Irish Coast Guard, mountain rescue (only a few units), Order of Malta Ambulance Corps, Irish Red Cross, St John Ambulance, National Emergency Office, Port of Cork, Revenue Commissioners and Office of Public Works.   Nationwide roll-out network complete. The fire services are planning to implement in the coming years. As of July 2011, TETRA Ireland now operates the national Paging System.
-- Italy   HMF Smart Solutions/ Mobilcom   Priolo Servizi Consortium/Sicilia   Oil & Gas   In use
-- Leonardo   MoI   Completion of the National PSS network (PIT)   Awarded in 2025
+MERC  Ministry of Interior, Suez Canal Authority, Oil& GAS and commercial users  In use, Nationwide
+- Morocco  Rohill  ADM  Highway authority  Rolling out / Almost completed.
+- Nigeria  Dizengoff/Motorola IL (Dimetra IP)  Nigeria LNG  Oil & gas  Since 2006
+- Cisan International Limited/Rohill (TetraNode)  Mobil Ng  Oil  Since 2014
+- Dizengoff/Motorola IL (Compact-Tetra IP)  Shell Ng  Oil  Since 2010
+- Satcomm Integrated Resources LLC SatCom IRL/EADS    Nigerian Ports Authority, Nigeria (rolling out)  Rolling out
+- Rohill (TetraNode)  Bayelsa State  Government  Since June 2012
+- Briscoe Technologies / Hytera Accessnet  Lagos / Abuja / Port Harcourt  Oil industry / airports / security companies  In use Since 2006
+- Namibia  Artevea  Namibian Police Force  Police  In use, nationwide
+- South Africa  HMF Smart Solutions / ACCESSNET®-T IP  Sasol  Oil & Gas  In use
+- Motorola Solutions DIMETRA  Police, traffic police  SAPS Gauteng  Gauteng province
+- Motorola Solutions DIMETRA  Municipality, fire, and ambulance.  City of Cape Town  Cape Peninsula
+- Rohill (TetraNode)  Mbombela Local Municipality  Nelspruit, Mpumalanga  Complete
+- Rohill (TetraNode)  City Power  Johannesburg, Gauteng  Complete
+- Rohill (TetraNode)  City of Tshwane Municipality  Pretoria, Gauteng  Complete
+- Rohill (TetraNode)  Rustenburg Platinum Mine  Potgietersrus, Limpopo  Complete
+- Sudan  Artevea  Ministry of Interior  Police  In use, nationwide
+- Uganda  HMF Smart Solutions / ACCESSNET®-T IP  Entebbe international Airport  Airports  In use
+- Europe  Austria  Motorola / Dimetra  TETRON  Police, fire, ambulance, and local train company.  In use
+- HMF Smart Solutions / ACCESSNET®-T IP  Red Bull Arena, Salzburg  Events  In use
+- Belgium  Airbus/Since 1998  nl:A.S.T.R.I.D. fr:A.S.T.R.I.D.  Police, fire, ambulance, customs, coast guard, hospitals, Red Cross, department of Justice, utility companies, airports, ports, lifeguard service, military.  Nationwide network
+- Rohde & Schwarz since 2011/ ACCESSNET-T  ENTROPIA DIGITAL  Commercial & private security users.  Flanders & Brussels
+- Croatia  Motorola / Dimetra  MUPNet  Police, fire brigades, ambulance service  Nationwide coverage (99,5%) in use
+- Denmark  DAMM TetraFlex  DONG Energy Power Plants - 11 Power Plants across Denmark  Utilities - safety, security, telemetry  Awarded 2009
+- Motorola / Dimetra  SINE  All emergency authorities, incl. police, fire, and ambulance.  Nationwide coverage (99,5%) in use
+- Estonia  EADS/Cassidian/Airbus  ESTER  Police and border guard, fire, ambulance, and customs  Nationwide network
+- Finland  Nokia; now EADS/Cassidian/Airbus  VIRVE  Police, fire, ambulance, customs, defence forces, and border guard  Nationwide network
+- HelenNet  Energy company Helsingin Energia, tram operator HKL-Raitioliikenne, and several bus operators on HRTA's lines. Also used by some security guard companies, mostly securing HRTA's transport. Available for lease for various short-term uses.  In use, covers greater Helsinki region
+- Germany  HMF Smart Solutions / ACCESSNET®-T IP  Stadtwerke Münster  Utilities  In use
+- HMF Smart Solutions / ACCESSNET®-T IP  Würzburg Tramway  Public Transport  In use
+- HMF Smart Solutions / ACCESSNET®-T IP  MIBRAG  Oil & Gas  In use
+- Airbus  BOSNET  Police, fire, ambulance, customs, and coast guard.  Nationwide
+- DAMM TetraFlex  Global Tech 1 Offshore Wind GmbH.  Utility Windfarm - Telemetry, Security and Safety Critical communications  Awarded 2012
+- Hytera  Bremen Tramway  Transport  In use since 2018
+- Greece  HMF Smart Solutions / Network Business Solutions  Piraeus Container Terminal  Ports  In use
+- Motorola / Dimetra  COSMOTE TETRA Services  
+Formerly branded OTElink (2009).  Business critical, public protection & disaster relief (PPDR) communications, public utility and oil-gas companies, seaports, airports, public and private transportation companies, public and private sector security personnel, other. Data applications nationwide including SCADA, AVL, M2M.  Extensive nationwide footprint, in use since 2002
+- SEPURA  Teltronic  Police, Fire Services, Coast Guard  Nationwide roll-out in progress.
+- Hungary  Pro-M Ltd.  EDR (acronym for Unified Digital Radiosystem)  Ambulance, army, Central Office for Administrative and Electronic Public Services, Civil Defence, Hungarian Prison Service, Hungarian Customs and Finance Guard, disaster management, fire, Hungarian Secret Services, Ministry of Environment and Water, and police  In-use
+- HMF Smart Solutions / ACCESSNET®-T IP  Budapesti Közlekedési Vállalat (BKV)  Public Transport  In use
+- Iceland  Motorola / Dimetra  TETRA Iceland  Police, fire services, ambulances, Search and Rescue units, Red Cross, bus service (Strætó Bs.), The Icelandic National Broadcasting Service, most utility companies, municipalities and private users such as excursion companies.  In-use
+- Ireland  Motorola / Dimetra  TETRA Ireland  An Garda Siochana, HSE National Ambulance Service, Irish Prison Service, Irish Naval Service, Customs & Excise, civil defense (only a few units), Irish Coast Guard, mountain rescue (only a few units), Order of Malta Ambulance Corps, Irish Red Cross, St John Ambulance, National Emergency Office, Port of Cork, Revenue Commissioners and Office of Public Works.  Nationwide roll-out network complete. The fire services are planning to implement in the coming years. As of July 2011, TETRA Ireland now operates the national Paging System.
+- Italy  HMF Smart Solutions/ Mobilcom  Priolo Servizi Consortium/Sicilia  Oil & Gas  In use
+- Leonardo  MoI  Completion of the National PSS network (PIT)  Awarded in 2025
 
 Currently in deployment
 
-- Leonardo   Milan-Cortina Foundation   TETRA network for organisation and security services of Milano-Cortina Winter Olympics 2026   Awarded in 2025
-- DAMM TetraFlex   Lombardi Ambulance Emergency Services   Ambulance - security, safety, communication   Awarded 2010
-- SELEX ELSAG   Rete Interpolizie   Polizia di Stato (Italian state police), Carabinieri (military police), Guardia di Finanza (financial police), Polizia Penitenziaria (prison police), and Corpo Forestale Italiano (Italian forest brigades)   Rolling out
-- DAMM TetraFlex   Rome International Airport   Airport - security, safety, commercial, fire, customs, police   Awarded 2009
-- Latvia   Artevea   Ventamonjaks Serviss Ltd, Ventspils   Oil and gas   In use since 2007
-- Motorola / Dimetra (SIA DAN Communications)   Riga Municipal Police   Local law enforcement in Riga   Ordered in 2016
-- Motorola / Dimetra (SIA DAN Communications)   State Police   National law enforcement
-- Luxembourg   Motorola / Dimetra   Renita   Government; police, fire brigade, ambulance services and others   Start building 2014, Operational since 2015
-- Motorola / Dimetra   ConnectCom   Commercial network   Operational
-- Motorola / Dimetra   ConnectCom   Public Transport, city of Luxembourg   Operational
-- Motorola / Dimetra   ConnectCom   European Union   Operational
-- North Macedonia   HMF Smart Solutions / ACCESSNET®-T IP   MoI   Public Safety   In use
-- Hytera   Fire brigade of city Skopje   Fire department   In use
-- Malta   Marconi      Civil Protection Force   July 2001
-- Monaco   Motorola      Sûreté Publique (Police), Carabiniers (military police), fire brigades, ambulance   Nationwide coverage (including indoor public buildings)
-- Montenegro   Motorola / Dimetra   Wireless Montenegro d.o.o.   Police, military, fire brigades, ambulance   In use since November 2012 Podgorica area only. Rolling out elsewhere.
-- Netherlands   HMF Smart Solutions / ACCESSNET®-T IP   C2000   Police, fire, and ambulance   Nationwide network
-- Motorola / Dimetra   ENTROPIA DIGITAL   Commercial users.   National license
-- Motorola / Dimetra until 2019 ?, Hytera AccessNet-T since 2019 ??   HTM   Public transport The Hague   Regional network
-- Motorola / Dimetra   CCTN / GVB   Public transport Amsterdam   Regional network
-- Rohill   RET   Public transport Rotterdam   Regional network
-- Rohill   Schiphol Airport   Schiphol Group, KLM, and other businesses   Local network
-- Sepura   TATA steel Europe   Hoogovens   Local network
-- Norway   Motorola / Dimetra   Norwegian Public Safety Radio   Police, fire, ambulance, civil defense and search and rescue   Nationwide rollout completed September 2015
-- Motorola   Ruter/Sporveien   Public Transport, Oslo   Established before 2003
-- Portugal   Motorola   SIRESP   Police (PSP and GNR), fire, ambulance and civil protection   Nationwide roll-out, in use since 2007
-- Motorola   Lisbon International Airport (LPPT)   Transport - Ground operations   Local Network
-- Poland   Motorola   Ministry of Interior, Polish army, and Warsaw police   Police, fire, public transport, airports, and army.   In use since 2000
-- HMF Smart Solutions / ACCESSNET®-T IP   Chopin Airport, Warsaw   Airports   In use
-- Rohill (TetraNode)   Szczecin, Warsaw and Kraków police   Roll-out ongoing.   Modern IP based TETRA solution for 3 cities
-- Romania   Motorola / Dimetra   Special Telecommunications Service (STS)   Police, fire, and search and rescue   Nationwide
-- Motorola   Dimetra   Ministry of Administration and Interior (MAI) / Romanian Border Police (RBP)   In use since 2008 for police, emergency and search and rescue agencies from Romanian border counties-wide
-- EADS/Cassidian/Airbus   TETRA EADS   Ministry of Administration and Interior (MAI) / Romanian Border Police (RBP)   In use since 2010 for police, emergency and search and rescue agencies from Romanian border counties-wide
-- Hytera/Motorola/Sepura   HamTetra Network Romania   Amateur radio users engage in both DMO (Direct Mode Operation) and TMO (Trunked Mode Operation) modes, both within the country and globally, connecting through gateways such as Zello and SVXLink.
+- Leonardo  Milan-Cortina Foundation  TETRA network for organisation and security services of Milano-Cortina Winter Olympics 2026  Awarded in 2025
+- DAMM TetraFlex  Lombardi Ambulance Emergency Services  Ambulance - security, safety, communication  Awarded 2010
+- SELEX ELSAG  Rete Interpolizie  Polizia di Stato (Italian state police), Carabinieri (military police), Guardia di Finanza (financial police), Polizia Penitenziaria (prison police), and Corpo Forestale Italiano (Italian forest brigades)  Rolling out
+- DAMM TetraFlex  Rome International Airport  Airport - security, safety, commercial, fire, customs, police  Awarded 2009
+- Latvia  Artevea  Ventamonjaks Serviss Ltd, Ventspils  Oil and gas  In use since 2007
+- Motorola / Dimetra (SIA DAN Communications)  Riga Municipal Police  Local law enforcement in Riga  Ordered in 2016
+- Motorola / Dimetra (SIA DAN Communications)  State Police  National law enforcement
+- Luxembourg  Motorola / Dimetra  Renita  Government; police, fire brigade, ambulance services and others  Start building 2014, Operational since 2015
+- Motorola / Dimetra  ConnectCom  Commercial network  Operational
+- Motorola / Dimetra  ConnectCom  Public Transport, city of Luxembourg  Operational
+- Motorola / Dimetra  ConnectCom  European Union  Operational
+- North Macedonia  HMF Smart Solutions / ACCESSNET®-T IP  MoI  Public Safety  In use
+- Hytera  Fire brigade of city Skopje  Fire department  In use
+- Malta  Marconi    Civil Protection Force  July 2001
+- Monaco  Motorola    Sûreté Publique (Police), Carabiniers (military police), fire brigades, ambulance  Nationwide coverage (including indoor public buildings)
+- Montenegro  Motorola / Dimetra  Wireless Montenegro d.o.o.  Police, military, fire brigades, ambulance  In use since November 2012 Podgorica area only. Rolling out elsewhere.
+- Netherlands  HMF Smart Solutions / ACCESSNET®-T IP  C2000  Police, fire, and ambulance  Nationwide network
+- Motorola / Dimetra  ENTROPIA DIGITAL  Commercial users.  National license
+- Motorola / Dimetra until 2019 ?, Hytera AccessNet-T since 2019 ??  HTM  Public transport The Hague  Regional network
+- Motorola / Dimetra  CCTN / GVB  Public transport Amsterdam  Regional network
+- Rohill  RET  Public transport Rotterdam  Regional network
+- Rohill  Schiphol Airport  Schiphol Group, KLM, and other businesses  Local network
+- Sepura  TATA steel Europe  Hoogovens  Local network
+- Norway  Motorola / Dimetra  Norwegian Public Safety Radio  Police, fire, ambulance, civil defense and search and rescue  Nationwide rollout completed September 2015
+- Motorola  Ruter/Sporveien  Public Transport, Oslo  Established before 2003
+- Portugal  Motorola  SIRESP  Police (PSP and GNR), fire, ambulance and civil protection  Nationwide roll-out, in use since 2007
+- Motorola  Lisbon International Airport (LPPT)  Transport - Ground operations  Local Network
+- Poland  Motorola  Ministry of Interior, Polish army, and Warsaw police  Police, fire, public transport, airports, and army.  In use since 2000
+- HMF Smart Solutions / ACCESSNET®-T IP  Chopin Airport, Warsaw  Airports  In use
+- Rohill (TetraNode)  Szczecin, Warsaw and Kraków police  Roll-out ongoing.  Modern IP based TETRA solution for 3 cities
+- Romania  Motorola / Dimetra  Special Telecommunications Service (STS)  Police, fire, and search and rescue  Nationwide
+- Motorola  Dimetra  Ministry of Administration and Interior (MAI) / Romanian Border Police (RBP)  In use since 2008 for police, emergency and search and rescue agencies from Romanian border counties-wide
+- EADS/Cassidian/Airbus  TETRA EADS  Ministry of Administration and Interior (MAI) / Romanian Border Police (RBP)  In use since 2010 for police, emergency and search and rescue agencies from Romanian border counties-wide
+- Hytera/Motorola/Sepura  HamTetra Network Romania  Amateur radio users engage in both DMO (Direct Mode Operation) and TMO (Trunked Mode Operation) modes, both within the country and globally, connecting through gateways such as Zello and SVXLink.
 
 Ham Tetra Romania Network Architecture was developed and published along with users map and equipment used on the YO8TEH website
 
 Tetra gear in ham radio was initially introduced by YO8TEH in 2014 in DMO (Direct Mode Operation). Subsequently, it evolved into gateways through platforms like Zello and Teamspeak. In 2021, a part of the system was split and migrated to svxlink, along with its classic application. The first Tetra Repeater for Ham Radio use in Romania was licensed under the call sign YO8TEH-1, while the second TMO repeater was licensed under the call sign YO8Q.
-- Russia   DAMM TetraFlex   Moscow Metro (second most heavily used rapid transport system in the world)   Transport - rail - telemetry, safety, security, police, ambulance, fire   Awarded 2011
-- Sepura   Unified system of operational trunking radio (Единая Система Оперативной Транкинговой Радиосвязи)   Fire, ambulance and partially, police   Launched in 2008
-- DAMM TetraFlex   Russias Kaliningrad Power Plant.   Utility power plant - safety and security - telemetry and commercial agents   Awarded 2009
-- DAMM TetraFlex   St Petersburg and North West Russia.   Government - ambulance and emergency services, police, healthcare facilities, utility services, St. Petersburg Authorities and the regional civil defense   Awarded 2011
-- Serbia   Motorola / Dimetra   Ministry of Interior   Police, fire brigades, ambulance   Fully rolled out as of 2009
-- Slovenia   Selex/OTE/Marconi   Ministry of Interior   Police   In central Slovenia
-- Spain   Motorola   Basque Country   Mainly police   In use since 2006
-- Teltronic   Basque Country   Mainly municipalities and public services   In use since 2009
-- EADS/Cassidian/Airbus   Catalonia   Police, fire brigades, civil protection, ambulances, forest guards, water agency, gas company, road maintenance service and other public agencies   In use since 2006
-- Sweden   SAAB, Cassidian, Eltel Networks   RAKEL   Managed by the Civil Contingencies Agency - MSB. For use by the emergency services and others in the fields of civil protection, public safety and security, emergency medical services and healthcare, road services, nuclear facilities.   In operation, covering 99.8% of Sweden's population and 95% of its territory
-- Motorola   Tetra   Stockholm public transport: used by transport security officers for dispatch internal communications, Transport Police ("Tunnelbanepolisen") and other police forces for liaison with transport officials. Roll-out stage for train operations on underground.   In operation / roll-out
-- Rohde & Schwarz   Got1   Got1 is a modern IP based Tetra network used in the west parts of Sweden. Mainly in the Gothenburg region. With customers like SKF and Volvo Trucks.   In operation
-- United Kingdom   Motorola / Dimetra / Sepura   Airwave   Police, fire, NHS ambulance services, Border Force, immigration enforcement, some armed forces, National Highways traffic officers, civil contingency services, HM Coastguard, St John Ambulance, St John Cymru, British Red Cross, Highland Council, and miscellaneous emergency services.   Full emergency service rollout complete
-- Hytera   Tetra   Prison Service   Operational
-- Motorola / Dimetra   Connect   Transport for London (London Underground)   Used by all Tube staff and relaying Airwave for BTP when underground
-- AirRadio AR-en      Use by some services at some major airports   (Heathrow, Birmingham, Manchester, Glasgow, Aberdeen)
-- Middle East   Israel   Motorola   Mountain Rose   Israel Defense Forces (IDF)   In use by IDF, country-wide
-- Turkey   DAMM TetraFlex   Alacer Gold Mine   Mining - safety and security critical communications   Awarded 2012
-- United Arab Emirates   EADS/Cassidian/Airbus   Nedaa   Police, emergency services, and professional communications   Dubai, Sharjah, Ajman, Umm Al-Qaiwain, Ras Al-Khaimah, and Fujairah operational
-- EADS/Cassidian/Airbus   Polikom   Police, emergency services, and professional communications   Abu Dhabi
-- Qatar   HMF Smart Solutions / ACCESSNET®-T IP   Ooredoo, nationwide network   Operator/Industry   In use
-- EADS/Cassidian/Airbus      Ministry of Interior, army, police, air force search and rescue, EMS (medical).   Initial use for the 15th Asian Games all games venues inclusive of transportation routes for "blue light" services, later extended to cover the State of Qatar. Known as Qatar Secure TETRA Radio System (QSTRS).
-- Saudi Arabia   Leonardo   Riyadh Metro   Extension of existing TETRA network for Riyadh Metro   Awarded in 2025
+- Russia  DAMM TetraFlex  Moscow Metro (second most heavily used rapid transport system in the world)  Transport - rail - telemetry, safety, security, police, ambulance, fire  Awarded 2011
+- Sepura  Unified system of operational trunking radio (Единая Система Оперативной Транкинговой Радиосвязи)  Fire, ambulance and partially, police  Launched in 2008
+- DAMM TetraFlex  Russias Kaliningrad Power Plant.  Utility power plant - safety and security - telemetry and commercial agents  Awarded 2009
+- DAMM TetraFlex  St Petersburg and North West Russia.  Government - ambulance and emergency services, police, healthcare facilities, utility services, St. Petersburg Authorities and the regional civil defense  Awarded 2011
+- Serbia  Motorola / Dimetra  Ministry of Interior  Police, fire brigades, ambulance  Fully rolled out as of 2009
+- Slovenia  Selex/OTE/Marconi  Ministry of Interior  Police  In central Slovenia
+- Spain  Motorola  Basque Country  Mainly police  In use since 2006
+- Teltronic  Basque Country  Mainly municipalities and public services  In use since 2009
+- EADS/Cassidian/Airbus  Catalonia  Police, fire brigades, civil protection, ambulances, forest guards, water agency, gas company, road maintenance service and other public agencies  In use since 2006
+- Sweden  SAAB, Cassidian, Eltel Networks  RAKEL  Managed by the Civil Contingencies Agency - MSB. For use by the emergency services and others in the fields of civil protection, public safety and security, emergency medical services and healthcare, road services, nuclear facilities.  In operation, covering 99.8% of Sweden's population and 95% of its territory
+- Motorola  Tetra  Stockholm public transport: used by transport security officers for dispatch internal communications, Transport Police ("Tunnelbanepolisen") and other police forces for liaison with transport officials. Roll-out stage for train operations on underground.  In operation / roll-out
+- Rohde & Schwarz  Got1  Got1 is a modern IP based Tetra network used in the west parts of Sweden. Mainly in the Gothenburg region. With customers like SKF and Volvo Trucks.  In operation
+- United Kingdom  Motorola / Dimetra / Sepura  Airwave  Police, fire, NHS ambulance services, Border Force, immigration enforcement, some armed forces, National Highways traffic officers, civil contingency services, HM Coastguard, St John Ambulance, St John Cymru, British Red Cross, Highland Council, and miscellaneous emergency services.  Full emergency service rollout complete
+- Hytera  Tetra  Prison Service  Operational
+- Motorola / Dimetra  Connect  Transport for London (London Underground)  Used by all Tube staff and relaying Airwave for BTP when underground
+- AirRadio AR-en    Use by some services at some major airports  (Heathrow, Birmingham, Manchester, Glasgow, Aberdeen)
+- Middle East  Israel  Motorola  Mountain Rose  Israel Defense Forces (IDF)  In use by IDF, country-wide
+- Turkey  DAMM TetraFlex  Alacer Gold Mine  Mining - safety and security critical communications  Awarded 2012
+- United Arab Emirates  EADS/Cassidian/Airbus  Nedaa  Police, emergency services, and professional communications  Dubai, Sharjah, Ajman, Umm Al-Qaiwain, Ras Al-Khaimah, and Fujairah operational
+- EADS/Cassidian/Airbus  Polikom  Police, emergency services, and professional communications  Abu Dhabi
+- Qatar  HMF Smart Solutions / ACCESSNET®-T IP  Ooredoo, nationwide network  Operator/Industry  In use
+- EADS/Cassidian/Airbus    Ministry of Interior, army, police, air force search and rescue, EMS (medical).  Initial use for the 15th Asian Games all games venues inclusive of transportation routes for "blue light" services, later extended to cover the State of Qatar. Known as Qatar Secure TETRA Radio System (QSTRS).
+- Saudi Arabia  Leonardo  Riyadh Metro  Extension of existing TETRA network for Riyadh Metro  Awarded in 2025
 
 Currently in deployment
 
-- Latin America   Mexico   Rohde & Schwarz / Sepura   Mazatlán, Sinaloa Police & Emergency Services   Police, emergency services operational   Operational
-- South America   Argentina   HMF Smart Solutions / ACCESSNET®-T IP   Mendoza   Public Safety   In use
-- Brazil   Motorola   América Latina Logística   Railroad, communication and licensing.   Operational
-- Teltronic / Motorola   Polícia Rodoviária Federal   Road patrol, country-wide   In operation / national roll-out in progress
-- Teltronic / Motorola   12 states   Public Safety Agencies   In operation, 600+ stationary stations.
-- Chile   HMF Smart Solutions / ACCESSNET®-T IP   Gendarmeria de Chile   Public Safety   Awarded 2025
-- Peru   HMF Smart Solutions / ACCESSNET®-T IP   National Police and district units of Pucallpa   Public Safety   In use
-- Caribbean   Windward Islands and Leeward Islands   Rohill   Zenitel, C3 since 2005   Police, emergency services, oil and professional communications   Aruba, Bonaire, Curaçao, Sint Maarten, Saint Martin, Saba, Sint Eustatius, and Anguilla operational
-- Dominican Republic   Hytera US / HMF Smart Solutions      Public Safety   In use
-- Oceania   Australia   DAMM TetraFlex   BHP Billiton   Temco Smeltering Tasmania - mining, commercial, safety, security   Awarded 2011
-- DAMM TetraFlex   Rio Tinto   Western Australia Mining   Awarded 2009
-- Rohill Tetra   Inpex   Ichthys LNG   Infrastructure
-- Rohill Tetra   BHP Billiton   Macedon Gas   Infrastructure
-- DAMM TetraFlex   Origin Energy (APLNG)   Kordia Solutions   Australian Pacific Project
-- Rohill Tetra   Goldlinq   Goldcoast rail   Goldcoast infrastructure
-- DAMM TetraFlex   Fortescue Metals group   Open cut mining   Awarded 2011
-- DAMM TetraFlex   Gorgon LNG Project, Chevron, Australia   Gas and pipelines   Awarded 2011
-- Motorola   BHP Billiton   Pyrenees FPSO   Awarded 2016
-- Motorola   Zeon   Local government   Operational across Brisbane City Council, including the Brisbane State Emergency Service Unit
-- DAMM TetraFlex   Australian Submarine Co   Military, defence, comms, safety, security   Awarded 2012
-- Motorola   Zeon   Tertiary education   Used by Queensland University of Technology security staff.
-- Sepura         Being used by several Mining Operations throughout Western Australia and Queensland - Terminals only - No Infrastructure.
-- New Zealand   DAMM TetraFlex   BHP One Steel   Aluminium Smelter - ore production - safety, security, operations   Awarded 2012
-- Kordia   KorKor   Airports   Used by Wellington International Airport, Air New Zealand
-- Kordia   KorKor   Councils   Used by Hutt City, Auckland Transport
-- Teltronic   Widarcom   Commercial network launched 2008   Used by University of Auckland, Westpac
+- Latin America  Mexico  Rohde & Schwarz / Sepura  Mazatlán, Sinaloa Police & Emergency Services  Police, emergency services operational  Operational
+- South America  Argentina  HMF Smart Solutions / ACCESSNET®-T IP  Mendoza  Public Safety  In use
+- Brazil  Motorola  América Latina Logística  Railroad, communication and licensing.  Operational
+- Teltronic / Motorola  Polícia Rodoviária Federal  Road patrol, country-wide  In operation / national roll-out in progress
+- Teltronic / Motorola  12 states  Public Safety Agencies  In operation, 600+ stationary stations.
+- Chile  HMF Smart Solutions / ACCESSNET®-T IP  Gendarmeria de Chile  Public Safety  Awarded 2025
+- Peru  HMF Smart Solutions / ACCESSNET®-T IP  National Police and district units of Pucallpa  Public Safety  In use
+- Caribbean  Windward Islands and Leeward Islands  Rohill  Zenitel, C3 since 2005  Police, emergency services, oil and professional communications  Aruba, Bonaire, Curaçao, Sint Maarten, Saint Martin, Saba, Sint Eustatius, and Anguilla operational
+- Dominican Republic  Hytera US / HMF Smart Solutions    Public Safety  In use
+- Oceania  Australia  DAMM TetraFlex  BHP Billiton  Temco Smeltering Tasmania - mining, commercial, safety, security  Awarded 2011
+- DAMM TetraFlex  Rio Tinto  Western Australia Mining  Awarded 2009
+- Rohill Tetra  Inpex  Ichthys LNG  Infrastructure
+- Rohill Tetra  BHP Billiton  Macedon Gas  Infrastructure
+- DAMM TetraFlex  Origin Energy (APLNG)  Kordia Solutions  Australian Pacific Project
+- Rohill Tetra  Goldlinq  Goldcoast rail  Goldcoast infrastructure
+- DAMM TetraFlex  Fortescue Metals group  Open cut mining  Awarded 2011
+- DAMM TetraFlex  Gorgon LNG Project, Chevron, Australia  Gas and pipelines  Awarded 2011
+- Motorola  BHP Billiton  Pyrenees FPSO  Awarded 2016
+- Motorola  Zeon  Local government  Operational across Brisbane City Council, including the Brisbane State Emergency Service Unit
+- DAMM TetraFlex  Australian Submarine Co  Military, defence, comms, safety, security  Awarded 2012
+- Motorola  Zeon  Tertiary education  Used by Queensland University of Technology security staff.
+- Sepura      Being used by several Mining Operations throughout Western Australia and Queensland - Terminals only - No Infrastructure.
+- New Zealand  DAMM TetraFlex  BHP One Steel  Aluminium Smelter - ore production - safety, security, operations  Awarded 2012
+- Kordia  KorKor  Airports  Used by Wellington International Airport, Air New Zealand
+- Kordia  KorKor  Councils  Used by Hutt City, Auckland Transport
+- Teltronic  Widarcom  Commercial network launched 2008  Used by University of Auckland, Westpac
 
 ### Amateur radio usage
 

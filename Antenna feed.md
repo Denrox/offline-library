@@ -20,18 +20,18 @@ Particularly with a transmitting antenna, the feed line is a critical component 
 Cabling characteristics of a  
 few common feedline types
 - Cable  
-type   Nominal impedance  
-(Ω)   Velocity  
+type  Nominal impedance  
+(Ω)  Velocity  
 factor  
 (% c)
-- [radio coax](Coaxial%20cable.md)   50   66 (solid)  
+- [radio coax](Coaxial%20cable.md)  50  66 (solid)  
 80 (foam)
-- [video coax](Coaxial%20cable.md)   75
+- [video coax](Coaxial%20cable.md)  75
 - [twin-lead](Twin-lead.md)  
-ribbon line   300   82
-- [window line](Twin-lead.md)   450   95–99
+ribbon line  300  82
+- [window line](Twin-lead.md)  450  95–99
 - ladder line  
-open wire line   500–600
+open wire line  500–600
 
 #### Twin-lead
 

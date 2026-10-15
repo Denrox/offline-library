@@ -145,27 +145,27 @@ Cable television, though not transmitted aerially, uses a spectrum of frequencie
 The U.S. FCC allocated television broadcasting to a channelized roster as early as 1938 with 19 channels. That changed three more times: in 1940 when Channel 19 was deleted and several channels changed frequencies, then in 1946 with television going from 18 channels to 13 channels, again with different frequencies, and finally in 1948 with the removal of Channel 1 (analog channels 2–13 remain as they were, even on cable television). Channels 14–19 later appeared on the UHF band, while channel 1 remains unused, except as a "virtual channel".
 
 - Historic US FCC allocation of VHF TV band
-- 1938–1940   1940–1946   1946–1948   since 1948
+- 1938–1940  1940–1946  1946–1948  since 1948
 - Channel    Range (MHz)    Range (MHz)    Range (MHz)    Range (MHz)
-- 1   44–50   50–56   44–50    –
-- 2   50–56   60–66   54–60   54–60
-- 3   66–72   66–72   60–66   60–66
-- 4   78–84   78–84   66–72   66–72
-- 5   84–90   84–90   76–82   76–82
-- 6   96–102   96–102   82–88   82–88
-- 7   102–108   102–108   174–180   174–180
-- 8   156–162   162–168   180–186   180–186
-- 9   162–168   180–186   186–192   186–192
-- 10   180–186   186–192   192–198   192–198
-- 11   186–192   204–210   198–204   198–204
-- 12   204–210   210–216   204–210   204–210
-- 13   210–216   230–236   210–216   210–216
-- 14   234–240   236–242    –    –
-- 15   240–246   258–264    –    –
-- 16   258–264   264–270    –    –
-- 17   264–270   282–288    –    –
-- 18   282–288   288–294    –    –
-- 19   288–294    –    –    –
+- 1  44–50  50–56  44–50   –
+- 2  50–56  60–66  54–60  54–60
+- 3  66–72  66–72  60–66  60–66
+- 4  78–84  78–84  66–72  66–72
+- 5  84–90  84–90  76–82  76–82
+- 6  96–102  96–102  82–88  82–88
+- 7  102–108  102–108  174–180  174–180
+- 8  156–162  162–168  180–186  180–186
+- 9  162–168  180–186  186–192  186–192
+- 10  180–186  186–192  192–198  192–198
+- 11  186–192  204–210  198–204  198–204
+- 12  204–210  210–216  204–210  204–210
+- 13  210–216  230–236  210–216  210–216
+- 14  234–240  236–242   –    –
+- 15  240–246  258–264   –    –
+- 16  258–264  264–270   –    –
+- 17  264–270  282–288   –    –
+- 18  282–288  288–294   –    –
+- 19  288–294   –    –    –
 
 ##### 87.5–87.9 MHz
 

@@ -54,26 +54,26 @@ A transmission consists of horizontal lines, scanned from left to right. The col
 
 Below is a table of some of the most common SSTV modes and their differences. These modes share many properties, such as synchronization and/or frequencies and grey/color level correspondence. Their main difference is the image quality, which is proportional to the time taken to transfer the image and in the case of the AVT modes, related to synchronous data transmission methods and noise resistance conferred by the use of interlace.
 
-- Family  Developer  Name  Color  Time  Lines
-- AVT   Ben Blish-Williams, AA7AS / AEA   8  BW or 1 of R, G, or B  8 s  128×128
-- 16w  BW or 1 of R, G, or B  16 s  256×128
-- 16h  BW or 1 of R, G, or B  16 s  128×256
-- 32  BW or 1 of R, G, or B  32 s  256×256
-- 24  RGB  24 s  128×128
-- 48w  RGB  48 s  256×128
-- 48h  RGB  48 s  128×256
-- 104  RGB  96 s  256×256
-- Martin   Martin Emmerson - G3OQD   M1  RGB  114 s  240¹
-- M2  RGB  58 s  240¹
-- Robot   Robot SSTV   8  BW or 1 of R, G or B  8 s  120
-- 12  YUV  12 s  128 luma, 32/32 chroma × 120
-- 24  YUV  24 s  128 luma, 64/64 chroma × 120
-- 32  BW or 1 of R, G or B  32 s  256 × 240
-- 36  YUV  36 s  256 luma, 64/64 chroma × 240
-- 72  YUV  72 s  256 luma, 128/128 chroma × 240
-- Scottie   Eddie Murphy - GM3SBC   S1  RGB  110 s  240¹
-- S2  RGB  71 s  240¹
-- DX   RGB   269 s   320 x 256
+- Family Developer Name Color Time Lines
+- AVT  Ben Blish-Williams, AA7AS / AEA  8 BW or 1 of R, G, or B 8 s 128×128
+- 16w BW or 1 of R, G, or B 16 s 256×128
+- 16h BW or 1 of R, G, or B 16 s 128×256
+- 32 BW or 1 of R, G, or B 32 s 256×256
+- 24 RGB 24 s 128×128
+- 48w RGB 48 s 256×128
+- 48h RGB 48 s 128×256
+- 104 RGB 96 s 256×256
+- Martin  Martin Emmerson - G3OQD  M1 RGB 114 s 240¹
+- M2 RGB 58 s 240¹
+- Robot  Robot SSTV  8 BW or 1 of R, G or B 8 s 120
+- 12 YUV 12 s 128 luma, 32/32 chroma × 120
+- 24 YUV 24 s 128 luma, 64/64 chroma × 120
+- 32 BW or 1 of R, G or B 32 s 256 × 240
+- 36 YUV 36 s 256 luma, 64/64 chroma × 240
+- 72 YUV 72 s 256 luma, 128/128 chroma × 240
+- Scottie  Eddie Murphy - GM3SBC  S1 RGB 110 s 240¹
+- S2 RGB 71 s 240¹
+- DX  RGB  269 s  320 x 256
 
 ¹ Martin and Scottie modes actually send 256 scanlines, but the first 16 are usually grayscale.
 
@@ -93,31 +93,31 @@ Interlace, no dependence upon sync, and interline reconstruction gives the AVT m
 
 ##### Other modes
 
-- Family  Developer  Name  Time [sec]  Resolution  Color  VIS  VIS+P
-- PD   Paul Turner, G4IJE  
-Don Rotier, K0HEO-[SK](Amateur%20radio%20operator.md)   PD50   50.000000   320 x 256   G, R-Y, B-Y
-- PD90  89.989120  320 x 256  99  99
-- PD120  126.103040  640 x 496  95  95
-- PD160  160.883200  512 x 400  98  226
-- PD180  187.051520  640 x 496  96  96
-- PD240  248.000000  640 x 496  97  225
-- PD290   289.000000   800 x 616
+- Family Developer Name Time [sec] Resolution Color VIS VIS+P
+- PD  Paul Turner, G4IJE  
+Don Rotier, K0HEO-[SK](Amateur%20radio%20operator.md)  PD50  50.000000  320 x 256  G, R-Y, B-Y
+- PD90 89.989120 320 x 256 99 99
+- PD120 126.103040 640 x 496 95 95
+- PD160 160.883200 512 x 400 98 226
+- PD180 187.051520 640 x 496 96 96
+- PD240 248.000000 640 x 496 97 225
+- PD290  289.000000  800 x 616
 
 #### Frequencies
 
 Using a receiver capable of demodulating [single-sideband modulation](Single-sideband%20modulation.md), SSTV transmissions can be heard on the following frequencies:
 
-- Band  Frequency  Sideband
-- [80 meters](80-meter%20band.md)  3.845 MHz (3.73 in Europe)  LSB
-- 43 meters  6.925 MHz (pirate radio)  USB
-- [40 meters](40-meter%20band.md)  7.171 MHz (7.165 in Europe)  LSB
-- [40 meters](40-meter%20band.md)  7.181 MHz (New suggested frequency to include General Class licensees)  LSB
-- [40 meters](40-meter%20band.md)  7.214 MHz Australian digital SSTV frequency (Easypal and DIGTRX)  LSB
-- [20 meters](20-meter%20band.md)  14.23 MHz Frequency 1 analog  USB
-- [20 meters](20-meter%20band.md)  14.227 and 14.233 MHz Frequency 2 analog to alleviate crowding on 14.23  USB
-- 15 meters  21.34 MHz  USB
-- 11 meters  27.700 international SSTV calling +/- 30khz  USB
-- [10 meters](10-meter%20band.md)  28.68 MHz  USB
+- Band Frequency Sideband
+- [80 meters](80-meter%20band.md) 3.845 MHz (3.73 in Europe) LSB
+- 43 meters 6.925 MHz (pirate radio) USB
+- [40 meters](40-meter%20band.md) 7.171 MHz (7.165 in Europe) LSB
+- [40 meters](40-meter%20band.md) 7.181 MHz (New suggested frequency to include General Class licensees) LSB
+- [40 meters](40-meter%20band.md) 7.214 MHz Australian digital SSTV frequency (Easypal and DIGTRX) LSB
+- [20 meters](20-meter%20band.md) 14.23 MHz Frequency 1 analog USB
+- [20 meters](20-meter%20band.md) 14.227 and 14.233 MHz Frequency 2 analog to alleviate crowding on 14.23 USB
+- 15 meters 21.34 MHz USB
+- 11 meters 27.700 international SSTV calling +/- 30khz USB
+- [10 meters](10-meter%20band.md) 28.68 MHz USB
 
 ### Media
 

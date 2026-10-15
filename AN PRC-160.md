@@ -1,25 +1,25 @@
 # AN/PRC-160
 
 - *AN/PRC-160*
-- Type   Manpack tactical radio
+- Type  Manpack tactical radio
 - Service History
-- Used by   US Army, US Marines, US Air Force, German Army,
+- Used by  US Army, US Marines, US Air Force, German Army,
 
 Netherlands Armed Forces
 
-- Conflicts   Iraq War, War in Afghanistan,
+- Conflicts  Iraq War, War in Afghanistan,
 
 Operation Inherent Resolve
 
 - Production history
-- Manufacturer   L3Harris
-- Produced   2017–present
+- Manufacturer  L3Harris
+- Produced  2017–present
 - Specifications
-- Frequency range   1.6-60 MHz
-- Transmit power   up to 20 watts
-- Modes   [FM](Frequency%20modulation.md) (VHF), [AM](Amplitude%20modulation.md), AME, [SSB](Single-sideband%20modulation.md), [CW](Continuous%20wave.md)
-- Encryption   NSA Type 1 algorithms (Top Secret and below)
-- Weight   9.1 lbs (w/o battery)
+- Frequency range  1.6-60 MHz
+- Transmit power  up to 20 watts
+- Modes  [FM](Frequency%20modulation.md) (VHF), [AM](Amplitude%20modulation.md), AME, [SSB](Single-sideband%20modulation.md), [CW](Continuous%20wave.md)
+- Encryption  NSA Type 1 algorithms (Top Secret and below)
+- Weight  9.1 lbs (w/o battery)
 
 The **AN/PRC-160 Wideband HF/VHF Manpack Radio** is a tactical [HF](High%20frequency.md)/[VHF](Very%20high%20frequency.md) manpack radio manufactured by [L3Harris](L3Harris.md). The PRC-160 is the manpack HF radio for the Harris Falcon III family of radios. It replaces the earlier [AN/PRC-150](AN%20PRC-150.md), with a smaller form factor and lighter weight than its predecessor, and being capable of 4th Generation Automatic Link Establishment (4G ALE), achieving data transmission speeds up to 10 times faster.
 

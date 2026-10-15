@@ -51,23 +51,23 @@ PSK31's efficiency and narrow bandwidth make it highly suitable for [low-power](
 The following [amateur radio](Amateur%20radio.md) frequencies are commonly used for transmitting and receiving PSK31 signals. They normally occupy the lower edge of each band's digital modes section. PSK31 operators generally use upper sideband (USB), even on frequencies below 10 MHz where the convention normally calls for lower sideband. This is because (a) signals then spread upwards into the digimode section from the "base" frequency, and (b) using QPSK requires both stations to use the same sideband.
 
 PSK31 Frequencies
-- Frequency   [Amateur Band](Amateur%20radio%20frequency%20allocations.md)
-- 1.838 MHz   160 meter
-- 3.580 MHz   80 meter
-- 7.035 MHz*   40 meter *(region 3)*
-- 7.040 MHz*   40 meter *(regions 1)*
-- 7.070 MHz*   40 meter *(regions 2)*
-- 10.142 MHz   30 meter
-- 14.070 MHz   20 meter
-- 18.097 MHz**   17 meter
-- 21.080 MHz*   15 meter
-- 24.920 MHz   12 meter
-- 28.120 MHz   10 meter
-- 50.290 MHz   [6 meter](6-meter%20band.md)
-- 144.144 MHz   2 meter
-- 222.07 MHz   1.25 meter
-- 432.2 MHz   70 centimeter
-- 909 MHz   33 centimeter
+- Frequency  [Amateur Band](Amateur%20radio%20frequency%20allocations.md)
+- 1.838 MHz  160 meter
+- 3.580 MHz  80 meter
+- 7.035 MHz*  40 meter *(region 3)*
+- 7.040 MHz*  40 meter *(regions 1)*
+- 7.070 MHz*  40 meter *(regions 2)*
+- 10.142 MHz  30 meter
+- 14.070 MHz  20 meter
+- 18.097 MHz**  17 meter
+- 21.080 MHz*  15 meter
+- 24.920 MHz  12 meter
+- 28.120 MHz  10 meter
+- 50.290 MHz  [6 meter](6-meter%20band.md)
+- 144.144 MHz  2 meter
+- 222.07 MHz  1.25 meter
+- 432.2 MHz  70 centimeter
+- 909 MHz  33 centimeter
 
 * Current usage as of 2010, based on observation, is centered on 7,070.15 and 21,070.15. 7,035.15 is commonly used in Region 2 as of 2012. There is no authoritative list, as the frequencies are determined by common convention.
 

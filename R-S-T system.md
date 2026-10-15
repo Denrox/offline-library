@@ -32,28 +32,28 @@ For a quantitative assessment, quality HF receivers are calibrated so that S9 on
 
 The **T** stands for "Tone" and is measured on a scale of 1 to 9. Tone only pertains to Morse code and other digital transmission modes and is therefore omitted during voice operations. With modern technology, imperfections in the quality of transmitters’ digital modulation severe enough to be detected by human ears are rare.
 
-- Value   1936 definition   modern definition
-- 1   Extremely rough hissing note   60 Hz AC or less, very rough and broad
-- 2   Very rough AC note, no trace of musicality   Very rough AC, very harsh and broad
-- 3   Rough, low-pitched AC note, slightly musical   Rough AC tone, rectified but not filtered
-- 4   Rather rough AC note, moderately musical   Rough note, some trace of filtering
-- 5   Musically modulated note   Filtered rectified AC but strongly ripple-modulated
-- 6   Modulated note, slight trace of whistle   Filtered tone, definite trace of ripple modulation
-- 7   Near DC note, smooth ripple   Near pure tone, trace of ripple modulation
-- 8   Good DC note, just a trace of ripple   Near perfect tone, slight trace of modulation
-- 9   Purest DC note   Perfect tone, no trace of ripple or modulation of any kind
+- Value  1936 definition  modern definition
+- 1  Extremely rough hissing note  60 Hz AC or less, very rough and broad
+- 2  Very rough AC note, no trace of musicality  Very rough AC, very harsh and broad
+- 3  Rough, low-pitched AC note, slightly musical  Rough AC tone, rectified but not filtered
+- 4  Rather rough AC note, moderately musical  Rough note, some trace of filtering
+- 5  Musically modulated note  Filtered rectified AC but strongly ripple-modulated
+- 6  Modulated note, slight trace of whistle  Filtered tone, definite trace of ripple modulation
+- 7  Near DC note, smooth ripple  Near pure tone, trace of ripple modulation
+- 8  Good DC note, just a trace of ripple  Near perfect tone, slight trace of modulation
+- 9  Purest DC note  Perfect tone, no trace of ripple or modulation of any kind
 - *If there are other notable tonal qualities add one or more of the letters* **A**–**X**, *listed below, after the number.*
 
 Suffixes were historically added to indicate other signal properties, and might be sent as **599K** to indicate a clear, strong signal but with bothersome key clicks.
 
-- Suffix code  Meaning
-- **A**  signal distorted by auroral propagation
-- **C**  "chirp" (frequency shift at key-on or key-off)
-- **D**  "drift" (frequency wandering)
-- **K**  key clicks
-- **M**  signal distorted by multipath propagation
-- **S**  signal distorted by scatter propagation
-- **X**  exceptionally stable frequency (crystal control)
+- Suffix code Meaning
+- **A** signal distorted by auroral propagation
+- **C** "chirp" (frequency shift at key-on or key-off)
+- **D** "drift" (frequency wandering)
+- **K** key clicks
+- **M** signal distorted by multipath propagation
+- **S** signal distorted by scatter propagation
+- **X** exceptionally stable frequency (crystal control)
 
 ### Variations
 

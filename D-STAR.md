@@ -260,17 +260,17 @@ Note: *These transceivers are not available in North America and appear to be OE
  - PiDV D-STAR DV add-on card for upcoming UDRX, Odroid or Raspberry Pi that adds the AMBE codec chip
 
 Manufacturers of D-STAR equipment
-- Manufacturer   Radio(s)   Repeater(s)   More Information
-- AOR   AR-DV1 and AR-DV10 Receiver   No   Wide band receiver (100 kHz - 1300 MHz) capable of decoding multiple digital voice modes
-- DV-RPTR   Node adapter & Hotspot   Yes   Open Source hardware and firmware. Can be used for simplex node or repeater.
-- DVMEGA   Dualband Radio Hotspot & GMSK Node Adaptor   Yes   Hotspot and GMSK Node Adaptors give D-STAR users access to the reflector network.
-- FlexRadio Systems   Yes   No   (FLEX-6700, FLEX-6500, FLEX-6300, FLEX-6700R)
-- Icom   Yes   Yes   (ID-1, ID-800H, ID-880H, IC-2200H, IC-2820H, IC-705, IC-80D, IC-91AD, IC-92AD, ID-RP2000V, ID-RP4000V, ID-31A, ID-51A, ID-52, IC-7100, IC-9100, IC-9700, ID-5100A)
-- Kenwood   Yes   Yes   (TH-D74, TH-D75)
-- MicroWalt Corporation DUTCH*Star   Mini Hotspot & Node Adaptor   Yes   Hotspot / Node Adaptors give D-STAR users access to remote D-STAR systems using over-the-air interface. Can be used as a simplex node or repeater.
-- Moetronix   DV Dongle & DVAP   No   (Available through multiple amateur radio dealers.)
-- NW Digital Radio "nwdigitalradio.com"   ThumbDV and PiDV AMBE decoders. UDRC and UDRC II (Universal Digital Radio Controller) which adds D-STAR to the Yaesu DR-1X repeater or homebrew hotspots and repeaters   No   ThumbDV D-STAR DV USB (AMBE decoder in thumb drive) and D-STAR DV add on card for Raspberry Pi. UDRC and UDRC II Raspberry Pi hat sound card and controller for digital radio repeaters and hotspots.
-- UP4DAR   Node adapter & Hotspot   Yes   Open Source hardware and firmware. Can be used for IP-reflector, dongle, modem or hotspot.
+- Manufacturer  Radio(s)  Repeater(s)  More Information
+- AOR  AR-DV1 and AR-DV10 Receiver  No  Wide band receiver (100 kHz - 1300 MHz) capable of decoding multiple digital voice modes
+- DV-RPTR  Node adapter & Hotspot  Yes  Open Source hardware and firmware. Can be used for simplex node or repeater.
+- DVMEGA  Dualband Radio Hotspot & GMSK Node Adaptor  Yes  Hotspot and GMSK Node Adaptors give D-STAR users access to the reflector network.
+- FlexRadio Systems  Yes  No  (FLEX-6700, FLEX-6500, FLEX-6300, FLEX-6700R)
+- Icom  Yes  Yes  (ID-1, ID-800H, ID-880H, IC-2200H, IC-2820H, IC-705, IC-80D, IC-91AD, IC-92AD, ID-RP2000V, ID-RP4000V, ID-31A, ID-51A, ID-52, IC-7100, IC-9100, IC-9700, ID-5100A)
+- Kenwood  Yes  Yes  (TH-D74, TH-D75)
+- MicroWalt Corporation DUTCH*Star  Mini Hotspot & Node Adaptor  Yes  Hotspot / Node Adaptors give D-STAR users access to remote D-STAR systems using over-the-air interface. Can be used as a simplex node or repeater.
+- Moetronix  DV Dongle & DVAP  No  (Available through multiple amateur radio dealers.)
+- NW Digital Radio "nwdigitalradio.com"  ThumbDV and PiDV AMBE decoders. UDRC and UDRC II (Universal Digital Radio Controller) which adds D-STAR to the Yaesu DR-1X repeater or homebrew hotspots and repeaters  No  ThumbDV D-STAR DV USB (AMBE decoder in thumb drive) and D-STAR DV add on card for Raspberry Pi. UDRC and UDRC II Raspberry Pi hat sound card and controller for digital radio repeaters and hotspots.
+- UP4DAR  Node adapter & Hotspot  Yes  Open Source hardware and firmware. Can be used for IP-reflector, dongle, modem or hotspot.
 
 ### Journal
 

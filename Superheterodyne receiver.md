@@ -29,9 +29,9 @@ The AM medium-wave broadcast band covers 531–1602 kHz in Europe, with the chan
 In a typical arrangement the local oscillator is operated above the received frequency (high-side injection), so that the intermediate frequency is given by *f*IF = *f*LO − *f*RF. The resulting frequency relationships at the lower and upper ends of the band are shown below.
 
 Example frequency planning for 455 kHz IF
-- Received frequency   Local oscillator   Image frequency
-- 531 kHz (Europe, lower band edge)   986 kHz   1441 kHz
-- 1700 kHz (North America, upper band edge)   2155 kHz   2610 kHz
+- Received frequency  Local oscillator  Image frequency
+- 531 kHz (Europe, lower band edge)  986 kHz  1441 kHz
+- 1700 kHz (North America, upper band edge)  2155 kHz  2610 kHz
 
 Across the band, the local oscillator must tune from approximately 986 kHz to 2155 kHz, a range slightly greater than 2:1. If low-side injection were used instead, the oscillator would have to tune from 76 kHz to 1245 kHz, a much wider ratio that is difficult to realize with a single tuned circuit. This is one reason high-side injection became standard in broadcast receivers.
 

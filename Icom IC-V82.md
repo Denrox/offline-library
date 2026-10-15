@@ -2,24 +2,24 @@
 
 - Icom IC-V82
 - Technical data
-- Frequency range   136–174 MHz
-- Frequency steps   2.5–50k Hz
-- Emission power   7 W (H), 4 W (M), 0.5 W (L) PEP
-- modulation   FM
-- No. of channels   207 channels with
+- Frequency range  136–174 MHz
+- Frequency steps  2.5–50k Hz
+- Emission power  7 W (H), 4 W (M), 0.5 W (L) PEP
+- modulation  FM
+- No. of channels  207 channels with
 
 6 scans + 1 call
 
-- consumption   Reception: 20 mA, Emission: 1 A max.
-- Operating voltage   6 – 10.3 V, nominal voltage 7.2 V
+- consumption  Reception: 20 mA, Emission: 1 A max.
+- Operating voltage  6 – 10.3 V, nominal voltage 7.2 V
 - Measurements and weight
-- high   139 mm
-- width   54 mm
-- depth   36.7 mm
-- weight   approx. 390 grams
+- high  139 mm
+- width  54 mm
+- depth  36.7 mm
+- weight  approx. 390 grams
 - More information
-- Manufacturer   COM
-- Scope of application   [radio amateurs](Amateur%20radio.md), (semi)professional users
+- Manufacturer  COM
+- Scope of application  [radio amateurs](Amateur%20radio.md), (semi)professional users
 
 The **Icom IC-V82** is a VHF band [handheld transceiver](Transceiver.md) designed by [Icom](Icom%20Incorporated.md) for radio amateurs and professionals who require VHF communication. Launched in 2004 and discontinued in 2014, the IC-V82 is still valued in the second hand market for a number of additional features such as the ability to convert it, by adding a module, into a digital device, which make it ideal for certain applications requiring voice and/or data encryption.
 

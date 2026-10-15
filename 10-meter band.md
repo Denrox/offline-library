@@ -27,40 +27,40 @@ Worldwide 10 meter frequency allocations are specified by the ITU. The Internati
 #### IARU Region 1
 
 - 10 meters IARU Region 1
-- 28.000–28.070   28.070–28.190   28.190–28.225   28.225–29.510   29.510–29.520   29.520–29.700
+- 28.000–28.070  28.070–28.190  28.190–28.225  28.225–29.510  29.510–29.520  29.520–29.700
 
 #### IARU Region 2
 
 - 10 meters IARU Region 2
-- 28.000–28.070   28.070–28.190   28.190–28.300   28.300–29.510   29.510–29.520   29.520–29.700
+- 28.000–28.070  28.070–28.190  28.190–28.300  28.300–29.510  29.510–29.520  29.520–29.700
 
 #### IARU Region 3
 
 - 10 meters IARU Region 3
-- 28.000-28.050   28.050-28.150   28.150-28.190   28.190-28.200   28.200-28.300   28.300-29.700
+- 28.000-28.050  28.050-28.150  28.150-28.190  28.190-28.200  28.200-28.300  28.300-29.700
 
 #### United States
 
 - 10 meters U.S. Novice, Technician license
-- 28.000–28.300   28.300–28.500   28.500–29.700
+- 28.000–28.300  28.300–28.500  28.500–29.700
 - 10 meters General, Advanced, Extra license
-- 28.000–28.300   28.300–29.700
+- 28.000–28.300  28.300–29.700
 
 #### Canadian 10-meter band plan
 
 Canada is part of region 2 and as such is subject to the IARU band plan. Radio Amateurs of Canada offers the bandplan below as a recommendation for use by radio amateurs in that country but it does not have the force of law and should only be considered a suggestion or guideline.
 
 - 10 meters Canadian license classes Basic(+), Advanced
-- 28.000–28.070   28.070–28.1895   B  
+- 28.000–28.070  28.070–28.1895  B  
 c  
-n   28.2005–28.300   28.300–28.320   28.320–28.680   28.680–28.683   28.683–29.300   29.300–29.510   G  
-B   29.520–29.690
+n  28.2005–28.300  28.300–28.320  28.320–28.680  28.680–28.683  28.683–29.300  29.300–29.510  G  
+B  29.520–29.690
 
 - B  
 c  
-n   = Beacons, 28.1895–28.2005 MHz
+n  = Beacons, 28.1895–28.2005 MHz
 - G  
-B   = Guard band, 29.510–29.520 MHz, no transmissions
+B  = Guard band, 29.510–29.520 MHz, no transmissions
 
 #### Japan
 

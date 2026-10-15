@@ -40,8 +40,7 @@ In Brazil, it is legal to have a scanner, but the user is required to have an [a
 
 In Belgium it is allowed to possess and listen to a scanner. Although it is only allowed to listen to frequencies where you have a permission to listen to. Without permission it is only allowed to listen to HAM Radio or other so called 'free to listen' channels
 
-#### Canada
-
+#### Canada  
 A situation that occurred in the Toronto area on 28 June 2011 involving York Regional Police officer Constable Garrett Styles was picked up by scanners. Online streaming of communications between the fatally injured officer and police dispatch were picked up by local media. The tragedy was widely reported before the officer's family was notified and several media outlets rebroadcast the recorded emergency transmission. A police initiative pressuring the government to create legislation to stop online streaming of scanner captured police communications was announced in April 2012. Although it is currently legal to stream information from a scanner in Canada, using the information for profit is not legal. Some Canadian police forces use encrypted communications which cannot legally be decrypted and streamed onto the Internet. Applications are available permitting anyone with an Internet-ready computer or smartphone to access scanner communications that are streamed onto the Internet by private individuals who possess the appropriate scanner and computer equipment.
 
 #### Germany

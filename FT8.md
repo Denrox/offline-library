@@ -35,13 +35,13 @@ FT8 communication requires strict time accuracy. Each transmission must begin ex
 FT8 has 6 stages, usually like this.
 
 - The format of the FT8 contact in different stages
-- Tick   Format   Example
-- 00tick(6th message)   CQ <Callsign TX> <QTH TX>   CQ BH8GIS OM20
-- 15tick(1st message)   <Callsign TX> <Callsign RX> <QTH RX>   BH8GIS JA3KWJ PM85
-- 30tick(2nd message)   <Callsign RX> <Callsign TX> <QSA>   JA3KWJ BH8GIS -2
-- 45tick(3rd message)   <Callsign TX> <Callsign RX> <R-QSA>   BH8GIS JA3KWJ R-12
-- 60tick(4th message)   <Callsign RX> <Callsign TX> RR73   JA3KWJ BH8GIS RR73
-- 75tick(5th message)   <Callsign TX> <Callsign RX> 73   BH8GIS JA3KWJ 73
+- Tick  Format  Example
+- 00tick(6th message)  CQ <Callsign TX> <QTH TX>  CQ BH8GIS OM20
+- 15tick(1st message)  <Callsign TX> <Callsign RX> <QTH RX>  BH8GIS JA3KWJ PM85
+- 30tick(2nd message)  <Callsign RX> <Callsign TX> <QSA>  JA3KWJ BH8GIS -2
+- 45tick(3rd message)  <Callsign TX> <Callsign RX> <R-QSA>  BH8GIS JA3KWJ R-12
+- 60tick(4th message)  <Callsign RX> <Callsign TX> RR73  JA3KWJ BH8GIS RR73
+- 75tick(5th message)  <Callsign TX> <Callsign RX> 73  BH8GIS JA3KWJ 73
 
 ---
 

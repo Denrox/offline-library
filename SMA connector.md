@@ -43,9 +43,9 @@ Similarly, the RP-SMA male has threads on the inside like a conventional male, b
 
 Occasionally, the opposite convention is used to designate the gender of an RP connector: In this situation the female connector has a socket (or sleeve) contact and threads on the outside. Users should take care to check drawings and specifications carefully.
 
-- Center pin   Center receptacle
-- Internal thread   SMA male/plug   RP-SMA male/plug
-- External thread   RP-SMA female/jack   SMA female/jack
+- Center pin  Center receptacle
+- Internal thread  SMA male/plug  RP-SMA male/plug
+- External thread  RP-SMA female/jack  SMA female/jack
 
 Wi-Fi equipment manufacturers have widely used RP-SMA connectors to comply with specific national regulations, such as those from the FCC, which are designed to prevent consumers from connecting antennas that provide additional gain and therefore breach Part 15 compliance. However, by 2000, the FCC regarded the connectors as readily available, though delaying its ruling indefinitely. As of 2018, leading manufacturers such as Netgear and Linksys are still using RP-SMA connectors on their Wi-Fi equipment.
 

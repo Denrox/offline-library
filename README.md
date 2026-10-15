@@ -1,6 +1,6 @@
 # Radio communication (Wikipedia)
 
-217 pages, 14 categories. Snapshot: 2026-10-14.
+217 pages, 14 categories. Snapshot: 2026-10-15.
 
 Source: https://en.wikipedia.org/
 

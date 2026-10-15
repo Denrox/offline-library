@@ -24,40 +24,40 @@ In most jurisdictions the subdivision of the band into different operating modes
 
 Europe, Africa, Middle East and Northern Asia
 
-- 40 meters   7.000-7.040   7.040-7.050   7.050-7.060   7.060-7.200
+- 40 meters  7.000-7.040  7.040-7.050  7.050-7.060  7.060-7.200
 - IARU Region 1
 
 #### IARU Region 2
 
 The Americas
 
-- 40 meters   7.000-7.040   7.040-7.050   7.050-7.300
+- 40 meters  7.000-7.040  7.040-7.050  7.050-7.300
 - IARU Region 2
 
 #### IARU Region 3
 
 Asia-Pacific
 
-- 40 meters   7.000-7.025   7.025-7.030   7.030-7.040   7.040-7.500
+- 40 meters  7.000-7.025  7.025-7.030  7.030-7.040  7.040-7.500
 - IARU Region 3
 
 #### Japan
 
 Changed on September 25, 2023. Immediately after the change, stations that ignore international practice and operate SSB on lower frequencies appeared.
 
-- License class   7.000–7.030   7.030–7.200
+- License class  7.000–7.030  7.030–7.200
 - All classes
 
 #### Canada
 
 Canada is part of region 2 and as such is subject to the IARU band plan. Radio Amateurs of Canada offers the bandplan below (effective 2023-06-01) as a recommendation for use by radio amateurs in that country but it does not have the force of law and should only be considered a suggestion or guideline.
 
-- License class   7.000–7.035   7.035-7.040   7.040-7.070   7.070-7.125   7.125-7.165   7.165-7.175   7.175–7.300
+- License class  7.000–7.035  7.035-7.040  7.040-7.070  7.070-7.125  7.125-7.165  7.165-7.175  7.175–7.300
 - Basic(+), Advanced
 
 #### United States
 
-- U.S. license class   7.000–7.025   7.025–7.125   7.125–7.175   7.175–7.300
+- U.S. license class  7.000–7.025  7.025–7.125  7.125–7.175  7.175–7.300
 - Novice / Technician
 - General
 - Advanced

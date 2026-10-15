@@ -1,20 +1,20 @@
 # AN/PRC-150
 
 - *AN/PRC-150*
-- Type   Manpack tactical radio
+- Type  Manpack tactical radio
 - Service History
-- Used by   United States Army, US Marines
-- Conflicts   Iraq War, War in Afghanistan,
+- Used by  United States Army, US Marines
+- Conflicts  Iraq War, War in Afghanistan,
 
 Operation Inherent Resolve
 
 - Production history
-- Manufacturer   L3Harris
+- Manufacturer  L3Harris
 - Specifications
-- Frequency range   1.6-60 MHz
-- Transmit power   up to 20 watts
-- Modes   [FM](Frequency%20modulation.md) (VHF), [AM](Amplitude%20modulation.md), AME, [SSB](Single-sideband%20modulation.md), [CW](Continuous%20wave.md)
-- Encryption   NSA Type 1 algorithms (Top Secret and below)
+- Frequency range  1.6-60 MHz
+- Transmit power  up to 20 watts
+- Modes  [FM](Frequency%20modulation.md) (VHF), [AM](Amplitude%20modulation.md), AME, [SSB](Single-sideband%20modulation.md), [CW](Continuous%20wave.md)
+- Encryption  NSA Type 1 algorithms (Top Secret and below)
 
 The **AN/PRC-150(C) Falcon II Manpack Radio**, is a tactical [HF](High%20frequency.md)-[SSB](Single-sideband%20modulation.md)/ [VHF](Very%20high%20frequency.md)-FM manpack radio manufactured by Harris Corporation. It holds an NSA certification for Type 1 encryption. The PRC-150 is the manpack HF radio for the Harris Falcon II family of radios, introduced in the early 2000s.
 

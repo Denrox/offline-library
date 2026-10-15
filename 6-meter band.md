@@ -58,17 +58,17 @@ For antennas, horizontal polarization is used for 6 meter weak signal, SSB commu
 North American  
 6 m amateur band  
 RC channels
-- Ch.  Frequency
-- 00  50.80 MHz
-- 01  50.82 MHz
-- 02  50.84 MHz
-- 03  50.86 MHz
-- 04  50.88 MHz
-- 05  50.90 MHz
-- 06  50.92 MHz
-- 07  50.94 MHz
-- 08  50.96 MHz
-- 09  50.98 MHz  
+- Ch. Frequency
+- 00 50.80 MHz
+- 01 50.82 MHz
+- 02 50.84 MHz
+- 03 50.86 MHz
+- 04 50.88 MHz
+- 05 50.90 MHz
+- 06 50.92 MHz
+- 07 50.94 MHz
+- 08 50.96 MHz
+- 09 50.98 MHz  
 (not used  
 in Canada)
 

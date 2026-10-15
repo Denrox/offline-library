@@ -1,24 +1,24 @@
 # AN/PRC-163
 
 - *AN/PRC-163*
-- Type   Handheld dual channel tactical radio
+- Type  Handheld dual channel tactical radio
 - Service History
-- In service   2018 - ongoing
-- Used by   US Army, US Marine Corps, US Navy,
+- In service  2018 - ongoing
+- Used by  US Army, US Marine Corps, US Navy,
 
 US Air Force, British Army, Canadian Army
 
 - Production history
-- Manufacturer   [L3Harris](L3Harris.md)
-- Production years   2018 - ongoing
+- Manufacturer  [L3Harris](L3Harris.md)
+- Production years  2018 - ongoing
 - Specifications
-- Frequency range   VHF, UHF (see specifications)
-- Transmit power   LOS: up to 5 watts
+- Frequency range  VHF, UHF (see specifications)
+- Transmit power  LOS: up to 5 watts
 
 SATCOM: up to 10 watts
 
-- Modes   analog voice, digital voice and data
-- Encryption   NSA Type 1 (up to Secret)
+- Modes  analog voice, digital voice and data
+- Encryption  NSA Type 1 (up to Secret)
 
 The **AN/PRC-163 Multi-channel Handheld Radio**, is a dual-channel tactical [handheld radio](Walkie-talkie.md) manufactured by [L3Harris Technologies, Inc.](L3Harris.md) for the U.S. military, referred to by the U.S. Army as the **Leader Radio**. It is capable modes such as VHF/UHF Line-of-Sight (VULOS), [SINCGARS](SINCGARS.md), Soldier Radio Waveform, Tactical Scalable MANET, [P25](Project%2025.md) as well as the Mobile User Objective System satellite communication mode. The dual channel capability allows a soldier to simultaneously communicate on two separate radio networks. It has received NSA certification for the transmission of Top Secret information with an appropriate encryption key. The PRC-163 is one of the Handheld, Manpack & Small Form Fit (HMS) components of the Integrated Tactical Network family of radios, the U.S. Army's modernization strategy for tactical radios. It is a member of L3Harris' Falcon IV family of tactical radios, and the successor to the Falcon III-family [AN/PRC-152 Multiband Handheld Radio](AN%20PRC-152.md).
 

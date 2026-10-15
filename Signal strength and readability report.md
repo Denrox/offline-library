@@ -11,8 +11,8 @@ The **QSA code** and **QRK code** are interrelated and complementary signal repo
 Currently, the QSA and QRK codes are officially defined in the ITU Radio Regulations 1990, Appendix 13: Miscellaneous Abbreviations and Signals to Be Used in Radiotelegraphy Communications Except in the Maritime Mobile Service. They are also described identically in ACP131(F),:
 
 ITU-R Radiotelegraph Signal Reporting Formats
-- Signal   Question   Answer, Advice, or Order
-- QSA   What is the strength of my signals (or those of...)?   The strength of your signals (or those of...) is...
+- Signal  Question  Answer, Advice, or Order
+- QSA  What is the strength of my signals (or those of...)?  The strength of your signals (or those of...) is...
 
 1. scarcely perceptible
 2. weak
@@ -20,7 +20,7 @@ ITU-R Radiotelegraph Signal Reporting Formats
 4. good
 5. very good
 
-- QRK   What is the intelligibility of my signals (or those of...)?   The intelligibility of your signals (or those of...) is...
+- QRK  What is the intelligibility of my signals (or those of...)?  The intelligibility of your signals (or those of...) is...
 
 1. bad
 2. poor
@@ -33,35 +33,35 @@ ITU-R Radiotelegraph Signal Reporting Formats
 Amateur radio users in the U.S. and Canada have used the [R-S-T system](R-S-T%20system.md) since 1934. This system was developed by amateur radio operator Arthur W. Braaten, W2BSR. It reports the readability on a scale of 1 to 5, the signal strength on a scale of 1 to 9, and the tone of the Morse code continuous wave signal on a scale of 1 to 9. During amateur radio contests, where the rate of new contacts is paramount, contest participants often give a perfect signal report of 599 even when the signal is lower quality, because always providing the same signal format enables them to send Morse code with less thought and thus increased speed.
 
 ARRL R-S-T System
-- No.   Meaning
-- R   S   T
-- 9      Extremely strong signals   Perfect tone, no trace of ripple or modulation of any kind
-- 8   Strong signals   Near perfect tone, slight trace of modulation
-- 7   Moderately strong signals   Near pure tone, trace of ripple modulation
-- 6   Good signals   Filtered tone, definite trace of ripple modulation
-- 5   Perfectly readable   Fairly good signals   Filtered rectified a.c. but strongly ripple-modulated
-- 4   Readable with practically no difficulty   Fair signals   Rough note, some trace of filtering
-- 3   Readable with considerable difficulty   Weak signals   Rough a.c. tone, rectified but not filtered
-- 2   Barely readable, occasional word distinguishable   Very weak signals   Very rough a.c., very harsh and broad
-- 1   Unreadable   Faint—signals barely perceptible   Sixty cycle a.c or less, very rough and broad
+- No.  Meaning
+- R  S  T
+- 9    Extremely strong signals  Perfect tone, no trace of ripple or modulation of any kind
+- 8  Strong signals  Near perfect tone, slight trace of modulation
+- 7  Moderately strong signals  Near pure tone, trace of ripple modulation
+- 6  Good signals  Filtered tone, definite trace of ripple modulation
+- 5  Perfectly readable  Fairly good signals  Filtered rectified a.c. but strongly ripple-modulated
+- 4  Readable with practically no difficulty  Fair signals  Rough note, some trace of filtering
+- 3  Readable with considerable difficulty  Weak signals  Rough a.c. tone, rectified but not filtered
+- 2  Barely readable, occasional word distinguishable  Very weak signals  Very rough a.c., very harsh and broad
+- 1  Unreadable  Faint—signals barely perceptible  Sixty cycle a.c or less, very rough and broad
 
 #### SINPO code
 
 **SINPO** is an acronym for **Signal, Interference, Noise, Propagation, and Overall**, which was developed by the CCIR in 1951 (as C.C.I.R. Recommendation No. 251) for use in radiotelegraphy, and the standard is contained in *Recommendation ITU-R Sm.1135, SINPO and SINPFEMO codes*. This format is most notably used by the BBC for receiving signal reports on postcards mailed from listeners, even though that same standard specifies that the SINPFEMO code should be used for radiotelephony transmissions. SINPO is the official radiotelegraph signal reporting codes for international civil aviation  and ITU-R.
 
 ITU-R SINPO Code
-- Rating scale   S   I   N   P   O
+- Rating scale  S  I  N  P  O
 - Degrading effect of
-- Signal strength   Interference  
-(man-made)   Noise  
-(natural)   Propagation  
-disturbance   Overall  
+- Signal strength  Interference  
+(man-made)  Noise  
+(natural)  Propagation  
+disturbance  Overall  
 rating
-- 5   Excellent   Nil   Nil   Nil   Excellent
-- 4   Good   Slight   Slight   Slight   Good
-- 3   Fair   Moderate   Moderate   Moderate   Fair
-- 2   Poor   Severe   Severe   Severe   Poor
-- 1   Barely audible   Extreme   Extreme   Extreme   Unusable
+- 5  Excellent  Nil  Nil  Nil  Excellent
+- 4  Good  Slight  Slight  Slight  Good
+- 3  Fair  Moderate  Moderate  Moderate  Fair
+- 2  Poor  Severe  Severe  Severe  Poor
+- 1  Barely audible  Extreme  Extreme  Extreme  Unusable
 
 ### Radiotelephony report formats
 
@@ -70,36 +70,36 @@ rating
 Amateur radio operators use the R-S-T system to describe voice transmissions, dropping the last digit (Tone report) because there is no continuous wave tone to report on.
 
 ARRL R-S-T System, as used for voice communications
-- No.   Meaning
-- R   S
-- 9      Extremely strong signals
-- 8   Strong signals
-- 7   Moderately strong signals
-- 6   Good signals
-- 5   Perfectly readable   Fairly good signals
-- 4   Readable with practically no difficulty   Fair signals
-- 3   Readable with considerable difficulty   Weak signals
-- 2   Barely readable, occasional word distinguishable   Very weak signals
-- 1   Unreadable   Faint—signals barely perceptible
+- No.  Meaning
+- R  S
+- 9    Extremely strong signals
+- 8  Strong signals
+- 7  Moderately strong signals
+- 6  Good signals
+- 5  Perfectly readable  Fairly good signals
+- 4  Readable with practically no difficulty  Fair signals
+- 3  Readable with considerable difficulty  Weak signals
+- 2  Barely readable, occasional word distinguishable  Very weak signals
+- 1  Unreadable  Faint—signals barely perceptible
 
 #### SINPEMFO code
 
 An extension of SINPO code, for use in radiotelephony (voice over radio) communications, SINPFEMO is an acronym for **Signal, Interference, Noise, Propagation, Frequency of Fading, Depth, Modulation, and Overall**.
 
 ITU-R SINPEMFO Code
-- Rating scale   S   I   N   P   F   E   M   O
-- Degrading effect of   Frequency of fading   Modulation
+- Rating scale  S  I  N  P  F  E  M  O
+- Degrading effect of  Frequency of fading  Modulation
 - Signal  
-strength   Interference  
-(man-made)   Noise  
-(natural)   Propagation  
-disturbance   Quality   Depth   Overall  
+strength  Interference  
+(man-made)  Noise  
+(natural)  Propagation  
+disturbance  Quality  Depth  Overall  
 rating
-- 5   Excellent   Nil   Nil   Nil   Nil   Excellent   Maximum   Excellent
-- 4   Good   Slight   Slight   Slight   Slow   Good   Good   Good
-- 3   Fair   Moderate   Moderate   Moderate   Moderate   Fair   Fair   Fair
-- 2   Poor   Severe   Severe   Severe   Fast   Poor   Poor or Nil   Poor
-- 1   Barely audible   Extreme   Extreme   Extreme   Very fast   Very Poor   Continuously over-modulated   Unusable
+- 5  Excellent  Nil  Nil  Nil  Nil  Excellent  Maximum  Excellent
+- 4  Good  Slight  Slight  Slight  Slow  Good  Good  Good
+- 3  Fair  Moderate  Moderate  Moderate  Moderate  Fair  Fair  Fair
+- 2  Poor  Severe  Severe  Severe  Fast  Poor  Poor or Nil  Poor
+- 1  Barely audible  Extreme  Extreme  Extreme  Very fast  Very Poor  Continuously over-modulated  Unusable
 
 #### Plain-language radio checks
 
@@ -108,19 +108,19 @@ The move to plain-language radio communications means that number-based formats 
 The prowords listed below are for use when initiating and answering queries concerning signal strength and readability.
 
 ACP 125 (G) procedures for initiating and responding to a Radio Check
-- Proword   Meaning
-- **RADIO CHECK**   What is my signal strength and readability; how do you hear me?
-- **ROGER**   I have received your last transmission satisfactorily.
-- **NOTHING HEARD**   To be used when no reply is received from a called station.
+- Proword  Meaning
+- **RADIO CHECK**  What is my signal strength and readability; how do you hear me?
+- **ROGER**  I have received your last transmission satisfactorily.
+- **NOTHING HEARD**  To be used when no reply is received from a called station.
 
 ACP 125 (G) Plain-Language Radio Check Procedure Words
-- Proword  Meaning  Conjunction  Proword  Meaning
-- **LOUD**   Your signal is very strong.   AND or BUT, depending on which prowords are combined   **CLEAR**   The quality of your transmission is excellent.
-- **GOOD**   Your signal strength is good.   **READABLE**   The quality of your transmission is satisfactory.
-- **WEAK**   Your signal strength is weak.   **UNREADABLE**   The quality of your transmission is so bad that I cannot read you.
-- **VERY WEAK**   Your signal strength is very weak.   **DISTORTED**   Having trouble reading you due to interference.
-- **FADING**   At times your signal strength fades to such an extent that continuous reception cannot be relied upon.   **WITH INTERFERENCE**   Having trouble reading you due to interference.
-- **INTERMITTENT**   Having trouble reading you because your signal is intermittent.
+- Proword Meaning Conjunction Proword Meaning
+- **LOUD**  Your signal is very strong.  AND or BUT, depending on which prowords are combined  **CLEAR**  The quality of your transmission is excellent.
+- **GOOD**  Your signal strength is good.  **READABLE**  The quality of your transmission is satisfactory.
+- **WEAK**  Your signal strength is weak.  **UNREADABLE**  The quality of your transmission is so bad that I cannot read you.
+- **VERY WEAK**  Your signal strength is very weak.  **DISTORTED**  Having trouble reading you due to interference.
+- **FADING**  At times your signal strength fades to such an extent that continuous reception cannot be relied upon.  **WITH INTERFERENCE**  Having trouble reading you due to interference.
+- **INTERMITTENT**  Having trouble reading you because your signal is intermittent.
 
 ### Use in analog vs. digital radio transmission modes
 

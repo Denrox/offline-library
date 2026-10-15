@@ -44,14 +44,14 @@ Links between M17 and other digital voice modes and Internet linked networks exi
 
 ### Comparison with other standards
 
-- M17  Digital Mobile Radio (DMR)  D-STAR  System Fusion (YSF)
-- Specification type  Open  Open  Partially open  Closed (proprietary)
-- Developer  Amateur radio community (decentralized)  European Telecommunications Standards Institute (ETSI)  Japan Amateur Radio League (JARL), [ICOM Inc.](Icom%20Incorporated.md), [Kenwood Corporation](Kenwood%20Corporation.md), and others  [Yaesu](Yaesu%20%28brand%29.md)
-- Modulation  4FSK  4FSK  GMSK  4FSK
-- Channel (medium) access  FDMA  FDMA (Tier I), 2-slot TDMA (Tier II/III)  FDMA  FDMA
-- Voice codec  Codec 2 (open-source)  AMBE+2 (proprietary)  AMBE (proprietary)  AMBE+2 (proprietary)
-- Arbitrary data transfer support  Full  Limited (text messaging, geolocation)  Limited (text messaging, geolocation, images)  Limited (text messaging, geolocation, images)
-- Extensibility  Full, through specification extensions  Fixed, defined by the specification  Fixed, defined by the specification  Fixed, defined by the specification
+- M17 Digital Mobile Radio (DMR) D-STAR System Fusion (YSF)
+- Specification type Open Open Partially open Closed (proprietary)
+- Developer Amateur radio community (decentralized) European Telecommunications Standards Institute (ETSI) Japan Amateur Radio League (JARL), [ICOM Inc.](Icom%20Incorporated.md), [Kenwood Corporation](Kenwood%20Corporation.md), and others [Yaesu](Yaesu%20%28brand%29.md)
+- Modulation 4FSK 4FSK GMSK 4FSK
+- Channel (medium) access FDMA FDMA (Tier I), 2-slot TDMA (Tier II/III) FDMA FDMA
+- Voice codec Codec 2 (open-source) AMBE+2 (proprietary) AMBE (proprietary) AMBE+2 (proprietary)
+- Arbitrary data transfer support Full Limited (text messaging, geolocation) Limited (text messaging, geolocation, images) Limited (text messaging, geolocation, images)
+- Extensibility Full, through specification extensions Fixed, defined by the specification Fixed, defined by the specification Fixed, defined by the specification
 
 ### M17 over IP
 
