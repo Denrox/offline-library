@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 193
+**Labels on file:** 192
 
-**Also sold as:** Sport Sunscreen Spf 30, Sport Sunscreen Spf 50, Sport Sunscreen Spf 70, Isntree Hyaluronic Acid Daily Sungel, Sunscreen For Kids Spf 50, Sunscreen, Broad Spectrum Sunscreen Spf 30, Naturium Dew-glow Moisturizer Spf 50, Naturium Dew Glow Tinted Moisturizer Spf50-medium, Naturium Dew Glow Tinted Moisturizer Spf50-deep, Moisturizing Sunscreen Spf 30, Uv Restore Face Serum Sunscreen Spf 50, Sofie Pavitt Face Spf 30, Sunscreen For Babies Spf 50, Spf 30 Sunscreen, Sheer Touch Sunscreen Spf 70, Sheer Touch Sunscreen Spf 55, Broad Spectrum Spf50 Spf 50, Hydrating Sunscreen Moisturizer Broad Spectrum Spf50 Spf 50, Men Scented Sunscreen Spf 50 Woodsman Slam, Ewc Slow Lightweight Sunscreen Spf 50, Palio Sunscreen Broad Spectrum Spf 30, Meijer Spf 30 Sunscreen, Daywear Advanced Multi-protection Anti-oxidant 24h-moisture Creme Broad Spectrum Spf15, Naturium Uv Reflect Antioxidant Spf 50 and 119 more
+**Also sold as:** Sport Sunscreen Spf 30, Sport Sunscreen Spf 50, Sport Sunscreen Spf 70, Isntree Hyaluronic Acid Daily Sungel, Sunscreen For Kids Spf 50, Sunscreen, Broad Spectrum Sunscreen Spf 30, Naturium Dew-glow Moisturizer Spf 50, Naturium Dew Glow Tinted Moisturizer Spf50-medium, Naturium Dew Glow Tinted Moisturizer Spf50-deep, Moisturizing Sunscreen Spf 30, Uv Restore Face Serum Sunscreen Spf 50, Sofie Pavitt Face Spf 30, Sunscreen For Babies Spf 50, Spf 30 Sunscreen, Sheer Touch Sunscreen Spf 70, Sheer Touch Sunscreen Spf 55, Broad Spectrum Spf50 Spf 50, Hydrating Sunscreen Moisturizer Broad Spectrum Spf50 Spf 50, Men Scented Sunscreen Spf 50 Woodsman Slam, Ewc Slow Lightweight Sunscreen Spf 50, Palio Sunscreen Broad Spectrum Spf 30, Meijer Spf 30 Sunscreen, Daywear Advanced Multi-protection Anti-oxidant 24h-moisture Creme Broad Spectrum Spf15, Naturium Uv Reflect Antioxidant Spf 50 and 117 more
 
 ## Active ingredients
 

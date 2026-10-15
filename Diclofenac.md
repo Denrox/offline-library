@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Ingredient forms:** Diclofenac Sodium  
-**Labels on file:** 97
+**Labels on file:** 96
 
 **Also sold as:** Arthritis Pain Reliever, Arthritis Pain Relieving, Good Sense Arthritis Pain, Up and Up Arthritis Pain Reliever, Members Mark Arthritis Pain Reliever, Arthritis Pain, Equate Arthritis Pain, Dg Health Arthritis Pain, Aspercreme Arthritis, Kirkland Signature Arthritis Pain Relief, Amazon Basic Care Arthritis Pain, Topcare Arthritis Pain Reliever, Voltaren Arthritis Pain, Gencare-arthritis Pain Relief, Careone Arthritis Pain Relief, Equaline Arthritis Pain Relieving, Arthritis Pain Relief, Basic Care Arthritis Pain, Aleve Arthritis Pain Gel, Topcare Athritis Pain Reliever, Motrin Arthritis Pain, Curist Arthritis Relief, Salonpas, Foster and Thrive Arthritis Pain, Crcle Diclofenac Sodium Topical Gel 1%
 
