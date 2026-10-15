@@ -178,7 +178,7 @@ If the contour lines are not numerically labeled and adjacent lines have the sam
 
 ### Plan view versus profile view
 
-Most commonly contour lines are drawn in plan view, or as an observer in space would view the Earth's surface: ordinary map form. However, some parameters can often be displayed in profile view showing a vertical profile of the parameter mapped. Some of the most common parameters mapped in profile are air pollutant concentrations and sound levels. In each of those cases it may be important to analyze (air pollutant concentrations or sound levels) at varying heights so as to determine the air quality or noise health effects on people at different elevations, for example, living on different floor levels of an urban apartment. In actuality, both plan and profile view contour maps are used in air pollution and noise pollution studies.
+Most commonly contour lines are drawn in plan view, or as an observer in space would view the Earth's surface: ordinary map form. However, some parameters can often be displayed in profile view showing a vertical profile of the parameter mapped. Some of the most common parameters mapped in profile are air pollutant concentrations and sound levels. In each of those cases it may be important to analyze (air pollutant concentrations or sound levels) at varying heights so as to determine the air quality or noise health effects on people at different elevations, for example, living on different floor levels of an urban apartment.  In actuality, both plan and profile view contour maps are used in air pollution and noise pollution studies.
 
 ### Labeling contour maps
 

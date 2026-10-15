@@ -227,12 +227,12 @@ The navigational signals transmitted by GPS satellites encode a variety of infor
 
 #### Message format  
 GPS message format
-- Subframes  Description
-- 1  Satellite clock,  
+- Subframes Description
+- 1 Satellite clock,  
 GPS time relationship
-- 2–3  Ephemeris  
+- 2–3 Ephemeris  
 (precise satellite orbit)
-- 4–5  Almanac component  
+- 4–5 Almanac component  
 (satellite network synopsis,  
 error correction)
 
@@ -246,12 +246,12 @@ The ephemeris is updated every 2 hours and is sufficiently stable for 4 hours, w
 
 #### Satellite frequencies  
 GPS frequency overview
-- Band  Frequency  Description
-- **L1**  1575.42 MHz  Coarse-acquisition (C/A) and encrypted precision (P(Y)) codes, plus the L1 civilian (L1C) and military (M) codes on Block III and newer satellites.
-- **L2**  1227.60 MHz  P(Y) code, plus the L2C and military codes on the Block IIR-M and newer satellites.
-- **L3**  1381.05 MHz  Used for nuclear detonation (NUDET) detection.
-- **L4**  1379.913 MHz  Being studied for additional ionospheric correction.
-- **L5**  1176.45 MHz  Used as a civilian safety-of-life (SoL) signal on Block IIF and newer satellites.
+- Band Frequency Description
+- **L1** 1575.42 MHz Coarse-acquisition (C/A) and encrypted precision (P(Y)) codes, plus the L1 civilian (L1C) and military (M) codes on Block III and newer satellites.
+- **L2** 1227.60 MHz P(Y) code, plus the L2C and military codes on the Block IIR-M and newer satellites.
+- **L3** 1381.05 MHz Used for nuclear detonation (NUDET) detection.
+- **L4** 1379.913 MHz Being studied for additional ionospheric correction.
+- **L5** 1176.45 MHz Used as a civilian safety-of-life (SoL) signal on Block IIF and newer satellites.
 
 All satellites broadcast at the same two frequencies, 1.57542 GHz (L1 signal) and 1.2276 GHz (L2 signal). The satellite network uses a CDMA spread-spectrum technique where the low-bitrate message data is encoded with a high-rate pseudo-random (PRN) sequence that is different for each satellite. The receiver must be aware of the PRN codes for each satellite to reconstruct the actual message data. The C/A code, for civilian use, transmits data at 1.023 million chips per second, whereas the P code, for U.S. military use, transmits at 10.23 million chips per second. The actual internal reference of the satellites is 10.22999999543 MHz to compensate for relativistic effects that make observers on the Earth perceive a different time reference with respect to the transmitters in orbit. The L1 carrier is modulated by both the C/A and P codes, while the L2 carrier is only modulated by the P code. The P code can be encrypted as a so-called P(Y) code that is only available to military equipment with a proper decryption key. Both the C/A and P(Y) codes impart the precise time-of-day to the user.
 

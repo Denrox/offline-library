@@ -23,14 +23,14 @@ Geographic phenomena can be categorized into *objects*, which are recognizable a
 The number of spatial dimensions needed to represent a phenomenon determines a choice of Geometric primitive; each type of geometric primitive is drawn with a different type of visual symbol.
 
 Dimensions of Map Symbols
-- Shape  Dimensions  Geometric Primitive  Symbol Elements, Visual Variables
-- Point  0  Coordinate  Marker (shape, size, color, opacity)
-- Line/Curve  1  Polyline (linear or curved segments)  Stroke (color, size/weight, opacity, texture)
-- Planar Region/Field  2  Polygon, Raster  Boundary Stroke
+- Shape Dimensions Geometric Primitive Symbol Elements, Visual Variables
+- Point 0 Coordinate Marker (shape, size, color, opacity)
+- Line/Curve 1 Polyline (linear or curved segments) Stroke (color, size/weight, opacity, texture)
+- Planar Region/Field 2 Polygon, Raster Boundary Stroke
 
 Fill (color, opacity, texture)
 
-- Volumetric Region/Field  3  Polygon Mesh, Raster  Surface (color, size/weight, opacity, pattern)
+- Volumetric Region/Field 3 Polygon Mesh, Raster Surface (color, size/weight, opacity, pattern)
 
 Interior (color, opacity, texture)
 
@@ -41,14 +41,14 @@ The dimensionality of a map symbol representing a feature may or may not be the 
 Many map symbols visualize not just the location and shape of a geographic phenomenon, but also one or more of its properties or attributes. Geographers and cartographers usually categorize properties according to the classification system of Stanley Smith Stevens, or some revision thereof, such as that of Chrisman. Different kinds of symbols and visual variables are better at intuitively representing some levels than others, especially when the visual variable portrays the same kind of differences as the represented attribute.
 
 Property Levels and Map Symbols
-- Level  Distinction  Preferred Visual Variables  Secondary Visual Variables  Map Examples
-- Nominal  Same or different  Color Hue, Shape, Texture/Arrangement    Owner, Facility type
-- Hierarchical  Qualitative amount of difference  Color Hue  Shape, Arrangement  Languages, Geologic formation
-- Ordinal  Order  Color value, Color saturation  Size, Color Hue  Socioeconomic status (rich, middle class, poor)
-- Interval  Quantitative amount of difference  Color value  Size, Color saturation, Opacity, Hue  Temperature, Year
-- Ratio  Proportional difference  Size, Color value, Texture density  Opacity  Population growth rate, population density
-- Cyclical  Angular difference  Color hue, orientation    Day of the year, Aspect of terrain
-- Amount/Count  Total number  Size  Color value, Opacity  Population, Total Income
+- Level Distinction Preferred Visual Variables Secondary Visual Variables Map Examples
+- Nominal Same or different Color Hue, Shape, Texture/Arrangement  Owner, Facility type
+- Hierarchical Qualitative amount of difference Color Hue Shape, Arrangement Languages, Geologic formation
+- Ordinal Order Color value, Color saturation Size, Color Hue Socioeconomic status (rich, middle class, poor)
+- Interval Quantitative amount of difference Color value Size, Color saturation, Opacity, Hue Temperature, Year
+- Ratio Proportional difference Size, Color value, Texture density Opacity Population growth rate, population density
+- Cyclical Angular difference Color hue, orientation  Day of the year, Aspect of terrain
+- Amount/Count Total number Size Color value, Opacity Population, Total Income
 
 ### Cognition and semiotics
 

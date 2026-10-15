@@ -40,16 +40,16 @@ The longitude is singular at the Poles and calculations that are sufficiently ac
 
 The length of a degree of longitude (east–west distance) depends only on the radius of a circle of latitude. For a sphere of radius a that radius at latitude φ is *a* cos *φ*, and the length of a one-degree (or ⁠π/180⁠ radian) arc along a circle of latitude is $$\Delta^1_{\rm long}= \frac{\pi}{180}a \cos \phi$$
 
-- φ  Δ  
-lat  Δ  
+- φ Δ  
+lat Δ  
 long
-- 0°  110.574 km  111.320 km
-- 15°  110.649 km  107.551 km
-- 30°  110.852 km  96.486 km
-- 45°  111.133 km  78.847 km
-- 60°  111.412 km  55.800 km
-- 75°  111.618 km  28.902 km
-- 90°  111.694 km  0.000 km
+- 0° 110.574 km 111.320 km
+- 15° 110.649 km 107.551 km
+- 30° 110.852 km 96.486 km
+- 45° 111.133 km 78.847 km
+- 60° 111.412 km 55.800 km
+- 75° 111.618 km 28.902 km
+- 90° 111.694 km 0.000 km
 
 When the Earth is modelled by an ellipsoid this arc length becomes $$\Delta^1_{\rm long}=\frac{\pi a\cos\phi}{180 \sqrt{1 - e^2 \sin^2 \phi}}$$ where e, the eccentricity of the ellipsoid, is related to the major and minor axes (the equatorial and polar radii respectively) by $$e^2=\frac{a^2-b^2}{a^2}$$
 

@@ -1,6 +1,6 @@
 # Land navigation (Wikipedia)
 
-31 pages, 6 categories. Snapshot: 2026-10-13.
+31 pages, 6 categories. Snapshot: 2026-10-15.
 
 Source: https://en.wikipedia.org/
 

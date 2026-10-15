@@ -23,26 +23,26 @@ Quite commonly, azimuths or compass bearings are stated in a system in which eit
 #### True north-based azimuths
 
 From north, eastern side
-- Direction   Azimuth
-- N   0°
-- NNE   22.5°
-- NE   45°
-- ENE   67.5°
-- E   90°
-- ESE   112.5°
-- SE   135°
-- SSE   157.5°
+- Direction  Azimuth
+- N  0°
+- NNE  22.5°
+- NE  45°
+- ENE  67.5°
+- E  90°
+- ESE  112.5°
+- SE  135°
+- SSE  157.5°
 
 From north, western side
-- Direction   Azimuth
-- S   180°
-- SSW   202.5°
-- SW   225°
-- WSW   247.5°
-- W   270°
-- WNW   292.5°
-- NW   315°
-- NNW   337.5°
+- Direction  Azimuth
+- S  180°
+- SSW  202.5°
+- SW  225°
+- WSW  247.5°
+- W  270°
+- WNW  292.5°
+- NW  315°
+- NNW  337.5°
 
 ### In geodesy
 
