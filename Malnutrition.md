@@ -15,18 +15,18 @@ Types of malnutrition include:
 - **Protein-energy undernutrition**, also called macronutrient undernutrition, happens when your body doesn't get enough protein or calories from food. Two serious forms of this are kwashiorkor and marasmus.
 - **An imbalanced nutritional status** occurs when you are not getting the right mix of nutrients. You may get enough calories, but not enough vitamins or minerals.
 - **Vitamin deficiency diseases** happen when your body doesn't get enough of certain vitamins. Without the right vitamins, your body cannot stay healthy and may develop specific diseases. For example, scurvy can develop from too little [vitamin C](Vitamin%20C.md), [rickets](Rickets.md) from too little [vitamin D](Vitamin%20D.md), and [anemia](Anemia.md) from too little [iron](Iron.md) or vitamin [B12](B%20Vitamins.md).
-- **Failure to thrive** occurs when children don't gain weight or [grow as expected](Growth%20Disorders.md). This may be due to not getting enough food, trouble [absorbing nutrients](Malabsorption%20Syndromes.md), or other health problems.
+- **Faltering weight** occurs when children don't gain weight or [grow as expected](Growth%20Disorders.md). This may be due to not getting enough food, trouble [absorbing nutrients](Malabsorption%20Syndromes.md), or other health problems.
 - **Overnutrition** can occur when your body gets too many calories or nutrients. This may lead to [obesity](Obesity.md) or other health issues.
 
 #### What causes malnutrition?
 
 Malnutrition may occur for many reasons, including:
 
-- An unbalanced diet that lacks variety or specific nutrients.
-- Some medical issues, which could include malabsorption syndromes, [dementia](Dementia.md), [eating disorders](Eating%20Disorders.md), [depression](Depression.md), alcohol use disorder (AUD), or [cancer](Cancer.md).
-- Problems with swallowing, digestion, or dental issues.
-- Certain medicines that affect how food tastes and smells.
-- Not being able to get food or cook due to things such as chronic illness, mobility issues, or low income.
+- An unbalanced diet that lacks variety or specific nutrients
+- Some medical issues, which could include malabsorption syndromes, [dementia](Dementia.md), [eating disorders](Eating%20Disorders.md), [depression](Depression.md), alcohol use disorder (AUD), or [cancer](Cancer.md)
+- Problems with swallowing, digestion, or dental issues
+- Certain medicines that affect how food tastes and smells
+- Not being able to get food or cook due to things such as chronic illness, mobility issues, or low income
 
 #### Who is at risk for developing malnutrition?
 
@@ -53,11 +53,11 @@ The symptoms of malnutrition can vary. You may have no symptoms, but if you do, 
 
 #### How is malnutrition diagnosed?
 
-To check for malnutrition, your provider may:
+To check for malnutrition, your health care provider may:
 
-- **Do a nutritional screening**, which may include questions about weight loss, changes in your appetite, and your ability to eat.
-- **Do a physical exam and order blood tests** to check for signs that you don't have enough nutrients.
-- **Refer you to other providers** that specialize in nutrition, such as a dietician.
+- **Do a nutritional screening**, which may include questions about weight loss, changes in your appetite, and your ability to eat
+- **Do a physical exam and order blood tests** to check for signs that you don't have enough nutrients
+- **Refer you to other providers** that specialize in nutrition, such as a dietician
 
 #### What are the treatments for malnutrition?
 
