@@ -2,7 +2,7 @@
 
 We start with two examples that suggest the right definition.
 
-**Example 1.1**  —
+**Example 1.1** —
 
 Consider the example mentioned above, the space of two-wide row vectors and the space of two-tall column vectors. They are "the same" in that if we associate the vectors that have the same components, e.g.,
 
@@ -42,7 +42,7 @@ $$
 
 (all of the variables are real numbers).
 
-**Example 1.2**  —
+**Example 1.2** —
 
 Another two spaces we can think of as "the same" are $$\mathcal{P}_2$$, the space of quadratic polynomials, and $$\mathbb{R}^3$$. A natural correspondence is this.
 
@@ -62,7 +62,7 @@ $$
 r\cdot(a_0+a_1x+a_2x^2)= (ra_0)+(ra_1)x+(ra_2)x^2 \quad\longleftrightarrow\quad r\cdot\begin{pmatrix} a_0 \\ a_1 \\ a_2 \end{pmatrix} =\begin{pmatrix} ra_0 \\ ra_1 \\ ra_2 \end{pmatrix}
 $$
 
-**Definition 1.3**  —
+**Definition 1.3** —
 
 An **isomorphism** between two vector spaces $$V$$ and $$W$$ is a map $$f:V\to W$$ that
 
@@ -83,7 +83,7 @@ $$
 
 ("Morphism" means map, so "isomorphism" means a map expressing sameness.)
 
-**Example 1.4**  —
+**Example 1.4** —
 
 The vector space $$G=\{c_1\cos\theta+c_2\sin\theta\,\big|\, c_1,c_2\in\mathbb{R}\}$$ of functions of $$\theta$$ is isomorphic to the vector space $$\mathbb{R}^2$$ under this map.
 
@@ -137,7 +137,7 @@ $$
 
 With that, conditions (1) and (2) are verified, so we know that $$f$$ is an isomorphism and we can say that the spaces are isomorphic $$G\cong\mathbb{R}^2$$.
 
-**Example 1.5**  —
+**Example 1.5** —
 
 Let $$V$$ be the space $$\{c_1x+c_2y+c_3z\,\big|\, c_1,c_2,c_3\in\mathbb{R}\}$$ of linear combinations of three variables $$x$$, $$y$$, and $$z$$, under the natural addition and scalar multiplication operations. Then $$V$$ is isomorphic to $$\mathcal{P}_2$$, the space of quadratic polynomials.
 
@@ -173,7 +173,7 @@ Thus $$f_2$$ is an isomorphism and we write $$V\cong\mathcal{P}_2$$.
 
 We are sometimes interested in an isomorphism of a space with itself, called an **automorphism**. An identity map is an automorphism. The next two examples show that there are others.
 
-**Example 1.6**  —
+**Example 1.6** —
 
 A **dilation** map $$d_s:\mathbb{R}^2\to \mathbb{R}^2$$ that multiplies all vectors by a nonzero scalar $$s$$ is an automorphism of $$\mathbb{R}^2$$.
 
@@ -183,7 +183,7 @@ A third type of automorphism of $$\mathbb{R}^2$$ is a map $$f_\ell:\mathbb{R}^2\
 
 See Problem 20.
 
-**Example 1.7**  —
+**Example 1.7** —
 
 Consider the space $$\mathcal{P}_5$$ of polynomials of degree 5 or less and the map $$f$$ that sends a polynomial $$p(x)$$ to $$p(x-1)$$. For instance, under this map $$x^2\mapsto (x-1)^2=x^2-2x+1$$ and $$x^3+2x\mapsto (x-1)^3+2(x-1)=x^3-3x^2+5x-3$$. This map is an automorphism of this space; the check is Problem 12.
 
@@ -198,17 +198,17 @@ Further support for the definition, in case it is needed, is provided by the fol
 
 As an example, although the definition of isomorphism doesn't explicitly say that the zero vectors must correspond, it is a consequence of that definition.
 
-**Lemma 1.8**  —
+**Lemma 1.8** —
 
 An isomorphism maps a zero vector to a zero vector.
 
-**Proof**  —
+**Proof** —
 
 Where $$f:V\to W$$ is an isomorphism, fix any $$\vec{v}\in V$$. Then $$f(\vec{0}_V)=f(0\cdot\vec{v})=0\cdot f(\vec{v})=\vec{0}_W$$.
 
 The definition of isomorphism requires that sums of two vectors correspond and that so do scalar multiples. We can extend that to say that all linear combinations correspond.
 
-**Lemma 1.9**  —
+**Lemma 1.9** —
 
 For any map $$f:V\to W$$ between vector spaces these statements are equivalent.
 
@@ -230,7 +230,7 @@ $$
 f(c_1\vec{v}_1+\dots+c_n\vec{v}_n)= c_1f(\vec{v}_1)+\dots+c_nf(\vec{v}_n)
 $$
 
-**Proof**  —
+**Proof** —
 
 Since the implications $$3\!\implies\!2$$ and $$2\!\implies\!1$$ are clear, we need only show that $$1\!\implies\!3$$. Assume statement 1. We will prove statement 3 by induction on the number of summands $$n$$.
 
@@ -263,7 +263,7 @@ We close with a summary. The material in this section augments the chapter on Ve
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Verify, using Example 1.4 as a model, that the two correspondences given before the definition are isomorphisms.
 
@@ -271,7 +271,7 @@ Verify, using Example 1.4 as a model, that the two correspondences given before 
 2. Example 1.2  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 For the map $$f:\mathcal{P}_1\to \mathbb{R}^2$$ given by
 
@@ -287,12 +287,12 @@ Find the image of each of these elements of the domain.
 
 Show that this map is an isomorphism.
 
-**Problem 3**  —
+**Problem 3** —
 
 Show that the natural map $$f_1$$ from Example 1.5 is an isomorphism.  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 Decide whether each map is an isomorphism (if it is an isomorphism then prove it and if it isn't then state a condition that it fails to satisfy).
 
@@ -320,59 +320,59 @@ $$
 \begin{pmatrix} a &b \\ c &d \end{pmatrix} \mapsto c+(d+c)x+(b+a+1)x^2+ax^3
 $$
 
-**Problem 5**  —
+**Problem 5** —
 
 Show that the map $$f:\mathbb{R}^1\to \mathbb{R}^1$$ given by $$f(x)=x^3$$ is one-to-one and onto.Is it an isomorphism?  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Refer to Example 1.1. Produce two more isomorphisms (of course, that they satisfy the conditions in the definition of isomorphism must be verified).
 
-**Problem 7**  —
+**Problem 7** —
 
 Refer to Example 1.2. Produce two more isomorphisms (and verify that they satisfy the conditions).  
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 Show that, although $$\mathbb{R}^2$$ is not itself a subspace of $$\mathbb{R}^3$$, it is isomorphic to the $$xy$$-plane subspace of $$\mathbb{R}^3$$.
 
-**Problem 9**  —
+**Problem 9** —
 
 Find two isomorphisms between $$\mathbb{R}^{16}$$ and $$\mathcal{M}_{4 \! \times \! 4}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 For what $$k$$ is $$\mathcal{M}_{m \! \times \! n}$$ isomorphic to $$\mathbb{R}^{k}$$?
 
-**Problem 11**  —
+**Problem 11** —
 
 For what $$k$$ is $$\mathcal{P}_k$$ isomorphic to $$\mathbb{R}^n$$?
 
-**Problem 12**  —
+**Problem 12** —
 
 Prove that the map in Example 1.7, from $$\mathcal{P}_5$$ to $$\mathcal{P}_5$$ given by $$p(x)\mapsto p(x-1)$$, is a vector space isomorphism.
 
-**Problem 13**  —
+**Problem 13** —
 
 Why, in Lemma 1.8, must there be a $$\vec{v}\in V$$? That is, why must $$V$$ be nonempty?
 
-**Problem 14**  —
+**Problem 14** —
 
 Are any two trivial spaces isomorphic?
 
-**Problem 15**  —
+**Problem 15** —
 
 In the proof of Lemma 1.9, what about the zero-summands case (that is, if $$n$$ is zero)?
 
-**Problem 16**  —
+**Problem 16** —
 
 Show that any isomorphism $$f:\mathcal{P}_0\to \mathbb{R}^1$$ has the form $$a\mapsto ka$$ for some nonzero real number $$k$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 17**  —
+**Problem 17** —
 
 These prove that isomorphism is an equivalence relation.
 
@@ -380,16 +380,16 @@ These prove that isomorphism is an equivalence relation.
 2. Show that if $$f:V\to W$$ is an isomorphism then so is its inverse $$f^{-1}:W\to V$$. Thus, if $$V$$ is isomorphic to $$W$$ then also $$W$$ is isomorphic to $$V$$.
 3. Show that a composition of isomorphisms is an isomorphism: if $$f:V\to W$$ is an isomorphism and $$g:W\to U$$ is an isomorphism then so also is $$g\circ f:V\to U$$. Thus, if $$V$$ is isomorphic to $$W$$ and $$W$$ is isomorphic to $$U$$, then also $$V$$ is isomorphic to $$U$$.
 
-**Problem 18**  —
+**Problem 18** —
 
 Suppose that $$f:V\to W$$ preserves structure. Show that $$f$$ is one-to-one if and only if the unique member of $$V$$ mapped by $$f$$ to $$\vec{0}_W$$ is $$\vec{0}_V$$.
 
-**Problem 19**  —
+**Problem 19** —
 
 Suppose that $$f:V\to W$$ is an isomorphism. Prove that the set $$\{\vec{v}_1,\dots,\vec{v}_k\}\subseteq V$$ is linearly dependent if and only if the set of images $$\{f(\vec{v}_1),\dots,f(\vec{v}_k)\}\subseteq W$$ is linearly dependent.  
 *This exercise is recommended for all readers.*
 
-**Problem 20**  —
+**Problem 20** —
 
 Show that each type of map from Example 1.6 is an automorphism.
 
@@ -399,11 +399,11 @@ Show that each type of map from Example 1.6 is an automorphism.
 
 *Hint.* For the second and third items, polar coordinates are useful.
 
-**Problem 21**  —
+**Problem 21** —
 
 Produce an automorphism of $$\mathcal{P}_2$$ other than the identity map, and other than a shift map $$p(x)\mapsto p(x-k)$$.
 
-**Problem 22**  —
+**Problem 22** —
 
 1. Show that a function $$f:\mathbb{R}^1\to \mathbb{R}^1$$ is an automorphism if and only if it has the form $$x\mapsto kx$$ for some $$k\neq 0$$.
 2. Let $$f$$ be an automorphism of $$\mathbb{R}^1$$ such that $$f(3)=7$$. Find $$f(-2)$$.
@@ -420,6 +420,7 @@ $$
 $$
 
 if and only if $$ad-bc\neq 0$$.
+
 4. Let $$f$$ be an automorphism of $$\mathbb{R}^2$$ with
 
 $$
@@ -432,11 +433,11 @@ $$
 f(\begin{pmatrix} 0 \\ -1 \end{pmatrix}).
 $$
 
-**Problem 23**  —
+**Problem 23** —
 
 Refer to Lemma 1.8 and Lemma 1.9. Find two more things preserved by isomorphism.
 
-**Problem 24**  —
+**Problem 24** —
 
 We show that isomorphisms can be tailored to fit in that, sometimes, given vectors in the domain and in the range we can produce an isomorphism associating those vectors.
 
@@ -447,6 +448,7 @@ $$
 $$
 
 Show that the $${\rm Rep}_{B}(\cdot)$$ operation is a function from $$\mathcal{P}_2$$ to $$\mathbb{R}^3$$ (this entails showing that with every domain vector $$\vec{v}\in\mathcal{P}_2$$ there is an associated image vector in $$\mathbb{R}^3$$, and further, that with every domain vector $$\vec{v}\in\mathcal{P}_2$$ there is at most one associated image vector).
+
 2. Show that this $${\rm Rep}_{B}(\cdot)$$ function is one-to-one and onto.
 3. Show that it preserves structure.
 4. Produce an isomorphism from $$\mathcal{P}_2$$ to $$\mathbb{R}^3$$ that fits these specifications.
@@ -455,11 +457,11 @@ $$
 x+x^2\mapsto\begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix} \quad\text{and}\quad 1-x\mapsto\begin{pmatrix} 0 \\ 1 \\ 0 \end{pmatrix}
 $$
 
-**Problem 25**  —
+**Problem 25** —
 
 Prove that a space is $$n$$-dimensional if and only if it is isomorphic to $$\mathbb{R}^n$$. *Hint.* Fix a basis $$B$$ for the space and consider the map sending a vector over to its representation with respect to $$B$$.
 
-**Problem 26**  —
+**Problem 26** —
 
 *(Requires the subsection on Combining Subspaces, which is optional.)* Let $$U$$ and $$W$$ be vector spaces. Define a new vector space, consisting of the set $$U\times W=\{(\vec{u},\vec{w}) \,\big|\, \vec{u}\in U\text{ and } \vec{w}\in W\}$$ along with these operations.
 

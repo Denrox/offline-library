@@ -2,15 +2,15 @@
 
 Imagine that a Political Science class studying the American presidential process holds a mock election. Members of the class are asked to rank, from most preferred to least preferred, the nominees from the Democratic Party, the Republican Party, and the Third Party, and this is the result ($$>$$ means "is preferred to").
 
-- Preference order    Number with  
+- Preference order      Number with  
 that preference
-- Democrat > Republican > Third    5
-- Democrat > Third > Republican    4
-- Republican > Democrat > Third    2
-- Republican > Third > Democrat    8
-- Third > Democrat > Republican    8
-- Third > Republican > Democrat    2
-- Total    29
+- Democrat > Republican > Third      5
+- Democrat > Third > Republican      4
+- Republican > Democrat > Third      2
+- Republican > Third > Democrat      8
+- Third > Democrat > Republican      8
+- Third > Republican > Democrat      2
+- Total      29
 
 What is the preference of the group as a whole?
 
@@ -91,7 +91,7 @@ The fact that that these opposite voters cancel each other is reflected in the f
 The rows of the table below contain the three pairs of opposite preference lists. The columns group those pairs by spin. For instance, the first row contains the two voters just considered.
 
 Voting preferences
-- positive sign   negative spin
+- positive sign  negative spin
 - Democrat > Republican > Third  
 $$\,=\,$$ $$\,+\,$$
 
@@ -127,7 +127,7 @@ This Topic is largely drawn from (Zwicker 1991). *(Author's Note: I would like t
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 Here is a reasonable way in which a voter could have a cyclic preference. Suppose that this voter ranks each candidate on each of three criteria.
 
@@ -137,15 +137,15 @@ Here is a reasonable way in which a voter could have a cyclic preference. Suppos
 
 So it is possible for a voter to have a cyclic preference among candidates. The paradox described above, however, is that even if each voter has a straight-line preference list, a cyclic preference can still arise for the entire group.
 
-**Problem 2**  —
+**Problem 2** —
 
 Compute the values in the table of decompositions.
 
-**Problem 3**  —
+**Problem 3** —
 
 Do the cancellations of opposite preference orders for the Political Science class's mock election. Are all the remaining preferences from the left three rows of the table or from the right?
 
-**Problem 4**  —
+**Problem 4** —
 
 The necessary condition that is proved above—a voting paradox can happen only if all three preference lists remaining after cancellation have the same spin—is not also sufficient.
 
@@ -155,12 +155,12 @@ The necessary condition that is proved above—a voting paradox can happen only 
 4. Can the opposite happen; can addition of one voter with a "wrong" spin cause a cycle to appear?
 5. Give a condition that is both necessary and sufficient to get a majority cycle.
 
-**Problem 5**  — A one-voter election cannot have a majority cycle because of the requirement that we've imposed that the voter's list must be rational.
+**Problem 5** — A one-voter election cannot have a majority cycle because of the requirement that we've imposed that the voter's list must be rational.
 
 1. Show that a two-voter election may have a majority cycle. (We consider the group preference a majority cycle if all three group totals are nonnegative or if all three are nonpositive---that is, we allow some zero's in the group preference.)
 2. Show that for any number of voters greater than one, there is an election involving that many voters that results in a majority cycle.
 
-**Problem 6**  —
+**Problem 6** —
 
 Let $$U$$ be a subspace of $$\mathbb{R}^3$$. Prove that the set $$U^\perp=\{\vec{v}\,\big|\,\vec{v}\cdot\vec{u}=0 \text{ for all } \vec{u}\in U\}$$ of vectors that are perpendicular to each vector in $$U$$ is also a subspace of $$\mathbb{R}^3$$.
 

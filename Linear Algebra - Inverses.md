@@ -4,7 +4,7 @@ We now consider how to represent the inverse of a linear map.
 
 We start by recalling some facts about function inverses. Some functions have no inverse, or have an inverse on the left side or right side only.
 
-**Example 4.1**  —
+**Example 4.1** —
 
 Where $$\pi:\mathbb{R}^3\to \mathbb{R}^2$$ is the projection map
 
@@ -40,29 +40,29 @@ for all of the infinitely many $$z$$'s. But no function $$f$$ can send a single 
 
 (An example of a function with no inverse on either side is the zero transformation on $$\mathbb{R}^2$$.) Some functions have a **two-sided inverse map**, another function that is the inverse of the first, both from the left and from the right. For instance, the map given by $$\vec{v}\mapsto 2\cdot \vec{v}$$ has the two-sided inverse $$\vec{v}\mapsto (1/2)\cdot\vec{v}$$. In this subsection we will focus on two-sided inverses. The appendix shows that a function has a two-sided inverse if and only if it is both one-to-one and onto. The appendix also shows that if a function $$f$$ has a two-sided inverse then it is unique, and so it is called "the" inverse, and is denoted $$f^{-1}$$. So our purpose in this subsection is, where a linear map $$h$$ has an inverse, to find the relationship between $${\rm Rep}_{B,D}(h)$$ and $${\rm Rep}_{D,B}(h^{-1})$$ (recall that we have shown, in [Theorem II.2.21](Linear%20Algebra%20-%20Rangespace%20and%20Nullspace.md) of Section II of this chapter, that if a linear map has an inverse then the inverse is a linear map also).
 
-**Definition 4.2**  —
+**Definition 4.2** —
 
 A matrix $$G$$ is a **left inverse matrix** of the matrix $$H$$ if $$GH$$ is the identity matrix. It is a **right inverse matrix** if $$HG$$ is the identity. A matrix $$H$$ with a two-sided inverse is an **invertible matrix**. That two-sided inverse is called **the inverse matrix** and is denoted $$H^{-1}$$.
 
 Because of the correspondence between linear maps and matrices, statements about map inverses translate into statements about matrix inverses.
 
-**Lemma 4.3**  —
+**Lemma 4.3** —
 
 If a matrix has both a left inverse and a right inverse then the two are equal.
 
-**Theorem 4.4**  —
+**Theorem 4.4** —
 
 A matrix is invertible if and only if it is nonsingular.
 
-**Proof**  —
+**Proof** —
 
 *(For both results.)* Given a matrix $$H$$, fix spaces of appropriate dimension for the domain and codomain. Fix bases for these spaces. With respect to these bases, $$H$$ represents a map $$h$$. The statements are true about the map and therefore they are true about the matrix.
 
-**Lemma 4.5**  —
+**Lemma 4.5** —
 
 A product of invertible matrices is invertible— if $$G$$ and $$H$$ are invertible and if $$GH$$ is defined then $$GH$$ is invertible and $$(GH)^{-1}=H^{-1}G^{-1}$$.
 
-**Proof**  —
+**Proof** —
 
 *(This is just like the prior proof except that it requires two maps.)* Fix appropriate spaces and bases and consider the represented maps $$h$$ and $$g$$. Note that $$h^{-1}g^{-1}$$ is a two-sided map inverse of $$gh$$ since $$(h^{-1}g^{-1})(gh) = h^{-1}(\text{id})h =h^{-1}h =\text{id}$$ and $$(gh)(h^{-1}g^{-1}) = g(\text{id})g^{-1} =gg^{-1} =\text{id}$$. This equality is reflected in the matrices representing the maps, as required.
 
@@ -76,7 +76,7 @@ $$
 
 By fixing spaces and bases (e.g., $$\mathbb{R}^2,\mathbb{R}^2$$ and $$\mathcal{E}_2,\mathcal{E}_2$$), we take the matrix $$H$$ to represent some map $$h$$. Then solving the system is the same as asking: what domain vector $$\vec{x}$$ is mapped by $$h$$ to the result $$\vec{d}\,$$? If we could invert $$h$$ then we could solve the system by multiplying $${\rm Rep}_{D,B}(h^{-1})\cdot{\rm Rep}_{D}(\vec{d})$$ to get $${\rm Rep}_{B}(\vec{x})$$.
 
-**Example 4.6**  —
+**Example 4.6** —
 
 We can find a left inverse for the matrix just given
 
@@ -96,7 +96,7 @@ $$
 \begin{pmatrix} x \\ y \end{pmatrix} =\begin{pmatrix} 1/3 &1/3 \\ 2/3 &-1/3 \end{pmatrix} \begin{pmatrix} 3 \\ 2 \end{pmatrix} =\begin{pmatrix} 5/3 \\ 4/3 \end{pmatrix}
 $$
 
-**Remark 4.7**  —
+**Remark 4.7** —
 
 Why solve systems this way, when Gauss' method takes less arithmetic (this assertion can be made precise by counting the number of arithmetic operations, as computer algorithm designers do)? Beyond its conceptual appeal of fitting into our program of discovering how to represent the various map operations, solving linear systems by using the matrix inverse has at least two advantages.
 
@@ -130,11 +130,11 @@ to show that $$x_1$$ changes by $$1/3$$ of the tweak while $$x_2$$ moves by $$2/
 
 We finish by describing the computational procedure usually used to find the inverse matrix.
 
-**Lemma 4.8**  —
+**Lemma 4.8** —
 
 A matrix is invertible if and only if it can be written as the product of elementary reduction matrices. The inverse can be computed by applying to the identity matrix the same row steps, in the same order, as are used to Gauss-Jordan reduce the invertible matrix.
 
-**Proof**  —
+**Proof** —
 
 A matrix $$H$$ is invertible if and only if it is nonsingular and thus Gauss-Jordan reduces to the identity. By [Corollary 3.22](Linear%20Algebra%20-%20Mechanics%20of%20Matrix%20Multiplication.md) this reduction can be done with elementary matrices $$R_r\cdot R_{r-1}\dots R_1\cdot H=I$$. This equation gives the two halves of the result.
 
@@ -142,7 +142,7 @@ First, elementary matrices are invertible and their inverses are also elementary
 
 Second, matrix inverses are unique and so comparison of the above equation with $$H^{-1}H=I$$ shows that $$H^{-1}=R_r\cdot R_{r-1}\dots R_1\cdot I$$. Therefore, applying $$R_1$$ to the identity, followed by $$R_2$$, etc., yields the inverse of $$H$$.
 
-**Example 4.9**  —
+**Example 4.9** —
 
 To find the inverse of
 
@@ -162,7 +162,7 @@ $$
 \begin{pmatrix} 1 &1 \\ 2 &-1 \end{pmatrix}^{-1} = \begin{pmatrix} 1/3 &1/3 \\ 2/3 &-1/3 \end{pmatrix}
 $$
 
-**Example 4.10**  —
+**Example 4.10** —
 
 This one happens to start with a row swap.
 
@@ -170,7 +170,7 @@ $$
 \begin{array}{rcl} \left(\begin{array}{ccc|ccc} 0 &3 &-1 &1 &0 &0 \\ 1 &0 &1 &0 &1 &0 \\ 1 &-1 &0 &0 &0 &1 \end{array}\right) &\xrightarrow[]{\rho_1\leftrightarrow\rho_2} & \left(\begin{array}{ccc|ccc} 1 &0 &1 &0 &1 &0 \\ 0 &3 &-1 &1 &0 &0 \\ 1 &-1 &0 &0 &0 &1 \end{array}\right) \\ &\xrightarrow[]{-\rho_1+\rho_3} & \left(\begin{array}{ccc|ccc} 1 &0 &1 &0 &1 &0 \\ 0 &3 &-1 &1 &0 &0 \\ 0 &-1 &-1 &0 &-1 &1 \end{array}\right) \\ &\vdots \\ &\xrightarrow[]{} & \left(\begin{array}{ccc|ccc} 1 &0 &0 &1/4 &1/4 &3/4 \\ 0 &1 &0 &1/4 &1/4 &-1/4 \\ 0 &0 &1 &-1/4 &3/4 &-3/4 \end{array}\right) \end{array}
 $$
 
-**Example 4.11**  —
+**Example 4.11** —
 
 A non-invertible matrix is detected by the fact that the left half won't reduce to the identity.
 
@@ -180,7 +180,7 @@ $$
 
 This procedure will find the inverse of a general $$n \! \times \! n$$ matrix. The $$2 \! \times \! 2$$ case is handy.
 
-**Corollary 4.12**  —
+**Corollary 4.12** —
 
 The inverse for a $$2 \! \times \! 2$$ matrix exists and equals
 
@@ -190,7 +190,7 @@ $$
 
 if and only if $$ad-bc\neq 0$$.
 
-**Proof**  —
+**Proof** —
 
 This computation is Problem 10.
 
@@ -200,12 +200,12 @@ Over the entire four subsections of this section we have developed an algebra sy
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 Supply the intermediate steps in Example 4.10.  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Use Corollary 4.12 to decide if each matrix has an inverse.
 
@@ -214,12 +214,12 @@ Use Corollary 4.12 to decide if each matrix has an inverse.
 3. $$\begin{pmatrix} 2 &-3 \\ -4 &6 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 For each invertible matrix in the prior problem, use Corollary 4.12 to find its inverse.  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 Find the inverse, if it exists, by using the Gauss-Jordan method. Check the answers for the $$2 \! \times \! 2$$ matrices with Corollary 4.12.
 
@@ -231,7 +231,7 @@ Find the inverse, if it exists, by using the Gauss-Jordan method. Check the answ
 6. $$\begin{pmatrix} 2 &2 &3 \\ 1 &-2 &-3 \\ 4 &-2 &-3 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 What matrix has this one for its inverse?
 
@@ -239,7 +239,7 @@ $$
 \begin{pmatrix} 1 &3 \\ 2 &5 \end{pmatrix}
 $$
 
-**Problem 6**  —
+**Problem 6** —
 
 How does the inverse operation interact with scalar multiplication and addition of matrices?
 
@@ -247,15 +247,15 @@ How does the inverse operation interact with scalar multiplication and addition 
 2. Is $$(H+G)^{-1}=H^{-1}+G^{-1}$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 7**  —
+**Problem 7** —
 
 Is $$(T^k)^{-1}=(T^{-1})^k$$?
 
-**Problem 8**  —
+**Problem 8** —
 
 Is $$H^{-1}$$ invertible?
 
-**Problem 9**  —
+**Problem 9** —
 
 For each real number $$\theta$$ let $$t_\theta:\mathbb{R}^2\to \mathbb{R}^2$$ be represented with respect to the standard bases by this matrix.
 
@@ -265,11 +265,11 @@ $$
 
 Show that $$t_{\theta_1+\theta_2}=t_{\theta_1}\cdot t_{\theta_2}$$. Show also that $${t_{\theta}}^{-1}=t_{-\theta}$$.
 
-**Problem 10**  —
+**Problem 10** —
 
 Do the calculations for the proof of Corollary 4.12.
 
-**Problem 11**  —
+**Problem 11** —
 
 Show that this matrix
 
@@ -279,49 +279,49 @@ $$
 
 has infinitely many right inverses. Show also that it has no left inverse.
 
-**Problem 12**  —
+**Problem 12** —
 
 In Example 4.1, how many left inverses has $$\eta$$?
 
-**Problem 13**  —
+**Problem 13** —
 
 If a matrix has infinitely many right-inverses, can it have infinitely many left-inverses? Must it have?  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Assume that $$H$$ is invertible and that $$HG$$ is the zero matrix. Show that $$G$$ is a zero matrix.
 
-**Problem 15**  —
+**Problem 15** —
 
 Prove that if $$H$$ is invertible then the inverse commutes with a matrix $$GH^{-1}=H^{-1}G$$ if and only if $$H$$ itself commutes with that matrix $$GH=HG$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 16**  —
+**Problem 16** —
 
 Show that if $$T$$ is square and if $$T^4$$ is the zero matrix then $$(I-T)^{-1}=I+T+T^2+T^3$$. Generalize.  
 *This exercise is recommended for all readers.*
 
-**Problem 17**  —
+**Problem 17** —
 
 Let $$D$$ be diagonal. Describe $$D^2$$, $$D^3$$, ... , etc. Describe $$D^{-1}$$, $$D^{-2}$$, ... , etc. Define $$D^0$$ appropriately.
 
-**Problem 18**  —
+**Problem 18** —
 
 Prove that any matrix row-equivalent to an invertible matrix is also invertible.
 
-**Problem 19**  —
+**Problem 19** —
 
 *The first question below appeared as Problem 15 in the Matrix Multiplication subsection.*
 
 1. Show that the rank of the product of two matrices is less than or equal to the minimum of the rank of each.
 2. Show that if $$T$$ and $$S$$ are square then $$TS=I$$ if and only if $$ST=I$$.
 
-**Problem 20**  —
+**Problem 20** —
 
 Show that the inverse of a permutation matrix is its transpose.
 
-**Problem 21**  —
+**Problem 21** —
 
 *The first two parts of this question appeared as Problem 12. of the Matrix Multiplication subsection*
 
@@ -331,7 +331,7 @@ Show that the inverse of a permutation matrix is its transpose.
 4. Show that the inverse of a symmetric matrix is symmetric.  
 *This exercise is recommended for all readers.*
 
-**Problem 22**  —
+**Problem 22** —
 
 *The items starting this question appeared as Problem 17 of the Matrix Multiplication subsection.*
 
@@ -341,15 +341,15 @@ Show that the inverse of a permutation matrix is its transpose.
 
 When two things multiply to give zero despite that neither is zero, each is said to be a **zero divisor**. Prove that no zero divisor is invertible.
 
-**Problem 23**  —
+**Problem 23** —
 
 In real number algebra, there are exactly two numbers, $$1$$ and $$-1$$, that are their own multiplicative inverse. Does $$H^2=I$$ have exactly two solutions for $$2 \! \times \! 2$$ matrices?
 
-**Problem 24**  —
+**Problem 24** —
 
 Is the relation "is a two-sided inverse of" transitive? Reflexive? Symmetric?
 
-**Problem 25**  —
+**Problem 25** —
 
 Prove: if the sum of the elements in each row of a square matrix is $$k$$, then the sum of the elements in each row of the inverse matrix is $$1/k$$. (Wilansky 1951) harv error: no target: CITEREFWilansky1951 (help)
 

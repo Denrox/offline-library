@@ -2,11 +2,11 @@
 
 In the prior subsection, after stating the definition of an isomorphism, we gave some results supporting the intuition that such a map describes spaces as "the same". Here we will formalize this intuition. While two spaces that are isomorphic are not equal, we think of them as almost equal— as equivalent. In this subsection we shall show that the relationship "is isomorphic to" is an equivalence relation.
 
-**Theorem 2.1**  —
+**Theorem 2.1** —
 
 Isomorphism is an equivalence relation between vector spaces.
 
-**Proof**  —
+**Proof** —
 
 We must prove that this relation has the three properties of being symmetric, reflexive, and transitive. For each of the three we will use item 2 of [Lemma 1.9](Linear%20Algebra%20-%20Definition%20and%20Examples%20of%20Isomorphisms.md) and show that the map preserves structure by showing that it preserves linear combinations of two members of the domain.
 
@@ -40,17 +40,17 @@ $$
 V\cong W
 $$
 
-**Theorem 2.2**  —
+**Theorem 2.2** —
 
 Vector spaces are isomorphic if and only if they have the same dimension.
 
 This follows from the next two lemmas.
 
-**Lemma 2.3**  —
+**Lemma 2.3** —
 
 If spaces are isomorphic then they have the same dimension.
 
-**Proof**  —
+**Proof** —
 
 We shall show that an isomorphism of two spaces gives a correspondence between their bases. That is, where $$f:V\to W$$ is an isomorphism and a basis for the domain $$V$$ is $$B=\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$, then the image set $$D=\langle f(\vec{\beta}_1),\dots,f(\vec{\beta}_n) \rangle$$ is a basis for the codomain $$W$$. (The other half of the correspondence— that for any basis of $$W$$ the inverse image is a basis for $$V$$— follows on recalling that if $$f$$ is an isomorphism then $$f^{-1}$$ is also an isomorphism, and applying the prior sentence to $$f^{-1}$$.)
 
@@ -68,11 +68,11 @@ $$
 
 then, since $$f$$ is one-to-one and so the only vector sent to $$\vec{0}_W$$ is $$\vec{0}_V$$, we have that $$\vec{0}_V=c_1\vec{\beta}_1+\dots+c_n\vec{\beta}_n$$, implying that all of the $$c$$'s are zero.
 
-**Lemma 2.4**  —
+**Lemma 2.4** —
 
 If spaces have the same dimension then they are isomorphic.
 
-**Proof**  —
+**Proof** —
 
 To show that any two spaces of dimension $$n$$ are isomorphic, we can simply show that any one is isomorphic to $$\mathbb{R}^n$$. Then we will have shown that they are isomorphic to each other, by the transitivity of isomorphism (which was established in Theorem 2.1).
 
@@ -114,7 +114,7 @@ $$
 
 Thus the $$\text{Rep}_B$$ function is an isomorphism and thus any $$n$$-dimensional space is isomorphic to the $$n$$-dimensional space $$\mathbb{R}^n$$. Consequently, any two spaces with the same dimension are isomorphic.
 
-**Remark 2.5**  —
+**Remark 2.5** —
 
 The parenthetical comment in that proof about the role played by the "one and only one representation" result requires some explanation. We need to show that (for a fixed $$B$$) each vector in the domain is associated by $$\text{Rep}_B$$ with one and only one vector in the codomain.
 
@@ -144,13 +144,13 @@ That ends the proof of Theorem 2.2. We say that the isomorphism classes are **ch
 
 This subsection's results give us a collection of representatives of the isomorphism classes.
 
-**Corollary 2.6**  —
+**Corollary 2.6** —
 
 A finite-dimensional vector space is isomorphic to one and only one of the $$\mathbb{R}^n$$.
 
 The proofs above pack many ideas into a small space. Through the rest of this chapter we'll consider these ideas again, and fill them out. For a taste of this, we will expand here on the proof of Lemma 2.4.
 
-**Example 2.7**  —
+**Example 2.7** —
 
 The space $$\mathcal{M}_{2 \! \times \! 2}$$ of $$2 \! \times \! 2$$ matrices is isomorphic to $$\mathbb{R}^4$$. With this basis for the domain
 
@@ -229,7 +229,7 @@ The rest of the chapter fills out the work in this section. In particular, in th
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if the spaces are isomorphic.
 
@@ -239,7 +239,7 @@ Decide if the spaces are isomorphic.
 4. $$\mathcal{P}_5$$, $$\mathcal{M}_{2 \! \times \! 3}$$
 5. $$\mathcal{M}_{2 \! \times \! k}$$, $$\mathbb{C}^k$$
 
-**Answer**  —
+**Answer** —
 
 Each pair of spaces is isomorphic if and only if the two have the same dimension. We can, when there is an isomorphism, state a map, but it isn't strictly necessary.
 
@@ -260,7 +260,7 @@ $$
 5. Yes, both have dimension $$2k$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Consider the isomorphism $${\rm Rep}_{B}(\cdot):\mathcal{P}_1\to \mathbb{R}^2$$ where $$B=\langle 1,1+x \rangle$$. Find the image of each of these elements of the domain.
 
@@ -268,69 +268,69 @@ Consider the isomorphism $${\rm Rep}_{B}(\cdot):\mathcal{P}_1\to \mathbb{R}^2$$ 
 2. $$2+2x$$;
 3. $$x$$
 
-**Answer**  —
+**Answer** —
 
 1. $${\rm Rep}_{B}(3-2x)=\begin{pmatrix} 5 \\ -2 \end{pmatrix}$$
 2. $$\begin{pmatrix} 0 \\ 2 \end{pmatrix}$$
 3. $$\begin{pmatrix} -1 \\ 1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 Show that if $$m\neq n$$ then $$\mathbb{R}^m\not\cong\mathbb{R}^n$$.
 
-**Answer**  —
+**Answer** —
 
 They have different dimensions.  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 Is $$\mathcal{M}_{m \! \times \! n}\cong\mathcal{M}_{n \! \times \! m}$$?
 
-**Answer**  —
+**Answer** —
 
 Yes, both are $$mn$$-dimensional.  
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 Are any two planes through the origin in $$\mathbb{R}^3$$ isomorphic?
 
-**Answer**  —
+**Answer** —
 
 Yes, any two (nondegenerate) planes are both two-dimensional vector spaces.
 
-**Problem 6**  —
+**Problem 6** —
 
 Find a set of equivalence class representatives other than the set of $$\mathbb{R}^n$$'s.
 
-**Answer**  —
+**Answer** —
 
 There are many answers, one is the set of $$\mathcal{P}_k$$ (taking $$\mathcal{P}_{-1}$$ to be the trivial vector space).
 
-**Problem 7**  —
+**Problem 7** —
 
 True or false: between any $$n$$-dimensional space and $$\mathbb{R}^n$$ there is exactly one isomorphism.
 
-**Answer**  —
+**Answer** —
 
 False (except when $$n=0$$). For instance, if $$f:V\to \mathbb{R}^n$$ is an isomorphism then multiplying by any nonzero scalar, gives another, different, isomorphism. (Between trivial spaces the isomorphisms are unique; the only map possible is $$\vec{0}_V\mapsto 0_W$$.)
 
-**Problem 8**  —
+**Problem 8** —
 
 Can a vector space be isomorphic to one of its (proper) subspaces?
 
-**Answer**  —
+**Answer** —
 
 No. A proper subspace has a strictly lower dimension than it's superspace; if $$U$$ is a proper subspace of $$V$$ then any linearly independent subset of $$U$$ must have fewer than $$\dim(V)$$ members or else that set would be a basis for $$V$$, and $$U$$ wouldn't be proper.  
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 This subsection shows that for any isomorphism, the inverse map is also an isomorphism. This subsection also shows that for a fixed basis $$B$$ of an $$n$$-dimensional vector space $$V$$, the map $$\text{Rep}_B:V\to \mathbb{R}^n$$ is an isomorphism. Find the inverse of this map.
 
-**Answer**  —
+**Answer** —
 
 Where $$B=\langle \vec{\beta}_1,\ldots,\vec{\beta}_n \rangle$$, the inverse is this.
 
@@ -340,22 +340,22 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 Prove these facts about matrices.
 
 1. The row space of a matrix is isomorphic to the column space of its transpose.
 2. The row space of a matrix is isomorphic to its column space.
 
-**Answer**  —
+**Answer** —
 
 All three spaces have dimension equal to the rank of the matrix.
 
-**Problem 11**  —
+**Problem 11** —
 
 Show that the function from Theorem 2.2 is well-defined.
 
-**Answer**  —
+**Answer** —
 
 We must show that if $$\vec{a}=\vec{b}$$ then $$f(\vec{a})=f(\vec{b})$$. So suppose that $$a_1\vec{\beta}_1+\dots+a_n\vec{\beta}_n =b_1\vec{\beta}_1+\dots+b_n\vec{\beta}_n$$. Each vector in a vector space (here, the domain space) has a unique representation as a linear combination of basis vectors, so we can conclude that $$a_1=b_1$$, ..., $$a_n=b_n$$. Thus,
 
@@ -365,15 +365,15 @@ $$
 
 and so the function is well-defined.
 
-**Problem 12**  —
+**Problem 12** —
 
 Is the proof of Theorem 2.2 valid when $$n=0$$?
 
-**Answer**  —
+**Answer** —
 
 Yes, because a zero-dimensional space is a trivial space.
 
-**Problem 13**  —
+**Problem 13** —
 
 For each, decide if it is a set of isomorphism class representatives.
 
@@ -381,30 +381,30 @@ For each, decide if it is a set of isomorphism class representatives.
 2. $$\{\mathcal{P}_k\,\big|\, k\in \{-1,0,1,\ldots\}\}$$
 3. $$\{\mathcal{M}_{m \! \times \! n}\,\big|\, m,n\in\mathbb{N}\}$$
 
-**Answer**  —
+**Answer** —
 
 1. No, this collection has no spaces of odd dimension.
 2. Yes, because $$\mathcal{P}_{k}\cong\mathbb{R}^{k+1}$$.
 3. No, for instance, $$\mathcal{M}_{2 \! \times \! 3}\cong\mathcal{M}_{3 \! \times \! 2}$$.
 
-**Problem 14**  —
+**Problem 14** —
 
 Let $$f$$ be a correspondence between vector spaces $$V$$ and $$W$$ (that is, a map that is one-to-one and onto). Show that the spaces $$V$$ and $$W$$ are isomorphic via $$f$$ if and only if there are bases $$B\subset V$$ and $$D\subset W$$ such that corresponding vectors have the same coordinates: $${\rm Rep}_{B}(\vec{v})={\rm Rep}_{D}(f(\vec{v}))$$.
 
-**Answer**  —
+**Answer** —
 
 One direction is easy: if the two are isomorphic via $$f$$ then for any basis $$B\subseteq V$$, the set $$D=f(B)$$ is also a basis (this is shown in Lemma 2.3). The check that corresponding vectors have the same coordinates: $$f(c_1\vec{\beta}_1+\dots+c_n\vec{\beta}_n) =c_1f(\vec{\beta}_1)+\dots+c_nf(\vec{\beta}_n) =c_1\vec{\delta}_1+\dots+c_n\vec{\delta}_n$$ is routine.
 
 For the other half, assume that there are bases such that corresponding vectors have the same coordinates with respect to those bases. Because $$f$$ is a correspondence, to show that it is an isomorphism, we need only show that it preserves structure. Because $${\rm Rep}_{B}(\vec{v}\,)={\rm Rep}_{D}(f(\vec{v}\,))$$, the map $$f$$ preserves structure if and only if representations preserve addition: $${\rm Rep}_{B}(\vec{v}_1+\vec{v}_2)={\rm Rep}_{B}(\vec{v}_1)+{\rm Rep}_{B}(\vec{v}_2)$$ and scalar multiplication: $${\rm Rep}_{B}(r\cdot\vec{v}\,)=r\cdot{\rm Rep}_{B}(\vec{v}\,)$$ The addition calculation is this: $$(c_1+d_1)\vec{\beta}_1+\dots+(c_n+d_n)\vec{\beta}_n =c_1\vec{\beta}_1+\dots+c_n\vec{\beta}_n +d_1\vec{\beta}_1+\dots+d_n\vec{\beta}_n$$, and the scalar multiplication calculation is similar.
 
-**Problem 15**  —
+**Problem 15** —
 
 Consider the isomorphism $$\text{Rep}_B:\mathcal{P}_3\to \mathbb{R}^4$$.
 
 1. Vectors in a real space are orthogonal if and only if their dot product is zero. Give a definition of orthogonality for polynomials.
 2. The derivative of a member of $$\mathcal{P}_3$$ is in $$\mathcal{P}_3$$. Give a definition of the derivative of a vector in $$\mathbb{R}^4$$.
 
-**Answer**  —
+**Answer** —
 
 1. Pulling the definition back from $$\mathbb{R}^4$$ to $$\mathcal{P}_3$$ gives that $$a_0+a_1x+a_2x^2+a_3x^3$$ is orthogonal to $$b_0+b_1x+b_2x^2+b_3x^3$$ if and only if $$a_0b_0+a_1b_1+a_2b_2+a_3b_3=0$$.
 2. A natural definition is this.
@@ -415,11 +415,11 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 16**  —
+**Problem 16** —
 
 Does every correspondence between bases, when extended to the spaces, give an isomorphism?
 
-**Answer**  —
+**Answer** —
 
 Yes.
 
@@ -443,17 +443,17 @@ $$
 
 Preservation of scalar multiplication is similar.
 
-**Problem 17**  —
+**Problem 17** —
 
 *(Requires the subsection on Combining Subspaces, which is optional.)* Suppose that $$V=V_1\oplus V_2$$ and that $$V$$ is isomorphic to the space $$U$$ under the map $$f$$. Show that $$U=f(V_1)\oplus f(U_2)$$.
 
-**Answer**  —
+**Answer** —
 
 Because $$V_1\cap V_2=\{\vec{0}_V\}$$ and $$f$$ is one-to-one we have that $$f(V_1)\cap f(V_2)=\{\vec{0}_U\}$$. To finish, count the dimensions: $$\dim(U)=\dim(V)=\dim(V_1)+\dim(V_2)=\dim(f(V_1))+\dim(f(V_2))$$, as required.
 
-**Problem 18**  — Show that this is not a well-defined function from the rational numbers to the integers: with each fraction, associate the value of its numerator.
+**Problem 18** — Show that this is not a well-defined function from the rational numbers to the integers: with each fraction, associate the value of its numerator.
 
-**Answer**  —
+**Answer** —
 
 Rational numbers have many representations, e.g., $$1/2=3/6$$, and the numerators can vary among representations.
 

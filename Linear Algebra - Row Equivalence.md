@@ -6,17 +6,17 @@ The underlying theme here is that one way to understand a mathematical situation
 
 To understand how row operations act to transform one matrix into another, we consider the effect that they have on the parts of a matrix. The crucial observation is that row operations combine the rows linearly.
 
-**Definition 2.1**  —
+**Definition 2.1** —
 
 A **linear combination** of $$x_1,\ldots,x_m$$ is an expression of the form $$c_1x_1+c_2x_2+\,\cdots\,+c_mx_m$$ where the $$c$$'s are scalars.
 
 (We have already used the phrase "linear combination" in this book. The meaning is unchanged, but the next result's statement makes a more formal definition in order.)
 
-**Lemma 2.2 (Linear Combination Lemma)**  —
+**Lemma 2.2 (Linear Combination Lemma)** —
 
 A linear combination of linear combinations is a linear combination.
 
-**Proof**  —
+**Proof** —
 
 Given the linear combinations $$c_{1,1}x_1+\dots+c_{1,n}x_n$$ through $$c_{m,1}x_1+\dots+c_{m,n}x_n$$, consider a combination of those
 
@@ -38,13 +38,13 @@ $$
 A= \begin{pmatrix} \cdots \alpha_1 \cdots \\ \cdots \alpha_2 \cdots \\ \vdots \\ \cdots \alpha_m \cdots \end{pmatrix} \qquad B= \begin{pmatrix} \cdots \beta_1 \cdots \\ \cdots \beta_2 \cdots \\ \vdots \\ \cdots \beta_m\cdots \end{pmatrix}
 $$
 
-**Corollary 2.3**  —
+**Corollary 2.3** —
 
 Where one matrix reduces to another, each row of the second is a linear combination of the rows of the first.
 
 The proof below uses induction on the number of row operations used to reduce one matrix to the other. Before we proceed, here is an outline of the argument (readers unfamiliar with induction may want to compare this argument with the one used in the "$$\text{General}=\text{Particular}+\text{Homogeneous}$$" proof). First, for the base step of the argument, we will verify that the proposition is true when reduction can be done in zero row operations. Second, for the inductive step, we will argue that if being able to reduce the first matrix to the second in some number $$t\geq 0$$ of operations implies that each row of the second is a linear combination of the rows of the first, then being able to reduce the first to the second in $$t+1$$ operations implies the same thing. Together, this base step and induction step prove this result because by the base step the proposition is true in the zero operations case, and by the inductive step the fact that it is true in the zero operations case implies that it is true in the one operation case, and the inductive step applied again gives that it is therefore true in the two operations case, etc.
 
-**Proof**  —
+**Proof** —
 
 We proceed by induction on the minimum number of row operations that take a first matrix $$A$$ to a second one $$B$$.
 
@@ -56,7 +56,7 @@ If the last operation, the one from $$G$$ to $$B$$, is a row swap then the rows 
 
 With that, we have both the base step and the inductive step, and so the proposition follows.
 
-**Example 2.4**  —
+**Example 2.4** —
 
 In the reduction
 
@@ -88,11 +88,11 @@ The first row's leading entry is in the first column and narrowing our considera
 
 The following result shows that this effect always holds. It shows that what Gauss' linear elimination method eliminates is linear relationships among the rows.
 
-**Lemma 2.5**  —
+**Lemma 2.5** —
 
 In an echelon form matrix, no nonzero row is a linear combination of the other rows.
 
-**Proof**  —
+**Proof** —
 
 Let $$R$$ be in echelon form. Suppose, to obtain a contradiction, that some nonzero row is a linear combination of the others.
 
@@ -120,13 +120,13 @@ The inductive step is to show that for each row index $$k$$ between $$1$$ and $$
 
 We can now prove that each matrix is row equivalent to one and only one reduced echelon form matrix. We will find it convenient to break the first half of the argument off as a preliminary lemma. For one thing, it holds for any echelon form whatever, not just reduced echelon form.
 
-**Lemma 2.6**  —
+**Lemma 2.6** —
 
 If two echelon form matrices are row equivalent then the leading entries in their first rows lie in the same column. The same is true of all the nonzero rows— the leading entries in their second rows lie in the same column, etc.
 
 For the proof we rephrase the result in more technical terms. Define the **form** of an $$m \! \times \! n$$ matrix to be the sequence $$\langle \ell_1,\ell_2,\ldots\,,\ell_m \rangle$$ where $$\ell_i$$ is the column number of the leading entry in row $$i$$ and $$\ell_i=\infty$$ if there is no leading entry in that row. The lemma says that if two echelon form matrices are row equivalent then their forms are equal sequences.
 
-**Proof**  —
+**Proof** —
 
 Let $$B$$ and $$D$$ be echelon form matrices that are row equivalent. Because they are row equivalent they must be the same size, say $$m \! \times \! n$$. Let the column number of the leading entry in row $$i$$ of $$B$$ be $$\ell_i$$ and let the column number of the leading entry in row $$j$$ of $$D$$ be $$k_j$$. We will show that $$\ell_1=k_1$$, that $$\ell_2=k_2$$, etc., by induction.
 
@@ -152,11 +152,11 @@ That lemma answers two of the questions that we have posed: (i) any two echelon 
 
 We finish now by specializing to the case of reduced echelon form matrices.
 
-**Theorem 2.7**  —
+**Theorem 2.7** —
 
 Each matrix is row equivalent to a unique reduced echelon form matrix.
 
-**Proof**  —
+**Proof** —
 
 Clearly any matrix is row equivalent to at least one reduced echelon form matrix, via Gauss-Jordan reduction. For the other half, that any matrix is equivalent to at most one reduced echelon form matrix, we will show that if a matrix Gauss-Jordan reduces to each of two others then those two are equal.
 
@@ -188,7 +188,7 @@ We end with a recap. In Gauss' method we start with a matrix and then derive a s
 
 We can answer questions about the classes by translating them into questions about the representatives.
 
-**Example 2.8**  —
+**Example 2.8** —
 
 We can decide if matrices are interreducible by seeing if Gauss-Jordan reduction produces the same reduced echelon form result. Thus, these are not row equivalent
 
@@ -202,7 +202,7 @@ $$
 \begin{pmatrix} 1 &-3 \\ 0 &0 \end{pmatrix} \qquad \begin{pmatrix} 1 &0 \\ 0 &1 \end{pmatrix}
 $$
 
-**Example 2.9**  —
+**Example 2.9** —
 
 Any nonsingular $$3 \! \times \! 3$$ matrix Gauss-Jordan reduces to this.
 
@@ -210,7 +210,7 @@ $$
 \begin{pmatrix} 1 &0 &0 \\ 0 &1 &0 \\ 0 &0 &1 \end{pmatrix}
 $$
 
-**Example 2.10**  —
+**Example 2.10** —
 
 We can describe the classes by listing all possible reduced echelon form matrices. Any $$2 \! \times \! 2$$ matrix lies in one of these: the class of matrices row equivalent to this,
 
@@ -241,7 +241,7 @@ $$
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if the matrices are row equivalent.
 
@@ -251,11 +251,11 @@ Decide if the matrices are row equivalent.
 4. $$\begin{pmatrix} 1 &1 &1 \\ -1 &2 &2 \end{pmatrix}, \begin{pmatrix} 0 &3 &-1 \\ 2 &2 &5 \end{pmatrix}$$
 5. $$\begin{pmatrix} 1 &1 &1 \\ 0 &0 &3 \end{pmatrix}, \begin{pmatrix} 0 &1 &2 \\ 1 &-1 &1 \end{pmatrix}$$
 
-**Problem 2**  —
+**Problem 2** —
 
 Describe the matrices in each of the classes represented in Example 2.10.
 
-**Problem 3**  —
+**Problem 3** —
 
 Describe all matrices in the row equivalence class of these.
 
@@ -263,15 +263,15 @@ Describe all matrices in the row equivalence class of these.
 2. $$\begin{pmatrix} 1 &2 \\ 2 &4 \end{pmatrix}$$
 3. $$\begin{pmatrix} 1 &1 \\ 1 &3 \end{pmatrix}$$
 
-**Problem 4**  —
+**Problem 4** —
 
 How many row equivalence classes are there?
 
-**Problem 5**  —
+**Problem 5** —
 
 Can row equivalence classes contain different-sized matrices?
 
-**Problem 6**  —
+**Problem 6** —
 
 How big are the row equivalence classes?
 
@@ -279,17 +279,17 @@ How big are the row equivalence classes?
 2. Do any other classes contain only finitely many members?  
 *This exercise is recommended for all readers.*
 
-**Problem 7**  —
+**Problem 7** —
 
 Give two reduced echelon form matrices that have their leading entries in the same columns, but that are not row equivalent.  
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 Show that any two $$n \! \times \! n$$ nonsingular matrices are row equivalent. Are any two singular matrices row equivalent?  
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 Describe all of the row equivalence classes containing these.
 
@@ -298,13 +298,13 @@ Describe all of the row equivalence classes containing these.
 3. $$3 \! \times \! 2$$ matrices
 4. $$3 \! \times \! 3$$ matrices
 
-**Problem 10**  —
+**Problem 10** —
 
 1. Show that a vector $$\vec{\beta}_0$$ is a linear combination of members of the set $$\{\vec{\beta}_1,\ldots,\vec{\beta}_n\}$$ if and only if there is a linear relationship $$\vec{0}=c_0\vec{\beta}_0+\cdots+c_n\vec{\beta}_n$$ where $$c_0$$ is not zero. (*Hint.* Watch out for the $$\vec{\beta}_0=\vec{0}$$ case.)
 2. Use that to simplify the proof of Lemma 2.5.  
 *This exercise is recommended for all readers.*
 
-**Problem 11**  —
+**Problem 11** —
 
 Finish the proof of Lemma 2.5.
 
@@ -312,7 +312,7 @@ Finish the proof of Lemma 2.5.
 2. Do the full inductive step: where $$1\leq n<i-1$$, assume that $$c_k=0$$ for $$1<k< n$$ and deduce that $$c_{n+1}=0$$ also.
 3. Find the contradiction.
 
-**Problem 12**  —
+**Problem 12** —
 
 Finish the induction argument in Lemma 2.6.
 
@@ -320,21 +320,21 @@ Finish the induction argument in Lemma 2.6.
 2. Check that the inductive hypothesis implies that in the relationship $$\beta_{r+1}=s_{r+1,1}\delta_1+s_{r+2,2}\delta_2 +\dots+s_{r+1,m}\delta_m$$ the coefficients $$s_{r+1,1},\,\ldots\,,s_{r+1,r}$$ are each zero.
 3. Finish the inductive step by arguing, as in the base case, that $$\ell_{r+1}<k_{r+1}$$ and $$k_{r+1}<\ell_{r+1}$$ are impossible.
 
-**Problem 13**  —
+**Problem 13** —
 
 Why, in the proof of Theorem 2.7, do we bother to restrict to the nonzero rows? Why not just stick to the relationship that we began with, $$\beta_i=c_{i,1}\delta_1+\dots+c_{i,m}\delta_m$$, with $$m$$ instead of $$r$$, and argue using it that the only nonzero coefficient is $$c_{i,i}$$, which is $$1$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Three truck drivers went into a roadside cafe. One truck driver purchased four sandwiches, a cup of coffee, and ten doughnuts for $$\$8.45$$. Another driver purchased three sandwiches, a cup of coffee, and seven doughnuts for $$\$6.30$$. What did the third truck driver pay for a sandwich, a cup of coffee, and a doughnut? (Trono 1991)
 
-**Problem 15**  —
+**Problem 15** —
 
 The fact that Gaussian reduction disallows multiplication of a row by zero is needed for the proof of uniqueness of reduced echelon form, or else every matrix would be row equivalent to a matrix of all zeros. Where is it used?  
 *This exercise is recommended for all readers.*
 
-**Problem 16**  —
+**Problem 16** —
 
 The Linear Combination Lemma says which equations can be gotten from Gaussian reduction from a given linear system.
 
@@ -346,12 +346,12 @@ $$
 
 2. Can any equation be derived from an inconsistent system?
 
-**Problem 17**  —
+**Problem 17** —
 
 Extend the definition of row equivalence to linear systems. Under your definition, do equivalent systems have the same solution set? (Hoffman & Kunze 1971)  
 *This exercise is recommended for all readers.*
 
-**Problem 18**  —
+**Problem 18** —
 
 In this matrix
 

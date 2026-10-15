@@ -12,13 +12,13 @@ $$
 
 (recall that a representation of composition like this one reads right to left).
 
-**Definition 1.1**  —
+**Definition 1.1** —
 
 The matrices $$T$$ and $$S$$ are **similar** if there is a nonsingular $$P$$ such that $$T=PSP^{-1}$$.
 
 Since nonsingular matrices are square, the similar matrices $$T$$ and $$S$$ must be square and of the same size.
 
-**Example 1.2**  —
+**Example 1.2** —
 
 With these two,
 
@@ -32,7 +32,7 @@ $$
 T= \begin{pmatrix} 0 &-1 \\ 1 &1 \end{pmatrix}
 $$
 
-**Example 1.3**  —
+**Example 1.3** —
 
 The only matrix similar to the zero matrix is itself: $$PZP^{-1}=PZ=Z$$. The only matrix similar to the identity matrix is itself: $$PIP^{-1}=PP^{-1}=I$$.
 
@@ -48,7 +48,7 @@ To understand the similarity relation we shall study the similarity classes. We 
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 For
 
@@ -59,7 +59,7 @@ $$
 check that $$T=PSP^{-1}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Example 1.3 shows that the only matrix similar to a zero matrix is itself and that the only matrix similar to the identity is itself.
 
@@ -67,7 +67,7 @@ Example 1.3 shows that the only matrix similar to a zero matrix is itself and th
 2. Is a matrix of the form $$cI$$ for some scalar $$c$$ similar only to itself?
 3. Is a diagonal matrix similar only to itself?
 
-**Problem 3**  —
+**Problem 3** —
 
 Show that these matrices are not similar.
 
@@ -75,7 +75,7 @@ $$
 \begin{pmatrix} 1 &0 &4 \\ 1 &1 &3 \\ 2 &1 &7 \end{pmatrix} \qquad \begin{pmatrix} 1 &0 &1 \\ 0 &1 &1 \\ 3 &1 &2 \end{pmatrix}
 $$
 
-**Problem 4**  —
+**Problem 4** —
 
 Consider the transformation $$t:\mathcal{P}_2\to \mathcal{P}_2$$ described by $$x^2\mapsto x+1$$, $$x\mapsto x^2-1$$, and $$1\mapsto 3$$.
 
@@ -84,7 +84,7 @@ Consider the transformation $$t:\mathcal{P}_2\to \mathcal{P}_2$$ described by $$
 3. Find the matrix $$P$$ such that $$T=PSP^{-1}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 Exhibit an nontrivial similarity relationship in this way: let $$t:\mathbb{C}^2\to \mathbb{C}^2$$ act by
 
@@ -94,60 +94,60 @@ $$
 
 and pick two bases, and represent $$t$$ with respect to then $$T={\rm Rep}_{B,B}(t)$$ and $$S={\rm Rep}_{D,D}(t)$$. Then compute the $$P$$ and $$P^{-1}$$ to change bases from $$B$$ to $$D$$ and back again.
 
-**Problem 6**  —
+**Problem 6** —
 
 Explain Example 1.3 in terms of maps.  
 *This exercise is recommended for all readers.*
 
-**Problem 7**  —
+**Problem 7** —
 
 Are there two matrices $$A$$ and $$B$$ that are similar while $$A^2$$ and $$B^2$$ are not similar? (Halmos 1958)  
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 Prove that if two matrices are similar and one is invertible then so is the other.  
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 Show that similarity is an equivalence relation.
 
-**Problem 10**  —
+**Problem 10** —
 
 Consider a matrix representing, with respect to some $$B,B$$, reflection across the $$x$$-axis in $$\mathbb{R}^2$$. Consider also a matrix representing, with respect to some $$D,D$$, reflection across the $$y$$-axis. Must they be similar?
 
-**Problem 11**  —
+**Problem 11** —
 
 Prove that similarity preserves determinants and rank. Does the converse hold?
 
-**Problem 12**  —
+**Problem 12** —
 
 Is there a matrix equivalence class with only one matrix similarity class inside? One with infinitely many similarity classes?
 
-**Problem 13**  —
+**Problem 13** —
 
 Can two different diagonal matrices be in the same similarity class?  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Prove that if two matrices are similar then their $$k$$-th powers are similar when $$k>0$$. What if $$k\leq 0$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 15**  —
+**Problem 15** —
 
 Let $$p(x)$$ be the polynomial $$c_nx^n+\cdots+c_1x+c_0$$. Show that if $$T$$ is similar to $$S$$ then $$p(T)=c_nT^n+\cdots+c_1T+c_0I$$ is similar to $$p(S)=c_nS^n+\cdots+c_1S+c_0I$$.
 
-**Problem 16**  —
+**Problem 16** —
 
 List all of the matrix equivalence classes of $$1 \! \times \! 1$$ matrices. Also list the similarity classes, and describe which similarity classes are contained inside of each matrix equivalence class.
 
-**Problem 17**  —
+**Problem 17** —
 
 Does similarity preserve sums?
 
-**Problem 18**  —
+**Problem 18** —
 
 Show that if $$T-\lambda I$$ and $$N$$ are similar matrices then $$T$$ and $$N+\lambda I$$ are also similar.
 

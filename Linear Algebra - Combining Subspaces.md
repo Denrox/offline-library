@@ -14,13 +14,13 @@ $$
 
 is in none of the three axes and hence is not in the union). In addition to the members of the subspaces, we must at least also include all of the linear combinations.
 
-**Definition 4.1**  —
+**Definition 4.1** —
 
 Where $$W_1,\dots, W_k$$ are subspaces of a vector space, their **sum** is the span of their union $$W_1+W_2+\dots +W_k=[W_1\cup W_2\cup \dots W_k]$$.
 
 (The notation, writing the "$$+$$" between sets in addition to using it between vectors, fits with the practice of using this symbol for any natural accumulation operation.)
 
-**Example 4.2**  —
+**Example 4.2** —
 
 The $$\mathbb{R}^3$$ model fits with this operation. Any vector $$\vec{w}\in\mathbb{R}^3$$ can be written as a linear combination $$c_1\vec{v}_1+c_2\vec{v}_2+c_3\vec{v}_3$$ where $$\vec{v}_1$$ is a member of the $$x$$-axis, etc., in this way
 
@@ -30,11 +30,11 @@ $$
 
 and so $$\mathbb{R}^3=x\text{-axis}+y\text{-axis}+z\text{-axis}$$.
 
-**Example 4.3**  —
+**Example 4.3** —
 
 A sum of subspaces can be less than the entire space. Inside of $$\mathcal{P}_4$$, let $$L$$ be the subspace of linear polynomials $$\{a+bx\,\big|\, a,b\in\mathbb{R}\}$$ and let $$C$$ be the subspace of purely-cubic polynomials $$\{cx^3\,\big|\, c\in\mathbb{R}\}$$. Then $$L+C$$ is not all of $$\mathcal{P}_4$$. Instead, it is the subspace $$L+C=\{a+bx+cx^3\,\big|\, a,b,c\in\mathbb{R}\}$$.
 
-**Example 4.4**  —
+**Example 4.4** —
 
 A space can be described as a combination of subspaces in more than one way. Besides the decomposition $$\mathbb{R}^3=x\text{-axis}+y\text{-axis}+z\text{-axis}$$, we can also write $$\mathbb{R}^3=xy\text{-plane}+yz\text{-plane}$$. To check this, note that any $$\vec{w}\in\mathbb{R}^3$$ can be written as a linear combination of a member of the $$xy$$-plane and a member of the $$yz$$-plane; here are two such combinations.  
 
@@ -52,7 +52,7 @@ all describe the vector as comprised of something from the first plane plus some
 
 That is, when we consider how $$\mathbb{R}^3$$ is put together from the three axes "in some way", we might mean "in such a way that every vector has at least one decomposition", and that leads to the definition above. But if we take it to mean "in such a way that every vector has one and only one decomposition" then we need another condition on combinations. To see what this condition is, recall that vectors are uniquely represented in terms of a basis. We can use this to break a space into a sum of subspaces such that any vector in the space breaks uniquely into a sum of members of those subspaces.
 
-**Example 4.5**  —
+**Example 4.5** —
 
 The benchmark is $$\mathbb{R}^3$$ with its standard basis $$\mathcal{E}_3=\langle \vec{e}_1,\vec{e}_2,\vec{e}_3 \rangle$$. The subspace with the basis $$B_1=\langle \vec{e}_1 \rangle$$ is the $$x$$-axis. The subspace with the basis $$B_2=\langle \vec{e}_2 \rangle$$ is the $$y$$-axis. The subspace with the basis $$B_3=\langle \vec{e}_3 \rangle$$ is the $$z$$-axis. The fact that any member of $$\mathbb{R}^3$$ is expressible as a sum of vectors from these subspaces
 
@@ -68,7 +68,7 @@ $$
 
 has a solution for any $$x,y,z\in\mathbb{R}$$. And, the fact that each such expression is unique reflects that fact that $$\mathcal{E}_3$$ is linearly independent— any equation like the one above has a unique solution.
 
-**Example 4.6**  —
+**Example 4.6** —
 
 We don't have to take the basis vectors one at a time, the same idea works if we conglomerate them into larger sequences. Consider again the space $$\mathbb{R}^3$$ and the vectors from the standard basis $$\mathcal{E}_3$$. The subspace with the basis $$B_1=\langle \vec{e}_1,\vec{e}_3 \rangle$$ is the $$xz$$-plane. The subspace with the basis $$B_2=\langle \vec{e}_2 \rangle$$ is the $$y$$-axis. As in the prior example, the fact that any member of the space is a sum of members of the two subspaces in one and only one way
 
@@ -86,7 +86,7 @@ has one and only one solution for any $$x,y,z\in\mathbb{R}$$.
 
 These examples illustrate a natural way to decompose a space into a sum of subspaces in such a way that each vector decomposes uniquely into a sum of vectors from the parts. The next result says that this way is the only way.
 
-**Definition 4.7**  —
+**Definition 4.7** —
 
 The **concatenation** of the sequences $$B_1=\langle \vec{\beta}_{1,1},\dots,\vec{\beta}_{1,n_1} \rangle$$, ..., $$B_k=\langle \vec{\beta}_{k,1},\dots,\vec{\beta}_{k,n_k} \rangle$$ is their adjoinment.
 
@@ -94,7 +94,7 @@ $$
 B_1\!\mathbin{{}^\frown}\!B_2\!\mathbin{{}^\frown}\!\cdots\!\mathbin{{}^\frown}\!B_k= \langle \vec{\beta}_{1,1},\dots,\vec{\beta}_{1,n_1}, \vec{\beta}_{2,1},\dots,\vec{\beta}_{k,n_k} \rangle
 $$
 
-**Lemma 4.8**  —
+**Lemma 4.8** —
 
 Let $$V$$ be a vector space that is the sum of some of its subspaces $$V=W_1+\dots+W_k$$. Let $$B_1$$, ..., $$B_k$$ be any bases for these subspaces. Then the following are equivalent.
 
@@ -102,7 +102,7 @@ Let $$V$$ be a vector space that is the sum of some of its subspaces $$V=W_1+\do
 2. The concatenation $$B_1\!\mathbin{{}^\frown}\!\cdots\!\mathbin{{}^\frown}\!B_k$$ is a basis for $$V$$.
 3. The nonzero members of $$\{\vec{w}_1,\dots,\vec{w}_k\}$$ (with $$\vec{w}_i\in W_i$$) form a linearly independent set— among nonzero vectors from different $$W_i$$'s, every linear relationship is trivial.
 
-**Proof**  —
+**Proof** —
 
 We will show that $$\text{(1)}\implies\text{(2)}$$, that $$\text{(2)}\implies\text{(3)}$$, and finally that $$\text{(3)}\implies\text{(1)}$$. For these arguments, observe that we can pass from a combination of $$\vec{w}$$'s to a combination of $$\vec{\beta}$$'s
 
@@ -143,19 +143,19 @@ $$
 
 which violates the assumption unless each $$\vec{w}_i-\vec{u}_i$$ is the zero vector. Hence, decompositions are unique.
 
-**Definition 4.9**  —
+**Definition 4.9** —
 
 A collection of subspaces $$\{W_1,\ldots, W_k\}$$ is **independent** if no nonzero vector from any $$W_i$$ is a linear combination of vectors from the other subspaces $$W_1,\dots, W_{i-1},W_{i+1},\dots, W_k$$.
 
-**Definition 4.10**  —
+**Definition 4.10** —
 
 A vector space $$V$$ is the **direct sum** (or **internal direct sum**) of its subspaces $$W_1,\dots, W_k$$ if $$V=W_1+W_2+\dots +W_k$$ and the collection $$\{W_1,\dots, W_k\}$$ is independent. We write $$V=W_1\oplus W_2\oplus \dots\oplus W_k$$.
 
-**Example 4.11**  —
+**Example 4.11** —
 
 The benchmark model fits: $$\mathbb{R}^3=x\text{-axis}\oplus y\text{-axis}\oplus z\text{-axis}$$.
 
-**Example 4.12**  —
+**Example 4.12** —
 
 The space of $$2 \! \times \! 2$$ matrices is this direct sum.
 
@@ -165,43 +165,43 @@ $$
 
 It is the direct sum of subspaces in many other ways as well; direct sum decompositions are not unique.
 
-**Corollary 4.13**  —
+**Corollary 4.13** —
 
 The dimension of a direct sum is the sum of the dimensions of its summands.
 
-**Proof**  —
+**Proof** —
 
 In Lemma 4.8, the number of basis vectors in the concatenation equals the sum of the number of vectors in the subbases that make up the concatenation.
 
 The special case of two subspaces is worth mentioning separately.
 
-**Definition 4.14**  —
+**Definition 4.14** —
 
 When a vector space is the direct sum of two of its subspaces, then they are said to be **complements**.
 
-**Lemma 4.15**  —
+**Lemma 4.15** —
 
 A vector space $$V$$ is the direct sum of two of its subspaces $$W_1$$ and $$W_2$$ if and only if it is the sum of the two $$V=W_1+W_2$$ and their intersection is trivial $$W_1\cap W_2=\{\vec{0}\,\}$$.
 
-**Proof**  —
+**Proof** —
 
 Suppose first that $$V=W_1\oplus W_2$$. By definition, $$V$$ is the sum of the two. To show that the two have a trivial intersection, let $$\vec{v}$$ be a vector from $$W_1\cap W_2$$ and consider the equation $$\vec{v}=\vec{v}$$. On the left side of that equation is a member of $$W_1$$, and on the right side is a linear combination of members (actually, of only one member) of $$W_2$$. But the independence of the spaces then implies that $$\vec{v}=\vec{0}$$, as desired.
 
 For the other direction, suppose that $$V$$ is the sum of two spaces with a trivial intersection. To show that $$V$$ is a direct sum of the two, we need only show that the spaces are independent— no nonzero member of the first is expressible as a linear combination of members of the second, and vice versa. This is true because any relationship $$\vec{w}_1=c_1\vec{w}_{2,1}+\dots+d_k\vec{w}_{2,k}$$ (with $$\vec{w}_1\in W_1$$ and $$\vec{w}_{2,j}\in W_2$$ for all $$j$$) shows that the vector on the left is also in $$W_2$$, since the right side is a combination of members of $$W_2$$. The intersection of these two spaces is trivial, so $$\vec{w}_1=\vec{0}$$. The same argument works for any $$\vec{w}_2$$.
 
-**Example 4.16**  —
+**Example 4.16** —
 
 In the space $$\mathbb{R}^2$$, the $$x$$-axis and the $$y$$-axis are complements, that is, $$\mathbb{R}^2=x\text{-axis}\oplus y\text{-axis}$$. A space can have more than one pair of complementary subspaces; another pair here are the subspaces consisting of the lines $$y=x$$ and $$y=2x$$.
 
-**Example 4.17**  —
+**Example 4.17** —
 
 In the space $$F=\{a\cos\theta+b\sin\theta\,\big|\, a,b\in\mathbb{R}\}$$, the subspaces $$W_1=\{a\cos\theta\,\big|\, a\in\mathbb{R}\}$$ and $$W_2=\{b\sin\theta\,\big|\, b\in\mathbb{R}\}$$ are complements. In addition to the fact that a space like $$F$$ can have more than one pair of complementary subspaces, inside of the space a single subspace like $$W_1$$ can have more than one complement— another complement of $$W_1$$ is $$W_3=\{b\sin\theta+b\cos\theta \,\big|\, b\in\mathbb{R}\}$$.
 
-**Example 4.18**  —
+**Example 4.18** —
 
 In $$\mathbb{R}^3$$, the $$xy$$-plane and the $$yz$$-planes are not complements, which is the point of the discussion following Example 4.4. One complement of the $$xy$$-plane is the $$z$$-axis. A complement of the $$yz$$-plane is the line through $$(1,1,1)$$.
 
-**Example 4.19**  —
+**Example 4.19** —
 
 Following Lemma 4.15, here is a natural question:is the simple sum $$V=W_1+\dots+W_k$$ also a direct sum if and only if the intersection of the subspaces is trivial? The answer is that if there are more than two subspaces then having a trivial intersection is not enough to guarantee unique decomposition (i.e., is not enough to ensure that the spaces are independent). In $$\mathbb{R}^3$$, let $$W_1$$ be the $$x$$-axis, let $$W_2$$ be the $$y$$-axis, and let $$W_3$$ be this.  
 
@@ -246,7 +246,7 @@ In this subsection we have seen two ways to regard a space as built up from comp
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if $$\mathbb{R}^2$$ is the direct sum of each $$W_1$$ and $$W_2$$.
 
@@ -257,7 +257,7 @@ Decide if $$\mathbb{R}^2$$ is the direct sum of each $$W_1$$ and $$W_2$$.
 5. $$W_1=\{\begin{pmatrix} 1 \\ 0 \end{pmatrix}+\begin{pmatrix} x \\ 0 \end{pmatrix} \,\big|\, x\in\mathbb{R}\}$$, $$W_2=\{\begin{pmatrix} -1 \\ 0 \end{pmatrix}+\begin{pmatrix} 0 \\ y \end{pmatrix}\,\big|\, y\in\mathbb{R}\}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Show that $$\mathbb{R}^3$$ is the direct sum of the $$xy$$-plane with each of these.
 
@@ -268,12 +268,12 @@ $$
 \{\begin{pmatrix} z \\ z \\ z \end{pmatrix} \,\big|\, z\in\mathbb{R} \}
 $$
 
-**Problem 3**  —
+**Problem 3** —
 
 Is $$\mathcal{P}_2$$ the direct sum of $$\{a+bx^2\,\big|\, a,b\in\mathbb{R}\}$$ and $$\{cx\,\big|\, c\in\mathbb{R}\}$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 In $$\mathcal{P}_n$$, the **even** polynomials are the members of this set
 
@@ -289,12 +289,12 @@ $$
 
 Show that these are complementary subspaces.
 
-**Problem 5**  —
+**Problem 5** —
 
 Which of these subspaces of $$\mathbb{R}^3$$
 
-$$W_1$$: the $$x$$-axis, $$W_2$$:the $$y$$-axis, $$W_3$$:the $$z$$-axis,  
-$$W_4$$:the plane $$x+y+z=0$$, $$W_5$$:the $$yz$$-plane
+$$W_1$$: the $$x$$-axis,      $$W_2$$:the $$y$$-axis,      $$W_3$$:the $$z$$-axis,  
+$$W_4$$:the plane $$x+y+z=0$$,      $$W_5$$:the $$yz$$-plane
 
 can be combined to
 
@@ -302,23 +302,23 @@ can be combined to
 2. direct sum to $$\mathbb{R}^3$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Show that $$\mathcal{P}_n=\{a_0 \,\big|\, a_0\in\mathbb{R}\}\oplus\dots\oplus\{a_nx^n\,\big|\, a_n\in\mathbb{R}\}$$.
 
-**Problem 7**  —
+**Problem 7** —
 
 What is $$W_1+W_2$$ if $$W_1\subseteq W_2$$?
 
-**Problem 8**  —
+**Problem 8** —
 
 Does Example 4.5 generalize? That is, is this true or false:if a vector space $$V$$ has a basis $$\langle \vec{\beta}_1,\dots ,\vec{\beta}_n \rangle$$ then it is the direct sum of the spans of the one-dimensional subspaces $$V=[\{\vec{\beta}_1\}]\oplus\dots\oplus[\{\vec{\beta}_n\}]$$?
 
-**Problem 9**  —
+**Problem 9** —
 
 Can $$\mathbb{R}^4$$ be decomposed as a direct sum in two different ways? Can $$\mathbb{R}^1$$?
 
-**Problem 10**  —
+**Problem 10** —
 
 This exercise makes the notation of writing "$$+$$" between sets more natural. Prove that, where $$W_1,\dots, W_k$$ are subspaces of a vector space,
 
@@ -328,33 +328,33 @@ $$
 
 and so the sum of subspaces is the subspace of all sums.
 
-**Problem 11**  —
+**Problem 11** —
 
 (Refer to Example 4.19. This exercise shows that the requirement that pariwise intersections be trivial is genuinely stronger than the requirement only that the intersection of all of the subspaces be trivial.) Give a vector space and three subspaces $$W_1$$, $$W_2$$, and $$W_3$$ such that the space is the sum of the subspaces, the intersection of all three subspaces $$W_1\cap W_2\cap W_3$$ is trivial, but the pairwise intersections $$W_1\cap W_2$$, $$W_1\cap W_3$$, and $$W_2\cap W_3$$ are nontrivial.  
 *This exercise is recommended for all readers.*
 
-**Problem 12**  —
+**Problem 12** —
 
 Prove that if $$V=W_1\oplus\dots\oplus W_k$$ then $$W_i\cap W_j$$ is trivial whenever $$i\neq j$$. This shows that the first half of the proof of Lemma 4.15 extends to the case of more than two subspaces. (Example 4.19 shows that this implication does not reverse; the other half does not extend.)
 
-**Problem 13**  —
+**Problem 13** —
 
 Recall that no linearly independent set contains the zero vector. Can an independent set of subspaces contain the trivial subspace?  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Does every subspace have a complement?  
 *This exercise is recommended for all readers.*
 
-**Problem 15**  —
+**Problem 15** —
 
 Let $$W_1, W_2$$ be subspaces of a vector space.
 
 1. Assume that the set $$S_1$$ spans $$W_1$$, and that the set $$S_2$$ spans $$W_2$$. Can $$S_1\cup S_2$$ span $$W_1+W_2$$? Must it?
 2. Assume that $$S_1$$ is a linearly independent subset of $$W_1$$ and that $$S_2$$ is a linearly independent subset of $$W_2$$. Can $$S_1\cup S_2$$ be a linearly independent subset of $$W_1+W_2$$? Must it?
 
-**Problem 16**  —
+**Problem 16** —
 
 When a vector space is decomposed as a direct sum, the dimensions of the subspaces add to the dimension of the space. The situation with a space that is given as the sum of its subspaces is not as simple. This exercise considers the two-subspace special case.
 
@@ -371,14 +371,15 @@ $$
 $$
 
 is a basis for for the sum $$U+W$$.
+
 3. Conclude that $$\dim (U+W)=\dim(U)+\dim(W)-\dim(U\cap W)$$.
 4. Let $$W_1$$ and $$W_2$$ be eight-dimensional subspaces of a ten-dimensional space. List all values possible for $$\dim(W_1\cap W_2)$$.
 
-**Problem 17**  —
+**Problem 17** —
 
 Let $$V=W_1\oplus\dots\oplus W_k$$ and for each index $$i$$ suppose that $$S_i$$ is a linearly independent subset of $$W_i$$. Prove that the union of the $$S_i$$'s is linearly independent.
 
-**Problem 18**  —
+**Problem 18** —
 
 A matrix is **symmetric** if for each pair of indices $$i$$ and $$j$$, the $$i,j$$ entry equals the $$j,i$$ entry. A matrix is **antisymmetric** if each $$i,j$$ entry is the negative of the $$j,i$$ entry.
 
@@ -386,16 +387,16 @@ A matrix is **symmetric** if for each pair of indices $$i$$ and $$j$$, the $$i,j
 2. What is the relationship between a square symmetric matrix and its transpose? Between a square antisymmetric matrix and its transpose?
 3. Show that $$\mathcal{M}_{n \! \times \! n}$$ is the direct sum of the space of symmetric matrices and the space of antisymmetric matrices.
 
-**Problem 19**  —
+**Problem 19** —
 
 Let $$W_1,W_2,W_3$$ be subspaces of a vector space. Prove that $$(W_1\cap W_2)+(W_1\cap W_3)\subseteq W_1\cap (W_2+W_3)$$. Does the inclusion reverse?
 
-**Problem 20**  —
+**Problem 20** —
 
 The example of the $$x$$-axis and the $$y$$-axis in $$\mathbb{R}^2$$ shows that $$W_1\oplus W_2=V$$ does not imply that $$W_1\cup W_2=V$$. Can $$W_1\oplus W_2=V$$ and $$W_1\cup W_2=V$$ happen?  
 *This exercise is recommended for all readers.*
 
-**Problem 21**  —
+**Problem 21** —
 
 Our model for complementary subspaces, the $$x$$-axis and the $$y$$-axis in $$\mathbb{R}^2$$, has one property not used here. Where $$U$$ is a subspace of $$\mathbb{R}^n$$ we define the **orthogonal complement** of $$U$$ to be
 
@@ -415,15 +416,15 @@ $$
 8. Show that $$\dim(U)+\dim(U^\perp)$$ equals the dimension of the enclosing space.  
 *This exercise is recommended for all readers.*
 
-**Problem 22**  —
+**Problem 22** —
 
 Consider Corollary 4.13. Does it work both ways— that is, supposing that $$V=W_1+\dots+ W_k$$, is $$V=W_1\oplus\dots\oplus W_k$$ if and only if $$\dim(V)=\dim(W_1)+\dots+\dim(W_k)$$?
 
-**Problem 23**  —
+**Problem 23** —
 
 We know that if $$V=W_1\oplus W_2$$ then there is a basis for $$V$$ that splits into a basis for $$W_1$$ and a basis for $$W_2$$. Can we make the stronger statement that every basis for $$V$$ splits into a basis for $$W_1$$ and a basis for $$W_2$$?
 
-**Problem 24**  —
+**Problem 24** —
 
 We can ask about the algebra of the "$$+$$" operation.
 
@@ -433,7 +434,7 @@ We can ask about the algebra of the "$$+$$" operation.
 4. Must there be an identity element, a subspace $$I$$ such that $$I+W=W+I=W$$ for all subspaces $$W$$?
 5. Does left-cancelation hold:if $$W_1+W_2=W_1+W_3$$ then $$W_2=W_3$$? Right cancelation?
 
-**Problem 25**  —
+**Problem 25** —
 
 Consider the algebraic properties of the direct sum operation.
 

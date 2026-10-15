@@ -7,13 +7,13 @@ Consider an economy with many parts, two of which are the steel industry and the
 We start with a listing of production and consumption statistics. (These numbers, giving dollar values in millions, are excerpted from (Leontief 1965), describing the 1958 U.S. economy. Today's statistics would be quite different, both because of inflation and because of technical changes in the industries.)
 
 - *used by*  
-*steel*    *used by*  
-*auto*    *used by*  
-*others*    *total*
+*steel*      *used by*  
+*auto*      *used by*  
+*others*      *total*
 - *value of*  
-*steel*    5 395    2 664      25 448
+*steel*      5 395     2 664      25 448
 - *value of*  
-*auto*    48    9 030      30 346
+*auto*      48     9 030      30 346
 
 For instance, the dollar value of steel used by the auto industry in this year is $$2,664$$ million. Note that industries may consume some of their own output.
 
@@ -64,7 +64,7 @@ Obviously, we can consider larger models that detail the interactions among more
 
 *Hint: these systems are easiest to solve on a computer.*
 
-**Problem 1**  —
+**Problem 1** —
 
 With the steel-auto system given above, estimate next year's total productions in these cases.
 
@@ -72,66 +72,66 @@ With the steel-auto system given above, estimate next year's total productions i
 2. Next year's external demands are: up $$100$$ for steel, and up $$200$$ for autos.
 3. Next year's external demands are: up $$200$$ for steel, and up $$200$$ for autos.
 
-**Problem 2**  —
+**Problem 2** —
 
 In the steel-auto system, the ratio for the use of steel by the auto industry is $$2\,664/30\,346$$, about $$0.0878$$. Imagine that a new process for making autos reduces this ratio to $$.0500$$.
 
 1. How will the predictions for next year's total productions change compared to the first example discussed above (i.e., taking next year's external demands to be $$17,589$$ for steel and $$21,243$$ for autos)?
 2. Predict next year's totals if, in addition, the external demand for autos rises to be $$21,500$$ because the new cars are cheaper.
 
-**Problem 3**  —
+**Problem 3** —
 
 This table gives the numbers for the auto-steel system from a different year, 1947 (see Leontief 1951). The units here are billions of 1947 dollars.
 
 - *used by*  
-*steel*   *used by*  
-*auto*   *used by*  
-*others*   *total*
+*steel*       *used by*  
+*auto*       *used by*  
+*others*      *total*
 - *value of*  
-*steel*   6.90   1.28     18.69
+*steel*      6.90      1.28        18.69
 - *value of*  
-*auto*   0   4.40     14.27
+*auto*      0      4.40        14.27
 
 1. Solve for total output if next year's external demands are: steel's demand up 10% and auto's demand up 15%.
 2. How do the ratios compare to those given above in the discussion for the 1958 economy?
 3. Solve the 1947 equations with the 1958 external demands (note the difference in units; a 1947 dollar buys about what $1.30 in 1958 dollars buys). How far off are the predictions for total output?
 
-**Problem 4**  —
+**Problem 4** —
 
 Predict next year's total productions of each of the three sectors of the hypothetical economy shown below
 
 - *used by*  
-*farm*   *used by*  
-*rail*   *used by*  
-*shipping*   *used by*  
-*others*   *total*
+*farm*       *used by*  
+*rail*       *used by*  
+*shipping*       *used by*  
+*others*      *total*
 - *value of*  
-*farm*   25   50   100     500
+*farm*      25      50      100        500
 - *value of*  
-*rail*   25   50   50     300
+*rail*      25      50      50        300
 - *value of*  
-*shipping*   15   10   0     500
+*shipping*      15      10      0        500
 
 if next year's external demands are as stated.
 
 1. $$625$$ for farm, $$200$$ for rail, $$475$$ for shipping
 2. $$650$$ for farm, $$150$$ for rail, $$450$$ for shipping
 
-**Problem 5**  —
+**Problem 5** —
 
 This table gives the interrelationships among three segments of an economy (see Clark & Coupe 1967).
 
 - *used by*  
-*food*   *used by*  
-*wholesale*   *used by*  
-*retail*   *used by*  
-*others*   *total*
+*food*       *used by*  
+*wholesale*       *used by*  
+*retail*       *used by*  
+*others*      *total*
 - *value of*  
-*food*   0   2 318   4 679     11 869
+*food*      0      2 318      4 679        11 869
 - *value of*  
-*wholesale*   393   1 089   22 459     122 242
+*wholesale*      393      1 089      22 459        122 242
 - *value of*  
-*retail*   3   53   75     116 041
+*retail*      3      53      75        116 041
 
 We will do an Input-Output analysis on this system.
 

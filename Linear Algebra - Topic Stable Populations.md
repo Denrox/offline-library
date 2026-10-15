@@ -44,19 +44,19 @@ So this is one meaning of eigenvalues and eigenvectors— they give a stable sta
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 What initial population for the park discussed above should be set up in the case where world populations are allowed to decline by 11% every year?
 
-**Problem 2**  —
+**Problem 2** —
 
 What will happen to the population of the park in the event of a growth in world population of 1% per year? Will it lag the world growth, or lead it? Assume that the park population is ten thousand, and the world population is one hundred thousand, and calculate over a ten year span.
 
-**Problem 3**  —
+**Problem 3** —
 
 The park discussed above is partially fenced so that now, every year, only 5% of the animals from inside of the park leave (still, about 1% of the animals from the outside find their way in). Under what conditions can the park maintain a stable population now?
 
-**Problem 4**  —
+**Problem 4** —
 
 Suppose that a species of bird only lives in Canada, the United States, or in Mexico. Every year, 4% of the Canadian birds travel to the US, and 1% of them travel to Mexico. Every year, 6% of the US birds travel to Canada, and 4% go to Mexico. From Mexico, every year 10% travel to the US, and 0% go to Canada.
 

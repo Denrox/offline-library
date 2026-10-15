@@ -9,7 +9,7 @@ $$
 
 (To compare this equation with the sentence before it, remember that the equation is read from right to left because function composition is read right to left and matrix multiplication represent the composition.)
 
-**Example 2.1**  —
+**Example 2.1** —
 
 The matrix
 
@@ -58,7 +58,7 @@ $$
 
 to see that it is the same result as above.
 
-**Example 2.2**  —
+**Example 2.2** —
 
 On $$\mathbb{R}^3$$ the map
 
@@ -74,7 +74,7 @@ $$
 
 can also be represented with respect to another basis
 
-if $$B=\langle \begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}, \begin{pmatrix} 1 \\ 1 \\ -2 \end{pmatrix}, \begin{pmatrix} 1 \\ 1 \\ 1 \end{pmatrix} \rangle$$ then $${\rm Rep}_{B,B}(t)= \begin{pmatrix} -1 &0 &0 \\ 0 &-1 &0 \\ 0 &0 &2 \end{pmatrix}$$
+if $$B=\langle \begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}, \begin{pmatrix} 1 \\ 1 \\ -2 \end{pmatrix}, \begin{pmatrix} 1 \\ 1 \\ 1 \end{pmatrix} \rangle$$      then $${\rm Rep}_{B,B}(t)= \begin{pmatrix} -1 &0 &0 \\ 0 &-1 &0 \\ 0 &0 &2 \end{pmatrix}$$
 
 in a way that is simpler, in that the action of a diagonal matrix is easy to understand.
 
@@ -82,24 +82,24 @@ Naturally, we usually prefer basis changes that make the representation easier t
 
 We finish this subsection by considering the easier case where representations are with respect to possibly different starting and ending bases. Recall that the prior subsection shows that a matrix changes bases if and only if it is nonsingular. That gives us another version of the above arrow diagram and equation ($$*$$).
 
-**Definition 2.3**  —
+**Definition 2.3** —
 
 Same-sized matrices $$H$$ and $$\hat{H}$$ are **matrix equivalent** if there are nonsingular matrices $$P$$ and $$Q$$ such that $$\hat{H}=PHQ$$.
 
-**Corollary 2.4**  —
+**Corollary 2.4** —
 
 Matrix equivalent matrices represent the same map, with respect to appropriate pairs of bases.
 
 Problem 10 checks that matrix equivalence is an equivalence relation. Thus it partitions the set of matrices into matrix equivalence classes.
 
-- All matrices:     $$H$$ matrix equivalent  
+- All matrices:    $$H$$ matrix equivalent  
 to $$\hat{H}$$
 
 We can get some insight into the classes by comparing matrix equivalence with row equivalence (recall that matrices are row equivalent when they can be reduced to each other by row operations). In $$\hat{H}=PHQ$$, the matrices $$P$$ and $$Q$$ are nonsingular and thus each can be written as a product of elementary reduction matrices (see Lemma 4.8 in the previous subsection). Left-multiplication by the reduction matrices making up $$P$$ has the effect of performing row operations. Right-multiplication by the reduction matrices making up $$Q$$ performs column operations. Therefore, matrix equivalence is a generalization of row equivalence— two matrices are row equivalent if one can be converted to the other by a sequence of row reduction steps, while two matrices are matrix equivalent if one can be converted to the other by a sequence of row reduction steps followed by a sequence of column reduction steps.
 
 Thus, if matrices are row equivalent then they are also matrix equivalent (since we can take $$Q$$ to be the identity matrix and so perform no column operations). The converse, however, does not hold.
 
-**Example 2.5**  —
+**Example 2.5** —
 
 These two
 
@@ -111,7 +111,7 @@ are matrix equivalent because the second can be reduced to the first by the colu
 
 We will close this section by finding a set of representatives for the matrix equivalence classes.
 
-**Theorem 2.6**  —
+**Theorem 2.6** —
 
 Any $$m \! \times \! n$$ matrix of rank $$k$$ is matrix equivalent to the $$m \! \times \! n$$ matrix that is all zeros except that the first $$k$$ diagonal entries are ones.
 
@@ -125,11 +125,11 @@ $$
 \left(\begin{array}{c|c} I &Z \\ \hline Z &Z \end{array}\right)
 $$
 
-**Proof**  —
+**Proof** —
 
 As discussed above, Gauss-Jordan reduce the given matrix and combine all the reduction matrices used there to make $$P$$. Then use the leading entries to do column reduction and finish by swapping columns to put the leading ones on the diagonal. Combine the reduction matrices used for those column operations into $$Q$$.
 
-**Example 2.7**  —
+**Example 2.7** —
 
 We illustrate the proof by finding the $$P$$ and $$Q$$ for this matrix.
 
@@ -161,15 +161,15 @@ $$
 \begin{pmatrix} 1 &-1 &0 \\ 0 &1 &0 \\ -2 &0 &1 \end{pmatrix} \begin{pmatrix} 1 &2 &1 &-1 \\ 0 &0 &1 &-1 \\ 2 &4 &2 &-2 \end{pmatrix} \begin{pmatrix} 1 &0 &-2 &0 \\ 0 &0 &1 &0 \\ 0 &1 &0 &1 \\ 0 &0 &0 &1 \end{pmatrix} = \begin{pmatrix} 1 &0 &0 &0 \\ 0 &1 &0 &0 \\ 0 &0 &0 &0 \end{pmatrix}
 $$
 
-**Corollary 2.8**  —
+**Corollary 2.8** —
 
 Two same-sized matrices are matrix equivalent if and only if they have the same rank. That is, the matrix equivalence classes are characterized by rank.
 
-**Proof**  —
+**Proof** —
 
 Two same-sized matrices with the same rank are equivalent to the same block partial-identity matrix.
 
-**Example 2.9**  —
+**Example 2.9** —
 
 The $$2 \! \times \! 2$$ matrices have only three possible ranks: zero, one, or two. Thus there are three matrix-equivalence classes.  
 All $$2 \! \times \! 2$$ matrices:  Three equivalence  
@@ -196,7 +196,7 @@ Of course, "understanding" a map expressed in this way requires that we understa
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if these matrices are matrix equivalent.
 
@@ -205,14 +205,14 @@ Decide if these matrices are matrix equivalent.
 3. $$\begin{pmatrix} 1 &3 \\ 2 &6 \end{pmatrix}$$, $$\begin{pmatrix} 1 &3 \\ 2 &-6 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Find the canonical representative of the matrix-equivalence class of each matrix.
 
 1. $$\begin{pmatrix} 2 &1 &0 \\ 4 &2 &0 \end{pmatrix}$$
 2. $$\begin{pmatrix} 0 &1 &0 &2 \\ 1 &1 &0 &4 \\ 3 &3 &3 &-1 \end{pmatrix}$$
 
-**Problem 3**  —
+**Problem 3** —
 
 Suppose that, with respect to
 
@@ -232,56 +232,56 @@ Use change of basis matrices to represent $$t$$ with respect to each pair.
 2. $$\hat{B}=\langle \begin{pmatrix} 1 \\ 2 \end{pmatrix},\begin{pmatrix} 1 \\ 0 \end{pmatrix} \rangle$$, $$\hat{D}=\langle \begin{pmatrix} 1 \\ 2 \end{pmatrix},\begin{pmatrix} 2 \\ 1 \end{pmatrix} \rangle$$  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 What sizes are $$P$$ and $$Q$$ in the equation $$\hat{H}=PHQ$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 Use Theorem 2.6 to show that a square matrix is nonsingular if and only if it is equivalent to an identity matrix.  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Show that, where $$A$$ is a nonsingular square matrix, if $$P$$ and $$Q$$ are nonsingular square matrices such that $$PAQ=I$$ then $$QP=A^{-1}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 7**  —
+**Problem 7** —
 
 Why does Theorem 2.6 not show that every matrix is diagonalizable (see Example 2.2)?
 
-**Problem 8**  —
+**Problem 8** —
 
 Must matrix equivalent matrices have matrix equivalent transposes?
 
-**Problem 9**  —
+**Problem 9** —
 
 What happens in Theorem 2.6 if $$k=0$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 Show that matrix-equivalence is an equivalence relation.  
 *This exercise is recommended for all readers.*
 
-**Problem 11**  —
+**Problem 11** —
 
 Show that a zero matrix is alone in its matrix equivalence class. Are there other matrices like that?
 
-**Problem 12**  —
+**Problem 12** —
 
 What are the matrix equivalence classes of matrices of transformations on $$\mathbb{R}^1$$? $$\mathbb{R}^3$$?
 
-**Problem 13**  —
+**Problem 13** —
 
 How many matrix equivalence classes are there?
 
-**Problem 14**  —
+**Problem 14** —
 
 Are matrix equivalence classes closed under scalar multiplication? Addition?
 
-**Problem 15**  —
+**Problem 15** —
 
 Let $$t:\mathbb{R}^n\to \mathbb{R}^n$$ represented by $$T$$ with respect to $$\mathcal{E}_n,\mathcal{E}_n$$.
 
@@ -293,12 +293,12 @@ $$
 
 2. Describe $${\rm Rep}_{B,B}(t)$$ in the general case where $$B=\langle\vec{\beta}_1,\ldots,\vec{\beta}_n\rangle$$.
 
-**Problem 16**  —
+**Problem 16** —
 
 1. Let $$V$$ have bases $$B_1$$ and $$B_2$$ and suppose that $$W$$ has the basis $$D$$. Where $$h:V\to W$$, find the formula that computes $${\rm Rep}_{B_2,D}(h)$$ from $${\rm Rep}_{B_1,D}(h)$$.
 2. Repeat the prior question with one basis for $$V$$ and two bases for $$W$$.
 
-**Problem 17**  —
+**Problem 17** —
 
 1. If two matrices are matrix-equivalent and invertible, must their inverses be matrix-equivalent?
 2. If two matrices have matrix-equivalent inverses, must the two be matrix-equivalent?
@@ -306,7 +306,7 @@ $$
 4. If two matrices are square and have matrix-equivalent squares, must they be matrix-equivalent?  
 *This exercise is recommended for all readers.*
 
-**Problem 18**  —
+**Problem 18** —
 
 Square matrices are **similar** if they represent the same transformation, but each with respect to the same ending as starting basis. That is, $${\rm Rep}_{B_1,B_1}(t)$$ is similar to $${\rm Rep}_{B_2,B_2}(t)$$.
 

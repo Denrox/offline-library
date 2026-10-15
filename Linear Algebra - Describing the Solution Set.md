@@ -2,7 +2,7 @@
 
 A linear system with a unique solution has a solution set with one element. A linear system with no solution has a solution set that is empty. In these cases the solution set is easy to describe. Solution sets are a challenge to describe only when they contain many elements.
 
-**Example 2.1**  —
+**Example 2.1** —
 
 This system has many solutions because in echelon form
 
@@ -16,13 +16,13 @@ To get a description that is free of any such interaction, we take the variable 
 
 The advantage of this description over the ones above is that the only variable appearing, $$z$$ , is unrestricted — it can be any real number.
 
-**Definition 2.2**  —
+**Definition 2.2** —
 
 The non-leading variables in an echelon-form linear system are **free variables**.
 
 In the echelon form system derived in the above example, $$x$$ and $$y$$ are leading variables and $$z$$ is free.
 
-**Example 2.3**  —
+**Example 2.3** —
 
 A linear system can end with more than one variable free. This row reduction
 
@@ -34,7 +34,7 @@ ends with $$x$$ and $$y$$ leading, and with both $$z$$ and $$w$$ free. To get th
 
 We prefer this description because the only variables that appear, $$z$$ and $$w$$ , are unrestricted. This makes the job of deciding which four-tuples are system solutions into an easy one. For instance, taking $$z=1$$ and $$w=2$$ gives the solution $$(4,-2,1,2)$$ . In contrast, $$(3,-2,1,2)$$ is not a solution, since the first component of any solution must be $$2$$ minus twice the third component plus twice the fourth.
 
-**Example 2.4**  —
+**Example 2.4** —
 
 After this reduction
 
@@ -46,7 +46,7 @@ $$x,z$$ lead, $$y,w$$ are free. The solution set is $$\Big\{(y,y,2-3w,w)\Big|y,w
 
 We refer to a variable used to describe a family of solutions as a **parameter** and we say that the set above is **parametrized** with $$y$$ and $$w$$ . (The terms "parameter" and "free variable" do not mean the same thing. Above, $$y$$ and $$w$$ are free because in the echelon form system they do not lead any row. They are parameters because they are used in the solution set description. We could have instead parametrized with $$y$$ and $$z$$ by rewriting the second equation as $$w=\frac23-\frac13z$$ . In that case, the free variables are still $$y$$ and $$w$$ , but the parameters are $$y$$ and $$z$$ . Notice that we could not have parametrized with $$x$$ and $$y$$ , so there is sometimes a restriction on the choice of parameters. The terms "parameter" and "free" are related because, as we shall show later in this chapter, the solution set of a system can always be parametrized with the free variables. Consequently, we shall parametrize all of our descriptions in this way.)
 
-**Example 2.5**  —
+**Example 2.5** —
 
 This is another system with infinitely many solutions.
 
@@ -58,7 +58,7 @@ The leading variables are $$x,y,w$$ . The variable $$z$$ is free. (Notice here t
 
 We finish this subsection by developing the notation for linear systems and their solution sets that we shall use in the rest of this book.
 
-**Definition 2.6**  —
+**Definition 2.6** —
 
 An $$m\times n$$ **matrix** is a rectangular array of numbers with $$m$$ **rows** and $$n$$ **columns**. Each number in the matrix is an **entry**.
 
@@ -72,7 +72,7 @@ has two rows and three columns, and so is a $$2\times3$$ matrix. (Read that "two
 
 Matrices occur throughout this book. We shall use $$\mathcal{M}_{n\times m}$$ to denote the collection of $$n\times m$$ matrices.
 
-**Example 2.7**  —
+**Example 2.7** —
 
 We can abbreviate this linear system
 
@@ -102,7 +102,7 @@ $$
 
 For instance, the top line says that $$x=2-2z+2w$$ . The next section gives a geometric interpretation that will help us picture the solution sets when they are written in this way.
 
-**Definition 2.8**  —
+**Definition 2.8** —
 
 A **vector** (or **column vector**) is a matrix with a single column. A matrix with a single row is a **row vector**. The entries of a vector are its **components**.
 
@@ -112,7 +112,7 @@ $$
 \vec v=\begin{pmatrix}1\\3\\7\end{pmatrix}
 $$
 
-**Definition 2.9**  —
+**Definition 2.9** —
 
 The linear equation $$a_1x_1+\cdots+a_nx_n=d$$ with unknowns $$x_1,\ldots\,,x_n$$ is **satisfied** by
 
@@ -124,7 +124,7 @@ if $$a_1s_1+\cdots+a_ns_n=d$$ . A vector satisfies a linear system if it satisfi
 
 The style of description of solution sets that we use involves adding the vectors, and also multiplying them by real numbers, such as the $$z$$ and $$w$$ . We need to define these operations.
 
-**Definition 2.10**  —
+**Definition 2.10** —
 
 The **vector sum** of $$\vec u$$ and $$\vec v$$ is this.
 
@@ -134,7 +134,7 @@ $$
 
 In general, two matrices with the same number of rows and the same number of columns add in this way, entry-by-entry.
 
-**Definition 2.11**  —
+**Definition 2.11** —
 
 The **scalar multiplication** of the real number $$r$$ and the vector $$\vec v$$ is this.
 
@@ -146,7 +146,7 @@ In general, any matrix is multiplied by a real number in this entry-by-entry way
 
 Scalar multiplication can be written in either order: $$r\cdot\vec v$$ or $$\vec v\cdot r$$ , or without the "$$\cdot$$" symbol: $$r\vec v$$ . (Do not refer to scalar multiplication as "scalar product" because that name is used for a different operation.)
 
-**Example 2.12**  —
+**Example 2.12** —
 
 $$
 \begin{pmatrix}2\\3\\1\end{pmatrix}+\begin{pmatrix}3\\-1\\4\end{pmatrix}=\begin{pmatrix}2+3\\3-1\\1+4\end{pmatrix}=\begin{pmatrix}5\\2\\5\end{pmatrix} \qquad 7\cdot\begin{pmatrix}1\\4\\-1\\-3\end{pmatrix}=\begin{pmatrix}7\\28\\-7\\-21\end{pmatrix}
@@ -156,7 +156,7 @@ Notice that the definitions of vector addition and scalar multiplication agree w
 
 With the notation defined, we can now solve systems in the way that we will use throughout this book.
 
-**Example 2.13**  —
+**Example 2.13** —
 
 This system
 
@@ -188,7 +188,7 @@ $$
 
 is a particular solution of the linear system.
 
-**Example 2.14**  —
+**Example 2.14** —
 
 In the same way, this system
 
@@ -221,7 +221,7 @@ In the rest of this chapter we answer these questions. The answer to each is "ye
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Find the indicated entry of the matrix, if it is defined.
 
@@ -235,7 +235,7 @@ $$
 4. $$a_{3,1}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Give the size of each matrix.
 
@@ -244,7 +244,7 @@ Give the size of each matrix.
 3. $$\begin{pmatrix} 5 &10 \\ 10 &5 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 Do the indicated vector operation, if it is defined.
 
@@ -256,7 +256,7 @@ Do the indicated vector operation, if it is defined.
 6. $$6\begin{pmatrix} 3 \\ 1 \\ 1 \end{pmatrix} -4\begin{pmatrix} 2 \\ 0 \\ 3 \end{pmatrix} +2\begin{pmatrix} 1 \\ 1 \\ 5 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 Solve each system using matrix notation. Express the solution using vectors.
 
@@ -268,7 +268,7 @@ Solve each system using matrix notation. Express the solution using vectors.
 6. $$\begin{array}{rcrcrcrcr} x & & &+ &z &+ &w &= &4 \\ 2x &+ &y & & &- &w &= &2 \\ 3x &+ &y &+ &z & & &= &7 \end{array}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 Solve each system using matrix notation. Give each solution set in vector notation.
 
@@ -278,7 +278,7 @@ Solve each system using matrix notation. Give each solution set in vector notati
 4. $$\begin{array}{rcrcrcrcrcr} a &+ &2b &+ &3c &+ &d &- &e &= &1 \\ 3a &- &b &+ &c &+ &d &+ &e &= &3 \end{array}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 The vector is in the set. What value of the parameters produces that vector?
 
@@ -286,7 +286,7 @@ The vector is in the set. What value of the parameters produces that vector?
 2. $$\begin{pmatrix} -1 \\ 2 \\ 1 \end{pmatrix}$$, $$\{\begin{pmatrix} -2 \\ 1 \\ 0 \end{pmatrix}i +\begin{pmatrix} 3 \\ 0 \\ 1 \end{pmatrix}j\,\big|\, i,j\in\mathbb{R}\}$$
 3. $$\begin{pmatrix} 0 \\ -4 \\ 2 \end{pmatrix}$$, $$\{\begin{pmatrix} 1 \\ 1 \\ 0 \end{pmatrix}m +\begin{pmatrix} 2 \\ 0 \\ 1 \end{pmatrix}n\,\big|\, m,n\in\mathbb{R}\}$$
 
-**Problem 7**  —
+**Problem 7** —
 
 Decide if the vector is in the set.
 
@@ -295,7 +295,7 @@ Decide if the vector is in the set.
 3. $$\begin{pmatrix} 2 \\ 1 \\ -1 \end{pmatrix}$$, $$\{\begin{pmatrix} 0 \\ 3 \\ -7 \end{pmatrix}+\begin{pmatrix} 1 \\ -1 \\ 3 \end{pmatrix}r\,\big|\, r\in\mathbb{R}\}$$
 4. $$\begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}$$, $$\{\begin{pmatrix} 2 \\ 0 \\ 1 \end{pmatrix}j +\begin{pmatrix} -3 \\ -1 \\ 1 \end{pmatrix}k\,\big|\, j,k\in\mathbb{R}\}$$
 
-**Problem 8**  —
+**Problem 8** —
 
 Parametrize the solution set of this one-equation system.
 
@@ -305,7 +305,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 1. Apply Gauss' method to the left-hand side to solve
 
@@ -314,6 +314,7 @@ $$
 $$
 
 for $$x$$, $$y$$, $$z$$, and $$w$$, in terms of the constants $$a$$, $$b$$, and $$c$$. Note that $$w$$ will be a free variable.
+
 2. Use your answer from the prior part to solve this.
 
 $$
@@ -322,19 +323,19 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 Why is the comma needed in the notation "$$a_{i,j}$$" for matrix entries?  
 *This exercise is recommended for all readers.*
 
-**Problem 11**  —
+**Problem 11** —
 
 Give the $$4 \! \times \! 4$$ matrix whose $$i,j$$-th entry is
 
 1. $$i+j$$;
 2. $$-1$$ to the $$i+j$$ power.
 
-**Problem 12**  —
+**Problem 12** —
 
 For any matrix $$A$$, the **transpose** of $$A$$, written $${{A}^{\rm trans}}$$, is the matrix whose columns are the rows of $$A$$. Find the transpose of each of these.
 
@@ -344,16 +345,16 @@ For any matrix $$A$$, the **transpose** of $$A$$, written $${{A}^{\rm trans}}$$,
 4. $$\begin{pmatrix} 1 \\ 1 \\ 0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 13**  —
+**Problem 13** —
 
 1. Describe all functions $$f(x)=ax^2+bx+c$$ such that $$f(1)=2$$ and $$f(-1)=6$$.
 2. Describe all functions $$f(x)=ax^2+bx+c$$ such that $$f(1)=2$$.
 
-**Problem 14**  —
+**Problem 14** —
 
 Show that any set of five points from the plane $$\mathbb{R}^2$$ lie on a common conic section, that is, they all satisfy some equation of the form $$ax^2+by^2+cxy+dx+ey+f=0$$ where some of $$a,\,\ldots\,,f$$ are nonzero.
 
-**Problem 15**  —
+**Problem 15** —
 
 Make up a four equations/four unknowns system having
 
@@ -361,7 +362,7 @@ Make up a four equations/four unknowns system having
 2. a two-parameter solution set;
 3. a three-parameter solution set.
 
-**? Problem 16**  —
+**? Problem 16** —
 
 1. Solve the system of equations.
 
@@ -370,6 +371,7 @@ $$
 $$
 
 For what values of $$a$$ does the system fail to have solutions, and for what values of $$a$$ are there infinitely many solutions?
+
 2. Answer the above question for the system.
 
 $$
@@ -378,7 +380,7 @@ $$
 
 *(USSR Olympiad #174)*
 
-**? Problem 17**  —
+**? Problem 17** —
 
 In air a gold-surfaced sphere weighs $$7588$$ grams. It is known that it may contain one or more of the metals aluminum, copper, silver, or lead. When weighed successively under standard conditions in water, benzene, alcohol, and glycerine its respective weights are $$6588$$, $$6688$$, $$6778$$, and $$6328$$ grams. How much, if any, of the forenamed metals does it contain if the specific gravities of the designated substances are taken to be as follows?
 

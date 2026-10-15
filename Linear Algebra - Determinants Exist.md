@@ -30,7 +30,7 @@ $$
 
 Both reductions have an odd number of swaps so we figure that $$\left|P_{\phi}\right|=-1$$ but how do we know that there isn't some way to do it with an even number of swaps? Corollary 4.6 below proves that there is no permutation matrix that can be row-swapped to an identity matrix in two ways, one with an even number of swaps and the other with an odd number of swaps.
 
-**Definition 4.1**  —
+**Definition 4.1** —
 
 Two rows of a permutation matrix
 
@@ -40,7 +40,7 @@ $$
 
 such that $$k>j$$ are in an **inversion** of their natural order.
 
-**Example 4.2**  —
+**Example 4.2** —
 
 This permutation matrix
 
@@ -50,11 +50,11 @@ $$
 
 has three inversions: $$\iota_3$$ precedes $$\iota_1$$, $$\iota_3$$ precedes $$\iota_2$$, and $$\iota_2$$ precedes $$\iota_1$$.
 
-**Lemma 4.3**  —
+**Lemma 4.3** —
 
 A row-swap in a permutation matrix changes the number of inversions from even to odd, or from odd to even.
 
-**Proof**  —
+**Proof** —
 
 Consider a swap of rows $$j$$ and $$k$$, where $$k>j$$. If the two rows are adjacent
 
@@ -78,19 +78,19 @@ $$
 
 Each of these adjacent swaps changes the number of inversions from odd to even or from even to odd. There are an odd number $$(k-j)+(k-j-1)$$ of them. The total change in the number of inversions is from even to odd or from odd to even.
 
-**Definition 4.4**  —
+**Definition 4.4** —
 
 The **signum** of a permutation $$\operatorname{sgn}(\phi)$$ is $$+1$$ if the number of inversions in $$P_\phi$$ is even, and is $$-1$$ if the number of inversions is odd.
 
-**Example 4.5**  —
+**Example 4.5** —
 
 With the subscripts from [Example 3.8](Linear%20Algebra%20-%20The%20Permutation%20Expansion.md) for the $$3$$-permutations, $$\operatorname{sgn}(\phi_1)=1$$ while $$\operatorname{sgn}(\phi_2)=-1$$.
 
-**Corollary 4.6**  —
+**Corollary 4.6** —
 
 If a permutation matrix has an odd number of inversions then swapping it to the identity takes an odd number of swaps. If it has an even number of inversions then swapping to the identity takes an even number of swaps.
 
-**Proof**  —
+**Proof** —
 
 The identity matrix has zero inversions. To change an odd number to zero requires an odd number of swaps, and to change an even number to zero requires an even number of swaps.
 
@@ -102,11 +102,11 @@ $$
 
 (this gives the same value as the permutation expansion because the prior result shows that $$\det(P_\phi)=\operatorname{sgn}(\phi)$$). This formula's advantage is that the number of inversions is clearly well-defined — just count them. Therefore, we will show that a determinant function exists for all sizes by showing that $$d$$ is it, that is, that $$d$$ satisfies the four conditions.
 
-**Lemma 4.7**  —
+**Lemma 4.7** —
 
 The function $$d$$ is a determinant. Hence determinants exist for every $$n$$.
 
-**Proof**  —
+**Proof** —
 
 We'll must check that it has the four properties from the definition.
 
@@ -162,7 +162,7 @@ We have now shown that determinant functions exist for each size. We already kno
 
 We end this subsection by proving the other result remaining from the prior subsection, that the determinant of a matrix equals the determinant of its transpose.
 
-**Example 4.8**  —
+**Example 4.8** —
 
 Writing out the permutation expansion of the general $$3 \! \times \! 3$$ matrix and of its transpose, and comparing corresponding terms
 
@@ -178,11 +178,11 @@ $$
 
 shows that the corresponding permutation matrices are transposes. That is, there is a relationship between these corresponding permutations. Problem 6 shows that they are inverses.
 
-**Theorem 4.9**  —
+**Theorem 4.9** —
 
 The determinant of a matrix equals the determinant of its transpose.
 
-**Proof**  —
+**Proof** —
 
 Call the matrix $$T$$ and denote the entries of $${{T}^{\rm trans}}$$ with $$s$$'s so that $$t_{i,j}=s_{j,i}$$. Substitution gives this
 
@@ -212,12 +212,12 @@ $$
 \begin{array}{c|cc} i &1 &2 \\ \hline \phi_1(i) &1 &2 \\ \phi_2(i) &2 &1 \end{array} \qquad \begin{array}{c|ccc} i &1 &2 &3 \\ \hline \phi_1(i) &1 &2 &3 \\ \phi_2(i) &1 &3 &2 \\ \phi_3(i) &2 &1 &3 \\ \phi_4(i) &2 &3 &1 \\ \phi_5(i) &3 &1 &2 \\ \phi_6(i) &3 &2 &1 \end{array}
 $$
 
-**Problem 1**  —
+**Problem 1** —
 
 Give the permutation expansion of a general $$2 \! \times \! 2$$ matrix and its transpose.  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 *This problem appears also in the prior subsection.*
 
@@ -225,16 +225,16 @@ Give the permutation expansion of a general $$2 \! \times \! 2$$ matrix and its 
 2. Find the inverse of each $$3$$-permutation.  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 1. Find the signum of each $$2$$-permutation.
 2. Find the signum of each $$3$$-permutation.
 
-**Problem 4**  —
+**Problem 4** —
 
 What is the signum of the $$n$$-permutation $$\phi=\langle n,n-1,\dots,2,1 \rangle$$? (Strang 1980)
 
-**Problem 5**  —
+**Problem 5** —
 
 Prove these.
 
@@ -242,17 +242,17 @@ Prove these.
 2. $$\operatorname{sgn}(\phi^{-1})=\operatorname{sgn}(\phi)$$
 3. Every permutation is the inverse of another.
 
-**Problem 6**  —
+**Problem 6** —
 
 Prove that the matrix of the permutation inverse is the transpose of the matrix of the permutation $$P_{\phi^{-1}}={{P_{\phi}}^{\rm trans}}$$, for any permutation $$\phi$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 7**  —
+**Problem 7** —
 
 Show that a permutation matrix with $$m$$ inversions can be row swapped to the identity in $$m$$ steps. Contrast this with Corollary 4.6.  
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 For any permutation $$\phi$$ let $$g(\phi)$$ be the integer defined in this way.
 

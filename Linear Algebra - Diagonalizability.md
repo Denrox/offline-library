@@ -4,11 +4,11 @@ The prior subsection defines the relation of similarity and shows that, although
 
 We are developing a canonical form for representatives of the similarity classes. We naturally try to build on our previous work, meaning first that the partial identity matrices should represent the similarity classes into which they fall, and beyond that, that the representatives should be as simple as possible. The simplest extension of the partial-identity form is a diagonal form.
 
-**Definition 2.1**  —
+**Definition 2.1** —
 
 A transformation is **diagonalizable** if it has a diagonal representation with respect to the same basis for the codomain as for the domain. A **diagonalizable matrix** is one that is similar to a diagonal matrix: $$T$$ is diagonalizable if there is a nonsingular $$P$$ such that $$PTP^{-1}$$ is diagonal.
 
-**Example 2.2**  —
+**Example 2.2** —
 
 The matrix
 
@@ -22,7 +22,7 @@ $$
 \begin{pmatrix} 2 &0 \\ 0 &3 \end{pmatrix} = \begin{pmatrix} -1 &2 \\ 1 &-1 \end{pmatrix} \begin{pmatrix} 4 &-2 \\ 1 &1 \end{pmatrix} \begin{pmatrix} -1 &2 \\ 1 &-1 \end{pmatrix}^{-1}
 $$
 
-**Example 2.3**  —
+**Example 2.3** —
 
 Not every matrix is diagonalizable. The square of
 
@@ -34,11 +34,11 @@ is the zero matrix. Thus, for any map $$n$$ that $$N$$ represents (with respect 
 
 That example shows that a diagonal form will not do for a canonical form— we cannot find a diagonal matrix in each matrix similarity class. However, the canonical form that we are developing has the property that if a matrix can be diagonalized then the diagonal matrix is the canonical representative of the similarity class. The next result characterizes which maps can be diagonalized.
 
-**Corollary 2.4**  —
+**Corollary 2.4** —
 
 A transformation $$t$$ is diagonalizable if and only if there is a basis $$B=\langle \vec{\beta}_1,\ldots,\vec{\beta}_n \rangle$$ and scalars $$\lambda_1,\ldots,\lambda_n$$ such that $$t(\vec{\beta}_i)=\lambda_i\vec{\beta}_i$$ for each $$i$$.
 
-**Proof**  —
+**Proof** —
 
 This follows from the definition by considering a diagonal representation matrix.
 
@@ -48,7 +48,7 @@ $$
 
 This representation is equivalent to the existence of a basis satisfying the stated conditions simply by the definition of matrix representation.
 
-**Example 2.5**  —
+**Example 2.5** —
 
 To diagonalize
 
@@ -116,11 +116,11 @@ In the next subsection, we will expand on that example by considering more close
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Repeat Example 2.5 for the matrix from Example 2.2.
 
-**Problem 2**  —
+**Problem 2** —
 
 Diagonalize these upper triangular matrices.
 
@@ -128,24 +128,24 @@ Diagonalize these upper triangular matrices.
 2. $$\begin{pmatrix} 5 &4 \\ 0 &1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 What form do the powers of a diagonal matrix have?
 
-**Problem 4**  —
+**Problem 4** —
 
 Give two same-sized diagonal matrices that are not similar. Must any two different diagonal matrices come from different similarity classes?
 
-**Problem 5**  —
+**Problem 5** —
 
 Give a nonsingular diagonal matrix. Can a diagonal matrix ever be singular?  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Show that the inverse of a diagonal matrix is the diagonal of the inverses, if no element on that diagonal is zero. What happens when a diagonal entry is zero?
 
-**Problem 7**  —
+**Problem 7** —
 
 The equation ending Example 2.5
 
@@ -163,11 +163,11 @@ $$
 
 2. Is the previous item a coincidence? Or can we always switch the $$P$$ and the $$P^{-1}$$?
 
-**Problem 8**  —
+**Problem 8** —
 
 Show that the $$P$$ used to diagonalize in Example 2.5 is not unique.
 
-**Problem 9**  —
+**Problem 9** —
 
 Find a formula for the powers of this matrix *Hint*: see Problem 3.
 
@@ -177,19 +177,19 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 Diagonalize these.
 
 1. $$\begin{pmatrix} 1 &1 \\ 0 &0 \end{pmatrix}$$
 2. $$\begin{pmatrix} 0 &1 \\ 1 &0 \end{pmatrix}$$
 
-**Problem 11**  —
+**Problem 11** —
 
 We can ask how diagonalization interacts with the matrix operations. Assume that $$t,s:V\to V$$ are each diagonalizable. Is $$ct$$ diagonalizable for all scalars $$c$$? What about $$t+s$$? $$t\circ s$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 12**  —
+**Problem 12** —
 
 Show that matrices of this form are not diagonalizable.
 
@@ -197,7 +197,7 @@ $$
 \begin{pmatrix} 1 &c \\ 0 &1 \end{pmatrix} \qquad c\neq 0
 $$
 
-**Problem 13**  —
+**Problem 13** —
 
 Show that each of these is diagonalizable.
 

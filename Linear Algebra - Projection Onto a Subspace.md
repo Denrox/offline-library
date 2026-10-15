@@ -4,7 +4,7 @@
 
 The prior subsections project a vector onto a line by decomposing it into two parts: the part in the line $$\text{proj}_{[\vec{s}\,]}({\vec{v}\,})$$ and the rest $$\vec{v}-\text{proj}_{[\vec{s}\,]}({\vec{v}\,})$$. To generalize projection to arbitrary subspaces, we follow this idea.
 
-**Definition 3.1**  —
+**Definition 3.1** —
 
 For any direct sum $$V=M\oplus N$$ and any $$\vec{v}\in V$$, the **projection of $$\vec{v}$$ onto $$M$$ along $$N$$** is
 
@@ -16,7 +16,7 @@ where $$\vec{v}=\vec{m}+\vec{n}$$ with $$\vec{m}\in M,\,\vec{n}\in N$$.
 
 This definition doesn't involve a sense of "orthogonal" so we can apply it to spaces other than subspaces of an $$\mathbb{R}^n$$. (Definitions of orthogonality for other spaces are perfectly possible, but we haven't seen any in this book.)
 
-**Example 3.2**  —
+**Example 3.2** —
 
 The space $$\mathcal{M}_{2 \! \times \! 2}$$ of $$2 \! \times \! 2$$ matrices is the direct sum of these two.
 
@@ -54,7 +54,7 @@ $$
 \text{proj}_{M,N}({\begin{pmatrix} 3 &1 \\ 0 &4 \end{pmatrix} }) = 3\cdot\begin{pmatrix} 1 &0 \\ 0 &0 \end{pmatrix} +1\cdot\begin{pmatrix} 0 &1 \\ 0 &0 \end{pmatrix} =\begin{pmatrix} 3 &1 \\ 0 &0 \end{pmatrix}
 $$
 
-**Example 3.3**  —
+**Example 3.3** —
 
 Both subscripts on $$\text{proj}_{M,N}({\vec{v}\,})$$ are significant. The first subscript $$M$$ matters because the result of the projection is an $$\vec{m}\in M$$, and changing this subspace would change the possible results. For an example showing that the second subscript matters, fix this plane subspace of $$\mathbb{R}^3$$ and its basis
 
@@ -120,7 +120,7 @@ A natural question is: what is the relationship between the projection operation
 
 In addition to pointing out that projection along a subspace is a generalization, this scheme shows how to define orthogonal projection onto any subspace of $$\mathbb{R}^n$$, of any dimension.
 
-**Definition 3.4**  —
+**Definition 3.4** —
 
 The **orthogonal complement**of a subspace $$M$$ of $$\mathbb{R}^n$$ is
 
@@ -130,7 +130,7 @@ $$
 
 (read "$$M$$ perp"). The **orthogonal projection** $$\text{proj}_{M}({\vec{v}\,})$$ of a vector is its projection onto $$M$$ along $$M^\perp$$.
 
-**Example 3.5**  —
+**Example 3.5** —
 
 In $$\mathbb{R}^3$$, to find the orthogonal complement of the plane
 
@@ -162,7 +162,7 @@ $$
 P^\perp =\{\begin{pmatrix} v_1 \\ v_2 \\ v_3 \end{pmatrix}\,\big|\, \;\begin{array}{rcrcrcr} v_1 & & &+ &3v_3 &= &0 \\ & &v_2 &+ &2v_3 &= &0 \end{array}\; \} =\{k\begin{pmatrix} -3 \\ -2 \\ 1 \end{pmatrix}\,\big|\, k\in\mathbb{R}\}
 $$
 
-**Example 3.6**  —
+**Example 3.6** —
 
 Where $$M$$ is the $$xy$$-plane subspace of $$\mathbb{R}^3$$, what is $$M^\perp$$? A common first reaction is that $$M^\perp$$ is the $$yz$$-plane, but that's not right. Some vectors from the $$yz$$-plane are not perpendicular to every vector in the $$xy$$-plane.
 
@@ -176,11 +176,11 @@ $$
 
 The two examples that we've seen since Definition 3.4 illustrate the first sentence in that definition. The next result justifies the second sentence.
 
-**Lemma 3.7**  —
+**Lemma 3.7** —
 
 Let $$M$$ be a subspace of $$\mathbb{R}^n$$. The orthogonal complement of $$M$$ is also a subspace. The space is the direct sum of the two $$\mathbb{R}^n=M\oplus M^\perp$$. And, for any $$\vec{v}\in\mathbb{R}^n$$, the vector $$\vec{v}-\text{proj}_{M}({\vec{v}\,})$$ is perpendicular to every vector in $$M$$.
 
-**Proof**  —
+**Proof** —
 
 First, the orthogonal complement $$M^\perp$$ is a subspace of $$\mathbb{R}^n$$ because, as noted in the prior two examples, it is a nullspace.
 
@@ -202,11 +202,11 @@ The final sentence is proved in much the same way. Write $$\vec{v}=\text{proj}_{
 
 We can find the orthogonal projection onto a subspace by following the steps of the proof, but the next result gives a convienent formula.
 
-**Theorem 3.8**  —
+**Theorem 3.8** —
 
 Let $$\vec{v}$$ be a vector in $$\mathbb{R}^n$$ and let $$M$$ be a subspace of $$\mathbb{R}^n$$ with basis $$\langle \vec{\beta}_1,\dots,\vec{\beta}_k \rangle$$. If $$A$$ is the matrix whose columns are the $$\vec{\beta}$$'s then $$\text{proj}_{M}({\vec{v}\,})=c_1\vec{\beta}_1+\dots+c_k\vec{\beta}_k$$ where the coefficients $$c_i$$ are the entries of the vector $$({{A}^{\rm trans}}A)^{-1}{{A}^{\rm trans}}\cdot\vec{v}$$. That is, $$\text{proj}_{M}({\vec{v}\,})=A({{A}^{\rm trans}}A)^{-1}{{A}^{\rm trans}}\cdot\vec{v}$$.
 
-**Proof**  —
+**Proof** —
 
 The vector $$\text{proj}_{M}({\vec{v}})$$ is a member of $$M$$ and so it is a linear combination of basis vectors $$c_1\cdot\vec{\beta}_1+\dots+c_k\cdot\vec{\beta}_k$$. Since $$A$$'s columns are the $$\vec{\beta}$$'s, that can be expressed as: there is a $$\vec{c}\in\mathbb{R}^k$$ such that $$\text{proj}_{M}({\vec{v}\,})=A\vec{c}$$ (this is expressed compactly with matrix multiplication as in Example 3.5 and 3.6). Because $$\vec{v}-\text{proj}_{M}({\vec{v}\,})$$ is perpendicular to each member of the basis, we have this (again, expressed compactly).
 
@@ -222,7 +222,7 @@ $$
 
 gives the formula for the projection matrix as $$\text{proj}_{M}({\vec{v}\,})=A\cdot\vec{c}$$.
 
-**Example 3.9**  —
+**Example 3.9** —
 
 To orthogonally project this vector onto this subspace
 
@@ -251,7 +251,7 @@ $$
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Project the vectors onto $$M$$ along $$N$$.
 
@@ -260,7 +260,7 @@ Project the vectors onto $$M$$ along $$N$$.
 3. $$\begin{pmatrix} 3 \\ 0 \\ 1 \end{pmatrix},\quad M=\{\begin{pmatrix} x \\ y \\ z \end{pmatrix}\,\big|\, x+y=0\},\quad N=\{c\cdot\begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}\,\big|\, c\in\mathbb{R}\}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Find $$M^\perp$$.
 
@@ -272,7 +272,7 @@ Find $$M^\perp$$.
 6. $$M=\{\begin{pmatrix} x \\ y \\ z \end{pmatrix}\,\big|\, -x+3y+z=0 \}$$
 7. $$M=\{\begin{pmatrix} x \\ y \\ z \end{pmatrix}\,\big|\, x=0\text{ and } y+z=0\}$$
 
-**Problem 3**  —
+**Problem 3** —
 
 This subsection shows how to project orthogonally in two ways, the method of Example 3.2 and 3.3, and the method of Theorem 3.8. To compare them, consider the plane $$P$$ specified by $$3x+2y-z=0$$ in $$\mathbb{R}^3$$.
 
@@ -288,26 +288,26 @@ $$
 5. Check that against the result from applying Theorem 3.8.  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 We have three ways to find the orthogonal projection of a vector onto a line, the [Definition 1.1](Linear%20Algebra%20-%20Orthogonal%20Projection%20Onto%20a%20Line.md) way from the first subsection of this section, the Example 3.2 and 3.3 way of representing the vector with respect to a basis for the space and then keeping the $$M$$ part, and the way of Theorem 3.8. For these cases, do all three ways.
 
 1. $$\vec{v}=\begin{pmatrix} 1 \\ -3 \end{pmatrix},\quad M=\{\begin{pmatrix} x \\ y \end{pmatrix}\,\big|\, x+y=0\}$$
 2. $$\vec{v}=\begin{pmatrix} 0 \\ 1 \\ 2 \end{pmatrix},\quad M=\{\begin{pmatrix} x \\ y \\ z \end{pmatrix} \,\big|\,x+z=0 \text{ and } y=0\}$$
 
-**Problem 5**  —
+**Problem 5** —
 
 Check that the operation of Definition 3.1 is well-defined. That is, in Example 3.2 and 3.3, doesn't the answer depend on the choice of bases?
 
-**Problem 6**  —
+**Problem 6** —
 
 What is the orthogonal projection onto the trivial subspace?
 
-**Problem 7**  —
+**Problem 7** —
 
 What is the projection of $$\vec{v}$$ onto $$M$$ along $$N$$ if $$\vec{v}\in M$$?
 
-**Problem 8**  —
+**Problem 8** —
 
 Show that if $$M\subseteq\mathbb{R}^n$$ is a subspace with orthonormal basis $$\langle \vec{\kappa}_1,\ldots,\vec{\kappa}_{n}\rangle$$ then the orthogonal projection of $$\vec{v}$$ onto $$M$$ is this.
 
@@ -317,30 +317,30 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 Prove that the map $$p:V\to V$$ is the projection onto $$M$$ along $$N$$ if and only if the map $$\text{id}-p$$ is the projection onto $$N$$ along $$M$$. (Recall the definition of the difference of two maps: $$(\text{id}-p)\,(\vec{v})=\text{id}(\vec{v})-p(\vec{v}) =\vec{v}-p(\vec{v})$$.)  
 *This exercise is recommended for all readers.*
 
-**Problem 10**  —
+**Problem 10** —
 
 Show that if a vector is perpendicular to every vector in a set then it is perpendicular to every vector in the span of that set.
 
-**Problem 11**  —
+**Problem 11** —
 
 True or false: the intersection of a subspace and its orthogonal complement is trivial.
 
-**Problem 12**  —
+**Problem 12** —
 
 Show that the dimensions of orthogonal complements add to the dimension of the entire space.  
 *This exercise is recommended for all readers.*
 
-**Problem 13**  —
+**Problem 13** —
 
 Suppose that $$\vec{v}_1,\vec{v}_2\in\mathbb{R}^n$$ are such that for all complements $$M,N\subseteq\mathbb{R}^n$$, the projections of $$\vec{v}_1$$ and $$\vec{v}_2$$ onto $$M$$ along $$N$$ are equal. Must $$\vec{v}_1$$ equal $$\vec{v}_2$$? (If so, what if we relax the condition to: all orthogonal projections of the two are equal?)  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Let $$M,N$$ be subspaces of $$\mathbb{R}^n$$. The perp operator acts on subspaces; we can ask how it interacts with other such operations.
 
@@ -349,7 +349,7 @@ Let $$M,N$$ be subspaces of $$\mathbb{R}^n$$. The perp operator acts on subspace
 3. Show that $$(M+N)^\perp=M^\perp\cap N^\perp$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 15**  —
+**Problem 15** —
 
 The material in this subsection allows us to express a geometric relationship that we have not yet seen between the rangespace and the nullspace of a linear map.
 
@@ -366,6 +366,7 @@ $$
 $$
 
 is a member of the perp of the nullspace. Prove that $$\mathcal{N}(f)^\perp$$ is equal to the span of this vector.
+
 2. Generalize that to apply to any $$f:\mathbb{R}^n\to \mathbb{R}$$.
 3. Represent $$f:\mathbb{R}^3\to \mathbb{R}^2$$
 
@@ -380,11 +381,12 @@ $$
 $$
 
 are both members of the perp of the nullspace. Prove that $$\mathcal{N}(f)^\perp$$ is the span of these two. (*Hint*. See the third item of Problem 14.)
+
 4. Generalize that to apply to any $$f:\mathbb{R}^n\to \mathbb{R}^m$$.
 
 This, and related results, is called the **Fundamental Theorem of Linear Algebra** in (Strang 1993).
 
-**Problem 16**  —
+**Problem 16** —
 
 Define a **projection** to be a linear transformation $$t:V\to V$$ with the property that repeating the projection does nothing more than does the projection alone: $$(t\circ t)\,(\vec{v})=t(\vec{v})$$ for all $$\vec{v}\in V$$.
 
@@ -397,6 +399,7 @@ t(\vec{\beta}_i)= \begin{cases} \vec{\beta}_i &i=1,2,\dots,\,r \\ \vec{0} &i=r+1
 $$
 
 where $$r$$ is the rank of $$t$$.
+
 4. Conclude that every projection is a projection along a subspace.
 5. Also conclude that every projection has a representation
 
@@ -406,7 +409,7 @@ $$
 
 in block partial-identity form.
 
-**Problem 17**  —
+**Problem 17** —
 
 A square matrix is **symmetric** if each $$i,j$$ entry equals the $$j,i$$ entry (i.e., if the matrix equals its transpose). Show that the projection matrix $$A({{A}^{\rm trans}}A)^{-1}{{A}^{\rm trans}}$$ is symmetric. (Strang 1980) *Hint*. Find properties of transposes by looking in the index under "transpose".
 

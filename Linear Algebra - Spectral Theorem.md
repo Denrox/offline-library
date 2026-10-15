@@ -2,7 +2,7 @@
 
 Given a Hermitian matrix $$A$$, $$A$$ is always diagonalizable. It is also the case that all eigenvalues of $$A$$ are real, and that all eigenvectors are mutually orthogonal. This is given by the "Spectral Theorem":
 
-**The Spectral Theorem**  —
+**The Spectral Theorem** —
 
 Given any $$n \times n$$ Hermitian matrix $$A$$, there exists an $$n \times n$$ unitary matrix $$U$$, and an $$n \times n$$ diagonal matrix of real values $$\Lambda$$ such that $$A = U\Lambda U^H$$
 
@@ -12,15 +12,15 @@ In essence $$A$$ can be decomposed into a "spectrum" of rank 1 projections: $$A 
 
 The spectral theorem can in fact be proven without the need for the characteristic polynomial of $$A$$, or any of the derivative theorems.
 
-**Proof of the Spectral Theorem**  —
+**Proof of the Spectral Theorem** —
 
 The proof will proceed by using induction on $$n$$.
 
-**Base Case $$n = 1$$**  —
+**Base Case $$n = 1$$** —
 
 When $$A = \begin{pmatrix} a_{1,1} \end{pmatrix}$$, it must be the case that $$a_{1,1}$$ is real, or else $$A$$ is not Hermitian. The spectral decomposition is then simply $$A = \begin{pmatrix} 1 \end{pmatrix}\begin{pmatrix} a_{1,1} \end{pmatrix}\begin{pmatrix} 1 \end{pmatrix}^H$$
 
-**Inductive Case $$n \geq 2$$**  —
+**Inductive Case $$n \geq 2$$** —
 
 Let $$\vec{e}_i$$ denote the $$i^\text{th}$$ standard basis vector of $$\Complex^n$$. Let $$\mathbf{0}_{k \times m}$$ denote a $$k \times m$$ matrix of 0s.
 

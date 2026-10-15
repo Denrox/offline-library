@@ -1,12 +1,12 @@
 # Basis
 
-**Definition 1.1**  —
+**Definition 1.1** —
 
 A **basis** for a vector space is a sequence of vectors that form a set that is linearly independent and that spans the space.
 
 We denote a basis with angle brackets $$\langle\vec{\beta_1},\vec{\beta_2},\dots\rangle$$ to signify that this collection is a sequence — the order of the elements is significant. (The requirement that a basis be ordered will be needed, for instance, in Definition 1.13.)
 
-**Example 1.2**  —
+**Example 1.2** —
 
 This is a basis for $$\R^2$$ .
 
@@ -26,7 +26,7 @@ $$
 \begin{array}{rcrcr} 2c_1 &+ &1c_2 &= &x \\ 4c_1 &+ &1c_2 &= &y \end{array} \quad\implies\quad c_2=2x-y\text{ and } c_1=\frac{y-x}{2}
 $$
 
-**Example 1.3**  —
+**Example 1.3** —
 
 This basis for $$\R^2$$
 
@@ -36,7 +36,7 @@ $$
 
 differs from the prior one because the vectors are in a different order. The verification that it is a basis is just as in the prior example.
 
-**Example 1.4**  —
+**Example 1.4** —
 
 The space $$\R^2$$ has many bases. Another one is this.
 
@@ -46,7 +46,7 @@ $$
 
 The verification is easy.
 
-**Definition 1.5**  —
+**Definition 1.5** —
 
 For any $$\R^n$$ ,
 
@@ -57,7 +57,7 @@ $$
 is the **standard** (or **natural**) basis. We denote these vectors by $$\vec{e_1},\dots,\vec{e_n}$$ .  
 (Calculus books refer to $$\mathbb{R}^2$$'s standard basis vectors $$\vec{\imath}$$ and $$\vec{\jmath}$$ instead of $$\vec{e}_1$$ and $$\vec{e}_2$$, and they refer to $$\mathbb{R}^3$$'s standard basis vectors $$\vec{\imath}$$, $$\vec{\jmath}$$, and $$\vec{k}$$ instead of $$\vec{e}_1$$, $$\vec{e}_2$$, and $$\vec{e}_3$$.) Note that the symbol "$$\vec{e}_1$$" means something different in a discussion of $$\mathbb{R}^3$$ than it means in a discussion of $$\mathbb{R}^2$$.
 
-**Example 1.6**  —
+**Example 1.6** —
 
 Consider the space $$\{a\cdot\cos\theta+b\cdot\sin\theta\,\big|\, a,b\in\mathbb{R}\}$$ of functions of the real variable $$\theta$$.
 
@@ -67,19 +67,19 @@ $$
 
 Another basis is $$\langle \cos\theta-\sin\theta, 2\cos\theta+3\sin\theta \rangle$$. Verification that these two are bases is Problem 7.
 
-**Example 1.7**  —
+**Example 1.7** —
 
 A natural for the vector space of cubic polynomials $$\mathcal{P}_3$$ is $$\langle 1,x,x^2,x^3 \rangle$$. Two other bases for this space are $$\langle x^3,3x^2,6x,6 \rangle$$ and $$\langle 1,1+x,1+x+x^2,1+x+x^2+x^3 \rangle$$. Checking that these are linearly independent and span the space is easy.
 
-**Example 1.8**  —
+**Example 1.8** —
 
 The trivial space $$\{\vec{0}\}$$ has only one basis, the empty one $$\langle \rangle$$.
 
-**Example 1.9**  —
+**Example 1.9** —
 
 The space of finite-degree polynomials has a basis with infinitely many elements $$\langle 1,x,x^2,\ldots \rangle$$.
 
-**Example 1.10**  —
+**Example 1.10** —
 
 We have seen bases before. In the first chapter we described the solution set of homogeneous systems such as this one
 
@@ -95,7 +95,7 @@ $$
 
 That is, we described the vector space of solutions as the span of a two-element set. We can easily check that this two-vector set is also linearly independent. Thus the solution set is a subspace of $$\mathbb{R}^4$$ with a two-element basis.
 
-**Example 1.11**  —
+**Example 1.11** —
 
 Parameterization helps find bases for other vector spaces, not just for solution sets of homogeneous systems. To find a basis for this subspace of $$\mathcal{M}_{2 \! \times \! 2}$$
 
@@ -125,13 +125,13 @@ The second verification, that the set spans the space, looks at linear combinati
 
 That is, the first calculation is a special case of the second. The next result says that this holds in general for a spanning set: the combination totaling to the zero vector is unique if and only if the combination totaling to any vector is unique.
 
-**Theorem 1.12**  —
+**Theorem 1.12** —
 
 In any vector space, a subset is a basis if and only if each vector in the space can be expressed as a linear combination of elements of the subset in a unique way.
 
 We consider combinations to be the same if they differ only in the order of summands or in the addition or deletion of terms of the form "$$0\cdot\vec{\beta}$$".
 
-**Proof**  —
+**Proof** —
 
 By definition, a sequence is a basis if and only if its vectors form both a spanning set and a linearly independent set. A subset is a spanning set if and only if each vector in the space is a linear combination of elements of that subset in at least one way.
 
@@ -149,7 +149,7 @@ $$
 
 holds, and so asserting that each coefficient in the lower equation is zero is the same thing as asserting that $$c_i=d_i$$ for each $$i$$.
 
-**Definition 1.13**  —
+**Definition 1.13** —
 
 In a vector space with basis $$B$$ the **representation of $$\vec{v}$$ with respect to $$B$$** is the column vector of the coefficients used to express $$\vec{v}$$ as a linear combination of the basis vectors:
 
@@ -161,7 +161,7 @@ where $$B=\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$ and $$\vec{v}=c_1\
 
 We will later do representations in contexts that involve more than one basis. To help with the bookkeeping, we shall often attach a subscript $$B$$ to the column vector.
 
-**Example 1.14**  —
+**Example 1.14** —
 
 In $$\mathcal{P}_3$$, with respect to the basis $$B=\langle 1,2x,2x^2,2x^3 \rangle$$, the representation of $$x+x^2$$ is
 
@@ -177,7 +177,7 @@ $$
 
 is different.
 
-**Remark 1.15**  —
+**Remark 1.15** —
 
 This use of column notation and the term "coordinates" has both a down side and an up side.
 
@@ -212,7 +212,7 @@ Our main use of representations will come in the third chapter. The definition a
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if each is a basis for $$\mathbb{R}^3$$.
 
@@ -222,7 +222,7 @@ Decide if each is a basis for $$\mathbb{R}^3$$.
 4. $$\langle \begin{pmatrix} 0 \\ 2 \\ -1 \end{pmatrix}, \begin{pmatrix} 1 \\ 1 \\ 1 \end{pmatrix}, \begin{pmatrix} 1 \\ 3 \\ 0 \end{pmatrix} \rangle$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Represent the vector with respect to the basis.
 
@@ -230,11 +230,11 @@ Represent the vector with respect to the basis.
 2. $$x^2+x^3$$, $$D=\langle 1,1+x,1+x+x^2,1+x+x^2+x^3 \rangle \subseteq\mathcal{P}_3$$
 3. $$\begin{pmatrix} 0 \\ -1 \\ 0 \\ 1 \end{pmatrix}$$, $$\mathcal{E}_4\subseteq\mathbb{R}^4$$
 
-**Problem 3**  —
+**Problem 3** —
 
 Find a basis for $$\mathcal{P}_2$$, the space of all quadratic polynomials. Must any such basis contain a polynomial of each degree:~degree zero, degree one, and degree two?
 
-**Problem 4**  —
+**Problem 4** —
 
 Find a basis for the solution set of this system.
 
@@ -244,12 +244,12 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 Find a basis for $$\mathcal{M}_{2 \! \times \! 2}$$, the space of $$2 \! \times \! 2$$ matrices.  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Find a basis for each.
 
@@ -261,12 +261,12 @@ $$
 \{\begin{pmatrix} a &b \\ 0 &c \end{pmatrix} \,\big|\, c-2b=0\}
 $$
 
-**Problem 7**  —
+**Problem 7** —
 
 Check Example 1.6.  
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 Find the span of each set and then find a basis for that span.
 
@@ -274,7 +274,7 @@ Find the span of each set and then find a basis for that span.
 2. $$\{2-2x,3+4x^2\}$$ in $$\mathcal{P}_2$$  
 *This exercise is recommended for all readers.*
 
-**Problem 9**  —
+**Problem 9** —
 
 Find a basis for each of these subspaces of the space $$\mathcal{P}_3$$ of cubic polynomials.
 
@@ -283,23 +283,23 @@ Find a basis for each of these subspaces of the space $$\mathcal{P}_3$$ of cubic
 3. The subspace of polynomials $$p(x)$$ such that $$p(7)=0$$, $$p(5)=0$$, and~$$p(3)=0$$
 4. The space of polynomials $$p(x)$$ such that $$p(7)=0$$, $$p(5)=0$$, $$p(3)=0$$, and~$$p(1)=0$$
 
-**Problem 10**  —
+**Problem 10** —
 
 We've seen that it is possible for a basis to remain a basis when it is reordered. Must it *always* remain a basis?
 
-**Problem 11**  —
+**Problem 11** —
 
 Can a basis contain a zero vector?  
 *This exercise is recommended for all readers.*
 
-**Problem 12**  —
+**Problem 12** —
 
 Let $$\langle \vec{\beta}_1,\vec{\beta}_2,\vec{\beta}_3 \rangle$$ be a basis for a vector space.
 
 1. Show that $$\langle c_1\vec{\beta}_1,c_2\vec{\beta}_2,c_3\vec{\beta}_3 \rangle$$ is a basis when $$c_1, c_2, c_3\neq 0$$. What happens when at least one $$c_i$$ is $$0$$?
 2. Prove that $$\langle \vec{\alpha}_1,\vec{\alpha}_2,\vec{\alpha}_3 \rangle$$ is a basis where $$\vec{\alpha}_i=\vec{\beta}_1+\vec{\beta}_i$$.
 
-**Problem 13**  —
+**Problem 13** —
 
 Find one vector $$\vec{v}$$ that will make each into a basis for the space.
 
@@ -308,7 +308,7 @@ Find one vector $$\vec{v}$$ that will make each into a basis for the space.
 3. $$\langle x,1+x^2,\vec{v} \rangle$$ in $$\mathcal{P}_2$$  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Where $$\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$ is a basis, show that in this equation
 
@@ -318,16 +318,16 @@ $$
 
 each of the $$c_i$$'s is zero. Generalize.
 
-**Problem 15**  —
+**Problem 15** —
 
 A basis contains some of the vectors from a vector space; can it contain them all?
 
-**Problem 16**  —
+**Problem 16** —
 
 Theorem 1.12 shows that, with respect to a basis, every linear combination is unique. If a subset is not a basis, can linear combinations be not unique? If so, must they be?  
 *This exercise is recommended for all readers.*
 
-**Problem 17**  —
+**Problem 17** —
 
 A square matrix is **symmetric** if for all indices $$i$$ and $$j$$, entry $$i,j$$ equals entry $$j,i$$.
 
@@ -336,14 +336,14 @@ A square matrix is **symmetric** if for all indices $$i$$ and $$j$$, entry $$i,j
 3. Find a basis for the space of symmetric $$n \! \times \! n$$ matrices.  
 *This exercise is recommended for all readers.*
 
-**Problem 18**  —
+**Problem 18** —
 
 We can show that every basis for $$\mathbb{R}^3$$ contains the same number of vectors.
 
 1. Show that no linearly independent subset of $$\mathbb{R}^3$$ contains more than three vectors.
 2. Show that no spanning subset of $$\mathbb{R}^3$$ contains fewer than three vectors. (*Hint.* Recall how to calculate the span of a set and show that this method, when applied to two vectors, cannot yield all of $$\mathbb{R}^3$$.)
 
-**Problem 19**  —
+**Problem 19** —
 
 One of the exercises in the Subspaces subsection shows that the set
 

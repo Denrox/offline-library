@@ -64,15 +64,15 @@ where $$\Pi_1=m_1m_2^{p_2}\cdots m_k^{p_k}$$ is dimensionless and the products $
 
 For example, consider again the formula for a pendulum's period.
 
-- *quantity*   *dimensional*
+- *quantity*       *dimensional*
 
 *formula*
 
-- period $$p$$   $$L^0M^0T^1$$
-- length of string $$\ell$$   $$L^1M^0T^0$$
-- mass of bob $$m$$   $$L^0M^1T^0$$
-- acceleration due to gravity $$g$$   $$L^1M^0T^{-2}$$
-- arc of swing $$\theta$$   $$L^0M^0T^0$$
+- period $$p$$      $$L^0M^0T^1$$
+- length of string $$\ell$$      $$L^1M^0T^0$$
+- mass of bob $$m$$      $$L^0M^1T^0$$
+- acceleration due to gravity $$g$$      $$L^1M^0T^{-2}$$
+- arc of swing $$\theta$$      $$L^0M^0T^0$$
 
 By the first fact cited above, we expect the formula to have (possibly sums of terms of) the form $$p^{p_1}\ell^{p_2}m^{p_3}g^{p_4}\theta^{p_5}$$. To use the second fact, to find which combinations of the powers $$p_1$$, ..., $$p_5$$ yield dimensionless products, consider this equation.
 
@@ -108,15 +108,15 @@ Thus, analysis of the relationships that are possible between the quantities wit
 
 For the next example we try to determine the period of revolution of two bodies in space orbiting each other under mutual gravitational attraction. An experienced investigator could expect that these are the relevant quantities.
 
-- *quantity*   *dimensional*
+- *quantity*       *dimensional*
 
 *formula*
 
-- period $$p$$   $$L^0M^0T^1$$
-- mean separation $$r$$   $$L^1M^0T^0$$
-- first mass $$m_1$$   $$L^0M^1T^0$$
-- second mass $$m_2$$   $$L^0M^1T^0$$
-- grav. constant $$G$$   $$L^3M^{-1}T^{-2}$$
+- period $$p$$      $$L^0M^0T^1$$
+- mean separation $$r$$      $$L^1M^0T^0$$
+- first mass $$m_1$$      $$L^0M^1T^0$$
+- second mass $$m_2$$      $$L^0M^1T^0$$
+- grav. constant $$G$$      $$L^3M^{-1}T^{-2}$$
 
 To get the complete set of dimensionless products we consider the equation
 
@@ -146,14 +146,14 @@ $$
 
 The final example was one of the first explicit applications of dimensional analysis. Lord Raleigh considered the speed of a wave in deep water and suggested these as the relevant quantities.
 
-- *quantity*   *dimensional*
+- *quantity*       *dimensional*
 
 *formula*
 
-- velocity of the wave $$v$$   $$L^1M^0T^{-1}$$
-- density of the water $$d$$   $$L^{-3}M^1T^0$$
-- acceleration due to gravity $$g$$   $$L^1M^0T^{-2}$$
-- wavelength $$\lambda$$   $$L^1M^0T^0$$
+- velocity of the wave $$v$$      $$L^1M^0T^{-1}$$
+- density of the water $$d$$      $$L^{-3}M^1T^0$$
+- acceleration due to gravity $$g$$      $$L^1M^0T^{-2}$$
+- wavelength $$\lambda$$      $$L^1M^0T^0$$
 
 The equation
 
@@ -179,45 +179,45 @@ As the three examples above show, dimensional analysis can bring us far toward e
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 Consider a projectile, launched with initial velocity $$v_0$$, at an angle $$\theta$$. An investigation of this motion might start with the guess that these are the relevant quantities. (de Mestre 1990)
 
-- *quantity*   *dimensional*
+- *quantity*       *dimensional*
 
 *formula*
 
-- horizontal position $$x$$   $$L^1M^0T^0$$
-- vertical position $$y$$   $$L^1M^0T^0$$
-- initial speed $$v_0$$   $$L^1M^0T^{-1}$$
-- angle of launch $$\theta$$   $$L^0M^0T^0$$
-- acceleration due to gravity $$g$$   $$L^1M^0T^{-2}$$
-- time $$t$$   $$L^0M^0T^1$$
+- horizontal position $$x$$      $$L^1M^0T^0$$
+- vertical position $$y$$      $$L^1M^0T^0$$
+- initial speed $$v_0$$      $$L^1M^0T^{-1}$$
+- angle of launch $$\theta$$      $$L^0M^0T^0$$
+- acceleration due to gravity $$g$$      $$L^1M^0T^{-2}$$
+- time $$t$$      $$L^0M^0T^1$$
 
 1. Show that $$\{gt/v_0,gx/v_0^2,gy/v_0^2,\theta\}$$ is a complete set of dimensionless products. (*Hint.* This can be done by finding the appropriate free variables in the linear system that arises, but there is a shortcut that uses the properties of a basis.)
 2. These two equations of motion for projectiles are familiar: $$x=v_0\cos(\theta) t$$ and $$y=v_0\sin(\theta) t- (g/2)t^2$$. Manipulate each to rewrite it as a relationship among the dimensionless products of the prior item.
 
-**Problem 2**  — Einstein (Einstein 1911) conjectured that the infrared characteristic frequencies of a solid may be determined by the same forces between atoms as determine the solid's ordanary elastic behavior. The relevant quantities are
+**Problem 2** — Einstein (Einstein 1911) conjectured that the infrared characteristic frequencies of a solid may be determined by the same forces between atoms as determine the solid's ordanary elastic behavior. The relevant quantities are
 
-- *quantity*   *dimensional*
+- *quantity*       *dimensional*
 
 *formula*
 
-- characteristic frequency $$\nu$$   $$L^0M^0T^{-1}$$
-- compressibility $$k$$   $$L^1M^{-1}T^2$$
-- number of atoms per cubic cm $$N$$   $$L^{-3}M^0T^0$$
-- mass of an atom $$m$$   $$L^0M^1T^0$$
+- characteristic frequency $$\nu$$      $$L^0M^0T^{-1}$$
+- compressibility $$k$$      $$L^1M^{-1}T^2$$
+- number of atoms per cubic cm $$N$$      $$L^{-3}M^0T^0$$
+- mass of an atom $$m$$      $$L^0M^1T^0$$
 
 Show that there is one dimensionless product. Conclude that, in any complete relationship among quantities with these dimensional formulas, $$k$$ is a constant times $$\nu^{-2}N^{-1/3}m^{-1}$$. This conclusion played an important role in the early study of quantum phenomena.
 
-**Problem 3**  —
+**Problem 3** —
 
 The torque produced by an engine has dimensional formula $$L^2M^1T^{-2}$$. We may first guess that it depends on the engine's rotation rate (with dimensional formula $$L^0M^0T^{-1}$$), and the volume of air displaced (with dimensional formula $$L^3M^0T^0$$) (Giordano, Wells & Wilde 1987).
 
 1. Try to find a complete set of dimensionless products. What goes wrong?
 2. Adjust the guess by adding the density of the air (with dimensional formula $$L^{-3}M^1T^0$$). Now find a complete set of dimensionless products.
 
-**Problem 4**  —
+**Problem 4** —
 
 Dominoes falling make a wave. We may conjecture that the wave speed $$v$$ depends on the spacing $$d$$ between the dominoes, the height $$h$$ of each domino, and the acceleration due to gravity $$g$$. *(Tilley)*
 
@@ -225,7 +225,7 @@ Dominoes falling make a wave. We may conjecture that the wave speed $$v$$ depend
 2. Show that $$\{\Pi_1=h/d,\Pi_2=dg/v^2\}$$ is a complete set of dimensionless products.
 3. Show that if $$h/d$$ is fixed then the propagation speed is proportional to the square root of $$d$$.
 
-**Problem 5**  —
+**Problem 5** —
 
 Prove that the dimensionless products form a vector space under the $$\vec{+}$$ operation of multiplying two such products and the $$\vec{\cdot}$$ operation of raising such the product to the power of the scalar. (The vector arrows are a precaution against confusion.) That is, prove that, for any particular homogeneous system, this set of products of powers of $$m_1$$, ..., $$m_k$$
 
@@ -247,7 +247,7 @@ $$
 
 (assume that all variables represent real numbers).
 
-**Problem 6**  —
+**Problem 6** —
 
 The advice about apples and oranges is not right. Consider the familiar equations for a circle $$C=2\pi r$$ and $$A=\pi r^2$$.
 

@@ -2,7 +2,7 @@
 
 Gaussian elimination coupled with back-substitution solves linear systems, but it's not the only method possible. Here is an extension of Gauss' method that has some advantages.
 
-**Example 1.1**  —
+**Example 1.1** —
 
 To solve
 
@@ -32,7 +32,7 @@ The answer is $$x=1$$, $$y=1$$, and $$z=2$$.
 
 Note that the pivot operations in the first stage proceed from column one to column three while the pivot operations in the third stage proceed from column three to column one.
 
-**Example 1.2**  —
+**Example 1.2** —
 
 We often combine the operations of the middle stage into a single step, even though they are operations on different rows.
 
@@ -44,7 +44,7 @@ The answer is $$x=5/2$$ and $$y=2$$.
 
 This extension of Gauss' method is **Gauss-Jordan reduction**. It goes past echelon form to a more refined, more specialized, matrix form.
 
-**Definition 1.3**  —
+**Definition 1.3** —
 
 A matrix is in **reduced echelon form** if, in addition to being in echelon form, each leading entry is a one and is the only nonzero entry in its column.
 
@@ -102,11 +102,11 @@ $$
 
 We think of these matrices as related to each other. The next result speaks to this relationship.
 
-**Lemma 1.4**  —
+**Lemma 1.4** —
 
 Elementary row operations are reversible.
 
-**Proof**  —
+**Proof** —
 
 For any matrix $$A$$, the effect of swapping rows is reversed by swapping them back, multiplying a row by a nonzero $$k$$ is undone by multiplying by $$1/k$$, and adding a multiple of row $$i$$ to row $$j$$ (with $$i\neq j$$) is undone by subtracting the same multiple of row $$i$$ from row $$j$$.
 
@@ -120,11 +120,11 @@ This lemma suggests that "reduces to" is misleading— where $$A\longrightarrow 
 
 We say that matrices that reduce to each other are "equivalent with respect to the relationship of row reducibility". The next result verifies this statement using the definition of an equivalence.
 
-**Lemma 1.5**  —
+**Lemma 1.5** —
 
 Between matrices, "reduces to" is an equivalence relation.
 
-**Proof**  —
+**Proof** —
 
 We must check the conditions (i) reflexivity, that any matrix reduces to itself, (ii) symmetry, that if $$A$$ reduces to $$B$$ then $$B$$ reduces to $$A$$, and (iii) transitivity, that if $$A$$ reduces to $$B$$ and $$B$$ reduces to $$C$$ then $$A$$ reduces to $$C$$.
 
@@ -134,7 +134,7 @@ That the relationship is symmetric is Lemma 1.4— if $$A$$ reduces to $$B$$ by 
 
 For transitivity, suppose that $$A$$ reduces to $$B$$ and that $$B$$ reduces to $$C$$. Linking the reduction steps from $$A \rightarrow\cdots\rightarrow B$$ with those from $$B \rightarrow\cdots\rightarrow C$$ gives a reduction from $$A$$ to $$C$$.
 
-**Definition 1.6**  —
+**Definition 1.6** —
 
 Two matrices that are interreducible by the elementary row operations are **row equivalent**.
 
@@ -149,7 +149,7 @@ After that proof we shall, as mentioned in the introduction to this section, hav
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Use Gauss-Jordan reduction to solve each system.
 
@@ -159,7 +159,7 @@ Use Gauss-Jordan reduction to solve each system.
 4. $$\begin{array}{rcrcrcr} 2x &- &y & & &= &-1 \\ x &+ &3y &- &z &= &5 \\ & &y &+ &2z&= &5 \end{array}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2**  —
+**Problem 2** —
 
 Find the reduced echelon form of each matrix.
 
@@ -169,7 +169,7 @@ Find the reduced echelon form of each matrix.
 4. $$\begin{pmatrix} 0 &1 &3 &2 \\ 0 &0 &5 &6 \\ 1 &5 &1 &5 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 Find each solution set by using Gauss-Jordan reduction, then reading off the parametrization.
 
@@ -178,7 +178,7 @@ Find each solution set by using Gauss-Jordan reduction, then reading off the par
 3. $$\begin{array}{rcrcrcrcr} x &- &y &+ &z & & &= &0 \\ & &y & & &+ &w &= &0 \\ 3x &- &2y &+ &3z &+ &w &= &0 \\ & &-y & & &- &w &= &0 \end{array}$$
 4. $$\begin{array}{rcrcrcrcrcr} a &+ &2b &+ &3c &+ &d &- &e &= &1 \\ 3a &- &b &+ &c &+ &d &+ &e &= &3 \end{array}$$
 
-**Problem 4**  —
+**Problem 4** —
 
 Give two distinct echelon form versions of this matrix.
 
@@ -188,7 +188,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5**  —
+**Problem 5** —
 
 List the reduced echelon forms possible for each size.
 
@@ -198,11 +198,11 @@ List the reduced echelon forms possible for each size.
 4. $$3 \! \times \! 3$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 What results from applying Gauss-Jordan reduction to a nonsingular matrix?
 
-**Problem 7**  —
+**Problem 7** —
 
 The proof of Lemma 1.4 contains a reference to the $$i\neq j$$ condition on the row pivoting operation.
 
@@ -210,7 +210,8 @@ The proof of Lemma 1.4 contains a reference to the $$i\neq j$$ condition on the 
 2. Write down a $$2 \! \times \! 2$$ matrix with nonzero entries, and show that the $$-1\cdot\rho_1+\rho_1$$ operation is not reversed by $$1\cdot\rho_1+\rho_1$$.
 3. Expand the proof of that lemma to make explicit exactly where the $$i\neq j$$ condition on pivoting is used.
 
-Solutions  
+Solutions
+
 ### Footnotes
 
 ---

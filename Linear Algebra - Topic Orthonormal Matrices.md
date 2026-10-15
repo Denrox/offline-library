@@ -113,7 +113,7 @@ Computer graphics incorporates techniques from linear algebra in many other ways
 So the analysis above of distance-preserving maps is useful as well as interesting. A beautiful book that explores some of this area is (Weyl 1952). More on groups, of transformations and otherwise, can be found in any book on Modern Algebra, for instance (Birkhoff & MacLane 1965). More on Klein and the Erlanger Program is in (Yaglom 1988).  
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 Decide if each of these is an orthonormal matrix.
 
@@ -121,7 +121,7 @@ Decide if each of these is an orthonormal matrix.
 2. $$\begin{pmatrix} 1/\sqrt{3} &-1/\sqrt{3} \\ -1/\sqrt{3} &-1/\sqrt{3} \end{pmatrix}$$
 3. $$\begin{pmatrix} 1/\sqrt{3} &-\sqrt{2}/\sqrt{3} \\ -\sqrt{2}/\sqrt{3} &-1/\sqrt{3} \end{pmatrix}$$
 
-**Problem 2**  —
+**Problem 2** —
 
 Write down the formula for each of these distance-preserving maps.
 
@@ -129,12 +129,12 @@ Write down the formula for each of these distance-preserving maps.
 2. the map that reflects about the line $$y=2x$$
 3. the map that reflects about $$y=-2x$$ and translates over $$1$$ and up $$1$$
 
-**Problem 3**  —
+**Problem 3** —
 
 1. The proof that a map that is distance-preserving and sends the zero vector to itself incidentally shows that such a map is one-to-one and onto (the point in the domain determined by $$d_0$$, $$d_1$$, and $$d_2$$ corresponds to the point in the codomain determined by those three). Therefore any distance-preserving map has an inverse. Show that the inverse is also distance-preserving.
 2. Prove that congruence is an equivalence relation between plane figures.
 
-**Problem 4**  —
+**Problem 4** —
 
 In practice the matrix for the distance-preserving linear transformation and the translation are often combined into one. Check that these two computations yield the same first two components.  
 
@@ -144,7 +144,7 @@ $$
 
 (These are **homogeneous coordinates**; see the Topic on Projective Geometry).
 
-**Problem 5**  —
+**Problem 5** —
 
 1. Verify that the properties described in the second paragraph of this Topic as invariant under distance-preserving maps are indeed so.
 2. Give two more properties that are of interest in Euclidean geometry from your experience in studying that subject that are also invariant under distance-preserving maps.

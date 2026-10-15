@@ -97,7 +97,7 @@ the $$3$$ isn't factored out of all three rows, only out of the top row. The det
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1**  —
+**Problem 1** —
 
 Evaluate the determinant of each.
 
@@ -105,7 +105,7 @@ Evaluate the determinant of each.
 2. $$\begin{pmatrix} 2 &0 &1 \\ 3 &1 &1 \\ -1 &0 &1 \end{pmatrix}$$
 3. $$\begin{pmatrix} 4 &0 &1 \\ 0 &0 &1 \\ 1 &3 &-1 \end{pmatrix}$$
 
-**Problem 2**  —
+**Problem 2** —
 
 Evaluate the determinant of each.
 
@@ -114,7 +114,7 @@ Evaluate the determinant of each.
 3. $$\begin{pmatrix} 2 &3 &4 \\ 5 &6 &7 \\ 8 &9 &1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3**  —
+**Problem 3** —
 
 Verify that the determinant of an upper-triangular $$3 \! \times \! 3$$ matrix is the product down the diagonal.
 
@@ -125,7 +125,7 @@ $$
 Do lower-triangular matrices work the same way?  
 *This exercise is recommended for all readers.*
 
-**Problem 4**  —
+**Problem 4** —
 
 Use the determinant to decide if each is singular or nonsingular.
 
@@ -133,7 +133,7 @@ Use the determinant to decide if each is singular or nonsingular.
 2. $$\begin{pmatrix} 0 &1 \\ 1 &-1 \end{pmatrix}$$
 3. $$\begin{pmatrix} 4 &2 \\ 2 &1 \end{pmatrix}$$
 
-**Problem 5**  —
+**Problem 5** —
 
 Singular or nonsingular? Use the determinant to decide.
 
@@ -142,7 +142,7 @@ Singular or nonsingular? Use the determinant to decide.
 3. $$\begin{pmatrix} 2 &1 &0 \\ 3 &-2 &0 \\ 1 &0 &0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6**  —
+**Problem 6** —
 
 Each pair of matrices differ by one row operation. Use this operation to compare $$\det(A)$$ with $$\det(B)$$.
 
@@ -150,7 +150,7 @@ Each pair of matrices differ by one row operation. Use this operation to compare
 2. $$A=\begin{pmatrix} 3 &1 &0 \\ 0 &0 &1 \\ 0 &1 &2 \end{pmatrix}$$ $$B=\begin{pmatrix} 3 &1 &0 \\ 0 &1 &2 \\ 0 &0 &1 \end{pmatrix}$$
 3. $$A=\begin{pmatrix} 1 &-1 &3 \\ 2 &2 &-6 \\ 1 &0 &4 \end{pmatrix}$$ $$B=\begin{pmatrix} 1 &-1 &3 \\ 1 &1 &-3 \\ 1 &0 &4 \end{pmatrix}$$
 
-**Problem 7**  —
+**Problem 7** —
 
 Show this.
 
@@ -160,7 +160,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 8**  —
+**Problem 8** —
 
 Which real numbers $$x$$ make this matrix singular?
 
@@ -168,13 +168,13 @@ $$
 \begin{pmatrix} 12-x &4 \\ 8 &8-x \end{pmatrix}
 $$
 
-**Problem 9**  —
+**Problem 9** —
 
 Do the Gaussian reduction to check the formula for $$3 \! \times \! 3$$ matrices stated in the preamble to this section.
 
 $$\begin{pmatrix} a &b &c \\ d &e &f \\ g &h &i \end{pmatrix}$$ is nonsingular iff $$aei+bfg+cdh-hfa-idb-gec \neq 0$$
 
-**Problem 10**  —
+**Problem 10** —
 
 Show that the equation of a line in $$\mathbb{R}^2$$ thru $$(x_1,y_1)$$ and $$(x_2,y_2)$$ is expressed by this determinant.
 
@@ -184,7 +184,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 11**  —
+**Problem 11** —
 
 Many people know this mnemonic for the determinant of a $$3 \! \times \! 3$$ matrix: first repeat the first two columns and then sum the products on the forward diagonals and subtract the products on the backward diagonals. That is, first write
 
@@ -201,7 +201,7 @@ $$
 1. Check that this agrees with the formula given in the preamble to this section.
 2. Does it extend to other-sized determinants?
 
-**Problem 12**  —
+**Problem 12** —
 
 The **cross product** of the vectors
 
@@ -217,7 +217,7 @@ $$
 
 Note that the first row is composed of vectors, the vectors from the standard basis for $$\mathbb{R}^3$$. Show that the cross product of two vectors is perpendicular to each vector.
 
-**Problem 13**  —
+**Problem 13** —
 
 Prove that each statement holds for $$2 \! \times \! 2$$ matrices.
 
@@ -227,7 +227,7 @@ Prove that each statement holds for $$2 \! \times \! 2$$ matrices.
 Matrices $$T$$ and $$T^\prime$$ are **similar** if there is a nonsingular matrix $$P$$ such that $$T^\prime=PTP^{-1}$$. (This definition is in Chapter Five.) Show that similar $$2 \! \times \! 2$$ matrices have the same determinant.  
 *This exercise is recommended for all readers.*
 
-**Problem 14**  —
+**Problem 14** —
 
 Prove that the area of this region in the plane
 
@@ -243,20 +243,20 @@ $$
 \det( \begin{pmatrix} x_2 &x_1 \\ y_2 &y_1 \end{pmatrix})
 $$
 
-**Problem 15**  —
+**Problem 15** —
 
 Prove that for $$2 \! \times \! 2$$ matrices, the determinant of a matrix equals the determinant of its transpose. Does that also hold for $$3 \! \times \! 3$$ matrices?  
 *This exercise is recommended for all readers.*
 
-**Problem 16**  —
+**Problem 16** —
 
 Is the determinant function linear — is $$\det(x\cdot T+y\cdot S)=x\cdot \det(T)+y\cdot \det(S)$$?
 
-**Problem 17**  —
+**Problem 17** —
 
 Show that if $$A$$ is $$3 \! \times \! 3$$ then $$\det(c\cdot A)=c^3\cdot \det(A)$$ for any scalar $$c$$.
 
-**Problem 18**  —
+**Problem 18** —
 
 Which real numbers $$\theta$$ make
 
@@ -266,7 +266,7 @@ $$
 
 singular? Explain geometrically.
 
-**? Problem 19**  —
+**? Problem 19** —
 
 If a third order determinant has elements $$1$$, $$2$$, ..., $$9$$, what is the maximum value it may have? (Haggett & Saunders 1955)
 

@@ -67,7 +67,7 @@ $$\mathbf{a} \cdot \mathbf{a} = 0$$ if and only if $$\mathbf{a} = \vec{0}$$
 
 #### The Cauchy-Schwarz Inequality for $$\Complex^n$$
 
-**Cauchy-Schwarz Inequality**  —
+**Cauchy-Schwarz Inequality** —
 
 Given two vectors $$\mathbf{a}, \mathbf{b} \in \Complex^n$$, it is the case that $$|\mathbf{a} \cdot \mathbf{b}| \leq |\mathbf{a}||\mathbf{b}|$$
 
@@ -75,7 +75,7 @@ In $$\R^n$$, the Cauchy-Schwarz inequality can be proven from the triangle inequ
 
 To make the proof more intuitive, the algebraic proof for $$\mathbf{a}, \mathbf{b} \in \R^n$$ will be given first.
 
-**Proof for $$\mathbf{a}, \mathbf{b} \in \R^n$$**  —
+**Proof for $$\mathbf{a}, \mathbf{b} \in \R^n$$** —
 
 $$|\mathbf{a} \cdot \mathbf{b}| \leq |\mathbf{a}||\mathbf{b}|$$ follows from $$|\mathbf{a} \cdot \mathbf{b}|^2 \leq |\mathbf{a}|^2|\mathbf{b}|^2$$ which is equivalent to
 
@@ -105,7 +105,7 @@ $$
 
 The above inequality is clearly true, therefore the Cauchy-Schwarz inequality holds for $$\mathbf{a}, \mathbf{b} \in \R^n$$.
 
-**Proof for $$\mathbf{a}, \mathbf{b} \in \Complex^n$$**  —
+**Proof for $$\mathbf{a}, \mathbf{b} \in \Complex^n$$** —
 
 Note that $$|\mathbf{a} \cdot \mathbf{b}| \leq |\mathbf{a}||\mathbf{b}|$$ follows from $$|\mathbf{a} \cdot \mathbf{b}|^2 \leq |\mathbf{a}|^2|\mathbf{b}|^2$$ which is equivalent to $$(\mathbf{a} \cdot \mathbf{b})^*(\mathbf{a} \cdot \mathbf{b}) \leq (\mathbf{a} \cdot \mathbf{a})(\mathbf{b} \cdot \mathbf{b})$$. Expanding both sides yields:
 

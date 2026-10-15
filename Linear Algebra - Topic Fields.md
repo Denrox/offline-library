@@ -4,7 +4,7 @@ Linear combinations involving only fractions or only integers are much easier fo
 
 Yes and no. If we take "work" to mean that the results of this chapter remain true then an analysis of which properties of the reals we have used in this chapter gives the following list of conditions an algebraic system needs in order to "work" in the place of $$\mathbb{R}$$.
 
-**Definition 1.1**  —
+**Definition 1.1** —
 
 A **field** is a set $$\mathcal{F}$$ with two operations"$$+$$" and "$$\cdot$$" such that
 
@@ -55,26 +55,26 @@ The only exception is in Chapter Five. In that chapter we must factor polynomial
 
 ### Exercises
 
-**Problem 1**  —
+**Problem 1** —
 
 Show that the real numbers form a field.
 
-**Problem 2**  —
+**Problem 2** —
 
 Prove that these are fields.
 
 1. The rational numbers $$\mathbb{Q}$$
 2. The complex numbers $$\mathbb{C}$$
 
-**Problem 3**  —
+**Problem 3** —
 
 Give an example that shows that the integer number system is not a field.
 
-**Problem 4**  —
+**Problem 4** —
 
 Consider the set $$\{0,1\}$$ subject to the operations given above. Show that it is a field.
 
-**Problem 5**  —
+**Problem 5** —
 
 Give suitable operations to make the set $$\{0,1,2\}$$ a field.
 
