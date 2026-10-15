@@ -1,6 +1,6 @@
 # Meshtastic documentation
 
-249 pages, 15 categories. Snapshot: 2026-10-14.
+250 pages, 15 categories. Snapshot: 2026-10-15.
 
 Source: https://meshtastic.org/docs/
 

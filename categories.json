@@ -223,6 +223,7 @@
     "Getting an STM32 Device Ready to Flash.md",
     "How to Update or Recover the Bootloader on nRF52 Devices to the Latest Version.md",
     "Initial Configuration.md",
+    "Joining your local mesh.md",
     "Meshtastic Web Flasher.md",
     "Removing STM32 Readout Protection.md",
     "SWDIO using a Raspberry Pi.md",

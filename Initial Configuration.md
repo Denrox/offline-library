@@ -184,8 +184,18 @@ Refer to [LoRa Region by Country](LoRa%20Region%20by%20Country.md) for a more co
 
 Now that you have set the LoRa region on your device, you can continue with configuring any additional configs to suit your needs.
 
+Setting the region leaves your node on a default modem preset, and that default is not always what the mesh near you runs. Many communities have moved to a faster preset, and some use their own channel. A node whose settings do not match hears nothing from them. [Joining your local mesh](Joining%20your%20local%20mesh.md) covers how to find the settings in use around you and join.
+
   
-    Device Configuration
+    
+      
+        Joining a Mesh
+      
+    
+
+    
+      
+        Device Configuration
 
 ---
 
