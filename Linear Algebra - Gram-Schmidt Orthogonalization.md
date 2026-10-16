@@ -8,15 +8,15 @@ The prior subsection suggests that projecting onto the line spanned by $$\vec{s}
 
 that are orthogonal and so are "not interacting". We will now develop that suggestion.
 
-**Definition 2.1** —
+**Definition 2.1**  —
 
 Vectors $$\vec{v}_1,\dots,\vec{v}_k\in\mathbb{R}^n$$ are **mutually orthogonal** when any two are orthogonal: if $$i\neq j$$ then the dot product $$\vec{v}_i\cdot\vec{v}_j$$ is zero.
 
-**Theorem 2.2** —
+**Theorem 2.2**  —
 
 If the vectors in a set $$\{\vec{v}_1,\dots,\vec{v}_k\}\subset\mathbb{R}^n$$ are mutually orthogonal and nonzero then that set is linearly independent.
 
-**Proof** —
+**Proof**  —
 
 Consider a linear relationship $$c_1\vec{v}_1+c_2\vec{v}_2+\dots+c_k\vec{v}_k=\vec{0}$$. If $$i\in [1..k]$$ then taking the dot product of $$\vec{v}_i$$ with both sides of the equation
 
@@ -26,17 +26,17 @@ $$
 
 shows, since $$\vec{v}_i$$ is nonzero, that $$c_i$$ is zero.
 
-**Corollary 2.3** —
+**Corollary 2.3**  —
 
 If the vectors in a size $$k$$ subset of a $$k$$ dimensional space are mutually orthogonal and nonzero then that set is a basis for the space.
 
-**Proof** —
+**Proof**  —
 
 Any linearly independent size $$k$$ subset of a $$k$$ dimensional space is a basis.
 
 Of course, the converse of Corollary 2.3 does not hold— not every basis of every subspace of $$\mathbb{R}^n$$ is made of mutually orthogonal vectors. However, we can get the partial converse that for every subspace of $$\mathbb{R}^n$$ there is at least one basis consisting of mutually orthogonal vectors.
 
-**Example 2.4** —
+**Example 2.4**  —
 
 The members $$\vec{\beta}_1$$ and $$\vec{\beta}_2$$ of this basis for $$\mathbb{R}^2$$ are not orthogonal.
 
@@ -54,11 +54,11 @@ For the second member of the new basis, we take away from $$\vec{\beta}_2$$ its 
 
 which leaves the part, $$\vec{\kappa}_2$$ pictured above, of $$\vec{\beta}_2$$ that is orthogonal to $$\vec{\kappa}_1$$ (it is orthogonal by the definition of the projection onto the span of $$\vec{\kappa}_1$$). Note that, by the corollary, $$\{\vec{\kappa}_1,\vec{\kappa}_2\}$$ is a basis for $$\mathbb{R}^2$$.
 
-**Definition 2.5** —
+**Definition 2.5**  —
 
 An **orthogonal basis** for a vector space is a basis of mutually orthogonal vectors.
 
-**Example 2.6** —
+**Example 2.6**  —
 
 To turn this basis for $$\mathbb{R}^3$$
 
@@ -94,7 +94,7 @@ is a basis for the space.
 
 The next result verifies that the process used in those examples works with any basis for any subspace of an $$\mathbb{R}^n$$ (we are restricted to $$\mathbb{R}^n$$ only because we have not given a definition of orthogonality for other vector spaces).
 
-**Theorem 2.7 (Gram-Schmidt orthogonalization)** —
+**Theorem 2.7 (Gram-Schmidt orthogonalization)**  —
 
 If $$\left\langle \vec{\beta}_1,\ldots\vec{\beta}_k \right\rangle$$ is a basis for a subspace of $$\mathbb{R}^n$$ then, where
 
@@ -104,7 +104,7 @@ $$
 
 the $$\vec{\kappa}\,$$'s form an orthogonal basis for the same subspace.
 
-**Proof** —
+**Proof**  —
 
 We will use induction to check that each $$\vec{\kappa}_i$$ is nonzero, is in the span of $$\left\langle \vec{\beta}_1,\ldots\vec{\beta}_i \right\rangle$$ and is orthogonal to all preceding vectors: $$\vec{\kappa}_1\cdot\vec{\kappa}_i= \cdots =\vec{\kappa}_{i-1}\cdot\vec{\kappa}_{i}=0$$. With those, and with Corollary 2.3, we will have that $$\left\langle \vec{\kappa}_1,\ldots\vec{\kappa}_k \right\rangle$$ is a basis for the same space as $$\left\langle \vec{\beta}_1,\ldots\vec{\beta}_k \right\rangle$$.
 
@@ -142,7 +142,7 @@ $$
 
 Beyond having the vectors in the basis be orthogonal, we can do more; we can arrange for each vector to have length one by dividing each by its own length (we can **normalize** the lengths).
 
-**Example 2.8** —
+**Example 2.8**  —
 
 Normalizing the length of each vector in the orthogonal basis of Example 2.6 produces this **orthonormal basis**.
 
@@ -154,7 +154,7 @@ Besides its intuitive appeal, and its analogy with the standard basis $$\mathcal
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Perform the Gram-Schmidt process on each of these bases for $$\mathbb{R}^2$$.
 
@@ -165,7 +165,7 @@ Perform the Gram-Schmidt process on each of these bases for $$\mathbb{R}^2$$.
 Then turn those orthogonal bases into orthonormal bases.  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Perform the Gram-Schmidt process on each of these bases for $$\mathbb{R}^3$$.
 
@@ -175,11 +175,11 @@ Perform the Gram-Schmidt process on each of these bases for $$\mathbb{R}^3$$.
 Then turn those orthogonal bases into orthonormal bases.  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Find an orthonormal basis for this subspace of $$\mathbb{R}^3$$: the plane $$x-y+z=0$$.
 
-**Problem 4** —
+**Problem 4**  —
 
 Find an orthonormal basis for this subspace of $$\mathbb{R}^4$$.
 
@@ -187,16 +187,16 @@ $$
 \{\begin{pmatrix} x \\ y \\ z \\ w \end{pmatrix}\,\big|\, x-y-z+w=0\text{ and }x+z=0\}
 $$
 
-**Problem 5** —
+**Problem 5**  —
 
 Show that any linearly independent subset of $$\mathbb{R}^n$$ can be orthogonalized without changing its span.  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 What happens if we apply the Gram-Schmidt process to a basis that is already orthogonal?
 
-**Problem 7** —
+**Problem 7**  —
 
 Let $$\left\langle \vec{\kappa}_1,\dots,\vec{\kappa}_k \right\rangle$$ be a set of mutually orthogonal vectors in $$\mathbb{R}^n$$.
 
@@ -204,7 +204,7 @@ Let $$\left\langle \vec{\kappa}_1,\dots,\vec{\kappa}_k \right\rangle$$ be a set 
 2. Illustrate the prior item in $$\mathbb{R}^3$$ by using $$\vec{e}_1$$ as $$\vec{\kappa}_1$$, using $$\vec{e}_2$$ as $$\vec{\kappa}_2$$, and taking $$\vec{v}$$ to have components $$1$$, $$2$$, and $$3$$.
 3. Show that $$\text{proj}_{[\vec{\kappa}_1]}({\vec{v}\,}) +\dots+\text{proj}_{[\vec{v}_k]}({\vec{v}\,})$$ is the vector in the span of the set of $$\vec{\kappa}$$'s that is closest to $$\vec{v}$$. *Hint*. To the illustration done for the prior part, add a vector $$d_1\vec{\kappa}_1+d_2\vec{\kappa}_2$$ and apply the Pythagorean Theorem to the resulting triangle.
 
-**Problem 8** —
+**Problem 8**  —
 
 Find a vector in $$\mathbb{R}^3$$ that is orthogonal to both of these.
 
@@ -214,7 +214,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 9** —
+**Problem 9**  —
 
 One advantage of orthogonal bases is that they simplify finding the representation of a vector with respect to that basis.
 
@@ -225,7 +225,6 @@ $$
 $$
 
 first represent the vector with respect to the basis. Then project the vector onto the span of each basis vector $$[{\vec{\beta}_1}]$$ and $$[{\vec{\beta}_2}]$$.
-
 2. With this orthogonal basis for $$\mathbb{R}^2$$
 
 $$
@@ -233,11 +232,10 @@ K=\left\langle \begin{pmatrix} 1 \\ 1 \end{pmatrix}, \begin{pmatrix} 1 \\ -1 \en
 $$
 
 represent the same vector $$\vec{v}$$ with respect to the basis. Then project the vector onto the span of each basis vector. Note that the coefficients in the representation and the projection are the same.
-
 3. Let $$K=\left\langle \vec{\kappa}_1,\ldots,\vec{\kappa}_k \right\rangle$$ be an orthogonal basis for some subspace of $$\mathbb{R}^n$$. Prove that for any $$\vec{v}$$ in the subspace, the $$i$$-th component of the representation $${\rm Rep}_{K}(\vec{v}\,)$$ is the scalar coefficient $$(\vec{v}\cdot\vec{\kappa}_i)/ (\vec{\kappa}_i\cdot\vec{\kappa}_i)$$ from $$\text{proj}_{[\vec{\kappa}_i]}({\vec{v}\,})$$.
 4. Prove that $$\vec{v}=\text{proj}_{[\vec{\kappa}_1]}({\vec{v}\,}) +\dots+\text{proj}_{[\vec{\kappa}_k]}({\vec{v}\,})$$.
 
-**Problem 10** —
+**Problem 10**  —
 
 *Bessel's Inequality*. Consider these orthonormal sets
 
@@ -253,26 +251,26 @@ along with the vector $$\vec{v}\in\mathbb{R}^4$$ whose components are $$4$$, $$3
 
 Show that this holds in general: where $$\{\vec{\kappa}_1,\ldots,\vec{\kappa}_k\}$$ is an orthonormal set and $$c_i$$ is coefficient of the projection of a vector $$\vec{v}$$ from the space then $$|\vec{v}\,|^2\geq |c_1|^2+\dots+|c_k|^2$$. *Hint*. One way is to look at the inequality $$0\leq|\vec{v}-(c_1\vec{\kappa}_1+\dots+c_k\vec{\kappa}_k)|^2$$ and expand the $$c$$'s.
 
-**Problem 11** —
+**Problem 11**  —
 
 Prove or disprove: every vector in $$\mathbb{R}^n$$ is in some orthogonal basis.
 
-**Problem 12** —
+**Problem 12**  —
 
 Show that the columns of an $$n \! \times \! n$$ matrix form an orthonormal set if and only if the inverse of the matrix is its transpose. Produce such a matrix.
 
-**Problem 13** —
+**Problem 13**  —
 
 Does the proof of Theorem 2.2 fail to consider the possibility that the set of vectors is empty (i.e., that $$k=0$$)?
 
-**Problem 14** —
+**Problem 14**  —
 
 Theorem 2.7 describes a change of basis from any basis $$B=\left\langle \vec{\beta}_1,\ldots,\vec{\beta}_k \right\rangle$$ to one that is orthogonal $$K=\left\langle \vec{\kappa}_1,\ldots,\vec{\kappa}_k \right\rangle$$. Consider the change of basis matrix $${\rm Rep}_{B,K}(\text{id})$$.
 
 1. Prove that the matrix $${\rm Rep}_{K,B}(\text{id})$$ changing bases in the direction opposite to that of the theorem has an upper triangular shape— all of its entries below the main diagonal are zeros.
 2. Prove that the inverse of an upper triangular matrix is also upper triangular (if the matrix is invertible, that is). This shows that the matrix $${\rm Rep}_{B,K}(\text{id})$$ changing bases in the direction described in the theorem is upper triangular.
 
-**Problem 15** —
+**Problem 15**  —
 
 Complete the induction argument in the proof of Theorem 2.7.
 

@@ -2,11 +2,11 @@
 
 After representing addition and scalar multiplication of linear maps in the prior subsection, the natural next map operation to consider is composition.
 
-**Lemma 2.1** —
+**Lemma 2.1**  —
 
 A composition of linear maps is linear.
 
-**Proof** —
+**Proof**  —
 
 *(This argument has appeared earlier, as part of the proof that isomorphism is an equivalence relation between spaces.)* Let $$h:V\to W$$ and $$g:W\to U$$ be linear. The calculation
 
@@ -22,7 +22,7 @@ shows that $$g\circ h:V\to U$$ preserves linear combinations.
 
 To see how the representation of the composite arises out of the representations of the two compositors, consider an example.
 
-**Example 2.2** —
+**Example 2.2**  —
 
 Let $$h:\mathbb{R}^4\to \mathbb{R}^2$$ and $$g:\mathbb{R}^2\to \mathbb{R}^3$$, fix bases $$B\subset\mathbb{R}^4$$, $$C\subset\mathbb{R}^2$$, $$D\subset\mathbb{R}^3$$, and let these be the representations.
 
@@ -56,7 +56,7 @@ $$
 
 Thus, the matrix representing $$g\circ h$$ has the rows of $$G$$ combined with the columns of $$H$$.
 
-**Definition 2.3** —
+**Definition 2.3**  —
 
 The **matrix-multiplicative product** of the $$m \! \times \! r$$ matrix $$G$$ and the $$r \! \times \! n$$ matrix $$H$$ is the $$m \! \times \! n$$ matrix $$P$$, where
 
@@ -70,7 +70,7 @@ $$
 GH= \begin{pmatrix} &\vdots \\ g_{i,1} &g_{i,2} &\ldots &g_{i,r} \\ &\vdots \end{pmatrix} \begin{pmatrix} &h_{1,j} \\ \ldots &h_{2,j} &\ldots \\ &\vdots \\ &h_{r,j} \end{pmatrix} = \begin{pmatrix} &\vdots \\ \ldots &p_{i,j} &\ldots \\ &\vdots \end{pmatrix}
 $$
 
-**Example 2.4** —
+**Example 2.4**  —
 
 The matrices from Example 2.2 combine in this way.
 
@@ -78,17 +78,17 @@ $$
 \begin{pmatrix} 1\cdot4+1\cdot5 &1\cdot6+1\cdot7 &1\cdot8+1\cdot9 &1\cdot2+1\cdot3 \\ 0\cdot4+1\cdot5 &0\cdot6+1\cdot7 &0\cdot8+1\cdot9 &0\cdot2+1\cdot3 \\ 1\cdot4+0\cdot5 &1\cdot6+0\cdot7 &1\cdot8+0\cdot9 &1\cdot2+0\cdot3 \end{pmatrix} =\begin{pmatrix} 9 &13 &17 &5 \\ 5 &7 &9 &3 \\ 4 &6 &8 &2 \end{pmatrix}
 $$
 
-**Example 2.5** —
+**Example 2.5**  —
 
 $$
 \begin{pmatrix} 2 &0 \\ 4 &6 \\ 8 &2 \end{pmatrix} \begin{pmatrix} 1 &3 \\ 5 &7 \end{pmatrix} = \begin{pmatrix} 2\cdot 1+0\cdot 5 &2\cdot 3+0\cdot 7 \\ 4\cdot 1+6\cdot 5 &4\cdot 3+6\cdot 7 \\ 8\cdot 1+2\cdot 5 &8\cdot 3+2\cdot 7 \end{pmatrix} = \begin{pmatrix} 2 &6 \\ 34 &54 \\ 18 &38 \end{pmatrix}
 $$
 
-**Theorem 2.6** —
+**Theorem 2.6**  —
 
 A composition of linear maps is represented by the matrix product of the representatives.
 
-**Proof** —
+**Proof**  —
 
 *(This argument parallels Example 2.2.)* Let $$h:V\to W$$ and $$g:W\to X$$ be represented by $$H$$ and $$G$$ with respect to bases $$B\subset V$$, $$C\subset W$$, and $$D\subset X$$, of sizes $$n$$, $$r$$, and $$m$$. For any $$\vec{v}\in V$$, the $$k$$-th component of $${\rm Rep}_{C}(\,h(\vec{v})\,)$$ is
 
@@ -142,7 +142,7 @@ The definition of the matrix-matrix product operation does not restrict us to vi
 
 One aspect of that combination is that the sizes of the matrices involved is significant. Briefly, $$m \! \times \! r\text{ times }r \! \times \! n\text{ equals }m \! \times \! n$$.
 
-**Example 2.7** —
+**Example 2.7**  —
 
 This product is not defined
 
@@ -160,7 +160,7 @@ $$
 
 is possible.
 
-**Remark 2.8** —
+**Remark 2.8**  —
 
 The order in which these things are written can be confusing. In the "$$m \! \times \! r\text{ times }r \! \times \! n\text{ equals }m \! \times \! n$$" equation, the number written first $$m$$ is the dimension of $$g$$'s codomain and is thus the number that appears last in the map dimension description above. The explanation is that while $$f$$ is done first and then $$g$$ is applied, that composition is written $$g\circ f$$, from the notation "$$g(f(\vec{v}))$$". (Some people try to lessen confusion by reading "$$g\circ f$$" aloud as "$$g$$ following $$f$$".) That order then carries over to matrices: $$g\circ f$$ is represented by $$GF$$.
 
@@ -172,7 +172,7 @@ $$
 
 the red subscripts on the $$g$$'s are column indicators while those on the $$h$$'s indicate rows. That is, summation takes place over the columns of $$G$$ but over the rows of $$H$$; left is treated differently than right, so $$GH$$ may be unequal to $$HG$$. Matrix multiplication is not commutative.
 
-**Example 2.9** —
+**Example 2.9**  —
 
 Matrix multiplication hardly ever commutes. Test that by multiplying randomly chosen matrices both ways.
 
@@ -180,7 +180,7 @@ $$
 \begin{pmatrix} 1 &2 \\ 3 &4 \end{pmatrix} \begin{pmatrix} 5 &6 \\ 7 &8 \end{pmatrix} = \begin{pmatrix} 19 &22 \\ 43 &50 \end{pmatrix} \qquad \begin{pmatrix} 5 &6 \\ 7 &8 \end{pmatrix} \begin{pmatrix} 1 &2 \\ 3 &4 \end{pmatrix} = \begin{pmatrix} 23 &34 \\ 31 &46 \end{pmatrix}
 $$
 
-**Example 2.10** —
+**Example 2.10**  —
 
 Commutativity can fail more dramatically:
 
@@ -196,23 +196,23 @@ $$
 
 isn't even defined.
 
-**Remark 2.11** —
+**Remark 2.11**  —
 
 The fact that matrix multiplication is not commutative may be puzzling at first sight, perhaps just because most algebraic operations in elementary mathematics are commutative. But on further reflection, it isn't so surprising. After all, matrix multiplication represents function composition, which is not commutative— if $$f(x)=2x$$ and $$g(x)=x+1$$ then $$g\circ f(x)=2x+1$$ while $$f\circ g(x)=2(x+1)=2x+2$$. True, this $$g$$ is not linear and we might have hoped that linear functions commute, but this perspective shows that the failure of commutativity for matrix multiplication fits into a larger context.
 
 Except for the lack of commutativity, matrix multiplication is algebraically well-behaved. Below are some nice properties and more are in Problem 10 and Problem 11.
 
-**Theorem 2.12** —
+**Theorem 2.12**  —
 
 If $$F$$, $$G$$, and $$H$$ are matrices, and the matrix products are defined, then the product is associative $$(FG)H=F(GH)$$ and distributes over matrix addition $$F(G+H)=FG+FH$$ and $$(G+H)F=GF+HF$$.
 
-**Proof** —
+**Proof**  —
 
 Associativity holds because matrix multiplication represents function composition, which is associative: the maps $$(f\circ g)\circ h$$ and $$f\circ (g\circ h)$$ are equal as both send $$\vec{v}$$ to $$f(g(h(\vec{v})))$$.
 
 Distributivity is similar. For instance, the first one goes $$f\circ (g+h)\,(\vec{v}) =f\bigl(\,(g+h)(\vec{v})\,\bigr) =f\bigl(\,g(\vec{v})+h(\vec{v})\,\bigr) =f(g(\vec{v}))+f(h(\vec{v})) =f\circ g(\vec{v})+f\circ h(\vec{v})$$ (the third equality uses the linearity of $$f$$).
 
-**Remark 2.13** —
+**Remark 2.13**  —
 
 We could alternatively prove that result by slogging through the indices. For example, associativity goes: the $$i,j$$-th entry of $$(FG)H$$ is
 
@@ -241,7 +241,7 @@ We have now seen how the representation of the composition of two linear maps is
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Compute, or state "not defined".
 
@@ -251,7 +251,7 @@ Compute, or state "not defined".
 4. $$\begin{pmatrix} 5 &2 \\ 3 &1 \end{pmatrix} \begin{pmatrix} -1 &2 \\ 3 &-5 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Where
 
@@ -266,7 +266,7 @@ compute or state "not defined".
 3. $$BC$$
 4. $$A(BC)$$
 
-**Problem 3** —
+**Problem 3**  —
 
 Which products are defined?
 
@@ -276,7 +276,7 @@ Which products are defined?
 4. $$3 \! \times \! 3$$ times $$2 \! \times \! 2$$  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Give the size of the product or state "not defined".
 
@@ -286,7 +286,7 @@ Give the size of the product or state "not defined".
 4. a $$2 \! \times \! 2$$ matrix times a $$2 \! \times \! 2$$ matrix  
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Find the system of equations resulting from starting with
 
@@ -300,36 +300,36 @@ $$
 \begin{array}{rcrcr} x_1 &= &g_{1,1}y_1 &+ &g_{1,2}y_2 \\ x_2 &= &g_{2,1}y_1 &+ &g_{2,2}y_2 \\ x_3 &= &g_{3,1}y_1 &+ &g_{3,2}y_2 \end{array}
 $$
 
-**Problem 6** —
+**Problem 6**  —
 
 As Definition 2.3 points out, the matrix product operation generalizes the dot product. Is the dot product of a $$1 \! \times \! n$$ row vector and a $$n \! \times \! 1$$ column vector the same as their matrix-multiplicative product?  
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Represent the derivative map on $$\mathcal{P}_n$$ with respect to $$B,B$$ where $$B$$ is the natural basis $$\langle 1,x,\ldots,x^n \rangle$$. Show that the product of this matrix with itself is defined; what the map does it represent?
 
-**Problem 8** —
+**Problem 8**  —
 
 Show that composition of linear transformations on $$\mathbb{R}^1$$ is commutative. Is this true for any one-dimensional space?
 
-**Problem 9** —
+**Problem 9**  —
 
 Why is matrix multiplication not defined as entry-wise multiplication? That would be easier, and commutative too.  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 1. Prove that $$H^pH^q=H^{p+q}$$ and $$(H^p)^q=H^{pq}$$ for positive integers $$p,q$$.
 2. Prove that $$(rH)^p=r^p\cdot H^p$$ for any positive integer $$p$$ and scalar $$r\in\mathbb{R}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 11** —
+**Problem 11**  —
 
 1. How does matrix multiplication interact with scalar multiplication: is $$r(GH)=(rG)H$$? Is $$G(rH)=r(GH)$$?
 2. How does matrix multiplication interact with linear combinations: is $$F(rG+sH)=r(FG)+s(FH)$$? Is $$(rF+sG)H=rFH+sGH$$?
 
-**Problem 12** —
+**Problem 12**  —
 
 We can ask how the matrix product operation interacts with the transpose operation.
 
@@ -337,27 +337,27 @@ We can ask how the matrix product operation interacts with the transpose operati
 2. A square matrix is **symmetric** if each $$i,j$$ entry equals the $$j,i$$ entry, that is, if the matrix equals its own transpose. Show that the matrices $$H{{H}^{\rm trans}}$$ and $${{H}^{\rm trans}}H$$ are symmetric.  
 *This exercise is recommended for all readers.*
 
-**Problem 13** —
+**Problem 13**  —
 
 Rotation of vectors in $$\mathbb{R}^3$$ about an axis is a linear map. Show that linear maps do not commute by showing geometrically that rotations do not commute.
 
-**Problem 14** —
+**Problem 14**  —
 
 In the proof of Theorem 2.12 some maps are used. What are the domains and codomains?
 
-**Problem 15** —
+**Problem 15**  —
 
 How does matrix rank interact with matrix multiplication?
 
 1. Can the product of rank $$n$$ matrices have rank less than $$n$$? Greater?
 2. Show that the rank of the product of two matrices is less than or equal to the minimum of the rank of each factor.
 
-**Problem 16** —
+**Problem 16**  —
 
 Is "commutes with" an equivalence relation among $$n \! \times \! n$$ matrices?  
 *This exercise is recommended for all readers.*
 
-**Problem 17** —
+**Problem 17**  —
 
 *(This will be used in the Matrix Inverses exercises.)* Here is another property of matrix multiplication that might be puzzling at first sight.
 
@@ -368,20 +368,20 @@ Is "commutes with" an equivalence relation among $$n \! \times \! n$$ matrices?
 
 When two things multiply to give zero despite that neither is zero, each is said to be a **zero divisor**.
 
-**Problem 18** —
+**Problem 18**  —
 
 Show that, for square matrices, $$(S+T)(S-T)$$ need not equal $$S^2-T^2$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 19** —
+**Problem 19**  —
 
 Represent the identity transformation $$\text{id}:V\to V$$ with respect to $$B,B$$ for any basis $$B$$. This is the **identity matrix** $$I$$. Show that this matrix plays the role in matrix multiplication that the number $$1$$ plays in real number multiplication: $$HI=IH=H$$ (for all matrices $$H$$ for which the product is defined).
 
-**Problem 20** —
+**Problem 20**  —
 
 In real number algebra, quadratic equations have at most two solutions. That is not so with matrix algebra. Show that the $$2 \! \times \! 2$$ matrix equation $$T^2=I$$ has more than two solutions, where $$I$$ is the identity matrix (this matrix has ones in its $$1,1$$ and $$2,2$$ entries and zeroes elsewhere; see Problem 19).
 
-**Problem 21** —
+**Problem 21**  —
 
 1. Prove that for any $$2 \! \times \! 2$$ matrix $$T$$ there are scalars $$c_0,\dots,c_4$$ that are not all $$0$$ such that the combination $$c_4T^4+c_3T^3+c_2T^2+c_1T+c_0I$$ is the zero matrix (where $$I$$ is the $$2 \! \times \! 2$$ identity matrix, with $$1$$'s in its $$1,1$$ and $$2,2$$ entries and zeroes elsewhere; see Problem 19).
 2. Let $$p(x)$$ be a polynomial $$p(x)=c_nx^n+\dots+c_1x+c_0$$. If $$T$$ is a square matrix we define $$p(T)$$ to be the matrix $$c_nT^n+\dots+c_1T+I$$ (where $$I$$ is the appropriately-sized identity matrix). Prove that for any square matrix there is a polynomial such that $$p(T)$$ is the zero matrix.
@@ -393,7 +393,7 @@ $$
 
 (This is the representation with respect to $$\mathcal{E}_2,\mathcal{E}_2$$, the standard basis, of a rotation through $$\pi/6$$ radians counterclockwise.)
 
-**Problem 22** —
+**Problem 22**  —
 
 The infinite-dimensional space $$\mathcal{P}$$ of all finite-degree polynomials gives a memorable example of the non-commutativity of linear maps. Let $$d/dx:\mathcal{P}\to \mathcal{P}$$ be the usual derivative and let $$s:\mathcal{P}\to \mathcal{P}$$ be the **shift** map.
 
@@ -403,7 +403,7 @@ $$
 
 Show that the two maps don't commute $$d/dx\circ s\neq s\circ d/dx$$; in fact, not only is $$(d/dx\circ s)-(s\circ d/dx)$$ not the zero map, it is the identity map.
 
-**Problem 23** —
+**Problem 23**  —
 
 Recall the notation for the sum of the sequence of numbers $$a_1, a_2, \dots, a_n$$.
 

@@ -154,7 +154,7 @@ We finish this subsection by restating our conclusions from the first section in
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Find the canonical name for each vector.
 
@@ -164,7 +164,7 @@ Find the canonical name for each vector.
 4. the vector from $$(6,8,8)$$ to $$(6,8,8)$$ in $$\mathbb{R}^3$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Decide if the two vectors are equal.
 
@@ -172,17 +172,17 @@ Decide if the two vectors are equal.
 2. the vector from $$(2,1,1)$$ to $$(3,0,4)$$ and the vector from $$(5,1,4)$$ to $$(6,0,7)$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Does $$(1,0,2,1)$$ lie on the line through $$(-2,1,1,0)$$ and $$(5,10,-1,4)$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 1. Describe the plane through $$(1,1,5,-1)$$, $$(2,2,2,0)$$, and $$(3,1,0,4)$$.
 2. Is the origin in that plane?
 
-**Problem 5** —
+**Problem 5**  —
 
 Describe the plane that contains the following point and line.
 
@@ -192,7 +192,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Find the intersection of these planes:
 
@@ -202,14 +202,14 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Find the intersection of each of the following pair, if possible.
 
 1. $$\{\begin{pmatrix} 1 \\ 1 \\ 2 \end{pmatrix}+t\begin{pmatrix} 0 \\ 1 \\ 1 \end{pmatrix} \,\big|\, t\in\mathbb{R}\},$$ $$\{\begin{pmatrix} 1 \\ 3 \\ -2 \end{pmatrix}+s\begin{pmatrix} 0 \\ 1 \\ 2 \end{pmatrix} \,\big|\, s\in\mathbb{R}\}.$$
 2. $$\{\begin{pmatrix} 2 \\ 0 \\ 1 \end{pmatrix}+t\begin{pmatrix} 1 \\ 1 \\ -1 \end{pmatrix} \,\big|\, t\in\mathbb{R}\},$$ $$\{s\begin{pmatrix} 0 \\ 1 \\ 2 \end{pmatrix} +w\begin{pmatrix} 0 \\ 4 \\ 1 \end{pmatrix} \,\big|\, s,w\in\mathbb{R}\}.$$
 
-**Problem 8** —
+**Problem 8**  —
 
 When a plane does not pass through the origin, performing operations on vectors whose bodies lie in it is more complicated than when the plane passes through the origin. Consider the picture in this subsection of the plane
 
@@ -222,21 +222,21 @@ and the three vectors it shows, with endpoints $$(2,0,0)$$, $$(1.5,1,0)$$, and $
 1. Redraw the picture, including the vector in the plane that is twice as long as the one with endpoint $$(1.5,1,0)$$. The endpoint of your vector is not $$(3,2,0)$$; what is it?
 2. Redraw the picture, including the parallelogram in the plane that shows the sum of the vectors ending at $$(1.5,0,1)$$ and $$(1.5,1,0)$$. The endpoint of the sum, on the diagonal, is not $$(3,1,1)$$; what is it?
 
-**Problem 9** —
+**Problem 9**  —
 
 Show that the line segments $$\overline{(a_1,a_2)(b_1,b_2)}$$ and $$\overline{(c_1,c_2)(d_1,d_2)}$$ have the same lengths and slopes *if* $$b_1-a_1=d_1-c_1$$ and $$b_2-a_2=d_2-c_2$$. Can we replace 'if' by 'if and only if'?
 
-**Problem 10** —
+**Problem 10**  —
 
 How should $$\mathbb{R}^0$$ be defined?  
 *This exercise is recommended for all readers.*
 
-**? Problem 11** —
+**? Problem 11**  —
 
 A person traveling eastward at a rate of $$3$$ miles per hour finds that the wind appears to blow directly from the north. On doubling his speed it appears to come from the north east. What was the wind's velocity? (Klamkin 1957)  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Euclid describes a plane as "a surface which lies evenly with the straight lines on itself". Commentators (e.g., Heron) have interpreted this to mean "(A plane surface is) such that, if a straight line pass through two points on it, the line coincides wholly with it at every spot, all ways". (Translations from Heath 1956, pp. 171-172.) Do planes, as described in this section, have that property? Does this description adequately define planes?
 

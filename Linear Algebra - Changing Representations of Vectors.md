@@ -3,7 +3,7 @@
 In converting $${\rm Rep}_{B}(\vec{v})$$ to $${\rm Rep}_{D}(\vec{v})$$ the underlying vector $$\vec{v}$$ doesn't change. Thus, this translation is accomplished by the identity map on the space, described so that the domain space vectors are represented with respect to $$B$$ and the codomain space vectors are represented with respect to $$D$$.  
 (The diagram is vertical to fit with the ones in the next subsection.)
 
-**Definition 1.1** —
+**Definition 1.1**  —
 
 The **change of basis matrix**for bases $$B,D\subset V$$ is the representation of the identity map $$\text{id}:V\to V$$ with respect to those bases.
 
@@ -11,15 +11,15 @@ $$
 {\rm Rep}_{B,D}(\text{id})= \left(\begin{array}{c|c|c} \vdots & &\vdots \\ {\rm Rep}_{D}(\vec{\beta}_1) &\;\cdots\; &{\rm Rep}_{D}(\vec{\beta}_n) \\ \vdots & &\vdots \end{array}\right)
 $$
 
-**Lemma 1.2** —
+**Lemma 1.2**  —
 
 Left-multiplication by the change of basis matrix for $$B,D$$ converts a representation with respect to $$B$$ to one with respect to $$D$$. Conversly, if left-multiplication by a matrix changes bases $$M\cdot{\rm Rep}_{B}(\vec{v})={\rm Rep}_{D}(\vec{v})$$ then $$M$$ is a change of basis matrix.
 
-**Proof** —
+**Proof**  —
 
 For the first sentence, for each $$\vec{v}$$, as matrix-vector multiplication represents a map application, $${\rm Rep}_{B,D}(\text{id})\cdot{\rm Rep}_{B}(\vec{v})={\rm Rep}_{D}(\,\text{id}(\vec{v})\,) ={\rm Rep}_{D}(\vec{v})$$. For the second sentence, with respect to $$B,D$$ the matrix $$M$$ represents some linear map, whose action is $$\vec{v}\mapsto\vec{v}$$, and is therefore the identity map.
 
-**Example 1.3** —
+**Example 1.3**  —
 
 With these bases for $$\mathbb{R}^2$$,
 
@@ -53,11 +53,11 @@ $$
 
 We finish this subsection by recognizing that the change of basis matrices are familiar.
 
-**Lemma 1.4** —
+**Lemma 1.4**  —
 
 A matrix changes bases if and only if it is nonsingular.
 
-**Proof** —
+**Proof**  —
 
 For one direction, if left-multiplication by a matrix changes bases then the matrix represents an invertible function, simply because the function is inverted by changing the bases back. Such a matrix is itself invertible, and so nonsingular.
 
@@ -101,7 +101,7 @@ $$
 
 (the definition of reduction matrices specifies that $$i\neq k$$ and $$k\neq 0$$ and so this last one is a basis).
 
-**Corollary 1.5** —
+**Corollary 1.5**  —
 
 A matrix is nonsingular if and only if it represents the identity map with respect to some pair of bases.
 
@@ -110,7 +110,7 @@ In the next subsection we will see how to translate among representations of map
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 In $$\mathbb{R}^2$$, where
 
@@ -121,7 +121,7 @@ $$
 find the change of basis matrices from $$D$$ to $$\mathcal{E}_2$$ and from $$\mathcal{E}_2$$ to $$D$$. Multiply the two.  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Find the change of basis matrix for $$B,D\subseteq\mathbb{R}^2$$.
 
@@ -130,12 +130,12 @@ Find the change of basis matrix for $$B,D\subseteq\mathbb{R}^2$$.
 3. $$B=\langle \begin{pmatrix} 1 \\ 2 \end{pmatrix},\begin{pmatrix} 1 \\ 4 \end{pmatrix} \rangle$$, $$D=\mathcal{E}_2$$
 4. $$B=\langle \begin{pmatrix} -1 \\ 1 \end{pmatrix},\begin{pmatrix} 2 \\ 2 \end{pmatrix} \rangle$$, $$D=\langle \begin{pmatrix} 0 \\ 4 \end{pmatrix},\begin{pmatrix} 1 \\ 3 \end{pmatrix} \rangle$$
 
-**Problem 3** —
+**Problem 3**  —
 
 For the bases in Problem 2, find the change of basis matrix in the other direction, from $$D$$ to $$B$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Find the change of basis matrix for each $$B,D\subseteq\mathcal{P}_2$$.
 
@@ -144,7 +144,7 @@ Find the change of basis matrix for each $$B,D\subseteq\mathcal{P}_2$$.
 3. $$B=\langle 2,2x,x^2 \rangle , D=\langle 1+x^2,1-x^2,x+x^2 \rangle$$  
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Decide if each changes bases on $$\mathbb{R}^2$$. To what basis is $$\mathcal{E}_2$$ changed?
 
@@ -153,7 +153,7 @@ Decide if each changes bases on $$\mathbb{R}^2$$. To what basis is $$\mathcal{E}
 3. $$\begin{pmatrix} -1 &4 \\ 2 &-8 \end{pmatrix}$$
 4. $$\begin{pmatrix} 1 &-1 \\ 1 &1 \end{pmatrix}$$
 
-**Problem 6** —
+**Problem 6**  —
 
 Find bases such that this matrix represents the identity map with respect to those bases.
 
@@ -161,11 +161,11 @@ $$
 \begin{pmatrix} 3 &1 &4 \\ 2 &-1 &1 \\ 0 &0 &4 \end{pmatrix}
 $$
 
-**Problem 7** —
+**Problem 7**  —
 
 Conside the vector space of real-valued functions with basis $$\langle \sin(x),\cos(x) \rangle$$. Show that $$\langle 2\sin(x)+\cos(x),3\cos(x) \rangle$$ is also a basis for this space. Find the change of basis matrix in each direction.
 
-**Problem 8** —
+**Problem 8**  —
 
 Where does this matrix
 
@@ -176,25 +176,25 @@ $$
 send the standard basis for $$\mathbb{R}^2$$? Any other bases? *Hint.* Consider the inverse.  
 *This exercise is recommended for all readers.*
 
-**Problem 9** —
+**Problem 9**  —
 
 What is the change of basis matrix with respect to $$B,B$$?
 
-**Problem 10** —
+**Problem 10**  —
 
 Prove that a matrix changes bases if and only if it is invertible.
 
-**Problem 11** —
+**Problem 11**  —
 
 Finish the proof of Lemma 1.4.  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Let $$H$$ be a $$n \! \times \! n$$ nonsingular matrix. What basis of $$\mathbb{R}^n$$ does $$H$$ change to the standard basis?  
 *This exercise is recommended for all readers.*
 
-**Problem 13** —
+**Problem 13**  —
 
 1. In $$\mathcal{P}_3$$ with basis $$B=\langle 1+x,1-x,x^2+x^3,x^2-x^3 \rangle$$ we have this represenatation.
 
@@ -212,17 +212,17 @@ $$
 
 *Hint.* The proof of Lemma 1.4 is constructive— it not only says the bases change, it shows how they change.
 
-**Problem 14** —
+**Problem 14**  —
 
 Let $$V,W$$ be vector spaces, and let $$B,\hat{B}$$ be bases for $$V$$ and $$D,\hat{D}$$ be bases for $$W$$. Where $$h:V\to W$$ is linear, find a formula relating $${\rm Rep}_{B,D}(h)$$ to $${\rm Rep}_{\hat{B},\hat{D}}(h)$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 15** —
+**Problem 15**  —
 
 Show that the columns of an $$n \! \times \! n$$ change of basis matrix form a basis for $$\mathbb{R}^n$$. Do all bases appear in that way: can the vectors from any $$\mathbb{R}^n$$ basis make the columns of a change of basis matrix?  
 *This exercise is recommended for all readers.*
 
-**Problem 16** —
+**Problem 16**  —
 
 Find a matrix having this effect.
 

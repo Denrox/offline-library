@@ -94,7 +94,7 @@ Thus, the geometry of linear maps $$h:\mathbb{R}^n\to \mathbb{R}^m$$ is appealin
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Let $$h:\mathbb{R}^2\to \mathbb{R}^2$$ be the transformation that rotates vectors clockwise by $$\pi/4$$ radians.
 
@@ -103,11 +103,11 @@ Let $$h:\mathbb{R}^2\to \mathbb{R}^2$$ be the transformation that rotates vector
 3. Solve this matrix equation for $$H$$.
 4. Sketch the geometric effect matrix, that is, sketch how $$H$$ is expressed as a combination of dilations, flips, skews, and projections (the identity is a trivial projection).
 
-**Problem 2** —
+**Problem 2**  —
 
 What combination of dilations, flips, skews, and projections produces a rotation counterclockwise by $$2\pi/3$$ radians?
 
-**Problem 3** —
+**Problem 3**  —
 
 What combination of dilations, flips, skews, and projections produces the map $$h:\mathbb{R}^3\to \mathbb{R}^3$$ represented with respect to the standard bases by this matrix?
 
@@ -115,11 +115,11 @@ $$
 \begin{pmatrix} 1 &2 &1 \\ 3 &6 &0 \\ 1 &2 &2 \end{pmatrix}
 $$
 
-**Problem 4** —
+**Problem 4**  —
 
 Show that any linear transformation of $$\mathbb{R}^1$$ is the map that multiplies by a scalar $$x\mapsto kx$$.
 
-**Problem 5** —
+**Problem 5**  —
 
 Show that for any permutation (that is, reordering) $$p$$ of the numbers $$1$$, ..., $$n$$, the map
 
@@ -129,7 +129,7 @@ $$
 
 can be accomplished with a composition of maps, each of which only swaps a single pair of coordinates. *Hint:* it can be done by induction on $$n$$. (*Remark:* in the fourth chapter we will show this and we will also show that the parity of the number of swaps used is determined by $$p$$. That is, although a particular permutation could be accomplished in two different ways with two different numbers of swaps, either both ways use an even number of swaps, or both use an odd number.)
 
-**Problem 6** —
+**Problem 6**  —
 
 Show that linear maps preserve the linear structures of a space.
 
@@ -137,7 +137,7 @@ Show that linear maps preserve the linear structures of a space.
 2. Show that the image of any linear surface is a linear surface. This generalizes the result that under a linear map the image of a subspace is a subspace.
 3. Linear maps preserve other linear ideas. Show that linear maps preserve "betweeness": if the point $$B$$ is between $$A$$ and $$C$$ then the image of $$B$$ is between the image of $$A$$ and the image of $$C$$.
 
-**Problem 7** —
+**Problem 7**  —
 
 Use a picture like the one that appears in the discussion of the Chain Rule to answer: if a function $$f:\mathbb{R}\to \mathbb{R}$$ has an inverse, what's the relationship between how the function — locally, approximately — dilates space, and how its inverse dilates space (assuming, of course, that it has an inverse)?
 

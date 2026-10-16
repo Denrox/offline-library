@@ -14,7 +14,7 @@ That example shows an infinite solution set conforming to the pattern. We can th
 
 We will show that the examples from the prior subsection are representative, in that the description pattern discussed above holds for every solution set.
 
-**Theorem 3.1** — For any linear system there are vectors $$\vec{\beta}_1$$, ..., $$\vec{\beta}_k$$ such that the solution set can be described as
+**Theorem 3.1**  — For any linear system there are vectors $$\vec{\beta}_1$$, ..., $$\vec{\beta}_k$$ such that the solution set can be described as
 
 $$
 \left\{\vec{p}+c_1\vec{\beta}_1+\,\cdots\,+c_k\vec{\beta}_k \,\big|\, c_1,\,\ldots\,,c_k\in\mathbb{R}\right\}
@@ -28,13 +28,13 @@ This description has two parts, the particular solution $$\vec{p}$$ and also the
 
 We will focus first on the unrestricted combination part. To do that, we consider systems that have the vector of zeroes as one of the particular solutions, so that $$\vec{p}+c_1\vec{\beta}_1+\dots+c_k\vec{\beta}_k$$ can be shortened to $$c_1\vec{\beta}_1+\dots+c_k\vec{\beta}_k$$.
 
-**Definition 3.2** —
+**Definition 3.2**  —
 
 A linear equation is **homogeneous** if it has a constant of zero, that is, if it can be put in the form $$a_1x_1+a_2x_2+\,\cdots\,+a_nx_n=0$$.
 
 (These are "homogeneous" because all of the terms involve the same power of their variable— the first power— including a "$$0x_{0}$$" that we can imagine is on the right side.)
 
-**Example 3.3** —
+**Example 3.3**  —
 
 With any linear system like
 
@@ -64,13 +64,13 @@ Obviously the two reductions go in the same way. We can study how linear systems
 
 Studying the associated homogeneous system has a great advantage over studying the original system. Nonhomogeneous systems can be inconsistent. But a homogeneous system must be consistent since there is always at least one solution, the vector of zeros.
 
-**Definition 3.4** —
+**Definition 3.4**  —
 
 A column or row vector of all zeros is a **zero vector**, denoted $$\vec{0}$$.
 
 There are many different zero vectors, e.g., the one-tall zero vector, the two-tall zero vector, etc. Nonetheless, people often refer to "the" zero vector, expecting that the size of the one being discussed will be clear from the context.
 
-**Example 3.5** —
+**Example 3.5**  —
 
 Some homogeneous systems have the zero vector as their only solution.
 
@@ -78,7 +78,7 @@ $$
 \begin{array}{rcrcrcr} 3x &+ &2y &+ &z &= &0 \\ 6x &+ &4y & & &= &0 \\ & &y &+ &z &= &0 \end{array} \;\xrightarrow[]{-2\rho_1 +\rho_2}\; \begin{array}{rcrcrcr} 3x &+ &2y &+ &z &= &0 \\ & & & &-2z&= &0 \\ & &y &+ &z &= &0 \end{array} \;\xrightarrow[]{\rho_2 \leftrightarrow\rho_3}\; \begin{array}{rcrcrcr} 3x &+ &2y &+ &z &= &0 \\ & &y &+ &z &= &0 \\ & & & &-2z&= &0 \end{array}
 $$
 
-**Example 3.6** —
+**Example 3.6**  —
 
 Some homogeneous systems have many solutions. One example is the Chemistry problem from the first page of this book.
 
@@ -96,7 +96,7 @@ has many vectors besides the zero vector (if we interpret $$w$$ as a number of m
 
 We now have the terminology to prove the two parts of Theorem 3.1. The first lemma deals with unrestricted combinations.
 
-**Lemma 3.7** —
+**Lemma 3.7**  —
 
 For any homogeneous linear system there exist vectors $$\vec{\beta}_1$$, ..., $$\vec{\beta}_k$$ such that the solution set of the system is
 
@@ -118,7 +118,7 @@ We next perform back-substitution to express each variable in terms of the free 
 
 *Comment:* That is, this proof just does a verification of the bookkeeping in back substitution to show that we haven't overlooked any obscure cases where this procedure fails, say, by leading to a division by zero. So this argument, while quite detailed, doesn't give us any new insights. Nevertheless, we have written it out for two reasons. The first reason is that we need the result— the computational procedure that we employ must be verified to work as promised. The second reason is that the row-by-row nature of back substitution leads to a proof that uses the technique of mathematical induction. This is an important, and non-obvious, proof technique that we shall use a number of times in this book. Doing an induction argument here gives us a chance to see one in a setting where the proof material is easy to follow, and so the technique can be studied. Readers who are unfamiliar with induction arguments should be sure to master this one and the ones later in this chapter before going on to the second chapter.
 
-**Proof** —
+**Proof**  —
 
 First use Gauss' method to reduce the homogeneous system to echelon form. We will show that each leading variable can be expressed in terms of free variables. That will finish the argument because then we can use those free variables as the parameters. That is, the $$\vec{\beta}$$'s are the vectors of coefficients of the free variables (as in Example 3.6, where the solution is $$x=(1/3)w$$, $$y=w$$, $$z=(1/3)w$$, and $$w=w$$).
 
@@ -156,7 +156,7 @@ This proof incidentally shows, as discussed after [Example 2.4](Linear%20Algebra
 
 The next lemma finishes the proof of Theorem 3.1 by considering the particular solution part of the solution set's description.
 
-**Lemma 3.8** —
+**Lemma 3.8**  —
 
 For a linear system, where $$\vec{p}$$ is any particular solution, the solution set equals this set.
 
@@ -164,7 +164,7 @@ $$
 \{\vec{p}+\vec{h} \,\big|\, \vec{h}\text{ satisfies the associated homogeneous system}\}
 $$
 
-**Proof** —
+**Proof**  —
 
 We will show mutual set inclusion, that any solution to the system is in the above set and that anything in the set is a solution to the system.
 
@@ -186,7 +186,7 @@ where $$h_j$$ is the $$j$$-th component of $$\vec{h}$$.
 
 The two lemmas above together establish Theorem 3.1. We remember that theorem with the slogan "$$\text{General} = \text{Particular} + \text{Homogeneous}$$".
 
-**Example 3.9** —
+**Example 3.9**  —
 
 This system illustrates Theorem 3.1.
 
@@ -220,7 +220,7 @@ $$
 
 As the theorem states, and as discussed at the start of this subsection, in this single-solution case the general solution results from taking the particular solution and adding to it the unique solution of the associated homogeneous system.
 
-**Example 3.10** —
+**Example 3.10**  —
 
 Also discussed there is that the case where the general solution set is empty fits the "$$\text{General}=\text{Particular}+\text{Homogeneous}$$" pattern. This system illustrates Gauss' method
 
@@ -242,11 +242,11 @@ $$
 
 However, because no particular solution of the original system exists, the general solution set is empty— there are no vectors of the form $$\vec{p}+\vec{h}$$ because there are no $$\vec{p}\,$$'s.
 
-**Corollary 3.11** —
+**Corollary 3.11**  —
 
 Solution sets of linear systems are either empty, have one element, or have infinitely many elements.
 
-**Proof** —
+**Proof**  —
 
 We've seen examples of all three happening so we need only prove that those are the only possibilities.
 
@@ -264,25 +264,25 @@ This table summarizes the factors affecting the size of a general solution.
 
 - *number of solutions of the*  
 *associated homogeneous system*
-- *one*  *infinitely many*
+- *one*   *infinitely many*
 - *particular*  
 *solution*  
-*exists?*  *yes*  unique  
-solution  infinitely many  
+*exists?*   *yes*   unique  
+solution   infinitely many  
 solutions
-- *no*  no  
-solutions  no  
+- *no*   no  
+solutions   no  
 solutions
 
 The factor on the top of the table is the simpler one. When we perform Gauss' method on a linear system, ignoring the constants on the right side and so paying attention only to the coefficients on the left-hand side, we either end with every variable leading some row or else we find that some variable does not lead a row, that is, that some variable is free. (Of course, "ignoring the constants on the right" is formalized by considering the associated homogeneous system. We are simply putting aside for the moment the possibility of a contradictory equation.)
 
 A nice insight into the factor on the top of this table at work comes from considering the case of a system having the same number of equations as variables. This system will have a solution, and the solution will be unique, if and only if it reduces to an echelon form system where every variable leads its row, which will happen if and only if the associated homogeneous system has a unique solution. Thus, the question of uniqueness of solution is especially interesting when the system has the same number of equations as variables.
 
-**Definition 3.12** —
+**Definition 3.12**  —
 
 A square matrix is **nonsingular** if it is the matrix of coefficients of a homogeneous system with a unique solution. It is **singular** otherwise, that is, if it is the matrix of coefficients of a homogeneous system with infinitely many solutions.
 
-**Example 3.13** —
+**Example 3.13**  —
 
 The systems from Example 3.3, Example 3.5, and Example 3.9 each have an associated homogeneous system with a unique solution. Thus these matrices are nonsingular.
 
@@ -296,7 +296,7 @@ $$
 \begin{pmatrix} 7 &0 &-7 &0 \\ 8 &1 &-5 &-2 \\ 0 &1 &-3 &0 \\ 0 &3 &-6 &-1 \end{pmatrix}
 $$
 
-**Example 3.14** —
+**Example 3.14**  —
 
 The first of these matrices is nonsingular while the second is singular
 
@@ -351,7 +351,7 @@ More intuition about the interaction comes from studying linear combinations. Th
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Solve each system. Express the solution set using vectors. Identify the particular solution and the solution set of the homogeneous system.
 
@@ -362,7 +362,7 @@ Solve each system. Express the solution set using vectors. Identify the particul
 5. $$\begin{array}{rcrcrcrcr} x &+ &2y &- &z & & &= &3 \\ 2x &+ &y & & &+ &w &= &4 \\ x &- &y &+ &z &+ &w &= &1 \end{array}$$
 6. $$\begin{array}{rcrcrcrcr} x & & &+ &z &+ &w &= &4 \\ 2x &+ &y & & &- &w &= &2 \\ 3x &+ &y &+ &z & & &= &7 \end{array}$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Solve each system, giving the solution set in vector notation. Identify the particular solution and the solution of the homogeneous system.
 
@@ -372,7 +372,7 @@ Solve each system, giving the solution set in vector notation. Identify the part
 4. $$\begin{array}{rcrcrcrcrcr} a &+ &2b &+ &3c &+ &d &- &e &= &1 \\ 3a &- &b &+ &c &+ &d &+ &e &= &3 \end{array}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 For the system
 
@@ -387,7 +387,7 @@ which of these can be used as the particular solution part of some general solut
 3. $$\begin{pmatrix} -1 \\ -4 \\ 8 \\ -1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Lemma 3.8 says that any particular solution may be used for $$\vec{p}$$. Find, if possible, a general solution to this system
 
@@ -401,7 +401,7 @@ that uses the given vector as its particular solution.
 2. $$\begin{pmatrix} -5 \\ 1 \\ -7 \\ 10 \end{pmatrix}$$
 3. $$\begin{pmatrix} 2 \\ -1 \\ 1 \\ 1 \end{pmatrix}$$
 
-**Problem 5** —
+**Problem 5**  —
 
 One of these is nonsingular while the other is singular. Which is which?
 
@@ -409,7 +409,7 @@ One of these is nonsingular while the other is singular. Which is which?
 2. $$\begin{pmatrix} 1 &3 \\ 4 &12 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Singular or nonsingular?
 
@@ -420,7 +420,7 @@ Singular or nonsingular?
 5. $$\begin{pmatrix} 2 &2 &1 \\ 1 &0 &5 \\ -1 &1 &4 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Is the given vector in the set generated by the given set?
 
@@ -429,16 +429,16 @@ Is the given vector in the set generated by the given set?
 3. $$\begin{pmatrix} 1 \\ 3 \\ 0 \end{pmatrix},$$ $$\left\{\begin{pmatrix} 1 \\ 0 \\ 4 \end{pmatrix}, \begin{pmatrix} 2 \\ 1 \\ 5 \end{pmatrix}, \begin{pmatrix} 3 \\ 3 \\ 0 \end{pmatrix}, \begin{pmatrix} 4 \\ 2 \\ 1 \end{pmatrix}\right\}$$
 4. $$\begin{pmatrix} 1 \\ 0 \\ 1 \\ 1 \end{pmatrix},$$ $$\left\{\begin{pmatrix} 2 \\ 1 \\ 0 \\ 1 \end{pmatrix}, \begin{pmatrix} 3 \\ 0 \\ 0 \\ 2 \end{pmatrix}\right\}$$
 
-**Problem 8** —
+**Problem 8**  —
 
 Prove that any linear system with a nonsingular matrix of coefficients has a solution, and that the solution is unique.
 
-**Problem 9** —
+**Problem 9**  —
 
 To tell the whole truth, there is another tricky point to the proof of Lemma 3.7. What happens if there are no non-"$$0=0$$" equations? (There aren't any more tricky points after this one.)  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 Prove that if $$\vec{s}$$ and $$\vec{t}$$ satisfy a homogeneous system then so do these vectors.
 
@@ -448,10 +448,9 @@ Prove that if $$\vec{s}$$ and $$\vec{t}$$ satisfy a homogeneous system then so d
 
 What's wrong with: "These three show that if a homogeneous system has one solution then it has many solutions— any multiple of a solution is another solution, and any sum of solutions is a solution also— so there are no homogeneous systems with exactly one solution."?
 
-**Problem 11** —
+**Problem 11**  —
 
-Prove that if a system with only rational coefficients and constants has a solution then it has at least one all-rational solution. Must it have infinitely many?
-
+Prove that if a system with only rational coefficients and constants has a solution then it has at least one all-rational solution. Must it have infinitely many?  
 Solutions
 
 ### Footnotes

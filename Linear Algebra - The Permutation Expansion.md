@@ -22,7 +22,7 @@ Of course, observing that [Definition 2.1](Linear%20Algebra%20-%20Properties%20o
 
 The formula that we shall use is based on an insight gotten from property (3) of the definition of determinants. This property shows that determinants are not linear.
 
-**Example 3.1** —
+**Example 3.1**  —
 
 For this matrix $$\det(2A)\neq 2\cdot\det(A)$$.
 
@@ -38,7 +38,7 @@ $$
 
 Since scalars come out a row at a time, we might guess that determinants are linear a row at a time.
 
-**Definition 3.2** —
+**Definition 3.2**  —
 
 Let $$V$$ be a vector space. A map $$f:V^n\to \mathbb{R}$$ is **multilinear** if
 
@@ -47,11 +47,11 @@ Let $$V$$ be a vector space. A map $$f:V^n\to \mathbb{R}$$ is **multilinear** if
 
 for $$\vec{v}, \vec{w}\in V$$ and $$k\in\mathbb{R}$$.
 
-**Lemma 3.3** —
+**Lemma 3.3**  —
 
 Determinants are multilinear.
 
-**Proof** —
+**Proof**  —
 
 The definition of determinants gives property (2) ([Lemma 2.3](Linear%20Algebra%20-%20Properties%20of%20Determinants.md) following that definition covers the $$k=0$$ case) so we need only check property (1).
 
@@ -91,7 +91,7 @@ $$
 
 Multilinearity allows us to expand a determinant into a sum of determinants, each of which involves a simple matrix.
 
-**Example 3.4** —
+**Example 3.4**  —
 
 We can use multilinearity to split this determinant into two, first breaking up the first row
 
@@ -107,7 +107,7 @@ $$
 
 We are left with four determinants, such that in each row of each matrix there is a single entry from the original matrix.
 
-**Example 3.5** —
+**Example 3.5**  —
 
 In the same way, a $$3 \! \times \! 3$$ determinant separates into a sum of many simpler determinants. We start by splitting along the first row, producing three determinants (the zero in the $$1,3$$ position is underlined to set it off visually from the zeroes that appear in the splitting).
 
@@ -125,7 +125,7 @@ such that each row contains a single entry from the starting matrix.
 
 So an $$n \! \times \! n$$ determinant expands into a sum of $$n^n$$ determinants where each row of each summands contains a single entry from the starting matrix. However, many of these summand determinants are zero.
 
-**Example 3.6** —
+**Example 3.6**  —
 
 In each of these three matrices from the above expansion, two of the rows have their entry from the starting matrix in the same column, e.g., in the first matrix, the $$2$$ and the $$4$$ both come from the first column.
 
@@ -163,11 +163,11 @@ $$
 \begin{pmatrix} \iota_{3} \\ \iota_{2} \\ \iota_{1} \\ \iota_{4} \end{pmatrix}= \begin{pmatrix} 0 &0 &1 &0 \\ 0 &1 &0 &0 \\ 1 &0 &0 &0 \\ 0 &0 &0 &1 \end{pmatrix}
 $$
 
-**Definition 3.7** —
+**Definition 3.7**  —
 
 An **$$n$$-permutation** is a sequence consisting of an arrangement of the numbers $$1$$, $$2$$, ..., $$n$$.
 
-**Example 3.8** —
+**Example 3.8**  —
 
 The $$2$$-permutations are $$\phi_1=\langle 1,2 \rangle$$ and $$\phi_2=\langle 2,1 \rangle$$. These are the associated permutation matrices.
 
@@ -185,7 +185,7 @@ $$
 
 For instance, the rows of $$P_{\phi_5}$$ are $$\iota_{\phi_5(1)}=\iota_3$$, $$\iota_{\phi_5(2)}=\iota_1$$, and $$\iota_{\phi_5(3)}=\iota_2$$.
 
-**Definition 3.9** —
+**Definition 3.9**  —
 
 The **permutation expansion** for determinants is
 
@@ -203,7 +203,7 @@ $$
 
 read aloud as "the sum, over all permutations $$\phi$$, of terms having the form $$t_{1,\phi(1)}t_{2,\phi(2)}\cdots t_{n,\phi(n)} \left|P_{\phi}\right|$$". This phrase is just a restating of the three-step process *(Step 1)* for each permutation matrix, compute $$t_{1,\phi(1)}t_{2,\phi(2)}\cdots t_{n,\phi(n)}$$ *(Step 2)* multiply that by $$\left|P_{\phi}\right|$$ and *(Step 3)* sum all such terms together.
 
-**Example 3.10** —
+**Example 3.10**  —
 
 The familiar formula for the determinant of a $$2 \! \times \! 2$$ matrix can be derived in this way.
 
@@ -219,23 +219,23 @@ $$
 
 Computing a determinant by permutation expansion usually takes longer than Gauss' method. However, here we are not trying to do the computation efficiently, we are instead trying to give a determinant formula that we can prove to be well-defined. While the permutation expansion is impractical for computations, it is useful in proofs. In particular, we can use it for the result that we are after.
 
-**Theorem 3.11** —
+**Theorem 3.11**  —
 
 For each $$n$$ there is a $$n \! \times \! n$$ determinant function.
 
 The proof is deferred to the following subsection. Also there is the proof of the next result (they share some features).
 
-**Theorem 3.12** —
+**Theorem 3.12**  —
 
 The determinant of a matrix equals the determinant of its transpose.
 
 The consequence of this theorem is that, while we have so far stated results in terms of rows (e.g., determinants are multilinear in their rows, row swaps change the signum, etc.), all of the results also hold in terms of columns. The final result gives examples.
 
-**Corollary 3.13** —
+**Corollary 3.13**  —
 
 A matrix with two equal columns is singular. Column swaps change the sign of a determinant. Determinants are multilinear in their columns.
 
-**Proof** —
+**Proof**  —
 
 For the first statement, transposing the matrix results in a matrix with the same determinant, and with two equal rows, and hence a determinant of zero. The other two are proved in the same way.
 
@@ -256,7 +256,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Compute the determinant by using the permutation expansion.
 
@@ -264,7 +264,7 @@ Compute the determinant by using the permutation expansion.
 2. $$\begin{vmatrix} 2 &2 &1 \\ 3 &-1 &0 \\ -2 &0 &5 \end{vmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Compute these both with Gauss' method and with the permutation expansion formula.
 
@@ -272,22 +272,22 @@ Compute these both with Gauss' method and with the permutation expansion formula
 2. $$\begin{vmatrix} 0 &1 &4 \\ 0 &2 &3 \\ 1 &5 &1 \end{vmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Use the permutation expansion formula to derive the formula for $$3 \! \times \! 3$$ determinants.
 
-**Problem 4** —
+**Problem 4**  —
 
 List all of the $$4$$-permutations.
 
-**Problem 5** —
+**Problem 5**  —
 
 A permutation, regarded as a function from the set $$\{1,..,n\}$$ to itself, is one-to-one and onto. Therefore, each permutation has an inverse.
 
 1. Find the inverse of each $$2$$-permutation.
 2. Find the inverse of each $$3$$-permutation.
 
-**Problem 6** —
+**Problem 6**  —
 
 Prove that $$f$$ is multilinear if and only if for all $$\vec{v},\vec{w}\in V$$ and $$k_1,k_2\in\mathbb{R}$$, this holds.
 
@@ -295,7 +295,7 @@ $$
 f(\vec{\rho}_1,\dots,k_1\vec{v}_1+k_2\vec{v}_2, \dots,\vec{\rho}_n) = k_1f(\vec{\rho}_1,\dots,\vec{v}_1,\dots,\vec{\rho}_n)+ k_2f(\vec{\rho}_1,\dots,\vec{v}_2,\dots,\vec{\rho}_n)
 $$
 
-**Problem 7** —
+**Problem 7**  —
 
 Find the only nonzero term in the permutation expansion of this matrix.
 
@@ -305,33 +305,33 @@ $$
 
 Compute that determinant by finding the signum of the associated permutation.
 
-**Problem 8** —
+**Problem 8**  —
 
 How would determinants change if we changed property (4) of the definition to read that $$\left|I\right|=2$$?
 
-**Problem 9** —
+**Problem 9**  —
 
 Verify the second and third statements in Corollary 3.13.  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 Show that if an $$n \! \times \! n$$ matrix has a nonzero determinant then any column vector $$\vec{v}\in\mathbb{R}^n$$ can be expressed as a linear combination of the columns of the matrix.
 
-**Problem 11** —
+**Problem 11**  —
 
 True or false: a matrix whose entries are only zeros or ones has a determinant equal to zero, one, or negative one. (Strang 1980)
 
-**Problem 12** —
+**Problem 12**  —
 
 1. Show that there are $$120$$ terms in the permutation expansion formula of a $$5 \! \times \! 5$$ matrix.
 2. How many are sure to be zero if the $$1,2$$ entry is zero?
 
-**Problem 13** —
+**Problem 13**  —
 
 How many $$n$$-permutations are there?
 
-**Problem 14** —
+**Problem 14**  —
 
 A matrix $$A$$ is **skew-symmetric** if $${{A}^{\rm trans}}=-A$$, as in this matrix.
 
@@ -342,12 +342,12 @@ $$
 Show that $$n \! \times \! n$$ skew-symmetric matrices with nonzero determinants exist only for even $$n$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 15** —
+**Problem 15**  —
 
 What is the smallest number of zeros, and the placement of those zeros, needed to ensure that a $$4 \! \times \! 4$$ matrix has a determinant of zero?  
 *This exercise is recommended for all readers.*
 
-**Problem 16** —
+**Problem 16**  —
 
 If we have $$n$$ data points $$(x_1,y_1),(x_2,y_2),\dots\,,(x_n,y_n)$$ and want to find a polynomial $$p(x)=a_{n-1}x^{n-1}+a_{n-2}x^{n-2}+\dots+a_1x+a_0$$ passing through those points then we can plug in the points to get an $$n$$ equation/$$n$$ unknown linear system. The matrix of coefficients for that system is called the **Vandermonde matrix**. Prove that the determinant of the transpose of that matrix of coefficients
 
@@ -357,7 +357,7 @@ $$
 
 equals the product, over all indices $$i,j\in\{1,\dots,n\}$$ with $$i<j$$, of terms of the form $$x_j-x_i$$. (This shows that the determinant is zero, and the linear system has no solution, if and only if the $$x_i$$'s in the data are not distinct.)
 
-**Problem 17** —
+**Problem 17**  —
 
 A matrix can be divided into **blocks**, as here,
 
@@ -374,15 +374,15 @@ $$
 where $$J$$ and $$K$$ are square, and $$Z_1$$ and $$Z_2$$ are all zeroes, then $$\left|T\right|=\left|J\right|\cdot\left|K\right|$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 18** —
+**Problem 18**  —
 
 Prove that for any $$n \! \times \! n$$ matrix $$T$$ there are at most $$n$$ distinct reals $$r$$ such that the matrix $$T-rI$$ has determinant zero (we shall use this result in Chapter Five).
 
-**? Problem 19** —
+**? Problem 19**  —
 
 The nine positive digits can be arranged into $$3 \! \times \! 3$$ arrays in $$9!$$ ways. Find the sum of the determinants of these arrays. (Trigg 1963)
 
-**Problem 20** —
+**Problem 20**  —
 
 Show that
 
@@ -392,11 +392,11 @@ $$
 
 (Silverman & Trigg 1963)
 
-**? Problem 21** —
+**? Problem 21**  —
 
 Let $$S$$ be the sum of the integer elements of a magic square of order three and let $$D$$ be the value of the square considered as a determinant. Show that $$D/S$$ is an integer. (Trigg & Walker 1949)
 
-**? Problem 22** —
+**? Problem 22**  —
 
 Show that the determinant of the $$n^2$$ elements in the upper left corner of the Pascal triangle
 

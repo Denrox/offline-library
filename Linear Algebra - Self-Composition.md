@@ -6,7 +6,7 @@ A linear transformations $$t:V\to V$$, because it has the same domain and codoma
 
 Note that this power notation for the linear transformation functions dovetails with the notation that we've used earlier for their squared matrix representations because if $${\rm Rep}_{B,B}(t)=T$$ then $${\rm Rep}_{B,B}(t^j)=T^j$$.
 
-**Example 1.1** —
+**Example 1.1**  —
 
 For the derivative map $$d/dx:\mathcal{P}_3\to \mathcal{P}_3$$ given by
 
@@ -28,7 +28,7 @@ $$
 
 and any higher power is the zero map.
 
-**Example 1.2** —
+**Example 1.2**  —
 
 This transformation of the space of $$2 \! \times \! 2$$ matrices
 
@@ -52,7 +52,7 @@ After that, $$t^4=t^2$$ and $$t^5=t^3$$, etc.
 
 These examples suggest that on iteration more and more zeros appear until there is a settling down. The next result makes this precise.
 
-**Lemma 1.3** —
+**Lemma 1.3**  —
 
 For any transformation $$t:V\to V$$, the rangespaces of the powers form a descending chain
 
@@ -68,7 +68,7 @@ $$
 
 Further, there is a $$k$$ such that for powers less than $$k$$ the subsets are proper (if $$j<k$$ then $$\mathcal{R}(t^j)\supset\mathcal{R}(t^{j+1})$$ and $$\mathcal{N}(t^j)\subset\mathcal{N}(t^{j+1})$$), while for powers greater than $$k$$ the sets are equal (if $$j\geq k$$ then $$\mathcal{R}(t^j)=\mathcal{R}(t^{j+1})$$ and $$\mathcal{N}(t^j)=\mathcal{N}(t^{j+1})$$).
 
-**Proof** —
+**Proof**  —
 
 We will do the rangespace half and leave the rest for Problem 6. Recall, however, that for any map the dimension of its rangespace plus the dimension of its nullspace equals the dimension of its domain. So if the rangespaces shrink then the nullspaces must grow.
 
@@ -76,7 +76,7 @@ That the rangespaces form chains is clear because if $$\vec{w}\in\mathcal{R}(t^{
 
 But the chain must stop decreasing. Each rangespace is a subspace of the one before it. For it to be a proper subspace it must be of strictly lower dimension (see Problem 4). These spaces are finite-dimensional and so the chain can fall for only finitely-many steps, that is, the power $$k$$ is at most the dimension of $$V$$.
 
-**Example 1.4** —
+**Example 1.4**  —
 
 The derivative map $$a+bx+cx^2+dx^3\stackrel{d/dx}{\longmapsto} b+2cx+3dx^2$$ of Example 1.1 has this chain of rangespaces
 
@@ -90,7 +90,7 @@ $$
 \{\vec{0}\,\}\subset\mathcal{P}_0\subset\mathcal{P}_1\subset\mathcal{P}_2 \subset\mathcal{P}_3=\mathcal{P}_3=\cdots
 $$
 
-**Example 1.5** —
+**Example 1.5**  —
 
 The transformation $$\pi:\mathbb{C}^3\to \mathbb{C}^3$$ projecting onto the first two coordinates
 
@@ -100,7 +100,7 @@ $$
 
 has $$\mathbb{C}^3\supset\mathcal{R}(\pi)=\mathcal{R}(\pi^2)=\cdots$$ and $$\{\vec{0}\,\}\subset\mathcal{N}(\pi)=\mathcal{N}(\pi^2)=\cdots\,$$.
 
-**Example 1.6** —
+**Example 1.6**  —
 
 Let $$t:\mathcal{P}_2\to \mathcal{P}_2$$ be the map $$c_0+c_1x+c_2x^2 \mapsto 2c_0+c_2x.$$ As the lemma describes, on iteration the rangespace shrinks
 
@@ -120,17 +120,17 @@ This graph illustrates Lemma 1.3. The horizontal axis gives the power $$j$$ of a
 
 As sketched, on iteration the rank falls and with it the nullity grows until the two reach a steady state. This state must be reached by the $$n$$-th iterate. The steady state's distance above zero is the dimension of the generalized rangespace and its distance below $$n$$ is the dimension of the generalized nullspace.
 
-**Definition 1.7** —
+**Definition 1.7**  —
 
 Let $$t$$ be a transformation on an $$n$$-dimensional space. The **generalized rangespace** (or the **closure of the rangespace**) is $$\mathcal{R}_\infty(t)=\mathcal{R}(t^n)$$ The **generalized nullspace** (or the **closure of the nullspace**) is $$\mathcal{N}_\infty(t)=\mathcal{N}(t^n)$$.
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Give the chains of rangespaces and nullspaces for the zero and identity transformations.
 
-**Problem 2** —
+**Problem 2**  —
 
 For each map, give the chain of rangespaces and the chain of nullspaces, and the generalized rangespace and the generalized nullspace.
 
@@ -148,27 +148,27 @@ $$
 \begin{pmatrix} a \\ b \\ c \end{pmatrix}\mapsto\begin{pmatrix} a \\ a \\ b \end{pmatrix}
 $$
 
-**Problem 3** —
+**Problem 3**  —
 
 Prove that function composition is associative $$(t\circ t)\circ t=t\circ (t\circ t)$$ and so we can write $$t^3$$ without specifying a grouping.
 
-**Problem 4** —
+**Problem 4**  —
 
 Check that a subspace must be of dimension less than or equal to the dimension of its superspace. Check that if the subspace is proper (the subspace does not equal the superspace) then the dimension is strictly less. *(This is used in the proof of Lemma 1.3.)*
 
-**Problem 5** —
+**Problem 5**  —
 
 Prove that the generalized rangespace $$\mathcal{R}_\infty(t)$$ is the entire space, and the generalized nullspace $$\mathcal{N}_\infty(t)$$ is trivial, if the transformation $$t$$ is nonsingular. Is this "only if" also?
 
-**Problem 6** —
+**Problem 6**  —
 
 Verify the nullspace half of Lemma 1.3.
 
-**Problem 7** —
+**Problem 7**  —
 
 Give an example of a transformation on a three dimensional space whose range has dimension two. What is its nullspace? Iterate your example until the rangespace and nullspace stabilize.
 
-**Problem 8** —
+**Problem 8**  —
 
 Show that the rangespace and nullspace of a linear transformation need not be disjoint. Are they ever disjoint?
 

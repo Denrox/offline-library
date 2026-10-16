@@ -15,7 +15,7 @@ The set of all unit length vectors $$\vec{v}$$ such that $$|\vec{v}| = 1$$ form 
 
 One fact that is not immediately obvious is that the singular value decomposition always exists:
 
-**Theorem (existence of the singular value decomposition)** —
+**Theorem (existence of the singular value decomposition)**  —
 
 Given **any** $$m \times n$$ matrix $$A$$, there exists $$m \times m$$ unitary matrix $$U$$, $$n \times n$$ unitary matrix $$V$$, and $$m \times n$$ diagonal matrix $$\Sigma$$ where all off-diagonal entries are 0 and the diagonal entries are all non-negative real values such that $$A = U\Sigma V^H$$.
 
@@ -41,23 +41,23 @@ Lastly, how do we know that there exists $$\vec{v}_1$$ so that when given any ve
 
 We are now ready to give the proof in full detail:
 
-**Proof of the existence of the singular value decomposition** —
+**Proof of the existence of the singular value decomposition**  —
 
 This proof will proceed using induction on both $$m$$ and $$n$$.
 
-**Base Case $$m = 1$$** —
+**Base Case $$m = 1$$**  —
 
 $$A$$ has a single row, and therefore has the form $$A = \begin{pmatrix} \sigma_1\vec{v}_1^H \end{pmatrix}$$ where $$\vec{v}_1$$ is an arbitrary unit length vector, and $$\sigma_1$$ is an arbitrary non-negative real number. Note that $$\vec{v}_1$$ and $$\sigma_1$$ exist for any single row matrix $$A$$.
 
 Let $$U = \begin{pmatrix} 1 \end{pmatrix}$$, $$\Sigma = \begin{pmatrix} \sigma_1 & 0 & \dots & 0 \\ \end{pmatrix}$$, and $$V = \begin{pmatrix} \vec{v}_1 & \vec{v}_2 & \dots & \vec{v}_n \end{pmatrix}$$ where $$\vec{v}_1, \vec{v}_2, \dots, \vec{v}_n$$ together form an mutually orthogonal set of unit length vectors. $$\vec{v}_2, \vec{v}_3, \dots, \vec{v}_n$$ can be determined via Gram-Schmidt orthogonalization. It is clear that: $$A = U\Sigma V^H$$.
 
-**Base Case $$n = 1$$** —
+**Base Case $$n = 1$$**  —
 
 $$A$$ has a single column, and therefore has the form $$A = \begin{pmatrix} \sigma_1\vec{u}_1 \end{pmatrix}$$ where $$\vec{u}_1$$ is an arbitrary unit length vector, and $$\sigma_1$$ is an arbitrary non-negative real number. Note that $$\vec{u}_1$$ and $$\sigma_1$$ exist for any single column matrix $$A$$.
 
 Let $$U = \begin{pmatrix} \vec{u}_1 & \vec{u}_2 & \dots & \vec{u}_m \end{pmatrix}$$, $$\Sigma = \begin{pmatrix} \sigma_1 \\ 0 \\ \vdots \\ 0 \\ \end{pmatrix}$$, and $$V = \begin{pmatrix} 1 \end{pmatrix}$$ where $$\vec{u}_1, \vec{u}_2, \dots, \vec{u}_m$$ together form an mutually orthogonal set of unit length vectors. $$\vec{u}_2, \vec{u}_3, \dots, \vec{u}_m$$ can be determined via Gram-Schmidt orthogonalization. It is clear that: $$A = U\Sigma V^H$$.
 
-**Inductive Case $$m,n \geq 2$$** —
+**Inductive Case $$m,n \geq 2$$**  —
 
 Let $$\vec{e}_{k,i}$$ denote the $$i^\text{th}$$ standard basis vector of $$\Complex^k$$. Let $$\mathbf{0}_{k \times l}$$ denote a $$k \times l$$ matrix of 0s.
 

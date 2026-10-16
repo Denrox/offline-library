@@ -1,6 +1,6 @@
 # Laplace's Expansion
 
-**Example 1.1** —
+**Example 1.1**  —
 
 In this permutation expansion
 
@@ -28,11 +28,11 @@ $$
 
 The formula given in Theorem 1.5, which generalizes this example, is a **recurrence** — the determinant is expressed as a combination of determinants. This formula isn't circular because, as here, the determinant is expressed in terms of determinants of matrices of smaller size.
 
-**Definition 1.2** —
+**Definition 1.2**  —
 
 For any $$n \! \times \! n$$ matrix $$T$$, the $$(n-1) \! \times \! (n-1)$$ matrix formed by deleting row $$i$$ and column $$j$$ of $$T$$ is the $$i,j$$ **minor** of $$T$$. The $$i,j$$ **cofactor** $$T_{i,j}$$ of $$T$$ is $$(-1)^{i+j}$$ times the determinant of the $$i,j$$ minor of $$T$$.
 
-**Example 1.3** —
+**Example 1.3**  —
 
 The $$1,2$$ cofactor of the matrix from Example 1.1 is the negative of the second $$2 \! \times \! 2$$ determinant.
 
@@ -40,7 +40,7 @@ $$
 T_{1,2}= -1\cdot\begin{vmatrix} t_{2,1} &t_{2,3} \\ t_{3,1} &t_{3,3} \end{vmatrix}
 $$
 
-**Example 1.4** —
+**Example 1.4**  —
 
 Where
 
@@ -54,7 +54,7 @@ $$
 T_{1,2}= (-1)^{1+2}\cdot\begin{vmatrix} 4 &6 \\ 7 &9 \end{vmatrix}=6 \qquad T_{2,2}= (-1)^{2+2}\cdot\begin{vmatrix} 1 &3 \\ 7 &9 \end{vmatrix}=-12
 $$
 
-**Theorem 1.5 (Laplace Expansion of Determinants)** —
+**Theorem 1.5 (Laplace Expansion of Determinants)**  —
 
 Where $$T$$ is an $$n \! \times \! n$$ matrix, the determinant can be found by expanding by cofactors on row $$i$$ or column $$j$$.
 
@@ -62,11 +62,11 @@ $$
 \begin{array}{rl} \left|T\right| &=t_{i,1}\cdot T_{i,1}+t_{i,2}\cdot T_{i,2}+\cdots+t_{i,n}\cdot T_{i,n} \\ &=t_{1,j}\cdot T_{1,j}+t_{2,j}\cdot T_{2,j}+\cdots+t_{n,j}\cdot T_{n,j} \end{array}
 $$
 
-**Proof** —
+**Proof**  —
 
 Problem 15.
 
-**Example 1.6** —
+**Example 1.6**  —
 
 We can compute the determinant
 
@@ -86,7 +86,7 @@ $$
 \left|T\right| =2\cdot(-1)\begin{vmatrix} 4 &6 \\ 7 &9 \end{vmatrix} +5\cdot(+1)\begin{vmatrix} 1 &3 \\ 7 &9 \end{vmatrix} +8\cdot(-1)\begin{vmatrix} 1 &3 \\ 4 &6 \end{vmatrix} =12-60+48 =0
 $$
 
-**Example 1.7** —
+**Example 1.7**  —
 
 A row or column with many zeroes suggests a Laplace expansion.
 
@@ -114,7 +114,7 @@ $$
 
 Note that the order of the subscripts in the matrix of cofactors is opposite to the order of subscripts in the other matrix; e.g., along the first row of the matrix of cofactors the subscripts are $$1,1$$ then $$2,1$$, etc.
 
-**Definition 1.8** —
+**Definition 1.8**  —
 
 The matrix **adjoint** to the square matrix $$T$$ is
 
@@ -124,15 +124,15 @@ $$
 
 where $$T_{j,i}$$ is the $$j,i$$ cofactor.
 
-**Theorem 1.9** —
+**Theorem 1.9**  —
 
 Where $$T$$ is a square matrix, $$T\cdot \text{adj}\,(T)=\text{adj}\,(T)\cdot T=\left|T\right|\cdot I$$.
 
-**Proof** —
+**Proof**  —
 
 Equations ($$*$$) and ($$**$$).
 
-**Example 1.10** —
+**Example 1.10**  —
 
 If
 
@@ -152,11 +152,11 @@ $$
 \begin{pmatrix} 1 &0 &4 \\ 2 &1 &-1 \\ 1 &0 &1 \end{pmatrix} \begin{pmatrix} 1 &0 &-4 \\ -3 &-3 &9 \\ -1 &0 &1 \end{pmatrix} =\begin{pmatrix} -3 &0 &0 \\ 0 &-3 &0 \\ 0 &0 &-3 \end{pmatrix}
 $$
 
-**Corollary 1.11** —
+**Corollary 1.11**  —
 
 If $$\left|T\right|\neq 0$$ then $$T^{-1}=(1/\left|T\right|)\cdot\text{adj}\,(T)$$.
 
-**Example 1.12** —
+**Example 1.12**  —
 
 The inverse of the matrix from Example 1.10 is $$(1/-3)\cdot\text{adj}\,(T)$$.
 
@@ -169,7 +169,7 @@ The formulas from this section are often used for by-hand calculation and are so
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Find the cofactor.
 
@@ -182,7 +182,7 @@ $$
 3. $$T_{1,3}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Find the determinant by expanding
 
@@ -194,12 +194,12 @@ $$
 2. on the second row
 3. on the third column.
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the adjoint of the matrix in Example 1.6.  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Find the matrix adjoint to each.
 
@@ -209,11 +209,11 @@ Find the matrix adjoint to each.
 4. $$\begin{pmatrix} 1 &4 &3 \\ -1 &0 &3 \\ 1 &8 &9 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Find the inverse of each matrix in the prior question with Theorem 1.9.
 
-**Problem 6** —
+**Problem 6**  —
 
 Find the matrix adjoint to this one.
 
@@ -223,55 +223,55 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Expand across the first row to derive the formula for the determinant of a $$2 \! \times \! 2$$ matrix.  
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Expand across the first row to derive the formula for the determinant of a $$3 \! \times \! 3$$ matrix.  
 *This exercise is recommended for all readers.*
 
-**Problem 9** —
+**Problem 9**  —
 
 1. Give a formula for the adjoint of a $$2 \! \times \! 2$$ matrix.
 2. Use it to derive the formula for the inverse.  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 Can we compute a determinant by expanding down the diagonal?
 
-**Problem 11** —
+**Problem 11**  —
 
 Give a formula for the adjoint of a diagonal matrix.  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Prove that the transpose of the adjoint is the adjoint of the transpose.
 
-**Problem 13** —
+**Problem 13**  —
 
 Prove or disprove: $$\text{adj}\,(\text{adj}\,(T))=T$$.
 
-**Problem 14** —
+**Problem 14**  —
 
 A square matrix is **upper triangular** if each $$i,j$$ entry is zero in the part above the diagonal, that is, when $$i>j$$.
 
 1. Must the adjoint of an upper triangular matrix be upper triangular? Lower triangular?
 2. Prove that the inverse of a upper triangular matrix is upper triangular, if an inverse exists.
 
-**Problem 15** —
+**Problem 15**  —
 
 *This question requires material from the optional Determinants Exist subsection.* Prove Theorem 1.5 by using the permutation expansion.
 
-**Problem 16** —
+**Problem 16**  —
 
 Prove that the determinant of a matrix equals the determinant of its transpose using Laplace's expansion and induction on the size of the matrix.
 
-**? Problem 17** —
+**? Problem 17**  —
 
 Show that
 

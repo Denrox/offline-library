@@ -99,7 +99,7 @@ Another example is the fractions. Of course, $$2/3$$ and $$4/6$$ are equivalent 
 Before we show that equivalence relations always give rise to partitions, we first illustrate the argument. Consider the relationship between two integers of "same parity", the set $$\{ (-1,3),(2,4),(0,0),\ldots\}$$ (i.e., "give the same remainder when divided by $$2$$"). We want to say that the natural numbers split into two pieces, the evens and the odds, and inside a piece each member has the same parity as each other. So for each $$x$$ we define the set of numbers associated with it: $$S_x=\{y\,\big|\, (x,y)\in\text{same parity}\}$$. Some examples are $$S_1=\{\ldots,-3,-1,1,3,\ldots\}$$, and $$S_4=\{\ldots,-2,0,2,4,\ldots\}$$, and $$S_{-1}=\{\ldots,-3,-1,1,3,\ldots\}$$. These are the parts, e.g., $$S_1$$ is the odds.  
 **Theorem** An equivalence relation induces a partition on the underlying set.
 
-**Proof** —
+**Proof**  —
 
 Call the set $$S$$ and the relation $$R$$. In line with the illustration in the paragraph above, for each $$x\in S$$ define $$S_x=\{y\,\big|\, (x,y)\in R\}$$.
 

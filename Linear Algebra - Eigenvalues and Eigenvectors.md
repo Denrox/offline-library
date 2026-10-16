@@ -2,13 +2,13 @@
 
 In this subsection we will focus on the property of [Corollary 2.4](Linear%20Algebra%20-%20Diagonalizability.md).
 
-**Definition 3.1** —
+**Definition 3.1**  —
 
 A transformation $$t:V\to V$$ has a scalar **eigenvalue** $$\lambda$$ if there is a nonzero **eigenvector** $$\vec{\zeta}\in V$$ such that $$t(\vec{\zeta})=\lambda\cdot\vec{\zeta}$$.
 
 ("Eigen" is German for "characteristic of" or "peculiar to"; some authors call these **characteristic** values and vectors. No authors call them "peculiar".)
 
-**Example 3.2** —
+**Example 3.2**  —
 
 The projection map
 
@@ -26,7 +26,7 @@ where $$x$$ and $$y$$ are scalars at least one of which is non-$$0$$. On the oth
 
 That example shows why the "non-$$\vec{0}$$" appears in the definition. Disallowing $$\vec{0}$$ as an eigenvector eliminates trivial eigenvalues.
 
-**Example 3.3** —
+**Example 3.3**  —
 
 The only transformation on the trivial space $$\{\vec{0}\,\}$$ is
 
@@ -36,17 +36,17 @@ $$
 
 This map has no eigenvalues because there are no non-$$\vec{0}$$ vectors $$\vec{v}$$ mapped to a scalar multiple $$\lambda\cdot\vec{v}$$ of themselves.
 
-**Example 3.4** —
+**Example 3.4**  —
 
 Consider the homomorphism $$t:\mathcal{P}_1\to \mathcal{P}_1$$ given by $$c_0+c_1x\mapsto(c_0+c_1)+(c_0+c_1)x$$. The range of $$t$$ is one-dimensional. Thus an application of $$t$$ to a vector in the range will simply rescale that vector: $$c+cx\mapsto (2c)+(2c)x$$. That is, $$t$$ has an eigenvalue of $$2$$ associated with eigenvectors of the form $$c+cx$$ where $$c\neq 0$$.
 
 This map also has an eigenvalue of $$0$$ associated with eigenvectors of the form $$c-cx$$ where $$c\neq 0$$.
 
-**Definition 3.5** —
+**Definition 3.5**  —
 
 A square matrix $$T$$ has a scalar **eigenvalue** $$\lambda$$ associated with the non-$$\vec{0}$$ **eigenvector** $$\vec{\zeta}$$ if $$T\vec{\zeta}=\lambda\cdot\vec{\zeta}$$.
 
-**Remark 3.6** —
+**Remark 3.6**  —
 
 Although this extension from maps to matrices is obvious, there is a point that must be made. Eigenvalues of a map are also the eigenvalues of matrices representing that map, and so similar matrices have the same eigenvalues. But the eigenvectors are different— similar matrices need not have the same eigenvectors.
 
@@ -80,7 +80,7 @@ Here is an informal description of what's happening. The underlying transformati
 
 The next example illustrates the basic tool for finding eigenvectors and eigenvalues.
 
-**Example 3.7** —
+**Example 3.7**  —
 
 What are the eigenvalues and eigenvectors of this matrix?
 
@@ -120,7 +120,7 @@ $$
 
 with $$b\neq 0$$.
 
-**Example 3.8** —
+**Example 3.8**  —
 
 If
 
@@ -148,31 +148,31 @@ $$
 
 where $$b\neq 0$$.
 
-**Definition 3.9** —
+**Definition 3.9**  —
 
 The **characteristic polynomial** of a square matrix $$T$$ is the determinant of the matrix $$T-x I$$, where $$x$$ is a variable. The **characteristic equation** is $$\left|T-xI\right|=0$$. The characteristic polynomial of a transformation $$t$$ is the polynomial of any $${\rm Rep}_{B,B}(t)$$.
 
 Problem 11 checks that the characteristic polynomial of a transformation is well-defined, that is, any choice of basis yields the same polynomial.
 
-**Lemma 3.10** —
+**Lemma 3.10**  —
 
 A linear transformation on a nontrivial vector space has at least one eigenvalue.
 
-**Proof** —
+**Proof**  —
 
 Any root of the characteristic polynomial is an eigenvalue. Over the complex numbers, any polynomial of degree one or greater has a root. (This is the reason that in this chapter we've gone to scalars that are complex.)
 
 Notice the familiar form of the sets of eigenvectors in the above examples.
 
-**Definition 3.11** —
+**Definition 3.11**  —
 
 The **eigenspace** of a transformation $$t$$ associated with the eigenvalue $$\lambda$$ is $$V_\lambda=\{\vec{\zeta}\,\big|\, t(\vec{\zeta}\,)=\lambda\vec{\zeta}\,\} \cup\{\vec{0}\,\}$$. The eigenspace of a matrix is defined analogously.
 
-**Lemma 3.12** —
+**Lemma 3.12**  —
 
 An eigenspace is a subspace.
 
-**Proof** —
+**Proof**  —
 
 An eigenspace must be nonempty— for one thing it contains the zero vector— and so we need only check closure. Take vectors $$\vec{\zeta}_1,\ldots,\vec{\zeta}_n$$ from $$V_\lambda$$, to show that any linear combination is in $$V_\lambda$$
 
@@ -182,7 +182,7 @@ $$
 
 (the second equality holds even if any $$\vec{\zeta}_i$$ is $$\vec{0}$$ since $$t(\vec{0})=\lambda\cdot\vec{0}=\vec{0}$$).
 
-**Example 3.13** —
+**Example 3.13**  —
 
 In Example 3.8 the eigenspace associated with the eigenvalue $$\pi$$ and the eigenspace associated with the eigenvalue $$3$$ are these.
 
@@ -190,7 +190,7 @@ $$
 V_{\pi}=\{\begin{pmatrix} a \\ 0 \end{pmatrix}\,\big|\, a\in\mathbb{R}\} \qquad V_3=\{\begin{pmatrix} -b/\pi-3 \\ b \end{pmatrix}\,\big|\, b\in\mathbb{R}\}
 $$
 
-**Example 3.14** —
+**Example 3.14**  —
 
 In Example 3.7, these are the eigenspaces associated with the eigenvalues $$0$$ and $$2$$.
 
@@ -198,11 +198,11 @@ $$
 V_0=\{\begin{pmatrix} a \\ -a \\ a \end{pmatrix}\,\big|\, a\in\mathbb{R}\}, \qquad V_2=\{\begin{pmatrix} b \\ 0 \\ b \end{pmatrix}\,\big|\, b\in\mathbb{R}\}.
 $$
 
-**Remark 3.15** —
+**Remark 3.15**  —
 
 The characteristic equation is $$0=x(x-2)^2$$ so in some sense $$2$$ is an eigenvalue "twice". However there are not "twice" as many eigenvectors, in that the dimension of the eigenspace is one, not two. The next example shows a case where a number, $$1$$, is a double root of the characteristic equation and the dimension of the associated eigenspace is two.
 
-**Example 3.16** —
+**Example 3.16**  —
 
 With respect to the standard bases, this matrix
 
@@ -224,11 +224,11 @@ $$
 
 By the lemma, if two eigenvectors $$\vec{v}_1$$ and $$\vec{v}_2$$ are associated with the same eigenvalue then any linear combination of those two is also an eigenvector associated with that same eigenvalue. But, if two eigenvectors $$\vec{v}_1$$ and $$\vec{v}_2$$ are associated with different eigenvalues then the sum $$\vec{v}_1+\vec{v}_2$$ need not be related to the eigenvalue of either one. In fact, just the opposite. If the eigenvalues are different then the eigenvectors are not linearly related.
 
-**Theorem 3.17** —
+**Theorem 3.17**  —
 
 For any set of distinct eigenvalues of a map or matrix, a set of associated eigenvectors, one per eigenvalue, is linearly independent.
 
-**Proof** —
+**Proof**  —
 
 We will use induction on the number of eigenvalues. If there is no eigenvalue or only one eigenvalue then the set of associated eigenvectors is empty or is a singleton set with a non-$$\vec{0}$$ member, and in either case is linearly independent.
 
@@ -240,7 +240,7 @@ $$
 
 The induction hypothesis now applies: $$c_1(\lambda_{k+1}-\lambda_1)=0,\dots,c_k(\lambda_{k+1}-\lambda_k)=0$$. Thus, as all the eigenvalues are distinct, $$c_1,\,\dots,\,c_k$$ are all $$0$$. Finally, now $$c_{k+1}$$ must be $$0$$ because we are left with the equation $$\vec{v}_{k+1}\neq\vec{0}$$.
 
-**Example 3.18** —
+**Example 3.18**  —
 
 The eigenvalues of
 
@@ -256,17 +256,17 @@ $$
 
 is linearly independent.
 
-**Corollary 3.19** —
+**Corollary 3.19**  —
 
 An $$n \! \times \! n$$ matrix with $$n$$ distinct eigenvalues is diagonalizable.
 
-**Proof** —
+**Proof**  —
 
 Form a basis of eigenvectors. Apply [Corollary 2.4](Linear%20Algebra%20-%20Diagonalizability.md).
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 For each, find the characteristic polynomial and the eigenvalues.
 
@@ -277,14 +277,14 @@ For each, find the characteristic polynomial and the eigenvalues.
 5. $$\begin{pmatrix} 1 &0 \\ 0 &1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 For each matrix, find the characteristic equation, and the eigenvalues and associated eigenvectors.
 
 1. $$\begin{pmatrix} 3 &0 \\ 8 &-1 \end{pmatrix}$$
 2. $$\begin{pmatrix} 3 &2 \\ -1 &0 \end{pmatrix}$$
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the characteristic equation, and the eigenvalues and associated eigenvectors for this matrix. *Hint.* The eigenvalues are complex.
 
@@ -292,7 +292,7 @@ $$
 \begin{pmatrix} -2 &-1 \\ 5 &2 \end{pmatrix}
 $$
 
-**Problem 4** —
+**Problem 4**  —
 
 Find the characteristic polynomial, the eigenvalues, and the associated eigenvectors of this matrix.
 
@@ -302,7 +302,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 For each matrix, find the characteristic equation, and the eigenvalues and associated eigenvectors.
 
@@ -310,7 +310,7 @@ For each matrix, find the characteristic equation, and the eigenvalues and assoc
 2. $$\begin{pmatrix} 0 &1 &0 \\ 0 &0 &1 \\ 4 &-17 &8 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Let $$t:\mathcal{P}_2\to \mathcal{P}_2$$ be
 
@@ -320,7 +320,7 @@ $$
 
 Find its eigenvalues and the associated eigenvectors.
 
-**Problem 7** —
+**Problem 7**  —
 
 Find the eigenvalues and eigenvectors of this map $$t:\mathcal{M}_2\to \mathcal{M}_2$$.
 
@@ -330,35 +330,35 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Find the eigenvalues and associated eigenvectors of the differentiation operator $$d/dx:\mathcal{P}_3\to \mathcal{P}_3$$.
 
-**Problem 9** — Prove that
+**Problem 9**  — Prove that
 
 the eigenvalues of a triangular matrix (upper or lower triangular) are the entries on the diagonal.  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 Find the formula for the characteristic polynomial of a $$2 \! \times \! 2$$ matrix.
 
-**Problem 11** —
+**Problem 11**  —
 
 Prove that the characteristic polynomial of a transformation is well-defined.  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 1. Can any non-$$\vec{0}$$ vector in any nontrivial vector space be a eigenvector? That is, given a $$\vec{v}\neq\vec{0}$$ from a nontrivial $$V$$, is there a transformation $$t:V\to V$$ and a scalar $$\lambda\in\mathbb{R}$$ such that $$t(\vec{v})=\lambda\vec{v}$$?
 2. Given a scalar $$\lambda$$, can any non-$$\vec{0}$$ vector in any nontrivial vector space be an eigenvector associated with the eigenvalue $$\lambda$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 13** —
+**Problem 13**  —
 
 Suppose that $$t:V\to V$$ and $$T={\rm Rep}_{B,B}(t)$$. Prove that the eigenvectors of $$T$$ associated with $$\lambda$$ are the non-$$\vec{0}$$ vectors in the kernel of the map represented (with respect to the same bases) by $$T-\lambda I$$.
 
-**Problem 14** —
+**Problem 14**  —
 
 Prove that if $$a,\ldots,\,d$$ are all integers and $$a+b=c+d$$ then
 
@@ -369,12 +369,12 @@ $$
 has integral eigenvalues, namely $$a+b$$ and $$a-c$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 15** —
+**Problem 15**  —
 
 Prove that if $$T$$ is nonsingular and has eigenvalues $$\lambda_1,\dots,\lambda_n$$ then $$T^{-1}$$ has eigenvalues $$1/\lambda_1,\dots,1/\lambda_n$$. Is the converse true?  
 *This exercise is recommended for all readers.*
 
-**Problem 16** —
+**Problem 16**  —
 
 Suppose that $$T$$ is $$n \! \times \! n$$ and $$c,d$$ are scalars.
 
@@ -382,26 +382,26 @@ Suppose that $$T$$ is $$n \! \times \! n$$ and $$c,d$$ are scalars.
 2. Prove that if $$T$$ is diagonalizable then so is $$cT+dI$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 17** —
+**Problem 17**  —
 
 Show that $$\lambda$$ is an eigenvalue of $$T$$ if and only if the map represented by $$T-\lambda I$$ is not an isomorphism.
 
-**Problem 18** —
+**Problem 18**  —
 
 1. Show that if $$\lambda$$ is an eigenvalue of $$A$$ then $$\lambda^k$$ is an eigenvalue of $$A^k$$.
 2. What is wrong with this proof generalizing that? "If $$\lambda$$ is an eigenvalue of $$A$$ and $$\mu$$ is an eigenvalue for $$B$$, then $$\lambda\mu$$ is an eigenvalue for $$AB$$, for, if $$A\vec{x}=\lambda\vec{x}$$ and $$B\vec{x}=\mu\vec{x}$$ then $$AB\vec{x}=A\mu\vec{x}=\mu A\vec{x}=\mu\lambda\vec{x}$$"?
 
 (Strang 1980)
 
-**Problem 19** —
+**Problem 19**  —
 
 Do matrix-equivalent matrices have the same eigenvalues?
 
-**Problem 20** —
+**Problem 20**  —
 
 Show that a square matrix with real entries and an odd number of rows has at least one real eigenvalue.
 
-**Problem 21** —
+**Problem 21**  —
 
 Diagonalize.
 
@@ -409,11 +409,11 @@ $$
 \begin{pmatrix} -1 &2 &2 \\ 2 &2 &2 \\ -3 &-6 &-6 \end{pmatrix}
 $$
 
-**Problem 22** —
+**Problem 22**  —
 
 Suppose that $$P$$ is a nonsingular $$n \! \times \! n$$ matrix. Show that the **similarity transformation** map $$t_P:\mathcal{M}_{n \! \times \! n}\to \mathcal{M}_{n \! \times \! n}$$ sending $$T\mapsto PTP^{-1}$$ is an isomorphism.
 
-**? Problem 23** —
+**? Problem 23**  —
 
 Show that if $$A$$ is an $$n$$ square matrix and each row (column) sums to $$c$$ then $$c$$ is a characteristic root of $$A$$. (Morrison 1967)
 

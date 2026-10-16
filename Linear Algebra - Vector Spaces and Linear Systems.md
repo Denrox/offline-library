@@ -4,11 +4,11 @@ We will now reconsider linear systems and Gauss' method, aided by the tools and 
 
 For the first point, recall the first chapter's Linear Combination Lemma and its corollary: if two matrices are related by row operations $$A\longrightarrow\cdots\longrightarrow B$$ then each row of $$B$$ is a linear combination of the rows of $$A$$. That is, Gauss' method works by taking linear combinations of rows. Therefore, the right setting in which to study row operations in general, and Gauss' method in particular, is the following vector space.
 
-**Definition 3.1** —
+**Definition 3.1**  —
 
 The **row space** of a matrix is the span of the set of its rows. The **row rank** is the dimension of the row space, the number of linearly independent rows.
 
-**Example 3.2** —
+**Example 3.2**  —
 
 If
 
@@ -24,7 +24,7 @@ $$
 
 The linear dependence of the second on the first is obvious and so we can simplify this description to $$\{c\cdot\begin{pmatrix} 2 &3 \end{pmatrix}\,\big|\, c\in\mathbb{R} \}$$.
 
-**Lemma 3.3** —
+**Lemma 3.3**  —
 
 If the matrices $$A$$ and $$B$$ are related by a row operation
 
@@ -34,7 +34,7 @@ $$
 
 (for $$i\neq j$$ and $$k\neq 0$$) then their row spaces are equal. Hence, row-equivalent matrices have the same row space, and hence also, the same row rank.
 
-**Proof** —
+**Proof**  —
 
 By the Linear Combination Lemma's corollary, each row of $$B$$ is in the row space of $$A$$. Further, $$\mathop{{\text{Rowspace}}}(B)\subseteq\mathop{{\text{Rowspace}}}(A)$$ because a member of the set $$\mathop{{\text{Rowspace}}}(B)$$ is a linear combination of the rows of $$B$$, which means it is a combination of a combination of the rows of $$A$$, and hence, by the Linear Combination Lemma, is also a member of $$\mathop{{\text{Rowspace}}}(A)$$.
 
@@ -42,17 +42,17 @@ For the other containment, recall that row operations are reversible: $$A\longri
 
 Thus, row operations leave the row space unchanged. But of course, Gauss' method performs the row operations systematically, with a specific goal in mind, echelon form.
 
-**Lemma 3.4** —
+**Lemma 3.4**  —
 
 The nonzero rows of an echelon form matrix make up a linearly independent set.
 
-**Proof** —
+**Proof**  —
 
 A result in the first chapter, [Lemma One.III.2.5](Linear%20Algebra%20-%20Row%20Equivalence.md), states that in an echelon form matrix, no nonzero row is a linear combination of the other rows. This is a restatement of that result into new terminology.
 
 Thus, in the language of this chapter, Gaussian reduction works by eliminating linear dependencies among rows, leaving the span unchanged, until no nontrivial linear relationships remain (among the nonzero rows). That is, Gauss' method produces a basis for the row space.
 
-**Example 3.5** —
+**Example 3.5**  —
 
 From any matrix, we can produce a basis for the row space by performing Gauss' method and taking the nonzero rows of the resulting echelon form matrix. For instance,
 
@@ -64,7 +64,7 @@ produces the basis $$\langle \begin{pmatrix} 1 &3 &1 \end{pmatrix}, \begin{pmatr
 
 Using this technique, we can also find bases for spans not directly involving row vectors.
 
-**Definition 3.6** —
+**Definition 3.6**  —
 
 The **column space** of a matrix is the span of the set of its columns. The **column rank** is the dimension of the column space, the number of linearly independent columns.
 
@@ -82,7 +82,7 @@ $$
 
 meaning that the vector of $$d$$'s is in the column space of the matrix of coefficients.
 
-**Example 3.7** —
+**Example 3.7**  —
 
 Given this matrix,
 
@@ -104,7 +104,7 @@ $$
 
 The result is a basis for the column space of the given matrix.
 
-**Definition 3.8** —
+**Definition 3.8**  —
 
 The **transpose** of a matrix is the result of interchanging the rows and columns of that matrix. That is, column $$j$$ of the matrix $$A$$ is row $$j$$ of $${{A}^{\rm trans}}$$, and vice versa.
 
@@ -112,7 +112,7 @@ So the instructions for the prior example are "transpose, reduce, and transpose 
 
 We can even, at the price of tolerating the as-yet-vague idea of vector spaces being "the same", use Gauss' method to find bases for spans in other types of vector spaces.
 
-**Example 3.9** —
+**Example 3.9**  —
 
 To get a basis for the span of $$\{x^2+x^4,2x^2+3x^4,-x^2-3x^4\}$$ in the space $$\mathcal{P}_4$$, think of these three polynomials as "the same" as the row vectors $$\begin{pmatrix} 0 &0 &1 &0 &1 \end{pmatrix}$$, $$\begin{pmatrix} 0 &0 &2 &0 &3 \end{pmatrix}$$, and $$\begin{pmatrix} 0 &0 &-1 &0 &-3 \end{pmatrix}$$, apply Gauss' method
 
@@ -132,11 +132,11 @@ $$
 
 The column space of the left-hand matrix contains vectors with a second component that is nonzero. But the column space of the right-hand matrix is different because it contains only vectors whose second component is zero. It is this knowledge that row operations can change the column space that makes next result surprising.
 
-**Lemma 3.10** —
+**Lemma 3.10**  —
 
 Row operations do not change the column rank.
 
-**Proof** —
+**Proof**  —
 
 Restated, if $$A$$ reduces to $$B$$ then the column rank of $$B$$ equals the column rank of $$A$$.
 
@@ -156,23 +156,23 @@ $$
 
 Consider the row space and the column space of this result. Our first point made above says that a basis for the row space is easy to get: simply collect together all of the rows with leading entries. However, because this is a reduced echelon form matrix, a basis for the column space is just as easy: take the columns containing the leading entries, that is, $$\langle \vec{e}_1,\vec{e}_2 \rangle$$. (Linear independence is obvious. The other columns are in the span of this set, since they all have a third component of zero.) Thus, for a reduced echelon form matrix, bases for the row and column spaces can be found in essentially the same way— by taking the parts of the matrix, the rows or columns, containing the leading entries.
 
-**Theorem 3.11** —
+**Theorem 3.11**  —
 
 The row rank and column rank of a matrix are equal.
 
-**Proof** —
+**Proof**  —
 
 First bring the matrix to reduced echelon form. At that point, the row rank equals the number of leading entries since that equals the number of nonzero rows. Also at that point, the number of leading entries equals the column rank because the set of columns containing leading entries consists of some of the $$\vec{e}_i$$'s from a standard basis, and that set is linearly independent and spans the set of columns. Hence, in the reduced echelon form matrix, the row rank equals the column rank, because each equals the number of leading entries.
 
 But Lemma 3.3 and Lemma 3.10 show that the row rank and column rank are not changed by using row operations to get to reduced echelon form. Thus the row rank and the column rank of the original matrix are also equal.
 
-**Definition 3.12** —
+**Definition 3.12**  —
 
 The **rank** of a matrix is its row rank or column rank.
 
 So our second point in this subsection is that the column space and row space of a matrix have the same dimension. Our third and final point is that the concepts that we've seen arising naturally in the study of vector spaces are exactly the ones that we have studied with linear systems.
 
-**Theorem 3.13** —
+**Theorem 3.13**  —
 
 For linear systems with $$n$$ unknowns and with matrix of coefficients $$A$$, the statements
 
@@ -182,15 +182,15 @@ For linear systems with $$n$$ unknowns and with matrix of coefficients $$A$$, th
 are equivalent.  
 So if the system has at least one particular solution then for the set of solutions, the number of parameters equals $$n-r$$, the number of variables minus the rank of the matrix of coefficients.
 
-**Proof** —
+**Proof**  —
 
 The rank of $$A$$ is $$r$$ if and only if Gaussian reduction on $$A$$ ends with $$r$$ nonzero rows. That's true if and only if echelon form matrices row equivalent to $$A$$ have $$r$$-many leading variables. That in turn holds if and only if there are $$n-r$$ free variables.
 
-**Remark 3.14** — (Munkres 1964)
+**Remark 3.14**  — (Munkres 1964)
 
 Sometimes that result is mistakenly remembered to say that the general solution of an $$n$$ unknown system of $$m$$ equations uses $$n-m$$ parameters. The number of equations is not the relevant figure, rather, what matters is the number of independent equations (the number of equations in a maximal independent set). Where there are $$r$$ independent equations, the general solution involves $$n-r$$ parameters.
 
-**Corollary 3.15** —
+**Corollary 3.15**  —
 
 Where the matrix $$A$$ is $$n \! \times \! n$$, the statements
 
@@ -202,7 +202,7 @@ Where the matrix $$A$$ is $$n \! \times \! n$$, the statements
 
 are equivalent.
 
-**Proof** —
+**Proof**  —
 
 Clearly $$\text{(1)}\iff\text{(2)}\iff\text{(3)}\iff\text{(4)}$$. The last, $$\text{(4)}\iff\text{(5)}$$, holds because a set of $$n$$ column vectors that have $$n$$ components is linearly independent if and only if it is a basis for $$\mathbb{R}^n$$, but the system
 
@@ -214,7 +214,7 @@ has a unique solution for all choices of $$d_1,\dots,d_n\in\mathbb{R}$$ if and o
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Transpose each.
 
@@ -225,7 +225,7 @@ Transpose each.
 5. $$\begin{pmatrix} -1 &-2 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Decide if the vector is in the row space of the matrix.
 
@@ -233,7 +233,7 @@ Decide if the vector is in the row space of the matrix.
 2. $$\begin{pmatrix} 0 &1 &3 \\ -1 &0 &1 \\ -1 &2 &7 \end{pmatrix}$$, $$\begin{pmatrix} 1 &1 &1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Decide if the vector is in the column space.
 
@@ -241,7 +241,7 @@ Decide if the vector is in the column space.
 2. $$\begin{pmatrix} 1 &3 &1 \\ 2 &0 &4 \\ 1 &-3 &-3 \end{pmatrix}$$, $$\begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Find a basis for the row space of this matrix.  
 
@@ -251,7 +251,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Find the rank of each matrix.
 
@@ -261,7 +261,7 @@ Find the rank of each matrix.
 4. $$\begin{pmatrix} 0 &0 &0 \\ 0 &0 &0 \\ 0 &0 &0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Find a basis for the span of each set.
 
@@ -270,12 +270,12 @@ Find a basis for the span of each set.
 3. $$\{1+x,1-x^2,3+2x-x^2\}\subseteq\mathcal{P}_3$$
 4. $$\{ \begin{pmatrix} 1 &0 &1 \\ 3 &1 &-1 \end{pmatrix}, \begin{pmatrix} 1 &0 &3 \\ 2 &1 &4 \end{pmatrix}, \begin{pmatrix} -1 &0 &-5 \\ -1 &-1 &-9 \end{pmatrix} \} \subseteq\mathcal{M}_{2 \! \times \! 3}$$
 
-**Problem 7** —
+**Problem 7**  —
 
 Which matrices have rank zero? Rank one?  
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Given $$a,b,c\in\mathbb{R}$$, what choice of $$d$$ will cause this matrix to have the rank of one?
 
@@ -283,7 +283,7 @@ $$
 \begin{pmatrix} a &b \\ c &d \end{pmatrix}
 $$
 
-**Problem 9** —
+**Problem 9**  —
 
 Find the column rank of this matrix.
 
@@ -291,25 +291,25 @@ $$
 \begin{pmatrix} 1 &3 &-1 &5 &0 &4 \\ 2 &0 &1 &0 &4 &1 \end{pmatrix}
 $$
 
-**Problem 10** —
+**Problem 10**  —
 
 Show that a linear system with at least one solution has at most one solution if and only if the matrix of coefficients has rank equal to the number of its columns.  
 *This exercise is recommended for all readers.*
 
-**Problem 11** —
+**Problem 11**  —
 
 If a matrix is $$5 \! \times \! 9$$, which set must be dependent, its set of rows or its set of columns?
 
-**Problem 12** —
+**Problem 12**  —
 
 Give an example to show that, despite that they have the same dimension, the row space and column space of a matrix need not be equal. Are they ever equal?
 
-**Problem 13** —
+**Problem 13**  —
 
 Show that the set $$\{(1,-1,2,-3),(1,1,2,0),(3,-1,6,-6)\}$$ does not have the same span as $$\{(1,0,1,0),(0,2,0,3)\}$$. What, by the way, is the vector space?  
 *This exercise is recommended for all readers.*
 
-**Problem 14** —
+**Problem 14**  —
 
 Show that this set of column vectors
 
@@ -319,7 +319,7 @@ $$
 
 is a subspace of $$\mathbb{R}^3$$. Find a basis.
 
-**Problem 15** —
+**Problem 15**  —
 
 Show that the transpose operation is **linear**:
 
@@ -330,7 +330,7 @@ $$
 for $$r,s\in\mathbb{R}$$ and $$A,B\in\mathcal{M}_{m \! \times \! n}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 16** —
+**Problem 16**  —
 
 In this subsection we have shown that Gaussian reduction finds a basis for the row space.
 
@@ -338,33 +338,33 @@ In this subsection we have shown that Gaussian reduction finds a basis for the r
 2. Produce matrices with equal row spaces but unequal numbers of rows.
 3. Prove that two matrices have equal row spaces if and only if after Gauss-Jordan reduction they have the same nonzero rows.
 
-**Problem 17** —
+**Problem 17**  —
 
 Why is there not a problem with Remark 3.14 in the case that $$r$$ is bigger than $$n$$?
 
-**Problem 18** —
+**Problem 18**  —
 
 Show that the row rank of an $$m \! \times \! n$$ matrix is at most $$m$$. Is there a better bound?  
 *This exercise is recommended for all readers.*
 
-**Problem 19** —
+**Problem 19**  —
 
 Show that the rank of a matrix equals the rank of its transpose.
 
-**Problem 20** —
+**Problem 20**  —
 
 True or false: the column space of a matrix equals the row space of its transpose.  
 *This exercise is recommended for all readers.*
 
-**Problem 21** —
+**Problem 21**  —
 
 We have seen that a row operation may change the column space. Must it?
 
-**Problem 22** —
+**Problem 22**  —
 
 Prove that a linear system has a solution if and only if that system's matrix of coefficients has the same rank as its augmented matrix.
 
-**Problem 23** —
+**Problem 23**  —
 
 An $$m \! \times \! n$$ matrix has **full row rank** if its row rank is $$m$$, and it has **full column rank** if its column rank is $$n$$.
 
@@ -373,12 +373,12 @@ An $$m \! \times \! n$$ matrix has **full row rank** if its row rank is $$m$$, a
 3. Prove that a homogeneous system has a unique solution if and only if its matrix of coefficients $$A$$ has full column rank.
 4. Prove that the statement "if a system with matrix of coefficients $$A$$ has any solution then it has a unique solution" holds if and only if $$A$$ has full column rank.
 
-**Problem 24** —
+**Problem 24**  —
 
 How would the conclusion of Lemma 3.3 change if Gauss' method is changed to allow multiplying a row by zero?  
 *This exercise is recommended for all readers.*
 
-**Problem 25** —
+**Problem 25**  —
 
 What is the relationship between $$\mathop{\text{rank}}(A)$$ and $$\mathop{\text{rank}}(-A)$$? Between $$\mathop{\text{rank}}(A)$$ and $$\mathop{\text{rank}}(kA)$$? What, if any, is the relationship between $$\mathop{\text{rank}}(A)$$, $$\mathop{\text{rank}}(B)$$, and $$\mathop{\text{rank}}(A+B)$$?
 

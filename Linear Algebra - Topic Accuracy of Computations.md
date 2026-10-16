@@ -87,11 +87,11 @@ The lesson of this discussion is that just because Gauss' method always works in
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Using two decimal places, add $$253$$ and $$2/3$$.
 
-**Problem 2** —
+**Problem 2**  —
 
 This intersect-the-lines problem contrasts with the example discussed above.
 
@@ -101,7 +101,7 @@ $$
 
 Illustrate that in this system some small change in the numbers will produce only a small change in the solution by changing the constant in the bottom equation to $$1.008$$ and solving. Compare it to the solution of the unchanged system.
 
-**Problem 3** —
+**Problem 3**  —
 
 Solve this system by hand (Rice 1993).
 
@@ -112,14 +112,14 @@ $$
 1. Solve it accurately, by hand.
 2. Solve it by rounding at each step to four significant digits.
 
-**Problem 4** —
+**Problem 4**  —
 
 Rounding inside the computer often has an effect on the result. Assume that your machine has eight significant digits.
 
 1. Show that the machine will compute $$(2/3)+((2/3)-(1/3))$$ as unequal to $$((2/3)+(2/3))-(1/3)$$. Thus, computer arithmetic is not associative.
 2. Compare the computer's version of $$(1/3)x+y=0$$ and $$(2/3)x+2y=0$$. Is twice the first equation the same as the second?
 
-**Problem 5** —
+**Problem 5**  —
 
 Ill-conditioning is not only dependent on the matrix of coefficients. This example (Hamming 1971) shows that it can arise from an interaction between the left and right sides of the system. Let $$\varepsilon$$ be a small real.
 

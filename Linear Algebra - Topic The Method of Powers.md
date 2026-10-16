@@ -46,33 +46,33 @@ The rate of convergence is determined by the rate at which the powers of $$|\lam
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Use ten iterations to estimate the largest eigenvalue of these matrices, starting from the vector with components $$1$$ and $$2$$. Compare the answer with the one obtained by solving the characteristic equation.
 
 1. $$\begin{pmatrix} 1 &5 \\ 0 &4 \end{pmatrix}$$
 2. $$\begin{pmatrix} 3 &2 \\ -1 &0 \end{pmatrix}$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Redo the prior exercise by iterating until $$|\vec{v}_k|-|\vec{v}_{k-1}|$$ has absolute value less than $$0.01$$ At each step, normalize by dividing each vector by its length. How many iterations are required? Are the answers significantly different?
 
-**Problem 3** —
+**Problem 3**  —
 
 Use ten iterations to estimate the largest eigenvalue of these matrices, starting from the vector with components $$1$$, $$2$$, and $$3$$. Compare the answer with the one obtained by solving the characteristic equation.
 
 1. $$\begin{pmatrix} 4 &0 &1 \\ -2 &1 &0 \\ -2 &0 &1 \end{pmatrix}$$
 2. $$\begin{pmatrix} -1 &2 &2 \\ 2 &2 &2 \\ -3 &-6 &-6 \end{pmatrix}$$
 
-**Problem 4** —
+**Problem 4**  —
 
 Redo the prior exercise by iterating until $$|\vec{v}_k|-|\vec{v}_{k-1}|$$ has absolute value less than $$0.01$$. At each step, normalize by dividing each vector by its length. How many iterations does it take? Are the answers significantly different?
 
-**Problem 5** —
+**Problem 5**  —
 
 What happens if $$c_1=0$$? That is, what happens if the initial vector does not to have any component in the direction of the relevant eigenvector?
 
-**Problem 6** —
+**Problem 6**  —
 
 How can the method of powers be adopted to find the smallest eigenvalue?
 

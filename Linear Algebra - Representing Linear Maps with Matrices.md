@@ -1,6 +1,6 @@
 # Representing Linear Maps with Matrices
 
-**Example 1.1** —
+**Example 1.1**  —
 
 Consider a map $$h$$ with domain $$\mathbb{R}^2$$ and codomain $$\mathbb{R}^3$$ (fixing
 
@@ -50,7 +50,7 @@ In the middle is the argument $$\vec{v}$$ to the map, represented with respect t
 
 This notation simply breaks the parts from the right, the coefficients and the $$c$$'s, out separately on the left, into a vector that represents the map's argument and a matrix that we will take to represent the map itself.
 
-**Definition 1.2** —
+**Definition 1.2**  —
 
 Suppose that $$V$$ and $$W$$ are vector spaces of dimensions $$n$$ and $$m$$ with bases $$B$$ and $$D$$, and that $$h:V\to W$$ is a linear map. If
 
@@ -74,7 +74,7 @@ $$
 
 Observe that the number of columns $$n$$ of the matrix is the dimension of the domain of the map, and the number of rows $$m$$ is the dimension of the codomain.
 
-**Example 1.3** —
+**Example 1.3**  —
 
 If $$h:\mathbb{R}^3\to \mathcal{P}_1$$ is given by
 
@@ -108,7 +108,7 @@ $$
 
 We will use lower case letters for a map, upper case for the matrix, and lower case again for the entries of the matrix. Thus for the map $$h$$, the matrix representing it is $$H$$, with entries $$h_{i,j}$$.
 
-**Theorem 1.4** —
+**Theorem 1.4**  —
 
 Assume that $$V$$ and $$W$$ are vector spaces of dimensions $$m$$ and $$n$$ with bases $$B$$ and $$D$$, and that $$h:V\to W$$ is a linear map. If $$h$$ is represented by
 
@@ -128,13 +128,13 @@ $$
 {\rm Rep}_{D}(\, h(\vec{v}) \,) = \begin{pmatrix} h_{1,1}c_1+h_{1,2}c_2+\dots+h_{1,n}c_n \\ h_{2,1}c_1+h_{2,2}c_2+\dots+h_{2,n}c_n \\ \vdots \\ h_{m,1}c_1+h_{m,2}c_2+\dots+h_{m,n}c_n \end{pmatrix}_D
 $$
 
-**Proof** —
+**Proof**  —
 
 Problem 18.
 
 We will think of the matrix $${\rm Rep}_{B,D}(h)$$ and the vector $${\rm Rep}_{B}(\vec{v})$$ as combining to make the vector $${\rm Rep}_{D}(h(\vec{v}))$$.
 
-**Definition 1.5** —
+**Definition 1.5**  —
 
 The **matrix-vector product** of a $$m \! \times \! n$$ matrix and a $$n \! \times \! 1$$ vector is this.
 
@@ -144,7 +144,7 @@ $$
 
 The point of Definition 1.2 is to generalize Example 1.1, that is, the point of the definition is Theorem 1.4, that the matrix describes how to get from the representation of a domain vector with respect to the domain's basis to the representation of its image in the codomain with respect to the codomain's basis. With Definition 1.5, we can restate this as: application of a linear map is represented by the matrix-vector product of the map's representative and the vector's representative.
 
-**Example 1.6** —
+**Example 1.6**  —
 
 With the matrix from Example 1.3 we can calculate where that map sends this vector.
 
@@ -166,7 +166,7 @@ $$
 
 To find $$h(\vec{v})$$ itself, not its representation, take $$(9/2)(1+x)-(9/2)(-1+x)=9$$.
 
-**Example 1.7** —
+**Example 1.7**  —
 
 Let $$\pi:\mathbb{R}^3\to \mathbb{R}^2$$ be projection onto the $$xy$$-plane. To give a matrix representing this map, we first fix bases.
 
@@ -226,7 +226,7 @@ in the course of a calculation.)
 
 We now have two ways to compute the effect of projection, the straightforward formula that drops each three-tall vector's third component to make a two-tall vector, and the above formula that uses representations and matrix-vector multiplication. Compared to the first way, the second way might seem complicated. However, it has advantages. The next example shows that giving a formula for some maps is simplified by this new scheme.
 
-**Example 1.8** —
+**Example 1.8**  —
 
 To represent a **rotation** map $$t_{\theta}:\mathbb{R}^2\to \mathbb{R}^2$$ that turns all vectors in the plane counterclockwise through an angle $$\theta$$
 
@@ -252,7 +252,7 @@ $$
 
 We have already seen the addition and scalar multiplication operations of matrices and the dot product operation of vectors. Matrix-vector multiplication is a new operation in the arithmetic of vectors and matrices. Nothing in Definition 1.5 requires us to view it in terms of representations. We can get some insight into this operation by turning away from what is being represented, and instead focusing on how the entries combine.
 
-**Example 1.9** —
+**Example 1.9**  —
 
 In the definition the width of the matrix equals the height of the vector. Hence, the first product below is defined while the second is not.
 
@@ -276,7 +276,7 @@ $$
 \begin{array}{rl} \left( \begin{array}{cccc} h_{1,1} &h_{1,2} &\ldots &h_{1,n}\\ h_{2,1} &h_{2,2} &\ldots &h_{2,n} \\ &\vdots\\ h_{m,1} &h_{m,2} &\ldots &h_{m,n} \end{array} \right) \begin{pmatrix} c_1 \\ c_2 \\ \vdots \\ c_n \end{pmatrix} &=\begin{pmatrix} h_{1,1}c_1+h_{1,2}c_2+\dots+h_{1,n}c_n \\ h_{2,1}c_1+h_{2,2}c_2+\dots+h_{2,n}c_n \\ \vdots \\ h_{m,1}c_1+h_{m,2}c_2+\dots+h_{m,n}c_n \end{pmatrix} \\ &=c_1\begin{pmatrix} h_{1,1} \\ h_{2,1} \\ \vdots \\ h_{m,1} \end{pmatrix} +\dots +c_n\begin{pmatrix} h_{1,n} \\ h_{2,n} \\ \vdots \\ h_{m,n} \end{pmatrix} \end{array}
 $$
 
-**Example 1.10** —
+**Example 1.10**  —
 
 $$
 \begin{pmatrix} 1 &0 &-1 \\ 2 &0 &3 \end{pmatrix} \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} = 2\begin{pmatrix} 1 \\ 2 \end{pmatrix} -1\begin{pmatrix} 0 \\ 0 \end{pmatrix} +1\begin{pmatrix} -1 \\ 3 \end{pmatrix} = \begin{pmatrix} 1 \\ 7 \end{pmatrix}
@@ -288,7 +288,7 @@ We began this section by noting that the equality of these two enables us to com
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Multiply the matrix
 
@@ -302,7 +302,7 @@ by each vector (or state "not defined").
 2. $$\begin{pmatrix} -2 \\ -2 \end{pmatrix}$$
 3. $$\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Perform, if possible, each matrix-vector multiplication.
 
@@ -311,7 +311,7 @@ Perform, if possible, each matrix-vector multiplication.
 3. $$\begin{pmatrix} 1 &1 \\ -2 &1 \end{pmatrix} \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Solve this matrix equation.
 
@@ -321,7 +321,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 For a homomorphism from $$\mathcal{P}_2$$ to $$\mathcal{P}_3$$ that sends
 
@@ -332,7 +332,7 @@ $$
 where does $$1-3x+2x^2$$ go?  
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Assume that $$h:\mathbb{R}^2\to \mathbb{R}^3$$ is determined by this action.
 
@@ -346,7 +346,7 @@ Using the standard bases, find
 2. a general formula for $$h(\vec{v})$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Let $$d/dx:\mathcal{P}_3\to \mathcal{P}_3$$ be the derivative transformation.
 
@@ -354,7 +354,7 @@ Let $$d/dx:\mathcal{P}_3\to \mathcal{P}_3$$ be the derivative transformation.
 2. Represent $$d/dx$$ with respect to $$B,D$$ where $$D=\langle 1,2x,3x^2,4x^3 \rangle$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Represent each linear map with respect to each pair of bases.
 
@@ -388,15 +388,15 @@ $$
 a_0+a_1x+a_2x^2+\dots+a_nx^n \mapsto a_0+a_1\cdot (x+1)+\dots+a_n\cdot (x+1)^n
 $$
 
-**Problem 8** —
+**Problem 8**  —
 
 Represent the identity map on any nontrivial space with respect to $$B,B$$, where $$B$$ is any basis.
 
-**Problem 9** —
+**Problem 9**  —
 
 Represent, with respect to the natural basis, the transpose transformation on the space $$\mathcal{M}_{2 \! \times \! 2}$$ of $$2 \! \times \! 2$$ matrices.
 
-**Problem 10** —
+**Problem 10**  —
 
 Assume that $$B=\langle \vec{\beta}_1,\vec{\beta}_2,\vec{\beta}_3,\vec{\beta}_4 \rangle$$ is a basis for a vector space. Represent with respect to $$B,B$$ the transformation that is determined by each.
 
@@ -404,7 +404,7 @@ Assume that $$B=\langle \vec{\beta}_1,\vec{\beta}_2,\vec{\beta}_3,\vec{\beta}_4 
 2. $$\vec{\beta}_1\mapsto\vec{\beta}_2$$, $$\vec{\beta}_2\mapsto\vec{0}$$, $$\vec{\beta}_3\mapsto\vec{\beta}_4$$, $$\vec{\beta}_4\mapsto\vec{0}$$
 3. $$\vec{\beta}_1\mapsto\vec{\beta}_2$$, $$\vec{\beta}_2\mapsto\vec{\beta}_3$$, $$\vec{\beta}_3\mapsto\vec{0}$$, $$\vec{\beta}_4\mapsto\vec{0}$$
 
-**Problem 11** —
+**Problem 11**  —
 
 Example 1.8 shows how to represent the rotation transformation of the plane with respect to the standard basis. Express these other transformations also with respect to the standard basis.
 
@@ -412,7 +412,7 @@ Example 1.8 shows how to represent the rotation transformation of the plane with
 2. the **reflection** map $$f_\ell$$, which reflects all all vectors across a line $$\ell$$ through the origin  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Consider a linear transformation of $$\mathbb{R}^2$$ determined by these two.
 
@@ -435,19 +435,19 @@ $$
 
 4. Using $$B$$ from the prior item, represent the transformation with respect to $$B,B$$.
 
-**Problem 13** —
+**Problem 13**  —
 
 Suppose that $$h:V\to W$$ is nonsingular so that by [Theorem II.2.21](Linear%20Algebra%20-%20Rangespace%20and%20Nullspace.md), for any basis $$B=\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle \subset V$$ the image $$h(B)=\langle h(\vec{\beta}_1),\dots,h(\vec{\beta}_n) \rangle$$ is a basis for $$W$$.
 
 1. Represent the map $$h$$ with respect to $$B,h(B)$$.
 2. For a member $$\vec{v}$$ of the domain, where the representation of $$\vec{v}$$ has components $$c_1$$, ..., $$c_n$$, represent the image vector $$h(\vec{v})$$ with respect to the image basis $$h(B)$$.
 
-**Problem 14** —
+**Problem 14**  —
 
 Give a formula for the product of a matrix and $$\vec{e}_i$$, the column vector that is all zeroes except for a single one in the $$i$$-th position.  
 *This exercise is recommended for all readers.*
 
-**Problem 15** —
+**Problem 15**  —
 
 For each vector space of functions of one real variable, represent the derivative transformation with respect to $$B,B$$.
 
@@ -455,7 +455,7 @@ For each vector space of functions of one real variable, represent the derivativ
 2. $$\{ae^x+be^{2x} \,\big|\, a,b\in\mathbb{R}\}$$, $$B=\langle e^x,e^{2x} \rangle$$
 3. $$\{a+bx+ce^x+dxe^{x} \,\big|\, a,b,c,d\in\mathbb{R}\}$$, $$B=\langle 1,x,e^x,xe^{x} \rangle$$
 
-**Problem 16** —
+**Problem 16**  —
 
 Find the range of the linear transformation of $$\mathbb{R}^2$$ represented with respect to the standard bases by each matrix.
 
@@ -464,16 +464,16 @@ Find the range of the linear transformation of $$\mathbb{R}^2$$ represented with
 3. a matrix of the form $$\begin{pmatrix} a &b \\ 2a &2b \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 17** —
+**Problem 17**  —
 
 Can one matrix represent two different linear maps? That is, can $${\rm Rep}_{B,D}(h)={\rm Rep}_{\hat{B},\hat{D}}(\hat{h})$$?
 
-**Problem 18** —
+**Problem 18**  —
 
 Prove Theorem 1.4.  
 *This exercise is recommended for all readers.*
 
-**Problem 19** —
+**Problem 19**  —
 
 Example 1.8 shows how to represent rotation of all vectors in the plane through an angle $$\theta$$ about the origin, with respect to the standard bases.
 
@@ -482,7 +482,7 @@ Example 1.8 shows how to represent rotation of all vectors in the plane through 
 3. Repeat, about the $$z$$-axis.
 4. Extend the prior item to $$\mathbb{R}^4$$. (*Hint:* "rotate about the $$z$$-axis" can be restated as "rotate parallel to the $$xy$$-plane".)
 
-**Problem 20 (Schur's Triangularization Lemma)** —
+**Problem 20 (Schur's Triangularization Lemma)**  —
 
 1. Let $$U$$ be a subspace of $$V$$ and fix bases $$B_U\subseteq B_V$$. What is the relationship between the representation of a vector from $$U$$ with respect to $$B_U$$ and the representation of that vector (viewed as a member of $$V$$) with respect to $$B_V$$?
 2. What about maps?
@@ -499,7 +499,6 @@ h([\{\vec{\beta}_1,\dots,\vec{\beta}_i\}])\subset W_i
 $$
 
 for each $$i$$.
-
 4. Conclude that for every linear map $$h:V\to W$$ there are bases $$B,D$$ so the matrix representing $$h$$ with respect to $$B,D$$ is upper-triangular (that is, each entry $$h_{i,j}$$ with $$i>j$$ is zero).
 5. Is an upper-triangular representation unique?
 

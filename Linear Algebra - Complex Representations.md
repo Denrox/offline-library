@@ -12,13 +12,13 @@ $$
 \begin{array}{rl} (a+bi)(c+di) &=ac+adi+bci+bd(-1) \\ &=(ac-bd)+(ad+bc)i \end{array}
 $$
 
-**Example 2.1** —
+**Example 2.1**  —
 
 For instance, $$(1-2i)\,+\,(5+4i)=6+2i$$ and $$(2-3i)(4-0.5i)=6.5-13i$$.
 
 Handling scalar operations with those rules, all of the operations that we've covered for real vector spaces carry over unchanged.
 
-**Example 2.2** —
+**Example 2.2**  —
 
 Matrix multiplication is the same, although the scalar arithmetic involves more bookkeeping.
 

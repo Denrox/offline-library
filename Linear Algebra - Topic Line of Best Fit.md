@@ -4,8 +4,8 @@ Scientists are often presented with a system that has no solution and they must 
 
 For instance, suppose that we have a coin to use in flipping. This coin has some proportion $$m$$ of heads to total flips, determined by how it is physically constructed, and we want to know if $$m$$ is near $$1/2$$. We can get experimental data by flipping it many times. This is the result a penny experiment, including some intermediate numbers.
 
-- *number of flips*         30         60         90
-- *number of heads*        16        34        51
+- *number of flips*   30   60   90
+- *number of heads*   16   34   51
 
 Because of randomness, we do not find the exact proportion with this sample — there is no solution to this system.
 
@@ -37,8 +37,8 @@ We arranged the equation above so that the line must pass through $$(0,0)$$ beca
 
 For example, the different denominations of U.S. money have different average times in circulation (the $2 bill is left off as a special case). How long should we expect a $25 bill to last?
 
-- *denomination*         1         5         10         20         50         100
-- *average life (years)*         1.5         2         3         5         9         20
+- *denomination*   1   5   10   20   50   100
+- *average life (years)*   1.5   2   3   5   9   20
 
 The plot (see below) looks roughly linear. It isn't a perfect line, i.e., the linear system with equations $$b+1m=1.5$$, ..., $$b+100m=20$$ has no solution, but we can again use orthogonal projection to find a best approximation. Consider the matrix of coefficients of that linear system and also its vector of constants, the experimentally-determined values.
 
@@ -52,10 +52,10 @@ Plugging $$x=25$$ into the equation of the line shows that such a bill should la
 
 We close by considering the times for the men's mile race (Oakley & Baker 1977). These are the world records that were in force on January first of the given years. We want to project when a 3:40 mile will be run.
 
-- *year*         1870         1880         1890         1900         1910         1920         1930
-- *seconds*      268.8         264.5         258.4         255.6         255.6         252.6         250.4
-- *year*         1940         1950         1960         1970         1980         1990         2000
-- *seconds*         246.4         241.4         234.5         231.1         229.0         226.3         223.1
+- *year*   1870   1880   1890   1900   1910   1920   1930
+- *seconds*   268.8   264.5   258.4   255.6   255.6   252.6   250.4
+- *year*   1940   1950   1960   1970   1980   1990   2000
+- *seconds*   246.4   241.4   234.5   231.1   229.0   226.3   223.1
 
 We can see below that the data is surprisingly linear. With this input
 
@@ -75,35 +75,35 @@ This example is amusing, but serves as a caution — obviously the linearity of 
 
 *The calculations here are best done on a computer. In addition, some of the problems require more data, available in your library, on the net, in the answers to the exercises, or in the section following the exercises.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Use least-squares to judge if the coin in this experiment is fair.
 
-- *flips*         8         16         24         32         40
-- *heads*         4         9         13         17         20
+- *flips*   8   16   24   32   40
+- *heads*   4   9   13   17   20
 
-**Problem 2** —
+**Problem 2**  —
 
 For the men's mile record, rather than give each of the many records and its exact date, we've "smoothed" the data somewhat by taking a periodic sample. Do the longer calculation and compare the conclusions.
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the line of best fit for the men's $$1500$$ meter run. How does the slope compare with that for the men's mile? (The distances are close; a mile is about $$1609$$ meters.)
 
-**Problem 4** — Find the line of best fit for the records for women's mile.
+**Problem 4**  — Find the line of best fit for the records for women's mile.
 
-**Problem 5** —
+**Problem 5**  —
 
 Do the lines of best fit for the men's and women's miles cross?
 
-**Problem 6** —
+**Problem 6**  —
 
 When the space shuttle Challenger exploded in 1986, one of the criticisms made of NASA's decision to launch was in the way the analysis of number of O-ring failures versus temperature was made (of course, O-ring failure caused the explosion). Four O-ring failures will cause the rocket to explode. NASA had data from 24 previous flights.
 
-- *temp °F*         53         75         57         58         63         70         70         66         67         67         67
-- *failures*         3         2         1         1         1         1         1         0         0         0         0
-- *temp °F*         68         69         70         70         72         73         75         76         76         78         79         80         81
-- *failures*         0         0         0         0         0         0         0         0         0         0         0         0         0
+- *temp °F*   53   75   57   58   63   70   70   66   67   67   67
+- *failures*   3   2   1   1   1   1   1   0   0   0   0
+- *temp °F*   68   69   70   70   72   73   75   76   76   78   79   80   81
+- *failures*   0   0   0   0   0   0   0   0   0   0   0   0   0
 
 The temperature that day was forecast to be $$31^\circ\text{F}$$.
 
@@ -112,12 +112,12 @@ The temperature that day was forecast to be $$31^\circ\text{F}$$.
 
 Which do you think is the more accurate method of predicting? (An excellent discussion appears in (Dalal, Folkes & Hoadley 1989).)
 
-**Problem 7** —
+**Problem 7**  —
 
 This table lists the average distance from the sun to each of the first seven planets, using earth's average as a unit.
 
-- Mercury         Venus         Earth         Mars         Jupiter         Saturn         Uranus
-- 0.39      0.72         1.00         1.52         5.20         9.54         19.2
+- Mercury   Venus   Earth   Mars   Jupiter   Saturn   Uranus
+- 0.39   0.72   1.00   1.52   5.20   9.54   19.2
 
 1. Plot the number of the planet (Mercury is $$1$$, etc.) versus the distance. Note that it does not look like a line, and so finding the line of best fit is not fruitful.
 2. It does, however look like an exponential curve. Therefore, plot the number of the planet versus the logarithm of the distance. Does this look like a line?
@@ -128,20 +128,22 @@ This table lists the average distance from the sun to each of the first seven pl
 
 This method was used to help discover Neptune (although the second item is misleading about the history; actually, the discovery of Neptune in position $$9$$ prompted people to look for the "missing planet" in position $$5$$). See (Gardner 1970)
 
-**Problem 8** —
+**Problem 8**  —
 
 William Bennett has proposed an Index of Leading Cultural Indicators for the US (Bennett 1993). Among the statistics cited are the average daily hours spent watching TV, and the average combined SAT scores.
 
-- 1960         1965         1970         1975         1980         1985         1990         1992
-- *TV*         5:06         5:29         5:56         6:07         6:36         7:07         6:55         7:04
-- *SAT*         975         969         948         910         890         906         900         899
+- 1960   1965   1970   1975   1980   1985   1990   1992
+- *TV*   5:06   5:29   5:56   6:07   6:36   7:07   6:55   7:04
+- *SAT*   975   969   948   910   890   906   900   899
 
 Suppose that a cause and effect relationship is proposed between the time spent watching TV and the decline in SAT scores (in this article, Mr. Bennett does not argue that there is a direct connection).
 
 1. Find the line of best fit relating the independent variable of average daily TV hours to the dependent variable of SAT scores.
 2. Find the most recent estimate of the average daily TV hours (Bennett's cites Neilsen Media Research as the source of these estimates). Estimate the associated SAT score. How close is your estimate to the actual average? (Warning: a change has been made recently in the SAT, so you should investigate whether some adjustment needs to be made to the reported average to make a valid comparison.)
 
-Solutions  **Computer Code**
+Solutions
+
+**Computer Code**
 
 ```
 #!/usr/bin/python
@@ -182,134 +184,134 @@ print "line of best fit: slope= %f  intercept= %f" % (slope, intercept)
 
 *Progression of Men's Mile Record*
 
-- *time*         *name*         *date*
-- 4:52.0         Cadet Marshall (GBR)         02Sep52
-- 4:45.0         Thomas Finch (GBR)         03Nov58
-- 4:40.0         Gerald Surman (GBR)         24Nov59
-- 4:33.0         George Farran (IRL)         23May62
-- 4:29 3/5         Walter Chinnery (GBR)         10Mar68
-- 4:28 4/5         William Gibbs (GBR)         03Apr68
-- 4:28 3/5         Charles Gunton (GBR)         31Mar73
-- 4:26.0         Walter Slade (GBR)         30May74
-- 4:24 1/2         Walter Slade (GBR)         19Jun75
-- 4:23 1/5         Walter George (GBR)         16Aug80
-- 4:19 2/5         Walter George (GBR)         03Jun82
-- 4:18 2/5         Walter George (GBR)         21Jun84
-- 4:17 4/5         Thomas Conneff (USA)         26Aug93
-- 4:17.0         Fred Bacon (GBR)         06Jul95
-- 4:15 3/5         Thomas Conneff (USA)         28Aug95
-- 4:15 2/5         John Paul Jones (USA)         27May11
-- 4:14.4         John Paul Jones (USA)         31May13
-- 4:12.6         Norman Taber (USA)         16Jul15
-- 4:10.4         Paavo Nurmi (FIN)         23Aug23
-- 4:09 1/5         Jules Ladoumegue (FRA)         04Oct31
-- 4:07.6         Jack Lovelock (NZL)         15Jul33
-- 4:06.8         Glenn Cunningham (USA)         16Jun34
-- 4:06.4         Sydney Wooderson (GBR)         28Aug37
-- 4:06.2         Gunder Hagg (SWE)         01Jul42
-- 4:04.6         Gunder Hagg (SWE)         04Sep42
-- 4:02.6         Arne Andersson (SWE)         01Jul43
-- 4:01.6         Arne Andersson (SWE)         18Jul44
-- 4:01.4         Gunder Hagg (SWE)         17Jul45
-- 3:59.4         Roger Bannister (GBR)         06May54
-- 3:58.0         John Landy (AUS)         21Jun54
-- 3:57.2         Derek Ibbotson (GBR)         19Jul57
-- 3:54.5         Herb Elliott (AUS)         06Aug58
-- 3:54.4         Peter Snell (NZL)         27Jan62
-- 3:54.1         Peter Snell (NZL)         17Nov64
-- 3:53.6         Michel Jazy (FRA)         09Jun65
-- 3:51.3         Jim Ryun (USA)         17Jul66
-- 3:51.1         Jim Ryun (USA)         23Jun67
-- 3:51.0         Filbert Bayi (TAN)         17May75
-- 3:49.4         John Walker (NZL)         12Aug75
-- 3:49.0         Sebastian Coe (GBR)         17Jul79
-- 3:48.8         Steve Ovett (GBR)         01Jul80
-- 3:48.53         Sebastian Coe (GBR)         19Aug81
-- 3:48.40         Steve Ovett (GBR)         26Aug81
-- 3:47.33         Sebastian Coe (GBR)         28Aug81
-- 3:46.32         Steve Cram (GBR)         27Jul85
-- 3:44.39         Noureddine Morceli (ALG)         05Sep93
-- 3:43.13         Hicham el Guerrouj (MOR)         07Jul99  
+- *time*   *name*   *date*
+- 4:52.0   Cadet Marshall (GBR)   02Sep52
+- 4:45.0   Thomas Finch (GBR)   03Nov58
+- 4:40.0   Gerald Surman (GBR)   24Nov59
+- 4:33.0   George Farran (IRL)   23May62
+- 4:29 3/5   Walter Chinnery (GBR)   10Mar68
+- 4:28 4/5   William Gibbs (GBR)   03Apr68
+- 4:28 3/5   Charles Gunton (GBR)   31Mar73
+- 4:26.0   Walter Slade (GBR)   30May74
+- 4:24 1/2   Walter Slade (GBR)   19Jun75
+- 4:23 1/5   Walter George (GBR)   16Aug80
+- 4:19 2/5   Walter George (GBR)   03Jun82
+- 4:18 2/5   Walter George (GBR)   21Jun84
+- 4:17 4/5   Thomas Conneff (USA)   26Aug93
+- 4:17.0   Fred Bacon (GBR)   06Jul95
+- 4:15 3/5   Thomas Conneff (USA)   28Aug95
+- 4:15 2/5   John Paul Jones (USA)   27May11
+- 4:14.4   John Paul Jones (USA)   31May13
+- 4:12.6   Norman Taber (USA)   16Jul15
+- 4:10.4   Paavo Nurmi (FIN)   23Aug23
+- 4:09 1/5   Jules Ladoumegue (FRA)   04Oct31
+- 4:07.6   Jack Lovelock (NZL)   15Jul33
+- 4:06.8   Glenn Cunningham (USA)   16Jun34
+- 4:06.4   Sydney Wooderson (GBR)   28Aug37
+- 4:06.2   Gunder Hagg (SWE)   01Jul42
+- 4:04.6   Gunder Hagg (SWE)   04Sep42
+- 4:02.6   Arne Andersson (SWE)   01Jul43
+- 4:01.6   Arne Andersson (SWE)   18Jul44
+- 4:01.4   Gunder Hagg (SWE)   17Jul45
+- 3:59.4   Roger Bannister (GBR)   06May54
+- 3:58.0   John Landy (AUS)   21Jun54
+- 3:57.2   Derek Ibbotson (GBR)   19Jul57
+- 3:54.5   Herb Elliott (AUS)   06Aug58
+- 3:54.4   Peter Snell (NZL)   27Jan62
+- 3:54.1   Peter Snell (NZL)   17Nov64
+- 3:53.6   Michel Jazy (FRA)   09Jun65
+- 3:51.3   Jim Ryun (USA)   17Jul66
+- 3:51.1   Jim Ryun (USA)   23Jun67
+- 3:51.0   Filbert Bayi (TAN)   17May75
+- 3:49.4   John Walker (NZL)   12Aug75
+- 3:49.0   Sebastian Coe (GBR)   17Jul79
+- 3:48.8   Steve Ovett (GBR)   01Jul80
+- 3:48.53   Sebastian Coe (GBR)   19Aug81
+- 3:48.40   Steve Ovett (GBR)   26Aug81
+- 3:47.33   Sebastian Coe (GBR)   28Aug81
+- 3:46.32   Steve Cram (GBR)   27Jul85
+- 3:44.39   Noureddine Morceli (ALG)   05Sep93
+- 3:43.13   Hicham el Guerrouj (MOR)   07Jul99  
 
 *Progression of Men's 1500 Meter Record*
 
-- *time*         *name*         *date*
-- 4:09.0         John Bray (USA)         30May00
-- 4:06.2         Charles Bennett (GBR)         15Jul00
-- 4:05.4         James Lightbody (USA)         03Sep04
-- 3:59.8         Harold Wilson (GBR)         30May08
-- 3:59.2         Abel Kiviat (USA)         26May12
-- 3:56.8         Abel Kiviat (USA)         02Jun12
-- 3:55.8         Abel Kiviat (USA)         08Jun12
-- 3:55.0         Norman Taber (USA)         16Jul15
-- 3:54.7         John Zander (SWE)         05Aug17
-- 3:53.0         Paavo Nurmi (FIN)         23Aug23
-- 3:52.6         Paavo Nurmi (FIN)         19Jun24
-- 3:51.0         Otto Peltzer (GER)         11Sep26
-- 3:49.2         Jules Ladoumegue (FRA)         05Oct30
-- 3:49.0         Luigi Beccali (ITA)         17Sep33
-- 3:48.8         William Bonthron (USA)         30Jun34
-- 3:47.8         Jack Lovelock (NZL)         06Aug36
-- 3:47.6         Gunder Hagg (SWE)         10Aug41
-- 3:45.8         Gunder Hagg (SWE)         17Jul42
-- 3:45.0         Arne Andersson (SWE)         17Aug43
-- 3:43.0         Gunder Hagg (SWE)         07Jul44
-- 3:42.8         Wes Santee (USA)         04Jun54
-- 3:41.8         John Landy (AUS)         21Jun54
-- 3:40.8         Sandor Iharos (HUN)         28Jul55
-- 3:40.6         Istvan Rozsavolgyi (HUN)         03Aug56
-- 3:40.2         Olavi Salsola (FIN)         11Jul57
-- 3:38.1         Stanislav Jungwirth (CZE)         12Jul57
-- 3:36.0         Herb Elliott (AUS)         28Aug58
-- 3:35.6         Herb Elliott (AUS)         06Sep60
-- 3:33.1         Jim Ryun (USA)         08Jul67
-- 3:32.2         Filbert Bayi (TAN)         02Feb74
-- 3:32.1         Sebastian Coe (GBR)         15Aug79
-- 3:31.36         Steve Ovett (GBR)         27Aug80
-- 3:31.24         Sydney Maree (usa)         28Aug83
-- 3:30.77         Steve Ovett (GBR)         04Sep83
-- 3:29.67         Steve Cram (GBR)         16Jul85
-- 3:29.46         Said Aouita (MOR)         23Aug85
-- 3:28.86         Noureddine Morceli (ALG)         06Sep92
-- 3:27.37         Noureddine Morceli (ALG)         12Jul95
-- 3:26.00         Hicham el Guerrouj (MOR)         14Jul98  
+- *time*   *name*   *date*
+- 4:09.0   John Bray (USA)   30May00
+- 4:06.2   Charles Bennett (GBR)   15Jul00
+- 4:05.4   James Lightbody (USA)   03Sep04
+- 3:59.8   Harold Wilson (GBR)   30May08
+- 3:59.2   Abel Kiviat (USA)   26May12
+- 3:56.8   Abel Kiviat (USA)   02Jun12
+- 3:55.8   Abel Kiviat (USA)   08Jun12
+- 3:55.0   Norman Taber (USA)   16Jul15
+- 3:54.7   John Zander (SWE)   05Aug17
+- 3:53.0   Paavo Nurmi (FIN)   23Aug23
+- 3:52.6   Paavo Nurmi (FIN)   19Jun24
+- 3:51.0   Otto Peltzer (GER)   11Sep26
+- 3:49.2   Jules Ladoumegue (FRA)   05Oct30
+- 3:49.0   Luigi Beccali (ITA)   17Sep33
+- 3:48.8   William Bonthron (USA)   30Jun34
+- 3:47.8   Jack Lovelock (NZL)   06Aug36
+- 3:47.6   Gunder Hagg (SWE)   10Aug41
+- 3:45.8   Gunder Hagg (SWE)   17Jul42
+- 3:45.0   Arne Andersson (SWE)   17Aug43
+- 3:43.0   Gunder Hagg (SWE)   07Jul44
+- 3:42.8   Wes Santee (USA)   04Jun54
+- 3:41.8   John Landy (AUS)   21Jun54
+- 3:40.8   Sandor Iharos (HUN)   28Jul55
+- 3:40.6   Istvan Rozsavolgyi (HUN)   03Aug56
+- 3:40.2   Olavi Salsola (FIN)   11Jul57
+- 3:38.1   Stanislav Jungwirth (CZE)   12Jul57
+- 3:36.0   Herb Elliott (AUS)   28Aug58
+- 3:35.6   Herb Elliott (AUS)   06Sep60
+- 3:33.1   Jim Ryun (USA)   08Jul67
+- 3:32.2   Filbert Bayi (TAN)   02Feb74
+- 3:32.1   Sebastian Coe (GBR)   15Aug79
+- 3:31.36   Steve Ovett (GBR)   27Aug80
+- 3:31.24   Sydney Maree (usa)   28Aug83
+- 3:30.77   Steve Ovett (GBR)   04Sep83
+- 3:29.67   Steve Cram (GBR)   16Jul85
+- 3:29.46   Said Aouita (MOR)   23Aug85
+- 3:28.86   Noureddine Morceli (ALG)   06Sep92
+- 3:27.37   Noureddine Morceli (ALG)   12Jul95
+- 3:26.00   Hicham el Guerrouj (MOR)   14Jul98  
 
 *Progression of Women's Mile Record*
 
-- *time*         *name*         *date*
-- 6:13.2         Elizabeth Atkinson (GBR)         24Jun21
-- 5:27.5         Ruth Christmas (GBR)         20Aug32
-- 5:24.0         Gladys Lunn (GBR)         01Jun36
-- 5:23.0         Gladys Lunn (GBR)         18Jul36
-- 5:20.8         Gladys Lunn (GBR)         08May37
-- 5:17.0         Gladys Lunn (GBR)         07Aug37
-- 5:15.3         Evelyne Forster (GBR)         22Jul39
-- 5:11.0         Anne Oliver (GBR)         14Jun52
-- 5:09.8         Enid Harding (GBR)         04Jul53
-- 5:08.0         Anne Oliver (GBR)         12Sep53
-- 5:02.6         Diane Leather (GBR)         30Sep53
-- 5:00.3         Edith Treybal (ROM)         01Nov53
-- 5:00.2         Diane Leather (GBR)         26May54
-- 4:59.6         Diane Leather (GBR)         29May54
-- 4:50.8         Diane Leather (GBR)         24May55
-- 4:45.0         Diane Leather (GBR)         21Sep55
-- 4:41.4         Marise Chamberlain (NZL)         08Dec62
-- 4:39.2         Anne Smith (GBR)         13May67
-- 4:37.0         Anne Smith (GBR)         03Jun67
-- 4:36.8         Maria Gommers (HOL)         14Jun69
-- 4:35.3         Ellen Tittel (FRG)         20Aug71
-- 4:34.9         Glenda Reiser (CAN)         07Jul73
-- 4:29.5         Paola Pigni-Cacchi (ITA)         08Aug73
-- 4:23.8         Natalia Marasescu (ROM)         21May77
-- 4:22.1         Natalia Marasescu (ROM)         27Jan79
-- 4:21.7         Mary Decker (USA)         26Jan80
-- 4:20.89         Lyudmila Veselkova (SOV)         12Sep81
-- 4:18.08         Mary Decker-Tabb (USA)         09Jul82
-- 4:17.44         Maricica Puica (ROM)         16Sep82
-- 4:15.8         Natalya Artyomova (SOV)         05Aug84
-- 4:16.71         Mary Decker-Slaney (USA)         21Aug85
-- 4:15.61         Paula Ivan (ROM)         10Jul89
-- 4:12.56         Svetlana Masterkova (RUS)         14Aug96
+- *time*   *name*   *date*
+- 6:13.2   Elizabeth Atkinson (GBR)   24Jun21
+- 5:27.5   Ruth Christmas (GBR)   20Aug32
+- 5:24.0   Gladys Lunn (GBR)   01Jun36
+- 5:23.0   Gladys Lunn (GBR)   18Jul36
+- 5:20.8   Gladys Lunn (GBR)   08May37
+- 5:17.0   Gladys Lunn (GBR)   07Aug37
+- 5:15.3   Evelyne Forster (GBR)   22Jul39
+- 5:11.0   Anne Oliver (GBR)   14Jun52
+- 5:09.8   Enid Harding (GBR)   04Jul53
+- 5:08.0   Anne Oliver (GBR)   12Sep53
+- 5:02.6   Diane Leather (GBR)   30Sep53
+- 5:00.3   Edith Treybal (ROM)   01Nov53
+- 5:00.2   Diane Leather (GBR)   26May54
+- 4:59.6   Diane Leather (GBR)   29May54
+- 4:50.8   Diane Leather (GBR)   24May55
+- 4:45.0   Diane Leather (GBR)   21Sep55
+- 4:41.4   Marise Chamberlain (NZL)   08Dec62
+- 4:39.2   Anne Smith (GBR)   13May67
+- 4:37.0   Anne Smith (GBR)   03Jun67
+- 4:36.8   Maria Gommers (HOL)   14Jun69
+- 4:35.3   Ellen Tittel (FRG)   20Aug71
+- 4:34.9   Glenda Reiser (CAN)   07Jul73
+- 4:29.5   Paola Pigni-Cacchi (ITA)   08Aug73
+- 4:23.8   Natalia Marasescu (ROM)   21May77
+- 4:22.1   Natalia Marasescu (ROM)   27Jan79
+- 4:21.7   Mary Decker (USA)   26Jan80
+- 4:20.89   Lyudmila Veselkova (SOV)   12Sep81
+- 4:18.08   Mary Decker-Tabb (USA)   09Jul82
+- 4:17.44   Maricica Puica (ROM)   16Sep82
+- 4:15.8   Natalya Artyomova (SOV)   05Aug84
+- 4:16.71   Mary Decker-Slaney (USA)   21Aug85
+- 4:15.61   Paula Ivan (ROM)   10Jul89
+- 4:12.56   Svetlana Masterkova (RUS)   14Aug96
 
 ### References
 

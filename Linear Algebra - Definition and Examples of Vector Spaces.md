@@ -1,6 +1,6 @@
 # Definition and Examples of Vector Spaces
 
-**Definition 1.1** —
+**Definition 1.1**  —
 
 A **vector space** (over $$\R$$) consists of a set $$V$$ along with two operations "$$+$$" and "$$\cdot$$" subject to these conditions.
 
@@ -15,13 +15,13 @@ A **vector space** (over $$\R$$) consists of a set $$V$$ along with two operatio
 9. If $$r,s\in\R$$ and $$\vec v\in V$$ , then $$(rs)\cdot\vec v=r\cdot(s\cdot\vec v)$$
 10. For any $$\vec v\in V$$ , $$1\cdot\vec v=\vec v$$ .
 
-**Remark 1.2** —
+**Remark 1.2**  —
 
 Because it involves two kinds of addition and two kinds of multiplication, that definition may seem confused. For instance, in condition 7 "$$(r+s)\cdot\vec v=r\cdot\vec v+s\cdot\vec v$$", the first "$$+$$" is the real number addition operator while the "$$+$$" to the right of the equals sign represents vector addition in the structure $$V$$ . These expressions aren't ambiguous because, e.g., $$r$$ and $$s$$ are real numbers so "$$r+s$$" can only mean real number addition.
 
 The best way to go through the examples below is to check all ten conditions in the definition. That check is written out at length in the first example. Use it as a model for the others. Especially important are the first condition "$$\vec v+\vec w$$ is in $$V$$" and the sixth condition "$$r\cdot\vec v$$ is in $$V$$". These are the **closure** conditions. They specify that the addition and scalar multiplication operations are always sensible — they are defined for every pair of vectors, and every scalar and vector, and the result of the operation is a member of the set (see Example 1.4).
 
-**Example 1.3** —
+**Example 1.3**  —
 
 The set $$\R^2$$ is a vector space if the operations "$$+$$" and "$$\cdot$$" have their usual meaning.
 
@@ -95,7 +95,7 @@ $$
 
 In a similar way, each $$\mathbb{R}^n$$ is a vector space with the usual operations of vector addition and scalar multiplication. (In $$\mathbb{R}^1$$, we usually do not write the members as column vectors, i.e., we usually do not write "$$(\pi)$$". Instead we just write "$$\pi$$".)
 
-**Example 1.4** — This subset of $$\mathbb{R}^3$$ that is a plane through the origin
+**Example 1.4**  — This subset of $$\mathbb{R}^3$$ that is a plane through the origin
 
 $$
 P=\{ \begin{pmatrix} x \\ y \\ z \end{pmatrix} \,\big|\, x+y+z=0\}
@@ -139,7 +139,7 @@ $$
 
 satisfies that $$rx+ry+rz=r(x+y+z)=0$$. Thus the two closure conditions are satisfied. Verification of the other conditions in the definition of a vector space are just as straightforward.
 
-**Example 1.5** —
+**Example 1.5**  —
 
 Example 1.3 shows that the set of all two-tall vectors with real entries is a vector space. Example 1.4 gives a subset of an $$\mathbb{R}^n$$ that is also a vector space. In contrast with those two, consider the set of two-tall columns with entries that are integers (under the obvious operations). This is a subset of a vector space, but it is not itself a vector space. The reason is that this set is not closed under scalar multiplication, that is, it does not satisfy condition 6. Here is a column with integer entries, and a scalar, such that the outcome of the operation
 
@@ -149,7 +149,7 @@ $$
 
 is not a member of the set, since its entries are not all integers.
 
-**Example 1.6** —
+**Example 1.6**  —
 
 The singleton set
 
@@ -167,17 +167,17 @@ that it inherits from $$\mathbb{R}^4$$.
 
 A vector space must have at least one element, its zero vector. Thus a one-element vector space is the smallest one possible.
 
-**Definition 1.7** —
+**Definition 1.7**  —
 
 A one-element vector space is a **trivial** space.
 
-**Warning!** —
+**Warning!**  —
 
 The examples so far involve sets of column vectors with the usual operations. But vector spaces need not be collections of column vectors, or even of row vectors. Below are some other types of vector spaces. The term "vector space" does not mean "collection of columns of reals". It means something more like "collection in which any linear combination is sensible".
 
 ### Examples
 
-**Example 1.8** —
+**Example 1.8**  —
 
 Consider $$\mathcal{P}_3=\{a_0+a_1x+a_2x^2+a_3x^3\,\big|\, a_0,\ldots,a_3\in\mathbb{R}\}$$, the set of polynomials of degree three or less (in this book, we'll take constant polynomials, including the zero polynomial, to be of degree zero). It is a vector space under the operations
 
@@ -211,7 +211,7 @@ $$
 
 Things we are thinking of as "the same" add to "the same" sum. Chapter Three makes precise this idea of vector space correspondence. For now we shall just leave it as an intuition.
 
-**Example 1.9** —
+**Example 1.9**  —
 
 The set $$\mathcal{M}_{2 \! \times \! 2}$$ of $$2 \! \times \! 2$$ matrices with real number entries is a vector space under the natural entry-by-entry operations.  
 
@@ -221,7 +221,7 @@ $$
 
 As in the prior example, we can think of this space as "the same" as $$\mathbb{R}^4$$.
 
-**Example 1.10** —
+**Example 1.10**  —
 
 The set $$\{f\,\big|\, f:\mathbb{N}\to\mathbb{R}\}$$ of all real-valued functions of one natural number variable is a vector space under the operations
 
@@ -239,7 +239,7 @@ $$
 
 Addition and scalar multiplication are component-wise, as in Example 1.3. (We can formalize "infinitely-tall" by saying that it means an infinite sequence, or that it means a function from $$\mathbb{N}$$ to $$\mathbb{R}$$.)
 
-**Example 1.11** —
+**Example 1.11**  —
 
 The set of polynomials with real coefficients
 
@@ -267,7 +267,7 @@ This space differs from the space $$\mathcal{P}_3$$ of Example 1.8. This space c
 
 This example, like the prior one, can be thought of in terms of infinite-tuples. For instance, we can think of $$1+3x+5x^2$$ as corresponding to $$(1,3,5,0,0,\ldots)$$. However, don't confuse this space with the one from Example 1.10. Each member of this set has a bounded degree, so under our correspondence there are no elements from this space matching $$(1,2,5,10,\,\ldots\,)$$. The vectors in this space correspond to infinite-tuples that end in zeroes.
 
-**Example 1.12** —
+**Example 1.12**  —
 
 The set $$\{f\,\big|\, f:\mathbb{R}\to\mathbb{R}\}$$ of all real-valued functions of one real variable is a vector space under these.
 
@@ -277,7 +277,7 @@ $$
 
 The difference between this and Example 1.10 is the domain of the functions.
 
-**Example 1.13** —
+**Example 1.13**  —
 
 The set $$F=\{ a\cos\theta+b\sin\theta \,\big|\, a,b\in\mathbb{R}\}$$ of real-valued functions of the real variable $$\theta$$ is a vector space under the operations
 
@@ -293,7 +293,7 @@ $$
 
 inherited from the space in the prior example. (We can think of $$F$$ as "the same" as $$\mathbb{R}^2$$ in that $$a\cos\theta+b\sin\theta$$ corresponds to the vector with components $$a$$ and $$b$$.)
 
-**Example 1.14** —
+**Example 1.14**  —
 
 The set
 
@@ -321,7 +321,7 @@ $$
 
 of basic Calculus. This turns out to equal the space from the prior example— functions satisfying this differential equation have the form $$a\cos\theta+b\sin\theta$$— but this description suggests an extension to solutions sets of other differential equations.
 
-**Example 1.15** —
+**Example 1.15**  —
 
 The set of solutions of a homogeneous linear system in $$n$$ variables is a vector space under the operations inherited from $$\mathbb{R}^n$$. For closure under addition, if
 
@@ -335,7 +335,7 @@ As we've done in those equations, we often omit the multiplication symbol "$$\cd
 
 The prior example has brought us full circle since it is one of our motivating examples.
 
-**Remark 1.16** —
+**Remark 1.16**  —
 
 Now, with some feel for the kinds of structures that satisfy the definition of a vector space, we can reflect on that definition. For example, why specify in the definition the condition that $$1\cdot\vec{v}=\vec{v}$$ but not a condition that $$0\cdot\vec{v}=\vec{0}$$?
 
@@ -345,7 +345,7 @@ Another answer is perhaps more satisfying. People in this area have worked hard 
 
 The next result is an example. We do not need to include these properties in the definition of vector space because they follow from the properties already listed there.
 
-**Lemma 1.17** —
+**Lemma 1.17**  —
 
 In any vector space $$V$$, for any $$\vec{v}\in V$$ and $$r\in\mathbb{R}$$, we have
 
@@ -353,7 +353,7 @@ In any vector space $$V$$, for any $$\vec{v}\in V$$ and $$r\in\mathbb{R}$$, we h
 2. $$(-1\cdot\vec{v})+\vec{v}=\vec{0}$$, and
 3. $$r\cdot\vec{0}=\vec{0}$$.
 
-**Proof** —
+**Proof**  —
 
 For 1, note that $$\vec{v}=(1+0)\cdot\vec{v}=\vec{v}+(0\cdot\vec{v})$$. Add to both sides the additive inverse of $$\vec{v}$$, the vector $$\vec{w}$$ such that $$\vec{w}+\vec{v}=\vec{0}$$.
 
@@ -375,7 +375,7 @@ Finally, a comment. From the fact that it forms a whole chapter, and especially 
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Name the zero vector for each of these vector spaces.
 
@@ -385,7 +385,7 @@ Name the zero vector for each of these vector spaces.
 4. The space of real-valued functions of one natural number variable  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Find the additive inverse, in the vector space, of the vector.
 
@@ -399,7 +399,7 @@ $$
 3. In $$\{ae^x+be^{-x}\,\big|\, a,b\in\mathbb{R}\}$$, the space of functions of the real variable $$x$$ under the natural operations, the vector $$3e^x-2e^{-x}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Show that each of these is a vector space.
 
@@ -415,7 +415,7 @@ $$
 under the operations inherited from $$\mathbb{R}^4$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Show that each of these is not a vector space. (*Hint.* Start by listing two members of each set.)
 
@@ -444,27 +444,26 @@ $$
 $$
 
 where $$\mathbb{R}^+$$ is the set of reals greater than zero
-
 5. Under the inherited operations,
 
 $$
 \{\begin{pmatrix} x \\ y \end{pmatrix}\in\mathbb{R}^2\,\big|\, x+3y=4 \text{ and } 2x-y=3 \text{ and } 6x+4y=10\}
 $$
 
-**Problem 5** —
+**Problem 5**  —
 
 Define addition and scalar multiplication operations to make the complex numbers a vector space over $$\mathbb{R}$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Is the set of rational numbers a vector space over $$\mathbb{R}$$ under the usual addition and scalar multiplication operations?
 
-**Problem 7** —
+**Problem 7**  —
 
 Show that the set of linear combinations of the variables $$x,y,z$$ is a vector space under the natural addition and scalar multiplication operations.
 
-**Problem 8** —
+**Problem 8**  —
 
 Prove that this is not a vector space: the set of two-tall column vectors with real entries subject to these operations.
 
@@ -472,7 +471,7 @@ $$
 \begin{pmatrix} x_1 \\ y_1 \end{pmatrix} +\begin{pmatrix} x_2 \\ y_2 \end{pmatrix} =\begin{pmatrix} x_1-x_2 \\ y_1-y_2 \end{pmatrix} \qquad r\cdot\begin{pmatrix} x \\ y \end{pmatrix} =\begin{pmatrix} rx \\ ry \end{pmatrix}
 $$
 
-**Problem 9** —
+**Problem 9**  —
 
 Prove or disprove that $$\mathbb{R}^3$$ is a vector space under these operations.
 
@@ -480,7 +479,7 @@ Prove or disprove that $$\mathbb{R}^3$$ is a vector space under these operations
 2. $$\begin{pmatrix} x_1 \\ y_1 \\ z_1 \end{pmatrix} +\begin{pmatrix} x_2 \\ y_2 \\ z_2 \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} \quad\text{and}\quad r\begin{pmatrix} x \\ y \\ z \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 For each, decide if it is a vector space; the intended operations are the natural ones.
 
@@ -506,27 +505,27 @@ $$
 5. The set of functions $$\{f:\mathbb{R}\to\mathbb{R}\,\big|\, df/dx+2f=1\}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 11** —
+**Problem 11**  —
 
 Prove or disprove that this is a vector space: the real-valued functions $$f$$ of one real variable such that $$f(7)=0$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Show that the set $$\mathbb{R}^+$$ of positive reals is a vector space when "$$x+y$$" is interpreted to mean the product of $$x$$ and $$y$$ (so that $$2+3$$ is $$6$$), and "$$r\cdot x$$" is interpreted as the $$r$$-th power of $$x$$.
 
-**Problem 13** —
+**Problem 13**  —
 
 Is $$\{(x,y)\,\big|\, x,y\in\mathbb{R}\}$$ a vector space under these operations?
 
 1. $$(x_1,y_1)+(x_2,y_2)=(x_1+x_2,y_1+y_2)$$ and $$r\cdot (x,y)=(rx,y)$$
 2. $$(x_1,y_1)+(x_2,y_2)=(x_1+x_2,y_1+y_2)$$ and $$r\cdot (x,y)=(rx,0)$$
 
-**Problem 14** —
+**Problem 14**  —
 
 Prove or disprove that this is a vector space: the set of polynomials of degree greater than or equal to two, along with the zero polynomial.
 
-**Problem 15** —
+**Problem 15**  —
 
 At this point "the same" is only an intuition, but nonetheless for each vector space identify the $$k$$ for which the space is "the same" as $$\mathbb{R}^k$$.
 
@@ -546,38 +545,38 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 16** —
+**Problem 16**  —
 
 Using $$\vec{+}$$ to represent vector addition and $$\,\vec{\cdot}\,$$ for scalar multiplication, restate the definition of vector space.  
 *This exercise is recommended for all readers.*
 
-**Problem 17** —
+**Problem 17**  —
 
 Prove these.
 
 1. Any vector is the additive inverse of the additive inverse of itself.
 2. Vector addition left-cancels: if $$\vec{v},\vec{s},\vec{t}\in V$$ then $$\vec{v}+\vec{s}=\vec{v}+\vec{t}\,$$ implies that $$\vec{s}=\vec{t}$$.
 
-**Problem 18** —
+**Problem 18**  —
 
 The definition of vector spaces does not explicitly say that $$\vec{0}+\vec{v}=\vec{v}$$ (it instead says that $$\vec{v}+\vec{0}=\vec{v}$$). Show that it must nonetheless hold in any vector space.  
 *This exercise is recommended for all readers.*
 
-**Problem 19** —
+**Problem 19**  —
 
 Prove or disprove that this is a vector space: the set of all matrices, under the usual operations.
 
-**Problem 20** —
+**Problem 20**  —
 
 In a vector space every element has an additive inverse. Can some elements have two or more?
 
-**Problem 21** —
+**Problem 21**  —
 
 1. Prove that every point, line, or plane thru the origin in $$\mathbb{R}^3$$ is a vector space under the inherited operations.
 2. What if it doesn't contain the origin?  
 *This exercise is recommended for all readers.*
 
-**Problem 22** —
+**Problem 22**  —
 
 Using the idea of a vector space we can easily reprove that the solution set of a homogeneous linear system has either one element or infinitely many elements. Assume that $$\vec{v}\in V$$ is not $$\vec{0}$$.
 
@@ -586,11 +585,11 @@ Using the idea of a vector space we can easily reprove that the solution set of 
 3. Prove that any nontrivial vector space is infinite.
 4. Use the fact that a nonempty solution set of a homogeneous linear system is a vector space to draw the conclusion.
 
-**Problem 23** —
+**Problem 23**  —
 
 Is this a vector space under the natural operations: the real-valued functions of one real variable that are differentiable?
 
-**Problem 24** —
+**Problem 24**  —
 
 A **vector space over the complex numbers** $$\mathbb{C}$$ has the same definition as a vector space over the reals except that scalars are drawn from $$\mathbb{C}$$ instead of from $$\mathbb{R}$$. Show that each of these is a vector space over the complex numbers. (Recall how complex numbers add and multiply: $$(a_0+a_1i)+(b_0+b_1i)=(a_0+b_0)+(a_1+b_1)i$$ and $$(a_0+a_1i)(b_0+b_1i)=(a_0b_0-a_1b_1)+(a_0b_1+a_1b_0)i$$.)
 
@@ -601,12 +600,12 @@ $$
 \{\begin{pmatrix} 0 &a \\ b &0 \end{pmatrix}\,\big|\, a,b\in\mathbb{C}\text{ and } a+b=0+0i \}
 $$
 
-**Problem 25** —
+**Problem 25**  —
 
 Name a property shared by all of the $$\mathbb{R}^n$$'s but not listed as a requirement for a vector space.  
 *This exercise is recommended for all readers.*
 
-**Problem 26** —
+**Problem 26**  —
 
 1. Prove that a sum of four vectors $$\vec{v}_1,\ldots,\vec{v}_4\in V$$ can be associated in any way without changing the result.
 
@@ -615,10 +614,9 @@ $$
 $$
 
 This allows us to simply write "$$\vec{v}_1+\vec{v}_2+\vec{v}_3+\vec{v}_4$$" without ambiguity.
-
 2. Prove that any two ways of associating a sum of any number of vectors give the same sum. (*Hint.* Use induction on the number of vectors.)
 
-**Problem 27** —
+**Problem 27**  —
 
 For any vector space, a subset that is itself a vector space under the inherited operations (e.g., a plane through the origin inside of $$\mathbb{R}^3$$) is a **subspace**.
 

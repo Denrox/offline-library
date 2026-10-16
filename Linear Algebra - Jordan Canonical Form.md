@@ -4,11 +4,11 @@ This subsection moves from the canonical form for nilpotent matrices to the one 
 
 We have shown that if a map is nilpotent then all of its eigenvalues are zero. We can now prove the converse.
 
-**Lemma 2.1** —
+**Lemma 2.1**  —
 
 A linear transformation whose only eigenvalue is zero is nilpotent.
 
-**Proof** —
+**Proof**  —
 
 If a transformation $$t$$ on an $$n$$-dimensional space has only the single eigenvalue of zero then its characteristic polynomial is $$x^n$$. The Cayley-Hamilton Theorem says that a map satisfies its characteristic polynomial so $$t^n$$ is the zero map. Thus $$t$$ is nilpotent.
 
@@ -16,15 +16,15 @@ We have a canonical form for nilpotent matrices, that is, for each matrix whose 
 
 Observe that if $$t$$'s only eigenvalue is $$\lambda$$ then $$t-\lambda$$'s only eigenvalue is $$0$$ because $$t(\vec{v})=\lambda\vec{v}$$ if and only if $$(t-\lambda)\,(\vec{v})=0\cdot\vec{v}$$. The natural way to extend the results for nilpotent matrices is to represent $$t-\lambda$$ in the canonical form $$N$$, and try to use that to get a simple representation $$T$$ for $$t$$. The next result says that this try works.
 
-**Lemma 2.2** —
+**Lemma 2.2**  —
 
 If the matrices $$T-\lambda I$$ and $$N$$ are similar then $$T$$ and $$N+\lambda I$$ are also similar, via the same change of basis matrices.
 
-**Proof** —
+**Proof**  —
 
 With $$N=P(T-\lambda I)P^{-1}=PTP^{-1}-P(\lambda I)P^{-1}$$ we have $$N=PTP^{-1}-PP^{-1}(\lambda I)$$ since the diagonal matrix $$\lambda I$$ commutes with anything, and so $$N=PTP^{-1}-\lambda I$$. Therefore $$N+\lambda I=PTP^{-1}$$, as required.
 
-**Example 2.3** —
+**Example 2.3**  —
 
 The characteristic polynomial of
 
@@ -77,7 +77,7 @@ $$
 
 which is easily checked.
 
-**Example 2.4** —
+**Example 2.4**  —
 
 This matrix has characteristic polynomial $$(x-4)^4$$
 
@@ -93,7 +93,7 @@ $$
 
 An array that is all zeroes, except for some number $$\lambda$$ down the diagonal and blocks of subdiagonal ones, is a **Jordan block**. We have shown that Jordan block matrices are canonical representatives of the similarity classes of single-eigenvalue matrices.
 
-**Example 2.5** —
+**Example 2.5**  —
 
 The $$3 \! \times \! 3$$ matrices whose only eigenvalue is $$1/2$$ separate into three similarity classes. The three classes have these canonical representatives.
 
@@ -115,7 +115,7 @@ This ideal is in fact what happens. For any transformation $$t:V\to V$$, we shal
 
 Suppose that $$t:V\to V$$ is a linear transformation. Note that the restriction of $$t$$ to a subspace $$M$$ need not be a linear transformation on $$M$$ because there may be an $$\vec{m}\in M$$ with $$t(\vec{m})\not\in M$$. To ensure that the restriction of a transformation to a "part" of a space is a transformation on the partwe need the next condition.
 
-**Definition 2.6** —
+**Definition 2.6**  —
 
 Let $$t:V\to V$$ be a transformation. A subspace $$M$$ is **$$t$$ invariant** if whenever $$\vec{m}\in M$$ then $$t(\vec{m})\in M$$ (shorter: $$t(M)\subseteq M$$).
 
@@ -125,11 +125,11 @@ Thus the spaces $$\mathcal{N}_\infty(t-\lambda_i)$$ and $$\mathcal{R}_\infty(t-\
 
 The next result is the first of our three steps. It establishes that $$t-\lambda_j$$ leaves $$t-\lambda_i$$'s part unchanged.
 
-**Lemma 2.7** —
+**Lemma 2.7**  —
 
 A subspace is $$t$$ invariant if and only if it is $$t-\lambda$$ invariant for any scalar $$\lambda$$. In particular, where $$\lambda_i$$ is an eigenvalue of a linear transformation $$t$$, then for any other eigenvalue $$\lambda_j$$, the spaces $$\mathcal{N}_\infty(t-\lambda_i)$$ and $$\mathcal{R}_\infty(t-\lambda_i)$$ are $$t-\lambda_j$$ invariant.
 
-**Proof** —
+**Proof**  —
 
 For the first sentence we check the two implications of the "if and only if" separately. One of them is easy: if the subspace is $$t-\lambda$$ invariant for any $$\lambda$$ then taking $$\lambda=0$$ shows that it is $$t$$ invariant. For the other implication suppose that the subspace is $$t$$ invariant, so that if $$\vec{m}\in M$$ then $$t(\vec{m})\in M$$, and let $$\lambda$$ be any scalar. The subspace $$M$$ is closed under linear combinations and so if $$t(\vec{m})\in M$$ then $$t(\vec{m})-\lambda\vec{m}\in M$$. Thus if $$\vec{m}\in M$$ then $$(t-\lambda)\,(\vec{m})\in M$$, as required.
 
@@ -137,7 +137,7 @@ The second sentence follows straight from the first. Because the two spaces are 
 
 The second step of the three that we will take to prove this section's major result makes use of an additional property of $$\mathcal{N}_\infty(t-\lambda_i)$$ and $$\mathcal{R}_\infty(t-\lambda_i)$$, that they are complementary. Recall that if a space is the direct sum of two others $$V=\mathcal{N}\oplus \mathcal{R}$$ then any vector $$\vec{v}$$ in the space breaks into two parts $$\vec{v}=\vec{n}+\vec{r}$$ where $$\vec{n}\in \mathcal{N}$$ and $$\vec{r}\in \mathcal{R}$$, and recall also that if $$B_{\mathcal{N}}$$ and $$B_{\mathcal{R}}$$ are bases for $$\mathcal{N}$$ and $$\mathcal{R}$$ then the concatenation $$B_{\mathcal{N}}\!\mathbin{{}^\frown}\!B_{\mathcal{R}}$$ is linearly independent (and so the two parts of $$\vec{v}$$ do not "overlap"). The next result says that for any subspaces $$\mathcal{N}$$ and $$\mathcal{R}$$ that are complementary as well as $$t$$ invariant, the action of $$t$$ on $$\vec{v}$$ breaks into the "non-overlapping" actions of $$t$$ on $$\vec{n}$$ and on $$\vec{r}$$.
 
-**Lemma 2.8** —
+**Lemma 2.8**  —
 
 Let $$t:V\to V$$ be a transformation and let $$\mathcal{N}$$ and $$\mathcal{R}$$ be $$t$$ invariant complementary subspaces of $$V$$. Then $$t$$ can be represented by a matrix with blocks of square submatrices $$T_1$$ and $$T_2$$
 
@@ -147,7 +147,7 @@ $$
 
 where $$Z_1$$ and $$Z_2$$ are blocks of zeroes.
 
-**Proof** —
+**Proof**  —
 
 Since the two subspaces are complementary, the concatenation of a basis for $$\mathcal{N}$$ and a basis for $$\mathcal{R}$$ makes a basis $$B=\langle \vec{\nu}_1,\dots,\vec{\nu}_p, \vec{\mu}_1,\ldots,\vec{\mu}_q \rangle$$ for $$V$$. We shall show that the matrix
 
@@ -163,7 +163,7 @@ The argument for the upper right is similar.
 
 To see that $$t$$ has been decomposed into its action on the parts, observe that the restrictions of $$t$$ to the subspaces $$\mathcal{N}$$ and $$\mathcal{R}$$ are represented, with respect to the obvious bases, by the matrices $$T_1$$ and $$T_2$$. So, with subspaces that are invariant and complementary, we can split the problem of examining a linear transformation into two lower-dimensional subproblems. The next result illustrates this decomposition into blocks.
 
-**Lemma 2.9** —
+**Lemma 2.9**  —
 
 If $$T$$ is a matrices with square submatrices $$T_1$$ and $$T_2$$
 
@@ -173,7 +173,7 @@ $$
 
 where the $$Z$$'s are blocks of zeroes, then $$\left|T\right|=\left|T_1\right|\cdot\left|T_2\right|$$.
 
-**Proof** —
+**Proof**  —
 
 Suppose that $$T$$ is $$n \! \times \! n$$, that $$T_1$$ is $$p \! \times \! p$$, and that $$T_2$$ is $$q \! \times \! q$$. In the permutation formula for the determinant
 
@@ -195,7 +195,7 @@ $$
 
 equals $$\left|T\right|= \sum_{\text{significant }\phi} t_{1,\phi(1)}t_{2,\phi(2)}\cdots t_{n,\phi(n)}\operatorname{sgn}(\phi)$$.
 
-**Example 2.10** —
+**Example 2.10**  —
 
 $$
 \begin{vmatrix} 2 &0 &0 &0 \\ 1 &2 &0 &0 \\ 0 &0 &3 &0 \\ 0 &0 &0 &3 \end{vmatrix} =\begin{vmatrix} 2 &0 \\ 1 &2 \end{vmatrix} \cdot \begin{vmatrix} 3 &0 \\ 0 &3 \end{vmatrix} =36
@@ -205,11 +205,11 @@ From Lemma 2.9 we conclude that if two subspaces are complementary and $$t$$ inv
 
 Now for the promised third, final, step to the main result.
 
-**Lemma 2.11** —
+**Lemma 2.11**  —
 
 If a linear transformation $$t:V\to V$$ has the characteristic polynomial $$(x-\lambda_1)^{p_1}\dots(x-\lambda_\ell)^{p_\ell}$$ then (1) $$V=\mathcal{N}_\infty(t-\lambda_1)\oplus\cdots \oplus\mathcal{N}_\infty(t-\lambda_\ell)$$ and (2) $$\dim(\mathcal{N}_\infty(t-\lambda_i))=p_i$$.
 
-**Proof** —
+**Proof**  —
 
 Because $$\dim (V)$$ is the degree $$p_1+\cdots+p_\ell$$ of the characteristic polynomial, to establish statement (1) we need only show that statement (2) holds and that $$\mathcal{N}_\infty(t-\lambda_i)\cap\mathcal{N}_\infty(t-\lambda_j)$$ is trivial whenever $$i\neq j$$.
 
@@ -231,7 +231,7 @@ Now consider the restriction of $$t$$ to $$\mathcal{R}_\infty(t-\lambda_i)$$. By
 
 Our major result just translates those steps into matrix terms.
 
-**Theorem 2.12** —
+**Theorem 2.12**  —
 
 Any square matrix is similar to one in **Jordan form**
 
@@ -241,13 +241,13 @@ $$
 
 where each $$J_{\lambda}$$ is the Jordan block associated with the eigenvalue $$\lambda$$ of the original matrix (that is, is all zeroes except for $$\lambda$$'s down the diagonal and some subdiagonal ones).
 
-**Proof** —
+**Proof**  —
 
 Given an $$n \! \times \! n$$ matrix $$T$$, consider the linear map $$t:\mathbb{C}^n\to \mathbb{C}^n$$ that it represents with respect to the standard bases. Use the prior lemma to write $$\mathbb{C}^n=\mathcal{N}_\infty(t-\lambda_1)\oplus\cdots \oplus\mathcal{N}_\infty(t-\lambda_\ell)$$ where $$\lambda_1,\ldots,\lambda_\ell$$ are the eigenvalues of $$t$$. Because each $$\mathcal{N}_\infty(t-\lambda_i)$$ is $$t$$ invariant, Lemma 2.8 and the prior lemma show that $$t$$ is represented by a matrix that is all zeroes except for square blocks along the diagonal. To make those blocks into Jordan blocks, pick each $$B_{\lambda_i}$$ to be a string basis for the action of $$t-\lambda_i$$ on $$\mathcal{N}_\infty(t-\lambda_i)$$.
 
 Jordan form is a canonical form for similarity classes of square matrices, provided that we make it unique by arranging the Jordan blocks from least eigenvalue to greatest and then arranging the subdiagonal $$1$$ blocks inside each Jordan block from longest to shortest.
 
-**Example 2.13** —
+**Example 2.13**  —
 
 This matrix has the characteristic polynomial $$(x-2)^2(x-6)$$.
 
@@ -289,7 +289,7 @@ $$
 
 where $$B$$ is the concatenation of $$B_2$$ and $$B_6$$.
 
-**Example 2.14** —
+**Example 2.14**  —
 
 Contrast the prior example with
 
@@ -321,7 +321,7 @@ $$
 
 (Checking that the third vector in $$B$$ is in the nullspace of $$t-6$$ is routine.)
 
-**Example 2.15** —
+**Example 2.15**  —
 
 A bit of computing with
 
@@ -353,17 +353,17 @@ $$
 
 We close with the statement that the subjects considered earlier in this Chpater are indeed, in this sense, exhaustive.
 
-**Corollary 2.16** —
+**Corollary 2.16**  —
 
 Every square matrix is similar to the sum of a diagonal matrix and a nilpotent matrix.
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Do the check for Example 2.3.
 
-**Problem 2** —
+**Problem 2**  —
 
 Each matrix is in Jordan form. State its characteristic polynomial and its minimal polynomial.
 
@@ -378,14 +378,14 @@ Each matrix is in Jordan form. State its characteristic polynomial and its minim
 9. $$\begin{pmatrix} 5 &0 &0 &0 \\ 0 &2 &0 &0 \\ 0 &1 &2 &0 \\ 0 &0 &0 &3 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the Jordan form from the given data.
 
 1. The matrix $$T$$ is $$5 \! \times \! 5$$ with the single eigenvalue $$3$$. The nullities of the powers are: $$T-3I$$ has nullity two, $$(T-3I)^2$$ has nullity three, $$(T-3I)^3$$ has nullity four, and $$(T-3I)^4$$ has nullity five.
 2. The matrix $$S$$ is $$5 \! \times \! 5$$ with two eigenvalues. For the eigenvalue $$2$$ the nullities are: $$S-2I$$ has nullity two, and $$(S-2I)^2$$ has nullity four. For the eigenvalue $$-1$$ the nullities are: $$S+1I$$ has nullity one.
 
-**Problem 4** —
+**Problem 4**  —
 
 Find the change of basis matrices for each example.
 
@@ -394,7 +394,7 @@ Find the change of basis matrices for each example.
 3. Example 2.15  
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Find the Jordan form and a Jordan basis for each matrix.
 
@@ -407,36 +407,36 @@ Find the Jordan form and a Jordan basis for each matrix.
 7. $$\begin{pmatrix} 7 &1 &2 &2 \\ 1 &4 &-1 &-1\\ -2 &1 &5 &-1\\ 1 &1 &2 &8 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 6** —
+**Problem 6**  —
 
 Find all possible Jordan forms of a transformation with characteristic polynomial $$(x-1)^2(x+2)^2$$.
 
-**Problem 7** —
+**Problem 7**  —
 
 Find all possible Jordan forms of a transformation with characteristic polynomial $$(x-1)^3(x+2)$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Find all possible Jordan forms of a transformation with characteristic polynomial $$(x-2)^3(x+1)$$ and minimal polynomial $$(x-2)^2(x+1)$$.
 
-**Problem 9** —
+**Problem 9**  —
 
 Find all possible Jordan forms of a transformation with characteristic polynomial $$(x-2)^4(x+1)$$ and minimal polynomial $$(x-2)^2(x+1)$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 10** — Diagonalize these.
+**Problem 10**  — Diagonalize these.
 
 1. $$\begin{pmatrix} 1 &1 \\ 0 &0 \end{pmatrix}$$
 2. $$\begin{pmatrix} 0 &1 \\ 1 &0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 11** —
+**Problem 11**  —
 
 Find the Jordan matrix representing the differentiation operator on $$\mathcal{P}_3$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Decide if these two are similar.
 
@@ -444,7 +444,7 @@ $$
 \begin{pmatrix} 1 &-1 \\ 4 &-3 \\ \end{pmatrix} \qquad \begin{pmatrix} -1 &0 \\ 1 &-1 \\ \end{pmatrix}
 $$
 
-**Problem 13** —
+**Problem 13**  —
 
 Find the Jordan form of this matrix.
 
@@ -454,28 +454,28 @@ $$
 
 Also give a Jordan basis.
 
-**Problem 14** —
+**Problem 14**  —
 
 How many similarity classes are there for $$3 \! \times \! 3$$ matrices whose only eigenvalues are $$-3$$ and $$4$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 15** —
+**Problem 15**  —
 
 Prove that a matrix is diagonalizable if and only if its minimal polynomial has only linear factors.
 
-**Problem 16** —
+**Problem 16**  —
 
 Give an example of a linear transformation on a vector space that has no non-trivial invariant subspaces.
 
-**Problem 17** —
+**Problem 17**  —
 
 Show that a subspace is $$t-\lambda_1$$ invariant if and only if it is $$t-\lambda_2$$ invariant.
 
-**Problem 18** —
+**Problem 18**  —
 
 Prove or disprove: two $$n \! \times \! n$$ matrices are similar if and only if they have the same characteristic and minimal polynomials.
 
-**Problem 19** —
+**Problem 19**  —
 
 The **trace** of a square matrix is the sum of its diagonal entries.
 
@@ -485,24 +485,24 @@ The **trace** of a square matrix is the sum of its diagonal entries.
 4. Show that the trace of a map is the sum of its eigenvalues (counting multiplicities).
 5. Show that the trace of a nilpotent map is zero. Does the converse hold?
 
-**Problem 20** —
+**Problem 20**  —
 
 To use Definition 2.6 to check whether a subspace is $$t$$ invariant, we seemingly have to check all of the infinitely many vectors in a (nontrivial) subspace to see if they satisfy the condition. Prove that a subspace is $$t$$ invariant if and only if its subbasis has the property that for all of its elements, $$t(\vec{\beta})$$ is in the subspace.  
 *This exercise is recommended for all readers.*
 
-**Problem 21** —
+**Problem 21**  —
 
 Is $$t$$ invariance preserved under intersection? Under union? Complementation? Sums of subspaces?
 
-**Problem 22** —
+**Problem 22**  —
 
 Give a way to order the Jordan blocks if some of the eigenvalues are complex numbers. That is, suggest a reasonable ordering for the complex numbers.
 
-**Problem 23** —
+**Problem 23**  —
 
 Let $$\mathcal{P}_j(\mathbb{R})$$ be the vector space over the reals of degree $$j$$ polynomials. Show that if $$j\le k$$ then $$\mathcal{P}_j(\mathbb{R})$$ is an invariant subspace of $$\mathcal{P}_k(\mathbb{R})$$ under the differentiation operator. In $$\mathcal{P}_7(\mathbb{R})$$, does any of $$\mathcal{P}_0(\mathbb{R})$$, ..., $$\mathcal{P}_6(\mathbb{R})$$ have an invariant complement?
 
-**Problem 24** —
+**Problem 24**  —
 
 In $$\mathcal{P}_n(\mathbb{R})$$, the vector space (over the reals) of degree $$n$$ polynomials,
 
@@ -518,11 +518,11 @@ $$
 
 are the **even** and the **odd** polynomials; $$p(x)=x^2$$ is even while $$p(x)=x^3$$ is odd. Show that they are subspaces. Are they complementary? Are they invariant under the differentiation transformation?
 
-**Problem 25** —
+**Problem 25**  —
 
 Lemma 2.8 says that if $$M$$ and $$N$$ are invariant complements then $$t$$ has a representation in the given block form (with respect to the same ending as starting basis, of course). Does the implication reverse?
 
-**Problem 26** —
+**Problem 26**  —
 
 A matrix $$S$$ is the **square root** of another $$T$$ if $$S^2=T$$. Show that any nonsingular matrix has a square root.
 

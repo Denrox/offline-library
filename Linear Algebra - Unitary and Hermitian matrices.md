@@ -42,11 +42,11 @@ The coefficient of the term $$x_ix_j$$ for $$i \neq j$$ is the sum of the $$(i,j
 
 Generalizing to complex numbers, consider the quadratic form $$Q(\vec{x}) = \vec{x}^HA\vec{x}$$, where $$\vec{x} \in \Complex^n$$ is arbitrary. Requiring that $$A$$ be Hermitian is similar to the requirement that $$A$$ be symmetric in the case of real numbers. $$Q(\vec{x})$$ always returns a real number if $$A$$ is Hermitian:
 
-**Theorem** —
+**Theorem**  —
 
 If $$A$$ is Hermitian, then the quadratic form $$Q(\vec{x}) = \vec{x}^HA\vec{x}$$ always returns a real number.
 
-**Proof** —
+**Proof**  —
 
 $$
 \forall\vec{x}\in\Complex^n : \vec{x}^HA\vec{x} \in \R \iff \forall\vec{x}\in\Complex^n : \vec{x}^HA\vec{x} = (\vec{x}^HA\vec{x})^* \iff \forall\vec{x}\in\Complex^n : \vec{x}^HA\vec{x} = \vec{x}^HA^H\vec{x}

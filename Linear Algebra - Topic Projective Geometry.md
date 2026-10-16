@@ -158,7 +158,7 @@ Although its local properties are the familiar Euclidean ones, there is a global
 
 The sequence of pictures below dramatizes this non-orientability. They sketch a trip around this space in the direction of the $$y$$ part of the $$xy$$-axis. (Warning: the trip shown is not halfway around, it is a full circuit. True, if we made this into a movie then we could watch the northern hemisphere spots in the drawing above gradually rotate about halfway around the sphere to the last picture below. And we could watch the southern hemisphere spots in the picture above slide through the south pole and up through the equator to the last picture. But: the spots at either end of the dashed line are the same projective point. We don't need to continue on much further; we are pretty much back to the projective point where we started by the last picture.)
 
-$$\implies$$                  $$\implies$$
+$$\implies$$  $$\implies$$
 
 At the end of the circuit, the $$x$$ part of the $$xy$$-axes sticks out in the other direction. Thus, in the projective plane we cannot describe a figure as right-{} or left-handed (another way to make this point is that we cannot describe a spiral as clockwise or counterclockwise).
 
@@ -168,7 +168,7 @@ So projective geometry is mathematically interesting, in addition to the natural
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 What is the equation of this point?
 
@@ -176,7 +176,7 @@ $$
 \begin{pmatrix}1\\0\\0\end{pmatrix}
 $$
 
-**Problem 2** —
+**Problem 2**  —
 
 1. Find the line incident on these points in the projective plane.
 
@@ -190,23 +190,23 @@ $$
 (1\ 2\ 3),(4\ 5\ 6)
 $$
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the formula for the line incident on two projective points. Find the formula for the point incident on two projective lines.
 
-**Problem 4** —
+**Problem 4**  —
 
 Prove that the definition of incidence is independent of the choice of the representatives of $$p$$ and $$L$$ . That is, if $$p_1,p_2,p_3$$ and $$q_1,q_2,q_3$$ are two triples of homogeneous coordinates for $$p$$ , and $$L_1,L_2,L_3$$ and $$M_1,M_2,M_3$$ are two triples of homogeneous coordinates for $$L$$ , prove that $$p_1L_1+p_2L_2+p_3L_3=0$$ if and only if $$q_1M_1+q_2M_2+q_3M_3=0$$ .
 
-**Problem 5** —
+**Problem 5**  —
 
 Give a drawing to show that central projection does not preserve circles, that a circle may project to an ellipse. Can a (non-circular) ellipse project to a circle?
 
-**Problem 6** —
+**Problem 6**  —
 
 Give the formula for the correspondence between the non-equatorial part of the antipodal modal of the projective plane, and the plane $$z=1$$ .
 
-**Problem 7** —
+**Problem 7**  —
 
 (Pappus's Theorem) Assume that $$T_0,U_0,V_0$$ are collinear and that $$T_1,U_1,V_1$$ are collinear. Consider these three points:
 

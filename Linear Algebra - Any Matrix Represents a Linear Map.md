@@ -10,11 +10,11 @@ In this subsection, we will show the converse, that each matrix represents a lin
 
 Recall that, in the definition of the matrix representation of a linear map, the number of columns of the matrix is the dimension of the map's domain and the number of rows of the matrix is the dimension of the map's codomain. Thus, for instance, a $$2 \! \times \! 3$$ matrix cannot represent a map from $$\mathbb{R}^5$$ to $$\mathbb{R}^4$$. The next result says that, beyond this restriction on the dimensions, there are no other limitations: the $$2 \! \times \! 3$$ matrix represents a map from any three-dimensional space to any two-dimensional space.
 
-**Theorem 2.1** —
+**Theorem 2.1**  —
 
 Any matrix represents a homomorphism between vector spaces of appropriate dimensions, with respect to any pair of bases.
 
-**Proof** —
+**Proof**  —
 
 For the matrix
 
@@ -50,7 +50,7 @@ $$
 
 provides this verification.
 
-**Example 2.2** —
+**Example 2.2**  —
 
 Which map the matrix represents depends on which bases are used. If
 
@@ -76,11 +76,11 @@ So not only is any linear map described by a matrix but any matrix describes a l
 
 With the theorem, we have characterized linear maps as those maps that act in this matrix way. Each linear map is described by a matrix and each matrix describes a linear map. We finish this section by illustrating how a matrix can be used to tell things about its maps.
 
-**Theorem 2.3** —
+**Theorem 2.3**  —
 
 The rank of a matrix equals the rank of any map that it represents.
 
-**Proof** —
+**Proof**  —
 
 Suppose that the matrix $$H$$ is $$m \! \times \! n$$. Fix domain and codomain spaces $$V$$ and $$W$$ of dimension $$n$$ and $$m$$, with bases $$B=\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$ and $$D$$. Then $$H$$ represents some linear map $$h$$ between those spaces with respect to these bases whose rangespace
 
@@ -94,7 +94,7 @@ The rank of the matrix is its column rank (or its row rank; the two are equal). 
 
 To see that the two spans have the same dimension, recall that a representation with respect to a basis gives an isomorphism $$\text{Rep}_D:W\to \mathbb{R}^m$$. Under this isomorphism, there is a linear relationship among members of the rangespace if and only if the same relationship holds in the column space, e.g, $$\vec{0}=c_1h(\vec{\beta}_1)+\dots+c_nh(\vec{\beta}_n)$$ if and only if $$\vec{0}=c_1{\rm Rep}_{D}(h(\vec{\beta}_1))+\dots+c_n{\rm Rep}_{D}(h(\vec{\beta}_n))$$. Hence, a subset of the rangespace is linearly independent if and only if the corresponding subset of the column space is linearly independent. This means that the size of the largest linearly independent subset of the rangespace equals the size of the largest linearly independent subset of the column space, and so the two spaces have the same dimension.
 
-**Example 2.4** —
+**Example 2.4**  —
 
 Any map represented by
 
@@ -104,11 +104,11 @@ $$
 
 must, by definition, be from a three-dimensional domain to a four-dimensional codomain. In addition, because the rank of this matrix is two (we can spot this by eye or get it with Gauss' method), any map represented by this matrix has a two-dimensional rangespace.
 
-**Corollary 2.5** —
+**Corollary 2.5**  —
 
 Let $$h$$ be a linear map represented by a matrix $$H$$. Then $$h$$ is onto if and only if the rank of $$H$$ equals the number of its rows, and $$h$$ is one-to-one if and only if the rank of $$H$$ equals the number of its columns.
 
-**Proof** —
+**Proof**  —
 
 For the first half, the dimension of the rangespace of $$h$$ is the rank of $$h$$, which equals the rank of $$H$$ by the theorem. Since the dimension of the codomain of $$h$$ is the number of rows in $$H$$, if the rank of $$H$$ equals the number of rows, then the dimension of the rangespace equals the dimension of the codomain. But a subspace with the same dimension as its superspace must equal that superspace (a basis for the rangespace is a linearly independent subset of the codomain, whose size is equal to the dimension of the codomain, and so this set is a basis for the codomain).
 
@@ -116,15 +116,15 @@ For the second half, a linear map is one-to-one if and only if it is an isomorph
 
 The above results end any confusion caused by our use of the word "rank" to mean apparently different things when applied to matrices and when applied to maps. We can also justify the dual use of "nonsingular". We've defined a matrix to be nonsingular if it is square and is the matrix of coefficients of a linear system with a unique solution, and we've defined a linear map to be nonsingular if it is one-to-one.
 
-**Corollary 2.6** —
+**Corollary 2.6**  —
 
 A square matrix represents nonsingular maps if and only if it is a nonsingular matrix. Thus, a matrix represents an isomorphism if and only if it is square and nonsingular.
 
-**Proof** —
+**Proof**  —
 
 Immediate from the prior result.
 
-**Example 2.7** —
+**Example 2.7**  —
 
 Any map from $$\mathbb{R}^2$$ to $$\mathcal{P}_1$$ represented with respect to any pair of bases by
 
@@ -134,7 +134,7 @@ $$
 
 is nonsingular because this matrix has rank two.
 
-**Example 2.8** —
+**Example 2.8**  —
 
 Any map $$g:V\to W$$ represented by
 
@@ -148,7 +148,7 @@ We've now seen that the relationship between maps and matrices goes both ways: f
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Decide if the vector is in the column space of the matrix.
 
@@ -157,7 +157,7 @@ Decide if the vector is in the column space of the matrix.
 3. $$\begin{pmatrix} 1 &-1 &1 \\ 1 &1 &-1 \\ -1 &-1 &1 \end{pmatrix}$$, $$\begin{pmatrix} 2 \\ 0 \\ 0 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Decide if each vector lies in the range of the map from $$\mathbb{R}^3$$ to $$\mathbb{R}^2$$ represented with respect to the standard bases by the matrix.
 
@@ -165,7 +165,7 @@ Decide if each vector lies in the range of the map from $$\mathbb{R}^3$$ to $$\m
 2. $$\begin{pmatrix} 2 &0 &3 \\ 4 &0 &6 \end{pmatrix}$$, $$\begin{pmatrix} 1 \\ 1 \end{pmatrix}$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Consider this matrix, representing a transformation of $$\mathbb{R}^2$$, and these bases for that space.
 
@@ -177,7 +177,7 @@ $$
 2. The second member?
 3. Where is a general vector from the domain (a vector with components $$x$$ and $$y$$) mapped? That is, what transformation of $$\mathbb{R}^2$$ is represented with respect to $$B,D$$ by this matrix?
 
-**Problem 4** —
+**Problem 4**  —
 
 What transformation of $$F=\{a\cos\theta+b\sin\theta\,\big|\, a,b\in\mathbb{R}\}$$ is represented with respect to $$B=\langle \cos\theta-\sin\theta,\sin\theta \rangle$$ and $$D=\langle \cos\theta+\sin\theta,\cos\theta \rangle$$ by this matrix?
 
@@ -187,7 +187,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Decide if $$1+2x$$ is in the range of the map from $$\mathbb{R}^3$$ to $$\mathcal{P}_2$$ represented with respect to $$\mathcal{E}_3$$ and $$\langle 1,1+x^2,x \rangle$$ by this matrix.
 
@@ -195,7 +195,7 @@ $$
 \begin{pmatrix} 1 &3 &0 \\ 0 &1 &0 \\ 1 &0 &1 \end{pmatrix}
 $$
 
-**Problem 6** —
+**Problem 6**  —
 
 Example 2.8 gives a matrix that is nonsingular, and is therefore associated with maps that are nonsingular.
 
@@ -206,25 +206,25 @@ Example 2.8 gives a matrix that is nonsingular, and is therefore associated with
 5. Check that rank plus nullity equals the dimension of the domain.  
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 Because the rank of a matrix equals the rank of any map it represents, if one matrix represents two different maps $$H={\rm Rep}_{B,D}(h)={\rm Rep}_{\hat{B},\hat{D}}(\hat{h})$$ (where $$h,\hat{h}:V\to W$$) then the dimension of the rangespace of $$h$$ equals the dimension of the rangespace of $$\hat{h}$$. Must these equal-dimensioned rangespaces actually be the same?  
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Let $$V$$ be an $$n$$-dimensional space with bases $$B$$ and $$D$$. Consider a map that sends, for $$\vec{v}\in V$$, the column vector representing $$\vec{v}$$ with respect to $$B$$ to the column vector representing $$\vec{v}$$ with respect to $$D$$. Show that is a linear transformation of $$\mathbb{R}^n$$.
 
-**Problem 9** —
+**Problem 9**  —
 
 Example 2.2 shows that changing the pair of bases can change the map that a matrix represents, even though the domain and codomain remain the same. Could the map ever not change? Is there a matrix $$H$$, vector spaces $$V$$ and $$W$$, and associated pairs of bases $$B_1,D_1$$ and $$B_2,D_2$$ (with $$B_1\neq B_2$$ or $$D_1\neq D_2$$ or both) such that the map represented by $$H$$ with respect to $$B_1,D_1$$ equals the map represented by $$H$$ with respect to $$B_2,D_2$$?  
 *This exercise is recommended for all readers.*
 
-**Problem 10** —
+**Problem 10**  —
 
 A square matrix is a **diagonal** matrix if it is all zeroes except possibly for the entries on its upper-left to lower-right diagonal— its $$1,1$$ entry, its $$2,2$$ entry, etc. Show that a linear map is an isomorphism if there are bases such that, with respect to those bases, the map is represented by a diagonal matrix with no zeroes on the diagonal.
 
-**Problem 11** —
+**Problem 11**  —
 
 Describe geometrically the action on $$\mathbb{R}^2$$ of the map represented with respect to the standard bases $$\mathcal{E}_2,\mathcal{E}_2$$ by this matrix.
 
@@ -238,7 +238,7 @@ $$
 \begin{pmatrix} 1 &0 \\ 0 &0 \end{pmatrix} \quad \begin{pmatrix} 0 &1 \\ 1 &0 \end{pmatrix} \quad \begin{pmatrix} 1 &3 \\ 0 &1 \end{pmatrix}
 $$
 
-**Problem 12** —
+**Problem 12**  —
 
 The fact that for any linear map the rank plus the nullity equals the dimension of the domain shows that a necessary condition for the existence of a homomorphism between two spaces, onto the second space, is that there be no gain in dimension. That is, where $$h:V\to W$$ is onto, the dimension of $$W$$ must be less than or equal to the dimension of $$V$$.
 
@@ -251,7 +251,7 @@ $$
 
 represents a map from $$\mathbb{R}^3$$ to $$\mathbb{R}^3$$ whose range is the $$xy$$ plane subspace of $$\mathbb{R}^3$$?
 
-**Problem 13** —
+**Problem 13**  —
 
 Let $$V$$ be an $$n$$-dimensional space and suppose that $$\vec{x}\in\mathbb{R}^n$$. Fix a basis $$B$$ for $$V$$ and consider the map $$h_{\vec{x}}:V\to \mathbb{R}$$ given $$\vec{v}\mapsto\vec{x}\cdot{\rm Rep}_{B}(\vec{v})$$ by the dot product.
 
@@ -259,7 +259,7 @@ Let $$V$$ be an $$n$$-dimensional space and suppose that $$\vec{x}\in\mathbb{R}^
 2. Show that for any linear map $$g:V\to \mathbb{R}$$ there is an $$\vec{x}\in\mathbb{R}^n$$ such that $$g=h_{\vec{x}}$$.
 3. In the prior item we fixed the basis and varied the $$\vec{x}$$ to get all possible linear maps. Can we get all possible linear maps by fixing an $$\vec{x}$$ and varying the basis?
 
-**Problem 14** —
+**Problem 14**  —
 
 Let $$V,W,X$$ be vector spaces with bases $$B,C,D$$.
 

@@ -34,7 +34,7 @@ We need to decide when two descriptions are describing the same set. More pragma
 
 Sets are equal if and only if they have the same members. A common way to show that two sets, $$S_1$$ and $$S_2$$, are equal is to show mutual inclusion: any member of $$S_1$$ is also in $$S_2$$, and any member of $$S_2$$ is also in $$S_1$$.
 
-**Example 4.1** —
+**Example 4.1**  —
 
 To show that
 
@@ -122,7 +122,7 @@ $$
 \begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}((3/2)m+n) +\begin{pmatrix} 1 \\ 1 \\ 0 \end{pmatrix}((5/2)m-2n).
 $$
 
-**Example 4.2** —
+**Example 4.2**  —
 
 Of course, sometimes sets are not equal. The method of the prior example will help us see the relationship between the two sets. These
 
@@ -180,7 +180,7 @@ is in $$R$$ but not in $$P$$.
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Decide if the vector is a member of the set.
 
@@ -191,7 +191,7 @@ Decide if the vector is a member of the set.
 5. $$\begin{pmatrix} 1 \\ 4 \\ 14 \end{pmatrix}$$, $$\{\begin{pmatrix} 2 \\ 2 \\ 5 \end{pmatrix}k+\begin{pmatrix} -1 \\ 0 \\ 2 \end{pmatrix}m \,\big|\, k,m\in\mathbb{R}\}$$
 6. $$\begin{pmatrix} 1 \\ 4 \\ 6 \end{pmatrix}$$, $$\{\begin{pmatrix} 2 \\ 2 \\ 5 \end{pmatrix}k+\begin{pmatrix} -1 \\ 0 \\ 2 \end{pmatrix}m \,\big|\, k,m\in\mathbb{R}\}$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Produce two descriptions of this set that are different than this one.
 
@@ -201,12 +201,12 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Show that the three descriptions given at the start of this subsection all describe the same set.  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 Show that these sets are equal
 
@@ -222,7 +222,7 @@ $$
 
 *This exercise is recommended for all readers.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Decide if the sets are equal.
 

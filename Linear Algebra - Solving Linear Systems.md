@@ -61,8 +61,7 @@ $$
 {\rm H}_2{\rm O}
 $$
 
-To finish each of these examples requires solving a system of equations. In each, the equations involve only the first power of the variables. This chapter shows how to solve any such system.
-
+To finish each of these examples requires solving a system of equations. In each, the equations involve only the first power of the variables. This chapter shows how to solve any such system.  
 ### References
 
 - O'Nan, Micheal (1990), *Linear Algebra* (3rd ed.), Harcourt College Pub.

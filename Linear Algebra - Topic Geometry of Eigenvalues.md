@@ -50,7 +50,7 @@ $$
 
 ### Exercises
 
-**Problem 1** — Show the effect each matrix has on the top half of the unit circle.
+**Problem 1**  — Show the effect each matrix has on the top half of the unit circle.
 
 1. $$\begin{pmatrix} 1 &1 \\ 2 &2 \end{pmatrix}$$
 2. $$\begin{pmatrix} 2 &3 \\ 1 &1 \end{pmatrix}$$

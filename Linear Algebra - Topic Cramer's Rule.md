@@ -50,14 +50,14 @@ Cramer's Rule allows us to solve many two equations/two unknowns systems by eye.
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Use Cramer's Rule to solve each for each of the variables.
 
 1. $$\begin{array}{rcrcr} x &- &y &= &4 \\ -x &+ &2y &= &-7 \end{array}$$
 2. $$\begin{array}{rcrcr} -2x &+ &y &= &-2 \\ x &- &2y &= &-2 \end{array}$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Use Cramer's Rule to solve this system for $$z$$.
 
@@ -65,23 +65,23 @@ $$
 \begin{array}{rcrcrcrcr} 2x &+ &y &+ &z &= &1 \\ 3x & & &+ &z &= &4 \\ x &- &y &- &z &= &2 \end{array}
 $$
 
-**Problem 3** —
+**Problem 3**  —
 
 Prove Cramer's Rule.
 
-**Problem 4** —
+**Problem 4**  —
 
 Suppose that a linear system has as many equations as unknowns, that all of its coefficients and constants are integers, and that its matrix of coefficients has determinant $$1$$. Prove that the entries in the solution are all integers. (*Remark.* This is often used to invent linear systems for exercises. If an instructor makes the linear system with this property then the solution is not some disagreeable fraction.)
 
-**Problem 5** —
+**Problem 5**  —
 
 Use Cramer's Rule to give a formula for the solution of a two equations/two unknowns linear system.
 
-**Problem 6** —
+**Problem 6**  —
 
 Can Cramer's Rule tell the difference between a system with no solutions and one with infinitely many?
 
-**Problem 7** —
+**Problem 7**  —
 
 The first picture in this Topic (the one that doesn't use determinants) shows a unique solution case. Produce a similar picture for the case of infintely many solutions, and the case of no solutions.
 

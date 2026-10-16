@@ -174,7 +174,7 @@ Finding a particular solution in more complicated cases is, naturally, more comp
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 Solve each homogeneous linear recurrence relations.
 
@@ -182,7 +182,7 @@ Solve each homogeneous linear recurrence relations.
 2. $$f(n+1)=4f(n)$$
 3. $$f(n+1)=6f(n)+7f(n-1)+6f(n-2)$$
 
-**Problem 2** —
+**Problem 2**  —
 
 Give a formula for the relations of the prior exercise, with these initial conditions.
 
@@ -190,15 +190,15 @@ Give a formula for the relations of the prior exercise, with these initial condi
 2. $$f(0)=0$$, $$f(1)=1$$
 3. $$f(0)=1$$, $$f(1)=1$$, $$f(2)=3$$.
 
-**Problem 3** —
+**Problem 3**  —
 
 Check that the isomorphism given between $$S$$ and $$\mathbb{R}^k$$ is a linear map. It is argued above that this map is one-to-one. What is its inverse?
 
-**Problem 4** —
+**Problem 4**  —
 
 Show that the characteristic equation of the matrix is as stated, that is, is the polynomial associated with the relation. (Hint: expanding down the final column, and using induction will work.)
 
-**Problem 5** —
+**Problem 5**  —
 
 Given a homogeneous linear recurrence relation $$f(n+1)=a_nf(n)+\dots+a_{n-k}f(n-k)$$, let $$r_1$$, ..., $$r_k$$ be the roots of the associated polynomial.
 
@@ -206,7 +206,7 @@ Given a homogeneous linear recurrence relation $$f(n+1)=a_nf(n)+\dots+a_{n-k}f(n
 2. Prove that no $$r_i$$ is $$0$$.
 3. Prove that the set $$\{f_{r_1},\dots,f_{r_k}\}$$ is linearly independent.
 
-**Problem 6** —
+**Problem 6**  —
 
 (This refers to the value $$T(64)=18,446,744,073,709,551,615$$ given in the computer code below.) Transferring one disk per second, how many years would it take the priests at the Tower of Hanoi to finish the job?
 
@@ -221,6 +221,7 @@ First, the Tower of Hanoi code is a straightforward implementation of the recurr
 (+ (* (tower-of-hanoi-moves (- n 1))
 2)
 1) )  )
+
 ```  
 (Note for readers unused to recursive code: to compute $$T(64)$$, the computer is told to compute $$2*T(63)-1$$, which requires, of course, computing $$T(63)$$. The computer puts the "times $$2$$" and the "plus $$1$$" aside for a moment to do that. It computes $$T(63)$$ by using this same piece of code (that's what "recursive" means), and to do that is told to compute $$2*T(62)-1$$. This keeps up (the next step is to try to do $$T(62)$$ while the other arithmetic is held in waiting), until, after $$63$$ steps, the computer tries to compute $$T(1)$$. It then returns $$T(1)=1$$, which now means that the computation of $$T(2)$$ can proceed, etc., up until the original computation of $$T(64)$$ finishes.)
 
@@ -233,6 +234,7 @@ The next routine calculates a table of the first few values. (Some language note
 (if (< n 1)
 lst
 (first-few-outputs-aux proc (- n 1) (cons (proc n) lst)) ) )
+
 ```  
 The session at the SCM prompt went like this.  
 ```
@@ -251,8 +253,11 @@ Evaluation took 120 mSec
 144115188075855871 288230376151711743 576460752303423487
 1152921504606846975 2305843009213693951 4611686018427387903
 9223372036854775807 18446744073709551615)
+
 ```  
-This is a list of $$T(1)$$ through $$T(64)$$. (The $$120$$ mSec came on a 50 mHz '486 running in an XTerm of XWindow under Linux. The session was edited to put line breaks between numbers.)  Solutions
+This is a list of $$T(1)$$ through $$T(64)$$. (The $$120$$ mSec came on a 50 mHz '486 running in an XTerm of XWindow under Linux. The session was edited to put line breaks between numbers.)
+
+Solutions
 
 ### References
 

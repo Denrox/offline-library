@@ -10,15 +10,15 @@ $$
 
 is not an isomorphism because it is not onto. Of course, being a function, a homomorphism is onto some set, namely its range; the map $$\iota$$ is onto the $$xy$$-plane subset of $$\mathbb{R}^3$$.
 
-**Lemma 2.1** —
+**Lemma 2.1**  —
 
 Under a homomorphism, the image of any subspace of the domain is a subspace of the codomain. In particular, the image of the entire space, the range of the homomorphism, is a subspace of the codomain.
 
-**Proof** —
+**Proof**  —
 
 Let $$h:V\to W$$ be linear and let $$S$$ be a subspace of the domain $$V$$. The image $$h(S)$$ is a subset of the codomain $$W$$. It is nonempty because $$S$$ is nonempty and thus to show that $$h(S)$$ is a subspace of $$W$$ we need only show that it is closed under linear combinations of two vectors. If $$h(\vec{s}_1)$$ and $$h(\vec{s}_2)$$ are members of $$h(S)$$ then $$c_1\cdot h(\vec{s}_1)+c_2\cdot h(\vec{s}_2) = h(c_1\cdot \vec{s}_1)+h(c_2\cdot \vec{s}_2) = h(c_1\cdot \vec{s}_1+c_2\cdot \vec{s}_2)$$ is also a member of $$h(S)$$ because it is the image of $$c_1\cdot \vec{s}_1+c_2\cdot \vec{s}_2$$ from $$S$$.
 
-**Definition 2.2** —
+**Definition 2.2**  —
 
 The **rangespace** of a homomorphism $$h:V\to W$$ is
 
@@ -30,11 +30,11 @@ sometimes denoted $$h(V)$$. The dimension of the rangespace is the map's **rank*
 
 (We shall soon see the connection between the rank of a map and the rank of a matrix.)
 
-**Example 2.3** —
+**Example 2.3**  —
 
 Recall that the derivative map $$d/dx:\mathcal{P}_3\to \mathcal{P}_3$$ given by $$a_0+a_1x+a_2x^2+a_3x^3 \mapsto a_1+2a_2x+3a_3x^2$$ is linear. The rangespace $$\mathcal{R}(d/dx)$$ is the set of quadratic polynomials $$\{r+sx+tx^2\,\big|\, r,s,t\in\mathbb{R} \}$$. Thus, the rank of this map is three.
 
-**Example 2.4** —
+**Example 2.4**  —
 
 With this homomorphism $$h:M_{2 \! \times \! 2}\to \mathcal{P}_3$$
 
@@ -50,7 +50,7 @@ However, omitting the "one-to-one" condition does make a difference. A homomorph
 
 Recall that for any function $$h:V\to W$$, the set of elements of $$V$$ that are mapped to $$\vec{w}\in W$$ is the **inverse image** $$h^{-1}(\vec{w})=\{\vec{v}\in V\,\big|\, h(\vec{v})=\vec{w}\}$$. Above, the three sets of many elements on the left are inverse images.
 
-**Example 2.5** —
+**Example 2.5**  —
 
 Consider the projection $$\pi:\mathbb{R}^3\to \mathbb{R}^2$$
 
@@ -60,7 +60,7 @@ $$
 
 which is a homomorphism that is many-to-one. In this instance, an inverse image set is a vertical line of vectors in the domain.
 
-**Example 2.6** —
+**Example 2.6**  —
 
 This homomorphism $$h:\mathbb{R}^2\to \mathbb{R}^1$$
 
@@ -78,7 +78,7 @@ In generalizing from isomorphisms to homomorphisms by dropping the one-to-one co
 
 What we shall keep, as the examples below illustrate, is that a homomorphism describes a way in which the domain is "like", or "analogous to", the range.
 
-**Example 2.7** —
+**Example 2.7**  —
 
 We think of $$\mathbb{R}^3$$ as being like $$\mathbb{R}^2$$, except that vectors have an extra component. That is, we think of the vector with components $$x$$, $$y$$, and $$z$$ as like the vector with components $$x$$ and $$y$$. In defining the projection map $$\pi$$, we make precise which members of the domain we are thinking of as related to which members of the codomain.
 
@@ -94,7 +94,7 @@ Again in this drawing, the vectors that map to $$\vec{w}_1$$ lie in the domain i
 
 Thus, although the two spaces $$\mathbb{R}^3$$ and $$\mathbb{R}^2$$ are not isomorphic, $$\pi$$ describes a way in which they are alike: vectors in $$\mathbb{R}^3$$ add as do the associated vectors in $$\mathbb{R}^2$$— vectors add as their shadows add.
 
-**Example 2.8** —
+**Example 2.8**  —
 
 A homomorphism can be used to express an analogy between spaces that is more subtle than the prior one. For the map
 
@@ -108,7 +108,7 @@ from Example 2.6 fix two numbers $$w_1, w_2$$ in the range $$\mathbb{R}$$. A $$\
 
 Restated, if a $$w_1$$ vector is added to a $$w_2$$ vector then the result is mapped by $$h$$ to a $$w_1+w_2$$ vector. Briefly, the image of a sum is the sum of the images. Even more briefly, $$h(\vec{v}_1+\vec{v}_2)=h(\vec{v}_1)+h(\vec{v}_2)$$. (The preservation of scalar multiplication condition has a similar restatement.)
 
-**Example 2.9** —
+**Example 2.9**  —
 
 The inverse images can be structures other than lines. For the linear map $$h:\mathbb{R}^3\to \mathbb{R}^2$$
 
@@ -124,15 +124,15 @@ Another reason that we won't treat all of the homomorphisms that we see as above
 
 First, in all three examples, the inverse images are lines or planes, that is, linear surfaces. In particular, the inverse image of the range's zero vector is a line or plane through the origin— a subspace of the domain.
 
-**Lemma 2.10** —
+**Lemma 2.10**  —
 
 For any homomorphism, the inverse image of a subspace of the range is a subspace of the domain. In particular, the inverse image of the trivial subspace of the range is a subspace of the domain.
 
-**Proof** —
+**Proof**  —
 
 Let $$h:V\to W$$ be a homomorphism and let $$S$$ be a subspace of the rangespace $$h$$. Consider $$h^{-1}(S)=\{\vec{v}\in V\,\big|\, h(\vec{v})\in S\}$$, the inverse image of the set $$S$$. It is nonempty because it contains $$\vec{0}_V$$, since $$h(\vec{0}_V)=\vec{0}_W$$, which is an element $$S$$, as $$S$$ is a subspace. To show that $$h^{-1}(S)$$ is closed under linear combinations, let $$\vec{v}_1$$ and $$\vec{v}_2$$ be elements, so that $$h(\vec{v}_1)$$ and $$h(\vec{v}_2)$$ are elements of $$S$$, and then $$c_1\vec{v}_1+c_2\vec{v}_2$$ is also in the inverse image because $$h(c_1\vec{v}_1+c_2\vec{v}_2) =c_1h(\vec{v}_1)+c_2h(\vec{v}_2)$$ is a member of the subspace $$S$$.
 
-**Definition 2.11** —
+**Definition 2.11**  —
 
 The **nullspace** or **kernel** of a linear map $$h:V\to W$$ is the inverse image of $$0_W$$
 
@@ -142,11 +142,11 @@ $$
 
 The dimension of the nullspace is the map's *nullity*.
 
-**Example 2.12** —
+**Example 2.12**  —
 
 The map from Example 2.3 has this nullspace $$\mathcal{N}(d/dx)=\{a_0+0x+0x^2+0x^3\,\big|\, a_0\in\mathbb{R}\}$$.
 
-**Example 2.13** —
+**Example 2.13**  —
 
 The map from Example 2.4 has this nullspace.
 
@@ -156,11 +156,11 @@ $$
 
 Now for the second insight from the above pictures. In Example 2.7, each of the vertical lines is squashed down to a single point— $$\pi$$, in passing from the domain to the range, takes all of these one-dimensional vertical lines and "zeroes them out", leaving the range one dimension smaller than the domain. Similarly, in Example 2.8, the two-dimensional domain is mapped to a one-dimensional range by breaking the domain into lines (here, they are diagonal lines), and compressing each of those lines to a single member of the range. Finally, in Example 2.9, the domain breaks into planes which get "zeroed out", and so the map starts with a three-dimensional domain but ends with a one-dimensional range— this map "subtracts" two from the dimension. (Notice that, in this third example, the codomain is two-dimensional but the range of the map is only one-dimensional, and it is the dimension of the range that is of interest.)
 
-**Theorem 2.14** —
+**Theorem 2.14**  —
 
 A linear map's rank plus its nullity equals the dimension of its domain.
 
-**Proof** —
+**Proof**  —
 
 Let $$h:V\to W$$ be linear and let $$B_N=\langle \vec{\beta}_1,\ldots,\vec{\beta}_k \rangle$$ be a basis for the nullspace. Extend that to a basis $$B_V=\langle \vec{\beta}_1,\dots,\vec{\beta}_k, \vec{\beta}_{k+1},\dots,\vec{\beta}_n \rangle$$ for the entire domain. We shall show that $$B_R=\langle h(\vec{\beta}_{k+1}),\dots,h(\vec{\beta}_n) \rangle$$ is a basis for the rangespace. Then counting the size of these bases gives the result.
 
@@ -174,7 +174,7 @@ But $$B_V$$ is a basis for $$V$$ so each scalar equals zero. Therefore $$B_R$$ i
 
 To show that $$B_R$$ spans the rangespace, consider $$h(\vec{v})\in \mathcal{R}(h)$$ and write $$\vec{v}$$ as a linear combination $$\vec{v}=c_1\vec{\beta}_1+\dots+c_n\vec{\beta}_n$$ of members of $$B_V$$. This gives $$h(\vec{v})=h(c_1\vec{\beta}_1+\dots+c_n\vec{\beta}_n) =c_1h(\vec{\beta}_1)+\dots+c_kh(\vec{\beta}_k) +c_{k+1}h(\vec{\beta}_{k+1})+\dots+c_nh(\vec{\beta}_n)$$ and since $$\vec{\beta}_1$$, ..., $$\vec{\beta}_k$$ are in the nullspace, we have that $$h(\vec{v})=\vec{0}+\dots+\vec{0} +c_{k+1}h(\vec{\beta}_{k+1})+\dots+c_nh(\vec{\beta}_n)$$. Thus, $$h(\vec{v})$$ is a linear combination of members of $$B_R$$, and so $$B_R$$ spans the space.
 
-**Example 2.15** —
+**Example 2.15**  —
 
 Where $$h:\mathbb{R}^3\to \mathbb{R}^4$$ is
 
@@ -190,11 +190,11 @@ $$
 
 and so the rank of $$h$$ is two while the nullity is one.
 
-**Example 2.16** —
+**Example 2.16**  —
 
 If $$t:\mathbb{R}\to \mathbb{R}$$ is the linear transformation $$x\mapsto -4x,$$ then the range is $$\mathcal{R}(t)=\mathbb{R}^1$$, and so the rank of $$t$$ is one and the nullity is zero.
 
-**Corollary 2.17** —
+**Corollary 2.17**  —
 
 The rank of a linear map is less than or equal to the dimension of the domain. Equality holds if and only if the nullity of the map is zero.
 
@@ -202,23 +202,23 @@ We know that an isomorphism exists between two spaces if and only if their dimen
 
 The rangespace of a linear map can be of dimension strictly less than the dimension of the domain (Example 2.3's derivative transformation on $$\mathcal{P}_3$$ has a domain of dimension four but a range of dimension three). Thus, under a homomorphism, linearly independent sets in the domain may map to linearly dependent sets in the range (for instance, the derivative sends $$\{1,x,x^2,x^3\}$$ to $$\{0,1,2x,3x^2\}$$). That is, under a homomorphism, independence may be lost. In contrast, dependence stays.
 
-**Lemma 2.18** —
+**Lemma 2.18**  —
 
 Under a linear map, the image of a linearly dependent set is linearly dependent.
 
-**Proof** —
+**Proof**  —
 
 Suppose that $$c_1\vec{v}_1+\dots+c_n\vec{v}_n=\vec{0}_V$$, with some $$c_i$$ nonzero. Then, because $$h(c_1\vec{v}_1+\dots+c_n\vec{v}_n)=c_1h(\vec{v}_1)+\dots+c_nh(\vec{v}_n)$$ and because $$h(\vec{0}_V)=\vec{0}_W$$, we have that $$c_1h(\vec{v}_1)+\dots+c_nh(\vec{v}_n)=\vec{0}_W$$ with some nonzero $$c_i$$.
 
 When is independence not lost? One obvious sufficient condition is when the homomorphism is an isomorphism. This condition is also necessary; see Problem 14. We will finish this subsection comparing homomorphisms with isomorphisms by observing that a one-to-one homomorphism is an isomorphism from its domain onto its range.
 
-**Definition 2.19** —
+**Definition 2.19**  —
 
 A linear map that is one-to-one is *nonsingular*.
 
 (In the next section we will see the connection between this use of "nonsingular" for maps and its familiar use for matrices.)
 
-**Example 2.20** —
+**Example 2.20**  —
 
 This nonsingular homomorphism $$\iota:\mathbb{R}^2\to \mathbb{R}^3$$
 
@@ -230,7 +230,7 @@ gives the obvious correspondence between $$\mathbb{R}^2$$ and the $$xy$$-plane i
 
 The prior observation allows us to adapt some results about isomorphisms to this setting.
 
-**Theorem 2.21** —
+**Theorem 2.21**  —
 
 In an $$n$$-dimensional vector space $$V$$, these:
 
@@ -242,7 +242,7 @@ In an $$n$$-dimensional vector space $$V$$, these:
 
 are equivalent statements about a linear map $$h:V\to W$$.
 
-**Proof** —
+**Proof**  —
 
 We will first show that $$1 \Longleftrightarrow 2$$. We will then show that $$1\implies 3\implies 4\implies 5 \implies 2$$.
 
@@ -273,7 +273,7 @@ We've now seen that a linear map shows how the structure of the domain is like t
 ### Exercises  
 *This exercise is recommended for all readers.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Let $$h:\mathcal{P}_3\to \mathcal{P}_4$$ be given by $$p(x)\mapsto x\cdot p(x)$$. Which of these are in the nullspace? Which are in the rangespace?
 
@@ -284,7 +284,7 @@ Let $$h:\mathcal{P}_3\to \mathcal{P}_4$$ be given by $$p(x)\mapsto x\cdot p(x)$$
 5. $$1+3x^2-x^3$$  
 *This exercise is recommended for all readers.*
 
-**Problem 2** —
+**Problem 2**  —
 
 Find the nullspace, nullity, rangespace, and rank of each map.
 
@@ -309,7 +309,7 @@ $$
 4. the zero map $$Z:\mathbb{R}^3\to \mathbb{R}^4$$  
 *This exercise is recommended for all readers.*
 
-**Problem 3** —
+**Problem 3**  —
 
 Find the nullity of each map.
 
@@ -319,15 +319,15 @@ Find the nullity of each map.
 4. $$h:\mathcal{M}_{3 \! \times \! 3}\to \mathcal{M}_{3 \! \times \! 3}$$, onto  
 *This exercise is recommended for all readers.*
 
-**Problem 4** —
+**Problem 4**  —
 
 What is the nullspace of the differentiation transformation $$d/dx:\mathcal{P}_n\to \mathcal{P}_n$$? What is the nullspace of the second derivative, as a transformation of $$\mathcal{P}_n$$? The $$k$$-th derivative?
 
-**Problem 5** —
+**Problem 5**  —
 
 Example 2.7 restates the first condition in the definition of homomorphism as "the shadow of a sum is the sum of the shadows". Restate the second condition in the same style.
 
-**Problem 6** —
+**Problem 6**  —
 
 For the homomorphism $$h:\mathcal{P}_3\to \mathcal{P}_3$$ given by $$h(a_0+a_1x+a_2x^2+a_3x^3)=a_0+(a_0+a_1)x+(a_2+a_3)x^3$$ find these.
 
@@ -336,7 +336,7 @@ For the homomorphism $$h:\mathcal{P}_3\to \mathcal{P}_3$$ given by $$h(a_0+a_1x+
 3. $$h^{-1}(1+x^2)$$  
 *This exercise is recommended for all readers.*
 
-**Problem 7** —
+**Problem 7**  —
 
 For the map $$f:\mathbb{R}^2\to \mathbb{R}$$ given by
 
@@ -347,7 +347,7 @@ $$
 sketch these inverse image sets: $$f^{-1}(-3)$$, $$f^{-1}(0)$$, and $$f^{-1}(1)$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 8** —
+**Problem 8**  —
 
 Each of these transformations of $$\mathcal{P}_3$$ is nonsingular. Find the inverse function of each.
 
@@ -356,20 +356,20 @@ Each of these transformations of $$\mathcal{P}_3$$ is nonsingular. Find the inve
 3. $$a_0+a_1x+a_2x^2+a_3x^3\mapsto a_1+a_2x+a_3x^2+a_0x^3$$
 4. $$a_0+a_1x+a_2x^2+a_3x^3\mapsto a_0+(a_0+a_1)x+(a_0+a_1+a_2)x^2+(a_0+a_1+a_2+a_3)x^3$$
 
-**Problem 9** —
+**Problem 9**  —
 
 Describe the nullspace and rangespace of a transformation given by $$\vec{v}\mapsto 2\vec{v}$$.
 
-**Problem 10** —
+**Problem 10**  —
 
 List all pairs $$(\text{rank}(h),\text{nullity}(h))$$ that are possible for linear maps from $$\mathbb{R}^5$$ to $$\mathbb{R}^3$$.
 
-**Problem 11** —
+**Problem 11**  —
 
 Does the differentiation map $$d/dx:\mathcal{P}_n\to \mathcal{P}_n$$ have an inverse?  
 *This exercise is recommended for all readers.*
 
-**Problem 12** —
+**Problem 12**  —
 
 Find the nullity of the map $$h:\mathcal{P}_n\to \mathbb{R}$$ given by
 
@@ -377,34 +377,34 @@ $$
 a_0+a_1x+\dots+a_nx^n\mapsto\int_{x=0}^{x=1}a_0+a_1x+\dots+a_nx^n\,dx.
 $$
 
-**Problem 13** —
+**Problem 13**  —
 
 1. Prove that a homomorphism is onto if and only if its rank equals the dimension of its codomain.
 2. Conclude that a homomorphism between vector spaces with the same dimension is one-to-one if and only if it is onto.
 
-**Problem 14** —
+**Problem 14**  —
 
 Show that a linear map is nonsingular if and only if it preserves linear independence.
 
-**Problem 15** —
+**Problem 15**  —
 
 Corollary 2.17 says that for there to be an onto homomorphism from a vector space $$V$$ to a vector space $$W$$, it is necessary that the dimension of $$W$$ be less than or equal to the dimension of $$V$$. Prove that this condition is also sufficient; use Theorem 1.9 to show that if the dimension of $$W$$ is less than or equal to the dimension of $$V$$, then there is a homomorphism from $$V$$ to $$W$$ that is onto.
 
-**Problem 16** —
+**Problem 16**  —
 
 Let $$h:V\to \mathbb{R}$$ be a homomorphism, but not the zero homomorphism. Prove that if $$\langle \vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$ is a basis for the nullspace and if $$\vec{v}\in V$$ is not in the nullspace then $$\langle \vec{v},\vec{\beta}_1,\dots,\vec{\beta}_n \rangle$$ is a basis for the entire domain $$V$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 17** —
+**Problem 17**  —
 
 Recall that the nullspace is a subset of the domain and the rangespace is a subset of the codomain. Are they necessarily distinct? Is there a homomorphism that has a nontrivial intersection of its nullspace and its rangespace?
 
-**Problem 18** —
+**Problem 18**  —
 
 Prove that the image of a span equals the span of the images. That is, where $$h:V\to W$$ is linear, prove that if $$S$$ is a subset of $$V$$ then $$h([S])$$ equals $$[h(S)]$$. This generalizes Lemma 2.1 since it shows that if $$U$$ is any subspace of $$V$$ then its image $$\{h(\vec{u})\,\big|\, \vec{u}\in U\}$$ is a subspace of $$W$$, because the span of the set $$U$$ is $$U$$.  
 *This exercise is recommended for all readers.*
 
-**Problem 19** —
+**Problem 19**  —
 
 1. Prove that for any linear map $$h:V\to W$$ and any $$\vec{w}\in W$$, the set $$h^{-1}(\vec{w})$$ has the form
 
@@ -413,7 +413,6 @@ $$
 $$
 
 for $$\vec{v}\in V$$ with $$h(\vec{v})=\vec{w}$$ (if $$h$$ is not onto then this set may be empty). Such a set is a **coset** of $$\mathcal{N}(h)$$ and is denoted $$\vec{v}+\mathcal{N}(h)$$.
-
 2. Consider the map $$t:\mathbb{R}^2\to \mathbb{R}^2$$ given by
 
 $$
@@ -421,7 +420,6 @@ $$
 $$
 
 for some scalars $$a$$, $$b$$, $$c$$, and $$d$$. Prove that $$t$$ is linear.
-
 3. Conclude from the prior two items that for any linear system of the form
 
 $$
@@ -435,7 +433,6 @@ $$
 $$
 
 where $$\vec{p}$$ is a particular solution of that linear system (if there is no particular solution then the above set is empty).
-
 4. Show that this map $$h:\mathbb{R}^n\to \mathbb{R}^m$$ is linear
 
 $$
@@ -443,7 +440,6 @@ $$
 $$
 
 for any scalars $$a_{1,1}$$, ..., $$a_{m,n}$$. Extend the conclusion made in the prior item.
-
 5. Show that the $$k$$-th derivative map is a linear transformation of $$\mathcal{P}_n$$ for each $$k$$. Prove that this map is a linear transformation of that space
 
 $$
@@ -452,11 +448,11 @@ $$
 
 for any scalars $$c_k$$, ..., $$c_0$$. Draw a conclusion as above.
 
-**Problem 20** —
+**Problem 20**  —
 
 Prove that for any transformation $$t:V\to V$$ that is rank one, the map given by composing the operator with itself $$t\circ t:V\to V$$ satisfies $$t\circ t=r\cdot t$$ for some real number $$r$$.
 
-**Problem 21** —
+**Problem 21**  —
 
 Show that for any space $$V$$ of dimension $$n$$, the **dual space**
 
@@ -466,15 +462,15 @@ $$
 
 is isomorphic to $$\mathbb{R}^n$$. It is often denoted $$V^\ast$$. Conclude that $$V^\ast\cong V$$.
 
-**Problem 22** —
+**Problem 22**  —
 
 Show that any linear map is the sum of maps of rank one.
 
-**Problem 23** —
+**Problem 23**  —
 
 Is "is homomorphic to" an equivalence relation? (*Hint:* the difficulty is to decide on an appropriate meaning for the quoted phrase.)
 
-**Problem 24** —
+**Problem 24**  —
 
 Show that the rangespaces and nullspaces of powers of linear maps $$t:V\to V$$ form descending
 

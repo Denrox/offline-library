@@ -19,11 +19,13 @@ We illustrate by solving that system under Maple (for another system, a user's m
 [0,5,0,10,0,0,0],
 [0,0,2,0,4,0,0],
 [0,5,-2,0,0,50,0]] );
+
 ```  
 (putting the rows on separate lines is not necessary, but is done for clarity). The vector of constants is entered similarly.
 
 ```
 > u:=array( [0,0,0,0,10,10,0] );
+
 ```
 
 Then the system is solved, like magic.
@@ -33,6 +35,7 @@ Then the system is solved, like magic.
 7  2  5  2  5     7
 [ -, -, -, -, -, 0, - ]
 3  3  3  3  3     3
+
 ```
 
 Mathematica can solve this with
@@ -62,7 +65,7 @@ way— the computer simply returns a parametrization.
 
 *Answers for this Topic use Maple as the computer algebra system. In particular, all of these were tested on Maple V running under MS-DOS NT version 4.0. (On all of them, the preliminary command to load the linear algebra package along with Maple's responses to the Enter key, have been omitted.) Other systems have similar commands.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Use the computer to solve the two problems that opened this chapter.
 
@@ -78,7 +81,7 @@ $$
 \begin{array}{rl} 7h &= 7j \\ 8h +1i &= 5j+2k \\ 1i &= 3j \\ 3i &= 6j+1k \end{array}
 $$
 
-**Problem 2** —
+**Problem 2**  —
 
 Use the computer to solve these systems from the first subsection, or conclude "many solutions" or "no solutions".
 
@@ -89,7 +92,7 @@ Use the computer to solve these systems from the first subsection, or conclude "
 5. $$\begin{array}{rcrcrcr} & &4y &+ &z &= &20 \\ 2x &- &2y &+ &z &= &0 \\ x & & &+ &z &= &5 \\ x &+ &y &- &z &= &10 \end{array}$$
 6. $$\begin{array}{rcrcrcrcr} 2x & & &+ &z &+ &w &= &5 \\ & &y & & &- &w &= &-1 \\ 3x & & &- &z &- &w &= &0 \\ 4x &+ &y &+ &2z &+ &w &= &9 \end{array}$$
 
-**Problem 3** —
+**Problem 3**  —
 
 Use the computer to solve these systems from the second subsection.
 
@@ -100,7 +103,7 @@ Use the computer to solve these systems from the second subsection.
 5. $$\begin{array}{rcrcrcrcr} x &+ &2y &- &z & & &= &3 \\ 2x &+ &y & & &+ &w &= &4 \\ x &- &y &+ &z &+ &w &= &1 \end{array}$$
 6. $$\begin{array}{rcrcrcrcr} x & & &+ &z &+ &w &= &4 \\ 2x &+ &y & & &- &w &= &2 \\ 3x &+ &y &+ &z & & &= &7 \end{array}$$
 
-**Problem 4** —
+**Problem 4**  —
 
 What does the computer give for the solution of the general $$2 \! \times \! 2$$ system?
 

@@ -44,11 +44,11 @@ Even the few examples given here show that the structures of crystals is complic
 
 ### Exercises
 
-**Problem 1** —
+**Problem 1**  —
 
 How many fundamental regions are there in one face of a speck of salt? (With a ruler, we can estimate that face is a square that is $$0.1$$ cm on a side.)
 
-**Problem 2** —
+**Problem 2**  —
 
 In the graphite picture, imagine that we are interested in a point $$5.67$$ Ångstroms up and $$3.14$$ Ångstroms over from the origin.
 
@@ -56,11 +56,11 @@ In the graphite picture, imagine that we are interested in a point $$5.67$$ Ång
 2. How many hexagonal shapes away is this point from the origin?
 3. Express that point in terms of a second basis, where the first basis vector is the same, but the second is perpendicular to the first (going up the plane) and of the same length.
 
-**Problem 3** —
+**Problem 3**  —
 
 Give the locations of the atoms in the diamond cube both in terms of the basis, and in Ångstroms.
 
-**Problem 4** —
+**Problem 4**  —
 
 This illustrates how the dimensions of a unit cell could be computed from the shape in which a substance crystalizes (see Ebbing 1993, p. 462).
 
@@ -69,8 +69,7 @@ This illustrates how the dimensions of a unit cell could be computed from the sh
 3. From that, find the mass of a unit cell.
 4. Platinum crystal has a density of $$21.45$$ grams per cubic centimeter. From this, and the mass of a unit cell, calculate the volume of a unit cell.
 5. Find the length of each edge.
-6. Describe a natural three-dimensional basis.
-
+6. Describe a natural three-dimensional basis.  
 Solutions
 
 ### References

@@ -59,7 +59,7 @@ Networks of other kinds, not just electrical ones, can also be analyzed in this 
 
 *Many of the systems for these problems are mostly easily solved on a computer.*
 
-**Problem 1** —
+**Problem 1**  —
 
 Calculate the amperages in each part of each network.
 
@@ -69,7 +69,7 @@ Calculate the amperages in each part of each network.
 
 3. This is a reasonably complicated network.
 
-**Problem 2** —
+**Problem 2**  —
 
 In the first network that we analyzed, with the three resistors in series, we just added to get that they acted together like a single resistor of $$10$$ ohms. We can do a similar thing for parallel circuits. In the second circuit analyzed,
 
@@ -79,14 +79,14 @@ the electric current through the battery is $$25/6$$ amperes. Thus, the parallel
 2. What is the equivalent resistance if the two are each $$8$$ ohms?
 3. Find the formula for the equivalent resistance if the two resistors in parallel are $$r_1$$ ohms and $$r_2$$ ohms.
 
-**Problem 3** —
+**Problem 3**  —
 
 For the car dashboard example that opens this Topic, solve for these amperages (assume that all resistances are $$2$$ ohms).
 
 1. If the driver is stepping on the brakes, so the brake lights are on, and no other circuit is closed.
 2. If the hi-beam headlights and the brake lights are on.
 
-**Problem 4** —
+**Problem 4**  —
 
 Show that, in this Wheatstone Bridge,
 
@@ -94,7 +94,7 @@ $$r_2/r_1$$ equals $$r_4/r_3$$ if and only if the current flowing through $$r_g$
 
 *There are networks other than electrical ones, and we can ask how well Kirchoff's laws apply to them. The remaining questions consider an extension to networks of streets.*
 
-**Problem 5** —
+**Problem 5**  —
 
 Consider this traffic circle.
 
@@ -112,7 +112,7 @@ We can set up equations to model how the traffic flows.
 4. Interpret your solution.
 5. Restate the Voltage Law for this circumstance. How reasonable is it?
 
-**Problem 6** —
+**Problem 6**  —
 
 This is a network of streets.
 
