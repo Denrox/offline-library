@@ -32,38 +32,38 @@ Tertiary
 intercardinal  
 direction
 
-- 0° North
-- 11¼°     NbE
-- 22½°   NNE
-- 33¾°    NEbN
-- 45°  NE
-- 56¼°    NEbE
-- 67½°   ENE
-- 78¾°     EbN
-- 90° East
-- 101¼°     EbS
-- 112½°   ESE
-- 123¾°    SEbE
-- 135°  SE
-- 146¼°    SEbS
-- 157½°   SSE
-- 168¾°     SbE
-- 180° South
-- 191¼°     SbW
-- 202½°   SSW
-- 213¾°    SWbS
-- 225°  SW
-- 236¼°    SWbW
-- 247½°   WSW
-- 258¾°     WbS
-- 270° West
-- 281¼°     WbN
-- 292½°   WNW
-- 303¾°    NWbW
-- 315°  NW
-- 326¼°    NWbN
-- 337½°   NNW
-- 348¾°     NbW
+- 0°  North
+- 11¼°         NbE
+- 22½°      NNE
+- 33¾°        NEbN
+- 45°    NE
+- 56¼°        NEbE
+- 67½°      ENE
+- 78¾°         EbN
+- 90°  East
+- 101¼°         EbS
+- 112½°      ESE
+- 123¾°        SEbE
+- 135°    SE
+- 146¼°        SEbS
+- 157½°      SSE
+- 168¾°         SbE
+- 180°  South
+- 191¼°         SbW
+- 202½°      SSW
+- 213¾°        SWbS
+- 225°    SW
+- 236¼°        SWbW
+- 247½°      WSW
+- 258¾°         WbS
+- 270°  West
+- 281¼°         WbN
+- 292½°      WNW
+- 303¾°        NWbW
+- 315°    NW
+- 326¼°        NWbN
+- 337½°      NNW
+- 348¾°         NbW
 
 In nautical navigation the **absolute bearing** is the clockwise angle between north and an object observed from the vessel.
 

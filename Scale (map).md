@@ -14,9 +14,9 @@ If the region of the map is small enough to ignore Earth's curvature, such as in
 
 Map scales may be expressed in words (a lexical scale), as a ratio, or as a fraction. Examples are:  
   
-'one centimetre to one hundred metres'    or    1:10,000   or    1/10,000  
-'one inch to one mile'    or    1:63,360    or    1/63,360  
-'one centimetre to one thousand kilometres'   or   1:100,000,000    or    1/100,000,000. (The ratio would usually be abbreviated to 1:100M)
+'one centimetre to one hundred metres' or 1:10,000 or 1/10,000  
+'one inch to one mile' or 1:63,360 or 1/63,360  
+'one centimetre to one thousand kilometres' or 1:100,000,000 or 1/100,000,000. (The ratio would usually be abbreviated to 1:100M)
 
 #### Bar scale vs. lexical scale
 
@@ -35,10 +35,10 @@ A **small-scale** map cover large regions, such as world maps, continents or lar
 
 The following table describes typical ranges for these scales but should not be considered authoritative because there is no standard:
 
-- Classification  Range  Examples
-- large scale 1:0 – 1:600,000 1:0.00001 for map of virus; 1:5,000 for walking map of town
-- medium scale 1:600,000 – 1:2,000,000 Map of a country
-- small scale 1:2,000,000 – 1:∞ 1:50,000,000 for world map; 1:10 for map of galaxy
+- Classification   Range   Examples
+- large scale  1:0 – 1:600,000  1:0.00001 for map of virus; 1:5,000 for walking map of town
+- medium scale  1:600,000 – 1:2,000,000  Map of a country
+- small scale  1:2,000,000 – 1:∞  1:50,000,000 for world map; 1:10 for map of galaxy
 
 The terms are sometimes used in the absolute sense of the table, but other times in a relative sense. For example, a map reader whose work refers solely to large-scale maps (as tabulated above) might refer to a map at 1:500,000 as small-scale.
 
@@ -83,13 +83,13 @@ Isotropy of scale implies that *small* elements are stretched equally in all dir
 #### The representative fraction (RF) or principal scale
 
 There are two conventions used in setting down the equations of any given projection. For example, the equirectangular cylindrical projection may be written as  
-cartographers:        $$x=a\lambda$$      $$y=a\varphi$$  
-mathematicians:       $$x=\lambda$$      $$y=\varphi$$
+cartographers: $$x=a\lambda$$ $$y=a\varphi$$  
+mathematicians: $$x=\lambda$$ $$y=\varphi$$
 
 Here we shall adopt the first of these conventions (following the usage in the surveys by Snyder). Clearly the above projection equations define positions on a huge cylinder wrapped around the Earth and then unrolled. We say that these coordinates define the **projection map** which must be distinguished logically from the actual **printed** (or viewed) maps. If the definition of point scale in the previous section is in terms of the projection map then we can expect the scale factors to be close to unity. For normal tangent cylindrical projections the scale along the equator is k=1 and in general the scale changes as we move off the equator. Analysis of scale on the projection map is an investigation of the change of k away from its true value of unity.
 
 Actual **printed maps** are produced from the projection map by a *constant* scaling denoted by a ratio such as 1:100M (for whole world maps) or 1:10000 (for such as town plans). To avoid confusion in the use of the word 'scale' this constant scale fraction is called the **representative fraction** (RF) of the printed map and it is to be identified with the ratio printed on the map. The actual printed map coordinates for the equirectangular cylindrical projection are  
-printed map:        $$x=(RF)a\lambda$$      $$y=(RF)a\varphi$$
+printed map: $$x=(RF)a\lambda$$ $$y=(RF)a\varphi$$
 
 This convention allows a clear distinction of the intrinsic projection scaling and the reduction scaling.
 
@@ -105,8 +105,8 @@ The key to a *quantitative* understanding of scale is to consider an infinitesim
 
 Normal cylindrical projections of the sphere have $$x=a\lambda$$ and $$y$$ equal to a function of latitude only. Therefore, the infinitesimal element PMQK on the sphere projects to an infinitesimal element P'M'Q'K' which is an *exact* rectangle with a base $$\delta x=a\,\delta\lambda$$ and height $$\delta y$$. By comparing the elements on sphere and projection we can immediately deduce expressions for the scale factors on parallels and meridians. (The treatment of scale in a general direction may be found below.)  
   
-parallel scale factor   $$\quad k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi\qquad\qquad{}$$  
-meridian scale factor  $$\quad h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,} = \dfrac{y'(\varphi)}{a}$$
+parallel scale factor $$\quad k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi\qquad\qquad{}$$  
+meridian scale factor $$\quad h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,} = \dfrac{y'(\varphi)}{a}$$
 
 Note that the parallel scale factor $$k=\sec\varphi$$ is independent of the definition of $$y(\varphi)$$ so it is the same for all normal cylindrical projections. It is useful to note that  
   
@@ -123,7 +123,7 @@ The following examples illustrate three normal cylindrical projections and in ea
 ##### The equirectangular projection
 
 The equirectangular projection, also known as the *Plate Carrée* (French for "flat square") or (somewhat misleadingly) the equidistant projection, is defined by  
-$$x = a\lambda,$$   $$y = a\varphi,$$
+$$x = a\lambda,$$ $$y = a\varphi,$$
 
 where $$a$$ is the radius of the sphere, $$\lambda$$ is the [longitude](Longitude.md) from the central meridian of the projection (here taken as the Greenwich meridian at $$\lambda =0$$) and $$\varphi$$ is the latitude. Note that $$\lambda$$ and $$\varphi$$ are in radians (obtained by multiplying the degree measure by a factor of $$\pi$$/180). The longitude $$\lambda$$ is in the range $$[-\pi,\pi]$$ and the latitude $$\varphi$$ is in the range $$[-\pi/2,\pi/2]$$.
 
@@ -150,8 +150,8 @@ y = a\ln \left[\tan \left(\frac{\pi}{4} + \frac{\varphi}{2} \right) \right]
 $$
 
 where a, $$\lambda\,$$ and $$\varphi \,$$ are as in the previous example. Since $$y'(\varphi)=a\sec\varphi$$ the scale factors are:  
-parallel scale     $$k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi.$$  
-meridian scale   $$h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,}=\,\sec\varphi.$$
+parallel scale $$k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi.$$  
+meridian scale $$h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,}=\,\sec\varphi.$$
 
 In the mathematical addendum it is shown that the point scale in an arbitrary direction is also equal to $$\sec\varphi$$ so the scale is isotropic (same in all directions), its magnitude increasing with latitude as $$\sec\varphi$$. In the Tissot diagram each infinitesimal circular element preserves its shape but is enlarged more and more as the latitude increases.
 
@@ -164,8 +164,8 @@ x = a\lambda \qquad\qquad y = a\sin\varphi
 $$
 
 where a, $$\lambda$$ and $$\varphi$$ are as in the previous example. Since $$y'(\varphi)=\cos\varphi$$ the scale factors are  
-parallel scale      $$\quad k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi\qquad\qquad{}$$  
-meridian scale    $$\quad h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,} = \,\cos\varphi$$
+parallel scale $$\quad k\;=\;\dfrac{\delta x}{a\cos\varphi\,\delta\lambda\,}=\,\sec\varphi\qquad\qquad{}$$  
+meridian scale $$\quad h\;=\;\dfrac{\delta y}{a\,\delta\varphi\,} = \,\cos\varphi$$
 
 The calculation of the point scale in an arbitrary direction is given below.
 

@@ -9,9 +9,9 @@ Its southern hemisphere counterpart is the south magnetic pole. Since Earth's ma
 Earth's north and south magnetic poles are also known as *magnetic dip poles*, with reference to the vertical "dip" of the magnetic field lines at those points.
 
 Recent locations of Earth's magnetic (dip) poles, IGRF-13 estimate
-- Year  1990 (definitive)  2000 (definitive)  2010 (definitive)  2020
-- North magnetic pole  78°05′42″N 103°41′20″W﻿ / ﻿78.095°N 103.689°W﻿ / 78.095; -103.689﻿ (NMP 1990)  80°58′19″N 109°38′24″W﻿ / ﻿80.972°N 109.640°W﻿ / 80.972; -109.640﻿ (NMP 2000)  85°01′12″N 132°50′02″W﻿ / ﻿85.020°N 132.834°W﻿ / 85.020; -132.834﻿ (NMP 2010)  86°29′38″N 162°52′01″E﻿ / ﻿86.494°N 162.867°E﻿ / 86.494; 162.867﻿ (NMP 2020)
-- South magnetic pole  64°54′36″S 138°54′07″E﻿ / ﻿64.910°S 138.902°E﻿ / -64.910; 138.902﻿ (SMP 1990)  64°39′40″S 138°18′11″E﻿ / ﻿64.661°S 138.303°E﻿ / -64.661; 138.303﻿ (SMP 2000)  64°25′55″S 137°19′30″E﻿ / ﻿64.432°S 137.325°E﻿ / -64.432; 137.325﻿ (SMP 2010)  64°04′52″S 135°51′58″E﻿ / ﻿64.081°S 135.866°E﻿ / -64.081; 135.866﻿ (SMP 2020)
+- Year   1990 (definitive)   2000 (definitive)   2010 (definitive)   2020
+- North magnetic pole   78°05′42″N 103°41′20″W﻿ / ﻿78.095°N 103.689°W﻿ / 78.095; -103.689﻿ (NMP 1990)   80°58′19″N 109°38′24″W﻿ / ﻿80.972°N 109.640°W﻿ / 80.972; -109.640﻿ (NMP 2000)   85°01′12″N 132°50′02″W﻿ / ﻿85.020°N 132.834°W﻿ / 85.020; -132.834﻿ (NMP 2010)   86°29′38″N 162°52′01″E﻿ / ﻿86.494°N 162.867°E﻿ / 86.494; 162.867﻿ (NMP 2020)
+- South magnetic pole   64°54′36″S 138°54′07″E﻿ / ﻿64.910°S 138.902°E﻿ / -64.910; 138.902﻿ (SMP 1990)   64°39′40″S 138°18′11″E﻿ / ﻿64.661°S 138.303°E﻿ / -64.661; 138.303﻿ (SMP 2000)   64°25′55″S 137°19′30″E﻿ / ﻿64.432°S 137.325°E﻿ / -64.432; 137.325﻿ (SMP 2010)   64°04′52″S 135°51′58″E﻿ / ﻿64.081°S 135.866°E﻿ / -64.081; 135.866﻿ (SMP 2020)
 
 ### Polarity
 

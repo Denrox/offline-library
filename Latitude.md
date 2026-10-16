@@ -31,10 +31,10 @@ The latitude, as defined in this way for the sphere, is often termed the spheric
 #### Named latitudes on the Earth
 
 Besides the equator, four other parallels are of significance:  
-- Arctic Circle 66° 34′ (66.57°) N
-- Tropic of Cancer 23° 26′ (23.43°) N
-- Tropic of Capricorn 23° 26′ (23.43°) S
-- Antarctic Circle 66° 34′ (66.57°) S
+- Arctic Circle  66° 34′ (66.57°) N
+- Tropic of Cancer  23° 26′ (23.43°) N
+- Tropic of Capricorn  23° 26′ (23.43°) S
+- Antarctic Circle  66° 34′ (66.57°) S
 
 The plane of the Earth's orbit about the Sun is called the ecliptic, and the plane perpendicular to the rotation axis of the Earth is the equatorial plane. The angle between the ecliptic and the equatorial plane is called variously the axial tilt, the obliquity, or the inclination of the ecliptic, and it is conventionally denoted by i. The latitude of the tropical circles is equal to i and the latitude of the polar circles is its complement (90° - *i*). The axis of rotation varies slowly over time and the values given here are those for the current epoch. The time variation is discussed more fully in the article on axial tilt.
 
@@ -42,7 +42,7 @@ The figure shows the geometry of a cross-section of the plane perpendicular to t
 
 On map projections there is no universal rule as to how meridians and parallels should appear. The examples below show the named parallels (as red lines) on the commonly used Mercator projection and the Transverse Mercator projection. On the former the parallels are horizontal and the meridians are vertical, whereas on the latter there is no exact relationship of parallels and meridians with horizontal and vertical: both are complicated curves.
 
-- Normal Mercator    Transverse Mercator
+- Normal Mercator      Transverse Mercator
 
 \
 
@@ -117,22 +117,22 @@ $$
 \delta m(\phi) = M(\phi)\, \delta\phi = a\left(1 - e^2\right) \left(1 - e^2 \sin^2\phi\right)^{-\frac{3}{2}}\, \delta\phi
 $$
 
-- $$\phi$$ Δ  
-lat Δ  
+- $$\phi$$  Δ  
+lat  Δ  
 long
-- 0° 110.574 km 111.320 km
-- 15° 110.649 km 107.550 km
-- 30° 110.852 km 96.486 km
-- 45° 111.132 km 78.847 km
-- 60° 111.412 km 55.800 km
-- 75° 111.618 km 28.902 km
-- 90° 111.694 km 0.000 km
+- 0°  110.574 km  111.320 km
+- 15°  110.649 km  107.550 km
+- 30°  110.852 km  96.486 km
+- 45°  111.132 km  78.847 km
+- 60°  111.412 km  55.800 km
+- 75°  111.618 km  28.902 km
+- 90°  111.694 km  0.000 km
 
 When the latitude difference is 1 degree, corresponding to ⁠π/180⁠ radians, the arc distance is about $$\Delta^1_\text{lat} = \frac{\pi a\left(1 - e^2\right)}{180^\circ\left(1 - e^2 \sin^2\phi\right)^\frac{3}{2}}$$
 
 The distance in metres (correct to 0.01 metre) between latitudes $$\phi$$ − 0.5 degrees and $$\phi$$ + 0.5 degrees on the WGS84 spheroid is $$\Delta^1_\text{lat} = 111\,132.954 - 559.822\cos 2\phi + 1.175\cos 4\phi$$
 
-The variation of this distance with latitude (on WGS84) is shown in the table along with the length of a degree of longitude (east-west distance): $$\Delta^1_\text{long} = \frac{\pi a\cos\phi}{180^\circ\sqrt{1 - e^2 \sin^2\phi}}\,$$  A calculator for any latitude is provided by the U.S. Government's National Geospatial-Intelligence Agency (NGA).
+The variation of this distance with latitude (on WGS84) is shown in the table along with the length of a degree of longitude (east-west distance): $$\Delta^1_\text{long} = \frac{\pi a\cos\phi}{180^\circ\sqrt{1 - e^2 \sin^2\phi}}\,$$ A calculator for any latitude is provided by the U.S. Government's National Geospatial-Intelligence Agency (NGA).
 
 ### Auxiliary latitudes
 
@@ -295,19 +295,19 @@ The plot to the right shows the difference between the geodetic latitude and the
 To first order in the flattening *f*, the auxiliary latitudes can be expressed as *ζ* = *ϕ* − *Cf* sin 2*ϕ* where the constant *C* takes on the values [1⁄2, 2⁄3, 3⁄4, 1, 1] for *ζ* = [*β*, *ξ*, *μ*, *χ*, *θ*].
 
 Approximate difference from geodetic latitude (ϕ)
-- ϕ  Parametric  
-*β* − *ϕ*  Authalic  
-*ξ* − *ϕ*  Rectifying  
-*μ* − *ϕ*  Conformal  
-*χ* − *ϕ*  Geocentric  
+- ϕ   Parametric  
+*β* − *ϕ*   Authalic  
+*ξ* − *ϕ*   Rectifying  
+*μ* − *ϕ*   Conformal  
+*χ* − *ϕ*   Geocentric  
 *θ* − *ϕ*
-- 0° 0.00′ 0.00′ 0.00′ 0.00′ 0.00′
-- 15° −2.88′ −3.84′ −4.32′ −5.76′ −5.76′
-- 30° −5.00′ −6.66′ −7.49′ −9.98′ −9.98′
-- 45° −5.77′ −7.70′ −8.66′ −11.54′ −11.55′
-- 60° −5.00′ −6.67′ −7.51′ −10.01′ −10.02′
-- 75° −2.89′ −3.86′ −4.34′ −5.78′ −5.79′
-- 90° 0.00′ 0.00′ 0.00′ 0.00′ 0.00′
+- 0°  0.00′  0.00′  0.00′  0.00′  0.00′
+- 15°  −2.88′  −3.84′  −4.32′  −5.76′  −5.76′
+- 30°  −5.00′  −6.66′  −7.49′  −9.98′  −9.98′
+- 45°  −5.77′  −7.70′  −8.66′  −11.54′  −11.55′
+- 60°  −5.00′  −6.67′  −7.51′  −10.01′  −10.02′
+- 75°  −2.89′  −3.86′  −4.34′  −5.78′  −5.79′
+- 90°  0.00′  0.00′  0.00′  0.00′  0.00′
 
 ### Latitude and coordinate systems
 

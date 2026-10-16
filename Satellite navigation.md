@@ -103,63 +103,63 @@ Galileo and EGNOS received a budget of €14.6 billion for its six-year, 2021–
 
 ### Comparison
 
-- System  BeiDou  Galileo  GLONASS  [GPS](Global%20Positioning%20System.md)  NavIC  QZSS
-- Owner  China  European Union  Russia  United States  India  Japan
-- Coverage  Global  Global  Global  Global  Regional  Regional
-- Coding  CDMA  CDMA  FDMA & CDMA  CDMA  CDMA  CDMA
+- System   BeiDou   Galileo   GLONASS   [GPS](Global%20Positioning%20System.md)   NavIC   QZSS
+- Owner   China   European Union   Russia   United States   India   Japan
+- Coverage   Global   Global   Global   Global   Regional   Regional
+- Coding   CDMA   CDMA   FDMA & CDMA   CDMA   CDMA   CDMA
 - Altitude  
-km (mi)  21,150  
-(13,140)  23,222  
-(14,429)  19,130  
-(11,890)  20,180  
-(12,540)  36,000  
-(22,000)  32,600–39,000  
+km (mi)   21,150  
+(13,140)   23,222  
+(14,429)   19,130  
+(11,890)   20,180  
+(12,540)   36,000  
+(22,000)   32,600–39,000  
 (20,300–24,200)
-- Period  12.88 h  
-(12 h 53 min)  14.08 h  
-(14 h  5 min)  11.26 h  
-(11 h 16 min)  11.97 h  
-(11 h 58 min)  23.93 h  
-(23 h 56 min)  23.93 h  
+- Period   12.88 h  
+(12 h 53 min)   14.08 h  
+(14 h 5 min)   11.26 h  
+(11 h 16 min)   11.97 h  
+(11 h 58 min)   23.93 h  
+(23 h 56 min)   23.93 h  
 (23 h 56 min)
-- Rev./S. day  13/7 (1.86)  17/10 (1.7)  17/8 (2.125)  2  1  1
-- Satellites  BeiDou-3:  
+- Rev./S. day   13/7 (1.86)   17/10 (1.7)   17/8 (2.125)   2   1   1
+- Satellites   BeiDou-3:  
 30 by design  
 35 operational  
   
 BeiDou-2:  
-16 operational  24 by design  
-26 operational  24 operational  
-1 spare  24 by design  
-30 operational  7 by design  
-3 operational  4 operational (3 GSO, 1 GEO)  
+16 operational   24 by design  
+26 operational   24 operational  
+1 spare   24 by design  
+30 operational   7 by design  
+3 operational   4 operational (3 GSO, 1 GEO)  
 7 in the future
 - Frequency  
-GHz  1.561098 (B1)  
+GHz   1.561098 (B1)  
 1.589742 (B1-2)  
 1.20714 (B2)  
-1.26852 (B3)  1.559–1.592 (E1)  
+1.26852 (B3)   1.559–1.592 (E1)  
 1.164–1.215 (E5a/b)  
-1.260–1.300 (E6)  1.593–1.610 (G1)  
+1.260–1.300 (E6)   1.593–1.610 (G1)  
 1.237–1.254 (G2)  
-1.189–1.214 (G3)  1.563–1.587 (L1)  
+1.189–1.214 (G3)   1.563–1.587 (L1)  
 1.215–1.2396 (L2)  
-1.164–1.189 (L5)  1.57542 (L1)  
+1.164–1.189 (L5)   1.57542 (L1)  
 1.17645 (L5)  
-2.49202 (S)  1.57542 (L1C/A, L1C, L1S)  
+2.49202 (S)   1.57542 (L1C/A, L1C, L1S)  
 1.22760 (L2C)  
 1.17645 (L5, L5S)  
 1.27875 (L6)
-- Status  Operational  Operating since 2016  
-2020 completion  Operational  Operational  Non-independent  Non-independent
+- Status   Operational   Operating since 2016  
+2020 completion   Operational   Operational   Non-independent   Non-independent
 - Accuracy  
-m (ft)  3.6 (12) (public)  
-0.1 (0.33) (encrypted)  0.2 (0.66) (public)  
-0.01 (0.033) (encrypted)  2–4 (6.6–13.1)  0.3–5 (0.98–16.40)  
-(no DGPS or WAAS)  1 (3.3) (public)  
-0.1 (0.33) (encrypted)  1 (3.3) (public)  
+m (ft)   3.6 (12) (public)  
+0.1 (0.33) (encrypted)   0.2 (0.66) (public)  
+0.01 (0.033) (encrypted)   2–4 (6.6–13.1)   0.3–5 (0.98–16.40)  
+(no DGPS or WAAS)   1 (3.3) (public)  
+0.1 (0.33) (encrypted)   1 (3.3) (public)  
 0.1 (0.33) (encrypted)
-- System  BeiDou  Galileo  GLONASS  [GPS](Global%20Positioning%20System.md)  NavIC  QZSS
+- System   BeiDou   Galileo   GLONASS   [GPS](Global%20Positioning%20System.md)   NavIC   QZSS
 - Sources:
 
 Using multiple GNSS systems for user positioning increases the number of visible satellites, improves precise point positioning (PPP) and shortens the average convergence time. The signal-in-space ranging error (SISRE) in November 2019 were 1.6 cm for Galileo, 2.3 cm for GPS, 5.2 cm for GLONASS and 5.5 cm for BeiDou when using real-time corrections for satellite orbits and clocks. The average SISREs of the BDS-3 MEO, IGSO, and GEO satellites were 0.52 m, 0.90 m and 1.15 m, respectively. Compared to the four major global satellite navigation systems consisting of MEO satellites, the SISRE of the BDS-3 MEO satellites was slightly inferior to 0.4 m of Galileo, slightly superior to 0.59 m of GPS, and remarkably superior to 2.33 m of GLONASS. The SISRE of BDS-3 IGSO was 0.90 m, which was on par with the 0.92 m of QZSS IGSO. However, as the BDS-3 GEO satellites were newly launched and not completely functioning in orbit, their average SISRE was marginally worse than the 0.91 m of the QZSS GEO satellites.
@@ -222,7 +222,7 @@ To improve harmonisation in spectrum usage, most service allocations are incorpo
 - exclusive or shared usage: within the responsibility of administrations.
 
 - **Allocation to services**
-- Region 1       Region 2            Region 3
+- Region 1    Region 2    Region 3
 - 5 000–5 010 MHz  
   
   

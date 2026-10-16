@@ -67,12 +67,12 @@ $$
 where Earth's equatorial radius $$a$$ equals 6,378,137 m and $$\textstyle{\tan \beta = \frac{b}{a}\tan\phi}\,\!$$; for the GRS 80 and WGS 84 spheroids, $$\tfrac{b}{a}=0.99664719$$. ($$\textstyle{\beta}\,\!$$ is known as the [reduced (or parametric) latitude](Latitude.md)). Aside from rounding, this is the exact distance along a parallel of latitude; getting the distance along the shortest route will be more work, but those two distances are always within 0.6 m of each other if the two points are one degree of longitude apart.
 
 Longitudinal length equivalents at selected latitudes
-- Latitude  City  Degree  Minute  Second  0.0001°
-- 60°  Saint Petersburg  55.80 km  0.930 km  15.50 m  5.58 m
-- 51° 28′ 38″ N  Greenwich  69.47 km  1.158 km  19.30 m  6.95 m
-- 45°  Bordeaux  78.85 km  1.31 km  21.90 m  7.89 m
-- 30°  New Orleans  96.49 km  1.61 km  26.80 m  9.65 m
-- 0°  Quito  111.3 km  1.855 km  30.92 m  11.13 m
+- Latitude   City   Degree   Minute   Second   0.0001°
+- 60°   Saint Petersburg   55.80 km   0.930 km   15.50 m   5.58 m
+- 51° 28′ 38″ N   Greenwich   69.47 km   1.158 km   19.30 m   6.95 m
+- 45°   Bordeaux   78.85 km   1.31 km   21.90 m   7.89 m
+- 30°   New Orleans   96.49 km   1.61 km   26.80 m   9.65 m
+- 0°   Quito   111.3 km   1.855 km   30.92 m   11.13 m
 
 ### Alternative encodings
 

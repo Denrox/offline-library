@@ -12,21 +12,21 @@ The radius of the semi-major axis of the Earth at the equator is 6,378,137.0 met
 
 Degree precision versus length
 - decimal  
-places decimal  
-degrees DMS Object that can be *unambiguously* recognized at this scale N/S or E/W  
-at equator E/W at  
-23N/S E/W at  
-45N/S E/W at  
+places  decimal  
+degrees  DMS  Object that can be *unambiguously* recognized at this scale  N/S or E/W  
+at equator  E/W at  
+23N/S  E/W at  
+45N/S  E/W at  
 67N/S
-- 0  1.0 1° 00′ 0″ country or large region 111 km 102 km 78.7 km 43.5 km
-- 1  0.1 0° 06′ 0″ large city or district 11.1 km 10.2 km 7.87 km 4.35 km
-- 2  0.01 0° 00′ 36″ town or village 1.11 km 1.02 km 0.787 km 0.435 km
-- 3  0.001 0° 00′ 3.6″ neighborhood, street 111 m 102 m 78.7 m 43.5 m
-- 4  0.0001 0° 00′ 0.36″ individual street, large buildings 11.1 m 10.2 m 7.87 m 4.35 m
-- 5  0.00001 0° 00′ 0.036″ individual trees, houses 1.11 m 1.02 m 0.787 m 0.435 m
-- 6  0.000001 0° 00′ 0.0036″ individual humans 111 mm 102 mm 78.7 mm 43.5 mm
-- 7  0.0000001 0° 00′ 0.00036″ practical limit of commercial surveying 11.1 mm 10.2 mm 7.87 mm 4.35 mm
-- 8  0.00000001  0° 00′ 0.000036″  specialized surveying 1.11 mm 1.02 mm 0.787 mm 0.435 mm
+- 0   1.0  1° 00′ 0″  country or large region  111 km  102 km  78.7 km  43.5 km
+- 1   0.1  0° 06′ 0″  large city or district  11.1 km  10.2 km  7.87 km  4.35 km
+- 2   0.01  0° 00′ 36″  town or village  1.11 km  1.02 km  0.787 km  0.435 km
+- 3   0.001  0° 00′ 3.6″  neighborhood, street  111 m  102 m  78.7 m  43.5 m
+- 4   0.0001  0° 00′ 0.36″  individual street, large buildings  11.1 m  10.2 m  7.87 m  4.35 m
+- 5   0.00001  0° 00′ 0.036″  individual trees, houses  1.11 m  1.02 m  0.787 m  0.435 m
+- 6   0.000001  0° 00′ 0.0036″  individual humans  111 mm  102 mm  78.7 mm  43.5 mm
+- 7   0.0000001  0° 00′ 0.00036″  practical limit of commercial surveying  11.1 mm  10.2 mm  7.87 mm  4.35 mm
+- 8   0.00000001   0° 00′ 0.000036″   specialized surveying  1.11 mm  1.02 mm  0.787 mm  0.435 mm
 
 A value in decimal degrees to a precision of 4 decimal places is precise to 11.1 metres (36 ft) at the equator. A value in decimal degrees to 5 decimal places is precise to 1.11 metres (3 ft 8 in) at the equator. Elevation also introduces a small error: at 6,378 metres (20,925 ft) elevation, the radius and surface distance is increased by 0.001 or 0.1%. Because the earth is not flat, the precision of the longitude part of the coordinates increases the further from the equator you get. The precision of the latitude part does not increase so much, more strictly however, a meridian arc length per 1 second depends on the latitude at the point in question. The discrepancy of 1 second meridian arc length between equator and pole is about 0.3 metres (1 ft 0 in) because the earth is an oblate spheroid.
 

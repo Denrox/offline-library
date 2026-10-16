@@ -13,13 +13,13 @@ For machine-readability and database storage, all spaces may be removed.
 An MGRS coordinate references a square or polygon on the Earth with a side length of 10 km, 1 km, 100 m, 10 m or 1 m, depending on the precision of the coordinates provided. (Certain squares adjacent to a Grid Zone Junction (GZJ) are clipped at an angle, resulting in a polygonal shape.)
 
 MGRS precision levels
-- MGRS Coordinate  Precision (side length)
-- 4Q FJ  100,000-meter square
-- 4Q FJ 1 6  10,000-meter square
-- 4Q FJ 12 67  1,000-meter square
-- 4Q FJ 123 678  100-meter square
-- 4Q FJ 1234 6789  10-meter square
-- 4Q FJ 12345 67890  1-meter square
+- MGRS Coordinate   Precision (side length)
+- 4Q FJ   100,000-meter square
+- 4Q FJ 1 6   10,000-meter square
+- 4Q FJ 12 67   1,000-meter square
+- 4Q FJ 123 678   100-meter square
+- 4Q FJ 1234 6789   10-meter square
+- 4Q FJ 12345 67890   1-meter square
 
 The number of digits in the numerical location must be even: 0, 2, 4, 6, 8 or 10, depending on the desired precision. When changing precision levels, it is important to truncate rather than round the easting and northing values to ensure the more precise square will remain within the boundaries of the less precise square.
 

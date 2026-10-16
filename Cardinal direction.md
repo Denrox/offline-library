@@ -42,38 +42,38 @@ Tertiary
 intercardinal  
 direction
 
-- 0° North
-- 11¼°     NbE
-- 22½°   NNE
-- 33¾°    NEbN
-- 45°  NE
-- 56¼°    NEbE
-- 67½°   ENE
-- 78¾°     EbN
-- 90° East
-- 101¼°     EbS
-- 112½°   ESE
-- 123¾°    SEbE
-- 135°  SE
-- 146¼°    SEbS
-- 157½°   SSE
-- 168¾°     SbE
-- 180° South
-- 191¼°     SbW
-- 202½°   SSW
-- 213¾°    SWbS
-- 225°  SW
-- 236¼°    SWbW
-- 247½°   WSW
-- 258¾°     WbS
-- 270° West
-- 281¼°     WbN
-- 292½°   WNW
-- 303¾°    NWbW
-- 315°  NW
-- 326¼°    NWbN
-- 337½°   NNW
-- 348¾°     NbW
+- 0°  North
+- 11¼°         NbE
+- 22½°      NNE
+- 33¾°        NEbN
+- 45°    NE
+- 56¼°        NEbE
+- 67½°      ENE
+- 78¾°         EbN
+- 90°  East
+- 101¼°         EbS
+- 112½°      ESE
+- 123¾°        SEbE
+- 135°    SE
+- 146¼°        SEbS
+- 157½°      SSE
+- 168¾°         SbE
+- 180°  South
+- 191¼°         SbW
+- 202½°      SSW
+- 213¾°        SWbS
+- 225°    SW
+- 236¼°        SWbW
+- 247½°      WSW
+- 258¾°         WbS
+- 270°  West
+- 281¼°         WbN
+- 292½°      WNW
+- 303¾°        NWbW
+- 315°    NW
+- 326¼°        NWbN
+- 337½°      NNW
+- 348¾°         NbW
 
 #### Azimuth
 
@@ -103,7 +103,14 @@ The eight above listed directional names have been further compounded known as *
 
 #### In astronomy
 
-In astronomy, the *cardinal points* of an astronomical star as seen in the sky are four points defined by the directions toward which the celestial poles lie relative to the center of the disk of the object in the sky. A line (a great circle on the celestial sphere) from the center of the disk to the North celestial pole will intersect the edge of the body (the "limb") at the North point. The North point will then be the point on the limb that is closest to the North celestial pole. Similarly, a line from the center to the South celestial pole will define the South point by its intersection with the limb. The points at right angles to the North and South points are the East and West points. Going around the disk clockwise from the North point, one encounters in order the West point, the South point, and then the East point. This is opposite to the order on a terrestrial map because one is looking up instead of down.
+In astronomy, the *cardinal points* of an [[astronomical star
+
+```
+]] as seen in the sky are four points defined by the directions toward which the celestial poles lie relative to the center of the disk of the object in the sky.
+
+```
+
+A line (a great circle on the celestial sphere) from the center of the disk to the North celestial pole will intersect the edge of the body (the "limb") at the North point. The North point will then be the point on the limb that is closest to the North celestial pole. Similarly, a line from the center to the South celestial pole will define the South point by its intersection with the limb. The points at right angles to the North and South points are the East and West points. Going around the disk clockwise from the North point, one encounters in order the West point, the South point, and then the East point. This is opposite to the order on a terrestrial map because one is looking up instead of down.
 
 Similarly, when describing the location of one astronomical object relative to another, "north" means closer to the North celestial pole, "east" means at a higher right ascension, "south" means closer to the South celestial pole, and "west" means at a lower right ascension. If one is looking at two stars that are below the North Star, for example, the one that is "east" will actually be further to the left.
 
@@ -128,12 +135,12 @@ Many cultures, especially in Asia, include the center as a **fifth cardinal poin
 
 #### Northern Eurasia
 
-- Northern Eurasia N E S W C Source
-- Slavic          —
+- Northern Eurasia  N  E  S  W  C  Source
+- Slavic               —
 - China
 - Ainu
 - Turkic
-- Kalmyks          —
+- Kalmyks               —
 - Tibet
 
 Central Asian, Eastern European and North East Asian cultures frequently have traditions associating colors with four or five cardinal points.
@@ -182,17 +189,17 @@ Countries where Arabic is used refer to the cardinal directions as الشَّم�
 
 #### North America
 
-- North America E N W S C Source
-- Anishinaabe          —
-- Apache          —
-- Aztecs          —
-- Báxoje          —
+- North America  E  N  W  S  C  Source
+- Anishinaabe               —
+- Apache               —
+- Aztecs               —
+- Báxoje               —
 - Cherokee
-- Cheyenne          —
-- Lakota          —
+- Cheyenne               —
+- Lakota               —
 - Maya
-- Navajo          —
-- Puebloans          —
+- Navajo               —
+- Puebloans               —
 - Purépecha
 
 In Mesoamerica and North America, a number of traditional indigenous cosmologies include four cardinal directions and a center. Some may also include "above" and "below" as directions, and therefore focus on a cosmology of seven directions. For example, among the Hopi of the Southwestern United States, the four named cardinal directions are not North, South, East and West but are the four directions associated with the places of sunrise and sunset at the winter and summer solstices. Each direction may be associated with a color, which can vary widely between nations, but which is usually one of the basic colors found in nature and natural pigments, such as black, red, white, and yellow, with occasional appearances of blue, green, or other hues. There can be great variety in color symbolism, even among cultures that are close neighbors geographically.

@@ -5,29 +5,29 @@ Polaris
 Location of Polaris (circled)
 
 - Observation data  
-Epoch J2000      Equinox ICRS
-- Constellation  Ursa Minor
-- Pronunciation  /pəˈlɛərɪs, -ˈlær-/;  
+Epoch J2000 Equinox ICRS
+- Constellation   Ursa Minor
+- Pronunciation   /pəˈlɛərɪs, -ˈlær-/;  
 UK: /pəˈlɑːrɪs/
 - **α UMi A **
-- Right ascension  02 31 49.09
-- Declination  +89° 15′ 50.8″
-- Apparent magnitude (V)  1.98 (1.86 – 2.13)
+- Right ascension   02 31 49.09
+- Declination   +89° 15′ 50.8″
+- Apparent magnitude (V)   1.98 (1.86 – 2.13)
 - **α UMi B **
-- Right ascension  02 30 41.63
-- Declination  +89° 15′ 38.1″
-- Apparent magnitude (V)  8.7
+- Right ascension   02 30 41.63
+- Declination   +89° 15′ 38.1″
+- Apparent magnitude (V)   8.7
 - Characteristics
 - α UMi A
-- Spectral type  F7Ib + F6V
-- U−B color index  0.38
-- B−V color index  0.60
-- Variable type  Classical Cepheid
+- Spectral type   F7Ib + F6V
+- U−B color index   0.38
+- B−V color index   0.60
+- Variable type   Classical Cepheid
 - α UMi B
-- Spectral type  F3V
-- U−B color index  0.01
-- B−V color index  0.42
-- Variable type  suspected
+- Spectral type   F3V
+- U−B color index   0.01
+- B−V color index   0.42
+- Variable type   suspected
 - Astrometry
 - **Radial velocity (Rv)** −17 km/s
 - **Proper motion (μ)**  RA: 44.48±0.11 mas/yr  
@@ -161,22 +161,22 @@ For most of the 20th century, available observation technologies remained inadeq
 Further progress was thus limited until the advent of Hipparcos, the first instrument able to engage in all-sky absolute parallax astrometry. Its first data release was in 1997.
 
 Selected distance estimates to Polaris
-- Published  Component  Distance  Source  Notes
-- ly  pc
-- 1966  B  (359)  (110)  Fernie  Photometry and modeling of B
-- 1977  B  (399)  (122)  Turner  Photometry and modeling of B
-- 1978  A  356  109  Gauthier and Fernie  Modeling extinction and Cepheid evolution of A
-- 1996  B  359  110  Kamper  Photometry and modeling of B, reproducing prior estimates
-- 1997  A  431±29  132±9  Hipparcos  All-sky/absolute parallax observations, of the primary variable
-- 2004-2013  A, B  307±13  94±4  Turner/Turner et al  Cepheid evolution modeling, cluster kinematics and ZAMS fitting, photometry and modeling of B, spectral line ratios of A calibrated on yellow supergiants
-- 329±10  101±3
-- 323±7  99±2
-- 2007  A  432±6  133±2  Hipparcos  All-sky/absolute parallax observations, revised analysis, of the primary variable
-- 2008  B  357  109.5  Usenko & Klochkova  Photometry and modeling of B
-- 2014  A  >385  >118  Neilson  Cepheid evolution modeling, independent of any distance prior
-- 2018  B  521±20  160±6  Hubble, Bond et al.  Relative parallax of the wide component referencing photometrically-calibrated background stars
-- 2018  B  445.3±1.7  136.6±0.5  Gaia DR2  All-sky/absolute parallax observations, of the wide component
-- 2020  B  446.5±1.1  136.9±0.3  Gaia DR3  All-sky/absolute parallax observations, of the wide component
+- Published   Component   Distance   Source   Notes
+- ly   pc
+- 1966   B   (359)   (110)   Fernie   Photometry and modeling of B
+- 1977   B   (399)   (122)   Turner   Photometry and modeling of B
+- 1978   A   356   109   Gauthier and Fernie   Modeling extinction and Cepheid evolution of A
+- 1996   B   359   110   Kamper   Photometry and modeling of B, reproducing prior estimates
+- 1997   A   431±29   132±9   Hipparcos   All-sky/absolute parallax observations, of the primary variable
+- 2004-2013   A, B   307±13   94±4   Turner/Turner et al   Cepheid evolution modeling, cluster kinematics and ZAMS fitting, photometry and modeling of B, spectral line ratios of A calibrated on yellow supergiants
+- 329±10   101±3
+- 323±7   99±2
+- 2007   A   432±6   133±2   Hipparcos   All-sky/absolute parallax observations, revised analysis, of the primary variable
+- 2008   B   357   109.5   Usenko & Klochkova   Photometry and modeling of B
+- 2014   A   >385   >118   Neilson   Cepheid evolution modeling, independent of any distance prior
+- 2018   B   521±20   160±6   Hubble, Bond et al.   Relative parallax of the wide component referencing photometrically-calibrated background stars
+- 2018   B   445.3±1.7   136.6±0.5   Gaia DR2   All-sky/absolute parallax observations, of the wide component
+- 2020   B   446.5±1.1   136.9±0.3   Gaia DR3   All-sky/absolute parallax observations, of the wide component
 
 - *Estimate did not state its uncertainty
 
