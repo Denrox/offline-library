@@ -67,28 +67,28 @@ A Starlink subscriber is counted as one active service line. A service line is o
 
 Prior to SpaceX's initial public offering, Starlink used the words "customers", "subscribers", and "people" without providing the definitions.
 
-- Year  Approx. Subscribers  ARPU  Ref
-- February 2021  10,000
-- June 2021  100,000
-- November 2021  140,000
-- February 2022  250,000
-- June 2022  500,000
-- September 2022  700,000
-- December 2022  1,000,000
-- May 2023  1,500,000
-- September 2023  2,000,000
-- December 2023  2,300,000  $99
-- March 2024  2,600,000
-- May 2024  3,000,000
-- September 2024  4,000,000
-- December 2024  4,400,000  $91
-- March 2025  5,000,000  $86
-- June 2025  6,000,000
-- August 2025  7,000,000
-- November 2025  8,000,000
-- December 2025  8,900,000  $81
-- March 2026  10,300,000  $66
-- June 2026  12,000,000
+- Year   Approx. Subscribers   ARPU   Ref
+- February 2021   10,000
+- June 2021   100,000
+- November 2021   140,000
+- February 2022   250,000
+- June 2022   500,000
+- September 2022   700,000
+- December 2022   1,000,000
+- May 2023   1,500,000
+- September 2023   2,000,000
+- December 2023   2,300,000   $99
+- March 2024   2,600,000
+- May 2024   3,000,000
+- September 2024   4,000,000
+- December 2024   4,400,000   $91
+- March 2025   5,000,000   $86
+- June 2025   6,000,000
+- August 2025   7,000,000
+- November 2025   8,000,000
+- December 2025   8,900,000   $81
+- March 2026   10,300,000   $66
+- June 2026   12,000,000
 
 #### Starlink Mobile
 
@@ -107,9 +107,9 @@ In October 2026, SpaceX announced that they were acquiring nationwide 800 MHz sp
 ##### Radio Frequency Summary
 
 U.S. wireless spectrum owned by SpaceX
-- Frequency Band  5G NR Bands  Notes
-- **800 MHz** SMR  n26  Acquired from Grain, formerly Sprint/T-Mobile spectrum. *(Pending FCC approval)*
-- **1.7/2.1 GHz** AWS / MSS  n66, n70, n252 (NTN)  Acquired from Dish/EchoStar.
+- Frequency Band   5G NR Bands   Notes
+- **800 MHz** SMR   n26   Acquired from Grain, formerly Sprint/T-Mobile spectrum. *(Pending FCC approval)*
+- **1.7/2.1 GHz** AWS / MSS   n66, n70, n252 (NTN)   Acquired from Dish/EchoStar.
 
 #### Starshield
 
@@ -383,22 +383,22 @@ The bus design for Starlink satellites has varied considerably since the first u
 
 The first six F9-3 satellites with direct-to-cellular (DtC) capability were launched on January 2, 2024, in Groups 7–9.
 
-- Name  Component  Length (m)  Width (m)  Number  Area (m)  Debris Assessment Software (DAS) area (m)  DAS mass (kg)
-- F9-1 (v1.5)  Solar Array  8.1  2.8  1  22.68
-- Bus  2.8  1.3  1  3.64
-- Total        26.32  30  303
-- F9-2 (v2 mini)  Solar Array  12.8  4.1  2  104.96
-- Bus  4.1  2.7  1  11.07
-- Total        116.03  120  800
-- F9-3 (v2 mini with DtC)  Solar Array  12.8  4.1  2  105
-- Bus  7.4  2.7  1  20
-- Total        125  130  970
-- Starship-1 (v2)  Solar Array  20.2  6.36  2  256.94
-- Bus  6.4  2.7  1  17.28
-- Total        274.22  294  2000
-- Starship-2 (v2 with DtC)  Solar Array  20.2  6.36  2  256.94
-- Bus  10.1  2.7  1  27.27
-- Total        284.21  294  2000
+- Name   Component   Length (m)   Width (m)   Number   Area (m)   Debris Assessment Software (DAS) area (m)   DAS mass (kg)
+- F9-1 (v1.5)   Solar Array   8.1   2.8   1   22.68
+- Bus   2.8   1.3   1   3.64
+- Total            26.32   30   303
+- F9-2 (v2 mini)   Solar Array   12.8   4.1   2   104.96
+- Bus   4.1   2.7   1   11.07
+- Total            116.03   120   800
+- F9-3 (v2 mini with DtC)   Solar Array   12.8   4.1   2   105
+- Bus   7.4   2.7   1   20
+- Total            125   130   970
+- Starship-1 (v2)   Solar Array   20.2   6.36   2   256.94
+- Bus   6.4   2.7   1   17.28
+- Total            274.22   294   2000
+- Starship-2 (v2 with DtC)   Solar Array   20.2   6.36   2   256.94
+- Bus   10.1   2.7   1   27.27
+- Total            284.21   294   2000
 
 ##### v3 (initial deployment)
 
@@ -434,18 +434,18 @@ In January 2026 SpaceX announced plans to lower approximately 4,400 satellites f
 
 The chart below contains all v0.9 and first generation satellites (Tintin A and Tintin B, as test satellites, are not included).
 
-- Group designation  Orbital shells  Orbital planes  Committed completion date  Deployed satellites  
+- Group designation   Orbital shells   Orbital planes   Committed completion date   Deployed satellites  
 July 12, 2025
 - Altitude  
-(km)  Authorized satellites  Incli­nation  Count  Satellites  
-per  Half  Full  Total active  Decaying/  
-deorbited  To be disposed of/out of constellation
-- Group 1  550 km (340 mi)  1,584  53.05°  72  22  March 2024 (goal)  
-August 1, 2022 (achieved)  March 2027  919  746  167
-- Group 2  570 km (350 mi)  720  70°  36  20  368  40  17
-- Group 3  560 km (350 mi)  348  97.6°  6  58  221  22  11
-- Group 4  540 km (340 mi)  1,584  53.22°  72  22  1,459  178  32
-- 560 km (350 mi)  172  97.6°  4  43  0  0  0
+(km)   Authorized satellites   Incli­nation   Count   Satellites  
+per   Half   Full   Total active   Decaying/  
+deorbited   To be disposed of/out of constellation
+- Group 1   550 km (340 mi)   1,584   53.05°   72   22   March 2024 (goal)  
+August 1, 2022 (achieved)   March 2027   919   746   167
+- Group 2   570 km (350 mi)   720   70°   36   20   368   40   17
+- Group 3   560 km (350 mi)   348   97.6°   6   58   221   22   11
+- Group 4   540 km (340 mi)   1,584   53.22°   72   22   1,459   178   32
+- 560 km (350 mi)   172   97.6°   4   43   0   0   0
 
 Early designs had all phase 1 satellites in altitudes of around 1,100–1,300 km (680–810 mi). SpaceX initially requested to lower the first 1584 satellites, and in April 2020 requested to lower all other higher satellite orbits to about 550 km (340 mi). In April 2020, SpaceX modified the architecture of the Starlink network. SpaceX submitted an application to the FCC proposing to operate more satellites in lower orbits in the first phase than the FCC previously authorized. The first phase will still include 1,440 satellites in the first shell orbiting at 550 km (340 mi) in planes inclined 53.0°, with no change to the first shell of the constellation launched largely in 2020. SpaceX also applied in the United States for use of the E-band in their constellation The FCC approved the application in April 2021.
 
@@ -459,21 +459,21 @@ In March 2023, SpaceX submitted an application to add V-band payload to the seco
 
 ###### Falcon 9
 
-- Group designation  Orbital shells  Orbital planes  Committed completion date  Deployed satellites  
+- Group designation   Orbital shells   Orbital planes   Committed completion date   Deployed satellites  
 May 16, 2025
-- Nominal altitude  Actual altitude  Planned satellites  Incli­nation  Count  Satellites  
-per  Half  Full  Active  Decaying/  
-deorbited  Satellites needed for completion
-- Group 5  530 km (330 mi)  559 km (347 mi)  2,500  43°  28  120  December 1, 2028  December 1, 2031  671  28  33
-- Group 6  488, 559 km (303, 347 mi)  1,779  75
-- Group 7  525 km (326 mi)  482, 510, 549 km (300, 317, 341 mi)  2,500  53°  28  120  377  12  2,123
-- Group 8  535 km (332 mi)  535 km (332 mi)  2,500  53°  28  120  220  5  2,280
-- Group 9  535 km (332 mi)      53°          276  27
-- Group 10  480 km (300 mi)      53°          271  1
-- Group 11  535 km (332 mi)      53°          269  1
-- Group 12  559 km (347 mi)      43°          454  1
-- Group 13  559 km (347 mi)      43°          21
-- Group 15  535 km (332 mi)      70°          100
+- Nominal altitude   Actual altitude   Planned satellites   Incli­nation   Count   Satellites  
+per   Half   Full   Active   Decaying/  
+deorbited   Satellites needed for completion
+- Group 5   530 km (330 mi)   559 km (347 mi)   2,500   43°   28   120   December 1, 2028   December 1, 2031   671   28   33
+- Group 6   488, 559 km (303, 347 mi)   1,779   75
+- Group 7   525 km (326 mi)   482, 510, 549 km (300, 317, 341 mi)   2,500   53°   28   120   377   12   2,123
+- Group 8   535 km (332 mi)   535 km (332 mi)   2,500   53°   28   120   220   5   2,280
+- Group 9   535 km (332 mi)         53°               276   27
+- Group 10   480 km (300 mi)         53°               271   1
+- Group 11   535 km (332 mi)         53°               269   1
+- Group 12   559 km (347 mi)         43°               454   1
+- Group 13   559 km (347 mi)         43°               21
+- Group 15   535 km (332 mi)         70°               100
 
 Due to delays with Starship development, SpaceX modified the v2 Starlink satellites into a less capable but more compact form factor named "v2 mini", thus enabling these satellites to be launched on Falcon 9. The first set of 21 of these satellites was launched on February 27, 2023. SpaceX committed to reducing debris by keeping the Starlink tension rods, which hold the v2 mini-satellites together during launch, attached to the Falcon 9 second stage. These tension rods were discarded into orbit while launching earlier versions of Starlink satellites. Observations confirm that v2 mini satellites host two solar panels, like the larger v2 satellites.
 
@@ -481,18 +481,18 @@ Due to delays with Starship development, SpaceX modified the v2 Starlink satelli
 
 ###### Starship
 
-- Group designation  Orbital shells  Orbital planes  Committed completion date  Deployed satellites  
+- Group designation   Orbital shells   Orbital planes   Committed completion date   Deployed satellites  
 May 16, 2025
-- Nominal altitude  Actual altitude  Planned satellites  Incli­nation  Count  Satellites  
-per  Half  Full  Active  Decaying/  
-deorbited  Satellites needed for completion
-- Simulators  146 km (91 mi)  
-(transatmospheric)  146 km (91 mi)  
-(transatmospheric)  30  26.4°  —  —  —  —  0  30  —
-- GS-0  146 km (91 mi)  
-(transatmospheric)  146 km (91 mi)  
-(transatmospheric)  20  26.4°  —  —  —  —  0  20  —
-- Group 31  559 km (347 mi)      43°          26  0
+- Nominal altitude   Actual altitude   Planned satellites   Incli­nation   Count   Satellites  
+per   Half   Full   Active   Decaying/  
+deorbited   Satellites needed for completion
+- Simulators   146 km (91 mi)  
+(transatmospheric)   146 km (91 mi)  
+(transatmospheric)   30   26.4°   —   —   —   —   0   30   —
+- GS-0   146 km (91 mi)  
+(transatmospheric)   146 km (91 mi)  
+(transatmospheric)   20   26.4°   —   —   —   —   0   20   —
+- Group 31   559 km (347 mi)         43°               26   0
 
 Starship began carrying Starlink payloads in test flights with Flight 7 in January 2025. Each of these flights carried up to ten Starlink "simulators" (mass simulators of the satellites) for deployment on a suborbital trajectory, so that they would reenter over the Indian Ocean. Flight 7 failed to reach this objective, as did Flights 8 and 9. Successful tests occurred on Flight 10 and Flight 11, with 8 of 8 Starlink simulators deployed each time.
 

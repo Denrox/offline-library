@@ -9,8 +9,8 @@ Type N connector (male)
 - Designer  Paul Neill
 - Designed  1940s
 - General specifications
-- Diameter  **Male:**      2.03 cm (0.80 in)  
-**Female:**  1.57 cm (0.62 in)  
+- Diameter  **Male:** 2.03 cm (0.80 in)  
+**Female:** 1.57 cm (0.62 in)  
 *(outer, typical)*
 - Cable  [Coaxial cable](Coaxial%20cable.md)
 - Passband  0–11 GHz, often up to 18 GHz

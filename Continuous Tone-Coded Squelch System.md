@@ -29,58 +29,58 @@ CTCSS is an analog system. A later Digital-Coded Squelch (DCS) system was develo
 ### List of tones
 
 CTCSS tones
-- NS   PL  Hz  Notes
-- 1  XZ  67.0
-- 39  WZ  69.3
-- 2  XA  71.9
-- 3  WA  74.4
-- 4  XB  77.0
-- 5  WB  79.7
-- 6  YZ  82.5
-- 7  YA  85.4
-- 8  YB  88.5
-- 9  ZZ  91.5
-- 10  ZA  94.8
-- 11  ZB  97.4
-- 12  1Z  100.0
-- 13  1A  103.5
-- 14  1B  107.2
-- 15  2Z  110.9
-- 16  2A  114.8
-- 17  2B  118.8
-- 18  3Z  123.0
-- 19  3A  127.3
-- 20  3B  131.8
-- 21  4Z  136.5
-- 22  4A  141.3
-- 23  4B  146.2
-- NATO    150.0
-- 24  5Z  151.4
-- 25  5A  156.7
-- 40    159.8
-- 26  5B  162.2
-- 41    165.5
-- 27  6Z  167.9
-- 42    171.3
-- 28  6A  173.8
-- 43    177.3
-- 29  6B  179.9
-- 44    183.5
-- 30  7Z  186.2
-- 45    189.9
-- 31  7A  192.8
-- 46    196.6
-- 47    199.5
-- 32  M1  203.5
-- 48  8Z  206.5
-- 33  M2  210.7
-- 34  M3  218.1
-- 35  M4  225.7
-- 49  9Z  229.1
-- 36  M5  233.6
-- 37  M6  241.8
-- 38  M7  250.3
-- 50  0Z  254.1
+- NS    PL   Hz   Notes
+- 1   XZ   67.0
+- 39   WZ   69.3
+- 2   XA   71.9
+- 3   WA   74.4
+- 4   XB   77.0
+- 5   WB   79.7
+- 6   YZ   82.5
+- 7   YA   85.4
+- 8   YB   88.5
+- 9   ZZ   91.5
+- 10   ZA   94.8
+- 11   ZB   97.4
+- 12   1Z   100.0
+- 13   1A   103.5
+- 14   1B   107.2
+- 15   2Z   110.9
+- 16   2A   114.8
+- 17   2B   118.8
+- 18   3Z   123.0
+- 19   3A   127.3
+- 20   3B   131.8
+- 21   4Z   136.5
+- 22   4A   141.3
+- 23   4B   146.2
+- NATO      150.0
+- 24   5Z   151.4
+- 25   5A   156.7
+- 40      159.8
+- 26   5B   162.2
+- 41      165.5
+- 27   6Z   167.9
+- 42      171.3
+- 28   6A   173.8
+- 43      177.3
+- 29   6B   179.9
+- 44      183.5
+- 30   7Z   186.2
+- 45      189.9
+- 31   7A   192.8
+- 46      196.6
+- 47      199.5
+- 32   M1   203.5
+- 48   8Z   206.5
+- 33   M2   210.7
+- 34   M3   218.1
+- 35   M4   225.7
+- 49   9Z   229.1
+- 36   M5   233.6
+- 37   M6   241.8
+- 38   M7   250.3
+- 50   0Z   254.1
 
 CTCSS tones are standardized by the EIA/TIA. The full list of the tones can be found in their original standard RS-220A, and the most recent EIA/TIA-603-E; the CTCSS tones also may be listed in manufacturers instruction, maintenance or operational manuals. Some systems use non-standard tones. The NATO Military radios use 150.0 Hz, and this can be found in the user manuals for the radios. Some areas do not use certain tones. For example, the tone of 100.0 Hz is avoided in the United Kingdom since this is twice the UK mains power line frequency; an inadequately smoothed power supply may cause unwanted squelch opening (this is true in many other areas that use 50 Hz power). Tones typically come from one of three series as listed below along with the two character PL code used by Motorola to identify tones. The most common set of supported tones is a set of 39 tones including all tones with Motorola PL codes, except for the tones 8Z, 9Z, and 0Z (zero-Z). The lowest series has adjacent tones that are roughly in the harmonic ratio of 2 to 1 (≈1.035265), while the other two series have adjacent tones roughly in the ratio of 10 to 1 (≈1.035142). An example technical description can be found in a Philips technical information sheet about their CTCSS products.
 

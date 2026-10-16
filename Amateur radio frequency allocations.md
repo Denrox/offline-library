@@ -69,25 +69,25 @@ Due to [Sporadic E propagation](Sporadic%20E%20propagation.md) during the late s
 
 Frequencies between 30 and 300 MHz are referred to as Very High Frequency (VHF) region and those between 300 MHz and 3 GHz are referred to as Ultra High Frequency (UHF). The allocated bands for amateurs are many megahertz wide, allowing for high-fidelity audio transmission modes ([FM](Frequency%20modulation.md)) and very fast data transmission modes that are unfeasible for the kilohertz-wide allocations in the [HF](High%20frequency.md) bands.  
 - VHF
-- 8 metres  40–45 MHz  in parts of ITU Region 1
-- [6 metres](6-meter%20band.md) 50–54 MHz
-- 50–52 MHz  In parts of ITU Region 1
-- 5 metres 58.0–60.1 MHz in parts of ITU Region 1
-- 4 metres 70–70.5 MHz in parts of ITU Region 1
-- [2 metres](2-meter%20band.md) 144–148 MHz
-- 144–146 MHz  ITU Region 1
+- 8 metres   40–45 MHz   in parts of ITU Region 1
+- [6 metres](6-meter%20band.md)  50–54 MHz
+- 50–52 MHz   In parts of ITU Region 1
+- 5 metres  58.0–60.1 MHz  in parts of ITU Region 1
+- 4 metres  70–70.5 MHz  in parts of ITU Region 1
+- [2 metres](2-meter%20band.md)  144–148 MHz
+- 144–146 MHz   ITU Region 1
 - [1.25 metres](1.25-meter%20band.md)   219–220 MHz   Fixed digital message
 
 forwarding systems
 
-- 222–225 MHz US & Canada
+- 222–225 MHz  US & Canada
 - UHF
-- [70 centimetres](70-centimeter%20band.md) 420–450 MHz
-- 430–440 MHz  in ITU Region 1
-- 33 centimetres 902–928 MHz in ITU Region 2
-- 23 centimetres 1 240–1 300 MHz
-- 1 240–1 325 MHz in UK
-- 13 centimetres 2 300–2 310 MHz   lower segment
+- [70 centimetres](70-centimeter%20band.md)  420–450 MHz
+- 430–440 MHz   in ITU Region 1
+- 33 centimetres  902–928 MHz  in ITU Region 2
+- 23 centimetres  1 240–1 300 MHz
+- 1 240–1 325 MHz  in UK
+- 13 centimetres  2 300–2 310 MHz   lower segment
 - 2 390–2 450 MHz   upper segment
 
 While ["line of sight" propagation](Line-of-sight%20propagation.md) is a primary factor for range calculation, much of the interest in the bands above HF comes from use of other propagation modes. A signal transmitted on VHF from a hand-held portable will typically travel about 5–10 km (3–6 miles) depending on terrain. With a low power home station and a simple antenna, range would be around 50 km (30 miles).
@@ -199,58 +199,58 @@ The following charts show the voluntary bandplans used by amateurs in ITU Region
 
 ##### 160 metres
 
-- 160 metres    1810 – 1838  1838 – 1840  1840 – 1843  1843 – 2000
+- 160 metres      1810 – 1838   1838 – 1840   1840 – 1843   1843 – 2000
 - IARU Region 1
 
 ##### 80 metres
 
-- 80 metres  3500 – 3570  3570 – 3600  3600 – 3620  3620 – 3800
+- 80 metres   3500 – 3570   3570 – 3600   3600 – 3620   3620 – 3800
 - IARU Region 1
 
 ##### 60 metres
 
-- 60 metres  5258.5 – 5264    5276 – 5284    5288 – 5292    5298 – 5307    5313 – 5323    5333 – 5338    5351.5 – 5366.5, UK 5354 – 5358    5362 – 5374.5    5378 – 5382    5395 – 5401.5    5403.5 – 5406.5
-- IARU R1 (WRC-15) & UK                          WRC-15 alloc.
+- 60 metres   5258.5 – 5264      5276 – 5284      5288 – 5292      5298 – 5307      5313 – 5323      5333 – 5338      5351.5 – 5366.5, UK 5354 – 5358      5362 – 5374.5      5378 – 5382      5395 – 5401.5      5403.5 – 5406.5
+- IARU R1 (WRC-15) & UK                                       WRC-15 alloc.
 - Also additional channels allocated to WRC-15 Band (or channel) for Bahrain*, North Macedonia, Portugal, Republic of Ireland and Israel.
 
-- 60 metres  5250 – 5450
+- 60 metres   5250 – 5450
 - Bulgaria, Denmark
 - 5370 – 5450 Estonia, 5260 – 5410 Norway, 5275 – 5450 Kenya, 5060 – 5450 Somalia.
 
 ##### 40 metres
 
-- 40 metres  7000 – 7040  7040 – 7050  7050 – 7060  7060 – 7100  7100 – 7200
+- 40 metres   7000 – 7040   7040 – 7050   7050 – 7060   7060 – 7100   7100 – 7200
 - IARU Region 1
 - Note: 7000 – 7300 Somalia
 
 ##### 30 metres
 
-- 30 metres  10100 – 10130  10130 – 10150
+- 30 metres   10100 – 10130   10130 – 10150
 - IARU Region 1
 
 ##### 20 metres
 
-- 20 metres  14000 – 14070  14070 – 14099  B  14101 – 14350
+- 20 metres   14000 – 14070   14070 – 14099   B   14101 – 14350
 - IARU Region 1
 
 ##### 17 metres
 
-- 17 metres  18068 – 18095  18095 – 18109  B  18111 – 18168
+- 17 metres   18068 – 18095   18095 – 18109   B   18111 – 18168
 - IARU Region 1
 
 ##### 15 metres
 
-- 15 metres  21000 – 21070  21070 – 21110  21110 – 21120  21120 – 21149  B  21151 – 21450
+- 15 metres   21000 – 21070   21070 – 21110   21110 – 21120   21120 – 21149   B   21151 – 21450
 - IARU Region 1
 
 ##### 12 metres
 
-- 12 metres  24890 – 24915  24915 – 24929  B  24931 – 24990
+- 12 metres   24890 – 24915   24915 – 24929   B   24931 – 24990
 - IARU Region 1
 
 ##### 10 metres
 
-- 10 metres  28000 – 28070  28070 – 28190  B  28225 – 29200  29200 – 29300  29300 – 29510  29510 – 29700
+- 10 metres   28000 – 28070   28070 – 28190   B   28225 – 29200   29200 – 29300   29300 – 29510   29510 – 29700
 - IARU Region 1
 
 ##### Key
@@ -279,47 +279,47 @@ ITU Region 2 consists of the Americas, including Greenland.
 
 The frequency allocations for hams in ITU Region 2 are:
 
-- ITU band  Band name  Frequencies (kHz/MHz/GHz)
-- Lower end  Upper end
-- 5, LF (kHz)  2200 metres 135.7 kHz 137.8 kHz
-- 1750 metres Power restricted, but no license required in  
+- ITU band   Band name   Frequencies (kHz/MHz/GHz)
+- Lower end   Upper end
+- 5, LF (kHz)   2200 metres  135.7 kHz  137.8 kHz
+- 1750 metres  Power restricted, but no license required in  
 unallocated 160–190 kHz broadcast band.
-- 6, [MF](Medium%20frequency.md) (kHz)  630 metres 472 kHz 479 kHz
-- [160 metres](160-meter%20band.md) 1800 2000
-- 7, [HF](High%20frequency.md) (MHz)  [80 metres](80-meter%20band.md) 3.5 MHz 4.0 MHz
-- 60 metres *Channelized:* 5.332, 5.348, 5.358.5, 5.373, 5.405  
+- 6, [MF](Medium%20frequency.md) (kHz)   630 metres  472 kHz  479 kHz
+- [160 metres](160-meter%20band.md)  1800  2000
+- 7, [HF](High%20frequency.md) (MHz)   [80 metres](80-meter%20band.md)  3.5 MHz  4.0 MHz
+- 60 metres  *Channelized:* 5.332, 5.348, 5.358.5, 5.373, 5.405  
 or 5.351.5–5.366.5 or 5.250–5.450
-- [40 metres](40-meter%20band.md) 7.0 7.3
-- 30 metres 10.1 10.15
-- [20 metres](20-meter%20band.md) 14.00 14.35
-- 17 metres 18.068 18.168
-- 15 metres 21 21.45
-- 12 metres 24.89 24.99
-- [10 metres](10-meter%20band.md) 28.0 29.7
-- 8, [VHF](Very%20high%20frequency.md) (MHz)  [6 metres](6-meter%20band.md) 50 MHz 54 MHz
-- [2 metres](2-meter%20band.md) 144 148
-- [1.25 metres](1.25-meter%20band.md) 219 220
-- 222 225
-- 9, [UHF](Ultra%20high%20frequency.md)  [70 centimetres](70-centimeter%20band.md) 420 MHz 450 MHz
-- 33 centimetres 902 928
-- 23 centimetres 1240 1300
-- 13 centimetres  2300 2310
-- 2390 2450
-- 10, SHF (GHz)  9 centimetres 3.3 GHz 3.5 GHz
-- 5 centimetres 5.650 5.925
-- 3 centimetres 10.0 10.5
-- 1.2 centimetres 24.00 24.25
-- 11, EHF  6 millimetres 47.0 47.2
-- 4 millimetres 75.5 81.0
-- 2.5 millimetres 122.25 123.0
-- 2 millimetres 134 141
-- 1 millimetre 241 250
+- [40 metres](40-meter%20band.md)  7.0  7.3
+- 30 metres  10.1  10.15
+- [20 metres](20-meter%20band.md)  14.00  14.35
+- 17 metres  18.068  18.168
+- 15 metres  21  21.45
+- 12 metres  24.89  24.99
+- [10 metres](10-meter%20band.md)  28.0  29.7
+- 8, [VHF](Very%20high%20frequency.md) (MHz)   [6 metres](6-meter%20band.md)  50 MHz  54 MHz
+- [2 metres](2-meter%20band.md)  144  148
+- [1.25 metres](1.25-meter%20band.md)  219  220
+- 222  225
+- 9, [UHF](Ultra%20high%20frequency.md)   [70 centimetres](70-centimeter%20band.md)  420 MHz  450 MHz
+- 33 centimetres  902  928
+- 23 centimetres  1240  1300
+- 13 centimetres   2300  2310
+- 2390  2450
+- 10, SHF (GHz)   9 centimetres  3.3 GHz  3.5 GHz
+- 5 centimetres  5.650  5.925
+- 3 centimetres  10.0  10.5
+- 1.2 centimetres  24.00  24.25
+- 11, EHF   6 millimetres  47.0  47.2
+- 4 millimetres  75.5  81.0
+- 2.5 millimetres  122.25  123.0
+- 2 millimetres  134  141
+- 1 millimetre  241  250
 
 #### Special note on the channelled 60 metre band  
   
   
   
-(ARRL 60 meter operations )
+(ARRL 60 meter operations [[1]](http://www.arrl.org/files/file/Regulatory/Recommended_Practices_Version_6_5.pdf))
 
 The primary (first priority) user of the channelled 60 meter band is the U.S. National Telecommunications and Information Administration (NTIA). Effective 5 March 2012 the FCC permits CW, USB, and certain digital modes on these frequencies by amateurs on a secondary basis.
 
@@ -333,69 +333,69 @@ RAC has a "chart showing the frequencies available to amateurs in Canada". 21 Ju
 
 #### Table of amateur MF and HF allocations in the United States and Canada
 
-- 160 m  1800 – 2000
+- 160 m   1800 – 2000
 - Canada
-- United States  1800 – 2000
+- United States   1800 – 2000
 - General, Advanced, Extra
 
-- 80 / 75 m  3500 – 4000
+- 80 / 75 m   3500 – 4000
 - Canada
-- United States  3500 – 3525  3525 – 3600  3600 – 3700  3700 – 3800  3800 – 4000
+- United States   3500 – 3525   3525 – 3600   3600 – 3700   3700 – 3800   3800 – 4000
 - Novice / Technician
 - General
 - Advanced
 - Extra
 
-- 60 m  5330 – 5406
-- Canada  5332.0    5348.0    5358.5    5373.0    5405.0
-- United States  5332.0    5348.0    5358.5    5373.0    5405.0
+- 60 m   5330 – 5406
+- Canada   5332.0      5348.0      5358.5      5373.0      5405.0
+- United States   5332.0      5348.0      5358.5      5373.0      5405.0
 - General, Advanced, Extra
 - Basic (hon.), Code, Adv.
 - Note: US licensees operating 60 m are limited to 100 watts PEP ERP relative to a 1/2 wave dipole.
 
 Canadian operators are restricted to 100 watts PEP.
 
-- 40 m  7000 – 7300
+- 40 m   7000 – 7300
 - Canada
-- United States  7000 – 7025  7025 – 7125  7125 – 7175  7175 – 7300
+- United States   7000 – 7025   7025 – 7125   7125 – 7175   7175 – 7300
 - Novice / Technician
 - General
 - Advanced
 - Extra
 
-- 30 m  10100-10150
+- 30 m   10100-10150
 - Canada
 - United States
 - *Note: US limited to General, Advanced and Extra licensees; 200 watts PEP*
 
-- 20 m  14000 – 14350
+- 20 m   14000 – 14350
 - Canada
-- United States  14000-14025  14025-14150  14150-14175  14175-14225  14225-14350
+- United States   14000-14025   14025-14150   14150-14175   14175-14225   14225-14350
 - General
 - Advanced
 - Extra
 
-- 17 m  18068 – 18168
+- 17 m   18068 – 18168
 - Canada
-- United States  18068 – 18110  18110 – 18168
+- United States   18068 – 18110   18110 – 18168
 - General, Advanced, Extra
 
-- 15 m  21000 – 21450
+- 15 m   21000 – 21450
 - Canada
-- United States  21000 – 21025  21025 – 21200  21200 – 21225  21225 – 21275  21275 – 21450
+- United States   21000 – 21025   21025 – 21200   21200 – 21225   21225 – 21275   21275 – 21450
 - Novice / Technician
 - General
 - Advanced
 - Extra
 
-- 12 m  24890 – 24990
+- 12 m   24890 – 24990
 - Canada
-- United States  24890 – 24930  24930 – 24990
+- United States   24890 – 24930   24930 – 24990
 - General, Advanced, Extra
 
-- 10 m  28000 – 29700
+- 10 m   28000 – 29700
 - Canada
-- United States  28000 – 28300  28300 – 28500  28500 – 29700
+- United States   28000 – 28300   28300 – 28500   28500 – 29700
 - Novice / Technician
 - General, Advanced, Extra
 - Note: The 10 metre table is one-third scale, relative to the other tables
@@ -422,28 +422,28 @@ Canadian operators are restricted to 100 watts PEP.
 
 ITU region 3 consists of Australia, Indonesia, Japan, New Zealand, the South Pacific, and Asia south of Siberia. The IARU frequency allocations for hams in ITU Region 3 are:
 
-- ITU band  Band name  Frequencies (MHz)
-- Lower end Upper end
-- 5, LF  2200 metres 135.7 kHz 137.8 kHz
-- 6, MF  630 metres 472 kHz 479 kHz
-- [160 metres](160-meter%20band.md) 1.8 2.0
-- 7, HF  [80 metres](80-meter%20band.md) 3.5 3.9
-- 60 metres 5.351.5 5.366.5
-- [40 metres](40-meter%20band.md) 7.0 7.3
-- 30 metres 10.1 10.15
-- [20 metres](20-meter%20band.md) 14 14.35
-- 17 metres 18.068 18.168
-- 15 metres 21 21.45
-- 12 metres 24.89 24.99
-- [10 metres](10-meter%20band.md) 28 29.7
-- 8, VHF  [6 metres](6-meter%20band.md) 50 54
-- [2 metres](2-meter%20band.md) 144 148
-- 9, UHF  [70 centimetres](70-centimeter%20band.md) 430 450
-- 23 centimetres 1240 1300
+- ITU band   Band name   Frequencies (MHz)
+- Lower end  Upper end
+- 5, LF   2200 metres  135.7 kHz  137.8 kHz
+- 6, MF   630 metres  472 kHz  479 kHz
+- [160 metres](160-meter%20band.md)  1.8  2.0
+- 7, HF   [80 metres](80-meter%20band.md)  3.5  3.9
+- 60 metres  5.351.5  5.366.5
+- [40 metres](40-meter%20band.md)  7.0  7.3
+- 30 metres  10.1  10.15
+- [20 metres](20-meter%20band.md)  14  14.35
+- 17 metres  18.068  18.168
+- 15 metres  21  21.45
+- 12 metres  24.89  24.99
+- [10 metres](10-meter%20band.md)  28  29.7
+- 8, VHF   [6 metres](6-meter%20band.md)  50  54
+- [2 metres](2-meter%20band.md)  144  148
+- 9, UHF   [70 centimetres](70-centimeter%20band.md)  430  450
+- 23 centimetres  1240  1300
 
 Bands above 1300 MHz: societies should consult with the amateur satellite community for proposed satellite operating frequencies before deciding local bandplans above 1300 MHz.
 
-Not all Member Unions follow this plan. As an example, the ACMA does not allow Australian Amateurs to use 3.700 MHz to 3.768 MHz and 3.800 MHz to 3.900 MHz, allocating this region to Emergency and Ambulatory services (Allocations can be found conducting a search of the ACMA Radcomms register . )
+Not all Member Unions follow this plan. As an example, the ACMA does not allow Australian Amateurs to use 3.700 MHz to 3.768 MHz and 3.800 MHz to 3.900 MHz, allocating this region to Emergency and Ambulatory services (Allocations can be found conducting a search of the ACMA Radcomms register [[2]](http://web.acma.gov.au/pls/radcom/register_search.main_page). )
 
 The Wireless Institute of Australia has charts for Amateur frequencies for Australia.
 
@@ -462,30 +462,30 @@ In most countries, an amateur radio license conveys operating privileges in both
 Some of the allocations are limited by the ITU in what direction transmissions may be sent (EG: "Earth-to-space" or up-links only). All amateur satellite operations occur within the allocations tabled below, except for AO-7, which has an up-link from 432.125 MHz to 432.175 MHz.
 
 - International amateur satellite frequency allocations
-- Range  Band  Letter  Allocation  Preferred sub-bands  User status  Notes
-- HF  **[40 m](40-meter%20band.md)**     7.000 – 7.100 MHz    Primary
-- **[20 m](20-meter%20band.md)**     14.000 – 14.250 MHz    Primary
-- **17 m**     18.068 – 18.168 MHz    Primary  Entire amateur radio band
-- **15 m**  H   21.000 – 21.450 MHz    Primary  Entire amateur radio band
-- **12 m**     24.890 – 24.990 MHz    Primary  Entire amateur radio band
-- **[10 m](10-meter%20band.md)**  A   28.000 – 29.700 MHz   29.300 – 29.510 MHz  Primary  Entire amateur radio band
-- VHF  **[2 m](2-meter%20band.md)**  V  144.000 – 146.000 MHz  145.800 – 146.000 MHz  Primary
-- UHF  **[70 cm](70-centimeter%20band.md)**  U  435.000 – 438.000 MHz    NIB
-- **23 cm**  L   1.260 – 1.270 GHz    NIB  Only uplinks allowed
-- **13 cm**  S   2.400 – 2.450 GHz   2.400 – 2.403 GHz  NIB
-- SHF  **9 cm**  S2   3.400 – 3.410 GHz    NIB  Not available in ITU region 1.
-- **5 cm**  C   5.650 – 5.670 GHz    NIB  Only uplinks allowed
-- 5.830 – 5.850 GHz    Secondary  Only downlinks allowed
-- **3 cm**  X   10.450 – 10.500 GHz    Secondary
-- **1.2 cm**  K   24.000 – 24.050 GHz    Primary
-- EHF  **6 mm**  R   47.000 – 47.200 GHz    Primary  Entire amateur radio band
-- **4 mm**     76.000 – 77.500 GHz    Secondary
-- 77.500 – 78.000 GHz  Primary
-- 78.000 – 81.000 GHz  Secondary
-- **2 mm**    134.000 – 136.000 GHz    Primary  Entire amateur radio band
-- 136.000 – 141.000 GHz  Secondary
-- **1 mm**    241.000 – 248.000 GHz    Secondary  Entire amateur radio band
-- 248.000 – 250.000 GHz  Primary
+- Range   Band   Letter   Allocation   Preferred sub-bands   User status   Notes
+- HF   **[40 m](40-meter%20band.md)**       7.000 – 7.100 MHz      Primary
+- **[20 m](20-meter%20band.md)**       14.000 – 14.250 MHz      Primary
+- **17 m**       18.068 – 18.168 MHz      Primary   Entire amateur radio band
+- **15 m**   H    21.000 – 21.450 MHz      Primary   Entire amateur radio band
+- **12 m**       24.890 – 24.990 MHz      Primary   Entire amateur radio band
+- **[10 m](10-meter%20band.md)**   A    28.000 – 29.700 MHz    29.300 – 29.510 MHz   Primary   Entire amateur radio band
+- VHF   **[2 m](2-meter%20band.md)**   V   144.000 – 146.000 MHz   145.800 – 146.000 MHz   Primary
+- UHF   **[70 cm](70-centimeter%20band.md)**   U   435.000 – 438.000 MHz      NIB
+- **23 cm**   L    1.260 – 1.270 GHz      NIB   Only uplinks allowed
+- **13 cm**   S    2.400 – 2.450 GHz    2.400 – 2.403 GHz   NIB
+- SHF   **9 cm**   S2    3.400 – 3.410 GHz      NIB   Not available in ITU region 1.
+- **5 cm**   C    5.650 – 5.670 GHz      NIB   Only uplinks allowed
+- 5.830 – 5.850 GHz      Secondary   Only downlinks allowed
+- **3 cm**   X    10.450 – 10.500 GHz      Secondary
+- **1.2 cm**   K    24.000 – 24.050 GHz      Primary
+- EHF   **6 mm**   R    47.000 – 47.200 GHz      Primary   Entire amateur radio band
+- **4 mm**       76.000 – 77.500 GHz      Secondary
+- 77.500 – 78.000 GHz   Primary
+- 78.000 – 81.000 GHz   Secondary
+- **2 mm**      134.000 – 136.000 GHz      Primary   Entire amateur radio band
+- 136.000 – 141.000 GHz   Secondary
+- **1 mm**      241.000 – 248.000 GHz      Secondary   Entire amateur radio band
+- 248.000 – 250.000 GHz   Primary
 
 ---
 

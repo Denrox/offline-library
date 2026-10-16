@@ -1,33 +1,33 @@
 # AN/PRC-152
 
 - *AN/PRC-152*
-- Type  Handheld tactical radio
+- Type   Handheld tactical radio
 - Service History
-- In service  2005-
-- Used by  United States Army, US Marines,
+- In service   2005-
+- Used by   United States Army, US Marines,
 
 US Navy, US Air Force, Canadian Army,
 
 Armed Forces of Ukraine (export version)
 
-- Conflicts  Iraq War, War in Afghanistan,
+- Conflicts   Iraq War, War in Afghanistan,
 
 Operation Inherent Resolve,
 
 Russo-Ukrainian War
 
 - Production history
-- Manufacturer  [L3Harris](L3Harris.md)
-- Produced  2005-
-- Number built  Over 100,000 (as of 2012)
+- Manufacturer   [L3Harris](L3Harris.md)
+- Produced   2005-
+- Number built   Over 100,000 (as of 2012)
 - Specifications
-- Frequency range  30-520 MHz,
+- Frequency range   30-520 MHz,
 
 762-870 MHz
 
-- Transmit power  up to 5 watts
-- Modes  analog and digital voice, digital data
-- Encryption  NSA Type 1 algorithms (Top Secret and below)
+- Transmit power   up to 5 watts
+- Modes   analog and digital voice, digital data
+- Encryption   NSA Type 1 algorithms (Top Secret and below)
 
 The **AN/PRC-152 Multiband Handheld Radio**, is a portable, compact, tactical [software-defined](Software-defined%20radio.md) [combat-net radio](Combat-net%20radio.md) manufactured by Harris Corporation. It is compliant without waivers to the Joint Tactical Radio System (JTRS) Software Communications Architecture (SCA). It has received NSA certification for the transmission of Top Secret data.
 

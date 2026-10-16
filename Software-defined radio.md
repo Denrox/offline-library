@@ -26,7 +26,7 @@ The program is providing a new approach to meet additional soldier communication
 
 The SCA, despite its military origin, is under evaluation by commercial radio vendors for applicability in their domains. The adoption of general-purpose SDR frameworks outside of military, intelligence, experimental and amateur uses, however, is inherently hampered by the fact that civilian users can more easily settle with a fixed architecture, optimized for a specific function, and as such more economical in mass market applications. Still, software defined radio's inherent flexibility can yield substantial benefits in the longer run, once the fixed costs of implementing it have gone down enough to overtake the cost of iterated redesign of purpose built systems. This then explains the increasing commercial interest in the technology.
 
-SCA-based infrastructure software and rapid development tools for SDR education and research are provided by the Open Source SCA Implementation –  Embedded (OSSIE) project. The Wireless Innovation Forum funded the SCA Reference Implementation project, an open source implementation of the SCA specification. (SCARI) can be downloaded for free.
+SCA-based infrastructure software and rapid development tools for SDR education and research are provided by the Open Source SCA Implementation – Embedded (OSSIE) project. The Wireless Innovation Forum funded the SCA Reference Implementation project, an open source implementation of the SCA specification. (SCARI) can be downloaded for free.
 
 ### Amateur and home use
 

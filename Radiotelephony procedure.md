@@ -164,13 +164,13 @@ The best way to overcome these problems is by greatly reducing the number of sin
 
 Several radio operation procedures manuals, including ACP 125(G) teach the same mnemonic of Rhythm, Speed, Volume, and Pitch (RSVP):
 
-**Rhythm** — Use short sentences divided into sensible phrases which maintain a natural rhythm; they should not be spoken word by word. Where pauses occur, the press-to-talk should be released to minimize transmission time and permit stations to break in when necessary.
+**Rhythm**  — Use short sentences divided into sensible phrases which maintain a natural rhythm; they should not be spoken word by word. Where pauses occur, the press-to-talk should be released to minimize transmission time and permit stations to break in when necessary.
 
-**Speed** — Speak slightly slower than for normal conversation. Where a message is to be written down by the recipients, or in difficult conditions, extra time should be allowed to compensate for the receiving station experiencing the worst conditions. Speed of transmission is easily adjusted by increasing or decreasing the length of pauses between phrases, as opposed to altering the gaps between words; the latter will create an unnatural, halted style of speech, which is difficult to understand.
+**Speed**  — Speak slightly slower than for normal conversation. Where a message is to be written down by the recipients, or in difficult conditions, extra time should be allowed to compensate for the receiving station experiencing the worst conditions. Speed of transmission is easily adjusted by increasing or decreasing the length of pauses between phrases, as opposed to altering the gaps between words; the latter will create an unnatural, halted style of speech, which is difficult to understand.
 
-**Volume** — Speak quietly when using whisper facilities, otherwise the volume should be as for normal conversation. Shouting causes distortion.
+**Volume**  — Speak quietly when using whisper facilities, otherwise the volume should be as for normal conversation. Shouting causes distortion.
 
-**Pitch** — The voice should be pitched slightly higher than for normal conversation to improve clarity.
+**Pitch**  — The voice should be pitched slightly higher than for normal conversation to improve clarity.
 
 According to the UK's Radiotelephony Manual, CAP 413, radio operators should talk at a speed of fewer than 100 words per minute.
 
@@ -261,7 +261,7 @@ APCO has also specified Standard Description Forms, a standard order of reportin
 The Standard Description of Persons format first appeared in the April 1950 edition of the APCO Bulletin. It starts with a description of the person themself and finishes with a description of what they are wearing at the time.
 
 Standard Description of Persons Form
-- Start  Finish
+- Start   Finish
 
 1. Name
 2. Colour
@@ -288,14 +288,14 @@ Standard Description of Persons Form
 APCO promotes the mnemonic CYMBALS for reporting vehicle descriptions:
 
 APCO vehicle description format
-- Property  Example
-- **C**olour  Red
-- **Y**ear  2001
-- **M**ake  Ford
-- **B**ody  F-150
-- **A**dditional descriptive items  With a black camper shell
-- **L**icence  1234567
-- **S**tate  California
+- Property   Example
+- **C**olour   Red
+- **Y**ear   2001
+- **M**ake   Ford
+- **B**ody   F-150
+- **A**dditional descriptive items   With a black camper shell
+- **L**icence   1234567
+- **S**tate   California
 
 #### Calling procedure
 
@@ -315,39 +315,39 @@ The use of these emergency signals is governed by the International Radio Regula
 
 All of these break-in procedure words must be followed by your call sign, because that information will help the NCS determine the relevant importance when dealing with multiple break-ins of the same precedence, and to determine the relevance when multiple calls offering a CORRECTION or INFO are received.
 
-- Priority  Proword  Signal Type  Use For  Handling  Prosign/OPSIG
-- **1**  FLASH  Message precedence  Events that are a grave threat to the nation or a region  FLASH messages are to be handled as fast as humanly possible, ahead of all other messages, with in-station handling time not to exceed 10 minutes. U.S. Government use only per CFR 47. FLASH messages are handled before all three types of international priority signals, including MAYDAY.  Z
-- 2  MAYDAY  
+- Priority   Proword   Signal Type   Use For   Handling   Prosign/OPSIG
+- **1**   FLASH   Message precedence   Events that are a grave threat to the nation or a region   FLASH messages are to be handled as fast as humanly possible, ahead of all other messages, with in-station handling time not to exceed 10 minutes. U.S. Government use only per CFR 47. FLASH messages are handled before all three types of international priority signals, including MAYDAY.   Z
+- 2   MAYDAY  
 MAYDAY  
-MAYDAY  International priority signals  Lives or property are in danger  Immediate! All radio traffic not actively engaged in assisting the station in distress stops or moves to another frequency. This rule applies on all frequencies allocated to emergency use. On other frequencies, the rule is modified to allow FLASH precedence traffic, because FLASH messages have a similar scope of immediate danger (especially when it is a military communication) and also need immediate responses.  SOS SOS SOS
-- **3**  PAN-PAN  
+MAYDAY   International priority signals   Lives or property are in danger   Immediate! All radio traffic not actively engaged in assisting the station in distress stops or moves to another frequency. This rule applies on all frequencies allocated to emergency use. On other frequencies, the rule is modified to allow FLASH precedence traffic, because FLASH messages have a similar scope of immediate danger (especially when it is a military communication) and also need immediate responses.   SOS SOS SOS
+- **3**   PAN-PAN  
 PAN-PAN  
-PAN-PAN  Urgent situations that are not life-threatening  Immediate, unless there is an ongoing Mayday issue. This is considered to be IMMEDIATE precedence traffic. If the condition is medical, use PAN-PAN MEDICAL, PAN-PAN MEDICAL, PAN-PAN MEDICAL.  XXX XXX XXX
-- **4**  SÉCURITÉ  
+PAN-PAN   Urgent situations that are not life-threatening   Immediate, unless there is an ongoing Mayday issue. This is considered to be IMMEDIATE precedence traffic. If the condition is medical, use PAN-PAN MEDICAL, PAN-PAN MEDICAL, PAN-PAN MEDICAL.   XXX XXX XXX
+- **4**   SÉCURITÉ  
 SÉCURITÉ  
-SÉCURITÉ  Important safety information  Immediate, unless there is an ongoing Mayday or Pan-pan issue. Must be sent as T T T instead of TTT in order to differentiate it from the Morse code symbol for O. This is considered to be IMMEDIATE precedence traffic.  TTT TTT TTT
-- **5**  IMMEDIATE  Message precedence  Handling within 30 minutes  IMMEDIATE messages are processed, transmitted, and delivered in the order received and ahead of all messages of lower precedence. They are to be handled as quickly as possible, with in-station handling time not to exceed 30 minutes.  O
-- **6**  PRIORITY  Handling within 3 hours  PRIORITY precedence messages are processed, transmitted, and delivered in the order received and ahead of all messages of ROUTINE precedence. They are to be handled as quickly as possible, with in-station handling time not to exceed 3 hours.  P
-- **7**  ROUTINE  Handling by the next day  Used for all types of message traffic justifying transmission by rapid means, but not of sufficient urgency to require higher precedence. They should be handled as soon as traffic flow allows, but no later than the beginning of the next duty day.  R
-- **8**  CORRECTION  Message handling  Providing a correction to another station  Use to let the Net Control Station know you have a correction for something that the NCS or another station transmitted.  EEEEEEEE
-- **9**  INFO  Providing an answer to another station  Use to let the NCS know that you have information relating to a topic or question transmitted by the NCS or another station.  INFO
+SÉCURITÉ   Important safety information   Immediate, unless there is an ongoing Mayday or Pan-pan issue. Must be sent as T T T instead of TTT in order to differentiate it from the Morse code symbol for O. This is considered to be IMMEDIATE precedence traffic.   TTT TTT TTT
+- **5**   IMMEDIATE   Message precedence   Handling within 30 minutes   IMMEDIATE messages are processed, transmitted, and delivered in the order received and ahead of all messages of lower precedence. They are to be handled as quickly as possible, with in-station handling time not to exceed 30 minutes.   O
+- **6**   PRIORITY   Handling within 3 hours   PRIORITY precedence messages are processed, transmitted, and delivered in the order received and ahead of all messages of ROUTINE precedence. They are to be handled as quickly as possible, with in-station handling time not to exceed 3 hours.   P
+- **7**   ROUTINE   Handling by the next day   Used for all types of message traffic justifying transmission by rapid means, but not of sufficient urgency to require higher precedence. They should be handled as soon as traffic flow allows, but no later than the beginning of the next duty day.   R
+- **8**   CORRECTION   Message handling   Providing a correction to another station   Use to let the Net Control Station know you have a correction for something that the NCS or another station transmitted.   EEEEEEEE
+- **9**   INFO   Providing an answer to another station   Use to let the NCS know that you have information relating to a topic or question transmitted by the NCS or another station.   INFO
 
 #### Order of priority of communications
 
 The priority levels described below are derived from Article 44 of the ITU Radio Regulations, Chapter VIII, and were codified as early as the *International Telecommunication Convention, Atlantic City, 1947* (but probably existed much earlier).
 
 Radiotelephony communications priority
-- Order of priority  Simplify calling procedure  Radiotelephony signal  Radiotelegraph signal
-- 1  Distress calls, distress messages, and distress traffic  MAYDAY  SOS
-- 2  Urgency messages, including messages preceded by the medical transports signal.  PAN, PAN *or* PAN, PAN MEDICAL  XXX
-- 3  Communications relating to direction finding    QSH, QTF
-- 4  Safety information  SÉCURITÉ  TTT
-- 5  Meteorological messages    QFA, QFZ, QNY, QUB, QMW, QMX, QMZ
-- 6  Flight regularity (navigation and safe movement) messages    QAB, QBI, QBV, QBX, QCA, QDV, QFM, QGQ, QHG,
-- 7  Messages relative to the navigation, movements, and needs of ships    Most Q signals in the QOA–QQZ range
-- 8  Government messages for which priority right has been claimed.
-- 9  Service messages relating to the working of the radiocommunication service or to radiotelegrams previously transmitted  SERVICE  Messages prefixed with SVC
-- 10  All other communications
+- Order of priority   Simplify calling procedure   Radiotelephony signal   Radiotelegraph signal
+- 1   Distress calls, distress messages, and distress traffic   MAYDAY   SOS
+- 2   Urgency messages, including messages preceded by the medical transports signal.   PAN, PAN *or* PAN, PAN MEDICAL   XXX
+- 3   Communications relating to direction finding      QSH, QTF
+- 4   Safety information   SÉCURITÉ   TTT
+- 5   Meteorological messages      QFA, QFZ, QNY, QUB, QMW, QMX, QMZ
+- 6   Flight regularity (navigation and safe movement) messages      QAB, QBI, QBV, QBX, QCA, QDV, QFM, QGQ, QHG,
+- 7   Messages relative to the navigation, movements, and needs of ships      Most Q signals in the QOA–QQZ range
+- 8   Government messages for which priority right has been claimed.
+- 9   Service messages relating to the working of the radiocommunication service or to radiotelegrams previously transmitted   SERVICE   Messages prefixed with SVC
+- 10   All other communications
 
 #### Procedure words
 
@@ -355,59 +355,59 @@ Procedure words are a direct voice replacement for [procedure signs](Prosigns%20
 
 Procedure words for general use
 - **ProwordExplanationProsign/ OPSIG**
-- THIS IS  This transmission is from the station whose designator immediately follows.  DE
-- UNKNOWN STATION  The identity of the station with whom I am attempting to establish communication is unknown.  AA
-- NOTHING HEARD  To be used when no reply is received from a call station.  ZGN (military)
+- THIS IS   This transmission is from the station whose designator immediately follows.   DE
+- UNKNOWN STATION   The identity of the station with whom I am attempting to establish communication is unknown.   AA
+- NOTHING HEARD   To be used when no reply is received from a call station.   ZGN (military)
 
 NIL
 
 (civilian)
 
-- ROGER  This is a method of receipt. I have received your last transmission satisfactorily.
+- ROGER   This is a method of receipt. I have received your last transmission satisfactorily.
 
 This usage comes from the Morse code prosign "R", which means "received": from 1943 to early 1956, the code word for R was Roger in the Allied Military phonetic spelling alphabets in use by the armed forces, including the Joint Army/Navy Phonetic Alphabet and RAF phonetic alphabet. This use was officially continued even after the spelling word for R was changed to ROMEO. Contrary to popular belief, Roger does not mean or imply both "received" and "I will comply." That distinction goes to the contraction wilco (from "will comply"), which is used exclusively if the speaker intends to say "received and will comply". The phrase "Roger Wilco" is procedurally incorrect, as it is redundant with respect to the intent to say "received".
 
 R
-- OVER  This is the end of my transmission to you and a response is necessary. Go ahead, transmit  K
-- WILCO  I HAVE RECEIVED YOUR SIGNAL, UNDERSTAND IT, AND WILL COMPLY. To be used only by the addressee. Since the meaning of ROGER is included in that of WILCO, the two prowords are never used together.
-- OUT  This is the end of my transmission to you and no answer is required or expected.  AR
-- CQ  General call to all stations  CQ
-- OUT TO YOU  This is the end of my transmission to you. I am about to call (or resume a call) with other station(s).  AR
-- WAIT  I must pause for a few seconds  AS
-- WAIT – OUT  I must pause for longer than a few seconds.  AS AR
-- FIGURES  Numerals or numbers follow.  n/a
-- I SPELL  I shall spell the next word phonetically.  n/a
-- SPEAK SLOWER  Your transmission is too fast. Reduce speed of transmission.  QRS
-- WORD AFTER  The word of the message to which I have reference is that which follows..............  WA
-- WORD BEFORE  The word of the message to which I have reference is that which precedes..............  WB
-- ALL AFTER  The portion of the message to which I have reference is all that follows...............  AA
-- ALL BEFORE  The portion of the message to which I have reference is all that precedes..............  AB
-- SAY AGAIN  Repeat all of your last transmission. Followed by identification data means "Repeat………… (portion indicated)."  IMI?
-- I SAY AGAIN  I am repeating transmission or portion indicated.  IMI
-- CORRECTION  An error has been made in this transmission. Transmission will continue with the last word correctly transmitted.
+- OVER   This is the end of my transmission to you and a response is necessary. Go ahead, transmit   K
+- WILCO   I HAVE RECEIVED YOUR SIGNAL, UNDERSTAND IT, AND WILL COMPLY. To be used only by the addressee. Since the meaning of ROGER is included in that of WILCO, the two prowords are never used together.
+- OUT   This is the end of my transmission to you and no answer is required or expected.   AR
+- CQ   General call to all stations   CQ
+- OUT TO YOU   This is the end of my transmission to you. I am about to call (or resume a call) with other station(s).   AR
+- WAIT   I must pause for a few seconds   AS
+- WAIT – OUT   I must pause for longer than a few seconds.   AS AR
+- FIGURES   Numerals or numbers follow.   n/a
+- I SPELL   I shall spell the next word phonetically.   n/a
+- SPEAK SLOWER   Your transmission is too fast. Reduce speed of transmission.   QRS
+- WORD AFTER   The word of the message to which I have reference is that which follows..............   WA
+- WORD BEFORE   The word of the message to which I have reference is that which precedes..............   WB
+- ALL AFTER   The portion of the message to which I have reference is all that follows...............   AA
+- ALL BEFORE   The portion of the message to which I have reference is all that precedes..............   AB
+- SAY AGAIN   Repeat all of your last transmission. Followed by identification data means "Repeat………… (portion indicated)."   IMI?
+- I SAY AGAIN   I am repeating transmission or portion indicated.   IMI
+- CORRECTION   An error has been made in this transmission. Transmission will continue with the last word correctly transmitted.
 
 An error has been made in this transmission (or message indicated). The correct version is...... That which follows is a corrected version in answer to your request for verification"
 
 EEEEEEEEC C
-- CORRECT  Yes, affirmative, you are correct, or what you have transmitted is correct. Because AFFIRMATIVE could be confused with NEGATIVE, always use CORRECT instead of YES or AFFIRMATIVE.  C
-- NEGATIVE  No, or negative.  ZUG (military)
+- CORRECT   Yes, affirmative, you are correct, or what you have transmitted is correct. Because AFFIRMATIVE could be confused with NEGATIVE, always use CORRECT instead of YES or AFFIRMATIVE.   C
+- NEGATIVE   No, or negative.   ZUG (military)
 
 N (civilian)
 
-- WRONG  Your last transmission was incorrect. The correct version is.......  ZWF
-- DISREGARD THIS TRANSMISSION – OUT  This transmission is in error, disregard it. (This proword shall not be used to cancel any message that has been completely transmitted and receipted.)  EEEEEEEE AR
-- REQUEST TIME CHECK  I am requesting an accurate time check.  INT ZUA (military)
+- WRONG   Your last transmission was incorrect. The correct version is.......   ZWF
+- DISREGARD THIS TRANSMISSION – OUT   This transmission is in error, disregard it. (This proword shall not be used to cancel any message that has been completely transmitted and receipted.)   EEEEEEEE AR
+- REQUEST TIME CHECK   I am requesting an accurate time check.   INT ZUA (military)
 
 QTR IMI (civilian)
 
-- TIME CHECK  I am about to confirm the exact time
-- TIME  The time I am transmitting is exact as at the moment I said TIME  ZUA
+- TIME CHECK   I am about to confirm the exact time
+- TIME   The time I am transmitting is exact as at the moment I said TIME   ZUA
 
 (military) QTR
 
 (civilian)
 
-- INTERCO  International Code of Signals groups follow (spoken IN-TER-CO)  INTERCO
+- INTERCO   International Code of Signals groups follow (spoken IN-TER-CO)   INTERCO
 
 #### Radio checks
 
@@ -415,31 +415,31 @@ Whenever an operator is transmitting and uncertain of how good their radio and/o
 
 The prowords listed below are for use when initiating and answering queries concerning signal strength and readability.
 
-- Proword  Meaning
-- RADIO CHECK  What is my signal strength and readability?
-- ROGER  I have received your last transmission satisfactorily.
-- NOTHING HEARD  To be used when no reply is received from a called station.
+- Proword   Meaning
+- RADIO CHECK   What is my signal strength and readability?
+- ROGER   I have received your last transmission satisfactorily.
+- NOTHING HEARD   To be used when no reply is received from a called station.
 
 ##### Signal strength prowords
 
 In the tables below, the mappings of the QSA and QRK Morse code prosigns is interpreted because there is not a 1:1 correlation. See QSA and QRK code for the full procedure specification.
 
-- Proword  Meaning  Prosign/OPSIG
-- LOUD  Your signal is very strong.  QSA5
-- GOOD  Your signal strength is good.  QSA4
-- WEAK  Your signal strength is weak.  QSA3
-- VERY WEAK  Your signal strength is very weak.  QSA2
-- FADING  At times your signal strength fades to such an extent that continuous reception cannot be relied upon.  QSA1 or QSB
+- Proword   Meaning   Prosign/OPSIG
+- LOUD   Your signal is very strong.   QSA5
+- GOOD   Your signal strength is good.   QSA4
+- WEAK   Your signal strength is weak.   QSA3
+- VERY WEAK   Your signal strength is very weak.   QSA2
+- FADING   At times your signal strength fades to such an extent that continuous reception cannot be relied upon.   QSA1 or QSB
 
 ##### Readability prowords
 
-- Proword  Meaning  Prosign/OPSIG
-- CLEAR  The quality of your transmission is excellent.  QRK5
-- READABLE  The quality of your transmission is satisfactory.  QRK4
-- DISTORTED  Having trouble reading you due to distortion.  QRK3
-- WITH INTERFERENCE  Having trouble reading you due to interference.
-- INTERMITTENT  Having trouble reading you because your signal is intermittent.  QRK2
-- UNREADABLE  The quality of your transmission is so bad that I cannot read you.  QRK1
+- Proword   Meaning   Prosign/OPSIG
+- CLEAR   The quality of your transmission is excellent.   QRK5
+- READABLE   The quality of your transmission is satisfactory.   QRK4
+- DISTORTED   Having trouble reading you due to distortion.   QRK3
+- WITH INTERFERENCE   Having trouble reading you due to interference.
+- INTERMITTENT   Having trouble reading you because your signal is intermittent.   QRK2
+- UNREADABLE   The quality of your transmission is so bad that I cannot read you.   QRK1
 
 The reporting format is one of the signal strength prowords followed by an appropriate conjunction, with that followed by one of the readability prowords:
 
@@ -467,48 +467,48 @@ Spelling is necessary when difficult radio conditions prevent the reception of a
 
 When radio conditions are satisfactory and confusion will not arise, numbers in the text of a message may be spoken as in normal speech. During difficult conditions, or when extra care is necessary to avoid misunderstanding, numbers are sent figure by figure preceded by the proword FIGURES. This proword warns that figures follow immediately, to help distinguish them from other similarly pronounced words.
 
-- Letter  Code word
-- A  **Alfa**
-- B  **Bravo**
-- C  **Charlie**
-- D  **Delta**
-- E  **Echo**
-- F  **Foxtrot**
-- G  **Golf**
-- H  **Hotel**
-- I  **India**
-- J  **Juliett**
-- K  **Kilo**
-- L  **Lima**
-- M  **Mike**
-- N  **November**
-- O  **Oscar**
-- P  **Papa**
-- Q  **Quebec**
-- R  **Romeo**
-- S  **Sierra**
-- T  **Tango**
-- U  **Uniform**
-- V  **Victor**
-- W  **Whiskey**
-- X  **X-ray**
-- Y  **Yankee**
-- Z  **Zulu**
+- Letter   Code word
+- A   **Alfa**
+- B   **Bravo**
+- C   **Charlie**
+- D   **Delta**
+- E   **Echo**
+- F   **Foxtrot**
+- G   **Golf**
+- H   **Hotel**
+- I   **India**
+- J   **Juliett**
+- K   **Kilo**
+- L   **Lima**
+- M   **Mike**
+- N   **November**
+- O   **Oscar**
+- P   **Papa**
+- Q   **Quebec**
+- R   **Romeo**
+- S   **Sierra**
+- T   **Tango**
+- U   **Uniform**
+- V   **Victor**
+- W   **Whiskey**
+- X   **X-ray**
+- Y   **Yankee**
+- Z   **Zulu**
 
 ACP 121(I) and ACP 125(G) Punctuation
-- Character  Code word  ICAO and ITU  Abbreviated as
-- .  Full Stop / period  Full stop  PD
-- ,  Comma  Comma  CMM
-- /  Slant/oblique  Slant  Slant
-- -  Hyphen  Hyphen  Hyphen
-- (  Left-hand bracket  Brackets on  Paren
-- )  Right-hand bracket  Brackets off  Unparen
-- :  Colon  Colon  CLN
-- ;  Semi-colon  Semi-colon  SMCLN
-- ?  Question mark  Question mark  Ques
-- "  Open quote  Quote  Quote
-- "  Close quote  Unquote  Unquote
-- .  Decimal  Decimal  Point
+- Character   Code word   ICAO and ITU   Abbreviated as
+- .   Full Stop / period   Full stop   PD
+- ,   Comma   Comma   CMM
+- /   Slant/oblique   Slant   Slant
+- -   Hyphen   Hyphen   Hyphen
+- (   Left-hand bracket   Brackets on   Paren
+- )   Right-hand bracket   Brackets off   Unparen
+- :   Colon   Colon   CLN
+- ;   Semi-colon   Semi-colon   SMCLN
+- ?   Question mark   Question mark   Ques
+- "   Open quote   Quote   Quote
+- "   Close quote   Unquote   Unquote
+- .   Decimal   Decimal   Point
 
 #### Closing down
 
@@ -594,11 +594,11 @@ Instead of providing time checks on an individual basis, the NCS should give adv
 
 When calling stations who are part of a net, a variety of types of calls can be used:
 
-- Call type  Includes  Usage
-- Single call  The call sign of a single station  Used to call a particular station, inviting them, and giving them permission to communicate with NCS
-- Multiple call  A list of two or more individual call signs  Used to request that two or more stations take some action.
-- Collective call  A call to the entire net  An invitation and permission for all stations to check in. The form of a net call on non-military nets.
-- Limited collective call  A call to a portion of the net  A call to a specific subset of the net participants, which may take one of the following forms:
+- Call type   Includes   Usage
+- Single call   The call sign of a single station   Used to call a particular station, inviting them, and giving them permission to communicate with NCS
+- Multiple call   A list of two or more individual call signs   Used to request that two or more stations take some action.
+- Collective call   A call to the entire net   An invitation and permission for all stations to check in. The form of a net call on non-military nets.
+- Limited collective call   A call to a portion of the net   A call to a specific subset of the net participants, which may take one of the following forms:
 
 - All stations with emergency traffic or priority message traffic
 - All stations with message traffic
@@ -606,52 +606,52 @@ When calling stations who are part of a net, a variety of types of calls can be 
 - All stations with a call sign suffix in a specified range (common in Amateur radio nets)
 - All stations in a geographic region
 
-- Net call  The call sign of the net  A specific form of a collective call, used mainly in military nets, to indicate that the NCS is calling all stations. The first use of this is a very abbreviated form of requesting stations to check-in to the net.
-- Exempt call  Multiple stations  A collective call where one or more stations are not required (or not even permitted) to respond, based on prior arrangement. A common feature in military net procedures.
-- Selcall  One or multiple stations  An automatic method of selectively calling other stations, using DTMF codes or other signalling. On military radios, a selcall will typically cause all radios the selcall was addressed to provide an audible or visual alert, decreasing the odds that any particular operator will miss the call.
+- Net call   The call sign of the net   A specific form of a collective call, used mainly in military nets, to indicate that the NCS is calling all stations. The first use of this is a very abbreviated form of requesting stations to check-in to the net.
+- Exempt call   Multiple stations   A collective call where one or more stations are not required (or not even permitted) to respond, based on prior arrangement. A common feature in military net procedures.
+- Selcall   One or multiple stations   An automatic method of selectively calling other stations, using DTMF codes or other signalling. On military radios, a selcall will typically cause all radios the selcall was addressed to provide an audible or visual alert, decreasing the odds that any particular operator will miss the call.
 
 #### Types of radio nets
 
 The Civil Air Patrol and International Amateur Radio Union define a number of different nets which represent the typical type and range used in civilian radio communications:
 
-- Type  Usage
-- **Command and Control (C2) Nets**  For conveying messages and information between different locations and levels of command. This is where formal messages are exchanged, so it serves the same purpose as an IARU Traffic net.
-- **Tactical Net**  A Tactical Net is established whenever a requirement exists to coordinate the actions of deployed units in a mobile or portable environment. The primary purpose is to support deployed units, and it would generally be conducted from an Incident Command Post
-- **Liaison Nets**  Anytime the host of the net is involved with other agencies.
-- **Contingency Nets**  Communications managers at each level have the authority to initiate stand-by nets, placing radio stations within their span of control on alert to be available for developing conditions that may result in event activity.
-- **Training Net**  Communication managers may establish nets for training purposes, such as to teach radio procedures to novice operators, or new skills and procedures to more advanced operators.
-- **Resource net**  Used for incoming operators to receive assignments, and to be reassigned as needs changed. Can also be used to locate equipment and operators with special skills. More than one resource net may be created in large-scale events if the traffic warrants.
-- **Logistics net**  A type of resource net specifically tasked with logistical needs separate from those of the communications teams.
-- **Tactical net**  Handle the primary on-site emergency communication.
-- **Information net**  Used to disseminate official bulletins, answer general questions, etc.
-- **Traffic net**  Handles formal written messages (radiograms)
-- **Health and Welfare (H&W) net**  A Traffic Net that handles messages among those people impacted by or in the vicinity of a disaster and their friends and family living outside the disaster zone. These nets usually handle messages between concerned friends, families and persons within and outside of the disaster area where legally permitted. In Amateur radio, these nets are conducted with the National Traffic System and exchange ARRL Radiograms.
-- Maritime broadcast communications net  A radio net used by boats when in distress or assisting another vessel in distress.
+- Type   Usage
+- **Command and Control (C2) Nets**   For conveying messages and information between different locations and levels of command. This is where formal messages are exchanged, so it serves the same purpose as an IARU Traffic net.
+- **Tactical Net**   A Tactical Net is established whenever a requirement exists to coordinate the actions of deployed units in a mobile or portable environment. The primary purpose is to support deployed units, and it would generally be conducted from an Incident Command Post
+- **Liaison Nets**   Anytime the host of the net is involved with other agencies.
+- **Contingency Nets**   Communications managers at each level have the authority to initiate stand-by nets, placing radio stations within their span of control on alert to be available for developing conditions that may result in event activity.
+- **Training Net**   Communication managers may establish nets for training purposes, such as to teach radio procedures to novice operators, or new skills and procedures to more advanced operators.
+- **Resource net**   Used for incoming operators to receive assignments, and to be reassigned as needs changed. Can also be used to locate equipment and operators with special skills. More than one resource net may be created in large-scale events if the traffic warrants.
+- **Logistics net**   A type of resource net specifically tasked with logistical needs separate from those of the communications teams.
+- **Tactical net**   Handle the primary on-site emergency communication.
+- **Information net**   Used to disseminate official bulletins, answer general questions, etc.
+- **Traffic net**   Handles formal written messages (radiograms)
+- **Health and Welfare (H&W) net**   A Traffic Net that handles messages among those people impacted by or in the vicinity of a disaster and their friends and family living outside the disaster zone. These nets usually handle messages between concerned friends, families and persons within and outside of the disaster area where legally permitted. In Amateur radio, these nets are conducted with the National Traffic System and exchange ARRL Radiograms.
+- Maritime broadcast communications net   A radio net used by boats when in distress or assisting another vessel in distress.
 
 #### Radio net procedure words
 
 U.S. Army Field Manual ACP 125(G) has the most complete set of procedure words used in radio nets:
 
-- Proword  Explanation  Prosign/ OPSIG
-- NET NOW  All stations are to net their radios on the unmodulated carrier wave which I am about to transmit.  ZRC2
-- THIS IS A DIRECTED NET  From now until further notice this net is directed.  ZKB
-- THIS IS A FREE NET  From now until further notice this net is free.  ZUG ZKB
-- BROADCAST YOUR NET  Link the two nets under your control for automatic rebroadcast
-- STOP BROADCASTING  Cut the automatic link between the two nets that are being rebroadcast and revert to normal working.
-- REBROADCAST YOUR NET  Commence automatic rebroadcasting of your other net onto this frequency
-- STOP REBROADCASTING  Cease rebroadcasting your other net onto this frequency  QRT
-- ASSUME CONTROL  You will assume control of this net until further notice  ZKD
-- I AM ASSUMING CONTROL  I am assuming control of this net until further notice  ZKA
-- REPORTING INTO THE NET  Calling station is joining an established net or returning after having been closed down.
-- REPORT STRENGTH AND READABILITY  Report to me how you are receiving all other stations on the net
-- ANSWER AFTER  The station called is to answer after call sign........when answering transmissions.  ZGO
-- USE ABBREVIATED CALL SIGNS  Call signs are to be abbreviated until further notice.
-- USE FULL CALL SIGNS  Call signs are to be sent in full until further notice.
-- USE ABBREVIATED PROCEDURE  As conditions are normal, all stations are to use abbreviated procedure until further notice.
-- USE FULL PROCEDURE  As conditions are not normal, all stations are to use full procedure until further notice.
-- SILENCE (Repeated three or more times)  Cease transmissions on this net immediately. Silence will be maintained until lifted. (Transmissions must be authenticated by use of a self authenticated system, codeword, etc.)  HM HM HM
-- SILENCE LIFTED  Silence is lifted. (Transmissions must be authenticated by means of self authentication system, codeword, etc.)  ZUG HM HM HM
-- CLOSE DOWN  Stations are to close down when indicated. Acknowledgments are required  ZKJ
+- Proword   Explanation   Prosign/ OPSIG
+- NET NOW   All stations are to net their radios on the unmodulated carrier wave which I am about to transmit.   ZRC2
+- THIS IS A DIRECTED NET   From now until further notice this net is directed.   ZKB
+- THIS IS A FREE NET   From now until further notice this net is free.   ZUG ZKB
+- BROADCAST YOUR NET   Link the two nets under your control for automatic rebroadcast
+- STOP BROADCASTING   Cut the automatic link between the two nets that are being rebroadcast and revert to normal working.
+- REBROADCAST YOUR NET   Commence automatic rebroadcasting of your other net onto this frequency
+- STOP REBROADCASTING   Cease rebroadcasting your other net onto this frequency   QRT
+- ASSUME CONTROL   You will assume control of this net until further notice   ZKD
+- I AM ASSUMING CONTROL   I am assuming control of this net until further notice   ZKA
+- REPORTING INTO THE NET   Calling station is joining an established net or returning after having been closed down.
+- REPORT STRENGTH AND READABILITY   Report to me how you are receiving all other stations on the net
+- ANSWER AFTER   The station called is to answer after call sign........when answering transmissions.   ZGO
+- USE ABBREVIATED CALL SIGNS   Call signs are to be abbreviated until further notice.
+- USE FULL CALL SIGNS   Call signs are to be sent in full until further notice.
+- USE ABBREVIATED PROCEDURE   As conditions are normal, all stations are to use abbreviated procedure until further notice.
+- USE FULL PROCEDURE   As conditions are not normal, all stations are to use full procedure until further notice.
+- SILENCE (Repeated three or more times)   Cease transmissions on this net immediately. Silence will be maintained until lifted. (Transmissions must be authenticated by use of a self authenticated system, codeword, etc.)   HM HM HM
+- SILENCE LIFTED   Silence is lifted. (Transmissions must be authenticated by means of self authentication system, codeword, etc.)   ZUG HM HM HM
+- CLOSE DOWN   Stations are to close down when indicated. Acknowledgments are required   ZKJ
 
 ### Example usage
 

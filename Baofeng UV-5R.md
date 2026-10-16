@@ -2,23 +2,23 @@
 
 - Baofeng UV-5R
 - Technical data
-- Frequency range  65–108.0 MHz (Rx)  
+- Frequency range   65–108.0 MHz (Rx)  
 136–174 MHz  
 400–520 MHz
-- Frequency steps  2.5–50k Hz
-- Transmitter power output  5 W PEP
-- Waveforms (modulations)  FM  
+- Frequency steps   2.5–50k Hz
+- Transmitter power output   5 W PEP
+- Waveforms (modulations)   FM  
 - modulation rate
-- Power input  Receiver only 20 mA, Transmitter 1 A max.
-- Operating voltage  6.5 – 8.5 V, Nominal voltage 7.2 V
+- Power input   Receiver only 20 mA, Transmitter 1 A max.
+- Operating voltage   6.5 – 8.5 V, Nominal voltage 7.2 V
 - Measurements and weight
-- Height  95 mm (265 mm with antenna)
-- Width  55 mm
-- Depth  30 mm
-- Weight  approx. 400 grams
+- Height   95 mm (265 mm with antenna)
+- Width   55 mm
+- Depth   30 mm
+- Weight   approx. 400 grams
 - Further information
-- Producer  [Baofeng](Baofeng%20%28company%29.md)
-- Scope of application  radio amateurs, (semi-) professional users
+- Producer   [Baofeng](Baofeng%20%28company%29.md)
+- Scope of application   radio amateurs, (semi-) professional users
 
 The **Baofeng UV-5R** is a [handheld radio transceiver](Walkie-talkie.md) manufactured by the Chinese manufacturer [Baofeng](Baofeng%20%28company%29.md). This model was the first dual band radio (VHF/UHF) to be successfully distributed by a Chinese brand. It is inexpensive and relatively simple to use. Because of this, it is used by [radio amateurs](Amateur%20radio%20operator.md), outdoorsmen and professional users worldwide, outputting about a 1-5 watt FM signal.
 

@@ -6,7 +6,8 @@ APRS data is typically transmitted on a single shared frequency (depending on co
 
 APRS was developed from the late 1980s forward by Bob Bruninga, [call sign](Call%20sign.md) WB4APR, a senior research engineer at the United States Naval Academy. He maintained the main APRS web site until his death in 2022. The initialism "APRS" was derived from his call sign.
 
-In March 2022 the APRS Foundation was formed as a not-for-profit with the objective of "[...] preservation and advancement of the Automatic Packet Reporting System (APRS) digital communications protocol."  
+In March 2022 the APRS Foundation was formed as a not-for-profit with the objective of "[...] preservation and advancement of the Automatic Packet Reporting System (APRS) digital communications protocol."
+
 ### Network overview
 
 APRS is a digital communications protocol for exchanging information among a large number of stations covering a large (local) area, often referred to as "IP-ers". As a multi-user data network, it is quite different from conventional [packet radio](Packet%20radio.md). Rather than using connected data streams where stations connect to each other and packets are acknowledged and retransmitted if lost, APRS operates entirely in an unconnected broadcast fashion, using unnumbered [AX.25](AX.25.md) frames.

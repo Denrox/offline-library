@@ -61,223 +61,223 @@ Improvements in radio technology later meant that the channel spacing could be r
 Channels 75 and 76 are omitted as they are either side of the calling and distress channel 16, acting as guard channels. The frequencies which would have been the second frequencies on half-duplex channels are not used for marine purposes and can be used for other purposes that vary by country. For example, 161.000 to 161.450 MHz are part of the allocation to the Association of American Railroads channels used by railways in the US and Canada.
 
 - Channel  
-number  Frequencies (MHz)   United Kingdom   United States   Canada   Australia   New Zealand   Finland   Europe CEPT Mediterranean countries  
-(sea, ocean)   Belgium  
+number   Frequencies (MHz)    United Kingdom    United States    Canada    Australia    New Zealand    Finland    Europe CEPT Mediterranean countries  
+(sea, ocean)    Belgium  
 France  
 Germany  
 Netherlands  
 Rhine: main stem, river, canal, lake, pond, estuary
-- A  Ship tx, usually   B  Shore tx, usually
-- 0 156.000 160.600  Private, coast guard  A
-- 1 156.050 160.650    Ship-to-ship/shore, commercial and safety  
+- A  Ship tx, usually    B  Shore tx, usually
+- 0  156.000  160.600   Private, coast guard  A
+- 1  156.050  160.650      Ship-to-ship/shore, commercial and safety  
 West Coast  A  
 Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways.. (ship-to-shore full-duplex)  
-- 2 156.100 160.700      Public  
-BC Coast      Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  
+- 2  156.100  160.700         Public  
+BC Coast         Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways.. (ship-to-shore full-duplex)
-- 3 156.150 160.750     A  Illegal for public use  Public  
-BC Coast/Inland    Boat to Boat – Kawau  Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks, Customs Coast Guard, search and rescue  
+- 3  156.150  160.750       A  Illegal for public use   Public  
+BC Coast/Inland      Boat to Boat – Kawau   Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks, Customs Coast Guard, search and rescue  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways. (ship-to-shore full-duplex)
-- 4 156.200 160.800      Ship-to-ship/shore, commercial and safety  
+- 4  156.200  160.800         Ship-to-ship/shore, commercial and safety  
 East Coast and Inland  A  
 Canadian Coast Guard – Search & Rescue  
 BC Coast  A
 
-Boat to boat Tutukaka/Raglan  Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), independent radio networks, customs, coast guard, search and rescue  
+Boat to boat Tutukaka/Raglan   Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks, customs, coast guard, search and rescue  
 Public correspondence (ship-to-shore full-duplex), independent radio networks
-- 5 156.250 160.850    Commercial Vessels for Check In to VTS  A         Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), independent radio networks, authorities responsible  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 6 156.300 156.300  Ship-to-ship and ship-to-air  A     Ship-to-ship and ship-to-air  A   Distress ship-to-air  Inter-ship working   A  Ship-to-ship (commercial)  
-also SAR: Ship-to-ship and ship-to-air   A  Ship-to-ship and ship-to-air  Ship-to-ship (limited to 1 watt) and ship-to-air
-- 7 156.350 160.950      General working channel      Public correspondence (ship-to-shore full-duplex)  
-port operations  Navy  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 8 156.400 156.400  Ship-to-ship  A     Ship-to-ship  
+- 5  156.250  160.850      Commercial Vessels for Check In to VTS  A             Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks, authorities responsible   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 6  156.300  156.300   Ship-to-ship and ship-to-air  A       Ship-to-ship and ship-to-air  A    Distress ship-to-air   Inter-ship working    A  Ship-to-ship (commercial)  
+also SAR: Ship-to-ship and ship-to-air    A  Ship-to-ship and ship-to-air   Ship-to-ship (limited to 1 watt) and ship-to-air
+- 7  156.350  160.950         General working channel         Public correspondence (ship-to-shore full-duplex)  
+port operations   Navy   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 8  156.400  156.400   Ship-to-ship  A       Ship-to-ship  
 East and west coasts,  
-Lake Winnipeg  A   Inter-ship working  Inter-ship working   A  Ship-to-ship (commercial)   A  Ship-to-ship   A  Ship-to-ship (limited to 1 watt)
-- 9 156.450 156.450  Frequently used by pilots  A   Calling  A , commercial and non-commercial.  Ship-to-air for maritime support  
-Atlantic and BC coasts  A   Pilots, port operations  Port operations   A  VTS  
-Ship-to-ship + port operations  Marina pilots, marina operations, ship in a marina  Marina pilots, marina operations, ship in a marina, limited to 1 watt
-- 10 156.500 156.500  Frequently used by HM Coastguard  A     Ship-to-air – SAR and antipollution  A  
-General working – Atlantic and BC coasts, Great Lakes    Port operations   A  Ship-to-ship  
+Lake Winnipeg  A    Inter-ship working   Inter-ship working    A  Ship-to-ship (commercial)    A  Ship-to-ship    A  Ship-to-ship (limited to 1 watt)
+- 9  156.450  156.450   Frequently used by pilots  A    Calling  A , commercial and non-commercial.   Ship-to-air for maritime support  
+Atlantic and BC coasts  A    Pilots, port operations   Port operations    A  VTS  
+Ship-to-ship + port operations   Marina pilots, marina operations, ship in a marina   Marina pilots, marina operations, ship in a marina, limited to 1 watt
+- 10  156.500  156.500   Frequently used by HM Coastguard  A       Ship-to-air – SAR and antipollution  A  
+General working – Atlantic and BC coasts, Great Lakes      Port operations    A  Ship-to-ship  
 port operations  
 also SAR and oil cleanup  
-only VTS on Gulf of Finland  International waters ship-to-ship; customs, coast guard, navy  Calling; ship-to-ship; customs, on-board working, limited to 1 watt; distress, safety, and calling
-- 11 156.550 156.550  Port operations    Vessel Traffic Services – BC coast    Port operations   A  port operations, also the Saimaa Canal locks  Navy  Port operations
-- 12 156.600 156.600  Port operations  VTS – San Francisco offshore  
-Pilotage  A   Vessel Traffic Services – BC coast  Port operations, VTS  Port operations   A  port operations  Commercial port operations, fishing port operations, pilots, ship in a fishing port, ship in a commercial port
-- 13 156.650 156.650  Bridge-to-bridge working  A   Bridge-to-bridge safety  A : Vessels > 20m must maintain watch, Tx limited to 1 watt. Movable bridge / lock operations.  VTS – BC coast  
-Bridge-to-bridge safety  A   Port operations, VTS  Intership Nav Safety   A  Pilots  
+only VTS on Gulf of Finland   International waters ship-to-ship; customs, coast guard, navy   Calling; ship-to-ship; customs, on-board working, limited to 1 watt; distress, safety, and calling
+- 11  156.550  156.550   Port operations      Vessel Traffic Services – BC coast      Port operations    A  port operations, also the Saimaa Canal locks   Navy   Port operations
+- 12  156.600  156.600   Port operations   VTS – San Francisco offshore  
+Pilotage  A    Vessel Traffic Services – BC coast   Port operations, VTS   Port operations    A  port operations   Commercial port operations, fishing port operations, pilots, ship in a fishing port, ship in a commercial port
+- 13  156.650  156.650   Bridge-to-bridge working  A    Bridge-to-bridge safety  A : Vessels > 20m must maintain watch, Tx limited to 1 watt. Movable bridge / lock operations.   VTS – BC coast  
+Bridge-to-bridge safety  A    Port operations, VTS   Intership Nav Safety    A  Pilots  
 Ship-to-ship  
-port operations  Port operations, coast guard  Ship-to-ship (limited to 1 watt)
-- 14 156.700 156.700  Port operations  VTS – San Francisco bay and delta  
-Pilotage  A   VTS – BC coast  
-Port and pilot ops  A     Port operations   A  Working channel for SAR authorities, Turku Radio  
-(port operations)  Port operations, navy  Port operations
-- 15 156.750 156.750   A  On-board working, limited to 1 watt           A  max. 1 W  
+port operations   Port operations, coast guard   Ship-to-ship (limited to 1 watt)
+- 14  156.700  156.700   Port operations   VTS – San Francisco bay and delta  
+Pilotage  A    VTS – BC coast  
+Port and pilot ops  A       Port operations    A  Working channel for SAR authorities, Turku Radio  
+(port operations)   Port operations, navy   Port operations
+- 15  156.750  156.750    A  On-board working, limited to 1 watt                A  max. 1 W  
 Intraship  
 Ship-to-ship  
-port operations  Beach monitoring  Radiocommunications on board a ship or in a group of boats towed or pushed, as well as those concerning the instructions for the maneuver bullish and docking, limited to 1 watt
-- **[16](Channel%2016%20VHF.md)** 156.800 156.800  **International distress, safety and calling  A **  
-All vessels equipped with VHF must maintain watch.  Estuary (16 + 10). Not used on: main stem, river, canal, lake, pond.
-- 17 156.850 156.850   A  On-board working    BC Coast Pilots    Aquatic sports events   A  max. 1 W  
+port operations   Beach monitoring   Radiocommunications on board a ship or in a group of boats towed or pushed, as well as those concerning the instructions for the maneuver bullish and docking, limited to 1 watt
+- **[16](Channel%2016%20VHF.md)**  156.800  156.800   **International distress, safety and calling  A **  
+All vessels equipped with VHF must maintain watch.   Estuary (16 + 10). Not used on: main stem, river, canal, lake, pond.
+- 17  156.850  156.850    A  On-board working      BC Coast Pilots      Aquatic sports events    A  max. 1 W  
 Intraship  
 Ship-to-ship  
-port operations  Port operations, navy, Maritime Gendarmerie  Radiocommunications on board a ship or in a group of boats towed or pushed, as well as those concerning the instructions for the maneuver bullish and docking. (limited to 1 watt)
-- 18 156.900 161.500            Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  
+port operations   Port operations, navy, Maritime Gendarmerie   Radiocommunications on board a ship or in a group of boats towed or pushed, as well as those concerning the instructions for the maneuver bullish and docking. (limited to 1 watt)
+- 18  156.900  161.500                  Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 19 156.950 161.550    Landside facilities: harbormaster, marinas.  Canadian Coast Guard working channel      Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 20 157.000 161.600        Repeater operations  Continuous weather  
-Maritime Safety Service  Public correspondence (ship-to-shore full-duplex)  
-port operations  Port operations, Public correspondence (ship-to-shore full-duplex)  
+- 19  156.950  161.550      Landside facilities: harbormaster, marinas.   Canadian Coast Guard working channel         Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 20  157.000  161.600            Repeater operations   Continuous weather  
+Maritime Safety Service   Public correspondence (ship-to-shore full-duplex)  
+port operations   Port operations, Public correspondence (ship-to-shore full-duplex)  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex),  
 (limited to 1 watt Paris Underground canal)
-- 21 157.050 161.650     A  U.S. Coast Guard only  Continuous marine broadcasts  B  
-(WX 8)    Continuous weather  
-Maritime Safety Service  Public correspondence (ship-to-shore full-duplex)  
-port operations  Port operations
-- 22 157.100 161.700     A  U.S. Coast Guard public working channel   A  Canadian Coast Guard working channel    Continuous weather  
-Maritime Safety Service  Public correspondence (ship-to-shore full-duplex)  
-port operations  Port operations, public correspondence (ship-to-shore full-duplex)  
+- 21  157.050  161.650       A  U.S. Coast Guard only   Continuous marine broadcasts  B  
+(WX 8)      Continuous weather  
+Maritime Safety Service   Public correspondence (ship-to-shore full-duplex)  
+port operations   Port operations
+- 22  157.100  161.700       A  U.S. Coast Guard public working channel    A  Canadian Coast Guard working channel      Continuous weather  
+Maritime Safety Service   Public correspondence (ship-to-shore full-duplex)  
+port operations   Port operations, public correspondence (ship-to-shore full-duplex)  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 23 157.150 161.750  HM Coastguard Maritime Safety Information: now on 62, 63, 64.   A  U.S. Coast Guard Only      Continuous weather  
-Maritime Safety Service  Public correspondence (ship-to-shore full-duplex)  
-port operations  Port operations, Public correspondence (ship-to-shore full-duplex)  
+- 23  157.150  161.750   HM Coastguard Maritime Safety Information: now on 62, 63, 64.    A  U.S. Coast Guard Only         Continuous weather  
+Maritime Safety Service   Public correspondence (ship-to-shore full-duplex)  
+port operations   Port operations, Public correspondence (ship-to-shore full-duplex)  
 Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex), Independent radio networks
-- 24 157.200 161.800  UKSAR G/A Winching  A  
-UKSAR TWC  B           Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 25 157.250 161.850          Maritime radio working channel  Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 26 157.300 161.900  HM Coastguard Maritime Safety Information  Public correspondence (marine telephone operator)  Canadian Coast Guard Duplex – Public Correspondence      Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 27 157.350 161.950            Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 28 157.400 162.000            Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 31 157.550 162.150                (The Netherlands) Marina channel  
+- 24  157.200  161.800   UKSAR G/A Winching  A  
+UKSAR TWC  B                Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 25  157.250  161.850               Maritime radio working channel   Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 26  157.300  161.900   HM Coastguard Maritime Safety Information   Public correspondence (marine telephone operator)   Canadian Coast Guard Duplex – Public Correspondence         Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 27  157.350  161.950                  Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 28  157.400  162.000                  Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 31  157.550  162.150                        (The Netherlands) Marina channel  
 public correspondence (ship-to-shore full-duplex)
-- M1/37A 157.850 157.850  (As M1) Yacht clubs, race committees and marinas
-- 60 156.025 160.625            GOFREP on Gulf of Finland  
+- M1/37A  157.850  157.850   (As M1) Yacht clubs, race committees and marinas
+- 60  156.025  160.625                  GOFREP on Gulf of Finland  
 public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 61 156.075 160.675     A  Illegal for public use        GOFREP (Estonia) on Gulf of Finland  
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 61  156.075  160.675       A  Illegal for public use            GOFREP (Estonia) on Gulf of Finland  
 Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 62 156.125 160.725  HM Coastguard Maritime Safety Information        Boat to boat – Waiheke/Whangaroa  Public correspondence (ship-to-shore full-duplex)  
-port operations  Public correspondence (ship-to-shore full-duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 63 156.175 160.775  HM Coastguard Maritime Safety Information (half-duplex)        Boat to boat – Manukau  Public correspondence (ship-to-shore full-duplex)  
-port operations  Coast Guard, port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 64 156.225 160.825  HM Coastguard Maritime Safety Information (half-duplex)   A  Illegal for public use        Public correspondence (ship-to-shore full-duplex)  
-port operations  Coast Guard, port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
-- 65 156.275 160.875  National Coastwatch Institution (NCI) and Independent Coastwatch Stations (http://www.seasafetygroup.org) Working Channel for communication with local mariners for radio checks and local sea conditions. Effective 1 March 2021.    Marine assistance working channel    Boat to boat – Coromandel  Public correspondence (ship-to-shore full-duplex)  
-port operations  Coast Guard, port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 66 156.325 160.925       A  BC coast marinas      Public correspondence (ship-to-shore duplex)  
-port operations  Public correspondence (ship-to-shore duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 67 156.375 156.375  UK Small Ship Safety Channel      Working Channel, Marine Weather  Maritime radio working channel   A  VTS  
-(Ship-to-ship + port operations)  Coast Guard  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 68 156.425 156.425    Non-commercial  A       Maritime radio working channel
+port operations   Public correspondence (ship-to-shore full-duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 62  156.125  160.725   HM Coastguard Maritime Safety Information            Boat to boat – Waiheke/Whangaroa   Public correspondence (ship-to-shore full-duplex)  
+port operations   Public correspondence (ship-to-shore full-duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 63  156.175  160.775   HM Coastguard Maritime Safety Information (half-duplex)            Boat to boat – Manukau   Public correspondence (ship-to-shore full-duplex)  
+port operations   Coast Guard, port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 64  156.225  160.825   HM Coastguard Maritime Safety Information (half-duplex)    A  Illegal for public use            Public correspondence (ship-to-shore full-duplex)  
+port operations   Coast Guard, port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore full-duplex)
+- 65  156.275  160.875   National Coastwatch Institution (NCI) and Independent Coastwatch Stations (http://www.seasafetygroup.org) Working Channel for communication with local mariners for radio checks and local sea conditions. Effective 1 March 2021.      Marine assistance working channel      Boat to boat – Coromandel   Public correspondence (ship-to-shore full-duplex)  
+port operations   Coast Guard, port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 66  156.325  160.925          A  BC coast marinas         Public correspondence (ship-to-shore duplex)  
+port operations   Public correspondence (ship-to-shore duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 67  156.375  156.375   UK Small Ship Safety Channel         Working Channel, Marine Weather   Maritime radio working channel    A  VTS  
+(Ship-to-ship + port operations)   Coast Guard   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 68  156.425  156.425      Non-commercial  A          Maritime radio working channel
 
 A  port operations, border guard authorities,
 
 Also some yacht clubs and marinas
 
-Coast Guard  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 69 156.475 156.475  Port operations  Non-commercial  A     Australian Navy  Maritime radio working channel  
-surf lifesaving   A  Ship-to-ship  
-port operations  Navy  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 70 156.525 156.525  Digital Selective Calling  A   Not used on: main stem, river, canal, lake, pond.
-- 71 156.575 156.575  Port operations  Non-commercial  A   Vessel Traffic Services – BC Coast    Maritime radio working channel   A  VTS  
-(ship-to-ship + port operations) port operations  Navy  Port operations
-- 72 156.625 156.625  Ship-to-ship  A Frequently used by leisure craft  Non-commercial ship-to-ship  A   Ship-to-ship       A  Ship-to-ship  
-Ship-to-air   A  Ship-to-ship, communications with a social (ship)   A  Ship-to-ship, communications with a social (ship) (limited to 1 watt)
-- 73 156.675 156.675  HM Coastguard Safety Broadcasts
+Coast Guard   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 69  156.475  156.475   Port operations   Non-commercial  A       Australian Navy   Maritime radio working channel  
+surf lifesaving    A  Ship-to-ship  
+port operations   Navy   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 70  156.525  156.525   Digital Selective Calling  A    Not used on: main stem, river, canal, lake, pond.
+- 71  156.575  156.575   Port operations   Non-commercial  A    Vessel Traffic Services – BC Coast      Maritime radio working channel    A  VTS  
+(ship-to-ship + port operations) port operations   Navy   Port operations
+- 72  156.625  156.625   Ship-to-ship  A Frequently used by leisure craft   Non-commercial ship-to-ship  A    Ship-to-ship          A  Ship-to-ship  
+Ship-to-air    A  Ship-to-ship, communications with a social (ship)    A  Ship-to-ship, communications with a social (ship) (limited to 1 watt)
+- 73  156.675  156.675   HM Coastguard Safety Broadcasts
 
 Backup Small Ship Safety
 
-Ship-to-ship  Marinas working   A  Ship-to-ship  
+Ship-to-ship   Marinas working    A  Ship-to-ship  
   
 Ship-to-air  
-(port operations)  Port operations, Navy  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 74 156.725 156.725  British Waterways/Canal and River Trust Channel (Canal and River System)
+(port operations)   Port operations, Navy   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 74  156.725  156.725   British Waterways/Canal and River Trust Channel (Canal and River System)
 
 port operations
 
-Vessel Traffic Services – BC Coast  Ship-to-ship  Coast/Ship working   A  port operations  Port operations, navy, Maritime Gendarmerie  Port operations
-- 75 156.775 156.775  Navigation related communications, limited to 1 watt           A Restricted  
+Vessel Traffic Services – BC Coast   Ship-to-ship   Coast/Ship working    A  port operations   Port operations, navy, Maritime Gendarmerie   Port operations
+- 75  156.775  156.775   Navigation related communications, limited to 1 watt                A Restricted  
 ship-to-ship  
-port operations   A Restricted  
+port operations    A Restricted  
 ship-to-ship  
-port operations, (limited to 1 watt)  Port operations
-- 76 156.825 156.825             A  Restricted  
-port operations   A Restricted  
+port operations, (limited to 1 watt)   Port operations
+- 76  156.825  156.825                   A  Restricted  
+port operations    A Restricted  
 ship-to-ship  
-port operations, (limited to 1 watt)  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 77 156.875 156.875  Ship-to-ship  A       Ship-to-ship     A  Ship-to-ship   A  Ship-to-ship, communications with a social (ship)   A  Ship-to-ship, communications with a social (ship), limited to 1 watt
-- 78 156.925 161.525    Non-commercial  A         Public correspondence (ship-to-shore duplex)  
-port operations  Public correspondence (ship-to-shore duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 79 156.975 161.575            Public correspondence (ship-to-shore duplex)  
-port operations  Customs, coast guard, search and rescue, port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 80 157.025 161.625  UK marina channel      Repeater operations  Coastguard radio working channel  GOFREP on Gulf of Finland  
+port operations, (limited to 1 watt)   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 77  156.875  156.875   Ship-to-ship  A          Ship-to-ship       A  Ship-to-ship    A  Ship-to-ship, communications with a social (ship)    A  Ship-to-ship, communications with a social (ship), limited to 1 watt
+- 78  156.925  161.525      Non-commercial  A             Public correspondence (ship-to-shore duplex)  
+port operations   Public correspondence (ship-to-shore duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 79  156.975  161.575                  Public correspondence (ship-to-shore duplex)  
+port operations   Customs, coast guard, search and rescue, port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 80  157.025  161.625   UK marina channel         Repeater operations   Coastguard radio working channel   GOFREP on Gulf of Finland  
 public correspondence (ship-to-shore duplex)  
-port operations  Customs, Coast Guard, search and rescue, port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 81 157.075 161.675     A  U.S. Government Use Only    Repeater Operations  Coastguard radio working channel  GOFREP (Estonia) on Gulf of Finland  
+port operations   Customs, Coast Guard, search and rescue, port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 81  157.075  161.675       A  U.S. Government Use Only      Repeater Operations   Coastguard radio working channel   GOFREP (Estonia) on Gulf of Finland  
 public correspondence (ship-to-shore duplex)  
-port operations  Public correspondence (ship-to-shore duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 82 157.125 161.725     A  U.S. Government use only   A  Canadian Coast Guard working channel    Coastguard radio working channel  Public correspondence (ship-to-shore duplex)  
-port operations  Port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 83 157.175 161.775     A  U.S. Coast Guard use only   A  Canadian Coast Guard working channel      Public correspondence (ship-to-shore duplex)  
-port operations  Public correspondence (ship-to-shore duplex)  
-port operations  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 84 157.225 161.825  HM Coastguard Maritime Safety Information: now on 62, 63, 64.    Canadian Coast Guard Duplex – Public Correspondence    Coastguard radio working channel  Public correspondence (ship-to-shore duplex)  
-port operations  Public correspondence (ship-to-shore duplex), Independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 85 157.275 161.875  UKSAR TWC (half-duplex)    Radio telephone – full duplex    Coastguard radio working channel  Public correspondence (ship-to-shore duplex)  
-port operations  Navy  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 86 157.325 161.925  HM Coastguard Maritime Safety Information: now on 62, 63, 64.        Coastguard radio working channel  Public correspondence (ship-to-shore duplex)  
-port operations  Navy  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 87 157.375 157.375            Public correspondence  
-port operations  Public correspondence (ship-to-shore duplex), independent radio networks, customs, Coast Guard, search and rescue  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- 88 157.425 157.425            Commercial, inter-ship only  Public correspondence (ship-to-shore duplex), independent radio networks  Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
-- M2/P4 161.425 161.425  (As M2) Yacht clubs, race committees and marinas              (As P4) In France, some yacht clubs, marinas and race committees
-- AIS 1 161.975 161.975  Automatic Identification System  A  B
-- AIS 2 162.025 162.025  Automatic Identification System  A  B
-- L1 155.500 155.500
+port operations   Public correspondence (ship-to-shore duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 82  157.125  161.725       A  U.S. Government use only    A  Canadian Coast Guard working channel      Coastguard radio working channel   Public correspondence (ship-to-shore duplex)  
+port operations   Port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 83  157.175  161.775       A  U.S. Coast Guard use only    A  Canadian Coast Guard working channel         Public correspondence (ship-to-shore duplex)  
+port operations   Public correspondence (ship-to-shore duplex)  
+port operations   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 84  157.225  161.825   HM Coastguard Maritime Safety Information: now on 62, 63, 64.      Canadian Coast Guard Duplex – Public Correspondence      Coastguard radio working channel   Public correspondence (ship-to-shore duplex)  
+port operations   Public correspondence (ship-to-shore duplex), Independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 85  157.275  161.875   UKSAR TWC (half-duplex)      Radio telephone – full duplex      Coastguard radio working channel   Public correspondence (ship-to-shore duplex)  
+port operations   Navy   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 86  157.325  161.925   HM Coastguard Maritime Safety Information: now on 62, 63, 64.            Coastguard radio working channel   Public correspondence (ship-to-shore duplex)  
+port operations   Navy   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 87  157.375  157.375                  Public correspondence  
+port operations   Public correspondence (ship-to-shore duplex), independent radio networks, customs, Coast Guard, search and rescue   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- 88  157.425  157.425                  Commercial, inter-ship only   Public correspondence (ship-to-shore duplex), independent radio networks   Radiotelephone links between ship stations and land stations of the authorities responsible for the operation of inland waterways (ship-to-shore duplex)
+- M2/P4  161.425  161.425   (As M2) Yacht clubs, race committees and marinas                     (As P4) In France, some yacht clubs, marinas and race committees
+- AIS 1  161.975  161.975   Automatic Identification System  A  B
+- AIS 2  162.025  162.025   Automatic Identification System  A  B
+- L1  155.500  155.500
 
 Leisure activities
 
 (Ship-to-ship) Used in the Nordic countries and Estonia
 
-- L2  155.525  155.525
+- L2   155.525   155.525
 
 Leisure activities
 
 (Ship-to-ship) Used in the Nordic countries and Estonia
 
-- L3 155.650 155.650
+- L3  155.650  155.650
 
 Leisure activities
 
 (Ship-to-ship) Used in Finland and Norway
 
-- F1 155.625 155.625
+- F1  155.625  155.625
 
 Fishing
 
 (Ship-to-ship) Used in the Nordic countries
 
-- F2  155.775  155.775
+- F2   155.775   155.775
 
 Fishing
 
 (Ship-to-ship) Used in the Nordic countries
 
-- F3  155.825  155.825
+- F3   155.825   155.825
 
 Fishing, also recreational fishing
 

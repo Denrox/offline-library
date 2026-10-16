@@ -12,78 +12,78 @@ Although a few abbreviations (such as **SX** for "dollar") are carried over from
 
 The following Table of Morse code abbreviations and further references to [Brevity codes](Brevity%20code.md) such as 92 Code, [Q code](Q%20code.md), Z code, and [R-S-T system](R-S-T%20system.md) serve to facilitate fast and efficient Morse code communications.  
 Table of selected Morse code abbreviations
-- Abbreviation  Meaning  Defined in  Type of abbreviation
-- **AA** ...  All after (used after question mark to request a repetition)  ITU-R M.1172  operating signal
-- **AB** ...  All before (similarly)  ITU-R M.1172  operating signal
-- **ADRS**  Address  ITU-T Rec. F.1  operating signal
-- **ADS**  Address  ITU-R M.1172  operating signal
-- **AGN**  Again    operating signal
-- **ANT**  Antenna
-- AR  End of transmission.  ITU-R M.1172  operating signal
-- AS  Wait    operating signal
-- **BK**  Break (to pause transmission of a message, say)  ITU-R M.1172  operating signal
-- **BN** ... ...  All between  ITU-R M.1172  operating signal
-- **C**  Yes; correct; affirmative    operating signal
-- **CFM**  Confirm  ITU-R M.1172  operating signal
-- **CK**  Check
-- **CL**  Closing (I am closing my station)  ITU-R M.1172  operating signal
-- **CP** ... ...  Calling several stations (followed by the call signs of two or more stations, e.g. **CP T4SRJ C5ADK** for "calling stations T4SRJ and C5ADK")    operating signal
-- **CQ**  Calling (calling all stations / any station) (do not follow with **PLS** or **PSE**; see **LID**)  ITU-R M.1172  operating signal
-- **CQD**  All stations distress (used prior to replacement by **SOS** to let all operators know of an impending distress signal)    operating signal
-- **CS** ...  Calling station (followed by the call sign of a particular station, e.g. **CS F3TL** for "calling station F3TL")  ITU-R M.1172  operating signal
-- **CS?**  What call sign? (used with "?" to request a contact's call sign)  ITU-R M.1172  operating signal
-- **DE** ...  From (or "this is")  ITU-R M.1172  operating signal
-- **DX**  Long distance, foreign countries (sometimes refers to long distance contact)
-- **ES**  And /  **[&** ] / also / *et*  American Morse code
-- **FB**  Good (literal abbr. "fine business")  Amateur radio slang; suspected euphemism
-- **FM** ...  From (see **DE**)    operating signal
-- **FWD**  Forward
-- **I I**  I say again; I repeat; ditto; alt. European: "<station> out".
-- **K**  Invitation to transmit  ITU-R M.1172, ITU-R M.1677-1  operating signal
-- KN  Over to you; only the previously named station should respond (e.g. after **K6PCH DE W1AW** KN ; only station K6PCH should reply to W1AW)  ITU-R M.1677-1  operating signal
-- **LID**  Poor operator (derogatory)  Wire telegraph slang, same as **PLUG**
-- **MSG**  Prefix indicating a message to or from the master of a ship concerning its operation or navigation  ITU-R M.1172
-- **N**  No; nine
-- **NIL**  I have nothing to send you  ITU-R M.1172
-- **NR** ... ...  Number follows    operating signal
-- **OK**  Okay  ITU-R M.1172, ITU-T Rec. F.1  operating signal
-- **OM**  Old Man (any male radio operator or male spouse of radio operator, both regardless of age)  Amateur radio slang
-- **PLS**  Please (not appropriate after **CQ**; see **LID**)  ITU-T Rec. F.1
-- **PPR**  Paper  ITU-T Rec. F.1
-- **PSE**  Please  ITU-R M.1172
-- **PX**  Prefix
-- **R**  Received as transmitted (origin of "Roger")  ITU-T Rec. F.1  operating signal
-- **RX**  Receiver / Receive
-- **RPT**  Report / Repeat please / I repeat as follows  ITU-R M.1172, ITU-T Rec. F.1
-- **RSN**  Readability (1-5) / Strength (1-9) / Noise (1-9)  Not yet in widespread use
-- [**RST**](R-S-T%20system.md) ... ... ...  Signal report format ([Readability / Signal Strength / Tone](R-S-T%20system.md))  In universal amateur radio use  operating signal
-- **SFR**  So far (proword)
-- **SIG**  Signature  ITU-T Rec. F.1
-- SK  Out (prosign), end of contact    operating signal
-- **SK**  Silent Key (a deceased radio amateur)  Amateur radio slang; from SK, the last signal received from a radio contact
-- **SVP**  Please (French: *"S'il vous plaît"*)  ITU-T Rec. F.1
-- **SX**  Dollars  Phillips Code
-- **THX**  Thanks, Thank You
-- **TU**  Thank You
-- **TX**  Transmitter / Transmit
-- **W**  Word / Words  ITU-T Rec. F.1
-- **WA** ...  Word after  ITU-R M.1172  operating signal
-- **WB** ...  Word before  ITU-R M.1172  operating signal
-- **WC**  Wilco; "Will comply"    operating signal
-- **WD**  Word / Words  ITU-R M.1172
-- **WX** ... ... ...  Weather / Weather report follows  ITU-R M.1172
-- **XCVR**  [Transceiver](Transceiver.md)
-- **XYL**  Former Young Lady (female spouse of radio operator, regardless of age)  Amateur radio slang
-- **YL**  Young Lady (any female radio operator, regardless of age)  Amateur radio slang
-- **Z** ... ... ... ...  Zulu time i.e. UTC    operating signal
-- **161**  Best regards + Love and kisses; used on **YL** networks as a sign-off    sum of two 92 Codes
-- **30**  No more; this is the end; finished  Not used in radiotelegraphy  92 Code
-- **72**  Best regards  Amateur radio slang. While [operating QRP](QRP%20operation.md) / low power  92 Code
-- **73**  Best regards    92 Code
-- **75**  Derogatory term for a disliked operator (Referring to 75 meter ham band)  Amateur radio slang, USA only
-- **77**  Long Live CW (Morse Code), wishing you many happy CW contacts
-- **88**  Love and kisses    92 Code
-- **99**  Get lost!
+- Abbreviation   Meaning   Defined in   Type of abbreviation
+- **AA** ...   All after (used after question mark to request a repetition)   ITU-R M.1172   operating signal
+- **AB** ...   All before (similarly)   ITU-R M.1172   operating signal
+- **ADRS**   Address   ITU-T Rec. F.1   operating signal
+- **ADS**   Address   ITU-R M.1172   operating signal
+- **AGN**   Again      operating signal
+- **ANT**   Antenna
+- AR   End of transmission.   ITU-R M.1172   operating signal
+- AS   Wait      operating signal
+- **BK**   Break (to pause transmission of a message, say)   ITU-R M.1172   operating signal
+- **BN** ... ...   All between   ITU-R M.1172   operating signal
+- **C**   Yes; correct; affirmative      operating signal
+- **CFM**   Confirm   ITU-R M.1172   operating signal
+- **CK**   Check
+- **CL**   Closing (I am closing my station)   ITU-R M.1172   operating signal
+- **CP** ... ...   Calling several stations (followed by the call signs of two or more stations, e.g. **CP T4SRJ C5ADK** for "calling stations T4SRJ and C5ADK")      operating signal
+- **CQ**   Calling (calling all stations / any station) (do not follow with **PLS** or **PSE**; see **LID**)   ITU-R M.1172   operating signal
+- **CQD**   All stations distress (used prior to replacement by **SOS** to let all operators know of an impending distress signal)      operating signal
+- **CS** ...   Calling station (followed by the call sign of a particular station, e.g. **CS F3TL** for "calling station F3TL")   ITU-R M.1172   operating signal
+- **CS?**   What call sign? (used with "?" to request a contact's call sign)   ITU-R M.1172   operating signal
+- **DE** ...   From (or "this is")   ITU-R M.1172   operating signal
+- **DX**   Long distance, foreign countries (sometimes refers to long distance contact)
+- **ES**   And /  **[&** ] / also / *et*   American Morse code
+- **FB**   Good (literal abbr. "fine business")   Amateur radio slang; suspected euphemism
+- **FM** ...   From (see **DE**)      operating signal
+- **FWD**   Forward
+- **I I**   I say again; I repeat; ditto; alt. European: "<station> out".
+- **K**   Invitation to transmit   ITU-R M.1172, ITU-R M.1677-1   operating signal
+- KN   Over to you; only the previously named station should respond (e.g. after **K6PCH DE W1AW** KN ; only station K6PCH should reply to W1AW)   ITU-R M.1677-1   operating signal
+- **LID**   Poor operator (derogatory)   Wire telegraph slang, same as **PLUG**
+- **MSG**   Prefix indicating a message to or from the master of a ship concerning its operation or navigation   ITU-R M.1172
+- **N**   No; nine
+- **NIL**   I have nothing to send you   ITU-R M.1172
+- **NR** ... ...   Number follows      operating signal
+- **OK**   Okay   ITU-R M.1172, ITU-T Rec. F.1   operating signal
+- **OM**   Old Man (any male radio operator or male spouse of radio operator, both regardless of age)   Amateur radio slang
+- **PLS**   Please (not appropriate after **CQ**; see **LID**)   ITU-T Rec. F.1
+- **PPR**   Paper   ITU-T Rec. F.1
+- **PSE**   Please   ITU-R M.1172
+- **PX**   Prefix
+- **R**   Received as transmitted (origin of "Roger")   ITU-T Rec. F.1   operating signal
+- **RX**   Receiver / Receive
+- **RPT**   Report / Repeat please / I repeat as follows   ITU-R M.1172, ITU-T Rec. F.1
+- **RSN**   Readability (1-5) / Strength (1-9) / Noise (1-9)   Not yet in widespread use
+- [**RST**](R-S-T%20system.md) ... ... ...   Signal report format ([Readability / Signal Strength / Tone](R-S-T%20system.md))   In universal amateur radio use   operating signal
+- **SFR**   So far (proword)
+- **SIG**   Signature   ITU-T Rec. F.1
+- SK   Out (prosign), end of contact      operating signal
+- **SK**   Silent Key (a deceased radio amateur)   Amateur radio slang; from SK, the last signal received from a radio contact
+- **SVP**   Please (French: *"S'il vous plaît"*)   ITU-T Rec. F.1
+- **SX**   Dollars   Phillips Code
+- **THX**   Thanks, Thank You
+- **TU**   Thank You
+- **TX**   Transmitter / Transmit
+- **W**   Word / Words   ITU-T Rec. F.1
+- **WA** ...   Word after   ITU-R M.1172   operating signal
+- **WB** ...   Word before   ITU-R M.1172   operating signal
+- **WC**   Wilco; "Will comply"      operating signal
+- **WD**   Word / Words   ITU-R M.1172
+- **WX** ... ... ...   Weather / Weather report follows   ITU-R M.1172
+- **XCVR**   [Transceiver](Transceiver.md)
+- **XYL**   Former Young Lady (female spouse of radio operator, regardless of age)   Amateur radio slang
+- **YL**   Young Lady (any female radio operator, regardless of age)   Amateur radio slang
+- **Z** ... ... ... ...   Zulu time i.e. UTC      operating signal
+- **161**   Best regards + Love and kisses; used on **YL** networks as a sign-off      sum of two 92 Codes
+- **30**   No more; this is the end; finished   Not used in radiotelegraphy   92 Code
+- **72**   Best regards   Amateur radio slang. While [operating QRP](QRP%20operation.md) / low power   92 Code
+- **73**   Best regards      92 Code
+- **75**   Derogatory term for a disliked operator (Referring to 75 meter ham band)   Amateur radio slang, USA only
+- **77**   Long Live CW (Morse Code), wishing you many happy CW contacts
+- **88**   Love and kisses      92 Code
+- **99**   Get lost!
 
 ### An amateur radio Morse code conversation example
 

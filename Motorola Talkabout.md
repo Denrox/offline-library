@@ -8,7 +8,7 @@ Talkabout T42 radio (PMR446 network), released c. 2019
 - Manufacturer [Motorola Solutions](Motorola%20Solutions.md) (formerly Motorola until the company's 2011 split)
 - Type [Two-way radios](Two-way%20radio.md)
 - Lifespan 1997–present
-- Connectivity FRS, GMRS, [PMR446](PMR446.md)
+- Connectivity [FRS](Family%20Radio%20Service.md), GMRS, [PMR446](PMR446.md)
 
 The **Motorola Talkabout** (stylized **TALKABOUT**), also sold as **Motorola TLKR** in some regions, are a line of consumer-oriented walkie-talkies produced by [Motorola Solutions](Motorola%20Solutions.md). Operating on license-free networks and designed for families and recreational activities, they have been one of the most successful product lines of two-way radios. It is currently the only consumer-oriented product line of Motorola Solutions; other Motorola consumer products are offered by Motorola Mobility.
 

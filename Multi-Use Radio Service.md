@@ -18,13 +18,13 @@ Any person is authorized to use the MURS frequencies given that it:
 
 MURS comprises the following five frequencies:
 
-- Channel  Frequency  Maximum  
-authorized bandwidth  Channel name
-- 1  151.82 MHz  11.25 kHz  MURS 1
-- 2  151.88 MHz  11.25 kHz  MURS 2
-- 3  151.94 MHz  11.25 kHz  MURS 3
-- 4  154.57 MHz  20.00 kHz  Blue Dot
-- 5  154.60 MHz  20.00 kHz  Green Dot
+- Channel   Frequency   Maximum  
+authorized bandwidth   Channel name
+- 1   151.82 MHz   11.25 kHz   MURS 1
+- 2   151.88 MHz   11.25 kHz   MURS 2
+- 3   151.94 MHz   11.25 kHz   MURS 3
+- 4   154.57 MHz   20.00 kHz   Blue Dot
+- 5   154.60 MHz   20.00 kHz   Green Dot
 
 Channels 1–3 must use "narrowband" [frequency modulation](Frequency%20modulation.md) (2.5 kHz deviation; 11.25 kHz bandwidth). Channels 4 and 5 may use either "wideband" FM (5 kHz deviation; 20 kHz bandwidth) or "narrowband" FM. All five channels may use [amplitude modulation](Amplitude%20modulation.md) with a bandwidth up to 8 kHz. MURS falls under part 95 and was not mandated for narrow-banding, such as those of Part 90 in the public service bands by January 2013.
 
@@ -36,16 +36,16 @@ MURS range will vary, depending on antenna size and placement. With an external 
 
 ### Authorized modes
 
-- Designator  Common name
-- A1D  [Amplitude modulation](Amplitude%20modulation.md); on–off keyed or quantized; no modulation; Data, telemetry, telecommand
-- A2B  Amplitude modulation; Digital, with modulation; Telegraphy for machine copy (RTTY, fast Morse)
-- A2D  Amplitude modulation; Digital, with modulation; Data, telemetry, telecommand
-- A3E  Amplitude modulation; Single analog channel; Telephony, voice, sound broadcasting
-- F2B  Angle modulation, straight [FM](Frequency%20modulation.md); Digital, with modulation; Telegraphy for machine copy (RTTY, fast Morse)
-- F1D  Angle modulation, straight FM; on–off keyed or quantized; Data, telemetry, telecommand
-- F2D  Angle modulation, straight FM; Digital, with modulation; Data, telemetry, telecommand
-- F3E  Angle modulation, straight FM; Single analog channel; Telephony, voice, sound broadcasting
-- G3E  Angle modulation, phase modulation; Single analog channel; Telephony, voice, sound broadcasting
+- Designator   Common name
+- A1D   [Amplitude modulation](Amplitude%20modulation.md); on–off keyed or quantized; no modulation; Data, telemetry, telecommand
+- A2B   Amplitude modulation; Digital, with modulation; Telegraphy for machine copy (RTTY, fast Morse)
+- A2D   Amplitude modulation; Digital, with modulation; Data, telemetry, telecommand
+- A3E   Amplitude modulation; Single analog channel; Telephony, voice, sound broadcasting
+- F2B   Angle modulation, straight [FM](Frequency%20modulation.md); Digital, with modulation; Telegraphy for machine copy (RTTY, fast Morse)
+- F1D   Angle modulation, straight FM; on–off keyed or quantized; Data, telemetry, telecommand
+- F2D   Angle modulation, straight FM; Digital, with modulation; Data, telemetry, telecommand
+- F3E   Angle modulation, straight FM; Single analog channel; Telephony, voice, sound broadcasting
+- G3E   Angle modulation, phase modulation; Single analog channel; Telephony, voice, sound broadcasting
 
 ### Permitted areas of operation
 

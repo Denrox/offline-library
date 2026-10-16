@@ -68,24 +68,24 @@ The subject indicator character is used by the receiver to identify different cl
 
 NAVTEX broadcasts use following subject indicator characters:  
   
-- A  Navigational warnings
-- B  Meteorological warnings
-- C  Ice reports
-- D  Search & rescue information, and pirate warnings
-- E  Meteorological forecasts
-- F  Pilot service messages
-- G  AIS messages (formerly Decca messages)
-- H  LORAN messages
-- I  Not used (formerly OMEGA messages)
-- J  SATNAV messages (i.e. GPS or GLONASS)
-- K  Other electronic navaid messages
-- L  Navigational warnings — additional to letter A (Should not be rejected by the receiver)
-- T  Test transmissions (UK only — not official)
-- V  Notice to fishermen (U.S. only — currently not used)
-- W  Environmental (U.S. only — currently not used)
-- X  Special services — allocation by IMO NAVTEX Panel
-- Y  Special services — allocation by IMO NAVTEX Panel
-- Z  No message on hand
+- A   Navigational warnings
+- B   Meteorological warnings
+- C   Ice reports
+- D   Search & rescue information, and pirate warnings
+- E   Meteorological forecasts
+- F   Pilot service messages
+- G   AIS messages (formerly Decca messages)
+- H   LORAN messages
+- I   Not used (formerly OMEGA messages)
+- J   SATNAV messages (i.e. GPS or GLONASS)
+- K   Other electronic navaid messages
+- L   Navigational warnings — additional to letter A (Should not be rejected by the receiver)
+- T   Test transmissions (UK only — not official)
+- V   Notice to fishermen (U.S. only — currently not used)
+- W   Environmental (U.S. only — currently not used)
+- X   Special services — allocation by IMO NAVTEX Panel
+- Y   Special services — allocation by IMO NAVTEX Panel
+- Z   No message on hand
 
 **Note:** Receivers use the B2 character to identify messages which, because of their importance, can **not** be rejected (designated by a ). The subject indicator characters B, F and G are normally not used in the United States since the National Weather Service normally includes meteorological warnings in forecast messages. Meteorological warnings are broadcast using the subject indicator character E. U.S. Coast Guard District Broadcast Notices to Mariners affecting ships outside the line of demarcation, and inside the line of demarcation in areas where deep draft vessels operate, use the subject indicator character A.
 
@@ -109,7 +109,7 @@ The end of the message is asserted when the characters "NNNN" are received.
 
 Each station identifier has a fixed 10-minute time slot, starting with A at 0000 UTC. The time slots are repeated at 4 hour intervals. Within each time slot, a mix of navigation warnings, weather forecasts, ice information and other content may be sent, and this is normally according to a structured plan for that specific station. For example, in the first and third time slot they may decide to transmit navigation warnings, and weather forecasts in the others. Normally each NAVAREA or sub-NAVAREA has only one station at each slot.
 
-Details of all transmitting stations and their schedules may be found at
+Details of all transmitting stations and their schedules may be found at [[1]](http://www.dxinfocentre.com/navtex.htm)
 
 ### NAVTEX receivers
 

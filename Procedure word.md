@@ -246,127 +246,127 @@ From the French word *silence* and *fini (ended)* and indicates that emergency c
 
 ### ACP 125(F)
 
-- Proword  Meaning  Prosign/ OPSIG
-- ACKNOWLEDGE (ACK) An instruction to the addressee that the message must be acknowledged ZEV or QSL
-- ADDRESS GROUP The group that follows is an address group
-- ALL AFTER The portion of the message to which I have reference is all that follows............... AA
-- ALL BEFORE The portion of the message to which I have reference is all that precedes.............. AB
-- ANSWER AFTER The station called is to answer after call sign........when answering transmissions. ZGO
-- ASSUME CONTROL You will assume control of this net until further notice ZKD
-- AUTHENTICATE The station called is to reply to the challenge that follows INT ZNB
-- AUTHENTICATION IS The transmission authentication of this message is..........
-- BREAK I hereby indicate the separation of the text from other portions of the message BT
-- BROADCAST YOUR NET Link the two nets under your control for automatic rebroadcast
-- CALL SIGN The group that follows is a call sign
-- CLOSE DOWN Stations are to close down when indicated. Acknowledgments are required ZKJ
-- CORRECT You are correct, or what you have transmitted is correct. C
-- CORRECTION An error has been made in this transmission. Transmission will continue with the last word correctly transmitted.  
+- Proword   Meaning   Prosign/ OPSIG
+- ACKNOWLEDGE (ACK)  An instruction to the addressee that the message must be acknowledged  ZEV or QSL
+- ADDRESS GROUP  The group that follows is an address group
+- ALL AFTER  The portion of the message to which I have reference is all that follows...............  AA
+- ALL BEFORE  The portion of the message to which I have reference is all that precedes..............  AB
+- ANSWER AFTER  The station called is to answer after call sign........when answering transmissions.  ZGO
+- ASSUME CONTROL  You will assume control of this net until further notice  ZKD
+- AUTHENTICATE  The station called is to reply to the challenge that follows  INT ZNB
+- AUTHENTICATION IS  The transmission authentication of this message is..........
+- BREAK  I hereby indicate the separation of the text from other portions of the message  BT
+- BROADCAST YOUR NET  Link the two nets under your control for automatic rebroadcast
+- CALL SIGN  The group that follows is a call sign
+- CLOSE DOWN  Stations are to close down when indicated. Acknowledgments are required  ZKJ
+- CORRECT  You are correct, or what you have transmitted is correct.  C
+- CORRECTION  An error has been made in this transmission. Transmission will continue with the last word correctly transmitted.  
 An error has been made in this transmission (or message indicated). The correct version is...  
-That which follows is a corrected version in answer to your request for verification" EEEEEEEE  
+That which follows is a corrected version in answer to your request for verification"  EEEEEEEE  
 C  
 C
-- DISREGARD THIS TRANSMISSION – OUT This transmission is in error, disregard it. (This proword shall not be used to cancel any message that has been completely transmitted and received.) EEEEEEEE AR
-- DO NOT ANSWER Stations called are not to answer this call, receipt for this message, or otherwise transmit in connection with this transmission. When this proword is employed, the transmission shall be ended with the proword OUT. F
-- EXECUTE Carry out the purport of the message or signal to which this applies. (To be used only with the Executive Method.) IX-----
-- EXECUTE TO FOLLOW Action on the message or signal that follows is to be carried out upon receipt of the proword EXECUTE. (To be used only with the Delayed Executive Method.) IX
-- EXEMPT The station(s) immediately following is (are) exempted from the collective call or from collective address XMT
-- FIGURES Numerals or numbers follow.
-- FLASH Precedence FLASH. Z
-- FROM The originator of this message is indicated by the address designator immediately following FM
-- GRID The portion following is a grid reference
-- GROUPS This message contains the number of groups indicated by the numeral following. GR
-- GROUP NO COUNT The groups in this message have not been counted. GRNC
-- I AM ASSUMING CONTROL I am assuming control of this net until further notice ZKA
-- I AUTHENTICATE The group that follows is the reply to your challenge to authenticate ZNB
-- IMMEDIATE Precedence IMMEDIATE O
-- IMMEDIATE EXECUTE Action on the message or signal following is to be carried out on receipt of the EXECUTE. (To be used only with the Immediate Executive Method.) IX
-- INFO The addressees immediately following are addressed for information INFO
-- I READ BACK The following is my response to your instructions to read back IRB
-- I SAY AGAIN I am repeating transmission or portion indicated. IMI
-- I SPELL I shall spell the next word phonetically.
-- I VERIFY That which follows has been verified at your request and is repeated. (To be used only as a reply to VERIFY.) C
-- MESSAGE A message that requires recording is about to follow. (Transmitted immediately after the call. This proword is not used on nets primarily employed for conveying messages. It is intended for use when messages are passed on tactical or reporting nets.) ZBO
-- MORE TO FOLLOW Transmitting station has additional traffic for the receiving station. B
-- NEGATIVE (NEGAT) No. Cancel message(s) sent by the Delayed Executive Method. (NEGAT may be used to cancel a single message or a group of messages awaiting execution.) ZUG
-- NET NOW All stations are to net their radios on the unmodulated carrier wave that I am about to transmit. ZRC2
-- NO PLAY During exercises the words NO PLAY are used to distinguish real activity from messages concerned with exercise play e.g. a real emergency or real casualty. The first words of any message is to contain the words exercise (nickname e.g.Red Flag) NO PLAY
-- NOTHING HEARD To be used when no reply is received from a call station. ZGN
-- NUMBER Station serial number. NR
-- OUT This is the end of my transmission to you and no answer is required or expected. AR
-- OVER This is the end of my transmission to you and a response is necessary. Go ahead, transmit K
-- PRIORITY Precedence PRIORITY P
-- READ BACK Repeat this entire transmission back to me exactly as received G
-- REBROADCAST YOUR NET Link the two nets under your control for automatic rebroadcast.
-- RELAY (TO) Transmit this message to all addressees (or addressees immediately following this proword). The address component is mandatory when this proword is used. T or ZOF
-- RELAY THROUGH Relay your message through call sign......... ZOK
-- ROGER This is a method of receipt. I have received your last transmission satisfactorily. R
-- ROUTINE Precedence ROUTINE. R
-- SAY AGAIN Repeat all of your last transmission. Followed by identification data means "Repeat………… (portion indicated).” IMI
-- SEND YOUR I am ready to receive your message, report, etc. K
+- DISREGARD THIS TRANSMISSION – OUT  This transmission is in error, disregard it. (This proword shall not be used to cancel any message that has been completely transmitted and received.)  EEEEEEEE AR
+- DO NOT ANSWER  Stations called are not to answer this call, receipt for this message, or otherwise transmit in connection with this transmission. When this proword is employed, the transmission shall be ended with the proword OUT.  F
+- EXECUTE  Carry out the purport of the message or signal to which this applies. (To be used only with the Executive Method.)  IX-----
+- EXECUTE TO FOLLOW  Action on the message or signal that follows is to be carried out upon receipt of the proword EXECUTE. (To be used only with the Delayed Executive Method.)  IX
+- EXEMPT  The station(s) immediately following is (are) exempted from the collective call or from collective address  XMT
+- FIGURES  Numerals or numbers follow.
+- FLASH  Precedence FLASH.  Z
+- FROM  The originator of this message is indicated by the address designator immediately following  FM
+- GRID  The portion following is a grid reference
+- GROUPS  This message contains the number of groups indicated by the numeral following.  GR
+- GROUP NO COUNT  The groups in this message have not been counted.  GRNC
+- I AM ASSUMING CONTROL  I am assuming control of this net until further notice  ZKA
+- I AUTHENTICATE  The group that follows is the reply to your challenge to authenticate  ZNB
+- IMMEDIATE  Precedence IMMEDIATE  O
+- IMMEDIATE EXECUTE  Action on the message or signal following is to be carried out on receipt of the EXECUTE. (To be used only with the Immediate Executive Method.)  IX
+- INFO  The addressees immediately following are addressed for information  INFO
+- I READ BACK  The following is my response to your instructions to read back  IRB
+- I SAY AGAIN  I am repeating transmission or portion indicated.  IMI
+- I SPELL  I shall spell the next word phonetically.
+- I VERIFY  That which follows has been verified at your request and is repeated. (To be used only as a reply to VERIFY.)  C
+- MESSAGE  A message that requires recording is about to follow. (Transmitted immediately after the call. This proword is not used on nets primarily employed for conveying messages. It is intended for use when messages are passed on tactical or reporting nets.)  ZBO
+- MORE TO FOLLOW  Transmitting station has additional traffic for the receiving station.  B
+- NEGATIVE (NEGAT)  No. Cancel message(s) sent by the Delayed Executive Method. (NEGAT may be used to cancel a single message or a group of messages awaiting execution.)  ZUG
+- NET NOW  All stations are to net their radios on the unmodulated carrier wave that I am about to transmit.  ZRC2
+- NO PLAY  During exercises the words NO PLAY are used to distinguish real activity from messages concerned with exercise play e.g. a real emergency or real casualty. The first words of any message is to contain the words exercise (nickname e.g.Red Flag) NO PLAY
+- NOTHING HEARD  To be used when no reply is received from a call station.  ZGN
+- NUMBER  Station serial number.  NR
+- OUT  This is the end of my transmission to you and no answer is required or expected.  AR
+- OVER  This is the end of my transmission to you and a response is necessary. Go ahead, transmit  K
+- PRIORITY  Precedence PRIORITY  P
+- READ BACK  Repeat this entire transmission back to me exactly as received  G
+- REBROADCAST YOUR NET  Link the two nets under your control for automatic rebroadcast.
+- RELAY (TO)  Transmit this message to all addressees (or addressees immediately following this proword). The address component is mandatory when this proword is used.  T or ZOF
+- RELAY THROUGH  Relay your message through call sign.........  ZOK
+- ROGER  This is a method of receipt. I have received your last transmission satisfactorily.  R
+- ROUTINE  Precedence ROUTINE.  R
+- SAY AGAIN  Repeat all of your last transmission. Followed by identification data means "Repeat………… (portion indicated).”  IMI
+- SEND YOUR  I am ready to receive your message, report, etc.  K
 - (Used only in reply to the offer of a message, etc., on tactical or reporting nets.)
-- SERVICE The message that follows is a SERVICE message SVC
-- SIGNALS The groups that follow are taken from a signal book. (This proword is not used on nets primarily employed for conveying signals. It is intended for use when tactical signals are passed on non-tactical nets.)
-- SILENCE (Repeated three or more times) Cease transmissions on this net immediately. Silence will be maintained until lifted. (Transmissions must be authenticated by use of a self authenticated system, codeword, etc.) HM HM HM
-- SILENCE LIFTED Silence is lifted. (Transmissions must be authenticated by means of self authentication system, codeword, etc.) ZUG HM HM HM
-- SPEAK SLOWER Your transmission is too fast. Reduce speed of transmission. QRS
-- STOP REBROADCASTING Cut the automatic link between the two nets that are being rebroadcast and revert to normal working.
-- THIS IS This transmission is from the station whose designator immediately follows. DE
-- THIS IS A DIRECTED NET From now until further notice this net is directed. ZKB
-- THIS IS A FREE NET From now until further notice this net is free. ZUG ZKB
-- THROUGH ME Relay your message through me ZOE
-- TIME That which immediately follows is the time or datetime group of the message. QTR
-- TO The addressees immediately following are addressed for action TO
-- --TO-- The portion of the message to which I have reference is all that which appears between the groups.........and.........
-- UNKNOWN STATION The identity of the station with whom I am attempting to establish communication is unknown. AA
-- USE ABBREVIATED CALL SIGNS Call signs are to be abbreviated until further notice.
-- USE ABBREVIATED PROCEDURE As conditions are normal, all stations are to use abbreviated procedure until further notice.
-- USE FULL CALL SIGNS Call signs are to be sent in full until further notice
-- USE FULL PROCEDURE As conditions are not normal, all stations are to use full procedure until further notice.
-- VERIFY Verify entire message (or portion indicated) with the originator and send correct version. (To be used only at the discretion of, or by, the addressee to which the questioned message was directed.) J
-- WAIT I must pause for a few seconds AS
-- WAIT – OUT I must pause for longer than a few seconds. AS AR
-- WILCO I have Received your signal, understand it, and will comply.  
+- SERVICE  The message that follows is a SERVICE message  SVC
+- SIGNALS  The groups that follow are taken from a signal book. (This proword is not used on nets primarily employed for conveying signals. It is intended for use when tactical signals are passed on non-tactical nets.)
+- SILENCE (Repeated three or more times)  Cease transmissions on this net immediately. Silence will be maintained until lifted. (Transmissions must be authenticated by use of a self authenticated system, codeword, etc.)  HM HM HM
+- SILENCE LIFTED  Silence is lifted. (Transmissions must be authenticated by means of self authentication system, codeword, etc.)  ZUG HM HM HM
+- SPEAK SLOWER  Your transmission is too fast. Reduce speed of transmission.  QRS
+- STOP REBROADCASTING  Cut the automatic link between the two nets that are being rebroadcast and revert to normal working.
+- THIS IS  This transmission is from the station whose designator immediately follows.  DE
+- THIS IS A DIRECTED NET  From now until further notice this net is directed.  ZKB
+- THIS IS A FREE NET  From now until further notice this net is free.  ZUG ZKB
+- THROUGH ME  Relay your message through me  ZOE
+- TIME  That which immediately follows is the time or datetime group of the message.  QTR
+- TO  The addressees immediately following are addressed for action  TO
+- --TO--  The portion of the message to which I have reference is all that which appears between the groups.........and.........
+- UNKNOWN STATION  The identity of the station with whom I am attempting to establish communication is unknown.  AA
+- USE ABBREVIATED CALL SIGNS  Call signs are to be abbreviated until further notice.
+- USE ABBREVIATED PROCEDURE  As conditions are normal, all stations are to use abbreviated procedure until further notice.
+- USE FULL CALL SIGNS  Call signs are to be sent in full until further notice
+- USE FULL PROCEDURE  As conditions are not normal, all stations are to use full procedure until further notice.
+- VERIFY  Verify entire message (or portion indicated) with the originator and send correct version. (To be used only at the discretion of, or by, the addressee to which the questioned message was directed.)  J
+- WAIT  I must pause for a few seconds  AS
+- WAIT – OUT  I must pause for longer than a few seconds.  AS AR
+- WILCO  I have Received your signal, understand it, and will comply.  
 To be used only by the addressee. Since the meaning of ROGER is included in that of WILCO, the two prowords are never used together.
-- WORD AFTER The word of the message to which I have reference is that which follows.............. WA
-- WORD BEFORE The word of the message to which I have reference is that which precedes.............. WB
-- WORDS TWICE Communication is difficult. Transmit each phrase (or each code group) twice. (This proword may be used as an order, request, or as information.) QSZ
-- WRONG Your last transmission was incorrect. The correct version is....... ZWF
+- WORD AFTER  The word of the message to which I have reference is that which follows..............  WA
+- WORD BEFORE  The word of the message to which I have reference is that which precedes..............  WB
+- WORDS TWICE  Communication is difficult. Transmit each phrase (or each code group) twice. (This proword may be used as an order, request, or as information.)  QSZ
+- WRONG  Your last transmission was incorrect. The correct version is.......  ZWF
 
 ### Aviation radio
 
 More formally known as "Aeronautical Mobile communications", radio communications from and to aircraft are governed by rules created by the International Civil Aviation Organization. ICAO defines a very similar but shorter list of prowords in Annex 10 of its Radiotelephony Procedures (to the Convention on International Civil Aviation). Material in the following table is quoted from their list. ICAO also defines "ICAO Radio Telephony Phraseology".
 
-- Proword  Meaning  Notes
-- **Acknowledge**  Let me know that you have received and understood this message
-- **Affirmative or Affirm**  Yes.
-- **Approved**  Permission for proposed action granted.
-- **Break**  I hereby indicate the separation between portions of the message.
-- **Break Break**  I hereby indicate the separation between messages transmitted to different aircraft in a very busy environment
-- **Cancel**  Annul the previously transmitted clearance
-- **Check**  Examine a system or procedure
-- **Cleared** Authorized to proceed under conditions specified.
-- **Confirm** I request verification of: (clearance, instruction, action information).
-- **Contact** Establish communications with...
-- **Correct** True or Accurate
-- **Correction** An error has been made in this transmission (or message indicated). The correct version is...
-- **Disregard** Ignore
-- **How Do You Read** What is the readability of my transmission
-- **I say again** I repeat for clarity or emphasis.
-- **Monitor** Listen out on (frequency) Often used by terminal controllers when instructing the recipient to tune into a different frequency and listen in, but refrain from creating unnecessary radio traffic.
-- **Negative** "No" or "Permission not granted", or "That is not correct" or "Not capable"
-- **Over** My transmission is ended, and I expect a response from you.
-- **Out** This exchange of transmissions is ended and no response is expected.
-- **Read Back** Repeat all, or the specified part, of this message back to me exactly as received.
-- **Recleared** A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof.
-- **Report** Pass me the following information...
-- **Request** I should like to know...
-- **Roger** I have received all of your last transmission.
-- **Say Again** Repeat all, or the following part, of your last transmission.
-- **Speak Slower** Reduce your rate of speech Normal rate of speech is to never exceed 100 words per minute. This rate is still too fast for most people to write or type, so SPEAK SLOWER means a significant drop.
-- **Standby** Wait and I will call you.
-- **Unable** I cannot comply with your request, instruction, or clearance.
-- **Wilco** I understand your message and will comply with it.
-- **Words Twice** (As a request) Communication is difficult. Please send every word, or group of words, twice.
+- Proword   Meaning   Notes
+- **Acknowledge**   Let me know that you have received and understood this message
+- **Affirmative or Affirm**   Yes.
+- **Approved**   Permission for proposed action granted.
+- **Break**   I hereby indicate the separation between portions of the message.
+- **Break Break**   I hereby indicate the separation between messages transmitted to different aircraft in a very busy environment
+- **Cancel**   Annul the previously transmitted clearance
+- **Check**   Examine a system or procedure
+- **Cleared**  Authorized to proceed under conditions specified.
+- **Confirm**  I request verification of: (clearance, instruction, action information).
+- **Contact**  Establish communications with...
+- **Correct**  True or Accurate
+- **Correction**  An error has been made in this transmission (or message indicated). The correct version is...
+- **Disregard**  Ignore
+- **How Do You Read**  What is the readability of my transmission
+- **I say again**  I repeat for clarity or emphasis.
+- **Monitor**  Listen out on (frequency)  Often used by terminal controllers when instructing the recipient to tune into a different frequency and listen in, but refrain from creating unnecessary radio traffic.
+- **Negative**  "No" or "Permission not granted", or "That is not correct" or "Not capable"
+- **Over**  My transmission is ended, and I expect a response from you.
+- **Out**  This exchange of transmissions is ended and no response is expected.
+- **Read Back**  Repeat all, or the specified part, of this message back to me exactly as received.
+- **Recleared**  A change has been made to your last clearance and this new clearance supersedes your previous clearance or part thereof.
+- **Report**  Pass me the following information...
+- **Request**  I should like to know...
+- **Roger**  I have received all of your last transmission.
+- **Say Again**  Repeat all, or the following part, of your last transmission.
+- **Speak Slower**  Reduce your rate of speech  Normal rate of speech is to never exceed 100 words per minute. This rate is still too fast for most people to write or type, so SPEAK SLOWER means a significant drop.
+- **Standby**  Wait and I will call you.
+- **Unable**  I cannot comply with your request, instruction, or clearance.
+- **Wilco**  I understand your message and will comply with it.
+- **Words Twice**  (As a request) Communication is difficult. Please send every word, or group of words, twice.
 
 ### Marine radio
 

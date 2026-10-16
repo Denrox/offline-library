@@ -30,18 +30,18 @@ A strong signal with signal strength of S8 corresponds to received power of -79 
 
 Some signal generators are calibrated in dB above 1uV and have an output in emf. For example to set an HF receiver's S-reading to S9 set the signal generator output to 34 dB above 1uV
 
-- S-reading  HF    Signal Generator emf
-- μV (rms, Relative to 50Ω)  dBm  dB above 1uV
-- S9+10 dB  160.0  -63  44
-- S9  50.2  -73  34
-- S8  25.1  -79  28
-- S7  12.6  -85  22
-- S6  6.3  -91  16
-- S5  3.2  -97  10
-- S4  1.6  -103  4
-- S3  0.8  -109  -2
-- S2  0.4  -115  -8
-- S1  0.2  -121  -14
+- S-reading   HF      Signal Generator emf
+- μV (rms, Relative to 50Ω)   dBm   dB above 1uV
+- S9+10 dB   160.0   -63   44
+- S9   50.2   -73   34
+- S8   25.1   -79   28
+- S7   12.6   -85   22
+- S6   6.3   -91   16
+- S5   3.2   -97   10
+- S4   1.6   -103   4
+- S3   0.8   -109   -2
+- S2   0.4   -115   -8
+- S1   0.2   -121   -14
 
 ### Accuracy
 

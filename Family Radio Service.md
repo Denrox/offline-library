@@ -36,29 +36,29 @@ Effective September 30, 2019, it became unlawful in the US to import, manufactur
 
 ### List of FRS channels compared to GMRS
 
-- Channel Frequency (MHz) FRS EIRP Restriction GMRS EIRP Restriction
-- 1 462.5625 Up to 2 watts Up to 5 watts
-- 2 462.5875 Up to 2 watts Up to 5 watts
-- 3 462.6125 Up to 2 watts Up to 5 watts
-- 4 462.6375 Up to 2 watts Up to 5 watts
-- 5 462.6625 Up to 2 watts Up to 5 watts
-- 6 462.6875 Up to 2 watts Up to 5 watts
-- 7 462.7125 Up to 2 watts Up to 5 watts
-- 8 467.5625 Up to 0.5 watt Up to 0.5 watt
-- 9 467.5875 Up to 0.5 watt Up to 0.5 watt
-- 10 467.6125 Up to 0.5 watt Up to 0.5 watt
-- 11 467.6375 Up to 0.5 watt Up to 0.5 watt
-- 12 467.6625 Up to 0.5 watt Up to 0.5 watt
-- 13 467.6875 Up to 0.5 watt Up to 0.5 watt
-- 14 467.7125 Up to 0.5 watt Up to 0.5 watt
-- 15 462.5500 Up to 2 watts Up to 50 watts
-- 16 462.5750 Up to 2 watts Up to 50 watts
-- 17 462.6000 Up to 2 watts Up to 50 watts
-- 18 462.6250 Up to 2 watts Up to 50 watts
-- 19 462.6500 Up to 2 watts Up to 50 watts
-- 20 462.6750 Up to 2 watts Up to 50 watts
-- 21 462.7000 Up to 2 watts Up to 50 watts
-- 22 462.7250 Up to 2 watts Up to 50 watts
+- Channel  Frequency (MHz)  FRS EIRP Restriction  GMRS EIRP Restriction
+- 1  462.5625  Up to 2 watts  Up to 5 watts
+- 2  462.5875  Up to 2 watts  Up to 5 watts
+- 3  462.6125  Up to 2 watts  Up to 5 watts
+- 4  462.6375  Up to 2 watts  Up to 5 watts
+- 5  462.6625  Up to 2 watts  Up to 5 watts
+- 6  462.6875  Up to 2 watts  Up to 5 watts
+- 7  462.7125  Up to 2 watts  Up to 5 watts
+- 8  467.5625  Up to 0.5 watt  Up to 0.5 watt
+- 9  467.5875  Up to 0.5 watt  Up to 0.5 watt
+- 10  467.6125  Up to 0.5 watt  Up to 0.5 watt
+- 11  467.6375  Up to 0.5 watt  Up to 0.5 watt
+- 12  467.6625  Up to 0.5 watt  Up to 0.5 watt
+- 13  467.6875  Up to 0.5 watt  Up to 0.5 watt
+- 14  467.7125  Up to 0.5 watt  Up to 0.5 watt
+- 15  462.5500  Up to 2 watts  Up to 50 watts
+- 16  462.5750  Up to 2 watts  Up to 50 watts
+- 17  462.6000  Up to 2 watts  Up to 50 watts
+- 18  462.6250  Up to 2 watts  Up to 50 watts
+- 19  462.6500  Up to 2 watts  Up to 50 watts
+- 20  462.6750  Up to 2 watts  Up to 50 watts
+- 21  462.7000  Up to 2 watts  Up to 50 watts
+- 22  462.7250  Up to 2 watts  Up to 50 watts
 
 - GMRS has other exclusive channels for repeater input
 - No FRS unit shall exceed 0.5 watt ERP (Effective Radiated Power) on channels 8–14. FRS Channels 15-22 are shared with GMRS also under 2 watt ERP limit. However, if the device includes any of the following channels (467.5500, 467.5750, 467.6000, 467.6250, 467.6500, 467.6750, 467.7000, and 467.7250 MHz) a GMRS license is required. Benefits of a GMRS license include the ability to use repeaters, run higher power (up to 50 watts), and utilize external antennas, which result in much greater communication distances.

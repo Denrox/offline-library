@@ -1,22 +1,22 @@
 # R-187 Azart
 
 - **R-187-P1** *"**Azart"***
-- Type  Handheld tactical radio
+- Type   Handheld tactical radio
 - Service History
-- In service  since 2014
-- Used by  Russian Armed Forces,
+- In service   since 2014
+- Used by   Russian Armed Forces,
 
 Russian public safety agencies
 
-- Wars  Syrian Civil War, Russo-Ukrainian War
+- Wars   Syrian Civil War, Russo-Ukrainian War
 - Production history
-- Manufacturer  NPO Angstrem
-- Production years  2014 - ongoing
+- Manufacturer   NPO Angstrem
+- Production years   2014 - ongoing
 - Specifications
-- Frequency range  27-520 MHz
-- Transmit power  up to 4 watts
-- Modes  analog voice, digital voice and data
-- Weight  466 g (w/o battery and antenna)
+- Frequency range   27-520 MHz
+- Transmit power   up to 4 watts
+- Modes   analog voice, digital voice and data
+- Weight   466 g (w/o battery and antenna)
 
 The **R-187** "**Azart**" (Russian: Р-187 "Азарт", *"Excitement"*) is a Russian tactical and public safety [handheld radio](Walkie-talkie.md) developed and produced by NPO Angstrem for the Russian Ministry of Defense. It is a component of the Ratnik infantry combat system.
 

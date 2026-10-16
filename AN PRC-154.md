@@ -1,29 +1,29 @@
 # AN/PRC-154
 
 - *AN/PRC-154*
-- Type  Handheld tactical radio
+- Type   Handheld tactical radio
 - Service History
-- In service  2012-
-- Used by  United States Army
+- In service   2012-
+- Used by   United States Army
 - Production history
-- Manufacturer  General Dynamics
+- Manufacturer   General Dynamics
 
 Thales
 
-- Production years  2011-
-- Number produced  >21,000
+- Production years   2011-
+- Number produced   >21,000
 - Specifications
-- Frequency range  UHF: 225-450MHz,
+- Frequency range   UHF: 225-450MHz,
 
 L-Band: 1250-1390MHz, 1755-1850MHz
 
-- Transmit power  up to 5 watts
-- Modes  digital voice, digital data
-- Encryption  154: NSA Type 2 (unclassified)
+- Transmit power   up to 5 watts
+- Modes   digital voice, digital data
+- Encryption   154: NSA Type 2 (unclassified)
 
 154A: NSA Type 1 (up to Secret)
 
-- Battery life  >9 hrs
+- Battery life   >9 hrs
 
 The **AN/PRC-154Rifleman Radio** is a handheld, intra-squad tactical radio used by the U.S. Army. It is intended to be employed by all members of a rifle squad not traditionally equipped with their own radio, thus enabling team and squad leaders to communicate with their subordinates from a distance. The 154 is capable of both voice and data traffic and is compatible with the Nett Warrior device for transmitting text messages, reports, and imagery.
 

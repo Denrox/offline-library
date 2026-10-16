@@ -58,30 +58,30 @@ The first spacecraft mock-up of this design was built in the garage workshop in 
 
 The 95 satellites were launched over twenty-two missions (nine missions in 1997, ten in 1998, one in 1999 and two in 2002). One extra mission on Chang Zheng was a payload test and did not carry any actual satellites.
 
-- Launch date  Launch site  Launch vehicle  Satellite number (at launch)
-- 1997-05-05  Vandenberg  Delta II 7920-10C  4, 5, 6, 7, 8
-- 1997-06-18  Baikonur  Proton-K/17S40  9, 10, 11, 12, 13, 14, 16
-- 1997-07-09  Vandenberg  Delta II 7920-10C  15, 17, 18, 20, 21
-- 1997-08-21  Vandenberg  Delta II 7920-10C  22, 23, 24, 25, 26
-- 1997-09-01  Taiyuan  Chang Zheng 2C-III/SD  *Iridium payload test / no satellite*
-- 1997-09-14  Baikonur  Proton-K/17S40  27, 28, 29, 30, 31, 32, 33
-- 1997-09-27  Vandenberg  Delta II 7920-10C  19, 34, 35, 36, 37
-- 1997-11-09  Vandenberg  Delta II 7920-10C  38, 39, 40, 41, 43
-- 1997-12-08  Taiyuan  Chang Zheng 2C-III/SD  42, 44
-- 1997-12-20  Vandenberg  Delta II 7920-10C  45, 46, 47, 48, 49
-- 1998-02-18  Vandenberg  Delta II 7920-10C  50, 52, 53, 54, 56
-- 1998-03-25  Taiyuan  Chang Zheng 2C-III/SD  51, 61
-- 1998-03-30  Vandenberg  Delta II 7920-10C  55, 57, 58, 59, 60
-- 1998-04-07  Baikonur  Proton-K/17S40  62, 63, 64, 65, 66, 67, 68
-- 1998-05-02  Taiyuan  Chang Zheng 2C-III/SD  69, 71
-- 1998-05-17  Vandenberg  Delta II 7920-10C  70, 72, 73, 74, 75
-- 1998-08-19  Taiyuan  Chang Zheng 2C-III/SD  3, 76
-- 1998-09-08  Vandenberg  Delta II 7920-10C  77, 79, 80, 81, 82
-- 1998-11-06  Vandenberg  Delta II 7920-10C  2, 83, 84, 85, 86
-- 1998-12-19  Taiyuan  Chang Zheng 2C-III/SD  11a, 20a
-- 1999-06-11  Taiyuan  Chang Zheng 2C-III/SD  14a, 21a
-- 2002-02-11  Vandenberg  Delta II 7920-10C  90, 91, 94, 95, 96
-- 2002-06-20  Plesetsk  Rokot/Briz-KM  97, 98
+- Launch date   Launch site   Launch vehicle   Satellite number (at launch)
+- 1997-05-05   Vandenberg   Delta II 7920-10C   4, 5, 6, 7, 8
+- 1997-06-18   Baikonur   Proton-K/17S40   9, 10, 11, 12, 13, 14, 16
+- 1997-07-09   Vandenberg   Delta II 7920-10C   15, 17, 18, 20, 21
+- 1997-08-21   Vandenberg   Delta II 7920-10C   22, 23, 24, 25, 26
+- 1997-09-01   Taiyuan   Chang Zheng 2C-III/SD   *Iridium payload test / no satellite*
+- 1997-09-14   Baikonur   Proton-K/17S40   27, 28, 29, 30, 31, 32, 33
+- 1997-09-27   Vandenberg   Delta II 7920-10C   19, 34, 35, 36, 37
+- 1997-11-09   Vandenberg   Delta II 7920-10C   38, 39, 40, 41, 43
+- 1997-12-08   Taiyuan   Chang Zheng 2C-III/SD   42, 44
+- 1997-12-20   Vandenberg   Delta II 7920-10C   45, 46, 47, 48, 49
+- 1998-02-18   Vandenberg   Delta II 7920-10C   50, 52, 53, 54, 56
+- 1998-03-25   Taiyuan   Chang Zheng 2C-III/SD   51, 61
+- 1998-03-30   Vandenberg   Delta II 7920-10C   55, 57, 58, 59, 60
+- 1998-04-07   Baikonur   Proton-K/17S40   62, 63, 64, 65, 66, 67, 68
+- 1998-05-02   Taiyuan   Chang Zheng 2C-III/SD   69, 71
+- 1998-05-17   Vandenberg   Delta II 7920-10C   70, 72, 73, 74, 75
+- 1998-08-19   Taiyuan   Chang Zheng 2C-III/SD   3, 76
+- 1998-09-08   Vandenberg   Delta II 7920-10C   77, 79, 80, 81, 82
+- 1998-11-06   Vandenberg   Delta II 7920-10C   2, 83, 84, 85, 86
+- 1998-12-19   Taiyuan   Chang Zheng 2C-III/SD   11a, 20a
+- 1999-06-11   Taiyuan   Chang Zheng 2C-III/SD   14a, 21a
+- 2002-02-11   Vandenberg   Delta II 7920-10C   90, 91, 94, 95, 96
+- 2002-06-20   Plesetsk   Rokot/Briz-KM   97, 98
 
 **^** Iridium satellite number changed over time following failure and replacement.
 
@@ -113,16 +113,16 @@ Iridium NEXT launch plans originally included launch of satellites on both Ukrai
 
 At the time of the launch of the first batch, the second flight of ten satellites was planned to launch only three months later in April 2017. However, in a February 15 statement, Iridium said that SpaceX pushed back the launch of its second batch of Iridium NEXT satellites from mid-April to mid-June 2017. This second launch, which occurred on June 25, 2017, delivered another ten Iridium NEXT satellites to low Earth orbit (LEO) on a SpaceX Falcon 9 rocket. A third launch, which occurred on October 9, 2017, delivered another ten satellites to LEO, as planned. The Iridium NEXT IV mission launched with ten satellites on December 23, 2017. The fifth mission, Iridium NEXT V, launched with ten satellites on March 30, 2018. The sixth launch on May 22, 2018, sent another 5 satellites into LEO. The penultimate Iridium NEXT launch occurred on July 25, 2018, launching another 10 Iridium NEXT satellites. The final ten NEXT satellites launched on January 11, 2019. Of the six additional spare satellites five have been launched on 20 May 2023 while the last one, Iridium 101, is still on the ground.
 
-- Launch date  Launch site  Launch vehicle  Satellite numbers (at launch)
-- 2017-01-14  Vandenberg  Falcon 9 FT  102, 103, 104, 105, 106, 108, 109, 111, 112, 114
-- 2017-06-25  Vandenberg  Falcon 9 FT  113, 115, 117, 118, 120, 121, 123, 124, 126, 128
-- 2017-10-09  Vandenberg  Falcon 9 B4  100, 107, 119, 122, 125, 129, 132, 133, 136, 139
-- 2017-12-23  Vandenberg  Falcon 9 FT  116, 130, 131, 134, 135, 137, 138, 141, 151, 153
-- 2018-03-30  Vandenberg  Falcon 9 B4  140, 142, 143, 144, 145, 146, 148, 149, 150, 157
-- 2018-05-22  Vandenberg  Falcon 9 B4  110, 147, 152, 161, 162
-- 2018-07-25  Vandenberg  Falcon 9 B5  154, 155, 156, 158, 159, 160, 163, 164, 165, 166
-- 2019-01-11  Vandenberg  Falcon 9 B5  167, 168, 169, 170, 171, 172, 173, 175, 176, 180
-- 2023-05-20  Vandenberg  Falcon 9 B5  174, 177, 178, 179, 181
+- Launch date   Launch site   Launch vehicle   Satellite numbers (at launch)
+- 2017-01-14   Vandenberg   Falcon 9 FT   102, 103, 104, 105, 106, 108, 109, 111, 112, 114
+- 2017-06-25   Vandenberg   Falcon 9 FT   113, 115, 117, 118, 120, 121, 123, 124, 126, 128
+- 2017-10-09   Vandenberg   Falcon 9 B4   100, 107, 119, 122, 125, 129, 132, 133, 136, 139
+- 2017-12-23   Vandenberg   Falcon 9 FT   116, 130, 131, 134, 135, 137, 138, 141, 151, 153
+- 2018-03-30   Vandenberg   Falcon 9 B4   140, 142, 143, 144, 145, 146, 148, 149, 150, 157
+- 2018-05-22   Vandenberg   Falcon 9 B4   110, 147, 152, 161, 162
+- 2018-07-25   Vandenberg   Falcon 9 B5   154, 155, 156, 158, 159, 160, 163, 164, 165, 166
+- 2019-01-11   Vandenberg   Falcon 9 B5   167, 168, 169, 170, 171, 172, 173, 175, 176, 180
+- 2023-05-20   Vandenberg   Falcon 9 B5   174, 177, 178, 179, 181
 
 **^** Iridium satellite number could change over time following failure and replacement.
 
@@ -139,87 +139,87 @@ From 2017, several first-generation Iridium satellites have been deliberately de
 As of January 2023, a total of 80 previously operating satellites are now defunct or no longer exist.
 
 - List of defunct Iridium satellites previously in operating service
-- Satellite  Date  Replacement  Status
-- **Iridium 73**  Nov/Dec 1998  Iridium 75  Uncontrolled orbit
-- **Iridium 48**  Nov/Dec 1998  Iridium 20a  Decayed 5 May 2001
-- **Iridium 2**  Nov/Dec 1998  ?  Decayed 30 June 2024
-- **Iridium 9**  October 2000  Iridium 84  Decayed 11 March 2003
-- **Iridium 38**  September 2003  Iridium 82  Uncontrolled orbit
-- **Iridium 16**  April 2005  Iridium 86  Uncontrolled orbit
-- **Iridium 17**  August 2005  Iridium 77  Uncontrolled orbit
-- **Iridium 74**  January 2006  Iridium 21a  Deorbited 11 June 2017
-- **Iridium 36**  January 2007  Iridium 97  Uncontrolled orbit
-- **Iridium 28**  July 2008  Iridium 95  In orbit
-- **Iridium 33**  10 February 2009  Iridium 91  Destroyed in collision with Kosmos 2251. Some fragments remain in orbit, while some have decayed.
-- **Iridium 26**  August 2011  Iridium 11a  In orbit
-- **Iridium 4**  2012  Iridium 96  In orbit
-- **Iridium 29**  Early 2014  Iridium 45  In orbit
-- **Iridium 42**  August 2014  Iridium 98  Uncontrolled orbit
-- **Iridium 63**  August 2014  Iridium 14a  In orbit
-- **Iridium 6**  October 2014  Iridium 51  Decayed 23 December 2017
-- **Iridium 57**  May 2016  Iridium 121  Observed drifting from nominal position
-- **Iridium 39**  June 2016  Iridium 15  In orbit
-- **Iridium 7**  2017  Iridium 51  Failed in orbit
-- **Iridium 22**  2017  ?  Failed in orbit
-- **Iridium 77**  August 2017  Iridium 109  Decayed 22 September 2017
-- **Iridium 30**  August 2017  Iridium 126  Decayed 28 September 2017
-- **Iridium 8**  November 2017  Iridium 133  Decayed 24 November 2017
-- **Iridium 34**  December 2017  Iridium 122  Decayed 8 January 2018
-- **Iridium 3**  ?  Iridium 131  Decayed 8 February 2018
-- **Iridium 43**  ?  Iridium 111  Decayed 11 February 2018
-- **Iridium 49**  ?  ?  Decayed 13 February 2018
-- **Iridium 23**  ?  ?  Decayed 28 March 2018
-- **Iridium 94**  ?  ?  Decayed 18 April 2018
-- **Iridium 19**  ?  ?  Decayed 19 April 2018
-- **Iridium 13**  ?  ?  Decayed 29 April 2018
-- **Iridium 25**  ?  ?  Decayed 14 May 2018
-- **Iridium 72**  ?  ?  Decayed 14 May 2018
-- **Iridium 21a**  ?  ?  Decayed 24 May 2018
-- **Iridium 37**  ?  ?  Decayed 26 May 2018
-- **Iridium 68**  ?  ?  Decayed 6 June 2018
-- **Iridium 67**  ?  ?  Decayed 2 July 2018
-- **Iridium 75**  ?  ?  Decayed 10 July 2018
-- **Iridium 81**  ?  ?  Decayed 17 July 2018
-- **Iridium 65**  ?  ?  Decayed 19 July 2018
-- **Iridium 41**  ?  ?  Decayed 28 July 2018
-- **Iridium 80**  ?  ?  Decayed 12 August 2018
-- **Iridium 18**  ?  ?  Decayed 19 August 2018
-- **Iridium 66**  ?  ?  Decayed 23 August 2018
-- **Iridium 98**  ?  ?  Decayed 24 August 2018
-- **Iridium 76**  ?  ?  Decayed 28 August 2018
-- **Iridium 47**  ?  ?  Decayed 1 September 2018
-- **Iridium 12**  ?  ?  Decayed 2 September 2018
-- **Iridium 50**  ?  ?  Decayed 23 September 2018
-- **Iridium 40**  ?  ?  Decayed 23 September 2018
-- **Iridium 53**  ?  ?  Decayed 30 September 2018
-- **Iridium 86**  ?  ?  Decayed 5 October 2018
-- **Iridium 10**  ?  ?  Decayed 6 October 2018
-- **Iridium 70**  ?  ?  Decayed 11 October 2018
-- **Iridium 56**  ?  ?  Decayed 11 October 2018
-- **Iridium 15**  ?  ?  Decayed 14 October 2018 (Over No. Pacific)
-- **Iridium 20a**  ?  ?  Decayed 22 October 2018
-- **Iridium 11a**  ?  ?  Decayed 22 October 2018
-- **Iridium 84**  ?  ?  Decayed 4 November 2018
-- **Iridium 83**  ?  ?  Decayed 5 November 2018
-- **Iridium 52**  ?  ?  Decayed 5 November 2018
-- **Iridium 62**  ?  ?  Decayed 7 November 2018
-- **Iridium 31**  ?  ?  Decayed 20 December 2018
-- **Iridium 35**  ?  ?  Decayed 26 December 2018
-- **Iridium 90**  ?  ?  Decayed 23 January 2019
-- **Iridium 32**  ?  ?  Decayed 10 March 2019
-- **Iridium 59**  ?  ?  Decayed 11 March 2019
-- **Iridium 91**  ?  ?  Decayed 13 March 2019
-- **Iridium 14a**  ?  ?  Decayed 15 March 2019
-- **Iridium 60**  ?  ?  Decayed 17 March 2019
-- **Iridium 95**  ?  ?  Decayed 25 March 2019
-- **Iridium 55**  ?  ?  Decayed 31 March 2019
-- **Iridium 64**  ?  ?  Decayed 1 April 2019
-- **Iridium 58**  ?  ?  Decayed 7 April 2019
-- **Iridium 24**  ?  ?  In orbit
-- **Iridium 54**  ?  ?  Decayed 11 May 2019
-- **Iridium 61**  ?  ?  Decayed 23 July 2019
-- **Iridium 97**  ?  ?  Decayed 27 December 2019
-- **Iridium 96**  ?  ?  Decayed 30 May 2020
+- Satellite   Date   Replacement   Status
+- **Iridium 73**   Nov/Dec 1998   Iridium 75   Uncontrolled orbit
+- **Iridium 48**   Nov/Dec 1998   Iridium 20a   Decayed 5 May 2001
+- **Iridium 2**   Nov/Dec 1998   ?   Decayed 30 June 2024
+- **Iridium 9**   October 2000   Iridium 84   Decayed 11 March 2003
+- **Iridium 38**   September 2003   Iridium 82   Uncontrolled orbit
+- **Iridium 16**   April 2005   Iridium 86   Uncontrolled orbit
+- **Iridium 17**   August 2005   Iridium 77   Uncontrolled orbit
+- **Iridium 74**   January 2006   Iridium 21a   Deorbited 11 June 2017
+- **Iridium 36**   January 2007   Iridium 97   Uncontrolled orbit
+- **Iridium 28**   July 2008   Iridium 95   In orbit
+- **Iridium 33**   10 February 2009   Iridium 91   Destroyed in collision with Kosmos 2251. Some fragments remain in orbit, while some have decayed.
+- **Iridium 26**   August 2011   Iridium 11a   In orbit
+- **Iridium 4**   2012   Iridium 96   In orbit
+- **Iridium 29**   Early 2014   Iridium 45   In orbit
+- **Iridium 42**   August 2014   Iridium 98   Uncontrolled orbit
+- **Iridium 63**   August 2014   Iridium 14a   In orbit
+- **Iridium 6**   October 2014   Iridium 51   Decayed 23 December 2017
+- **Iridium 57**   May 2016   Iridium 121   Observed drifting from nominal position
+- **Iridium 39**   June 2016   Iridium 15   In orbit
+- **Iridium 7**   2017   Iridium 51   Failed in orbit
+- **Iridium 22**   2017   ?   Failed in orbit
+- **Iridium 77**   August 2017   Iridium 109   Decayed 22 September 2017
+- **Iridium 30**   August 2017   Iridium 126   Decayed 28 September 2017
+- **Iridium 8**   November 2017   Iridium 133   Decayed 24 November 2017
+- **Iridium 34**   December 2017   Iridium 122   Decayed 8 January 2018
+- **Iridium 3**   ?   Iridium 131   Decayed 8 February 2018
+- **Iridium 43**   ?   Iridium 111   Decayed 11 February 2018
+- **Iridium 49**   ?   ?   Decayed 13 February 2018
+- **Iridium 23**   ?   ?   Decayed 28 March 2018
+- **Iridium 94**   ?   ?   Decayed 18 April 2018
+- **Iridium 19**   ?   ?   Decayed 19 April 2018
+- **Iridium 13**   ?   ?   Decayed 29 April 2018
+- **Iridium 25**   ?   ?   Decayed 14 May 2018
+- **Iridium 72**   ?   ?   Decayed 14 May 2018
+- **Iridium 21a**   ?   ?   Decayed 24 May 2018
+- **Iridium 37**   ?   ?   Decayed 26 May 2018
+- **Iridium 68**   ?   ?   Decayed 6 June 2018
+- **Iridium 67**   ?   ?   Decayed 2 July 2018
+- **Iridium 75**   ?   ?   Decayed 10 July 2018
+- **Iridium 81**   ?   ?   Decayed 17 July 2018
+- **Iridium 65**   ?   ?   Decayed 19 July 2018
+- **Iridium 41**   ?   ?   Decayed 28 July 2018
+- **Iridium 80**   ?   ?   Decayed 12 August 2018
+- **Iridium 18**   ?   ?   Decayed 19 August 2018
+- **Iridium 66**   ?   ?   Decayed 23 August 2018
+- **Iridium 98**   ?   ?   Decayed 24 August 2018
+- **Iridium 76**   ?   ?   Decayed 28 August 2018
+- **Iridium 47**   ?   ?   Decayed 1 September 2018
+- **Iridium 12**   ?   ?   Decayed 2 September 2018
+- **Iridium 50**   ?   ?   Decayed 23 September 2018
+- **Iridium 40**   ?   ?   Decayed 23 September 2018
+- **Iridium 53**   ?   ?   Decayed 30 September 2018
+- **Iridium 86**   ?   ?   Decayed 5 October 2018
+- **Iridium 10**   ?   ?   Decayed 6 October 2018
+- **Iridium 70**   ?   ?   Decayed 11 October 2018
+- **Iridium 56**   ?   ?   Decayed 11 October 2018
+- **Iridium 15**   ?   ?   Decayed 14 October 2018 (Over No. Pacific)
+- **Iridium 20a**   ?   ?   Decayed 22 October 2018
+- **Iridium 11a**   ?   ?   Decayed 22 October 2018
+- **Iridium 84**   ?   ?   Decayed 4 November 2018
+- **Iridium 83**   ?   ?   Decayed 5 November 2018
+- **Iridium 52**   ?   ?   Decayed 5 November 2018
+- **Iridium 62**   ?   ?   Decayed 7 November 2018
+- **Iridium 31**   ?   ?   Decayed 20 December 2018
+- **Iridium 35**   ?   ?   Decayed 26 December 2018
+- **Iridium 90**   ?   ?   Decayed 23 January 2019
+- **Iridium 32**   ?   ?   Decayed 10 March 2019
+- **Iridium 59**   ?   ?   Decayed 11 March 2019
+- **Iridium 91**   ?   ?   Decayed 13 March 2019
+- **Iridium 14a**   ?   ?   Decayed 15 March 2019
+- **Iridium 60**   ?   ?   Decayed 17 March 2019
+- **Iridium 95**   ?   ?   Decayed 25 March 2019
+- **Iridium 55**   ?   ?   Decayed 31 March 2019
+- **Iridium 64**   ?   ?   Decayed 1 April 2019
+- **Iridium 58**   ?   ?   Decayed 7 April 2019
+- **Iridium 24**   ?   ?   In orbit
+- **Iridium 54**   ?   ?   Decayed 11 May 2019
+- **Iridium 61**   ?   ?   Decayed 23 July 2019
+- **Iridium 97**   ?   ?   Decayed 27 December 2019
+- **Iridium 96**   ?   ?   Decayed 30 May 2020
 - Total: 80
 
 #### Iridium 33 collision

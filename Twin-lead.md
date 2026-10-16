@@ -129,13 +129,13 @@ The dielectric material between the two conductors with either twin-lead or ladd
 
 Twin-lead can be connected directly to a suitably designed antenna:
 
-**Windom antenna** — A multiply-resonant antenna whose resonant impedances cluster around 300 Ω.
+**Windom antenna**  — A multiply-resonant antenna whose resonant impedances cluster around 300 Ω.
 
-**[Folded dipole](Dipole%20antenna.md)** — Double-wire dipole whose characteristic impedance in free space is around 300 Ω.
+**[Folded dipole](Dipole%20antenna.md)**  — Double-wire dipole whose characteristic impedance in free space is around 300 Ω.
 
-**[Dipole](Dipole%20antenna.md)** — Although the center impedance at resonance is approximately 73 Ω in free space, in actual use it varies between 30 and 100 Ω, depending on height above ground, so with high-impedance feedline a T-match or Y-match feed will probably be necessary.
+**[Dipole](Dipole%20antenna.md)**  — Although the center impedance at resonance is approximately 73 Ω in free space, in actual use it varies between 30 and 100 Ω, depending on height above ground, so with high-impedance feedline a T-match or Y-match feed will probably be necessary.
 
-**[Yagi–Uda antenna](Yagi%20Uda%20antenna.md)** — Yagi and the simpler [Moxon antenna](Moxon%20antenna.md), and other [directional antennas](Directional%20antenna.md); some special impedance matching arrangement at the feedpoint is necessary for any cabling, since interference between the typically close-spacing of the parallel near-resonant antenna segments causes low feedpoint resistance as well as making the antenna more directional.
+**[Yagi–Uda antenna](Yagi%20Uda%20antenna.md)**  — Yagi and the simpler [Moxon antenna](Moxon%20antenna.md), and other [directional antennas](Directional%20antenna.md); some special impedance matching arrangement at the feedpoint is necessary for any cabling, since interference between the typically close-spacing of the parallel near-resonant antenna segments causes low feedpoint resistance as well as making the antenna more directional.
 
 ---
 

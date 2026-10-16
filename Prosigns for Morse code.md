@@ -10,7 +10,7 @@ At the coding level, prosigns admit any form the Morse code can take, unlike abb
 
 The development of prosigns began in the 1860s for wired telegraphy. Since telegraphy preceded voice communications by several decades, many of the much older Morse prosigns have acquired precisely equivalent pro*words* for use in more recent voice protocols.
 
-Not all prosigns used by telegraphers are standard: There are regional and community-specific variations of the coding convention used in certain radio networks to manage transmission and formatting of messages, and many unofficial prosign conventions exist; some of which might be redundant or ambiguous. One typical example of something which is not an officially recognized prosign, but is yet fairly often used in Europe, is one or two freely timed dits at the end of a message,   **II**    or  ▄ ▄   ▄ ▄ ; it is equivalent to the proword *OUT*, meaning "I'm done; go ahead". However the *official* prosign with the same meaning is **AR**, or  ▄ ▄▄▄ ▄ ▄▄▄ ▄ , which takes a little longer to send.
+Not all prosigns used by telegraphers are standard: There are regional and community-specific variations of the coding convention used in certain radio networks to manage transmission and formatting of messages, and many unofficial prosign conventions exist; some of which might be redundant or ambiguous. One typical example of something which is not an officially recognized prosign, but is yet fairly often used in Europe, is one or two freely timed dits at the end of a message,  **II**   or  ▄ ▄   ▄ ▄ ; it is equivalent to the proword *OUT*, meaning "I'm done; go ahead". However the *official* prosign with the same meaning is **AR**, or  ▄ ▄▄▄ ▄ ▄▄▄ ▄ , which takes a little longer to send.
 
 #### Representation in printed material
 
@@ -46,26 +46,26 @@ The procedure signs below are compiled from the official specification for Morse
 The following table of prosigns includes **K** and **R**, which could be considered either abbreviations (for "okay, go ahead", and for "received") or prosigns that are also letters. All of the rest of the symbols are not letters, but in some cases are also used as punctuation.
 
 General-use procedure signs
-- Prosign  Matching voice procedure word  Code symbol  Reference  Explanation
-- **AA**  *UNKNOWN STATION*   ▄ ▄▄▄ ▄ ▄▄▄     This meaning is ***only*** used for directional signal lights. It has no official use in radio telegraphy, where it is *unofficially* used to represent an accented letter **Ä** or **Á**, or the prosign for "next line", and then only when it is embedded inside a heading section in amateur traffic.
-- **R**  *ROGER*   ▄ ▄▄▄ ▄     Means the last transmission has been received, but does *not* necessarily indicate the message was understood or will be complied with.  
-- **K**  *OVER*   ▄▄▄ ▄ ▄▄▄     Invitation to transmit after terminating the call signal. (e.g.  ▄ ▄▄▄ ▄ ▄▄▄ ▄  ▄▄▄ ▄ ▄▄▄ ).  
-- **AR**  *OUT*   ▄ ▄▄▄ ▄ ▄▄▄ ▄     End of transmission / End of message / End of telegram.  
+- Prosign   Matching voice procedure word   Code symbol   Reference   Explanation
+- **AA**   *UNKNOWN STATION*    ▄ ▄▄▄ ▄ ▄▄▄       This meaning is ***only*** used for directional signal lights. It has no official use in radio telegraphy, where it is *unofficially* used to represent an accented letter **Ä** or **Á**, or the prosign for "next line", and then only when it is embedded inside a heading section in amateur traffic.
+- **R**   *ROGER*    ▄ ▄▄▄ ▄       Means the last transmission has been received, but does *not* necessarily indicate the message was understood or will be complied with.  
+- **K**   *OVER*    ▄▄▄ ▄ ▄▄▄       Invitation to transmit after terminating the call signal. (e.g.  ▄ ▄▄▄ ▄ ▄▄▄ ▄  ▄▄▄ ▄ ▄▄▄ ).  
+- **AR**   *OUT*    ▄ ▄▄▄ ▄ ▄▄▄ ▄       End of transmission / End of message / End of telegram.  
 (Same as **EC** "end copy", and character [ **+** ].)  
-- **AS**  *WAIT*   ▄ ▄▄▄ ▄ ▄ ▄     "I must pause for a few minutes." Also means "I am engaged in a contact with another station (that you might not hear); please wait quietly."  
-- **ASAR**  *WAIT* *OUT*   ▄ ▄▄▄ ▄ ▄ ▄  
-▄ ▄▄▄ ▄ ▄▄▄ ▄     I must pause for more than a few minutes.
-- **VE**  *VERIFIED*   ▄ ▄ ▄ ▄▄▄ ▄     Message is verified.  
-- [ **?** ]  *SAY AGAIN?*   ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄     When standing alone, a note of interrogation or request for repetition of the immediate prior transmission that was not understood. When [ **?** ] is placed *after* a coded signal, modifies the code to be a question or request.  
-- **INT**  *INTERROGATIVE*   ▄ ▄ ▄▄▄ ▄ ▄▄▄     Military replacement for the [ **?** ] prosign; equivalent to Spanish [[ **¿** ] punctuation mark](https://en.wikipedia.org/wiki/¿). When placed *before* a signal, modifies the signal to be a question/request.
-- **HH** ...  *CORRECTION*   ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄     Preceding text was in error. The following is the corrected text. (Same as **IIII** or **EEEEEEEE**.)  
-- **HHAR**  *DISREGARD THIS TRANSMISSION* *OUT*   ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄  
-▄ ▄▄▄ ▄ ▄▄▄ ▄     The entire message just sent is in error, disregard it. (Same as **EEEEEEEEAR**.)
-- **BT**  *BREAK*   ▄▄▄ ▄ ▄ ▄ ▄▄▄     Start new section of message.  
+- **AS**   *WAIT*    ▄ ▄▄▄ ▄ ▄ ▄       "I must pause for a few minutes." Also means "I am engaged in a contact with another station (that you might not hear); please wait quietly."  
+- **ASAR**   *WAIT* *OUT*    ▄ ▄▄▄ ▄ ▄ ▄  
+▄ ▄▄▄ ▄ ▄▄▄ ▄       I must pause for more than a few minutes.
+- **VE**   *VERIFIED*    ▄ ▄ ▄ ▄▄▄ ▄       Message is verified.  
+- [ **?** ]   *SAY AGAIN?*    ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄       When standing alone, a note of interrogation or request for repetition of the immediate prior transmission that was not understood. When [ **?** ] is placed *after* a coded signal, modifies the code to be a question or request.  
+- **INT**   *INTERROGATIVE*    ▄ ▄ ▄▄▄ ▄ ▄▄▄       Military replacement for the [ **?** ] prosign; equivalent to Spanish [[ **¿** ] punctuation mark](https://en.wikipedia.org/wiki/%C2%BF). When placed *before* a signal, modifies the signal to be a question/request.
+- **HH** ...   *CORRECTION*    ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄       Preceding text was in error. The following is the corrected text. (Same as **IIII** or **EEEEEEEE**.)  
+- **HHAR**   *DISREGARD THIS TRANSMISSION* *OUT*    ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄  
+▄ ▄▄▄ ▄ ▄▄▄ ▄       The entire message just sent is in error, disregard it. (Same as **EEEEEEEEAR**.)
+- **BT**   *BREAK*    ▄▄▄ ▄ ▄ ▄ ▄▄▄       Start new section of message.  
 Same as character [ **=** ] or rarely [ **– –** ] .
-- **KA**  *ATTENTION*   ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄     Message begins / Start of work / New message  
+- **KA**   *ATTENTION*    ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄       Message begins / Start of work / New message  
 (Starting signal that precedes every transmission session. Sometimes written as **CT**.)  
-- **SK**  *OUT*   ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄     End of contact / End of work / Line is now free / Frequency no longer in use  
+- **SK**   *OUT*    ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄       End of contact / End of work / Line is now free / Frequency no longer in use  
 (Ending signal that follows every transmission session. Occasionally written **VA**.)  
 Also used as shorthand to describe a "Silent Key", i.e. a radio operator who has passed away.
 
@@ -74,85 +74,85 @@ Also used as shorthand to describe a "Silent Key", i.e. a radio operator who has
 The following table lists standard abbreviations used for organizing radiotelegraph traffic, however none of them are actual prosigns, despite their similar purpose. All are strictly used as normal strings of one to several letters, never as digraph symbols, and have standard meanings used for the management of sending and receiving messages. Dots following indicate that in use, the abbreviation is always followed by more information.
 
 General-use abbreviations and letter-codes
-- Abbrev.  Matching voice procedure word  Code symbol  Reference  Explanation
-- **DE** ...  *[THIS IS] FROM*   ▄▄▄ ▄ ▄   ▄     Used to precede the name or other identification of the station sending the transmission ([Morse abbreviation](Morse%20code%20abbreviations.md)).
-- **NIL**  *NOTHING HEARD*   ▄▄▄ ▄   ▄ ▄   ▄ ▄▄▄ ▄ ▄     General-purpose response to any request or inquiry for which the answer is "nothing" or "none" or "not available" ([Morse abbr.](Morse%20code%20abbreviations.md)). Also means "I have no messages for you."
-- **CL**  *CLOSING*   ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄▄▄ ▄ ▄     Announcing station shutdown ([Morse abbr.](Morse%20code%20abbreviations.md)).
-- **CQ**  *CALLING*   ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄ ▄▄▄     General call to any station ([Morse abbr.](Morse%20code%20abbreviations.md)).
-- **CP** ... ...  *CALLING FOR*   ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄▄▄ ▄▄▄ ▄     Specific call to two or more named stations ([Morse abbr.](Morse%20code%20abbreviations.md)).
-- **CS** ...  *CALLING STATION*   ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄     Specific call to exactly one named station ([Morse abbr.](Morse%20code%20abbreviations.md)).
-- **CS ?**  *WHO ?*   ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄   ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄     What is the name or identity signal of your station? ([Morse abbr.](Morse%20code%20abbreviations.md)) In many contexts, the question mark is optional.
-- **WA** ...  *WORD AFTER*   ▄ ▄▄▄ ▄▄▄   ▄ ▄▄▄     ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **WB** ...  *WORD BEFORE*   ▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄     ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **AA** ...  *ALL AFTER*   ▄ ▄▄▄   ▄ ▄▄▄     The portion of the message to which I refer is all that follows the text ... ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **AB** ...  *ALL BEFORE*   ▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄     The portion of the message to which I refer is all that precedes the text ... ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **BN** ... ...  *ALL BETWEEN*   ▄▄▄ ▄ ▄ ▄   ▄▄▄ ▄     The portion of the message to which I refer is all that falls between ... and ... ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **C**  *CORRECT* / *YES* / *AFFIRMATIVE* / *CONFIRM*   ▄▄▄ ▄ ▄▄▄ ▄     Answer to prior question is "yes". ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **N**  *NO* / *NEGATIVE*   ▄▄▄ ▄     Answer to prior question is "no". ([Morse abbr.](Morse%20code%20abbreviations.md))
-- **ZWF** ...  *WRONG*   ▄▄▄ ▄▄▄ ▄ ▄  ▄ ▄▄▄ ▄▄▄  ▄ ▄ ▄▄▄ ▄     Your last transmission was wrong. The correct version is ...
-- **QTR ?**  *REQUEST TIME CHECK*   ▄▄▄ ▄▄▄ ▄ ▄▄▄  ▄▄▄  ▄ ▄▄▄ ▄  
-▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄     Time-check request. / What is the correct time?  
+- Abbrev.   Matching voice procedure word   Code symbol   Reference   Explanation
+- **DE** ...   *[THIS IS] FROM*    ▄▄▄ ▄ ▄   ▄       Used to precede the name or other identification of the station sending the transmission ([Morse abbreviation](Morse%20code%20abbreviations.md)).
+- **NIL**   *NOTHING HEARD*    ▄▄▄ ▄   ▄ ▄   ▄ ▄▄▄ ▄ ▄       General-purpose response to any request or inquiry for which the answer is "nothing" or "none" or "not available" ([Morse abbr.](Morse%20code%20abbreviations.md)). Also means "I have no messages for you."
+- **CL**   *CLOSING*    ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄▄▄ ▄ ▄       Announcing station shutdown ([Morse abbr.](Morse%20code%20abbreviations.md)).
+- **CQ**   *CALLING*    ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄ ▄▄▄       General call to any station ([Morse abbr.](Morse%20code%20abbreviations.md)).
+- **CP** ... ...   *CALLING FOR*    ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄▄▄ ▄▄▄ ▄       Specific call to two or more named stations ([Morse abbr.](Morse%20code%20abbreviations.md)).
+- **CS** ...   *CALLING STATION*    ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄       Specific call to exactly one named station ([Morse abbr.](Morse%20code%20abbreviations.md)).
+- **CS ?**   *WHO ?*    ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄   ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄       What is the name or identity signal of your station? ([Morse abbr.](Morse%20code%20abbreviations.md)) In many contexts, the question mark is optional.
+- **WA** ...   *WORD AFTER*    ▄ ▄▄▄ ▄▄▄   ▄ ▄▄▄       ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **WB** ...   *WORD BEFORE*    ▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄       ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **AA** ...   *ALL AFTER*    ▄ ▄▄▄   ▄ ▄▄▄       The portion of the message to which I refer is all that follows the text ... ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **AB** ...   *ALL BEFORE*    ▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄       The portion of the message to which I refer is all that precedes the text ... ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **BN** ... ...   *ALL BETWEEN*    ▄▄▄ ▄ ▄ ▄   ▄▄▄ ▄       The portion of the message to which I refer is all that falls between ... and ... ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **C**   *CORRECT* / *YES* / *AFFIRMATIVE* / *CONFIRM*    ▄▄▄ ▄ ▄▄▄ ▄       Answer to prior question is "yes". ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **N**   *NO* / *NEGATIVE*    ▄▄▄ ▄       Answer to prior question is "no". ([Morse abbr.](Morse%20code%20abbreviations.md))
+- **ZWF** ...   *WRONG*    ▄▄▄ ▄▄▄ ▄ ▄  ▄ ▄▄▄ ▄▄▄  ▄ ▄ ▄▄▄ ▄       Your last transmission was wrong. The correct version is ...
+- **QTR ?**   *REQUEST TIME CHECK*    ▄▄▄ ▄▄▄ ▄ ▄▄▄  ▄▄▄  ▄ ▄▄▄ ▄  
+▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄       Time-check request. / What is the correct time?  
 (Time is always UTC, unless explicitly requested otherwise, e.g. **QTR** **HST** **?**)
-- **QTR** ...  *TIME IS*   ▄▄▄ ▄▄▄ ▄ ▄▄▄   ▄▄▄   ▄ ▄▄▄ ▄     The following is the correct time in HHMM 24 hour format  
+- **QTR** ...   *TIME IS*    ▄▄▄ ▄▄▄ ▄ ▄▄▄   ▄▄▄   ▄ ▄▄▄ ▄       The following is the correct time in HHMM 24 hour format  
 (The time is always in UTC, except in rare cases when it is followed by a 3 letter time zone abrv., e.g. **PST**.)
-- **BK**  *BREAK-IN*   ▄▄▄ ▄ ▄ ▄   ▄▄▄ ▄ ▄▄▄     Signal used to interrupt a transmission already in progress ([Morse abbr.](Morse%20code%20abbreviations.md)). NATO nets use **AX**. Some military networks use  ▄▄▄▄▄▄▄▄▄▄▄  ≈ **TTTT** instead.
-- **CFM**  *CONFIRM* / *I ACKNOWLEDGE*   ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄     Message received ([Morse abbr.](Morse%20code%20abbreviations.md)). (Same as **R**.)
-- **WX** ...  *WEATHER IS*   ▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄▄▄     Weather report follows ([Morse abbr.](Morse%20code%20abbreviations.md)).
-- **INTERCO**  *INTERCO*
+- **BK**   *BREAK-IN*    ▄▄▄ ▄ ▄ ▄   ▄▄▄ ▄ ▄▄▄       Signal used to interrupt a transmission already in progress ([Morse abbr.](Morse%20code%20abbreviations.md)). NATO nets use **AX**. Some military networks use  ▄▄▄▄▄▄▄▄▄▄▄  ≈ **TTTT** instead.
+- **CFM**   *CONFIRM* / *I ACKNOWLEDGE*    ▄▄▄ ▄ ▄▄▄ ▄   ▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄       Message received ([Morse abbr.](Morse%20code%20abbreviations.md)). (Same as **R**.)
+- **WX** ...   *WEATHER IS*    ▄ ▄▄▄ ▄▄▄   ▄▄▄ ▄ ▄ ▄▄▄       Weather report follows ([Morse abbr.](Morse%20code%20abbreviations.md)).
+- **INTERCO**   *INTERCO*
 
 (*in-tur-ko*)
 
 ▄ ▄   ▄▄▄ ▄   ▄▄▄   ▄   ▄ ▄▄▄ ▄  
-▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄▄▄     Groups of abbreviations from the *International Code of Signals* follow ([Morse abbr.](Morse%20code%20abbreviations.md)).
+▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄▄▄       Groups of abbreviations from the *International Code of Signals* follow ([Morse abbr.](Morse%20code%20abbreviations.md)).
 
 ### Amateur radio National Traffic System
 
 For the special purpose of exchanging ARRL Radiograms during National Traffic System nets, the following prosigns and signals can be used, most of which are an exact match with ITU-R and Combined Communications Electronics Board (military) standards; a few have no equivalent in any other definition of Morse code procedure signals or abbreviations.
 
 Table of Morse code prosigns and useful [Morse code abbreviations](Morse%20code%20abbreviations.md)
-- Prosign  Code symbol  Meaning  Comments  Verbalization  As text
-- **AA**   ▄ ▄▄▄ ▄ ▄▄▄   Start new line  Space down one line; typewritten as Carriage Return, Line Feed (CR-LF). Only used instead of **BT** in ARRL batched messages, where **BT** would prematurely start a pending next section. Also written **RT**.  *di dah di dah*  **Ä**, **Á**
-- **AR**   ▄ ▄▄▄ ▄ ▄▄▄ ▄   Message separator, start new message / telegram.  New Page, space down several lines. Decoder software may show [ **+** ]. Alternative for "Break" in conversational Morse. Also written **RN**.  *di dah di dah dit*  [ **+** ]
-- **AS**   ▄ ▄▄▄ ▄ ▄ ▄   Wait  Respond with: **SN**, or characters "**R**" (Received) or "**C**" (Confirmed).  *di dah di di dit*  [ **&** ]
-- **BT**   ▄▄▄ ▄ ▄ ▄ ▄▄▄   Start new section / paragraph  Space down two lines; typewritten CR-LF-LF. Decoder software may show [ **=** ].  *dah di di di dah*  [ **=** ], [ **– –** ]
-- **CT**   ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄   Start of  
+- Prosign   Code symbol   Meaning   Comments   Verbalization   As text
+- **AA**    ▄ ▄▄▄ ▄ ▄▄▄    Start new line   Space down one line; typewritten as Carriage Return, Line Feed (CR-LF). Only used instead of **BT** in ARRL batched messages, where **BT** would prematurely start a pending next section. Also written **RT**.   *di dah di dah*   **Ä**, **Á**
+- **AR**    ▄ ▄▄▄ ▄ ▄▄▄ ▄    Message separator, start new message / telegram.   New Page, space down several lines. Decoder software may show [ **+** ]. Alternative for "Break" in conversational Morse. Also written **RN**.   *di dah di dah dit*   [ **+** ]
+- **AS**    ▄ ▄▄▄ ▄ ▄ ▄    Wait   Respond with: **SN**, or characters "**R**" (Received) or "**C**" (Confirmed).   *di dah di di dit*   [ **&** ]
+- **BT**    ▄▄▄ ▄ ▄ ▄ ▄▄▄    Start new section / paragraph   Space down two lines; typewritten CR-LF-LF. Decoder software may show [ **=** ].   *dah di di di dah*   [ **=** ], [ **– –** ]
+- **CT**    ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄    Start of  
 transmission  
 Start of new  
-message  Attention commencing transmission. Also written **KA**.  *dah di dah di dah*
-- **HH** ...   ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄   Error /  
-correction  Always followed by correct text. Equivalent to both **IIII** and **EEEEEEEE** . Sometimes transcribed as "???".  *di di di di di di di dit*
-- **K**   ▄▄▄ ▄ ▄▄▄   Invitation for any station to transmit  Lone alphabetic character "**K**" at the end of a transmission.  *dah di dah*  **K**
-- **X**   ▄▄▄ ▄ ▄ ▄▄▄   Full stop  Lone alphabetic character "**X**" surrounded by word spaces.  
-Substitute for period **AAA** in ARRL batched messages.  *dah di di dah*  **X**
-- [ **?** ]   ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄   Please say  
-again  Lone question mark "**?**" from the receiving station in response to a transmission; possibly followed by **AA** ... or **AB** ... .  *di di dah dah di dit*  [ **?** ]
-- **KN**   ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄   Invitation for  
+message   Attention commencing transmission. Also written **KA**.   *dah di dah di dah*
+- **HH** ...    ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄    Error /  
+correction   Always followed by correct text. Equivalent to both **IIII** and **EEEEEEEE** . Sometimes transcribed as "???".   *di di di di di di di dit*
+- **K**    ▄▄▄ ▄ ▄▄▄    Invitation for any station to transmit   Lone alphabetic character "**K**" at the end of a transmission.   *dah di dah*   **K**
+- **X**    ▄▄▄ ▄ ▄ ▄▄▄    Full stop   Lone alphabetic character "**X**" surrounded by word spaces.  
+Substitute for period **AAA** in ARRL batched messages.   *dah di di dah*   **X**
+- [ **?** ]    ▄ ▄ ▄▄▄ ▄▄▄ ▄ ▄    Please say  
+again   Lone question mark "**?**" from the receiving station in response to a transmission; possibly followed by **AA** ... or **AB** ... .   *di di dah dah di dit*   [ **?** ]
+- **KN**    ▄▄▄ ▄ ▄▄▄ ▄▄▄ ▄    Invitation for  
 named station  
-to transmit  Go ahead, specific named station. Decoder software may show equivalent character [ **(** ].  *dah di dah dah dit*  [ **(** ]
-- **NJ**   ▄▄▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄   Shift to Wabun code  Shift from [Morse code](Morse%20code.md) to Wabun code Kana characters. Also written **XM**.  *dah di di dah dah dah*
-- **SK**   ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄   End of work /  
+to transmit   Go ahead, specific named station. Decoder software may show equivalent character [ **(** ].   *dah di dah dah dit*   [ **(** ]
+- **NJ**    ▄▄▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄    Shift to Wabun code   Shift from [Morse code](Morse%20code.md) to Wabun code Kana characters. Also written **XM**.   *dah di di dah dah dah*
+- **SK**    ▄ ▄ ▄ ▄▄▄ ▄ ▄▄▄    End of work /  
 End of contact  
-/ Frequency no longer in use  Also written **VA**.  *di di di dah di dah*
-- **SN**   ▄ ▄ ▄ ▄▄▄ ▄   Understood / verify / verified  Message received and checks okay. Alternatively shift from Wabun to Morse code. "**SN?**" verification requested. Also written **VE**.  *di di di dah dit*  **Š**, **Ś**
-- **SOS**   ▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄   Start of a distress signal  Only used by the original distressed station, and only for imminent danger to life or property. (listen)  *di di di dah dah dah di di dit*
-- **DDD**   ▄▄▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄ ▄   Start of a  
-distress signal relayed from another station  Used to forward a copy of a received "**SOS**".  *dah di di dah di di dah di dit*
-- **BK**   ▄▄▄ ▄ ▄ ▄  ▄▄▄ ▄ ▄▄▄   Break in  
-conversation  [Morse abbreviation](Morse%20code%20abbreviations.md) for "back-to you" ([Morse abbr.](Morse%20code%20abbreviations.md)). In conversational Morse some use any of **AR**, **BT**, **KN**, or "**K**" instead.  *dah di di dit* *dah di dah*   **BK**
-- **CL**   ▄▄▄ ▄ ▄▄▄ ▄  ▄ ▄▄▄ ▄ ▄   Closing down  Abbreviation for "closing station" ([Morse abbr.](Morse%20code%20abbreviations.md)).  *dah di dah dit* *di dah di dit*   **CL**
+/ Frequency no longer in use   Also written **VA**.   *di di di dah di dah*
+- **SN**    ▄ ▄ ▄ ▄▄▄ ▄    Understood / verify / verified   Message received and checks okay. Alternatively shift from Wabun to Morse code. "**SN?**" verification requested. Also written **VE**.   *di di di dah dit*   **Š**, **Ś**
+- **SOS**    ▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄ ▄ ▄ ▄    Start of a distress signal   Only used by the original distressed station, and only for imminent danger to life or property. (listen)   *di di di dah dah dah di di dit*
+- **DDD**    ▄▄▄ ▄ ▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄ ▄    Start of a  
+distress signal relayed from another station   Used to forward a copy of a received "**SOS**".   *dah di di dah di di dah di dit*
+- **BK**    ▄▄▄ ▄ ▄ ▄  ▄▄▄ ▄ ▄▄▄    Break in  
+conversation   [Morse abbreviation](Morse%20code%20abbreviations.md) for "back-to you" ([Morse abbr.](Morse%20code%20abbreviations.md)). In conversational Morse some use any of **AR**, **BT**, **KN**, or "**K**" instead.   *dah di di dit* *dah di dah*    **BK**
+- **CL**    ▄▄▄ ▄ ▄▄▄ ▄  ▄ ▄▄▄ ▄ ▄    Closing down   Abbreviation for "closing station" ([Morse abbr.](Morse%20code%20abbreviations.md)).   *dah di dah dit* *di dah di dit*    **CL**
 
 ### Obsolete prosigns
 
 Historical Morse code prosigns
-- Prosign  Matching voice procedure word  Former code symbol  Explanation  Reference
-- **CQD**  Distress call   ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄ ▄▄▄   ▄▄▄ ▄ ▄   Obsolete code used to call all stations during distress (see **CQ**). Replaced by **SOS** in 1906 (see above).
-- **VE**  General call   ▄ ▄ ▄ ▄▄▄ ▄   Code re-used for "Message verified" or "Message understood" (see **SN** above). Replaced by **CQ** (see above).  1937 Royal Navy Signal Card
-- **NNNNN**  Answering sign   ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄   Dropped.
-- **ii**    Separative sign break   ▄ ▄   ▄ ▄   Generally replaced by **BT**, although it is still used in MARS CW operations, and other military standards.  
+- Prosign   Matching voice procedure word   Former code symbol   Explanation   Reference
+- **CQD**   Distress call    ▄▄▄ ▄ ▄▄▄ ▄   ▄▄▄ ▄▄▄ ▄ ▄▄▄   ▄▄▄ ▄ ▄    Obsolete code used to call all stations during distress (see **CQ**). Replaced by **SOS** in 1906 (see above).
+- **VE**   General call    ▄ ▄ ▄ ▄▄▄ ▄    Code re-used for "Message verified" or "Message understood" (see **SN** above). Replaced by **CQ** (see above).   1937 Royal Navy Signal Card
+- **NNNNN**   Answering sign    ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄ ▄▄▄ ▄    Dropped.
+- **ii**     Separative sign break    ▄ ▄   ▄ ▄    Generally replaced by **BT**, although it is still used in MARS CW operations, and other military standards.  
 Later re-used for both a "ditto" mark and to represent the warning "I repeat" before a duplicated transmission.
-- **EEEEE**  Error   ▄ ▄ ▄ ▄ ▄   Exactly five dits (code for digit **5**). Replaced by **HH** (exactly eight dits, **EEEEEEEE**).
-- **RRRRR**  Receipt sign  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  Replaced by **R**.
-- **É** (printed as e)  Further message sign   ▄ ▄ ▄▄▄ ▄ ▄   Re-purposed original ITU symbol for **É** not used in English.
+- **EEEEE**   Error    ▄ ▄ ▄ ▄ ▄    Exactly five dits (code for digit **5**). Replaced by **HH** (exactly eight dits, **EEEEEEEE**).
+- **RRRRR**   Receipt sign   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   Replaced by **R**.
+- **É** (printed as e)   Further message sign    ▄ ▄ ▄▄▄ ▄ ▄    Re-purposed original ITU symbol for **É** not used in English.
 
 ---
 

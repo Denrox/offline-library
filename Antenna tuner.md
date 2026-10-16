@@ -30,7 +30,7 @@ It should be added that many ferrite based transformers perform a balanced to un
 
 There are several designs for impedance matching using an autotransformer, which is a single-wire transformer with different connection points or *taps* spaced along the windings. They are distinguished mainly by their *impedance* transform ratio (1:1, 1:4, 1:9, etc., the square of the winding ratio), and whether the input and output sides share a common ground, or are matched from a cable that is grounded on one side (unbalanced) to an ungrounded (usually balanced) cable. When autotransformers connect *bal*anced and *un*balanced lines they are called **[balun](Balun.md)**s, just as two-winding transformers. When two differently-grounded cables or circuits must be connected but the grounds kept independent, a full, two-winding transformer with the desired ratio is used instead.
 
-The circuit pictured at the right has three identical windings wrapped in the same direction around either an "air" core (for very high frequencies) or ferrite core (for middle, or low frequencies).  The three equal windings shown are wired for a common ground shared by two unbalanced lines (so this design is called an **unun**), and can be used as 1:1, 1:4, or 1:9 impedance match, depending on the tap chosen. (The same windings could be connected differently to make a [balun](Balun.md) instead.)
+The circuit pictured at the right has three identical windings wrapped in the same direction around either an "air" core (for very high frequencies) or ferrite core (for middle, or low frequencies). The three equal windings shown are wired for a common ground shared by two unbalanced lines (so this design is called an **unun**), and can be used as 1:1, 1:4, or 1:9 impedance match, depending on the tap chosen. (The same windings could be connected differently to make a [balun](Balun.md) instead.)
 
 For example, if the right-hand side is connected to a resistive load of 10 Ohms, the user can attach a source at any of the three ungrounded terminals on the left side of the autotransformer to get a different impedance. Notice that on the left side, the line with more windings measures greater impedance for the same 10 Ohm load on the right.
 
@@ -192,12 +192,12 @@ The TSPU incorporates all the parts of the transmitting not otherwise shown in t
 
 The TX port of the TSPU delivers a test signal. The SU delivers, to the TSPU, one or more output signals indicating the response to the test signal, one or more electrical variables (such as voltage, current, incident or forward voltage, etc.). The response sensed at the *radio port* in the case of configuration (a) or at the *antenna port* in the case of configuration (b). Note that neither configuration (a) nor (b) is ideal, since the line between the antenna and the AT attenuates SWR; response to a test signal is most accurately tested at or near the antenna feedpoint.  
 **Control scheme types**
-- Control scheme Configur­ation Extremum-seeking?
-- Type 0 n/a n/a
-- Type 1 (a) No
-- Type 2 (a) Yes
-- Type 3 (b) No
-- Type 4 (b) Yes
+- Control scheme  Configur­ation  Extremum-seeking?
+- Type 0  n/a  n/a
+- Type 1  (a)  No
+- Type 2  (a)  Yes
+- Type 3  (b)  No
+- Type 4  (b)  Yes
 
 Broydé & Clavelier (2020) distinguish five types of antenna tuner control schemes, as follows:
 

@@ -18,38 +18,38 @@ In March 2022, the U.S. Army awarded a hybrid contract valued at up to $6.1 bill
 
 ### Models
 
-- Model  Year Introduced  Quantity Produced  Features  Photo
-- RT-1439 1988 16,475 The SINCGARS baseline radio provided non-secure ECCM FH and SC FM voice and data capability over the 30- to 87.975-MHz band. The RT-1439 provided an interface for an external COMSEC device for secure operations. It could be deployed in a manpack configuration, and in conjunction with other equipment in a vehicular configuration.
-- RT-1523 (ICOM) 1990 39,375 The RT-1523 provided all features in the RT-1439, but also contained an integrated KY-57 compatible COMSEC module for secure frequency hopping operations. The RT-1523 included a keypad assembly to provide enhanced display and control functions for the operator.
-- RT-1523A   General Dynamics model
-- RT-1523B (ICOM) 1994 37,363 The RT-1523B provided improved COSITE performance and increased battery life. It marked significant performance improvements with the introduction of the enhanced message completion algorithm.
-- RT-1523C (SIP) (AN/PRC-119C) 1996 35,152 The RT-1523C(C)/U introduced several new features to the SINCGARS family. The RAILMAN COMSEC device was embedded in the RT-1523C design. The RT-1523C also introduced the Reed-Solomon Forward Error Correction algorithms to increase throughput, improve bit error rates, and improve interference protection resulting in improved/extended range performance. GPS position reporting was also embedded in all voice and Enhanced Data Mode messages to provide reporting of friendly force position in support of Situational Awareness. A new FH packet data waveform and channel access algorithm also provided for mixed voice and packet data operations in a common net.
-- RT-1523D (SIP)   General Dynamics model
-- RT-1523E (ASIP) (AN/PRC-119E) 1998 136,027 The RT-1523E was designed to include all the features of the RT-1523C, at half the size and weight, with virtually no degradation in capabilities or performance relative to the SIP RT.  
+- Model   Year Introduced   Quantity Produced   Features   Photo
+- RT-1439  1988  16,475  The SINCGARS baseline radio provided non-secure ECCM FH and SC FM voice and data capability over the 30- to 87.975-MHz band. The RT-1439 provided an interface for an external COMSEC device for secure operations. It could be deployed in a manpack configuration, and in conjunction with other equipment in a vehicular configuration.
+- RT-1523 (ICOM)  1990  39,375  The RT-1523 provided all features in the RT-1439, but also contained an integrated KY-57 compatible COMSEC module for secure frequency hopping operations. The RT-1523 included a keypad assembly to provide enhanced display and control functions for the operator.
+- RT-1523A      General Dynamics model
+- RT-1523B (ICOM)  1994  37,363  The RT-1523B provided improved COSITE performance and increased battery life. It marked significant performance improvements with the introduction of the enhanced message completion algorithm.
+- RT-1523C (SIP) (AN/PRC-119C)  1996  35,152  The RT-1523C(C)/U introduced several new features to the SINCGARS family. The RAILMAN COMSEC device was embedded in the RT-1523C design. The RT-1523C also introduced the Reed-Solomon Forward Error Correction algorithms to increase throughput, improve bit error rates, and improve interference protection resulting in improved/extended range performance. GPS position reporting was also embedded in all voice and Enhanced Data Mode messages to provide reporting of friendly force position in support of Situational Awareness. A new FH packet data waveform and channel access algorithm also provided for mixed voice and packet data operations in a common net.
+- RT-1523D (SIP)      General Dynamics model
+- RT-1523E (ASIP) (AN/PRC-119E)  1998  136,027  The RT-1523E was designed to include all the features of the RT-1523C, at half the size and weight, with virtually no degradation in capabilities or performance relative to the SIP RT.  
   
 The RT-1523E introduced a new frequency hopping mode of operation, called SINCGARS Mode 2. The new SINCGARS Mode 2 comprises all the same Mode 1 FH configurations but under a new TRANSEC security umbrella. The RT-1523E is reprogrammable via the front panel data connector.
-- RT-1523F (ASIP) (AN/PRC-119F) 2006 273,037 The RT-1523F pictured with SideHat provides a SINCGARS ASIP 2-channel radio, based upon the design of the RT-1523E. The RT-1523F program was structured into two phases. The first phase inserted the required physical and electrical interfaces into the ASIP RT-1523E in a manner that accommodates an Auxiliary Module, which provides the second channel. The second phase of the program developed the Auxiliary Module. The Auxiliary Module can be attached externally to the RT-1523F radio chassis on the left side when facing the front panel. The primary distinction between the RT-1523F and its predecessor RT-1523E is the addition of this interface.  
+- RT-1523F (ASIP) (AN/PRC-119F)  2006  273,037  The RT-1523F pictured with SideHat provides a SINCGARS ASIP 2-channel radio, based upon the design of the RT-1523E. The RT-1523F program was structured into two phases. The first phase inserted the required physical and electrical interfaces into the ASIP RT-1523E in a manner that accommodates an Auxiliary Module, which provides the second channel. The second phase of the program developed the Auxiliary Module. The Auxiliary Module can be attached externally to the RT-1523F radio chassis on the left side when facing the front panel. The primary distinction between the RT-1523F and its predecessor RT-1523E is the addition of this interface.  
   
 The RT-1523F also introduced the Radio Based Combat ID (RBCI) capability. This enhancement allows the radio to operate as a RBCI Interrogator, a RBCI RE-Relay, and it allows it to add RBCI Responder functionality to any of its FH voice or data modes. The RT-1523F also introduced the Radio Based Situational Awareness (RBSA) enhancement to the existing SA capabilities of the ASIP radios.
-- RT-1523G (ASIP) 2010 12,029 The RT-1523G provides all features and functions of the RT-1523F. Additionally, the RT-1523G provided Crypto- Modernization and JTRS SCA Compliance for the SINCGARS program. An upgrade path was intended to bring all RT-1523E and RT-1523F radios to the RT-1523G configuration but was not implemented.
-- RT-1523H 2025  Thales CNR (AN/PRC-7350)
-- RT-1523H 2025  L3Harris CNR (AN/PRC-119G)
-- RT-1730C   Modified RT-1523C for Naval applications.
-- RT-1730E   Modified RT-1523E for Naval applications
-- RT-1702E   Export version of the RT-1523E
-- RT-1702F   Export version of the RT-1523F
+- RT-1523G (ASIP)  2010  12,029  The RT-1523G provides all features and functions of the RT-1523F. Additionally, the RT-1523G provided Crypto- Modernization and JTRS SCA Compliance for the SINCGARS program. An upgrade path was intended to bring all RT-1523E and RT-1523F radios to the RT-1523G configuration but was not implemented.
+- RT-1523H  2025    Thales CNR (AN/PRC-7350)
+- RT-1523H  2025    L3Harris CNR (AN/PRC-119G)
+- RT-1730C      Modified RT-1523C for Naval applications.
+- RT-1730E      Modified RT-1523E for Naval applications
+- RT-1702E      Export version of the RT-1523E
+- RT-1702F      Export version of the RT-1523F
 
 ### RT-1523 VHF radio configurations
 
-- Configuration  Description
-- AN/VRC-87 Vehicular 5-watt short-range
-- AN/MRC-145 Vehicular 50-watt radio system with two RT-1523s and a HMMWV assigned to the system
-- AN/VRC-88 Vehicular 5-watt short-range dismountable – with manpack accessories
-- AN/VRC-89 Vehicular 50-watt long-range/short-range
-- AN/VRC-90 Vehicular 50-watt long-range
-- AN/VRC-91 Vehicular 50-watt long-range dismountable short-range – with manpack accessories
-- AN/VRC-92 Vehicular 50-watt dual long-range (retransmit) – plus 2nd power amp and retrans cable
-- AN/PRC-119 5-watt manpack
+- Configuration   Description
+- AN/VRC-87  Vehicular 5-watt short-range
+- AN/MRC-145  Vehicular 50-watt radio system with two RT-1523s and a HMMWV assigned to the system
+- AN/VRC-88  Vehicular 5-watt short-range dismountable – with manpack accessories
+- AN/VRC-89  Vehicular 50-watt long-range/short-range
+- AN/VRC-90  Vehicular 50-watt long-range
+- AN/VRC-91  Vehicular 50-watt long-range dismountable short-range – with manpack accessories
+- AN/VRC-92  Vehicular 50-watt dual long-range (retransmit) – plus 2nd power amp and retrans cable
+- AN/PRC-119  5-watt manpack
 
 ### Ancillary items
 

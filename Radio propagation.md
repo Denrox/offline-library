@@ -15,53 +15,53 @@ In addition, there are several less common radio propagation mechanisms, such as
 At different frequencies, radio waves travel through the atmosphere by different mechanisms or modes:
 
 Radio frequencies and their primary mode of propagation
-- [Band](Radio%20spectrum.md)  Frequency  Wavelength  Propagation via
-- ELF  Extremely Low Frequency  3–30 Hz  100,000–10,000 km  Guided between the Earth and the D layer of the ionosphere.
-- SLF  Super Low Frequency  30–300 Hz  10,000–1,000 km  Guided between the Earth and the [ionosphere](Ionosphere.md).
-- ULF  Ultra Low Frequency  0.3–3 kHz  
-(300–3,000 Hz)  1,000–100 km  Guided between the Earth and the [ionosphere](Ionosphere.md).
-- VLF  Very Low Frequency  3–30 kHz  
-(3,000–30,000 Hz)  100–10 km  Guided between the Earth and the [ionosphere](Ionosphere.md).
+- [Band](Radio%20spectrum.md)   Frequency   Wavelength   Propagation via
+- ELF   Extremely Low Frequency   3–30 Hz   100,000–10,000 km   Guided between the Earth and the D layer of the ionosphere.
+- SLF   Super Low Frequency   30–300 Hz   10,000–1,000 km   Guided between the Earth and the [ionosphere](Ionosphere.md).
+- ULF   Ultra Low Frequency   0.3–3 kHz  
+(300–3,000 Hz)   1,000–100 km   Guided between the Earth and the [ionosphere](Ionosphere.md).
+- VLF   Very Low Frequency   3–30 kHz  
+(3,000–30,000 Hz)   100–10 km   Guided between the Earth and the [ionosphere](Ionosphere.md).
 
 [Ground waves](Ground%20wave.md).
 
-- LF  Low Frequency  30–300 kHz  
-(30,000–300,000 Hz)  10–1 km  Guided between the Earth and the ionosphere.
+- LF   Low Frequency   30–300 kHz  
+(30,000–300,000 Hz)   10–1 km   Guided between the Earth and the ionosphere.
 
 [Ground waves](Ground%20wave.md).
 
-- [MF](Medium%20frequency.md)  Medium Frequency  300–3,000 kHz  
-(300,000–3,000,000 Hz)  1000–100 m  [Ground waves](Ground%20wave.md).
+- [MF](Medium%20frequency.md)   Medium Frequency   300–3,000 kHz  
+(300,000–3,000,000 Hz)   1000–100 m   [Ground waves](Ground%20wave.md).
 
 E, F layer ionospheric refraction at night, when D layer absorption weakens.
 
-- [HF](High%20frequency.md)  High Frequency (Short Wave)  3–30 MHz  
-(3,000,000–30,000,000 Hz)  100–10 m  E layer ionospheric refraction.
+- [HF](High%20frequency.md)   High Frequency (Short Wave)   3–30 MHz  
+(3,000,000–30,000,000 Hz)   100–10 m   E layer ionospheric refraction.
 
 F1, F2 layer ionospheric refraction.
 
-- [VHF](Very%20high%20frequency.md)  Very High Frequency  30–300 MHz  
+- [VHF](Very%20high%20frequency.md)   Very High Frequency   30–300 MHz  
 (30,000,000–  
-300,000,000 Hz)  10–1 m  [Line-of-sight propagation](Line-of-sight%20propagation.md).
+300,000,000 Hz)   10–1 m   [Line-of-sight propagation](Line-of-sight%20propagation.md).
 
 Infrequent [E ionospheric (Es) refraction](Sporadic%20E%20propagation.md). Uncommonly F2 layer ionospheric refraction during high sunspot activity up to 50 MHz and rarely to 80 MHz. Sometimes tropospheric ducting or meteor scatter
 
-- [UHF](Ultra%20high%20frequency.md)  Ultra High Frequency  300–3,000 MHz  
+- [UHF](Ultra%20high%20frequency.md)   Ultra High Frequency   300–3,000 MHz  
 (300,000,000–  
-3,000,000,000 Hz)  100–10 cm  [Line-of-sight propagation](Line-of-sight%20propagation.md). Sometimes tropospheric ducting.
-- SHF  Super High Frequency  3–30 GHz  
+3,000,000,000 Hz)   100–10 cm   [Line-of-sight propagation](Line-of-sight%20propagation.md). Sometimes tropospheric ducting.
+- SHF   Super High Frequency   3–30 GHz  
 (3,000,000,000–  
-30,000,000,000 Hz)  10–1 cm  [Line-of-sight propagation](Line-of-sight%20propagation.md). Sometimes rain scatter.
-- EHF  Extremely High Frequency  30–300 GHz  
+30,000,000,000 Hz)   10–1 cm   [Line-of-sight propagation](Line-of-sight%20propagation.md). Sometimes rain scatter.
+- EHF   Extremely High Frequency   30–300 GHz  
 (30,000,000,000–  
-300,000,000,000 Hz)  10–1 mm  [Line-of-sight propagation](Line-of-sight%20propagation.md), limited by atmospheric absorption to a few kilometers (miles)
-- THF  Tremendously High frequency  0.3–3 THz  
+300,000,000,000 Hz)   10–1 mm   [Line-of-sight propagation](Line-of-sight%20propagation.md), limited by atmospheric absorption to a few kilometers (miles)
+- THF   Tremendously High frequency   0.3–3 THz  
 (300,000,000,000–  
-3,000,000,000,000 Hz)  1–0.1 mm  [Line-of-sight propagation](Line-of-sight%20propagation.md), limited by atmospheric absorption to a few meters.
-- FIR  Far infrared light  
-(overlaps radio)  0.3–20 THz  
+3,000,000,000,000 Hz)   1–0.1 mm   [Line-of-sight propagation](Line-of-sight%20propagation.md), limited by atmospheric absorption to a few meters.
+- FIR   Far infrared light  
+(overlaps radio)   0.3–20 THz  
 (300,000,000,000–  
-20,000,000,000,000 Hz)  1,000–150 μm  [Line-of-sight propagation](Line-of-sight%20propagation.md), mostly limited by atmospheric absorption to a few meters.
+20,000,000,000,000 Hz)   1,000–150 μm   [Line-of-sight propagation](Line-of-sight%20propagation.md), mostly limited by atmospheric absorption to a few meters.
 
 ### Free space propagation
 

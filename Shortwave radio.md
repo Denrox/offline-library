@@ -92,21 +92,21 @@ The World Radiocommunication Conference (WRC), organized under the auspices of t
 
 As of WRC-97 in 1997, these bands were allocated for international broadcasting. AM shortwave broadcasting channels are allocated with a 5 kHz separation for traditional analog audio broadcasting:
 
-- Metre Band  Frequency Range  Remarks
-- 120 m  2.3–2.495 MHz  tropical band
-- 90 m  3.2–3.4 MHz  tropical band
-- 75 m  3.9–4 MHz  shared with the North American [ITU Region 2 amateur radio 80m band](80-meter%20band.md) (3.5-4.0 MHz)
-- 60 m  4.75–5.06 MHz  tropical band
-- 49 m  5.9–6.2 MHz
-- 41 m  7.2–7.6 MHz  partly shared with the [ITU Region 2 amateur radio 40m band](Amateur%20radio%20frequency%20allocations.md) (7.0-7.3 MHz)
-- 31 m  9.4–9.9 MHz  the most heavily used band
-- 25 m  11.6–12.2 MHz
-- 22 m  13.57–13.87 MHz
-- 19 m  15.1–15.8 MHz
-- 16 m  17.48–17.9 MHz
-- 15 m  18.9–19.02 MHz  almost unused, could become a DRM band
-- 13 m  21.45–21.85 MHz
-- 11 m  25.6–26.1 MHz  may be used for local DRM broadcasting
+- Metre Band   Frequency Range   Remarks
+- 120 m   2.3–2.495 MHz   tropical band
+- 90 m   3.2–3.4 MHz   tropical band
+- 75 m   3.9–4 MHz   shared with the North American [ITU Region 2 amateur radio 80m band](80-meter%20band.md) (3.5-4.0 MHz)
+- 60 m   4.75–5.06 MHz   tropical band
+- 49 m   5.9–6.2 MHz
+- 41 m   7.2–7.6 MHz   partly shared with the [ITU Region 2 amateur radio 40m band](Amateur%20radio%20frequency%20allocations.md) (7.0-7.3 MHz)
+- 31 m   9.4–9.9 MHz   the most heavily used band
+- 25 m   11.6–12.2 MHz
+- 22 m   13.57–13.87 MHz
+- 19 m   15.1–15.8 MHz
+- 16 m   17.48–17.9 MHz
+- 15 m   18.9–19.02 MHz   almost unused, could become a DRM band
+- 13 m   21.45–21.85 MHz
+- 11 m   25.6–26.1 MHz   may be used for local DRM broadcasting
 
 Although countries generally follow the assigned bands, there may be small differences between countries or regions. For example, in the official bandplan of the Netherlands, the 49 m band starts at 5.95 MHz, the 41 m band ends at 7.45 MHz, the 11 m band starts at 25.67 MHz, and the 120 m, 90 m, and 60 m bands are absent altogether. International broadcasters sometimes operate outside the normal the WRC-allocated bands or use off-channel frequencies. This is done for practical reasons, or to attract attention in crowded bands (60 m, 49 m, 40 m, 41 m, 31 m, 25 m).
 

@@ -37,28 +37,28 @@ Fldigi software is also used for [amateur radio emergency communications](Amateu
 
 ### Supported digital modes
 
-- Mode name  Speeds supported  Custom modes
-- [Morse code](Morse%20code.md) CW  5–50 words-per-minute  Yes
-- PSK  [31](PSK31.md), 63, 63F, 125, 250, 500, 1000  No
-- FSQ  2, 3, 4.5, 6  No
-- IFKP  0.5, 1.0, 2.0  No
-- Contestia  4/125, 4/250, 8/250, 4/500, 8/500, 16/500, 8/1000, 16/1000, 32/1000, 64/1000  Yes
-- DominoEX  Micro, 4, 5, 8, 11, 16, 22, 44, 88  No
-- Hellschreiber  Feld Hell, Slow Hell, Feld Hell X5, Feld Hell X9, FSK Hell, FSK Hell-105, Hell 80  No
-- MFSK  4, 8, 11, 16, 22, 31, 32, 64, 64L, 128, 128L  No
-- MT63  500S, 1000S, 2000S, 500L, 1000L, 2000L  No
-- Navtex  Navtex  No
-- Olivia  4/250, 8/250, 4/500, 8/500, 16/500, 8/1000, 16/1000, 32/1000, 64/2000  Yes
-- QPSK  31, 63, 125, 250, 500  No
-- 8PSK  125, 250, 500, 1000, 125FL, 250FL, 125F, 250F, 500F, 1000F, 1200F  No
-- PSKR  125R, 250R, 500R, 1000R  No
-- RTTY  45.45/170, 50/170, 75/170, 75/850  Yes
-- SYNOP  SYNOP  No
-- THOR  Micro, 4, 5, 8, 11, 16, 22, 25x4, 50x1, 50x2 100  No
-- SITORB  SitorB  No
-- Throb / ThrobX  1, 2, 4   **/**   X1, X2, X4  No
-- WEFAX  IOC-576, IOC288  No
-- OFDM  500F, 750F, 3500  No
+- Mode name   Speeds supported   Custom modes
+- [Morse code](Morse%20code.md) CW   5–50 words-per-minute   Yes
+- PSK   [31](PSK31.md), 63, 63F, 125, 250, 500, 1000   No
+- FSQ   2, 3, 4.5, 6   No
+- IFKP   0.5, 1.0, 2.0   No
+- Contestia   4/125, 4/250, 8/250, 4/500, 8/500, 16/500, 8/1000, 16/1000, 32/1000, 64/1000   Yes
+- DominoEX   Micro, 4, 5, 8, 11, 16, 22, 44, 88   No
+- Hellschreiber   Feld Hell, Slow Hell, Feld Hell X5, Feld Hell X9, FSK Hell, FSK Hell-105, Hell 80   No
+- MFSK   4, 8, 11, 16, 22, 31, 32, 64, 64L, 128, 128L   No
+- MT63   500S, 1000S, 2000S, 500L, 1000L, 2000L   No
+- Navtex   Navtex   No
+- Olivia   4/250, 8/250, 4/500, 8/500, 16/500, 8/1000, 16/1000, 32/1000, 64/2000   Yes
+- QPSK   31, 63, 125, 250, 500   No
+- 8PSK   125, 250, 500, 1000, 125FL, 250FL, 125F, 250F, 500F, 1000F, 1200F   No
+- PSKR   125R, 250R, 500R, 1000R   No
+- RTTY   45.45/170, 50/170, 75/170, 75/850   Yes
+- SYNOP   SYNOP   No
+- THOR   Micro, 4, 5, 8, 11, 16, 22, 25x4, 50x1, 50x2 100   No
+- SITORB   SitorB   No
+- Throb / ThrobX   1, 2, 4 **/** X1, X2, X4   No
+- WEFAX   IOC-576, IOC288   No
+- OFDM   500F, 750F, 3500   No
 
 ### Portability
 

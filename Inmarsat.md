@@ -64,47 +64,47 @@ On 26 November 2019, the first satellite to extend the original 4 satellite firs
 
 ### Satellites
 
-- Satellite  Coverage  Longitude  Vehicles  Launch date (UTC)  Services / notes
+- Satellite   Coverage   Longitude   Vehicles   Launch date (UTC)   Services / notes
 - Marisat series
-- Marisat F1    Delta 2914 19 February 1976 Decommissioned 1997
-- Marisat F2    Delta 2914 14 October 1976 Transferred to Intelsat in 2004, decommissioned in 2008
-- Marisat F3    Delta 2914 10 June 1976 Decommissioned
+- Marisat F1       Delta 2914  19 February 1976  Decommissioned 1997
+- Marisat F2       Delta 2914  14 October 1976  Transferred to Intelsat in 2004, decommissioned in 2008
+- Marisat F3       Delta 2914  10 June 1976  Decommissioned
 - MARECS series
-- MARECS-A    Ariane 1 20 December 1981 Deactivated August 1996
-- MARECS-B    Ariane 1 9 September 1982 Launch failure
-- MARECS-C    Ariane 3 10 November 1984 also known as MARECS-B2, deactivated 2002
+- MARECS-A       Ariane 1  20 December 1981  Deactivated August 1996
+- MARECS-B       Ariane 1  9 September 1982  Launch failure
+- MARECS-C       Ariane 3  10 November 1984  also known as MARECS-B2, deactivated 2002
 - Inmarsat-2 series
-- Inmarsat-2 F1    Delta II 6925 30 October 1990 Decommissioned 19 April 2013  
+- Inmarsat-2 F1       Delta II 6925  30 October 1990  Decommissioned 19 April 2013  
 Previous record holder for mission lifespan
-- Inmarsat-2 F2    Delta II 6925 8 March 1991 Decommissioned in December 2014  
+- Inmarsat-2 F2       Delta II 6925  8 March 1991  Decommissioned in December 2014  
 World record for mission lifespan
-- Inmarsat-2 F3    Ariane 44L 16 December 1991 Decommissioned 2006
-- Inmarsat-2 F4    Ariane 44L 15 April 1992 Decommissioned 2012
+- Inmarsat-2 F3       Ariane 44L  16 December 1991  Decommissioned 2006
+- Inmarsat-2 F4       Ariane 44L  15 April 1992  Decommissioned 2012
 - Inmarsat-3 series
-- Inmarsat-3 F1    Atlas IIA 3 April 1996 Reassigned to Maritime safety backup service in 2020
-- Inmarsat-3 F2    Proton-K/DM1 6 September 1996 Reassigned to Maritime safety backup service in 2019
-- Inmarsat-3 F3   178° East Atlas IIA 18 December 1996 Existing and evolved services only
-- Inmarsat-3 F4    Ariane 44L 3 June 1997 Decommissioned 2016
-- Inmarsat-3 F5  AOR 54° West Ariane 44LP 4 February 1998 L-band, Classic Aero services and other various leases
+- Inmarsat-3 F1       Atlas IIA  3 April 1996  Reassigned to Maritime safety backup service in 2020
+- Inmarsat-3 F2       Proton-K/DM1  6 September 1996  Reassigned to Maritime safety backup service in 2019
+- Inmarsat-3 F3     178° East  Atlas IIA  18 December 1996  Existing and evolved services only
+- Inmarsat-3 F4       Ariane 44L  3 June 1997  Decommissioned 2016
+- Inmarsat-3 F5   AOR  54° West  Ariane 44LP  4 February 1998  L-band, Classic Aero services and other various leases
 - Inmarsat-4 series
-- Inmarsat-4 F1  APAC 178° East Atlas V 431 11 March 2005 L-band, BGAN family, Classic Aero, SPS and lease services
-- Inmarsat-4 F2  IOR 143.5° East Zenit-3SL 8 November 2005 L-band, BGAN family, Classic Aero, SPS and lease services, FleetBroadband, SwiftBroadband
+- Inmarsat-4 F1   APAC  178° East  Atlas V 431  11 March 2005  L-band, BGAN family, Classic Aero, SPS and lease services
+- Inmarsat-4 F2   IOR  143.5° East  Zenit-3SL  8 November 2005  L-band, BGAN family, Classic Aero, SPS and lease services, FleetBroadband, SwiftBroadband
 
 Transferred from 25° East to 63° East in mid-2015
 
-- Inmarsat-4 F3  AMER 98° West Proton-M / Briz-M 18 August 2008 L-band, BGAN family, Classic Aero and lease services
-- Inmarsat-4A F4 (AlphaSat)  EMEA 25° East Ariane 5ECA 25 July 2013 L-band, BGAN family, Classic Aero, SPS and lease services
+- Inmarsat-4 F3   AMER  98° West  Proton-M / Briz-M  18 August 2008  L-band, BGAN family, Classic Aero and lease services
+- Inmarsat-4A F4 (AlphaSat)   EMEA  25° East  Ariane 5ECA  25 July 2013  L-band, BGAN family, Classic Aero, SPS and lease services
 - Inmarsat-5 (GX) series
-- Inmarsat-5 F1 (GX-1)  I-5 Europe, Middle East, Africa 62.6° East Proton-M / Briz-M 8 December 2013 Ka-band global data services, Global Xpress
-- Inmarsat-5 F2 (GX-2)  I-5 Americas 55° West Proton-M / Briz-M 2 February 2015 Ka-band global data services, Global Xpress
-- Inmarsat-5 F3 (GX-3)  I-5 Pacific, Asia, West Americas 179.6° East Proton-M / Briz-M 28 August 2015 Ka-band global data services, Global Xpress
-- Inmarsat-5 F4 (GX-4)  I-5 Europe + in-orbit spare 56.5° East Falcon 9 Full Thrust 15 May 2017 Ka-band global data services, Global Xpress
-- Inmarsat-5 F5 (GX-5)  Europe and Middle East 11° East Ariane 5ECA 26 November 2019 Ka-band global data services, higher capacity GX satellite after the 4 first generation satellites
+- Inmarsat-5 F1 (GX-1)   I-5 Europe, Middle East, Africa  62.6° East  Proton-M / Briz-M  8 December 2013  Ka-band global data services, Global Xpress
+- Inmarsat-5 F2 (GX-2)   I-5 Americas  55° West  Proton-M / Briz-M  2 February 2015  Ka-band global data services, Global Xpress
+- Inmarsat-5 F3 (GX-3)   I-5 Pacific, Asia, West Americas  179.6° East  Proton-M / Briz-M  28 August 2015  Ka-band global data services, Global Xpress
+- Inmarsat-5 F4 (GX-4)   I-5 Europe + in-orbit spare  56.5° East  Falcon 9 Full Thrust  15 May 2017  Ka-band global data services, Global Xpress
+- Inmarsat-5 F5 (GX-5)   Europe and Middle East  11° East  Ariane 5ECA  26 November 2019  Ka-band global data services, higher capacity GX satellite after the 4 first generation satellites
 - European Aviation Network
-- Inmarsat S EAN (Hellas Sat 3)  Europe 39° East Ariane 5 28 June 2017 S-band services for European aviation
+- Inmarsat S EAN (Hellas Sat 3)   Europe  39° East  Ariane 5  28 June 2017  S-band services for European aviation
 - Inmarsat-6 series
-- Inmarsat-6 F1      H-IIA F45  22 December 2021
-- Inmarsat-6 F2      Falcon 9 Block 5  18 February 2023  Failed in orbit
+- Inmarsat-6 F1         H-IIA F45   22 December 2021
+- Inmarsat-6 F2         Falcon 9 Block 5   18 February 2023   Failed in orbit
 
 ### Country codes
 

@@ -156,88 +156,88 @@ RCCs are responsible for a geographic area, known as a "search-and-rescue region
 
 These international search-and-rescue points of contact receive SAR alerts from the USMCC.
 
-- SPOC  SRR Name  Geographic Coverage  SAR Agency
-- Argentina - Servicio de Alerta de Socorro Satelital (SASS)  ARMCC
-- Bermuda Maritime Operations Centre  BERMUDASP
-- Central American Corporation for Navigation Area Services  COCESNA
-- Colombia  COLMSP
-- Dominican Republic  DOMREPSP
-- Ecuador  ECSP
-- Guyana  GUYSP
-- Mexico  MEXISP
-- Mexico Telecommunications  MEXTEL
-- Netherlands Antilles  NANTSP
-- Panama  PANSP
-- Trinidad and Tobago  TTSP
-- Venezuela  VZMCC
-- Bolivia  BOLSP
-- Chile RCC  ChileRCC
-- Paraguay  PARSP
-- Uruguay  URSP
+- SPOC   SRR Name   Geographic Coverage   SAR Agency
+- Argentina - Servicio de Alerta de Socorro Satelital (SASS)   ARMCC
+- Bermuda Maritime Operations Centre   BERMUDASP
+- Central American Corporation for Navigation Area Services   COCESNA
+- Colombia   COLMSP
+- Dominican Republic   DOMREPSP
+- Ecuador   ECSP
+- Guyana   GUYSP
+- Mexico   MEXISP
+- Mexico Telecommunications   MEXTEL
+- Netherlands Antilles   NANTSP
+- Panama   PANSP
+- Trinidad and Tobago   TTSP
+- Venezuela   VZMCC
+- Bolivia   BOLSP
+- Chile RCC   ChileRCC
+- Paraguay   PARSP
+- Uruguay   URSP
 
 ###### United States
 
 The U.S. NOAA operates the U.S. Mission Control Center (USMCC) in Suitland, Maryland. It distributes beacon signal reports to one or more of these RCCs:
 
 United States SPOCs
-- RCC  SRR name  Geographic coverage  SAR agency  Phone number
-- Air Force Rescue Coordination Center  AFRCC  Land-based emergency signals in the lower 48 states  United States Air Force Auxiliary Civil Air Patrol
-- Alaska Air National Guard operates the Alaska Rescue Coordination Center  AKRCC  Alaskan inland areas  On-shore beacons are investigated by local search-and-rescue services in Alaska.
-- U.S. Coast Guard    The Coast Guard investigates offshore beacons and rescues victims.
-- Coast Guard Atlantic Area  LANTAREA      757-398-6700
+- RCC   SRR name   Geographic coverage   SAR agency   Phone number
+- Air Force Rescue Coordination Center   AFRCC   Land-based emergency signals in the lower 48 states   United States Air Force Auxiliary Civil Air Patrol
+- Alaska Air National Guard operates the Alaska Rescue Coordination Center   AKRCC   Alaskan inland areas   On-shore beacons are investigated by local search-and-rescue services in Alaska.
+- U.S. Coast Guard      The Coast Guard investigates offshore beacons and rescues victims.
+- Coast Guard Atlantic Area   LANTAREA         757-398-6700
 - District 1: Boston, MA
 
 (RCC Boston)
 
-CGD01      **(617)223-8555**
+CGD01         **(617)223-8555**
 - District 5: Portsmouth, VA
 
 (RCC Norfolk)
 
-CGD05      **(757)398-6231**
+CGD05         **(757)398-6231**
 - District 7: Miami, FL
 
 (RCC Miami)
 
-CGD07      **(305)415-6800**
+CGD07         **(305)415-6800**
 - District 8: New Orleans, LA
 
 (RCC New Orleans)
 
-CGD08      **(504)589-6225**
+CGD08         **(504)589-6225**
 - District 9: Cleveland, OH
 
 (RCC Cleveland)
 
-CGD09      **(216)902-6117**
+CGD09         **(216)902-6117**
 - District 11: Alameda, CA
 
 (RCC Alameda and
 
 Pacific SAR Coordinator)
 
-PACAREA      **(510)437-3701**
+PACAREA         **(510)437-3701**
 - District 13: Seattle, WA
 
 (RCC Seattle)
 
-CGD13      **(206)220-7001**
+CGD13         **(206)220-7001**
 - District 14: Honolulu, HI
 
 (RCC Honolulu; operated as JRCC with DOD)
 
-CGD14      **(808)535-3333**
+CGD14         **(808)535-3333**
 - District 17: Juneau, AK
 
 (RCC Juneau)
 
-CGD17      **(907)463-2000**
+CGD17         **(907)463-2000**
 - U.S. Coast Guard Sector San Juan (RSC)
 
 (sub-sector of RCC Miami)
 
-SANJN      **(787)289-2042**
-- U.S. Coast Guard Sector Guam (RSC) (coordinates SAR under RCC Honolulu)  MARSEC      **(671)355-4824**
+SANJN         **(787)289-2042**
+- U.S. Coast Guard Sector Guam (RSC) (coordinates SAR under RCC Honolulu)   MARSEC         **(671)355-4824**
 
 The US Coast Guard web page for EPIRBs states: "You may be fined for false activation of an unregistered EPIRB. The US Coast Guard routinely refers cases involving the nondistress activation of an EPIRB (e.g., as a hoax, through gross negligence, carelessness, or improper storage and handling) to the Federal Communications Commission. The FCC will prosecute cases based upon evidence provided by the Coast Guard, and will issue warning letters or notices of apparent liability for fines up to $10,000."
 
@@ -247,9 +247,9 @@ The Canadian Mission Control Centre receives and distributes distress alerts.
 
 In Canada, the Canadian Coast Guard and Canadian Forces Search and Rescue (Royal Canadian Air Force and Royal Canadian Navy) are partners in Joint Rescue Co-ordination Centres; CCG operates Maritime Rescue Subcentres to offload work from JRCC.
 
-- RCC  SRR Name  Geographic Coverage  SAR Agency
-- Joint Rescue Coordination Centre Halifax  HALIFAX  Halifax Search and Rescue Region
-- Maritime Rescue Sub-Centre Quebec  QuebecCity
+- RCC   SRR Name   Geographic Coverage   SAR Agency
+- Joint Rescue Coordination Centre Halifax   HALIFAX   Halifax Search and Rescue Region
+- Maritime Rescue Sub-Centre Quebec   QuebecCity
 
 - the St. Lawrence River within the province of Quebec
 - the northern and western waters of the Gulf of St. Lawrence within the province of Quebec
@@ -257,12 +257,12 @@ In Canada, the Canadian Coast Guard and Canadian Forces Search and Rescue (Royal
 - the Richelieu River within the province of Quebec
 - the southern portion of the Ottawa River downstream from the Carillon Generating Station
 
-- Joint Rescue Coordination Centre Trenton  TRENTON  Trenton Search and Rescue Region.
+- Joint Rescue Coordination Centre Trenton   TRENTON   Trenton Search and Rescue Region.
 
 AIRCOM also operates the Canadian Mission Control Centre (CMCC) from JRCC Trenton
 
-- Joint Rescue Coordination Centre Victoria  VICTORIA  Victoria Search and Rescue Region
-- Maritime Rescue Sub-Centre St. John's    waters surrounding the province of Newfoundland and Labrador
+- Joint Rescue Coordination Centre Victoria   VICTORIA   Victoria Search and Rescue Region
+- Maritime Rescue Sub-Centre St. John's      waters surrounding the province of Newfoundland and Labrador
 
 ##### Europe
 
@@ -354,7 +354,7 @@ According to the U.S. Federal Aviation Administration, ground testing of A-, B-,
 
 - Automatic SOS radios were developed as early as the 1930s.
 - The United States Air Force institutes development of a "Crash-Locator Beacon" and a "Crash-Locator Bearing Recorder" in the early 1950s.
-- In the UK, by 1959 the first automatic beacon for liferafts had been produced by Ultra Electronics, and at the same time Burndept produced the TALBE (Talk and Listen Beacon Equipment) - VHF, and SARBE - Search-And-Rescue-Beacon Equipment (UHF) range of beacons which were used by the Fleet Air Arm and later, Royal Air Force. Later, SARBE beacons included a radio for voice communication by the survivor with the rescuing personnel.
+- In the UK, by 1959 the first automatic beacon for liferafts had been produced by Ultra Electronics, and at the same time Burndept produced the TALBE (Talk and Listen Beacon Equipment)[[1]](http://www.aviationancestry.co.uk/?companies/&companyName=Burndept+Ltd) - VHF, and SARBE - Search-And-Rescue-Beacon Equipment (UHF) range of beacons which were used by the Fleet Air Arm and later, Royal Air Force. Later, SARBE beacons included a radio for voice communication by the survivor with the rescuing personnel.
 - Jan 9 1964: FAA Advisory Circular 170-4 investigated ELTs
 - Mar 17 1969: FAA Advisory Circular 91-19 advised pilots to install ELTs
 - A Saturday Evening Post article covered the death of 16-year-old Carla Corbus, who survived, though badly injured, along with her mother, for 54 days after the plane her step-dad was flying crashed in the Trinity Alps of California in March 1967. He was lost and died in the woods looking for rescue.
@@ -559,8 +559,8 @@ The following list shows the agencies accepting 406 beacon registrations by coun
 - Italy – Stazione Satellitare Italiana - Cospas Sarsat
 - Netherlands – Agentschap Telecom (NL)
 - Denmark - Danish Maritime Authority
-- New Zealand - New Zealand Rescue Coordination Centre  Archived 2016-12-02 at the Wayback Machine
-- Switzerland - Federal Office for Civil Aviation  Archived 2018-07-12 at the Wayback Machine
+- New Zealand - New Zealand Rescue Coordination Centre [[2]](http://www.maritimenz.govt.nz/about/what-we-do/safety-and-response/RCCNZ/) Archived 2016-12-02 at the Wayback Machine
+- Switzerland - Federal Office for Civil Aviation [[3]](https://www.bazl.admin.ch/bazl/en/home/specialists/safety-risk-management/stay-safe-/recommendations--sand-/installation-and-registration-of-an-emergency-locator-transmitte.html) Archived 2018-07-12 at the Wayback Machine
 - International – Cospas-Sarsat International 406 MHz Beacon Registration Database (IBRD)
 
 ### Specifications

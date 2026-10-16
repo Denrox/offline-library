@@ -127,8 +127,8 @@ The current is the sum of two terms: the original sinusoidal wave which is 90° 
 ### Input impedance
 
 For most monopole antennas ohmic resistance is small, so the input resistance mainly consists of the radiation resistance $$R_\text{R}$$. Over a perfectly conducting infinite ground plane, the input impedance of a monopole is half that of a center-fed dipole twice the length. The impedance of a linear antenna can be found using the *induced EMF method* invented by Léon Brillouin, by calculating the near fields, and integrating the Poynting vector over the surface of the antenna rod. For a thin, base-fed monopole up to about $$h = \pi/4$$ long, in which the thickness $$2b$$ of the element is much less than the wavelength ($$kb \ll 1$$), over a perfectly conducting infinite ground plane, the radiation resistance $$R_\text{R}$$ and reactance $$X_\text{R}$$ in ohms are  
-$$R_\text{R} = {\eta \over 4\pi\sin^2 kh}\Biggl\{\text{Cin}(2kh) + {1 \over 2}\sin 2kh\Bigl[\text{Si}(4kh) - 2\text{Si}(2kh)\Bigr] + {1 \over 2}\cos 2kh\Bigl[2\text{Cin}(2kh) - \text{Cin}(4kh)\Bigr] \biggr\}$$        (1)  
-$$X_\text{R} = {\eta \over 4\pi\sin^2 kh}\biggl\{\text{Si}(2kh) + \cos 2kh\Bigl[\text{Si}(2kh) - {1 \over 2}\text{Si}(4kh)\Bigr] - \sin 2kh\Bigl[\ln (h/b) - \text{Cin}(2kh) + {1 \over 2}\text{Cin}(4kh) + {1 \over 2}\text{Cin}(kb^2/h)\Bigr] \biggr\}$$  (2)
+$$R_\text{R} = {\eta \over 4\pi\sin^2 kh}\Biggl\{\text{Cin}(2kh) + {1 \over 2}\sin 2kh\Bigl[\text{Si}(4kh) - 2\text{Si}(2kh)\Bigr] + {1 \over 2}\cos 2kh\Bigl[2\text{Cin}(2kh) - \text{Cin}(4kh)\Bigr] \biggr\}$$ (1)  
+$$X_\text{R} = {\eta \over 4\pi\sin^2 kh}\biggl\{\text{Si}(2kh) + \cos 2kh\Bigl[\text{Si}(2kh) - {1 \over 2}\text{Si}(4kh)\Bigr] - \sin 2kh\Bigl[\ln (h/b) - \text{Cin}(2kh) + {1 \over 2}\text{Cin}(4kh) + {1 \over 2}\text{Cin}(kb^2/h)\Bigr] \biggr\}$$ (2)
 
 where  
 $$k = {2\pi \over \lambda} = {2\pi f \over c}$$ is the wavenumber. $$kh$$ is the electrical length of the element in radians  
@@ -278,15 +278,15 @@ With an asymmetrical ground plane, such as a [whip antenna](Whip%20antenna.md) m
 Characteristics of a thin monopole over perfect ground
 - Length $$h$$  
 wavelengths    Gain  
-[dBi](Decibel.md)  3 dB Beamwidth  
-degrees  Radiation resistance  
+[dBi](Decibel.md)   3 dB Beamwidth  
+degrees   Radiation resistance  
 ohms
-- ≪0.25  4.76  45°  $$\approx 394(h / \lambda)^2$$  electrically short
-- 0.25  5.19  39°  36.5  fundamental
-- 0.375  5.75  32°  92.8
-- 0.5  6.82  24°  >600  2nd harmonic
-- 0.625  8.16  16°  53.2  maximum gain
-- 0.75      52.7  3rd harmonic
+- ≪0.25   4.76   45°   $$\approx 394(h / \lambda)^2$$   electrically short
+- 0.25   5.19   39°   36.5   fundamental
+- 0.375   5.75   32°   92.8
+- 0.5   6.82   24°   >600   2nd harmonic
+- 0.625   8.16   16°   53.2   maximum gain
+- 0.75         52.7   3rd harmonic
 
 Because it radiates only into the space above the ground plane, or half the space of a dipole antenna, a monopole antenna over a perfectly conducting infinite ground plane will have a gain of twice (3 [dB](Decibel.md) greater than) the gain of a similar dipole antenna, and a radiation resistance half that of a dipole. Since a half-wave dipole has a gain of 2.19 [dBi](Decibel.md) and a radiation resistance of 73.1 ohms, a quarter-wave ($$\lambda/4$$) monopole will have a gain of 2.19 + 3 = 5.19 [dBi](Decibel.md) and a radiation resistance of about 36.5 ohms. The antenna is resonant at this length, so its input impedance is purely resistive. The input impedance has capacitive reactance below $$\lambda/4$$, inductive reactance from $$\lambda/4$$ to $$\lambda/2$$, and capacitive reactance from $$\lambda/2$$ to $$3\lambda/4$$.
 
@@ -398,45 +398,45 @@ At low frequencies, due to the high capacitance and low radiation resistance, th
 
 ### Definition of variables
 
-- Symbol Unit Definition
-- $$\alpha$$ [none] element length-to-diameter ratio $$h/2b$$
-- $$\eta$$ ohm (Ω) Impedance of free space = $$\sqrt{\mu_\text{0}/\epsilon_\text{0}}$$ = 376.73 ohms
-- $$\Phi$$ radian Phase shift of antenna current during round trip along element
-- $$\phi$$ radian azimuth angle of spherical coordinate system
-- $$\lambda$$ meter (m) Free space wavelength of radio waves
-- $$\pi$$ [none] Math constant ≈ 3.1416
-- $$\theta$$ radian angle from vertical axis in spherical coordinate system
-- $$b$$ meter (m) radius of monopole element
-- $$c$$ meters per second (ms) Velocity of light
-- $$e$$ [none] Base of natural logarithms = 2.71828
-- $$e_\text{A}$$ [none] Efficiency of the antenna
-- $$f$$ hertz (Hz) Frequency of radio waves
-- $$f_\mathsf{n}$$ hertz (Hz) Resonant frequencies of monopole
-- $$G$$ [none] Electrical length, length in wavelengths, of the monopole element
-- $$h$$ meter (m) length of monopole element
-- $$i_\mathsf{up}(z,t)$$ ampere (A) Upward current wave on antenna element at elevation *z* and time *t*
-- $$i_\mathsf{down}(z,t)$$ ampere (A) Downward current wave on antenna element at elevation *z* and time *t*
-- $$I (z)$$ ampere (A) Standing wave current on antenna element at elevation *z*
-- $$I_\mathsf{IN}$$ ampere (A) RMS current into antenna terminals
-- $$I_\mathsf{0}$$ ampere (A) Maximum RMS current in antenna element
-- $$I_\mathsf{1}$$ ampere (A) RMS current at an arbitrary point in antenna element
-- $$j$$ [none] imaginary unit $$\sqrt{-1}$$
-- $$k$$ meter Angular wavenumber $$= 2\pi/\lambda$$
-- $$P_\mathsf{IN}$$ watt (W) Electric power delivered to antenna terminals
-- $$P_\mathsf{R}$$ watt (W) Power radiated as radio waves by antenna
-- $$P_\mathsf{L}$$ watt (W) Power consumed in loss resistances of antenna
-- $$Q$$ [none] Q factor of antenna, the resonant frequency divided by bandwidth
-- $$r$$ meters Distance from the origin at the base of the element to the observation point
-- $$R_\mathsf{R}$$ ohm (Ω) Radiation resistance of antenna
-- $$R_\mathsf{L}$$ ohm (Ω) Equivalent loss resistance of antenna at input terminals
-- $$R_\mathsf{IN}$$ ohm (Ω) Input resistance of antenna
-- $$R_\mathsf{R0}$$ ohm (Ω) Radiation resistance at point of maximum current in antenna
-- $$R_\mathsf{R1}$$ ohm (Ω) Radiation resistance at arbitrary point in antenna
-- $$\widehat{S}(r, \theta)$$ watts per square meter power density averaged over a cycle radiated by the antenna in the direction $$r, \theta$$
-- $$\widehat{S}_\text{d}$$ watts per square meter power density radiated by a dipole antenna twice the height
-- $$t$$ second (s) Time
-- $$X_\mathsf{R}$$ ohm (Ω) Input reactance of antenna
-- $$z$$ meter (m) Height on monopole element above lower end
+- Symbol  Unit  Definition
+- $$\alpha$$  [none]  element length-to-diameter ratio $$h/2b$$
+- $$\eta$$  ohm (Ω)  Impedance of free space = $$\sqrt{\mu_\text{0}/\epsilon_\text{0}}$$ = 376.73 ohms
+- $$\Phi$$  radian  Phase shift of antenna current during round trip along element
+- $$\phi$$  radian  azimuth angle of spherical coordinate system
+- $$\lambda$$  meter (m)  Free space wavelength of radio waves
+- $$\pi$$  [none]  Math constant ≈ 3.1416
+- $$\theta$$  radian  angle from vertical axis in spherical coordinate system
+- $$b$$  meter (m)  radius of monopole element
+- $$c$$  meters per second (ms)  Velocity of light
+- $$e$$  [none]  Base of natural logarithms = 2.71828
+- $$e_\text{A}$$  [none]  Efficiency of the antenna
+- $$f$$  hertz (Hz)  Frequency of radio waves
+- $$f_\mathsf{n}$$  hertz (Hz)  Resonant frequencies of monopole
+- $$G$$  [none]  Electrical length, length in wavelengths, of the monopole element
+- $$h$$  meter (m)  length of monopole element
+- $$i_\mathsf{up}(z,t)$$  ampere (A)  Upward current wave on antenna element at elevation *z* and time *t*
+- $$i_\mathsf{down}(z,t)$$  ampere (A)  Downward current wave on antenna element at elevation *z* and time *t*
+- $$I (z)$$  ampere (A)  Standing wave current on antenna element at elevation *z*
+- $$I_\mathsf{IN}$$  ampere (A)  RMS current into antenna terminals
+- $$I_\mathsf{0}$$  ampere (A)  Maximum RMS current in antenna element
+- $$I_\mathsf{1}$$  ampere (A)  RMS current at an arbitrary point in antenna element
+- $$j$$  [none]  imaginary unit $$\sqrt{-1}$$
+- $$k$$  meter  Angular wavenumber $$= 2\pi/\lambda$$
+- $$P_\mathsf{IN}$$  watt (W)  Electric power delivered to antenna terminals
+- $$P_\mathsf{R}$$  watt (W)  Power radiated as radio waves by antenna
+- $$P_\mathsf{L}$$  watt (W)  Power consumed in loss resistances of antenna
+- $$Q$$  [none]  Q factor of antenna, the resonant frequency divided by bandwidth
+- $$r$$  meters  Distance from the origin at the base of the element to the observation point
+- $$R_\mathsf{R}$$  ohm (Ω)  Radiation resistance of antenna
+- $$R_\mathsf{L}$$  ohm (Ω)  Equivalent loss resistance of antenna at input terminals
+- $$R_\mathsf{IN}$$  ohm (Ω)  Input resistance of antenna
+- $$R_\mathsf{R0}$$  ohm (Ω)  Radiation resistance at point of maximum current in antenna
+- $$R_\mathsf{R1}$$  ohm (Ω)  Radiation resistance at arbitrary point in antenna
+- $$\widehat{S}(r, \theta)$$  watts per square meter  power density averaged over a cycle radiated by the antenna in the direction $$r, \theta$$
+- $$\widehat{S}_\text{d}$$  watts per square meter  power density radiated by a dipole antenna twice the height
+- $$t$$  second (s)  Time
+- $$X_\mathsf{R}$$  ohm (Ω)  Input reactance of antenna
+- $$z$$  meter (m)  Height on monopole element above lower end
 
 ---
 

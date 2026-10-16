@@ -24,25 +24,25 @@ $$
 s(t) = \operatorname{Re}\left\{s_\mathrm{a}(t)\right\} = \operatorname{Re}\left\{s(t) + j \cdot \widehat{s}(t)\right\},
 $$
 
-where $$j$$ represents the imaginary unit. $$s_\mathrm{a}(t)$$ is the analytic representation of $$s(t),$$  which means that it comprises only the positive-frequency components of $$s(t)$$:
+where $$j$$ represents the imaginary unit. $$s_\mathrm{a}(t)$$ is the analytic representation of $$s(t),$$ which means that it comprises only the positive-frequency components of $$s(t)$$:
 
 $$
 \frac{1}{2}S_\mathrm{a}(f) = \begin{cases} S(f), &\text{for}\ f > 0,\\ 0, &\text{for}\ f < 0, \end{cases}
 $$
 
-where $$S_\mathrm{a}(f)$$ and $$S(f)$$ are the respective Fourier transforms of $$s_\mathrm{a}(t)$$ and $$s(t).$$  Therefore, the frequency-translated function $$S_\mathrm{a}\left(f - f_0\right)$$ contains only one side of $$S(f).$$  Since it also has only positive-frequency components, its inverse Fourier transform is the analytic representation of $$s_\text{usb}(t):$$
+where $$S_\mathrm{a}(f)$$ and $$S(f)$$ are the respective Fourier transforms of $$s_\mathrm{a}(t)$$ and $$s(t).$$ Therefore, the frequency-translated function $$S_\mathrm{a}\left(f - f_0\right)$$ contains only one side of $$S(f).$$ Since it also has only positive-frequency components, its inverse Fourier transform is the analytic representation of $$s_\text{usb}(t):$$
 
 $$
 s_\text{usb}(t) + j \cdot \widehat{s}_\text{ssb}(t) = \mathcal{F}^{-1} \{S_\mathrm{a}\left(f - f_0\right)\} = s_\mathrm{a}(t) \cdot e^{j2\pi f_0 t},\,
 $$
 
-and again the real part of this expression causes no loss of information. With Euler's formula to expand  $$e^{j2\pi f_0 t},\,$$  we obtain **Eq.1**:
+and again the real part of this expression causes no loss of information. With Euler's formula to expand $$e^{j2\pi f_0 t},\,$$ we obtain **Eq.1**:
 
 $$
 \begin{align} s_\text{usb}(t) &= \operatorname{Re}\left\{s_\mathrm{a}(t)\cdot e^{j2\pi f_0 t}\right\} \\ &= \operatorname{Re}\left\{\,\left[s(t) + j \cdot \widehat{s}(t)\right] \cdot \left[\cos\left(2\pi f_0 t\right) + j \cdot \sin\left(2\pi f_0 t\right)\right]\,\right\} \\ &= s(t) \cdot \cos\left(2\pi f_0 t\right) - \widehat{s}(t) \cdot \sin\left(2\pi f_0 t\right). \end{align}
 $$
 
-Coherent demodulation of $$s_\text{ssb}(t)$$ to recover $$s(t)$$ is the same as AM: multiply by $$\cos\left(2\pi f_0 t\right),$$  and lowpass to remove the "double-frequency" components around frequency $$2 f_0$$. If the demodulating carrier is not in the correct phase (cosine phase here), then the demodulated signal will be some linear combination of $$s(t)$$ and $$\widehat s(t)$$, which is usually acceptable in voice communications (if the demodulation carrier frequency is not quite right, the phase will be drifting cyclically, which again is usually acceptable in voice communications if the frequency error is small enough, and amateur radio operators are sometimes tolerant of even larger frequency errors that cause unnatural-sounding pitch shifting effects).
+Coherent demodulation of $$s_\text{ssb}(t)$$ to recover $$s(t)$$ is the same as AM: multiply by $$\cos\left(2\pi f_0 t\right),$$ and lowpass to remove the "double-frequency" components around frequency $$2 f_0$$. If the demodulating carrier is not in the correct phase (cosine phase here), then the demodulated signal will be some linear combination of $$s(t)$$ and $$\widehat s(t)$$, which is usually acceptable in voice communications (if the demodulation carrier frequency is not quite right, the phase will be drifting cyclically, which again is usually acceptable in voice communications if the frequency error is small enough, and amateur radio operators are sometimes tolerant of even larger frequency errors that cause unnatural-sounding pitch shifting effects).
 
 #### Lower sideband
 
@@ -92,7 +92,7 @@ The front end of an SSB receiver is similar to that of an [AM](Amplitude%20modul
 
 To recover the original signal from the IF SSB signal, the single sideband must be frequency-shifted down to its original range of baseband frequencies, by using a product detector which mixes it with the output of a beat frequency oscillator (BFO). In other words, it is just another stage of heterodyning. For this to work, the BFO frequency must be exactly adjusted. If the BFO frequency is off by more than 30 Hz, the output signal will be frequency-shifted (up or down), making speech sound strange and "Donald Duck"-like.
 
-As an example, consider an IF SSB signal centered at frequency $$F_{\text{if}}\,$$ = 45000 Hz. The baseband frequency it needs to be shifted to is $$F_b\,$$ = 2000 Hz. The BFO output waveform is $$\cos\left(2\pi \cdot F_{\text{bfo}} \cdot t\right)$$. When the signal is multiplied by (aka *heterodyned with*) the BFO waveform, it shifts the signal to  $$\left(F_{\text{if}} + F_{\text{bfo}}\right)$$, *and* to $$\left|F_{\text{if}} - F_{\text{bfo}}\right|$$, which is known as the *beat frequency* or *image frequency*. The objective is to choose an $$F_{\text{bfo}}$$ that results in  $$\left|F_{\text{if}} - F_{\text{bfo}}\right| = F_b\,$$ = 2000 Hz. (The unwanted components at $$\left(F_{\text{if}} + F_{\text{bfo}}\right)\,$$ can be removed by a lowpass filter; for which an output transducer or the human ear may serve).
+As an example, consider an IF SSB signal centered at frequency $$F_{\text{if}}\,$$ = 45000 Hz. The baseband frequency it needs to be shifted to is $$F_b\,$$ = 2000 Hz. The BFO output waveform is $$\cos\left(2\pi \cdot F_{\text{bfo}} \cdot t\right)$$. When the signal is multiplied by (aka *heterodyned with*) the BFO waveform, it shifts the signal to $$\left(F_{\text{if}} + F_{\text{bfo}}\right)$$, *and* to $$\left|F_{\text{if}} - F_{\text{bfo}}\right|$$, which is known as the *beat frequency* or *image frequency*. The objective is to choose an $$F_{\text{bfo}}$$ that results in $$\left|F_{\text{if}} - F_{\text{bfo}}\right| = F_b\,$$ = 2000 Hz. (The unwanted components at $$\left(F_{\text{if}} + F_{\text{bfo}}\right)\,$$ can be removed by a lowpass filter; for which an output transducer or the human ear may serve).
 
 There are two choices for $$F_{\text{bfo}}$$: 43000 Hz and 47000 Hz, called *low-side* and *high-side* injection. With high-side injection, the spectral components that were distributed around 45000 Hz will be distributed around 2000 Hz in the reverse order, also known as an inverted spectrum. That is in fact desirable when the IF spectrum is also inverted, because the BFO inversion restores the proper relationships. One reason for that is when the IF spectrum is the output of an inverting stage in the receiver. Another reason is when the SSB signal is actually a lower sideband, instead of an upper sideband. But if both reasons are true, then the IF spectrum is not inverted, and the non-inverting BFO (43000 Hz) should be used.
 
@@ -118,14 +118,14 @@ An exception to this rule applies to the five discrete amateur channels on the 6
 
 Extended single sideband is any J3E (SSB-SC) mode that exceeds the audio bandwidth of standard or traditional 2.9 kHz SSB J3E modes (ITU 2K90J3E) to support higher-quality sound.
 
-- Extended SSB modes Bandwidth Frequency response ITU Designator
-- eSSB (Narrow-1a) 3 kHz 100 Hz ~ 3.10 kHz 3K00J3E
-- eSSB (Narrow-1b) 3 kHz 50 Hz ~ 3.05 kHz 3K00J3E
-- eSSB (Narrow-2) 3.5 kHz 50 Hz ~ 3.55 kHz 3K50J3E
-- eSSB (Medium-1) 4 kHz 50 Hz ~ 4.05 kHz 4K00J3E
-- eSSB (Medium-2) 4.5 kHz 50 Hz ~ 4.55 kHz 4K50J3E
-- eSSB (Wide-1) 5 kHz 50 Hz ~ 5.05 kHz 5K00J3E
-- eSSB (Wide-2) 6 kHz 50 Hz ~ 6.05 kHz 6K00J3E
+- Extended SSB modes  Bandwidth  Frequency response  ITU Designator
+- eSSB (Narrow-1a)  3 kHz  100 Hz ~ 3.10 kHz  3K00J3E
+- eSSB (Narrow-1b)  3 kHz  50 Hz ~ 3.05 kHz  3K00J3E
+- eSSB (Narrow-2)  3.5 kHz  50 Hz ~ 3.55 kHz  3K50J3E
+- eSSB (Medium-1)  4 kHz  50 Hz ~ 4.05 kHz  4K00J3E
+- eSSB (Medium-2)  4.5 kHz  50 Hz ~ 4.55 kHz  4K50J3E
+- eSSB (Wide-1)  5 kHz  50 Hz ~ 5.05 kHz  5K00J3E
+- eSSB (Wide-2)  6 kHz  50 Hz ~ 6.05 kHz  6K00J3E
 
 ### Amplitude-companded single-sideband modulation (ACSSB)
 
@@ -139,14 +139,14 @@ SSB can produce envelope peaks well above the average for a sinusoidal tone, eve
 
 In 1982, the International Telecommunication Union (ITU) designated the types of amplitude modulation:
 
-- Designation  Description
-- A3E Double-sideband full-carrier – the basic amplitude-modulation scheme
-- R3E Single-sideband reduced-carrier
-- H3E Single-sideband full-carrier
-- J3E Single-sideband suppressed-carrier
-- B8E Independent-sideband emission
-- C3F Vestigial-sideband
-- Lincompex Linked compressor and expander
+- Designation   Description
+- A3E  Double-sideband full-carrier – the basic amplitude-modulation scheme
+- R3E  Single-sideband reduced-carrier
+- H3E  Single-sideband full-carrier
+- J3E  Single-sideband suppressed-carrier
+- B8E  Independent-sideband emission
+- C3F  Vestigial-sideband
+- Lincompex  Linked compressor and expander
 
 ### SSB bandwidth reduction
 

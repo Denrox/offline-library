@@ -36,7 +36,7 @@ The harmonic distribution of a sine wave carrier modulated by such a sinusoidal 
 
 As in other modulation systems, the modulation index indicates by how much the modulated variable varies around its unmodulated level. It relates to variations in the carrier frequency: $$h = \frac{\Delta{}f}{f_\mathrm{m}} = \frac{f_\Delta \left|x_\mathrm{m}(t)\right|}{f_\mathrm{m}}$$
 
-where $$f_\mathrm{m}$$ is the highest frequency component present in the modulating signal ⁠     x   m    ( t )   {\displaystyle x_{\mathrm {m} }(t)}  ⁠, and $$\Delta{}f$$ is the peak frequency-deviation –  i.e. the maximum deviation of the *instantaneous frequency* from the carrier frequency. For a sine wave modulation, the modulation index is seen to be the ratio of the peak frequency deviation of the carrier wave to the frequency of the modulating sine wave.
+where $$f_\mathrm{m}$$ is the highest frequency component present in the modulating signal ⁠     x   m    ( t )   {\displaystyle x_{\mathrm {m} }(t)}  ⁠, and $$\Delta{}f$$ is the peak frequency-deviation – i.e. the maximum deviation of the *instantaneous frequency* from the carrier frequency. For a sine wave modulation, the modulation index is seen to be the ratio of the peak frequency deviation of the carrier wave to the frequency of the modulating sine wave.
 
 If ⁠    h ≪ 1   {\displaystyle h\ll 1}  ⁠, the modulation is called **narrowband FM** (NFM), and its bandwidth is approximately ⁠    2  f   m      {\displaystyle 2f_{\mathrm {m} }}  ⁠. Sometimes modulation index ⁠    h < 0.3   {\displaystyle h<0.3}  ⁠ is considered NFM and other modulation indices are considered wideband FM (WFM or FM).
 
@@ -61,27 +61,27 @@ Since the sidebands are on both sides of the carrier, their count is doubled, an
 Sideband amplitudes for selection modulation indexes  
 (sideband amplitude values of – are < 0.1 of base amplitude)
 - Modulation  
-index  Sideband amplitude
-- Carrier  1 2 3 4  5 6 7 8  9 10 11 12  13 14 15 16
-- 0.00  1.00  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 0.25  0.98  0.12 —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 0.5  0.94  0.24 0.03 —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 1.0  0.77  0.44 0.11 0.02 —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 1.5  0.51  0.56 0.23 0.06 0.01  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 2.0  0.22  0.58 0.35 0.13 0.03  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 2.40483  0.00  0.52 0.43 0.20 0.06  0.02 —N/a —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 2.5  −0.05  0.50 0.45 0.22 0.07  0.02 0.01 —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 3.0  −0.26  0.34 0.49 0.31 0.13  0.04 0.01 —N/a —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 4.0  −0.40  −0.07 0.36 0.43 0.28  0.13 0.05 0.02 —N/a  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 5.0  −0.18  −0.33 0.05 0.36 0.39  0.26 0.13 0.05 0.02  —N/a —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 5.52008  0.00  −0.34 −0.13 0.25 0.40  0.32 0.19 0.09 0.03  0.01 —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 6.0  0.15  −0.28 −0.24 0.11 0.36  0.36 0.25 0.13 0.06  0.02 —N/a —N/a —N/a  —N/a —N/a —N/a —N/a
-- 7.0  0.30  0.00 −0.30 −0.17 0.16  0.35 0.34 0.23 0.13  0.06 0.02 —N/a —N/a  —N/a —N/a —N/a —N/a
-- 8.0  0.17  0.23 −0.11 −0.29 −0.10  0.19 0.34 0.32 0.22  0.13 0.06 0.03 —N/a  —N/a —N/a —N/a —N/a
-- 8.65373  0.00  0.27 0.06 −0.24 −0.23  0.03 0.26 0.34 0.28  0.18 0.10 0.05 0.02  —N/a —N/a —N/a —N/a
-- 9.0  −0.09  0.25 0.14 −0.18 −0.27  −0.06 0.20 0.33 0.31  0.21 0.12 0.06 0.03  0.01 —N/a —N/a —N/a
-- 10.0  −0.25  0.04 0.25 0.06 −0.22  −0.23 −0.01 0.22 0.32  0.29 0.21 0.12 0.06  0.03 0.01 —N/a —N/a
-- 12.0  0.05  −0.22 −0.08 0.20 0.18  −0.07 −0.24 −0.17 0.05  0.23 0.30 0.27 0.20  0.12 0.07 0.03 0.01
+index   Sideband amplitude
+- Carrier   1  2  3  4   5  6  7  8   9  10  11  12   13  14  15  16
+- 0.00   1.00   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 0.25   0.98   0.12  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 0.5   0.94   0.24  0.03  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 1.0   0.77   0.44  0.11  0.02  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 1.5   0.51   0.56  0.23  0.06  0.01   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 2.0   0.22   0.58  0.35  0.13  0.03   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 2.40483   0.00   0.52  0.43  0.20  0.06   0.02  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 2.5   −0.05   0.50  0.45  0.22  0.07   0.02  0.01  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 3.0   −0.26   0.34  0.49  0.31  0.13   0.04  0.01  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 4.0   −0.40   −0.07  0.36  0.43  0.28   0.13  0.05  0.02  —N/a   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 5.0   −0.18   −0.33  0.05  0.36  0.39   0.26  0.13  0.05  0.02   —N/a  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 5.52008   0.00   −0.34  −0.13  0.25  0.40   0.32  0.19  0.09  0.03   0.01  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 6.0   0.15   −0.28  −0.24  0.11  0.36   0.36  0.25  0.13  0.06   0.02  —N/a  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 7.0   0.30   0.00  −0.30  −0.17  0.16   0.35  0.34  0.23  0.13   0.06  0.02  —N/a  —N/a   —N/a  —N/a  —N/a  —N/a
+- 8.0   0.17   0.23  −0.11  −0.29  −0.10   0.19  0.34  0.32  0.22   0.13  0.06  0.03  —N/a   —N/a  —N/a  —N/a  —N/a
+- 8.65373   0.00   0.27  0.06  −0.24  −0.23   0.03  0.26  0.34  0.28   0.18  0.10  0.05  0.02   —N/a  —N/a  —N/a  —N/a
+- 9.0   −0.09   0.25  0.14  −0.18  −0.27   −0.06  0.20  0.33  0.31   0.21  0.12  0.06  0.03   0.01  —N/a  —N/a  —N/a
+- 10.0   −0.25   0.04  0.25  0.06  −0.22   −0.23  −0.01  0.22  0.32   0.29  0.21  0.12  0.06   0.03  0.01  —N/a  —N/a
+- 12.0   0.05   −0.22  −0.08  0.20  0.18   −0.07  −0.24  −0.17  0.05   0.23  0.30  0.27  0.20   0.12  0.07  0.03  0.01
 
 ### Carson's rule
 
@@ -91,7 +91,7 @@ Carson's rule can only be applied to sinusoidal signals. For non-sinusoidal sign
 
 ### Noise reduction
 
-FM provides improved signal-to-noise ratio (SNR), as compared for example with [AM](Amplitude%20modulation.md). Compared with an optimum AM scheme, FM typically has poorer SNR below a certain signal level called the noise threshold, but above a higher level –  the full improvement or full quieting threshold –  the SNR is much improved over AM. The improvement depends on modulation level and deviation. For typical voice communications channels, improvements are typically 5–15 dB. FM broadcasting using wider deviation can achieve even greater improvements. Additional techniques, such as pre-emphasis of higher audio frequencies with corresponding de-emphasis in the receiver, are generally used to improve overall SNR in FM circuits. Since FM signals have constant amplitude, FM receivers normally have limiters that remove AM noise, further improving SNR.
+FM provides improved signal-to-noise ratio (SNR), as compared for example with [AM](Amplitude%20modulation.md). Compared with an optimum AM scheme, FM typically has poorer SNR below a certain signal level called the noise threshold, but above a higher level – the full improvement or full quieting threshold – the SNR is much improved over AM. The improvement depends on modulation level and deviation. For typical voice communications channels, improvements are typically 5–15 dB. FM broadcasting using wider deviation can achieve even greater improvements. Additional techniques, such as pre-emphasis of higher audio frequencies with corresponding de-emphasis in the receiver, are generally used to improve overall SNR in FM circuits. Since FM signals have constant amplitude, FM receivers normally have limiters that remove AM noise, further improving SNR.
 
 ### Implementation
 
@@ -116,7 +116,7 @@ In 1968, Schnitzler noted certain bats lower the echolocation emission frequency
 
 #### Magnetic tape storage
 
-FM is also used at intermediate frequencies by analog VCR systems (including VHS) to record the luminance (black and white) portions of the video signal. Commonly, the chrominance component is recorded as a conventional AM signal, using the higher-frequency FM signal as bias. FM is the only feasible method of recording the luminance ("black-and-white") component of video to (and retrieving video from) magnetic tape without distortion; video signals have a large range of frequency components –  from a few hertz to several megahertz, too wide for equalizers to work with due to electronic noise below −60 [dB](Decibel.md). FM also keeps the tape at saturation level, acting as a form of noise reduction; a limiter can mask variations in playback output, and the FM capture effect removes print-through and pre-echo. A continuous pilot-tone, if added to the signal –  as was done on V2000 and many Hi-band formats –  can keep mechanical jitter under control and assist timebase correction.
+FM is also used at intermediate frequencies by analog VCR systems (including VHS) to record the luminance (black and white) portions of the video signal. Commonly, the chrominance component is recorded as a conventional AM signal, using the higher-frequency FM signal as bias. FM is the only feasible method of recording the luminance ("black-and-white") component of video to (and retrieving video from) magnetic tape without distortion; video signals have a large range of frequency components – from a few hertz to several megahertz, too wide for equalizers to work with due to electronic noise below −60 [dB](Decibel.md). FM also keeps the tape at saturation level, acting as a form of noise reduction; a limiter can mask variations in playback output, and the FM capture effect removes print-through and pre-echo. A continuous pilot-tone, if added to the signal – as was done on V2000 and many Hi-band formats – can keep mechanical jitter under control and assist timebase correction.
 
 These FM systems are unusual, in that they have a ratio of carrier to maximum modulation frequency of less than two; contrast this with FM audio broadcasting, where the ratio is around 10,000. Consider, for example, a 6 MHz carrier modulated at a 3.5 MHz rate; by Bessel analysis, the first sidebands are on 9.5 and 2.5 MHz and the second sidebands are on 13 and −1 MHz. The result is a reversed-phase sideband on +1 MHz; on demodulation, this results in unwanted output at 6 − 1 = 5 MHz. The system must be designed so that this unwanted output is reduced to an acceptable level.
 

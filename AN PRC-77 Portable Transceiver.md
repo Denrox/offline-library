@@ -23,12 +23,12 @@ The AN/PRC 77 consists of the RT-841 transceiver and minor components. It can pr
 - Harness
 
 - Technical characteristics
-- Channels:  920 channels across two bands using 50 kHz steps
-- Frequency Ranges:  30.00 to 52.95 MHz (Low Channel);  
+- Channels:   920 channels across two bands using 50 kHz steps
+- Frequency Ranges:   30.00 to 52.95 MHz (Low Channel);  
 53.00 to 75.95 MHz (High Channel)
-- Estimated Range:  8 km (5 mi) Dependent on conditions
-- Power Output:  1.5 to 2.0 watts
-- Power Source:  Current (2015) military batteries:  
+- Estimated Range:   8 km (5 mi) Dependent on conditions
+- Power Output:   1.5 to 2.0 watts
+- Power Source:   Current (2015) military batteries:  
 BA-5598/U LiSO2 nonrechargeable  
 BB-386/U NiMH and BB-2598/U Li-ion rechargeable  
   
@@ -38,14 +38,14 @@ BA-386/PRC-25 zinc-carbon, BA-398/PRC-25 zinc-carbon cold weather vest (use w/ca
 Discontinued but available military or equivalent batteries:  
 BA-3386/U alkaline nonrechargeable  
 BB-586/U NiCad and BB-LA6 SLA rechargeable
-- Antenna:  AT-271A/PRC 10 ft (3.0 m) multi-section whip "Static" Whip-a-way, or  
+- Antenna:   AT-271A/PRC 10 ft (3.0 m) multi-section whip "Static" Whip-a-way, or  
 AT-892/PRL-24 3 ft semi-rigid steel tape "Bush-whip",
-- Type of Service:  30K0F3E emission (FM)  
+- Type of Service:   30K0F3E emission (FM)  
 Manpack field radio  
 land mobile service
-- Weight:  13.75 lb (6.2 kg)
-- Security  Could be used with TSEC/KY-38 NESTOR and, later, the KY-57 VINSON secure voice systems.
-- Note:  A modified version of the AN/PRC-77 is available and is designated  
+- Weight:   13.75 lb (6.2 kg)
+- Security   Could be used with TSEC/KY-38 NESTOR and, later, the KY-57 VINSON secure voice systems.
+- Note:   A modified version of the AN/PRC-77 is available and is designated  
 AN/PRC-1177. This version has been enhanced to allow a smaller  
 channel step of 25 kHz and to reduce voice bandwidth to 6 kHz. These  
 features combine to double the number of available channels to 1840.

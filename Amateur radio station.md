@@ -2,7 +2,7 @@
 
 An **amateur radio station** is a radio station designed to provide radiocommunications in the [amateur radio service](Amateur%20radio.md) for an [amateur radio operator](Amateur%20radio%20operator.md). Radio amateurs build and operate several types of amateur radio stations, including fixed ground stations, mobile stations, space stations, and temporary field stations. A slang term often used for an amateur station's location is the shack, named after the small enclosures added to the upperworks of naval ships to hold early radio equipment and batteries.
 
-**See also** —
+**See also**  —
 
 ### Types of stations
 
