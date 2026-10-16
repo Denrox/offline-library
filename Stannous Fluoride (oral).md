@@ -5,7 +5,7 @@
 **Route:** oral  
 **Labels on file:** 15
 
-**Also sold as:** Gum Detoxify, Curodont Protect, Omni, Just For Kids, Equate Pro-advanced Tp Equate Pro-advanced Tp, Equate Optimal Care Tp Equate Optimal Care Tp, Sensodyne Fresh Clean, Sensodyne Whiten and Shine, Sensodyne Repair and Protect Extra Fresh, Sensodyne Repair and Protect, Sensodyne Repair and Protect Whitening, Therabreath Deep Clean, Fluoridex, Periomed, Pro-den Rx, Sensodyne Sensitivity Gum and Enamel Mint, Sensodyne Sensitivity and Gum Clean and Fresh, Sensodyne Sensitivity and Gum Mint, Sensodyne Sensitivity and Gum Whitening, Sensodyne Rapid Relief
+**Also sold as:** Gum Detoxify, Curodont Protect, Omni, Just For Kids, Equate Pro-advanced Tp Equate Pro-advanced Tp, Equate Optimal Care Tp Equate Optimal Care Tp, Sensodyne Fresh Clean, Sensodyne Whiten and Shine, Sensodyne Repair and Protect Extra Fresh, Sensodyne Repair and Protect, Sensodyne Repair and Protect Whitening, Therabreath Deep Clean, Fluoridex, Periomed, Pro-den Rx, Sensodyne Sensitivity Gum and Enamel Mint, Sensodyne Sensitivity and Gum Mint, Sensodyne Sensitivity and Gum Whitening, Sensodyne Sensitivity and Gum Clean and Fresh, Sensodyne Rapid Relief
 
 ## Active ingredients
 
