@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Atypical Antipsychotic  
-**Labels on file:** 82
+**Labels on file:** 81
 
 ## ⚠ Boxed warning
 

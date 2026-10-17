@@ -4,9 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Metformin Hydrochloride  
-**Labels on file:** 293
-
-**Brand and product names:** Riomet
+**Labels on file:** 291
 
 ## ⚠ Boxed warning
 

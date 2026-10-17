@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Minocycline Hydrochloride  
-**Labels on file:** 66
+**Labels on file:** 65
 
 **Brand and product names:** Emrosi, Arestin
 

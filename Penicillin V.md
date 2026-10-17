@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Penicillin V Potassium  
-**Labels on file:** 59
+**Labels on file:** 58
 
 ## Uses
 

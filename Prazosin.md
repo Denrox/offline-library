@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Prazosin Hydrochloride  
-**Labels on file:** 68
+**Labels on file:** 67
 
 ## Uses
 

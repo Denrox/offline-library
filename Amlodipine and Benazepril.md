@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Amlodipine Besylate, Benazepril Hydrochloride  
-**Labels on file:** 44
+**Labels on file:** 45
 
 ## ⚠ Boxed warning
 

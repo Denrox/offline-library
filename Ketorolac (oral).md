@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Ketorolac Tromethamine  
-**Labels on file:** 54
+**Labels on file:** 53
 
 ## ⚠ Boxed warning
 

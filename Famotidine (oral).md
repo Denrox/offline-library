@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Histamine-2 Receptor Antagonist  
-**Labels on file:** 142
+**Labels on file:** 141
 
 **Brand and product names:** Pepcid
 

@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Ingredient forms:** Diclofenac Sodium  
-**Labels on file:** 111
+**Labels on file:** 109
 
 ## ⚠ Boxed warning
 

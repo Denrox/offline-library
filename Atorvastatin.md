@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Atorvastatin Calcium Trihydrate, Atorvastatin Calcium Propylene Glycol Solvate  
 **Drug class:** HMG-CoA Reductase Inhibitor  
-**Labels on file:** 245
+**Labels on file:** 241
 
 **Brand and product names:** Atorvaliq, Lipitor
 

@@ -4,9 +4,7 @@
 
 **Route:** intravenous  
 **Drug class:** Alkylating Drug  
-**Labels on file:** 5
-
-**Brand and product names:** Ifex
+**Labels on file:** 2
 
 ## ⚠ Boxed warning
 

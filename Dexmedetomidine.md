@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Dexmedetomidine Hydrochloride  
-**Labels on file:** 37
+**Labels on file:** 36
 
 **Brand and product names:** Precedex
 

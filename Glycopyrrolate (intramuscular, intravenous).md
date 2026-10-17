@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** intramuscular, intravenous  
-**Labels on file:** 63
+**Labels on file:** 61
 
 **Brand and product names:** Glyrx-pf, Glycopyrrolate 1ml
 

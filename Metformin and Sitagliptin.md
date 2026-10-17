@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Metformin Hydrochloride, Sitagliptin Phosphate  
 **Drug class:** Dipeptidyl Peptidase 4 Inhibitor  
-**Labels on file:** 14
+**Labels on file:** 13
 
 **Brand and product names:** Janumet, Zituvimet, Janumet Xr, Zituvimet Xr
 

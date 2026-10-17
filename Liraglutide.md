@@ -4,7 +4,7 @@
 
 **Route:** subcutaneous  
 **Drug class:** GLP-1 Receptor Agonist  
-**Labels on file:** 21
+**Labels on file:** 20
 
 **Brand and product names:** Victoza, Saxenda
 

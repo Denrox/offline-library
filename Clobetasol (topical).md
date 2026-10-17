@@ -4,7 +4,7 @@
 
 **Route:** topical  
 **Ingredient forms:** Clobetasol Propionate  
-**Labels on file:** 109
+**Labels on file:** 108
 
 **Brand and product names:** Impoyz, Tovet (emollient Formulation), Clodan, Clobetasol Propionate (emollient), Clobetasol Propionate Emollient Formulation, Clobetasol Propionate Anda
 

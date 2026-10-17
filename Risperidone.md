@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Atypical Antipsychotic  
-**Labels on file:** 64
+**Labels on file:** 63
 
 **Brand and product names:** Risperdal, Risperdal M-tab
 

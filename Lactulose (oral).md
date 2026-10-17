@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Osmotic Laxative  
-**Labels on file:** 19
+**Labels on file:** 18
 
 **Brand and product names:** Constulose, Kristalose, Lactulose Crystalline
 

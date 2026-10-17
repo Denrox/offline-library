@@ -4,9 +4,9 @@
 
 **Route:** intravenous  
 **Drug class:** CD20-directed Cytolytic Antibody  
-**Labels on file:** 3
+**Labels on file:** 2
 
-**Brand and product names:** Truxima, Rituxan, Ruxience
+**Brand and product names:** Truxima, Rituxan
 
 ## ⚠ Boxed warning
 

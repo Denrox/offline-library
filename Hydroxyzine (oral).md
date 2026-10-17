@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Hydroxyzine Dihydrochloride, Hydroxyzine Pamoate, Hydroxyzine Hydrochloride  
-**Labels on file:** 188
+**Labels on file:** 186
 
 ## Uses
 

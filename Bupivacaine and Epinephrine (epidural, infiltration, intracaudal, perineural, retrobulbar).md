@@ -4,9 +4,9 @@
 
 **Route:** epidural, infiltration, intracaudal, perineural, retrobulbar  
 **Ingredient forms:** Bupivacaine Hydrochloride, Epinephrine Bitartrate  
-**Labels on file:** 4
+**Labels on file:** 3
 
-**Brand and product names:** Sensorcaine, Sensorcaine Mpf, Marcaine, Marcaine with Epinephrine
+**Brand and product names:** Sensorcaine, Sensorcaine Mpf
 
 ## ⚠ Boxed warning
 

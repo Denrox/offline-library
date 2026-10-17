@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Fluoroquinolone Antibacterial  
-**Labels on file:** 65
+**Labels on file:** 64
 
 ## ⚠ Boxed warning
 

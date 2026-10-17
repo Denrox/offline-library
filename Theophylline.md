@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Theophylline Anhydrous  
 **Drug class:** Methylxanthine  
-**Labels on file:** 27
+**Labels on file:** 26
 
 **Brand and product names:** Theo-24
 

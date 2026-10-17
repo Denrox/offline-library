@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous, subcutaneous  
 **Ingredient forms:** Naloxone Hydrochloride  
-**Labels on file:** 48
+**Labels on file:** 47
 
 **Brand and product names:** Naloxone Hci
 

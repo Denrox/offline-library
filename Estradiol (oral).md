@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Estrogen  
-**Labels on file:** 52
+**Labels on file:** 51
 
 ## ⚠ Boxed warning
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Metformin Hydrochloride  
-**Labels on file:** 2
+**Labels on file:** 1
 
 **Brand and product names:** Xigduo Xr
 

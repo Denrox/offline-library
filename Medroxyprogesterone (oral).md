@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Medroxyprogesterone Acetate  
-**Labels on file:** 20
+**Labels on file:** 19
 
 **Brand and product names:** Provera
 

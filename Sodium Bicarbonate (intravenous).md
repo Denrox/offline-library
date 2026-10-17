@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** intravenous  
-**Labels on file:** 40
+**Labels on file:** 39
 
 **Brand and product names:** Infant 4.2% Sodium Bicarbonate
 

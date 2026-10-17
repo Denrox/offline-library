@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nitroimidazole Antimicrobial  
-**Labels on file:** 89
+**Labels on file:** 86
 
 **Brand and product names:** Likmez, Flagyl
 

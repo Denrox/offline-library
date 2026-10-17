@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Pantoprazole Sodium  
-**Labels on file:** 109
+**Labels on file:** 108
 
 **Brand and product names:** Protonix Delayed-release
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 65
+**Labels on file:** 64
 
 **Brand and product names:** Indocin
 

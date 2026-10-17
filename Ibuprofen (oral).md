@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 221
+**Labels on file:** 220
 
 **Brand and product names:** Ibu
 

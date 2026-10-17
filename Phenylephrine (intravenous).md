@@ -5,7 +5,7 @@
 **Route:** intravenous  
 **Ingredient forms:** Phenylephrine Hydrochloride  
 **Drug class:** alpha-1 Adrenergic Agonist  
-**Labels on file:** 47
+**Labels on file:** 46
 
 **Brand and product names:** Biorphen, Immphentiv, Phenylephrine Hci
 

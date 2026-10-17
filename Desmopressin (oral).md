@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Desmopressin Acetate  
-**Labels on file:** 13
+**Labels on file:** 12
 
 **Brand and product names:** Desmoda, Ddavp
 

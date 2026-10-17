@@ -4,7 +4,7 @@
 
 **Route:** intramuscular, intravenous  
 **Ingredient forms:** Midazolam Hydrochloride  
-**Labels on file:** 33
+**Labels on file:** 32
 
 ## ⚠ Boxed warning
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Tamsulosin Hydrochloride  
-**Labels on file:** 60
+**Labels on file:** 59
 
 ## Uses
 

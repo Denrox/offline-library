@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Moxifloxacin Hydrochloride, Moxifloxacin Hydrochloride Monohydrate  
-**Labels on file:** 24
+**Labels on file:** 23
 
 ## ⚠ Boxed warning
 

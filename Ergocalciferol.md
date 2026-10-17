@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Provitamin D2 Compound  
-**Labels on file:** 38
+**Labels on file:** 37
 
 **Brand and product names:** Vitamin D, Ergocalciferol (vitamin D2)
 

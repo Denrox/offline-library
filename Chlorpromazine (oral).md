@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Chlorpromazine Hydrochloride  
-**Labels on file:** 28
+**Labels on file:** 27
 
 ## ⚠ Boxed warning
 

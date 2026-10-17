@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Cyclobenzaprine Hydrochloride  
-**Labels on file:** 187
+**Labels on file:** 182
 
 **Brand and product names:** Amrix, Fexmid
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** alpha-Adrenergic Blocker  
-**Labels on file:** 17
+**Labels on file:** 16
 
 ## Uses
 

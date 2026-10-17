@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Rosuvastatin Calcium  
 **Drug class:** HMG-CoA Reductase Inhibitor  
-**Labels on file:** 169
+**Labels on file:** 167
 
 **Brand and product names:** Rosuvastain Calcium
 

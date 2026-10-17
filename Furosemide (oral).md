@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Loop Diuretic  
-**Labels on file:** 97
+**Labels on file:** 94
 
 **Brand and product names:** Lasix
 

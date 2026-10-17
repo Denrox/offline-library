@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Duloxetine Hydrochloride  
-**Labels on file:** 128
+**Labels on file:** 127
 
 **Brand and product names:** Drizalma Sprinkle, Duloxetine D/r
 

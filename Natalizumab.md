@@ -4,9 +4,9 @@
 
 **Route:** intravenous  
 **Drug class:** Integrin Receptor Antagonist  
-**Labels on file:** 2
+**Labels on file:** 1
 
-**Brand and product names:** Tysabri, Tyruko
+**Brand and product names:** Tyruko
 
 ## ⚠ Boxed warning
 

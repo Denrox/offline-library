@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Cefdinir Monohydrate  
 **Drug class:** Cephalosporin Antibacterial  
-**Labels on file:** 70
+**Labels on file:** 67
 
 ## Uses
 

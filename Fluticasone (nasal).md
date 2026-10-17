@@ -4,7 +4,7 @@
 
 **Route:** nasal  
 **Ingredient forms:** Fluticasone Propionate  
-**Labels on file:** 24
+**Labels on file:** 23
 
 **Brand and product names:** Xhance, Fluticasone Propionate Spray, Metered
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Doxazosin Mesylate  
-**Labels on file:** 65
+**Labels on file:** 64
 
 **Brand and product names:** Cardura, Cardura Xl
 

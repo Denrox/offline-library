@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Bisoprolol Fumarate  
-**Labels on file:** 30
+**Labels on file:** 29
 
 ## Uses
 

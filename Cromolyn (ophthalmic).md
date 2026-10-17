@@ -4,7 +4,7 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Cromolyn Sodium  
-**Labels on file:** 4
+**Labels on file:** 3
 
 ## Uses
 

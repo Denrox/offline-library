@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Naproxen Sodium  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 154
+**Labels on file:** 153
 
 **Brand and product names:** Naprelan, Rugby All Day Relief
 

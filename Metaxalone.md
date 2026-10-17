@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Muscle Relaxant  
-**Labels on file:** 58
+**Labels on file:** 57
 
 ## Uses
 

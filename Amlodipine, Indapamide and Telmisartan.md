@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Amlodipine Besylate  
-**Drug class:** Thiazide-like Diuretic, Angiotensin 2 Receptor Blocker  
+**Drug class:** Angiotensin 2 Receptor Blocker, Thiazide-like Diuretic  
 **Labels on file:** 1
 
 **Brand and product names:** Widaplik

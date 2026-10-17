@@ -4,9 +4,9 @@
 
 **Route:** subcutaneous  
 **Drug class:** Leukocyte Growth Factor  
-**Labels on file:** 10
+**Labels on file:** 9
 
-**Brand and product names:** Stimufend, Udenyca, Ziextenzo, Nyvepria, Fulphila, Armlupeg, Fylnetra, Neulasta
+**Brand and product names:** Stimufend, Udenyca, Ziextenzo, Nyvepria, Fulphila, Armlupeg, Fylnetra
 
 ## Uses
 

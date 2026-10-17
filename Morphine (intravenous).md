@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Morphine Sulfate  
-**Labels on file:** 5
+**Labels on file:** 4
 
 ## ⚠ Boxed warning
 

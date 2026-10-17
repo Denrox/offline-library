@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Diethylpropion Hydrochloride  
-**Labels on file:** 23
+**Labels on file:** 22
 
 ## Uses
 

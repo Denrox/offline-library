@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Sulfonamide Antimicrobial, Dihydrofolate Reductase Inhibitor Antibacterial  
-**Labels on file:** 84
+**Labels on file:** 82
 
 **Brand and product names:** Sulfatrim, Sulfameth/trimeth-ds, Sulfamethox-tmp Ds, Bactrim, Bactrim Ds, Sulfamethoxazole and Trimethoprim Ds
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Levocetirizine Dihydrochloride  
-**Labels on file:** 43
+**Labels on file:** 42
 
 **Brand and product names:** Xyzal
 

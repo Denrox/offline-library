@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Aldehyde Dehydrogenase Inhibitor  
-**Labels on file:** 5
+**Labels on file:** 4
 
 ## ⚠ Boxed warning
 

@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Clonidine Hydrochloride  
 **Drug class:** Central alpha-2 Adrenergic Agonist  
-**Labels on file:** 112
+**Labels on file:** 110
 
 **Brand and product names:** Onyda Xr, Qlonilik, Javadin, Nexiclon Xr
 

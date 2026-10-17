@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Drug class:** Sulfonylurea  
-**Labels on file:** 71
+**Labels on file:** 70
 
 ## Uses
 

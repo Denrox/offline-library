@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Esomeprazole Magnesium, Esomeprazole Magnesium Trihydrate, Esomeprazole Magnesium Dihydrate  
 **Drug class:** Proton Pump Inhibitor  
-**Labels on file:** 82
+**Labels on file:** 81
 
 **Brand and product names:** Nexium
 

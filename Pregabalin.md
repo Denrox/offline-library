@@ -3,7 +3,7 @@
 > **Note:** Official U.S. prescribing information, written for health professionals; very long sections are shortened. Take prescription medicines only as prescribed, and never start, stop or change a dose without asking your doctor or pharmacist. Not medical advice.
 
 **Route:** oral  
-**Labels on file:** 227
+**Labels on file:** 226
 
 **Brand and product names:** Lyrica, Pregablin, Lyrica Cr, Pregabalin Capsules, Cv
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Varenicline Tartrate  
-**Labels on file:** 35
+**Labels on file:** 34
 
 **Brand and product names:** Chantix
 

@@ -4,7 +4,7 @@
 
 **Route:** oral  
 **Ingredient forms:** Sertraline Hydrochloride  
-**Labels on file:** 157
+**Labels on file:** 154
 
 **Brand and product names:** Zoloft
 

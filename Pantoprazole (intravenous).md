@@ -4,7 +4,7 @@
 
 **Route:** intravenous  
 **Ingredient forms:** Pantoprazole Sodium  
-**Labels on file:** 27
+**Labels on file:** 26
 
 **Brand and product names:** Protonix I.v., Pantoprazole Sodium I.v.
 
