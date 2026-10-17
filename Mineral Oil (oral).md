@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** oral  
-**Labels on file:** 17
+**Labels on file:** 16
 
-**Also sold as:** Harris Teeter, Fleet, Leader Mineral Oil, Cvs Mineral Oil, Humco Mineral Oil Heavy, Mineral Oil Heavy
+**Also sold as:** Harris Teeter, Leader Mineral Oil, Cvs Mineral Oil, Humco Mineral Oil Heavy, Mineral Oil Heavy
 
 ## Active ingredients
 

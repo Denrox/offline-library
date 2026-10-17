@@ -4,7 +4,7 @@
 
 **Route:** transdermal  
 **Drug class:** Cholinergic Nicotinic Agonist  
-**Labels on file:** 56
+**Labels on file:** 55
 
 **Also sold as:** Habitrol Step 3, Habitrol Step 2, Habitrol Step 1, Nicoderm Cq, Foster and Thrive Step 3, Foster and Thrive Step 2, Foster and Thrive Step 1, Medline, Nicotine Transdermal System, Nicotine Transdermal System Step 1, Nicotine Transdermal System Step 3, Nicotine Transdermal System Step 2, Nicotine Patches, Nicotine Stop Smoking Aid, Sielkin Quit Smoking Nicotine Patches, Sielkin Quit Smoking Nicotine Patches 14mg, Sielkin Quit Smoking Nicotine Patches 21mg, Sefudun Quit Smoking Nicotine Patches, Stpsmk Quit Smoking Nicotine Patches, Nwrb Nicotine Transdermal Patch, Guhio Nicotine Patch, Nicotine Transdermal System Patch Step 3, Nicotine Transdermal System Patch Step 2, Nicotine Transdermal System Patch Step 1, Nicotine Patch and 3 more
 

@@ -4,9 +4,9 @@
 
 **Route:** oral  
 **Ingredient forms:** Pseudoephedrine Hydrochloride, Triprolidine Hydrochloride  
-**Labels on file:** 3
+**Labels on file:** 2
 
-**Also sold as:** Aprodine, Cold and Allergy D
+**Also sold as:** Cold and Allergy D, Aprodine
 
 ## Active ingredients
 

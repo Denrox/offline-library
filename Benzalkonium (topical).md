@@ -4,9 +4,9 @@
 
 **Route:** topical  
 **Ingredient forms:** Benzalkonium Chloride  
-**Labels on file:** 975
+**Labels on file:** 974
 
-**Also sold as:** Biopure Antibacterial Hand Wipe, Moisturizing Antibacterial, Antibacterial Hand Wipe, Hand Wash, Antibacterial, Dove, Germ-away, Klean Freak, Ecolab, Antiseptic Wipe, Zoviro, Antiseptic, Keystone, Foaming Hand, Bzk Antiseptic Towelette, Hand Sanitizer, Bolor Sanitizing Hand Wipes, Ecolab Inc., Handsoap, Swisher, Antiseptic Wipes, Alcohol Free Hand Sanitizer, Bzk Pads, Green Guard Antiseptic Wipes, Antibacterial Wet Wipes and 770 more
+**Also sold as:** Biopure Antibacterial Hand Wipe, Moisturizing Antibacterial, Antibacterial Hand Wipe, Hand Wash, Antibacterial, Dove, Germ-away, Klean Freak, Ecolab, Antiseptic Wipe, Zoviro, Antiseptic, Keystone, Foaming Hand, Bzk Antiseptic Towelette, Hand Sanitizer, Bolor Sanitizing Hand Wipes, Ecolab Inc., Handsoap, Swisher, Antiseptic Wipes, Alcohol Free Hand Sanitizer, Bzk Pads, Green Guard Antiseptic Wipes, Antibacterial Wet Wipes and 769 more
 
 ## Active ingredients
 

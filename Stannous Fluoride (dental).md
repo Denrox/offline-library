@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** dental  
-**Labels on file:** 123
+**Labels on file:** 122
 
-**Also sold as:** Ionite H, Gum Detoxify, Colgate Total Sf Whitening, Colgate Total Sf Clean Mint, Burkhart, Gelato Homecare, Crest Clean Breath Spearmint, Parodontax Complete Protection, Colgate Total Sf Advanced Whitening, Crest Pro-health Gum Detoxify Deep Clean, Sensitivity and Gum, Enamelon Preventive Treatment, Parodontax, Enamelon, Colgate Total Active Prevention Clean Mint, Smilesense, Livfresh Gum Protect, Colgate Total Enamel Strength, Restore and Defend Whitening Tp, Colgate Total Sf Whitening Gel, Natural White Sensitivity and Gum, Crest Pro-health Maximum Cavity Protection, Crest Pro-health Gum Rescue Pro Soothing Clean, Kids Crest Advanced Sugar and Bacteria Shield, Crest Pro-health Gum Detoxify Plus and 84 more
+**Also sold as:** Ionite H, Gum Detoxify, Colgate Total Sf Whitening, Colgate Total Sf Clean Mint, Burkhart, Gelato Homecare, Crest Clean Breath Spearmint, Parodontax Complete Protection, Colgate Total Sf Advanced Whitening, Crest Pro-health Gum Detoxify Deep Clean, Sensitivity and Gum, Enamelon Preventive Treatment, Parodontax, Enamelon, Colgate Total Active Prevention Clean Mint, Smilesense, Livfresh Gum Protect, Colgate Total Enamel Strength, Restore and Defend Whitening Tp, Colgate Total Sf Whitening Gel, Natural White Sensitivity and Gum, Crest Pro-health Maximum Cavity Protection, Crest Pro-health Gum Rescue Pro Soothing Clean, Kids Crest Advanced Sugar and Bacteria Shield, Crest Pro-health Gum Detoxify Plus and 83 more
 
 ## Active ingredients
 

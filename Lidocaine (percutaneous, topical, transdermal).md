@@ -4,9 +4,9 @@
 
 **Route:** percutaneous, topical, transdermal  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 7
+**Labels on file:** 6
 
-**Also sold as:** Salonpas Lidocaine Pain Relieving, Theracare Lidocaine Pain Relief, Theracare Pain Relief 4% Lidocaine, Salonpas Pain Relieving Lidocaine 4% Flex, Healthwise Lidocaine Pain Relief, Welmate Lidocaine Pain Relieving Patch
+**Also sold as:** Salonpas Lidocaine Pain Relieving, Theracare Lidocaine Pain Relief, Theracare Pain Relief 4% Lidocaine, Healthwise Lidocaine Pain Relief, Welmate Lidocaine Pain Relieving Patch
 
 ## Active ingredients
 

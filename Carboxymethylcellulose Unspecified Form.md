@@ -4,9 +4,9 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Carboxymethylcellulose Sodium, Unspecified Form  
-**Labels on file:** 12
+**Labels on file:** 10
 
-**Also sold as:** Lubricant Eye, Rain Renewal Eye Drops, Theratears, Lubricating Tears, Family Care Single Use Lubricant Eye Drop 0.4ml 30ct, Theratears Extra, Theratears Lubricant, Medi-first Lubricant Eye Drops, Good Neighbor Pharmacy Lubricant Eye Drops
+**Also sold as:** Lubricant Eye, Rain Renewal Eye Drops, Theratears, Lubricating Tears, Family Care Single Use Lubricant Eye Drop 0.4ml 30ct, Medi-first Lubricant Eye Drops, Good Neighbor Pharmacy Lubricant Eye Drops
 
 ## Active ingredients
 

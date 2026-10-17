@@ -5,7 +5,7 @@
 **Route:** oral  
 **Ingredient forms:** Pseudoephedrine Hydrochloride  
 **Drug class:** Nonsteroidal Anti-inflammatory Drug  
-**Labels on file:** 12
+**Labels on file:** 11
 
 **Also sold as:** Advil Cold and Sinus
 

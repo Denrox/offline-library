@@ -4,9 +4,9 @@
 
 **Route:** ophthalmic  
 **Ingredient forms:** Carboxymethylcellulose Sodium, Unspecified  
-**Labels on file:** 7
+**Labels on file:** 6
 
-**Also sold as:** Lubricant Drops, Eye Drops, Refresh Liquigel, Retaine Cmc, Dry Eye Relief, Green Guard Lubricant Eye Drops, Theratears Extra
+**Also sold as:** Lubricant Drops, Eye Drops, Refresh Liquigel, Retaine Cmc, Dry Eye Relief, Green Guard Lubricant Eye Drops
 
 ## Active ingredients
 

@@ -5,9 +5,9 @@
 **Route:** topical  
 **Ingredient forms:** Lidocaine Hydrochloride  
 **Drug class:** Amide Local Anesthetic, Antiarrhythmic  
-**Labels on file:** 37
+**Labels on file:** 36
 
-**Also sold as:** Zylotrol, Terocin, Zylotrol Pain Relieving, Lidozen, Lidozen Gel, Lidozen Patch, Icy Hot, Walgreens Cool N Heat Patch, Mamisan, Pure-aid, Careland Kinesiology Dual Action Pain Relieving Tape, Meijer Cold and Hot Pain Relieving Analgesic, Walgreens Nerve Pain Relieving Topical Analgesic, Triderma Pain Relief, Walgreens Cool N Heat, Topcare Pain Relief Patch, Zims Max Freeze, Tylenol Precise Cooling Pain Relieving, Cold and Heat Lidocaine Patch Plus Menthol, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Balm, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Roll On, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed, Lidocaine Pain Relief Patch, Cvs Lidocaine Pain Relief, Mentholatum Lidocaine Ice and 5 more
+**Also sold as:** Zylotrol, Zylotrol Pain Relieving, Lidozen, Lidozen Gel, Lidozen Patch, Icy Hot, Walgreens Cool N Heat Patch, Mamisan, Terocin, Pure-aid, Careland Kinesiology Dual Action Pain Relieving Tape, Meijer Cold and Hot Pain Relieving Analgesic, Walgreens Nerve Pain Relieving Topical Analgesic, Triderma Pain Relief, Walgreens Cool N Heat, Topcare Pain Relief Patch, Zims Max Freeze, Tylenol Precise Cooling Pain Relieving, Cold and Heat Lidocaine Patch Plus Menthol, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Balm, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed Roll On, Picklebalm Lidocaine with Menthol Arnica Cucumber Seed, Lidocaine Pain Relief Patch, Cvs Lidocaine Pain Relief, Mentholatum Lidocaine Ice and 5 more
 
 ## Active ingredients
 

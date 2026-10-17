@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** dental  
-**Labels on file:** 415
+**Labels on file:** 400
 
-**Also sold as:** Hismile, Bio Spectra Attitude, Euthymol Extraordinary Pink Whitening, Crest Strawberry, Kaylaan, Euthymol Whitening, Colgate Max Fresh Cool Mint, Crest Bubblegum, Crest Cavity Protection Regular, Euthymol Whitening Purple Corrector, Tidalove, Crest Fresh and White, Pop Hint of Mint, Pop Gel Pumpin Strawberry, Pop Gel Whatzzup Watermelon, Crest Plus Tartar Protection Whitening, Burts Bees Kids Strawberry Splash, Pop Feeling Peachy, Colgate Maxfresh Knockout, Crest Cavity Protection Cool Mint Gel, Kids Crest Cavity Protection Sparkle Fun, Himalaya Pink Salt Intensive Whitening Spearmint, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Toothpaste, Mipaste Plus Strawberry, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Vanilla Mint and 308 more
+**Also sold as:** Hismile, Bio Spectra Attitude, Euthymol Extraordinary Pink Whitening, Crest Strawberry, Kaylaan, Euthymol Whitening, Crest Bubblegum, Crest Cavity Protection Regular, Euthymol Whitening Purple Corrector, Tidalove, Crest Fresh and White, Colgate Max Fresh Cool Mint, Pop Hint of Mint, Pop Gel Pumpin Strawberry, Pop Gel Whatzzup Watermelon, Crest Plus Tartar Protection Whitening, Burts Bees Kids Strawberry Splash, Pop Feeling Peachy, Colgate Maxfresh Knockout, Crest Cavity Protection Cool Mint Gel, Kids Crest Cavity Protection Sparkle Fun, Himalaya Pink Salt Intensive Whitening Spearmint, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Toothpaste, Mipaste Plus Strawberry, Himalaya Pink Salt Purple Color Corrector Plus Intensive Whitening Vanilla Mint and 294 more
 
 ## Active ingredients
 

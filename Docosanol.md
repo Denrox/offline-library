@@ -3,7 +3,7 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 70
+**Labels on file:** 69
 
 **Also sold as:** Cold Sore Fever Blister Treatment, Cold Sore Treatment, Cold Sore Fever Blister, Abreva, Julie Cold Sore Treatment, Ishancare Cold Sore Treatment, Amazon Basics Docosanol, Cold Sore Treatment Docosanol
 
@@ -45,7 +45,7 @@ adults and children 12 years or over: wash hands before and after applying cream
 
 ## Other information
 
-TAMPER-EVIDENT: DO NOT USE IF THE SEAL ON THE TUBE IS PUNCTURED OR NOT VISIBLE store between 20° to 25°C (68° to 77°F) do not freeze
+store between 20° to 25°C (68° to 77°F) do not freeze
 
 ## Inactive ingredients
 
@@ -53,4 +53,4 @@ benzyl alcohol, light mineral oil, propylene glycol, purified water, sucrose dis
 
 ---
 
-*Source: FDA drug label via openFDA, label effective 2026-07-27, DailyMed set ID 5079b009-7f34-4d34-8f01-821365f04ca2. Public domain.*
+*Source: FDA drug label via openFDA, label effective 2026-07-20, DailyMed set ID 289e5003-7d08-c141-e063-6394a90abca3. Public domain.*

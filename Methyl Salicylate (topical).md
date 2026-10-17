@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 41
+**Labels on file:** 39
 
-**Also sold as:** Veneno De Abeja Aceite De Vibora Brand, La Flecha Japonesa, Avon Footworks Arthritis Achy Foot and Muscle, Methylten, Balsamo De Vaca Mascura, Methylten 25% Pain Relieving, Dr Sabharwals, Beevenom, Avon Foot Works Arthritis Achy Foot and Muscle, Kofal Original, Kofal Fuerte, Koong Yick Hung Fa, Kofal, Ling Nam Hung Far, Hysan Hua Tuo Medicated, Abejas Y Viboras Roll On, Flexsport Roll On, Ted and Gregs Pain Rub with Resveratrol Topical Analgesic, Herb Street Sore Muscle Relief, Milagroso, Ubredol, Methyl Salicylate 40% Topical Oil, Methyl Salicylate 30 Percent Cream, Methyl Salicylate 10% Pain Relieving, Methyl Salicylate 25% Pain Relieving and 2 more
+**Also sold as:** Veneno De Abeja Aceite De Vibora Brand, La Flecha Japonesa, Avon Footworks Arthritis Achy Foot and Muscle, Methylten, Balsamo De Vaca Mascura, Methylten 25% Pain Relieving, Dr Sabharwals, Beevenom, Avon Foot Works Arthritis Achy Foot and Muscle, Kofal Original, Kofal Fuerte, Koong Yick Hung Fa, Kofal, Ling Nam Hung Far, Hysan Hua Tuo Medicated, Abejas Y Viboras Roll On, Flexsport Roll On, Ted and Gregs Pain Rub with Resveratrol Topical Analgesic, Herb Street Sore Muscle Relief, Methyl Salicylate 40% Topical Oil, Methyl Salicylate 30 Percent Cream, Methyl Salicylate 10% Pain Relieving, Methyl Salicylate 25% Pain Relieving, Methyl Salicylate 40 Percent, Methyl Salicylate 25 Percent
 
 ## Active ingredients
 

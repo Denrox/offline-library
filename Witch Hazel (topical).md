@@ -3,9 +3,9 @@
 > **Note:** Official U.S. label text. Doses and directions differ between products and strengths (for example adult tablets and children's liquids): always follow the label of the product you have. Not medical advice; ask a pharmacist or doctor if unsure.
 
 **Route:** topical  
-**Labels on file:** 91
+**Labels on file:** 90
 
-**Also sold as:** Tucks Medicated Cooling Pads, Preparation H Medicated Wipes, Medicated Hemorrhoidal Pads, Medicated Multipurpose Wipes, Pura, Preparation H Totables Irritation Relief Wipes, Dr Talbots Cooling Perineal Pad, Qc Medicated Cooling, Up and Up Medicated Wipes Manixim Strength, Cooling Perineal Pad Liners, Geri Care Medicated Pads, The Pharma-c Company Medicated Hemorrhoidal Pads, Norms Medicated Wipes, Dr Butlers Hemorrhoid, Family Wellness Medicated Hemorrhoidal Wipes, Flushable Hemorrhoidal Medicated Wipes Maximum Strength, Meicated Wipe, Preparation H Soothing Relief Cleansing and Cooling Wipes, Hemorrhoidal Pads, Goodsense Maximum Strength Medicated, Norms Hemorrhoid Wipes, Good Sense Medicated, Frida Mom Perineal Healing, Maximum Strength Hemorrhoidal Pads, Humphreys Maravilla and 32 more
+**Also sold as:** Tucks Medicated Cooling Pads, Preparation H Medicated Wipes, Medicated Hemorrhoidal Pads, Medicated Multipurpose Wipes, Pura, Preparation H Totables Irritation Relief Wipes, Dr Talbots Cooling Perineal Pad, Qc Medicated Cooling, Up and Up Medicated Wipes Manixim Strength, Cooling Perineal Pad Liners, Geri Care Medicated Pads, The Pharma-c Company Medicated Hemorrhoidal Pads, Norms Medicated Wipes, Dr Butlers Hemorrhoid, Family Wellness Medicated Hemorrhoidal Wipes, Flushable Hemorrhoidal Medicated Wipes Maximum Strength, Meicated Wipe, Preparation H Soothing Relief Cleansing and Cooling Wipes, Hemorrhoidal Pads, Goodsense Maximum Strength Medicated, Good Sense Medicated, Frida Mom Perineal Healing, Maximum Strength Hemorrhoidal Pads, Humphreys Maravilla, Perineal Cooling Liners and 31 more
 
 ## Active ingredients
 
